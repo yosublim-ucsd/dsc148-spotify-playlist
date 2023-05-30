@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-260 songs - 23 hr 23 min
+261 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Captain’s Song](https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Captain's Song](https://open.spotify.com/album/4lBMwEwdX3BnjM74nbyRme) | 5:22 | 2020-04-17 | 2022-07-29 |
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
-| [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 | 2023-03-16 |  |
+| [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 | 2023-03-16 | 2023-05-30 |
 | [Cinquantuno](https://open.spotify.com/track/6Gx9ztDiJ3mcMEHO96w6Kb) | [Giovanni Mirabassi](https://open.spotify.com/artist/2mK36NvkRcFIKPyC9uL6C3), [Guillaume Perret](https://open.spotify.com/artist/7dUD0CbwQ1JQb1H0ovHjUZ), [Clément Daldosso](https://open.spotify.com/artist/7ChdS9uiipYzHA8c36AWS8), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [The Swan and the Storm](https://open.spotify.com/album/60nuEk5nHYmDoTh0Ed7gxg) | 8:27 | 2022-10-27 |  |
 | [Clifford Notes](https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 8:46 | 2022-05-25 |  |
 | [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 | 2022-11-12 |
@@ -126,6 +126,7 @@
 | [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 | 2022-11-12 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 | 2020-03-31 | 2022-05-11 |
 | [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-18 |  |
+| [Like Someone In Love](https://open.spotify.com/track/5aQgWuYF4U6N1XDuk0fcol) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Like Someone In Love](https://open.spotify.com/album/7r0miSdrDBxHOfzHCXPYBj) | 3:44 | 2023-05-25 |  |
 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 | 2022-02-18 | 2022-08-31 |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2022-11-12 | 2022-12-24 |
 | [London Blues](https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Introducing Brad Mehldau](https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1) | 7:02 | 2020-03-31 |  |

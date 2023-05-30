@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,780 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,826 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

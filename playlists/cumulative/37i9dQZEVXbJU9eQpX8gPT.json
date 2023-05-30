@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -3572,6 +3572,10 @@
         {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
         }
       ],
       "date_added": "2023-05-27",
@@ -5512,7 +5516,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -6558,7 +6562,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 197785,
       "name": "FORSSA",
       "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
@@ -11822,7 +11826,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 180763,
       "name": "Makhelaw magalou",
       "url": "https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw"
@@ -12302,7 +12306,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 214360,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -17240,7 +17244,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 182961,
       "name": "SME3NI",
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
@@ -19893,6 +19897,32 @@
     },
     {
       "album": {
+        "name": "GHETTO STAR",
+        "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
+      },
+      "artists": [
+        {
+          "name": "Demon324",
+          "url": "https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177107,
+      "name": "Wassup Fam",
+      "url": "https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -20512,7 +20542,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 130731,
       "name": "Ya Nari",
       "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"

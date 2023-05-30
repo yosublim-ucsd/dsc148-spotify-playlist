@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 178044,
       "name": "Dorado (feat. Sfera Ebbasta & Feid)",
       "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
@@ -3266,6 +3266,32 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "album": {
+        "name": "OFFLINE (feat. VillaBanks)",
+        "url": "https://open.spotify.com/album/4IqPSH11Jo214e7QycL678"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        },
+        {
+          "name": "Andry The Hitmaker",
+          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "OFFLINE (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/3qlDeIWsa8ihI0iqiUPE52"
     },
     {
       "album": {

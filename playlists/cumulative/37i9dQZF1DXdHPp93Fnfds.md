@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-495 songs - 1 day 4 hr 24 min
+496 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2022-01-14 | 2022-10-14 |
 | [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 | 2023-03-18 |
 | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/track/7LReYLKTIJF7hbRyOuxPvl) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/album/5CjuC09KYMi7FqbVBJHYSc) | 3:47 | 2022-01-21 | 2022-07-25 |
-| [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2022-01-14 |  |
+| [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2022-01-14 | 2023-05-30 |
 | [Qué Más Quieres de Mí](https://open.spotify.com/track/21GNomOYNYf3xoBflp5hlo) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Qué Más Quieres de Mí](https://open.spotify.com/album/50YHt1Y6bHYA3G5uqMaolp) | 5:10 | 2022-01-21 | 2022-07-24 |
 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/6P39XaKGRchk7Ug7jSIWQe) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/1npZZgI8E99ZyQKj9jpPcJ) | 4:13 | 2022-01-21 | 2022-07-12 |
 | [Quédate Conmigo](https://open.spotify.com/track/2PAGL78AFYwlh6wWIL8QZW) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Quédate Conmigo](https://open.spotify.com/album/706qXMe3arkBNE7WRwPlG8) | 3:27 | 2022-01-21 | 2022-07-27 |
@@ -394,6 +394,7 @@
 | [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 | 2023-01-27 | 2023-03-02 |
 | [Roma](https://open.spotify.com/track/6x5GX0efAvoP7UPREJZ7JO) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Roma](https://open.spotify.com/album/4T10MaEXDPURJu82rNHHjp) | 3:25 | 2022-04-01 | 2022-06-17 |
 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-07-30 |
+| [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-05-26 |  |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 | 2023-03-30 |
 | [Rush](https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/58vRiAOoBIOR091LSSvJau) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 | 2022-11-06 |

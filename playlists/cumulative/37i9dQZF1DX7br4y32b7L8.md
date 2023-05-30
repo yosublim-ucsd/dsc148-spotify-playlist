@@ -4,7 +4,7 @@
 
 > Viraal gaan is ook gaan! Cover: Käärijä
 
-159 songs - 8 hr 0 min
+161 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-07 | 2023-05-02 |
 | [All Eyez On Me](https://open.spotify.com/track/0MC0XrSB9VlufcxjajG92k) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF) | [All Eyez On Me](https://open.spotify.com/album/2iDmnDgDaetfIEelbvD0gL) | 3:03 | 2023-02-23 | 2023-04-15 |
 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 | 2023-04-14 | 2023-05-16 |
+| [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-05-29 |  |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-18 |  |
 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 | 2023-02-23 | 2023-03-07 |
 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 | 2023-02-23 | 2023-05-02 |
@@ -44,6 +45,7 @@
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-06 |  |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-02-23 | 2023-03-28 |
+| [Een Aperolletje](https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM) | [De Offsiders](https://open.spotify.com/artist/5H7tPK4zehUJwM5K8czsDz), [Andy Van Der Meijde](https://open.spotify.com/artist/4HVTe60HStIQsAlofkW9Ff), [Wesley Sneijder](https://open.spotify.com/artist/23Uo7jJGqKzrIwrtkvRk2m), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Een Aperolletje](https://open.spotify.com/album/7J6utnaaB0HDRg1ByWMWbB) | 4:03 | 2023-05-29 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-04-20 |  |
 | [En Die Dingen Daar](https://open.spotify.com/track/5347LKOoRWFJxvxQY2SEAa) | [Naro](https://open.spotify.com/artist/5Kv6rQa5K5N440P21T9a0Y) | [En Die Dingen Daar](https://open.spotify.com/album/3Xh4eGqrVaSGTVtdvhgkv2) | 2:13 | 2023-03-24 |  |
 | [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-03-16 |  |

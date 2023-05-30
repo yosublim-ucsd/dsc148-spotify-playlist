@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,505 songs - 5 day 14 hr 38 min
+3,506 songs - 5 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2632,6 +2632,7 @@
 | [Shibui](https://open.spotify.com/track/6mkFksL2DFhnnisQDnrghF) | [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Shibui](https://open.spotify.com/album/1VOCzzLJG8O8X0FDVAgUAn) | 2:12 | 2022-03-24 | 2022-04-29 |
 | [Shibuya Station](https://open.spotify.com/track/16mlaFRQkpfUxlrg1OWWZa) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Shibuya Station](https://open.spotify.com/album/2Li1FntMdbzK1qT57uL90w) | 2:15 | 2022-07-14 | 2022-11-21 |
 | [Shibuya Station](https://open.spotify.com/track/3RPsh6RCp4bkxjjO2yZ0x1) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Shibuya Station](https://open.spotify.com/album/3xs9Rb77LJHgoGjkm64sGz) | 2:15 | 2022-11-17 | 2023-03-31 |
+| [Shifting](https://open.spotify.com/track/2cqRX0uxo6uIpIJ7yldWTS) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Shifting](https://open.spotify.com/album/0mnNmC66toxcz8yGMElBBY) | 1:42 | 2023-05-25 |  |
 | [Shine](https://open.spotify.com/track/3KhuRg1cK2NSGFBG1D5SRg) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6) | [Shine](https://open.spotify.com/album/7Fs7MsqeMY4dlEKm2jrSVb) | 1:54 | 2020-06-05 | 2020-08-08 |
 | [Shine](https://open.spotify.com/track/5d5HawCcm7tFx1OqFRflSN) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Shine](https://open.spotify.com/album/3DAkFNSMSS8MmxHWwN329D) | 1:48 | 2023-04-20 |  |
 | [Ship Has Sailed](https://open.spotify.com/track/28ZSHQYTUVoVVu3tMHf6Q3) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Black Tea EP](https://open.spotify.com/album/6fsSRJ7H3RGJ5nvzQJh28f) | 3:16 | 2021-07-04 | 2021-09-10 |
@@ -3454,7 +3455,7 @@
 | [With You](https://open.spotify.com/track/6WAlH9EjWmonX5AQWSYX7K) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [With You](https://open.spotify.com/album/6KFCowhSiHSUUpp06yPcWL) | 3:23 | 2021-10-08 | 2021-11-12 |
 | [With Your Toes Dipped In](https://open.spotify.com/track/2YfBGI5vd7gfiQ9VRbrrPT) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Thoreau](https://open.spotify.com/artist/0mXq227LEoIqWSv4bTuGe2) | [With Your Toes Dipped In](https://open.spotify.com/album/1Ih9BAvSM69zT8hFn4yKYR) | 2:21 | 2021-07-30 | 2021-08-13 |
 | [With\(out\) You](https://open.spotify.com/track/4gcGtTNHCu3u98zmYyF0iC) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Aperitivo](https://open.spotify.com/album/5CHVzPfi1ENxlYlGU9RruZ) | 1:50 | 2021-09-24 | 2021-11-12 |
-| [Withered Flowers](https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Withered Flowers](https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8) | 1:37 | 2022-11-17 |  |
+| [Withered Flowers](https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Withered Flowers](https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8) | 1:37 | 2022-11-17 | 2023-05-30 |
 | [Without You](https://open.spotify.com/track/5OxW1UtWzcCxpixf4UUZFg) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Without You](https://open.spotify.com/album/0znlOAcX9oDvkC2mBjgOpc) | 2:32 | 2020-09-04 | 2021-02-06 |
 | [Without You](https://open.spotify.com/track/0g52f9P5ayxN6hHv7z9q8Y) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Without You](https://open.spotify.com/album/34PZjsdCEGoARjSl1rNyF5) | 2:02 | 2023-05-05 | 2023-05-19 |
 | [WithoutU](https://open.spotify.com/track/4H6oPYg7sOleIhqw2LTpY3) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [WithoutU](https://open.spotify.com/album/2coryi3G3CfRwUDKNTijM8) | 1:49 | 2020-10-16 | 2021-05-21 |

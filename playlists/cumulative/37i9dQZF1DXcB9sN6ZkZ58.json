@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Songs We Love to Sing",
+        "url": "https://open.spotify.com/album/21zqL2osz6mPQY4sFgvdG1"
+      },
+      "artists": [
+        {
+          "name": "Lucy and Her Pals",
+          "url": "https://open.spotify.com/artist/5NLrUBxk4nUxfSPIIolh6J"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126013,
+      "name": "Jelly on a Plate",
+      "url": "https://open.spotify.com/track/7nXMVGLRRUns0MV3Cd66OL"
+    },
+    {
+      "album": {
         "name": "Children's Sing Along Time",
         "url": "https://open.spotify.com/album/2WgYgtWq5OBar4M21XVzD0"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 126693,
       "name": "Jelly On A Plate",
       "url": "https://open.spotify.com/track/76urTUQpOsUmi9nM8fqI5y"

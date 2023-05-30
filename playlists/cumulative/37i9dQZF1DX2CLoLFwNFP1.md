@@ -2,9 +2,9 @@
 
 ### [This Is Jay Park](https://open.spotify.com/playlist/37i9dQZF1DX2CLoLFwNFP1)
 
-> The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
+> 
 
-249 songs - 15 hr 17 min
+250 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Call You Bae](https://open.spotify.com/track/0pdKEjHWRpjnRD6jV9ztNf) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [This Wasn’t Supposed To Happen](https://open.spotify.com/album/5OAxXcMZYsAxfTagsZ63vO) | 2:34 | 2022-04-20 | 2022-07-22 |
 | [Came Up](https://open.spotify.com/track/5wz4SsrEjTJSBa18myF349) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [B.A.R.S \(Vol\. 1\)](https://open.spotify.com/album/2kEVMjMVLWxZJWpFgIxX8T) | 3:00 | 2022-04-20 | 2022-08-03 |
 | [Came Up \(feat\. Jay Park\)](https://open.spotify.com/track/3IkYQjapZOMnWhMq8bXVMp) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [B.A.R.S, Vol\. 1](https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO) | 3:00 | 2022-08-02 |  |
+| [Candy \(Feat\. Zion.T\)](https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Candy](https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa) | 3:06 | 2023-05-29 |  |
 | [Clap \(feat\. Tiger JK & Tasha\)](https://open.spotify.com/track/3xhpwRD3wCUR1KejUmREdR) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [New Breed](https://open.spotify.com/album/6AKe9ZKXKF23ydgTKDQL9L) | 4:13 | 2022-04-20 | 2022-07-14 |
 | [Dank](https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:18 | 2022-04-20 | 2022-08-03 |
 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 | 2022-08-02 |  |
@@ -231,7 +232,7 @@
 | [WITCH \(Feat\. Jay Park, So!YoON!\) \(Prod\. by Slom\)](https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SHOW ME THE MONEY 11 Semi Final](https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx) | 4:02 | 2023-01-02 |  |
 | [World Domination](https://open.spotify.com/track/4JycMG52t1cSwtw0lrFVWP) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/6EjlgbbBDKAqulx1GSz50o) | 3:42 | 2022-04-20 | 2022-07-25 |
 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 | 2022-08-02 |  |
-| [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 | 2022-08-02 |  |
+| [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 | 2022-08-02 | 2023-05-30 |
 | [Yacht \(feat\. Vic Mensa\)](https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:18 | 2022-04-20 |  |
 | [YACHT \(k\) \(Feat\. Sik\-K\)](https://open.spotify.com/track/57ziFwpzuFkJi5nP91qnl4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [YACHT](https://open.spotify.com/album/6EOH7UFeHjwhZERVQdzaoT) | 4:06 | 2022-08-02 |  |
 | [Yacht \(K\) \[feat\. Sik\-K\]](https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Yacht \(K\) \(feat\. Sik\-K\)](https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl) | 4:06 | 2022-04-20 | 2022-08-03 |

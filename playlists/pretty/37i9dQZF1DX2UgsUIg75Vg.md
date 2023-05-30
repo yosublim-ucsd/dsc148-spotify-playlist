@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Maeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,331,884 likes - 151 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,332,394 likes - 151 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

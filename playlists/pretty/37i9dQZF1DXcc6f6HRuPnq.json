@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 83004,
+  "num_followers": 83418,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -227,6 +223,26 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 241493,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 170320,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -323,6 +323,38 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Power of the Blues",
+        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 244346,
+      "name": "That's Why I Play the Blues",
+      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -339,22 +371,6 @@
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -407,22 +423,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Power of the Blues",
-        "url": "https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 244346,
-      "name": "That's Why I Play the Blues",
-      "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
         "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -543,18 +559,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
+      "duration_ms": 516533,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -639,22 +659,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "The Delta Meets Detroit: Aretha's Blues",
         "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
       },
@@ -667,6 +671,22 @@
       "duration_ms": 290106,
       "name": "Night Time Is the Right Time",
       "url": "https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -915,22 +935,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Siftin' Thru Ashes",
         "url": "https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3"
       },
@@ -943,6 +947,22 @@
       "duration_ms": 396320,
       "name": "Lights Are On, But Nobody's Home",
       "url": "https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -975,6 +995,22 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Ike & Tina Turner - The Complete Collection",
+        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Suffering The Blues",
+      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1027,26 +1063,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Scream, Holler & Howl",
-        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
-      },
-      "artists": [
-        {
-          "name": "Blue Moon Marquee",
-          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
-        },
-        {
-          "name": "Duke Robillard",
-          "url": "https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA"
-        }
-      ],
-      "duration_ms": 353053,
-      "name": "Another Night to Cry",
-      "url": "https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Major League Blues",
         "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
       },
@@ -1095,34 +1111,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Ike & Tina Turner - The Complete Collection",
-        "url": "https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2"
+        "name": "Scream, Holler & Howl",
+        "url": "https://open.spotify.com/album/2O4UtUWk424YdTbJbf4TmJ"
       },
       "artists": [
         {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Suffering The Blues",
-      "url": "https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Wish Her Well",
-        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
-      },
-      "artists": [
+          "name": "Blue Moon Marquee",
+          "url": "https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1"
+        },
         {
-          "name": "Emma Wilson",
-          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+          "name": "Duke Robillard",
+          "url": "https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA"
         }
       ],
-      "duration_ms": 263037,
-      "name": "Wish Her Well",
-      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
+      "duration_ms": 353053,
+      "name": "Another Night to Cry",
+      "url": "https://open.spotify.com/track/49awu7g0tzOjAL2dygxYbC"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1143,6 +1147,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Wish Her Well",
+        "url": "https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c"
+      },
+      "artists": [
+        {
+          "name": "Emma Wilson",
+          "url": "https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2"
+        }
+      ],
+      "duration_ms": 263037,
+      "name": "Wish Her Well",
+      "url": "https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Big City Blues",
         "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
       },
@@ -1159,22 +1179,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
         }
       ],
-      "duration_ms": 516533,
-      "name": "Three O'Clock Blues",
-      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
+      "duration_ms": 420181,
+      "name": "Weak Days",
+      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 229266,
       "name": "Double Lovin\u00b4",
       "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 420181,
-      "name": "Weak Days",
-      "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
     },
     {
       "added_at": "2023-04-14 00:01:00",

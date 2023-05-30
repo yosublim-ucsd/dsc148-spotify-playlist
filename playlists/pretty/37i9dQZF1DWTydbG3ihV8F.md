@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTydbG3ihV8F.md) - [plain]
 
 > <a href="spotify:artist:6bxLLapj6NByiP5cr6jMeK">Matthias Tanzmann'</a>s Deep & Tech House influences have never sounded better than in his latest mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 17 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 798 likes - 17 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

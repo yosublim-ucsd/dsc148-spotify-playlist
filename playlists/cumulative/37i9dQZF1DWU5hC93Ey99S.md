@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-104 songs - 5 hr 49 min
+106 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2023-04-13 |  |
 | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm) | 2:20 | 2023-05-26 |  |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 |  |
+| [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-04-27 |  |
 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 | 2023-04-13 |  |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-05-04 |  |
 | [feelslikewerefalling](https://open.spotify.com/track/5AQTaXJSHYCBnqDXcX0Qpu) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [feelslikewerefalling](https://open.spotify.com/album/0n8vdluADIPcKgDqKihrns) | 3:12 | 2023-05-18 |  |
 | [Find a Way](https://open.spotify.com/track/4npcaX8c3wKVKXbkdrMWPu) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py) | [Find a Way](https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda) | 2:16 | 2023-04-27 |  |
 | [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 | 2023-05-26 |  |
-| [follow you](https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [follow you](https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL) | 3:04 | 2023-04-27 |  |
+| [follow you](https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [follow you](https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL) | 3:04 | 2023-04-27 | 2023-05-30 |
 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 |  |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-04-13 | 2023-05-03 |
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-04-21 |  |
@@ -41,7 +42,7 @@
 | [goldeneye 007](https://open.spotify.com/track/6DeccmTFZxuJ7nv7Cx2GFe) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [nintendo 64](https://open.spotify.com/album/00nsuf3f7BVivDVU7ZNmpT) | 2:05 | 2023-04-27 |  |
 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 | 2023-04-13 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-13 |  |
-| [hold on](https://open.spotify.com/track/6lJEvqDWccR6tQdb9jpG4o) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [with friends](https://open.spotify.com/album/0VuZYhSFTWFfRYkdGiG3z6) | 2:01 | 2023-04-27 |  |
+| [hold on](https://open.spotify.com/track/6lJEvqDWccR6tQdb9jpG4o) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [with friends](https://open.spotify.com/album/0VuZYhSFTWFfRYkdGiG3z6) | 2:01 | 2023-04-27 | 2023-05-30 |
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-04-13 |  |
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 |  |
 | [I CAN'T STOP](https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W) | [ASTRO](https://open.spotify.com/artist/5kZk6YdVhp9mtEyzhDxRqj) | [I CAN'T STOP](https://open.spotify.com/album/7j6c2keRodBMXiZExqLaQm) | 3:06 | 2023-05-26 |  |
@@ -93,6 +94,7 @@
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-04 |  |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 |  |
 | [Swelter](https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Patchouli](https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU) | 4:25 | 2023-04-27 |  |
+| [TAKE ME HIGHER](https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [REGULARITY](https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S) | 2:53 | 2023-05-26 |  |
 | [talk](https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [talk](https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF) | 3:10 | 2023-04-27 |  |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-04-13 |  |
 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 | 2023-04-13 |  |

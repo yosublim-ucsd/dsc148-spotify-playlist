@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo & Lily Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,126 likes - 133 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,413 likes - 133 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

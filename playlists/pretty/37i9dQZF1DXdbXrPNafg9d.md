@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278,337 likes - 175 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,469 likes - 175 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Strut to electronic tracks that grace the runways everywhere.",
+  "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
   "name": "Runway",
   "tracks": [
     {
@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 271620,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 209555,
       "name": "Jam Fam - Chanel Show Version",
       "url": "https://open.spotify.com/track/5jnyeC8SjI3vUOtstA5kZy"

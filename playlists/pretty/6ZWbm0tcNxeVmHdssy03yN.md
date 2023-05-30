@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,243 likes - 93 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,256 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 7 | [HOPE U READY!](https://open.spotify.com/track/4bv8Oygs8ybe27SzzyXgQh) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [HOPE U READY!](https://open.spotify.com/album/3pH3di8O20Ac7DmKaQ7N6p) | 2:17 |
 | 8 | [Heartbreak Baby](https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Heartbreak Baby](https://open.spotify.com/album/6Fd84hpMmLeOsrngWNKW1L) | 3:37 |
 | 9 | [Easy\-S \- Fugitivo Vol\. 21](https://open.spotify.com/track/4xAteJ6GiJilHcdHGf5wT4) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Easy\-S](https://open.spotify.com/artist/4oNsvVnFz4HQ0UPpPFSuJX) | [Easy\-S \- Fugitivo Vol\. 21](https://open.spotify.com/album/1ILKlPxp10ejg3RozBev8K) | 1:59 |
-| 10 | [Sola](https://open.spotify.com/track/3YnHwrHoQGmNn7sMtvDhLs) | [Jader Mantilla](https://open.spotify.com/artist/3ok6Is9hlTaZszhCaPEQv6), [Yango](https://open.spotify.com/artist/7s9O8HA0QDFapkrFAYJ3kf), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj), [Neuro](https://open.spotify.com/artist/4CqSmXN6mvs1YrbQihUL9J) | [Sola](https://open.spotify.com/album/5ORXn9tYXbB3FL2YB4VN8K) | 3:15 |
+| 10 | [Sola](https://open.spotify.com/track/3YnHwrHoQGmNn7sMtvDhLs) | [Jader Mantilla](https://open.spotify.com/artist/3ok6Is9hlTaZszhCaPEQv6), [Yango](https://open.spotify.com/artist/7s9O8HA0QDFapkrFAYJ3kf), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj), [NeURO](https://open.spotify.com/artist/1dwEsns205j4fqya0jZNq7) | [Sola](https://open.spotify.com/album/5ORXn9tYXbB3FL2YB4VN8K) | 3:15 |
 | 11 | [All I Need](https://open.spotify.com/track/0oU2aqAi94SBHPEhMKatwQ) | [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [All I Need](https://open.spotify.com/album/3y7iz8IkQlRfv0L3PyyAkv) | 3:18 |
 | 12 | [La V](https://open.spotify.com/track/5Xox8dwsDWXb89BfAGsPx5) | [Medina Kid](https://open.spotify.com/artist/0YKjgRidRKLNziQyOhoJfU), [Rokkme](https://open.spotify.com/artist/7E8e4CmH5Vvqt8sC3G2tuU) | [La V](https://open.spotify.com/album/2HdfMqMeJDOS8adtkSchO7) | 2:53 |
 | 13 | [El Plan](https://open.spotify.com/track/34OzOYoUn9NHQ3Puikypd0) | [Última Llave](https://open.spotify.com/artist/78ytAYnU8kgXkhXimv0oJu) | [El Plan](https://open.spotify.com/album/3xFMxMkfMtWLYg4WvV0TYF) | 2:54 |

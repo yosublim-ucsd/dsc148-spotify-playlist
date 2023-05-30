@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,907 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,106 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 10 | [Prodigal](https://open.spotify.com/track/6LjwbDC3LHoYmxbOhGQHnh) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Prodigal](https://open.spotify.com/album/2kBPEOfYZcxBVl636hk9Lk) | 3:54 |
 | 11 | [Homecoming](https://open.spotify.com/track/148EvxZg9NiPKOI5MoeSWn) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:39 |
 | 12 | [JOY](https://open.spotify.com/track/6I9B9nC7FbNVSAIjJzsphX) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Baptized Imagination](https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE) | 4:16 |
-| 13 | [King Jesus](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 |
+| 13 | [King Jesus \(feat\. nobigdyl\)](https://open.spotify.com/track/2ZiFqYVqFov05oVA8QQjEP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [King Jesus \(feat\. nobigdyl\)](https://open.spotify.com/album/5YJm6pkNV8vFWjqDc9LNDD) | 2:48 |
 | 14 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 |
 | 15 | [Ain't Playin'](https://open.spotify.com/track/0hKRYFBw0mYz9PCraRVE4t) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 3:43 |
 | 16 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 |

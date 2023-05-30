@@ -1,6 +1,6 @@
 {
   "description": "Psychedelic beat science.",
-  "num_followers": 402512,
+  "num_followers": 403116,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
       },
@@ -187,38 +203,6 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Portishead",
-        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -267,6 +251,22 @@
       "duration_ms": 364453,
       "name": "Suzuki",
       "url": "https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Portishead",
+        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -323,22 +323,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Blue Lines (2012 Mix/Master)",
-        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Blue Lines - 2012 Mix/Master",
-      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Blue Lines (2012 Mix/Master)",
+        "url": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Blue Lines - 2012 Mix/Master",
+      "url": "https://open.spotify.com/track/4tVhBXOhSlqYCL2IjyoUNu"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Sounds From The Thievery Hi Fi (Remastered 2022)",
-        "url": "https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "Shaolin Satellite - Remastered 2022",
-      "url": "https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Jazzanova EP",
         "url": "https://open.spotify.com/album/1gQEEHS7L5RBi5IQvZZs9f"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Sounds From The Thievery Hi Fi (Remastered 2022)",
+        "url": "https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "Shaolin Satellite - Remastered 2022",
+      "url": "https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "The In Sound From Way Out!",
         "url": "https://open.spotify.com/album/0nA01XOVBUoi1zDVVYKz4i"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 212506,
       "name": "Sabrosa",
       "url": "https://open.spotify.com/track/3yOhl93toXcntCqDtAI7iL"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -495,22 +511,6 @@
       "duration_ms": 322586,
       "name": "Journey to Arnhemland",
       "url": "https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "In A Beautiful Place Out In The Country",
-      "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Opera",
         "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 302133,
       "name": "Chocolate Elvis",
       "url": "https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "In A Beautiful Place Out In The Country",
+      "url": "https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 419426,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/7geNHTLjHCBxdg5YlO7gse"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Tone Tales From Tomorrow",
-        "url": "https://open.spotify.com/album/1GZkKCcURaTItobePLur4B"
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
       },
       "artists": [
         {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5"
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -707,6 +691,38 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Tone Tales From Tomorrow",
+        "url": "https://open.spotify.com/album/1GZkKCcURaTItobePLur4B"
+      },
+      "artists": [
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7KQSvoKOECoIdyH5CEIFc5"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 381240,
+      "name": "Deep Shit, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -735,38 +751,6 @@
       "duration_ms": 232160,
       "name": "Christiansands",
       "url": "https://open.spotify.com/track/413DSZdM15Uz3oHHLycuKK"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 381240,
-      "name": "Deep Shit, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Ninja Cuts - Funkjazztical Tricknology",
-        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
-      },
-      "artists": [
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Eine Kleine Hedmusik",
-      "url": "https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -835,38 +819,6 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Original Bedroom Rockers",
-      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "USSR Repertoire / The Theory Of Verticality",
-        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
-      },
-      "artists": [
-        {
-          "name": "DJ Vadim",
-          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "The Next Shit",
-      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
         "name": "Preemptive Strike",
         "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
       },
@@ -895,6 +847,54 @@
       "duration_ms": 428265,
       "name": "The bootleggers",
       "url": "https://open.spotify.com/track/7CUBB5yE9AtXQZANojfUUG"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "Ninja Cuts - Funkjazztical Tricknology",
+        "url": "https://open.spotify.com/album/53H309agelso6rosSg8eKr"
+      },
+      "artists": [
+        {
+          "name": "Coldcut",
+          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Eine Kleine Hedmusik",
+      "url": "https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Original Bedroom Rockers",
+      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
+        "name": "USSR Repertoire / The Theory Of Verticality",
+        "url": "https://open.spotify.com/album/0Af78o9yF8IULqMgW9VoZv"
+      },
+      "artists": [
+        {
+          "name": "DJ Vadim",
+          "url": "https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "The Next Shit",
+      "url": "https://open.spotify.com/track/6pCFuwCRSJgarK4ESzrVtC"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
+        "name": "Lifestyle2 - Chill Lounge Vol 1",
+        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+      },
+      "artists": [
+        {
+          "name": "Bomb The Bass",
+          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
+        },
+        {
+          "name": "Peter Kruder",
+          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
+        },
+        {
+          "name": "Richard Dorfmeister",
+          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+        }
+      ],
+      "duration_ms": 374480,
+      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
+      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
+    },
+    {
+      "added_at": "2021-06-25 10:16:08",
+      "album": {
         "name": "Spill",
         "url": "https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD"
       },
@@ -1099,26 +1123,18 @@
     {
       "added_at": "2021-06-25 10:16:08",
       "album": {
-        "name": "Lifestyle2 - Chill Lounge Vol 1",
-        "url": "https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9"
+        "name": "Hed Phone Sex",
+        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
       "artists": [
         {
-          "name": "Bomb The Bass",
-          "url": "https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6"
-        },
-        {
-          "name": "Peter Kruder",
-          "url": "https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC"
-        },
-        {
-          "name": "Richard Dorfmeister",
-          "url": "https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h"
+          "name": "Funki Porcini",
+          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
         }
       ],
-      "duration_ms": 374480,
-      "name": "Bug Powder Dust - Kruder & Dorfmeister Dub",
-      "url": "https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx"
+      "duration_ms": 441866,
+      "name": "B Monkey",
+      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
     },
     {
       "added_at": "2021-06-25 10:16:08",
@@ -1151,22 +1167,6 @@
       "duration_ms": 381226,
       "name": "What Does Your Soul Look Like, Pt. 1",
       "url": "https://open.spotify.com/track/6mV0YLf8jUgEuIunnDCzUD"
-    },
-    {
-      "added_at": "2021-06-25 10:16:08",
-      "album": {
-        "name": "Hed Phone Sex",
-        "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
-      },
-      "artists": [
-        {
-          "name": "Funki Porcini",
-          "url": "https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw"
-        }
-      ],
-      "duration_ms": 441866,
-      "name": "B Monkey",
-      "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
     },
     {
       "added_at": "2021-06-25 10:16:08",

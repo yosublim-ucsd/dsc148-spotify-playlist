@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > PLAYLIST<br/>Curated by <a href="https://myepiccarnival.com/">EPIC Carnival Experience</a>\- your premium experience to the Greatest Show On Earth\. Featuring the best Soca songs released for Trinidad Carnival 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,839 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,973 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

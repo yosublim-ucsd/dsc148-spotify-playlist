@@ -2,7 +2,7 @@
 
 ### [This Is MINO](https://open.spotify.com/playlist/37i9dQZF1DWWKavYU3DLE1)
 
-> Hear all of MINO's biggest and best hits in one playlist.
+> 
 
 47 songs - 2 hr 37 min
 

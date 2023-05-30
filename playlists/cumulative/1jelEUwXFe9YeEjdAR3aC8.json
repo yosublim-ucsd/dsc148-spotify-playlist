@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Bad Communicator",
+        "url": "https://open.spotify.com/album/57BzNbjOo8ZzmkoymnXKjh"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229765,
+      "name": "Bad Communicator",
+      "url": "https://open.spotify.com/track/400vCzbzkoYeW08ksWdXMJ"
+    },
+    {
+      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -828,6 +846,24 @@
       "duration_ms": 201696,
       "name": "Breathe (Acoustic)",
       "url": "https://open.spotify.com/track/2JdfEXsJlBQ6Gt52MGIpwW"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/3qqeIfazlihpxdBmuT0NQY"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/1e5uIHjmotxVwtQbo6GzVk"
     },
     {
       "album": {
@@ -2231,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "forgive and forget",
+        "url": "https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD"
+      },
+      "artists": [
+        {
+          "name": "Jake Cornell",
+          "url": "https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174155,
+      "name": "forgive and forget",
+      "url": "https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87"
+    },
+    {
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -2296,7 +2350,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 205413,
       "name": "Glitter 2",
       "url": "https://open.spotify.com/track/2NmIwfhMayON6aiKvUlKv2"
@@ -2606,7 +2660,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 173446,
       "name": "handgun",
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
@@ -3100,7 +3154,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 144200,
       "name": "i can't",
       "url": "https://open.spotify.com/track/2vlzRIh23gossTt67W24kB"
@@ -3800,7 +3854,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 201114,
       "name": "Laundry Pile",
       "url": "https://open.spotify.com/track/1GBJZjpI8V0EBBcmWKsy1y"
@@ -4244,7 +4298,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 150312,
       "name": "MAKEUP",
       "url": "https://open.spotify.com/track/0hQvdLE0ONElDmee2cmi1j"
@@ -4302,6 +4356,24 @@
       "duration_ms": 214733,
       "name": "Marlboro Lights",
       "url": "https://open.spotify.com/track/08hDgOQBkKWiD5QI1XGRoO"
+    },
+    {
+      "album": {
+        "name": "Matchmaker",
+        "url": "https://open.spotify.com/album/4TKUMKYMx4AGZqyPEM7DI6"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227744,
+      "name": "Matchmaker",
+      "url": "https://open.spotify.com/track/2JtbeKqIexKBZXu4zu1siA"
     },
     {
       "album": {
@@ -4576,7 +4648,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 172878,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
@@ -5251,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "My Mind Wanders and Sometimes Leaves Completely",
+        "url": "https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216911,
+      "name": "Pretty In Pink",
+      "url": "https://open.spotify.com/track/3CTK1F2sJK524ggTEjGQ9P"
+    },
+    {
+      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU"
       },
@@ -5598,7 +5688,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 192982,
       "name": "Running Free",
       "url": "https://open.spotify.com/track/7I6fsCX92N63RaVk0IjNmi"
@@ -6064,6 +6154,28 @@
       "duration_ms": 256124,
       "name": "Snow On The Beach (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/6ADDIJxxqzM9LMpm78yzQG"
+    },
+    {
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229942,
+      "name": "Snow On The Beach (feat. More Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
     },
     {
       "album": {
@@ -6580,6 +6692,24 @@
       "duration_ms": 194782,
       "name": "That Kinda Girl",
       "url": "https://open.spotify.com/track/7xx7TSQDUl9gsLOH5ZKKWX"
+    },
+    {
+      "album": {
+        "name": "That Part",
+        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174052,
+      "name": "That Part",
+      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
     },
     {
       "album": {
@@ -7106,7 +7236,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 152437,
       "name": "Venting to Strangers",
       "url": "https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA"

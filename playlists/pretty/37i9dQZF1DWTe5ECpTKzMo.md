@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Dharius en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,585 likes - 69 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,418 likes - 69 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

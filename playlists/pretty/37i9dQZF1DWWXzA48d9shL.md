@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,380 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,456 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 6 | [Easter Pink](https://open.spotify.com/track/4GSOrzdPw00JS2aB2dAkSi) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Easter Pink](https://open.spotify.com/album/4zvl90HgnIRiO1sBRUPmf9) | 2:34 |
 | 7 | [wake up, choose violence](https://open.spotify.com/track/34Ggy1FcOxgFOCtjNaSZK3) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [wake up, choose violence](https://open.spotify.com/album/36J22fA0xZ474oPylmI92M) | 2:54 |
 | 8 | [456 \(FREESTYLE\)](https://open.spotify.com/track/03SH0B5uTEeiOqGQg3TXoX) | [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [456 \(FREESTYLE\)](https://open.spotify.com/album/05ZPaRg4xcVaMJsBRYQe3C) | 1:42 |
-| 9 | [XTC](https://open.spotify.com/track/1zv9AJbiLS7PhtsGVx8oro) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/17ZzioB5rmp2kddwGnUbrG) | 1:52 |
+| 9 | [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 |
 | 10 | [Bloody 98 \(feat\. Ghostemane\)](https://open.spotify.com/track/48P5W4nVpguobOWSY7HNxg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [YIN YANG TAPES: Summer Season \(1989\-1990\)](https://open.spotify.com/album/6hRJl2spj8CQ7PRLdyNc3f) | 4:37 |
 | 11 | [DEAD SPACE](https://open.spotify.com/track/5PTrghejwHIxIQOjEZpjQg) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [DEAD SPACE](https://open.spotify.com/album/2zlWB2iozGBUV8LWEa8RMP) | 2:17 |
 | 12 | [MK Plus Ultra](https://open.spotify.com/track/4jfsYlMJM9hZNbIWVczbJq) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [MK Plus Ultra](https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg) | 2:10 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 27 | [Big Shot Cream Soda](https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Big Shot Cream Soda](https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb) | 3:15 |
 | 28 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
 | 29 | [flowers by her grave](https://open.spotify.com/track/4MQT5ai1Jk0oZjrxnSpMU9) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj) | [flowers by her grave](https://open.spotify.com/album/4N5RtPcGOwTzDvnIkaY58R) | 2:35 |
-| 30 | [TOXIC](https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O) | 1:24 |
+| 30 | [TOXIC](https://open.spotify.com/track/1VDMwC7FdXCbeVCpeKUYjg) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [MENACE TO SOCIETY](https://open.spotify.com/album/1d6zYSMdMycQgpdwNUsORs) | 1:24 |
 | 31 | [SLOW DEATH](https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [SLOW DEATH](https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV) | 2:15 |
 | 32 | [1 BILLION STREAMS \(GOD IN THE MOSHPIT\)](https://open.spotify.com/track/0n3hr6cCiaPAdoEVdvZWIp) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [1 BILLION STREAMS \(GOD IN THE MOSHPIT\)](https://open.spotify.com/album/0YgWCLDiKIATF0izHt06wy) | 2:43 |
 | 33 | [GYOZA](https://open.spotify.com/track/6kXhGr5BFBPBcfdIE9rK1X) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [GYOZA](https://open.spotify.com/album/4Io8EBHyHFxZrbk72BuC9X) | 2:32 |

@@ -1,6 +1,6 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 100423,
+  "num_followers": 100729,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-05-28 01:14:04",
+      "added_at": "2023-05-30 01:48:10",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
       },
@@ -579,8 +595,24 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "The Covers Record",
+        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Sea of Love",
+      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
@@ -588,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -607,22 +639,6 @@
       "duration_ms": 215293,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "The Covers Record",
-        "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Sea of Love",
-      "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -719,22 +735,6 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Early Music",
         "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Fleet Foxes",
-        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "Tiger Mountain Peasant Song",
-      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Every Single Night",
-      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Begin to Hope (Special Edition)",
         "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
       },
@@ -1091,6 +1059,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "Tiger Mountain Peasant Song",
+      "url": "https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "The Glow, Pt. 2",
         "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 332880,
       "name": "I Want Wind to Blow",
       "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Every Single Night",
+      "url": "https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Elephant Gun",
         "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Alright, Still (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
         }
       ],
-      "duration_ms": 192333,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+      "duration_ms": 223133,
+      "name": "With Arms Outstretched",
+      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Execution Of All Things",
-        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd"
       },
       "artists": [
         {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 223133,
-      "name": "With Arms Outstretched",
-      "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
+      "duration_ms": 198093,
+      "name": "Oh to Be in Love",
+      "url": "https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1295,22 +1311,6 @@
       "duration_ms": 208520,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2CQZalbSGicedttPGtY06n"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Oh to Be in Love",
-      "url": "https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4"
     },
     {
       "added_at": "2023-03-14 21:50:42",

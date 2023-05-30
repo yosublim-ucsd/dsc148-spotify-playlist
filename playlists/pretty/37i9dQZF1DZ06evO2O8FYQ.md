@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 9 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 |
 | 10 | [Stupid Heavy Metal Broken Hearted Loser Punk](https://open.spotify.com/track/0GqdnBuiNOIqMd8R4RDWEx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 |
 | 11 | [Arizona Waiting](https://open.spotify.com/track/2fAILrDcZY2MGkduWxXuok) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:04 |
-| 12 | [Friend of Mine](https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:19 |
+| 12 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 |
 | 13 | [Hanging by a Thread](https://open.spotify.com/track/531CCqquFFRIADRMcObVrz) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:34 |
 | 14 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 |
 | 15 | [Draw a Line](https://open.spotify.com/track/6xdVonW6VUcQsqsQrr5voE) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:55 |
-| 16 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 |
-| 17 | [In My Room](https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:16 |
+| 16 | [Friend of Mine](https://open.spotify.com/track/7MymHLfjUkw9udMaMjqSOp) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 2:19 |
+| 17 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 |
 | 18 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 |
 | 19 | [Heather](https://open.spotify.com/track/2X2WIIVRYQqeOkczFUzP92) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:55 |
 | 20 | [Nothing Personal](https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:43 |
-| 21 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 |
+| 21 | [In My Room](https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:16 |
 | 22 | [Celebrity Mansions](https://open.spotify.com/track/2cGYrleMCxBKTYbsiGXF56) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:38 |
 | 23 | [White T\-Shirt and Jeans](https://open.spotify.com/track/6DqehBSiRdtI3qvEeAcUk3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:14 |
 | 24 | [Gimme Something](https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 1:38 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 27 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 |
 | 28 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 |
 
-Snapshot ID: `MjgwODY1NDUsMDAwMDAwMDBmOTcwYzY5M2RhZWU3ZWE0NDAwYzYwMzUwNjY2OTJlZA==`
+Snapshot ID: `MjgwODkzNzQsMDAwMDAwMDAyYjM1YmQxN2UzODljNjQ4MWU3ZWVkOTBmOWY5Y2Y3Zg==`

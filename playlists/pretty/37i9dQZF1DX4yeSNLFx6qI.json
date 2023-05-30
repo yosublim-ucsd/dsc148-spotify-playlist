@@ -1,6 +1,6 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1744210,
+  "num_followers": 1744552,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 186255,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 229107,
       "name": "Enam\u00f3rate De Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 186255,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -731,6 +711,42 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Acu\u00e9rdate de M\u00ed",
-      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+      "duration_ms": 194836,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 194836,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Circo Soledad",
         "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
@@ -971,42 +955,6 @@
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Coraz\u00f3n Sin Vida",
-        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Coraz\u00f3n Sin Vida",
-      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1039,6 +987,58 @@
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Acu\u00e9rdate de M\u00ed",
+      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Coraz\u00f3n Sin Vida",
+        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Coraz\u00f3n Sin Vida",
+      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Lo siento (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Saturno",
+        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "D\u00e9jame Ir",
         "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Montaner",
         "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
@@ -1231,38 +1231,6 @@
       "duration_ms": 224693,
       "name": "\u00bfQu\u00e9 Vas a Hacer?",
       "url": "https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Saturno",
-        "url": "https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "20 -- 21",
-        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164380,
-      "name": "Con la Falta Que Me Haces",
-      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1283,18 +1251,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Te echo de menos",
-        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+        "name": "20 -- 21",
+        "url": "https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Te echo de menos",
-      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+      "duration_ms": 164380,
+      "name": "Con la Falta Que Me Haces",
+      "url": "https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1331,6 +1299,38 @@
       "duration_ms": 208986,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Te echo de menos",
+        "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Me vas a ver",
+        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 135739,
+      "name": "Me vas a ver",
+      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Me vas a ver",
-        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 135739,
-      "name": "Me vas a ver",
-      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Se Me Olvid\u00f3 Olvidarte",
         "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 245466,
       "name": "De la Ilusi\u00f3n Al Miedo",
       "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Ser\u00e1 Mi Culpa?",
-        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Ser\u00e1 Mi Culpa?",
-      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 237373,
       "name": "Nunca Voy a Olvidarte - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Ser\u00e1 Mi Culpa?",
+        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Ser\u00e1 Mi Culpa?",
+      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
     },
     {
       "added_at": "2023-05-05 03:22:13",

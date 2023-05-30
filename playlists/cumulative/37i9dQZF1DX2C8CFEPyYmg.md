@@ -2,7 +2,7 @@
 
 ### [Soothing Strings For Sleeping Babies](https://open.spotify.com/playlist/37i9dQZF1DX2C8CFEPyYmg)
 
-> Soothing strings for our sleepy little ones.
+> 
 
 438 songs - 13 hr 27 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Chill out. ",
-  "num_followers": 45536,
+  "num_followers": 45562,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Anything You Want",
-        "url": "https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY"
-      },
-      "artists": [
-        {
-          "name": "Reality Club",
-          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Anything You Want",
-      "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 240903,
       "name": "P.S. I LOVE YOU",
       "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Anything You Want",
+        "url": "https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Anything You Want",
+      "url": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 132000,
       "name": "my type",
       "url": "https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Head In The Clouds Forever",
         "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "It's Never Easy",
-        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Whiskey Bottle",
-      "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -299,6 +267,54 @@
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "It's Never Easy",
+        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Whiskey Bottle",
+      "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -355,22 +371,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -503,6 +487,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "BEAUTiFUL",
         "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Favourite Things",
-        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Favourite Things",
-      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+        "name": "Favourite Things",
+        "url": "https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
         }
       ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
+      "duration_ms": 173333,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -631,6 +615,22 @@
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "Bedroom (feat. Anne-Marie)",
+        "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 203990,
+      "name": "Bedroom (feat. Anne-Marie)",
+      "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Other Half",
         "url": "https://open.spotify.com/album/72D3xzjyFXqw0006YxcEOv"
       },
@@ -759,22 +779,34 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Bedroom (feat. Anne-Marie)",
-        "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
+        "name": "Lonely Soldier Boy",
+        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
       },
       "artists": [
         {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+          "name": "Hujan",
+          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
         }
       ],
-      "duration_ms": 203990,
-      "name": "Bedroom (feat. Anne-Marie)",
-      "url": "https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL"
+      "duration_ms": 292760,
+      "name": "Kotak Hati",
+      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -799,34 +831,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Lonely Soldier Boy",
-        "url": "https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL"
-      },
-      "artists": [
-        {
-          "name": "Hujan",
-          "url": "https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "Kotak Hati",
-      "url": "https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48"
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -847,18 +863,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr"
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+      "duration_ms": 178560,
+      "name": "do me right",
+      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -899,22 +915,6 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "do me right",
-      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "It's You (feat. Kaleb J)",
+        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 269712,
+      "name": "It's You (feat. Kaleb J)",
+      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC"
       },
@@ -1043,22 +1063,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "It's You (feat. Kaleb J)",
-        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
       },
       "artists": [
         {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+          "name": "K-Clique",
+          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
         },
         {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+          "name": "Aj",
+          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
         }
       ],
-      "duration_ms": 269712,
-      "name": "It's You (feat. Kaleb J)",
-      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+      "duration_ms": 260000,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1095,26 +1115,6 @@
       "duration_ms": 179000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
-        "name": "Pulang",
-        "url": "https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3"
-      },
-      "artists": [
-        {
-          "name": "K-Clique",
-          "url": "https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh"
-        },
-        {
-          "name": "Aj",
-          "url": "https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "dinner in bed",
+        "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+      "duration_ms": 197855,
+      "name": "dinner in bed",
+      "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
     }
   ],
   "unique_name": "Chill Lah",

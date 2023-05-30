@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: needanamebro
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,775 likes - 151 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,766 likes - 151 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

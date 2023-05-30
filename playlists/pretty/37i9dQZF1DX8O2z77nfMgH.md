@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Don Omar y Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,594 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,667 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Deepest Forest",
+        "url": "https://open.spotify.com/album/75qZcZxWnplR6i29usmnke"
+      },
+      "artists": [
+        {
+          "name": "Veronica Howland",
+          "url": "https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Ameth",
+      "url": "https://open.spotify.com/track/5JN4NoW07SPOoLJFxoeUDu"
+    },
+    {
+      "album": {
         "name": "Avril 14th",
         "url": "https://open.spotify.com/album/3TjGTIcVrbCT0Icu0tZ9Tu"
       },
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Morning on a STHLM Island",
+        "url": "https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU"
+      },
+      "artists": [
+        {
+          "name": "The Gustaf",
+          "url": "https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168374,
+      "name": "Morning on a STHLM Island",
+      "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
+    },
+    {
+      "album": {
         "name": "Nature's Calling",
         "url": "https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0"
       },
@@ -1025,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Nature Spirals",
+        "url": "https://open.spotify.com/album/5YatqGtD20czHMYisddo9l"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Spiraling Nature",
+      "url": "https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ"
+    },
+    {
+      "album": {
         "name": "Spring Silence",
         "url": "https://open.spotify.com/album/1tvKjEflBkLrVuzUSbhjch"
       },
@@ -1115,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "The Tower of Embellion",
+        "url": "https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188584,
+      "name": "The Tower of Embellion",
+      "url": "https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT"
+    },
+    {
+      "album": {
         "name": "Sunday Mornings XX",
         "url": "https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP"
       },
@@ -1151,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "The Whispering Woods",
+        "url": "https://open.spotify.com/album/7i6tbE1jHhKXgi9sfKMMpP"
+      },
+      "artists": [
+        {
+          "name": "Nova Arcadia",
+          "url": "https://open.spotify.com/artist/1y2aASw1ej3h5QW9WPPENF"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "The Whispering Woods",
+      "url": "https://open.spotify.com/track/4KasIipqsaj5Ou8dYAB465"
+    },
+    {
+      "album": {
         "name": "Exploring Nature",
         "url": "https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV"
       },
@@ -1166,6 +1256,42 @@
       "duration_ms": 130500,
       "name": "Trail of Fauna",
       "url": "https://open.spotify.com/track/6gdNCfmHrLAKii20Kon3QS"
+    },
+    {
+      "album": {
+        "name": "Tranquil World",
+        "url": "https://open.spotify.com/album/3LXQ4d8qe63VWh49Zdrp1L"
+      },
+      "artists": [
+        {
+          "name": "Elysio Stone",
+          "url": "https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Tranquil World",
+      "url": "https://open.spotify.com/track/0NoYCL17y54vwiUk3y6Oz6"
+    },
+    {
+      "album": {
+        "name": "Trees and Birds",
+        "url": "https://open.spotify.com/album/0CNZyLHT6HBiDn1rgYUYVe"
+      },
+      "artists": [
+        {
+          "name": "Tundriunas",
+          "url": "https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Trees and Birds",
+      "url": "https://open.spotify.com/track/5pxc7awYBhXmhDaM2tUwLl"
     },
     {
       "album": {

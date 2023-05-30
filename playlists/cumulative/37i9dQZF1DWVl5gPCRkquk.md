@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-267 songs - 16 hr 39 min
+268 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 | 2021-10-29 |  |
 | [Paula Collins](https://open.spotify.com/track/4bmsylpNL4dgJkEZ7nApzW) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/2eVNTzudD6CJKpVzIJez8M) | 3:15 | 2021-10-29 | 2022-04-21 |
 | [Peaceful Ambassador](https://open.spotify.com/track/7wY1vzDUjDiuyq0N7otph4) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Peaceful Ambassador](https://open.spotify.com/album/3UbEQ6G4EOEUaGHWQsLXDr) | 4:15 | 2021-10-29 | 2022-04-21 |
-| [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 | 2022-04-15 |  |
+| [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 | 2022-04-15 | 2023-05-30 |
 | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0) | 4:21 | 2021-10-29 | 2022-07-29 |
 | [Prodigal Daughter](https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Prodigal Daughter](https://open.spotify.com/album/3UZahzjPGglQRjZQPaZEFZ) | 3:42 | 2021-10-29 | 2022-07-29 |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2022-11-18 |  |
@@ -264,6 +264,7 @@
 | [Weeds](https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Weeds](https://open.spotify.com/album/6BD4Jo940ZvwYNp01Ex34n) | 4:15 | 2021-10-29 | 2022-07-19 |
 | [What Have We Got to Lose](https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [What Have We Got to Lose](https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf) | 2:49 | 2022-10-07 | 2022-11-29 |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/1E0vSW2F5dlVF2gP14pqKs) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX) | 4:39 | 2022-04-15 | 2023-04-16 |
+| [Whatever Brings You Peace of Mind](https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/18MmURU3LigipnhvZh99Se) | 4:39 | 2023-05-19 |  |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/7D7bQZtXupVSEdBrQ3c1dl) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Whatever Brings You Peace of Mind](https://open.spotify.com/album/1Yl6PSxDGN2Kh9Z8DNva24) | 4:39 | 2021-10-29 | 2022-07-29 |
 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 | 2021-10-29 | 2022-11-19 |
 | [Wherever You Are](https://open.spotify.com/track/7Lhc9rgUp3cwfwEgo21kZi) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:02 | 2022-04-15 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ chiello in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,516 likes - 81 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,544 likes - 81 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

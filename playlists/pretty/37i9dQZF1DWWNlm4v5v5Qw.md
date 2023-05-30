@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,770 likes - 52 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,800 likes - 52 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

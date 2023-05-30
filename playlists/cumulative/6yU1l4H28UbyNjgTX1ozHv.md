@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-169 songs - 8 hr 59 min
+171 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I Only Want to Be With You \- Acoustic](https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Only Want to Be With You \(Acoustic\)](https://open.spotify.com/album/0oSKcdd3xTEP3H0qR0oQbf) | 2:10 | 2022-07-15 | 2023-01-07 |
 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 | 2022-09-09 | 2023-01-07 |
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
+| [I Wanna Dance with Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I Wanna Dance with Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/0MctNxUvJxux2M8sJC1zFG) | 3:12 | 2023-05-29 |  |
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
 | [I'm Like a Bird \- Acoustic](https://open.spotify.com/track/3c8tm69G8hZTs8gJI99Pbe) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [I'm Like a Bird \(Acoustic\)](https://open.spotify.com/album/6k4uP5KtblJ7MNJKkQY54c) | 2:41 | 2023-01-03 | 2023-01-19 |
@@ -101,6 +102,7 @@
 | [Mad World \- Acoustic](https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Mad World \(Acoustic\)](https://open.spotify.com/album/6Lp5nb13LglZANk9txeQ1i) | 3:00 | 2020-12-24 |  |
 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 | 2019-10-13 |  |
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2019-10-13 |  |
+| [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 | 2023-05-29 |  |
 | [Marry You \- Acoustic](https://open.spotify.com/track/0WXJ3ifuSw79Ge26pqHHAZ) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Marry You \(Acoustic\)](https://open.spotify.com/album/0gUKa3tQIM8URIGeWMQBGH) | 3:11 | 2023-02-10 | 2023-02-25 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 | 2019-10-13 |  |
 | [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-03-19 |  |
@@ -152,7 +154,7 @@
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 | 2023-05-10 |
-| [Upside Down \- Acoustic](https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Upside Down \(Acoustic\)](https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m) | 2:22 | 2023-03-24 |  |
+| [Upside Down \- Acoustic](https://open.spotify.com/track/1Bj7uQHtE5RfCzVMKhgskl) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Upside Down \(Acoustic\)](https://open.spotify.com/album/78fjGqALsUEsAi5nuKI19m) | 2:22 | 2023-03-24 | 2023-05-30 |
 | [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 | 2022-09-25 |
 | [Use Somebody \- Acoustic](https://open.spotify.com/track/15ifihnDCzcbGX3lQdUHKn) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/6ccSCZ1k60gVpONCZZPvAm) | 2:59 | 2023-03-03 |  |
 | [Valerie \- Acoustic](https://open.spotify.com/track/2maGjY9V7Z0RAVTyXFPyaX) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Valerie \(Acoustic\)](https://open.spotify.com/album/5GQMEtMsfqHsAfHXy02VOM) | 2:40 | 2023-01-20 | 2023-03-04 |

@@ -4,7 +4,7 @@
 
 > Uptempo gospel songs from West Africa to get you dancing and praising.
 
-153 songs - 12 hr 37 min
+154 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 |  |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-05 |  |
+| [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2023-05-12 |  |
 | [April Celebrants Special \(Live\)](https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [April Celebrants Special \(Live\)](https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu) | 4:57 | 2022-06-30 | 2023-04-15 |
 | [Ayeyi Ndwom \(feat\. Ohemaa Mercy\)](https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:25 | 2022-06-30 | 2023-04-15 |
@@ -111,7 +112,7 @@
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 |  |
 | [On My Case](https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [On My Case](https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc) | 2:43 | 2023-05-19 |  |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-04-21 |  |
-| [Onye eze](https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8) | [Frank Edwards](https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg) | [MELODY](https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ) | 5:24 | 2022-06-30 |  |
+| [Onye eze](https://open.spotify.com/track/3Rr4jAOBZDxtvSQAjbFih8) | [Frank Edwards](https://open.spotify.com/artist/73H0cSqI8qcSV5EvZ52LDg) | [MELODY](https://open.spotify.com/album/0ixZo2uyDnmSU95hYll2jQ) | 5:24 | 2022-06-30 | 2023-05-30 |
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2022-06-30 | 2023-05-12 |
 | [Peace, Be Still](https://open.spotify.com/track/3Jf9bVFXxoEK0jcDOfSsMk) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Peace, Be Still](https://open.spotify.com/album/1Q6eo7PE5OVIYGE9ViXiXQ) | 2:43 | 2023-05-12 |  |
 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 | 2022-06-30 |  |

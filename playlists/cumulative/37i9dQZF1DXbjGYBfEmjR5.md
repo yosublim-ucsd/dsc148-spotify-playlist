@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-484 songs - 1 day 3 hr 29 min
+485 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [PRESSURE PLAY!](https://open.spotify.com/track/2mghQDtF5ilXk1yrESu8dD) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [PRESSURE PLAY!](https://open.spotify.com/album/7emGsLmLXHdPMDY0qexcyf) | 3:31 | 2022-11-04 |  |
 | [Prophecy](https://open.spotify.com/track/6ZtBwt3SJIMLTyHRb6c9MG) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Prophecy](https://open.spotify.com/album/5tRUJC0mUm5hect2JyynN3) | 4:13 | 2022-07-15 | 2022-08-19 |
 | [Prysm](https://open.spotify.com/track/5hS0NoR2jtln7HEUzgQxqd) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Textures](https://open.spotify.com/album/25xCGzP8gWJ70RLCvxVCva) | 4:10 | 2022-01-25 | 2022-04-21 |
-| [quarterback](https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [D 4 1 N](https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw) | [quarterback](https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ) | 3:42 | 2022-09-16 |  |
+| [quarterback](https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [D 4 1 N](https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw) | [quarterback](https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ) | 3:42 | 2022-09-16 | 2023-05-30 |
 | [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 | 2021-12-08 | 2023-05-10 |
 | [R&B](https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [R&B](https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z) | 3:25 | 2022-11-04 |  |
 | [Radiant Memories](https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:19 | 2021-12-08 |  |
@@ -336,6 +336,7 @@
 | [RE: Got the Lovin'](https://open.spotify.com/track/1Dg6BJ3uwVsxkpDjWNKdgp) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw), [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Wave 03: Scramble Crossing](https://open.spotify.com/album/0g1XvlAHe5vDAlxamcYrCf) | 2:56 | 2022-04-12 | 2022-04-16 |
 | [Really Love \- Original Mix](https://open.spotify.com/track/1L7gBkq51j51bYbhpKCltq) | [FederFunk](https://open.spotify.com/artist/4fLtM8j2nBAfMjfE9SqxG9) | [Really Love](https://open.spotify.com/album/4FIv6fdEbmlu9gApKa4mXn) | 4:29 | 2022-08-12 | 2022-09-17 |
 | [REFRESH](https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/2JXsrhK7uJIXALgPEc8Qr5) | 2:12 | 2022-04-12 | 2023-05-09 |
+| [REFRESH](https://open.spotify.com/track/5TJ48UIvLKQnY3sUo0kH9M) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/1sH4R6pTreRYGoOwOnL35Y) | 2:12 | 2022-11-04 |  |
 | [Remember Summer Days \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [杏里 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz) | 3:46 | 2021-12-08 |  |
 | [Resurrection \- Edit](https://open.spotify.com/track/1GSTOgkY3YlBehbmaBg1Nc) | [L'Étranger](https://open.spotify.com/artist/2dUL2pPThe3zZWRTWvGN9m) | [Resurrection \(Edit\)](https://open.spotify.com/album/0HYz8QPE0teDCFTD6bYL6K) | 3:20 | 2021-12-08 | 2022-07-23 |
 | [Rhythm night](https://open.spotify.com/track/2YrsthnfuKndfekbuDXIx4) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB), [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Wilting Flowers](https://open.spotify.com/album/5flQrELjpz0cGeLZbm0qfR) | 3:38 | 2022-09-16 | 2022-11-17 |

@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 270883,
       "name": "Como Quisiera Poder",
       "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
@@ -514,6 +514,24 @@
       "duration_ms": 168973,
       "name": "El Lirio",
       "url": "https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn"
+    },
+    {
+      "album": {
+        "name": "El Mu\u00f1eco",
+        "url": "https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns"
+      },
+      "artists": [
+        {
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238064,
+      "name": "El Mu\u00f1eco",
+      "url": "https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "La Pagar\u00e1s",
+        "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232190,
+      "name": "La Pagar\u00e1s",
+      "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
+    },
+    {
+      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y"
       },
@@ -806,7 +842,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 236000,
       "name": "La Paliza",
       "url": "https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 234466,
       "name": "Por Andar de Patas Negras",
       "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
@@ -1448,6 +1484,24 @@
       "duration_ms": 211710,
       "name": "Son Solo Palabritas",
       "url": "https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es"
+    },
+    {
+      "album": {
+        "name": "La Nueva Cumbia del Pueblo",
+        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191920,
+      "name": "Sufriendo por Tu Amor",
+      "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
     },
     {
       "album": {

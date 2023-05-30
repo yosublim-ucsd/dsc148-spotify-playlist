@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 61363,
+  "num_followers": 61416,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Historias De La Calle",
-        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Eso Es Todo Lo Que Soy",
-      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Delux",
         "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 168840,
       "name": "M\u00e1s de Lo Que Te Imaginas",
       "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
+        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "3 de Noviembre (No Me Ag\u00fcito)",
+      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Me Pongo Hasta la Madre Porque Estoy Hasta la Madre",
-        "url": "https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu"
+        "name": "Historias De La Calle",
+        "url": "https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w"
       },
       "artists": [
         {
-          "name": "Chingadazo de Kung Fu",
-          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 183209,
-      "name": "3 de Noviembre (No Me Ag\u00fcito)",
-      "url": "https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV"
+      "duration_ms": 210337,
+      "name": "Eso Es Todo Lo Que Soy",
+      "url": "https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Coraz\u00f3n D' Roto",
-        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Apariencia",
-      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Vamos Perdiendo el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23pMm6NC32mogG6H6KkfTn"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 241532,
       "name": "Dicen Que Estoy Muerto",
       "url": "https://open.spotify.com/track/69HhWybZbE4RgR6Cfhilfh"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -391,34 +391,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
       },
       "artists": [
         {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -439,18 +423,34 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+        "name": "Coraz\u00f3n D' Roto",
+        "url": "https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC"
       },
       "artists": [
         {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
+      "duration_ms": 217920,
+      "name": "Apariencia",
+      "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -503,6 +503,38 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Nadie Me Entiende",
+        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nadie Me Entiende",
+      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "CARIBE 4 LIFE",
         "url": "https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 206451,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -575,22 +591,6 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Nadie Me Entiende",
-        "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nadie Me Entiende",
-      "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Clavo",
-        "url": "https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11"
+        "name": "III\u00b7I",
+        "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
       },
       "artists": [
         {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+          "name": "Barney Gombo",
+          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Clavo",
-      "url": "https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv"
+      "duration_ms": 191346,
+      "name": "Lav\u00e1ntula",
+      "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -811,22 +807,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "III\u00b7I",
-        "url": "https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r"
-      },
-      "artists": [
-        {
-          "name": "Barney Gombo",
-          "url": "https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc"
-        }
-      ],
-      "duration_ms": 191346,
-      "name": "Lav\u00e1ntula",
-      "url": "https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Siempre Resistir / Nunca Desistir",
         "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
       },
@@ -839,6 +819,22 @@
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "No Hay Final Feliz",
+        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
+      },
+      "artists": [
+        {
+          "name": "Cuatro y Medio",
+          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
+        }
+      ],
+      "duration_ms": 218811,
+      "name": "No Hay Final Feliz",
+      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
     }
   ],
   "unique_name": "Escena Pop Punk",

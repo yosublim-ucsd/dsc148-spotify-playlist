@@ -2,9 +2,9 @@
 
 ### [This Is ITZY](https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn)
 
-> ITZY? 있지! It'z ITZY Time!
+> 
 
-114 songs - 6 hr 3 min
+115 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Not Shy \- English Ver.](https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) | 2:57 | 2022-07-22 |  |
 | [Not Shy \- English Ver.](https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 2:57 | 2022-04-20 | 2022-07-29 |
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
+| [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-05-28 |  |
 | [RACER](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:12 | 2022-07-22 |  |
 | [RACER](https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:12 | 2022-07-15 | 2022-07-29 |
 | [SHOOT!](https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:19 | 2022-04-20 | 2022-07-29 |

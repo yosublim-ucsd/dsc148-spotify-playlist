@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,980 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,698 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 70 | [Emai Poyave](https://open.spotify.com/track/14M1StehpwsydSGGy8z9eq) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 2:34 |
 | 71 | [Nee Neeli Kannullona](https://open.spotify.com/track/0LQzVOmKeMhC3ccO0wUlSP) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Dear Comrade](https://open.spotify.com/album/2Dm5RqMxec1kI17G2awogs) | 2:26 |
 | 72 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 |
-| 73 | [Mandaara](https://open.spotify.com/track/51O5cmwTOopxgVQuB5tZsG) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine'S Day Special](https://open.spotify.com/album/5WZOo6UgGdbVgzWazeSfjo) | 4:51 |
+| 73 | [Mandaara](https://open.spotify.com/track/51O5cmwTOopxgVQuB5tZsG) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine's Day Special](https://open.spotify.com/album/5WZOo6UgGdbVgzWazeSfjo) | 4:51 |
 | 74 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 75 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 

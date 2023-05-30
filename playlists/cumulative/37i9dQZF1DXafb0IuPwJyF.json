@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover:  iri",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: YOASOBI",
   "name": "Tokyo Super Hits!",
   "tracks": [
     {
@@ -604,6 +604,36 @@
       "duration_ms": 163466,
       "name": "Baby's Alright",
       "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
+    },
+    {
+      "album": {
+        "name": "Bad Bitch BIGAKU",
+        "url": "https://open.spotify.com/album/1fj96LQ9agWjeZp5t8uktl"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260263,
+      "name": "Bad Bitch BIGAKU",
+      "url": "https://open.spotify.com/track/1h3Cwx7CWLJaLDnPlVu1Mn"
     },
     {
       "album": {
@@ -4767,6 +4797,28 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9"
+      },
+      "artists": [
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "80KIDZ",
+          "url": "https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171045,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
@@ -5276,6 +5328,24 @@
       "duration_ms": 237115,
       "name": "n.o.y.b (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
+    },
+    {
+      "album": {
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     },
     {
       "album": {
@@ -6256,7 +6326,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 225675,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5ozd2TezfmXoIFgZq7KvdW"
@@ -6554,7 +6624,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 146667,
       "name": "SCENE!",
       "url": "https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO"
@@ -6688,7 +6758,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 187920,
       "name": "See You Again (Prod. KM)",
       "url": "https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ"
@@ -6908,7 +6978,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 238833,
       "name": "slash",
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
@@ -7202,7 +7272,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 263331,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP"
@@ -7478,6 +7548,24 @@
       "duration_ms": 188627,
       "name": "Strawberry Margarita",
       "url": "https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF"
+    },
+    {
+      "album": {
+        "name": "Stray Hearts",
+        "url": "https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273266,
+      "name": "Stray Hearts",
+      "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
     },
     {
       "album": {
@@ -7882,6 +7970,24 @@
       "duration_ms": 262505,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/4TI7dRixtHok7njiL4CCaI"
+    },
+    {
+      "album": {
+        "name": "e o",
+        "url": "https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269471,
+      "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
     },
     {
       "album": {
@@ -8881,6 +8987,32 @@
     },
     {
       "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm"
+      },
+      "artists": [
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "JIGG",
+          "url": "https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148213,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/4h1szxNxkEIeAiBa8QcsJr"
+    },
+    {
+      "album": {
         "name": "What's up",
         "url": "https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox"
       },
@@ -9360,7 +9492,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 234586,
       "name": "\u3042\u3066\u3082\u306a\u304f",
       "url": "https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ"
@@ -10796,7 +10928,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 215866,
       "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
       "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
@@ -15160,6 +15292,24 @@
       "duration_ms": 257915,
       "name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u306f\u732b\u306e\u76ee",
+        "url": "https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "\u79c1\u306f\u732b\u306e\u76ee",
+      "url": "https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd"
     },
     {
       "album": {

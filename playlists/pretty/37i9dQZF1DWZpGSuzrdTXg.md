@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,502 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,609 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 24 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 |
 | 25 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
 | 26 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
-| 27 | [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 |
+| 27 | [Questionnaire](https://open.spotify.com/track/4iHzg001tiA65MGZ4dq0Je) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2](https://open.spotify.com/album/0ys8RG7cVPqEJoiMhaimV9) | 2:45 |
 | 28 | [Lost at Last](https://open.spotify.com/track/0eTFVx9jWhazZHeg4ehfvb) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Saddies](https://open.spotify.com/album/5NCEMX3HctmQsLOyskl3SK) | 2:39 |
 | 29 | [Broken](https://open.spotify.com/track/7H0LEHtKUsz5bwp1juDZvw) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Broken](https://open.spotify.com/album/7oikaRbWRSqMSUYh3BDMSj) | 3:51 |
 | 30 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |

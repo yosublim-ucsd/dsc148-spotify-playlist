@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 
 > Le meilleur du hip\-hop québécois en 2022\. Photo: Loud \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,757 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,766 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTuHVFoulvZ.md) - [plain]
 | 6 | [Tout c'que j'connais](https://open.spotify.com/track/4MHUo6wTQwbks9wX6vpivL) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Je Suis Canicule](https://open.spotify.com/album/4hWU5w4QTHAkB2mXM5PRgn) | 3:37 |
 | 7 | [J'ai pas l'time](https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [J'ai pas l'time](https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN) | 3:50 |
 | 8 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
-| 9 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 |
+| 9 | [3 accords](https://open.spotify.com/track/1zqx1XQ2k1nuIHVA8KDY5J) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Astronaute](https://open.spotify.com/album/1rQ0C906Vw3mVGVwMcylgL) | 2:42 |
 | 10 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 |
 | 11 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:30 |
 | 12 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 |

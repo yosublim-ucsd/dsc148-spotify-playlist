@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-626 songs - 2 day 5 hr 53 min
+627 songs - 2 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Blackened Wings](https://open.spotify.com/track/2MeY6PkEbWtpCr7IPGd9JO) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Blackened Wings](https://open.spotify.com/album/3bIdKddwnW1ZTFgja7dYIF) | 4:04 | 2021-12-17 | 2022-07-16 |
 | [Blackest Eyes](https://open.spotify.com/track/60WI0RpQhFyXuyPvrPPFiH) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia](https://open.spotify.com/album/2dAYkfqPYzOTDNxDDVP2vi) | 4:23 | 2021-12-17 | 2022-01-29 |
 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 | 2022-07-13 |  |
+| [Blind Lead the Blind \(Single Edit\) \- Instrumental](https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites \(Deluxe Edition\)](https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T) | 2:53 | 2023-05-12 |  |
 | [Blind Lead the Blind \(Single Edit\) \- Instrumental](https://open.spotify.com/track/6VuJjoD1aYAgiXCVnE3EWb) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Blind Lead the Blind](https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW) | 2:53 | 2022-07-13 | 2023-05-05 |
 | [Blind Me](https://open.spotify.com/track/2TKD4Yy8HvVqfLCTkM8BYV) | [For All We Know](https://open.spotify.com/artist/7MLlLV2nHeD1PDjGRNpqfV) | [For All We Know](https://open.spotify.com/album/0jkOvjIAH0ny7cSfCSrWD5) | 4:08 | 2021-12-17 | 2022-01-25 |
 | [Blindfolded](https://open.spotify.com/track/5ZUl1TfNTIppUKzLIUsLma) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Blindfolded](https://open.spotify.com/album/2SeDZbNzFiHvFTMhCrYIgh) | 4:13 | 2022-04-29 | 2022-05-21 |
@@ -431,7 +432,7 @@
 | [Sagittarius](https://open.spotify.com/track/0oDw63zv1ProfvH1HgfPvG) | [One Hundred Thousand](https://open.spotify.com/artist/26PZG9fA2GSpDe8o2UR2Bt) | [Sagittarius](https://open.spotify.com/album/63hiVr5grtpEehl3FUnZib) | 5:51 | 2021-12-17 | 2021-12-29 |
 | [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 | 2022-07-13 |  |
 | [Sanctuary](https://open.spotify.com/track/5z2VqUUekX3IHIjOcy3uZm) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Sanctuary](https://open.spotify.com/album/79e13Ukx164Q9L5pq7TXFZ) | 4:23 | 2021-12-31 | 2022-07-25 |
-| [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 |  |
+| [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 | 2023-05-30 |
 | [Satellites](https://open.spotify.com/track/15pzQR7FbH7S6zz6QpKDlH) | [Exist Immortal](https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV) | [Satellites](https://open.spotify.com/album/42h0bhfThdZaoLSIBKW5c0) | 3:58 | 2021-12-17 | 2022-05-12 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-01 |  |
 | [Scarification/Induration](https://open.spotify.com/track/2kiDrFIpgD8N8MPaAZZXo9) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Scarification/Induration](https://open.spotify.com/album/7kKXN6utZrKW5npS1IdfKz) | 3:52 | 2021-12-17 | 2022-06-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6621,
+  "num_followers": 6630,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,38 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 318360,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 204758,
+      "name": "ALWAYS - Instrumental",
+      "url": "https://open.spotify.com/track/02zIddEu5KR0z4riBzHJU4"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Twenty-Five Twenty-One OST Part 6",
         "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
       },
@@ -103,6 +135,22 @@
       "duration_ms": 251517,
       "name": "Stardust love song (Inst.)",
       "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset - Instrumental",
+      "url": "https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -175,54 +223,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Best of BTS | Piano Cover Collection",
-        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 318360,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/3gK5DTi0FY2rkG5CX937hl"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Descendants Of The Sun Pt.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 204758,
-      "name": "ALWAYS - Instrumental",
-      "url": "https://open.spotify.com/track/02zIddEu5KR0z4riBzHJU4"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset - Instrumental",
-      "url": "https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Kan Mingtian",
         "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 231960,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The Best of BTS | Piano Cover Collection",
+        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "Save ME",
+      "url": "https://open.spotify.com/track/5ozzrhrnokSSLK42H7Mrwo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 210168,
-      "name": "Save ME",
-      "url": "https://open.spotify.com/track/5ozzrhrnokSSLK42H7Mrwo"
+      "duration_ms": 289200,
+      "name": "Spring Day (Orchestra Version)",
+      "url": "https://open.spotify.com/track/7DCzN1YJlO2XbECum9zMFg"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -483,8 +499,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Best of BTS | Piano Cover Collection",
-        "url": "https://open.spotify.com/album/3Lqo2dF5vYl1JMOq0kZHru"
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
       "artists": [
         {
@@ -492,25 +508,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Spring Day (Orchestra Version)",
-      "url": "https://open.spotify.com/track/7DCzN1YJlO2XbECum9zMFg"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 253045,
-      "name": "With My Tears - Instrumental",
-      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
+      "duration_ms": 232055,
+      "name": "Feel Special (Sad Ver.)",
+      "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/03wxGctAtxkCb8LC28H8Em"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 253045,
+      "name": "With My Tears - Instrumental",
+      "url": "https://open.spotify.com/track/6j1NUuVnwa20lAEpyqcLA3"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -543,26 +559,6 @@
       "duration_ms": 194640,
       "name": "Goodbye - Instrumental",
       "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
-      },
-      "artists": [
-        {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
-        },
-        {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "You're My End and My Beginning - Instrumental",
-      "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -583,18 +579,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
       "artists": [
         {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        },
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
         }
       ],
-      "duration_ms": 232055,
-      "name": "Feel Special (Sad Ver.)",
-      "url": "https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II"
+      "duration_ms": 251173,
+      "name": "You're My End and My Beginning - Instrumental",
+      "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "My Tale - inst.",
-      "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
         "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
+      },
+      "artists": [
+        {
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "My Tale - inst.",
+      "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
-      },
-      "artists": [
-        {
-          "name": "DMEANOR",
-          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "I'll Take You To Tomorrow - Instrumental",
-      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream (Inst.)",
       "url": "https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
+      },
+      "artists": [
+        {
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
-      },
-      "artists": [
-        {
-          "name": "Jo Hyun Ah",
-          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "When We Were Together - Instrumental",
-      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 212480,
       "name": "Raindrops - Instrumental",
       "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
-      },
-      "artists": [
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 182865,
-      "name": "Like A Dream - Instrumental",
-      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Backstreet Rookie (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7BjnXrdKCpf6ehnG1PjUso"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 204893,
       "name": "See Saw - Inst.",
       "url": "https://open.spotify.com/track/6rdtUu5dcx9YN9GZC97gX3"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 182865,
+      "name": "Like A Dream - Instrumental",
+      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Bad - Instrumental",
+      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 181680,
       "name": "OH NONONO - Instrumental",
       "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Bad - Instrumental",
-      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+        "name": "Fixed On You (new.MAKE20 #10)",
+        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
       },
       "artists": [
         {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 418375,
-      "name": "EYES , NOSE ,LIPS - Piano Version",
-      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
+      "duration_ms": 263653,
+      "name": "Fixed On You - Instrumental",
+      "url": "https://open.spotify.com/track/5LVGmlKDMdTtWyronOyZdt"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Fixed On You (new.MAKE20 #10)",
-        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
       "artists": [
         {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 263653,
-      "name": "Fixed On You - Instrumental",
-      "url": "https://open.spotify.com/track/5LVGmlKDMdTtWyronOyZdt"
+      "duration_ms": 418375,
+      "name": "EYES , NOSE ,LIPS - Piano Version",
+      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 249042,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Kkondae Intern OST Part 3",
         "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 307426,
       "name": "Uphill (Inst.)",
       "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "duration_ms": 249042,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1295,22 +1295,6 @@
       "duration_ms": 199304,
       "name": "Between Us (Feat. OVCOCO) - Instrumental",
       "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 314345,
-      "name": "LOVE SCENARIO - Piano Version",
-      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1340,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+      "duration_ms": 322910,
+      "name": "Bae Bae x Loser",
+      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1356,9 +1340,25 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 322910,
-      "name": "Bae Bae x Loser",
-      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
     },
     {
       "added_at": "2022-11-02 13:40:53",

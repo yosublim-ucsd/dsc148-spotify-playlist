@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
 94 songs - 4 hr 43 min
 

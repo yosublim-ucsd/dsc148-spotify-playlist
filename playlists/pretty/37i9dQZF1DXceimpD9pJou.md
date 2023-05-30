@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu?si=XZLcAG\-8QDmEXy6\_1onvyg">Vaes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,890 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,018 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

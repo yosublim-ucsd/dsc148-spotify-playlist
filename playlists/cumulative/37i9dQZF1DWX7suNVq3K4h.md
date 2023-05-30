@@ -2,7 +2,7 @@
 
 ### [Mozart for Babies](https://open.spotify.com/playlist/37i9dQZF1DWX7suNVq3K4h)
 
-> Whether it's playtime, bath time..\. or you just need a little me\-time, this selection of soothing Mozart favourites is guaranteed to help the whole family relax and unwind.
+> 
 
 101 songs - 10 hr 45 min
 

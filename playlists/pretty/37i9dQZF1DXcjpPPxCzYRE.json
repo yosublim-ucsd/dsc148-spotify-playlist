@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 365929,
+  "num_followers": 366063,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Boy Who Cried Wolf",
-        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "All in Time",
         "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "In Between Minds",
-        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+        "name": "The Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 199537,
-      "name": "Things You Can't Change",
-      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
+      "duration_ms": 162666,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 210733,
       "name": "With Or Without You - BBC Jo Whiley Session / 2004",
       "url": "https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "In Between Minds",
+        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "Things You Can't Change",
+      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Electric Light",
-        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
+        "name": "A Book Like This",
+        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 203853,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
+      "duration_ms": 223746,
+      "name": "Paper Aeroplane",
+      "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "A Book Like This",
-        "url": "https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Paper Aeroplane",
-      "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Someday Tomorrow Maybe",
-        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
+        "name": "Electric Light",
+        "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
+      "duration_ms": 203853,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/5QY4JhMKx4aBAaZcosncqd"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Someday Tomorrow Maybe",
+        "url": "https://open.spotify.com/album/6ECJjotZuyQKgw3VtMWpVy"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/4TSUh9GIzjlt9QAH32ObaB"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Stay Awake with Me (acoustic)",
         "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 119813,
       "name": "Bizarre Love Triangle - 2014 Remaster",
       "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "The Bakman Tapes",
-        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
-      },
-      "artists": [
-        {
-          "name": "Susie Suh",
-          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
-        }
-      ],
-      "duration_ms": 212017,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "The Bakman Tapes",
+        "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
+      },
+      "artists": [
+        {
+          "name": "Susie Suh",
+          "url": "https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh"
+        }
+      ],
+      "duration_ms": 212017,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Qu\u00e9 Bueno!",
+        "url": "https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Chukky",
+          "url": "https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL"
+        }
+      ],
+      "duration_ms": 222391,
+      "name": "Qu\u00e9 Bueno!",
+      "url": "https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -1619,42 +1639,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Qu\u00e9 Bueno!",
-        "url": "https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Chukky",
-          "url": "https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Qu\u00e9 Bueno!",
-      "url": "https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Borneo",
-        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Rayito",
-      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     }
   ],
   "unique_name": "Relax en casa",

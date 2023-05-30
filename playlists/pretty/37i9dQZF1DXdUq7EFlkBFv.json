@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 7185,
+  "num_followers": 7228,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Maybach (feat. Future)",
-      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -275,18 +271,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
+      "duration_ms": 199093,
+      "name": "Maybach (feat. Future)",
+      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -327,34 +327,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -391,6 +363,34 @@
       "duration_ms": 228461,
       "name": "Love All (with JAY-Z)",
       "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 184833,
+      "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Who Want Smoke?",
-        "url": "https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 152793,
-      "name": "Who Want Smoke?",
-      "url": "https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 167190,
       "name": "Free Shiest Life (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/0OruY3ybpkoHM9qG9xXbK3"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Who Want Smoke?",
+        "url": "https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 152793,
+      "name": "Who Want Smoke?",
+      "url": "https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
-        }
-      ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "It Ain't My Fault",
         "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
       },
@@ -835,6 +815,42 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/13Gw4ZOeVGHSuNdWgf8Fh2"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 165924,
       "name": "Movie",
       "url": "https://open.spotify.com/track/3hEr1HhvLm6sq52CdgGk72"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Don\u2019t Leave Me",
-      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
     },
     {
       "added_at": "2022-10-01 16:17:17",

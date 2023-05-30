@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtBjoO4Thyy.md) - [plain]
 
 > Domingo Hindoyan continues The Classical Takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,668 likes - 39 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,689 likes - 39 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

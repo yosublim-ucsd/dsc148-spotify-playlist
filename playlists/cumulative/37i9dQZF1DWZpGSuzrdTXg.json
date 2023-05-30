@@ -1418,10 +1418,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 165228,
       "name": "Questionnaire",
       "url": "https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824"
+    },
+    {
+      "album": {
+        "name": "Clutter, Vol. 2",
+        "url": "https://open.spotify.com/album/0ys8RG7cVPqEJoiMhaimV9"
+      },
+      "artists": [
+        {
+          "name": "a balladeer",
+          "url": "https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165228,
+      "name": "Questionnaire",
+      "url": "https://open.spotify.com/track/4iHzg001tiA65MGZ4dq0Je"
     },
     {
       "album": {

@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 195818,
       "name": "#Sarkanbaltsarkanais",
       "url": "https://open.spotify.com/track/3bY8hZbtWQpCOGHi1IZvz5"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Ai, jel manu vieglu pr\u0101tu",
       "url": "https://open.spotify.com/track/59MD2NDaTT0ZvOELrOCthn"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -3860,6 +3860,24 @@
       "duration_ms": 154052,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/3YBuVhXFlm2VyMww57afjI"
+    },
+    {
+      "album": {
+        "name": "Latvija rull\u0113!",
+        "url": "https://open.spotify.com/album/1rY9eAcIT0TekqrXlK3Rft"
+      },
+      "artists": [
+        {
+          "name": "Gun\u0101rs Meijers",
+          "url": "https://open.spotify.com/artist/3AhlZgJoyQOWNbUL1EU5nk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184652,
+      "name": "Cer\u012bba J\u016bsu",
+      "url": "https://open.spotify.com/track/4xhfbXn7GDyvCHD1xDTpHn"
     },
     {
       "album": {
@@ -4792,6 +4810,24 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "album": {
+        "name": "Latvija rull\u0113!",
+        "url": "https://open.spotify.com/album/1rY9eAcIT0TekqrXlK3Rft"
+      },
+      "artists": [
+        {
+          "name": "Gun\u0101rs Meijers",
+          "url": "https://open.spotify.com/artist/3AhlZgJoyQOWNbUL1EU5nk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232892,
+      "name": "Dar' ko var \u2013 Latvija ir j\u0101uzvar!",
+      "url": "https://open.spotify.com/track/1NzeWbJ7AKbZkJmWpGzYEm"
     },
     {
       "album": {
@@ -6182,6 +6218,24 @@
       "duration_ms": 205170,
       "name": "Dzelzce\u013cnieks",
       "url": "https://open.spotify.com/track/0FwgAvZSoV30mJBp0Z0kXE"
+    },
+    {
+      "album": {
+        "name": "Karogi",
+        "url": "https://open.spotify.com/album/2KfDcLpuJT0UjzA2jSXOp0"
+      },
+      "artists": [
+        {
+          "name": "L\u012bvi",
+          "url": "https://open.spotify.com/artist/63Lsz5HoQTimVCH9iCy9eW"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298706,
+      "name": "Dzelzsgriez\u0113js",
+      "url": "https://open.spotify.com/track/5sMFYL7Km1vLoLObCFHU2j"
     },
     {
       "album": {
@@ -8560,7 +8614,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -9760,7 +9814,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
@@ -9778,7 +9832,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -10766,7 +10820,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
@@ -10806,6 +10860,24 @@
       "duration_ms": 213096,
       "name": "J\u0101\u0146uguns",
       "url": "https://open.spotify.com/track/0wbsK7RR6Ccnt87tAZBvuc"
+    },
+    {
+      "album": {
+        "name": "The Best of Jauns M\u0113ness",
+        "url": "https://open.spotify.com/album/3Gta22xDyqJuGAItPLCKv5"
+      },
+      "artists": [
+        {
+          "name": "Jauns M\u0113ness",
+          "url": "https://open.spotify.com/artist/7GIvsDVOV1bjghuisC9opx"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275493,
+      "name": "Kad m\u0113ness j\u016br\u0101 kr\u012bt",
+      "url": "https://open.spotify.com/track/13yFPIncF1O3HlZwRuZRvq"
     },
     {
       "album": {
@@ -11862,6 +11934,24 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "album": {
+        "name": "Izlase",
+        "url": "https://open.spotify.com/album/7tIEzGp3tnP2zyLKVcIn0T"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "Lidma\u0161\u012bnas",
+      "url": "https://open.spotify.com/track/55yNb2ORYTGvrSXuuSVS7e"
     },
     {
       "album": {
@@ -13028,6 +13118,24 @@
       "duration_ms": 213506,
       "name": "Man Vienalga Viss",
       "url": "https://open.spotify.com/track/7JnDbs0gBo01agrSTk58Ow"
+    },
+    {
+      "album": {
+        "name": "Labu Vakar - Klus\u0101 Daba Ar Perspekt\u012bvu",
+        "url": "https://open.spotify.com/album/4ynyqPXGKQEgUhYKTeYgNu"
+      },
+      "artists": [
+        {
+          "name": "Perkons",
+          "url": "https://open.spotify.com/artist/0vr0zXChKgWdimahgBF8U4"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Mana Dieni\u0161\u0137\u0101 Dziesma",
+      "url": "https://open.spotify.com/track/5c4fTqsjx9zRQD0CtVhlox"
     },
     {
       "album": {
@@ -14778,7 +14886,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 190133,
       "name": "My wrist (with Young Thug)",
       "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
@@ -18060,7 +18168,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -22004,7 +22112,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
@@ -22368,7 +22476,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 282506,
       "name": "Tikai T\u0101",
       "url": "https://open.spotify.com/track/62OgS4p4gVDjUqXX3iljNd"
@@ -23375,6 +23483,28 @@
     },
     {
       "album": {
+        "name": "Zelta 60, Vol.2",
+        "url": "https://open.spotify.com/album/1nWOvJWq2nOSmx7BecN7Kw"
+      },
+      "artists": [
+        {
+          "name": "Raimonds Pauls",
+          "url": "https://open.spotify.com/artist/01pSsqt7FLdq2SC6UqjER3"
+        },
+        {
+          "name": "Viru vokalais ansamblis",
+          "url": "https://open.spotify.com/artist/69gdEHhpH49OmFErYPDsJL"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136506,
+      "name": "Vella Kalpu Dziesma",
+      "url": "https://open.spotify.com/track/5LOG3079VHEhYDU6uSVOHj"
+    },
+    {
+      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -24262,7 +24392,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

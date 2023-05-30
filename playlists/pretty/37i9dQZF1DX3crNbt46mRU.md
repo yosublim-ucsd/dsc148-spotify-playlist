@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Peter Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,895 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,912 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
 | 7 | [Tut mir nicht leid](https://open.spotify.com/track/4W0QJmjxdTah60U6lZoOEA) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Tut mir nicht leid](https://open.spotify.com/album/529mXL2l9YqhhnVg9cOUrF) | 2:12 |
 | 8 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 |
-| 9 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 |
+| 9 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 |
 | 10 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 11 | [Real Love](https://open.spotify.com/track/6WngibBs9ITcd2VPn5Dzz9) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:07 |
 | 12 | [Bagchaser Can](https://open.spotify.com/track/5QVOfXj8466NDNQRAqfWaA) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Bagchaser Can](https://open.spotify.com/album/4CAlffALq23RXdG1b7DnpA) | 2:09 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 |
 | 59 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 |
 | 60 | [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/album/45ZhRluyUrfxPeRXlryi2L) | 3:17 |
-| 61 | [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
+| 61 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 62 | [Cardio](https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [21](https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm) | 3:13 |
 | 63 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 64 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 |
@@ -101,9 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 91 | [Hot Or Not](https://open.spotify.com/track/04Kx05Atzfgo3EpuyjGx3C) | [twenty4tim](https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu), [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Hot Or Not](https://open.spotify.com/album/6U2uKHfDdzVpJjl4TUAWfg) | 2:09 |
 | 92 | [Overdrive](https://open.spotify.com/track/4XIx7iSYlEgCUGpoGODRBO) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Overdrive](https://open.spotify.com/album/4T6pMHUsLObqXQ2l6XSRWw) | 3:10 |
 | 93 | [Letztes Vielleicht](https://open.spotify.com/track/7GVxBa7m2k2hajUF6KxVAM) | [Voyce](https://open.spotify.com/artist/4VD7b3DaDHGO9vE6VXfasd) | [Letztes Vielleicht](https://open.spotify.com/album/6u9AwVOALgYPJpAvK0KwSH) | 2:16 |
-| 94 | [Tempo sprecato](https://open.spotify.com/track/25pgZHg8tCEJWTgCSgrjBJ) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Fellini](https://open.spotify.com/album/6HZYWvLgahrl9ZtbAvllRI) | 4:15 |
-| 95 | [Lost Myself](https://open.spotify.com/track/1ffMfLFbjykKYbSJv8gklh) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX) | [Lost Myself](https://open.spotify.com/album/2jwyexfdTDFCq7eA7XqCbs) | 3:06 |
-| 96 | [Lost With Me](https://open.spotify.com/track/3TxulCnyjY8yscYW3QVicr) | [Jules Atlas](https://open.spotify.com/artist/589j7VCgHVfk4fjX0JoB2q) | [Lost With Me](https://open.spotify.com/album/4QBPXsjNNlmINbR5jjGQZI) | 3:24 |
-| 97 | [Pussy Edible](https://open.spotify.com/track/7zOvVE1tWtCXN1VEDaB0zf) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Pussy Edible](https://open.spotify.com/album/2vYTwDjN249gi68MPkbHwB) | 2:10 |
+| 94 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 |
+| 95 | [Tempo sprecato](https://open.spotify.com/track/25pgZHg8tCEJWTgCSgrjBJ) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Fellini](https://open.spotify.com/album/6HZYWvLgahrl9ZtbAvllRI) | 4:15 |
+| 96 | [Lost Myself](https://open.spotify.com/track/1ffMfLFbjykKYbSJv8gklh) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX) | [Lost Myself](https://open.spotify.com/album/2jwyexfdTDFCq7eA7XqCbs) | 3:06 |
+| 97 | [Lost With Me](https://open.spotify.com/track/3TxulCnyjY8yscYW3QVicr) | [Jules Atlas](https://open.spotify.com/artist/589j7VCgHVfk4fjX0JoB2q) | [Lost With Me](https://open.spotify.com/album/4QBPXsjNNlmINbR5jjGQZI) | 3:24 |
+| 98 | [Pussy Edible](https://open.spotify.com/track/7zOvVE1tWtCXN1VEDaB0zf) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Pussy Edible](https://open.spotify.com/album/2vYTwDjN249gi68MPkbHwB) | 2:10 |
 
 Snapshot ID: `MCxhNzQ5Y2MwZDA0Y2QyMTQzMzdkYjhiYzBkYzY0MTUxMWU4YzRkZDFj`

@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 269453,
       "name": "Anima",
       "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
@@ -4477,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "Not Surprised",
+        "url": "https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        },
+        {
+          "name": "Uniform",
+          "url": "https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308359,
+      "name": "Not Surprised",
+      "url": "https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13"
       },
@@ -5226,7 +5248,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -5410,6 +5432,24 @@
       "duration_ms": 350613,
       "name": "Serpents",
       "url": "https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ"
+    },
+    {
+      "album": {
+        "name": "Kalmah",
+        "url": "https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293677,
+      "name": "Serve the Untrue",
+      "url": "https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo"
     },
     {
       "album": {
@@ -6797,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "War Against All",
+        "url": "https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206678,
+      "name": "War Against All",
+      "url": "https://open.spotify.com/track/4IQ6qp5TsASmn2BIT42sy1"
+    },
+    {
+      "album": {
         "name": "War Remains",
         "url": "https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN"
       },
@@ -7096,7 +7154,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 509640,
       "name": "Withstand The Fall Of Time",
       "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"

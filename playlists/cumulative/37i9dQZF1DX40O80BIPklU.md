@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Zxmyr y Sandro Malandro en portada.
 
-187 songs - 10 hr 30 min
+189 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-24 |  |
 | [Almas Benditas](https://open.spotify.com/track/5ITPRg6QYpppI92bgZoV5D) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Almas Benditas](https://open.spotify.com/album/2dr3uDKeRGlwyePqf44aKp) | 3:13 | 2023-05-05 |  |
 | [Alzypher Vol\. 10](https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alzypher Vol\. 10](https://open.spotify.com/album/6pJJBc9UIOhABBSVWJ1eCd) | 3:02 | 2023-03-03 |  |
+| [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 | 2023-05-29 |  |
 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 | 2022-06-24 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-06-24 |  |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2021-12-30 | 2022-07-29 |
@@ -141,6 +142,7 @@
 | [Pensando en Verte](https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Pensando en Verte](https://open.spotify.com/album/40yd4gGPM83Kwde7EO79aW) | 3:02 | 2022-10-28 |  |
 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 | 2022-03-13 | 2022-07-30 |
 | [Por clave El Cabezón 2](https://open.spotify.com/track/0HOhRI51K27ynqH7QQj1Rv) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Por clave El Cabezón](https://open.spotify.com/album/5L7s5VhbCUFH3N9j88JBVD) | 3:09 | 2023-04-07 |  |
+| [Posdata](https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Posdata](https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km) | 3:32 | 2023-05-29 |  |
 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 | 2023-03-31 |  |
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-13 | 2022-02-25 |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 | 2022-12-20 |

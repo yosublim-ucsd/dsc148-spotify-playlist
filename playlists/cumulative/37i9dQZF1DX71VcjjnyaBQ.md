@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-171 songs - 14 hr 56 min
+172 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2022-02-10 |  |
+| [Contemplation](https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Contemplation](https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv) | 4:37 | 2023-05-25 |  |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/54ajuaWk3qWWM2IRfDKnul) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Coup de foudre à Thessalonique](https://open.spotify.com/album/2DUeBPypI4SmJ4Nr6HQQ4m) | 4:22 | 2021-12-21 | 2022-07-29 |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2022-06-30 | 2022-08-30 |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2022-02-10 | 2022-08-30 |
@@ -151,7 +152,7 @@
 | [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
-| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-05-30 |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |

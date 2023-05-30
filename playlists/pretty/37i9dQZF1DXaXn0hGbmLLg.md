@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! <a href="spotify:artist:2ZNTJ9Bu9QMJwBboMSpQgJ">Floor Jansen</a> is EQUAL Netherlands ambassador for May
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

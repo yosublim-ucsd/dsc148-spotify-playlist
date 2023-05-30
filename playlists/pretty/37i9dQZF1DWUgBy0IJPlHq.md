@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Buck Meek
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,807 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,960 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 65 | [The Devil Always Made Me Think Twice](https://open.spotify.com/track/40FSPpFK3mhTjJvPE3wygi) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/1UfyxIrWgV9362cakdeucO) | 4:11 |
 | 66 | [Quite Like You](https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:12 |
 | 67 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
-| 68 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 |
+| 68 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 |
 | 69 | [If I May Be So Bold](https://open.spotify.com/track/6tVvfvsV7aIhTwKGy6c9R7) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 3:10 |
 | 70 | [Using Again](https://open.spotify.com/track/6TQzLEc2mFHyZ4eYXu50ma) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [I Will Rise](https://open.spotify.com/album/1Vl2kmltMKBocyjqcqGSZH) | 2:43 |
 | 71 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 |

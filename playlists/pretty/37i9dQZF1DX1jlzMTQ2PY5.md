@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,628 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,795 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 27 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 28 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
 | 29 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 |
-| 30 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
-| 31 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
+| 30 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
+| 31 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 32 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
 | 33 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 34 | [Don't Ever](https://open.spotify.com/track/1VlTXiHOAbQf7eXe15gBU9) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Don't Ever](https://open.spotify.com/album/3eMBkyz6Jilgc7OMLcduCg) | 4:30 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 44 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
 | 45 | [Be Free](https://open.spotify.com/track/56lz6rWxzgLWYDmGXxkeJB) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3UcwpRzAtmNpWWW5gfJ58s) | 3:51 |
 | 46 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
-| 47 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
-| 48 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
-| 49 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 |
-| 50 | [Save Me From You](https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Passage](https://open.spotify.com/album/15P7PptbdFFnrVcP0MwYh6) | 4:01 |
+| 47 | [Save Me From You](https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Passage](https://open.spotify.com/album/15P7PptbdFFnrVcP0MwYh6) | 4:01 |
+| 48 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 |
+| 49 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
+| 50 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
 
 Snapshot ID: `MCw4MTU0NzllYTM0NGM1MjcwMzY3MzJjMDk2NWMyNTYxOGFkNTc2Yjlh`

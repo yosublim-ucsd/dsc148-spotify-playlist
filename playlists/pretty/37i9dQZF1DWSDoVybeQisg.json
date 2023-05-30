@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1090089,
+  "num_followers": 1090713,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Disraeli Gears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
         "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
@@ -191,50 +175,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
       "artists": [
         {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "A Space in Time (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "I'd Love to Change the World - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -255,18 +207,50 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+        "name": "A Space in Time (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
       },
       "artists": [
         {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
         }
       ],
-      "duration_ms": 163293,
-      "name": "Friday On My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+      "duration_ms": 224133,
+      "name": "I'd Love to Change the World - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday On My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -299,70 +299,6 @@
       "duration_ms": 172400,
       "name": "Mr. Soul",
       "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
-      },
-      "artists": [
-        {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -383,6 +319,70 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Younger Than Yesterday",
         "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 188240,
       "name": "My Back Pages",
       "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Forever Changes (2015 Remaster)",
         "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 86693,
-      "name": "The Good Mr. Square",
-      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Light and Heavy/The Best of...",
         "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 173986,
       "name": "In-A-Gadda-Da-Vida - Single Version",
       "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 86693,
+      "name": "The Good Mr. Square",
+      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Clear Spot",
         "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 315040,
       "name": "Comin' Back to Me",
       "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 284319,
-      "name": "The Red Telephone - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Incense & Peppermints",
         "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 169800,
       "name": "Incense And Peppermints",
       "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 284319,
+      "name": "The Red Telephone - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -983,30 +983,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Cactology \"The Cactus Collection\"",
-        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
-      },
-      "artists": [
-        {
-          "name": "Cactus",
-          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
-        },
-        {
-          "name": "Gene Paul",
-          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
-        },
-        {
-          "name": "Jackson Howe",
-          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Evil - Single Version",
-      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Roger the Engineer",
         "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
@@ -1039,18 +1015,26 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+        "name": "Cactology \"The Cactus Collection\"",
+        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
+        },
+        {
+          "name": "Gene Paul",
+          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
+        },
+        {
+          "name": "Jackson Howe",
+          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
+      "duration_ms": 196800,
+      "name": "Evil - Single Version",
+      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 153426,
-      "name": "5D (Fifth Dimension)",
-      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1115,6 +1099,22 @@
       "duration_ms": 276960,
       "name": "We Love You - Single Version/Mono",
       "url": "https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 153426,
+      "name": "5D (Fifth Dimension)",
+      "url": "https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9"
     },
     {
       "added_at": "2023-01-18 16:20:47",

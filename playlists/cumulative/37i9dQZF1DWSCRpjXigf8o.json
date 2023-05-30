@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
@@ -3076,6 +3076,24 @@
       "duration_ms": 243040,
       "name": "Morning Light (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI"
+    },
+    {
+      "album": {
+        "name": "flow",
+        "url": "https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf"
+      },
+      "artists": [
+        {
+          "name": "Fuyuni wakarete",
+          "url": "https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200931,
+      "name": "Morning like a breath",
+      "url": "https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf"
     },
     {
       "album": {

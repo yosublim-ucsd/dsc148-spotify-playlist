@@ -2154,10 +2154,28 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 170581,
       "name": "Shehar Vichon Geda",
       "url": "https://open.spotify.com/track/1iwSPHz1qbtubRMjz5VSFf"
+    },
+    {
+      "album": {
+        "name": "Jordan Sandhu Hits",
+        "url": "https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170581,
+      "name": "Shehar Vichon Geda",
+      "url": "https://open.spotify.com/track/6eJoeuPQznU1cOsF3O8Pv6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 33393,
+  "num_followers": 33544,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "ANTI$$OCIAL",
         "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 204814,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -243,6 +243,30 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "Deepak Looper",
         "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
@@ -255,30 +279,6 @@
       "duration_ms": 193492,
       "name": "Impec",
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "3,14",
-        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
-        }
-      ],
-      "duration_ms": 324763,
-      "name": "3,14",
-      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -407,30 +407,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
-      },
-      "artists": [
-        {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 243180,
       "name": "Do You No Wrong",
       "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "3,14",
+        "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "duration_ms": 324763,
+      "name": "3,14",
+      "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -483,38 +483,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "19.2k",
         "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Reflexo",
-        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
       "artists": [
         {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -639,6 +623,22 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -843,38 +843,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "DECLIVE",
-        "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
-      },
-      "artists": [
-        {
-          "name": "EU.CLIDES",
-          "url": "https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "T\u00ea Menos 1",
-      "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
@@ -887,6 +855,22 @@
       "duration_ms": 314009,
       "name": "Conversas",
       "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "DECLIVE",
+        "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
+      },
+      "artists": [
+        {
+          "name": "EU.CLIDES",
+          "url": "https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "T\u00ea Menos 1",
+      "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -907,6 +891,22 @@
       "duration_ms": 176747,
       "name": "Ser Tua",
       "url": "https://open.spotify.com/track/5FbRfLcCPfony92UnLd2vQ"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "EU SEI",
-        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
-      },
-      "artists": [
-        {
-          "name": "Wayn Dior",
-          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "EU SEI",
-      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Tequila (Studio Version)",
         "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+        "name": "EU SEI",
+        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
         }
       ],
-      "duration_ms": 256144,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+      "duration_ms": 223961,
+      "name": "EU SEI",
+      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1123,6 +1107,42 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 256144,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "FALA COMIGO",
+        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        },
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "FALA COMIGO",
+      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
       },
@@ -1155,22 +1175,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "\u00c1gua",
         "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc"
       },
@@ -1183,6 +1187,22 @@
       "duration_ms": 207593,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1207,22 +1227,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "HEADS or TAILS",
-        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
-      },
-      "artists": [
-        {
-          "name": "THE F LIBRA",
-          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
-        }
-      ],
-      "duration_ms": 221597,
-      "name": "HEADS or TAILS",
-      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Cora\u00e7\u00e3o Dormente",
         "url": "https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m"
       },
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "FALA COMIGO",
-        "url": "https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct"
+        "name": "HEADS or TAILS",
+        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
       },
       "artists": [
         {
-          "name": "Wayn Dior",
-          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        },
-        {
-          "name": "Codie",
-          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+          "name": "THE F LIBRA",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
         }
       ],
-      "duration_ms": 164848,
-      "name": "FALA COMIGO",
-      "url": "https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a"
+      "duration_ms": 221597,
+      "name": "HEADS or TAILS",
+      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Ansiedade",
-        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
-      },
-      "artists": [
-        {
-          "name": "DJ Danifox",
-          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
-        }
-      ],
-      "duration_ms": 225781,
-      "name": "Chopper",
-      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "T\u00e1 tarde",
         "url": "https://open.spotify.com/album/1ZSCM6ieyNDFPe4r1ZEEuz"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 239069,
       "name": "T\u00e1 tarde",
       "url": "https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Ansiedade",
+        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
+      },
+      "artists": [
+        {
+          "name": "DJ Danifox",
+          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
+        }
+      ],
+      "duration_ms": 225781,
+      "name": "Chopper",
+      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
     }
   ],
   "unique_name": "Seda",

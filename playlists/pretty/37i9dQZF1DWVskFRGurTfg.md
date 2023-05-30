@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911,498 likes - 102 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,833 likes - 102 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

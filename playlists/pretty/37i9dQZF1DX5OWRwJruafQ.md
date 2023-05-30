@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,413 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,513 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 63 | [Blackia](https://open.spotify.com/track/6G6NmeI3pYtySZwyye0tve) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Blackia](https://open.spotify.com/album/40kwbF5EXqVjMOs4XLnnlL) | 3:41 |
 | 64 | [COLT](https://open.spotify.com/track/1Fw5ukhflInIR231hZlCKm) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [COLT](https://open.spotify.com/album/6WscZt1HboXCS8fTfLn3Lr) | 3:26 |
 | 65 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 |
-| 66 | [Shehar Vichon Geda](https://open.spotify.com/track/1iwSPHz1qbtubRMjz5VSFf) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Shehar Vichon Geda](https://open.spotify.com/album/5rkr7jF7sQKBCnXyLhb9iX) | 2:50 |
+| 66 | [Shehar Vichon Geda](https://open.spotify.com/track/6eJoeuPQznU1cOsF3O8Pv6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:50 |
 | 67 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 |
 | 68 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 |
 | 69 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 |

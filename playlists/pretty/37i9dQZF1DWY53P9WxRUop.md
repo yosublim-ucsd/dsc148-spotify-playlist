@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY53P9WxRUop.md) - [plain]
 
 > Summer fun for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,384 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,388 likes - 76 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

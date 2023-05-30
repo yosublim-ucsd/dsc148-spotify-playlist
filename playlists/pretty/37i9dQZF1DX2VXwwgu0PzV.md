@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl?si=iRktR54\_Rx\-F1GbMBS3OLg"> Elikem Kofi </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,352 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,420 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

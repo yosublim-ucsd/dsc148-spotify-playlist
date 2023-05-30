@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,374 likes - 133 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,425 likes - 133 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

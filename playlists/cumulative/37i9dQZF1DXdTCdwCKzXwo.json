@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 433573,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
@@ -1508,6 +1508,24 @@
       "duration_ms": 151520,
       "name": "Janitor",
       "url": "https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH"
+    },
+    {
+      "album": {
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181746,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
     },
     {
       "album": {

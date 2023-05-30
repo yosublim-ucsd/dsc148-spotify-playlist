@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-144 songs - 7 hr 54 min
+145 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blue Skies over the Rainbow](https://open.spotify.com/track/7uWglBQH4LKfqeeDvBcyfw) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16), [Anna Park](https://open.spotify.com/artist/6S3LnxojdbXGkHUgBtY3wu) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 1:47 | 2022-04-01 | 2023-04-09 |
 | [Butterfly](https://open.spotify.com/track/18CZAWrqDV0PkePtkqfZMr) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 2:29 | 2022-04-01 | 2023-04-09 |
 | [Calvin and Hobbes](https://open.spotify.com/track/1kRotlWaCLJSrYtdINoMp8) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Calvin and Hobbes](https://open.spotify.com/album/7q0GkrxtK6jOqLNRZ5G4i1) | 3:41 | 2022-04-01 | 2023-04-09 |
-| [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 | 2022-04-01 |  |
+| [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 | 2022-04-01 | 2023-05-30 |
 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 | 2022-04-01 |  |
 | [Dance for the Sun](https://open.spotify.com/track/5OoDqQXT5jqWoIKhNn9HIB) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Dance for the Sun: Yoga Songs for Kids](https://open.spotify.com/album/4JPicsqmJZFZ1zJE05nSuo) | 2:48 | 2022-04-01 | 2023-05-16 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-04-01 |  |
@@ -49,6 +49,7 @@
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-04-01 |  |
 | [Heart of Mine](https://open.spotify.com/track/6QBMx8FuorZiRIDHhQaJ3R) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:59 | 2022-04-01 | 2023-04-09 |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2022-04-01 | 2023-05-23 |
+| [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 | 2023-04-19 |  |
 | [Hide and Seek](https://open.spotify.com/track/3ih4P7s29EH3syPXMBWE4D) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Wild Life](https://open.spotify.com/album/0qYRZ1gdZm5eaXcGpNKtLx) | 4:05 | 2022-04-01 | 2023-04-09 |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2022-04-01 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-04-01 |  |

@@ -668,10 +668,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 219213,
       "name": "Fire Thoughts",
       "url": "https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah"
+    },
+    {
+      "album": {
+        "name": "Fire Thoughts",
+        "url": "https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs"
+      },
+      "artists": [
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219213,
+      "name": "Fire Thoughts",
+      "url": "https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX"
     },
     {
       "album": {

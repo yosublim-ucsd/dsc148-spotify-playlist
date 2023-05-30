@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Chayanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,022 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,076 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 14 | [Te Amo](https://open.spotify.com/track/6kvSkhttC74idDb1OIg1uv) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2), [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Amo](https://open.spotify.com/album/2wBU2X8li4qiYGCl64gS9s) | 2:59 |
 | 15 | [Ya Te Olvidé \- Remix Salsa](https://open.spotify.com/track/4zjGSkn4XNJPSZwYHv3dli) | [Vernis Hernandez](https://open.spotify.com/artist/13CPTHHOXULlgghXXmSFD2), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Ya Te Olvidé \(Remix Salsa\)](https://open.spotify.com/album/2suxJcw6nbSpU0ikg8LHch) | 4:38 |
 | 16 | [Fanatica Sensual / Ven Bailalo / Hoy Volvi a Verte](https://open.spotify.com/track/5Pqhi8F2Sjf69TfotArgSz) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Piola Vago](https://open.spotify.com/artist/1x2foxZ9bbVPqu3EMonEIM) | [Y Lo Bailas Con..\. Piola Vago](https://open.spotify.com/album/2WUqeST9lWZojKFKW9XFDd) | 4:07 |
-| 17 | [Donde quedò tu amor](https://open.spotify.com/track/7vOmsloe7fUauum5vf9zo5) | [Maximo Music](https://open.spotify.com/artist/5Lg6ozilxbJnb7tJvHdXH7), [Jerard Montana](https://open.spotify.com/artist/5mDJI7ayqJjrnqCZn8swTs) | [Tu supiste? Bachata!](https://open.spotify.com/album/32c8tny967ajqsm9zUeCQd) | 3:26 |
+| 17 | [Donde quedò tu amor](https://open.spotify.com/track/7vOmsloe7fUauum5vf9zo5) | [Maximo Music](https://open.spotify.com/artist/5Lg6ozilxbJnb7tJvHdXH7), [Jerard Montana](https://open.spotify.com/artist/5mDJI7ayqJjrnqCZn8swTs) | [Tu supiste? Bachata!](https://open.spotify.com/album/32c8tny967ajqsm9zUeCQd) | 3:25 |
 | 18 | [Team Perfecto](https://open.spotify.com/track/0TLbqWt4VO89aRGwM0Lhmb) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Team Perfecto](https://open.spotify.com/album/2Wm3hajATzDFUiAeLcriUN) | 2:27 |
 | 19 | [Ciudad de Sueños](https://open.spotify.com/track/6FyVoKuV0m3AAXzD9ZRh93) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Angel Castro](https://open.spotify.com/artist/4QW3iLEGtbVpzEDmPncHFx) | [Folclor Urbano](https://open.spotify.com/album/3DQu5lsu0kqYlQmmKIv3PH) | 3:50 |
 | 20 | [Un x100to](https://open.spotify.com/track/6as0zKfMVwEgo7anl9yMd9) | [La Pleyer](https://open.spotify.com/artist/2aNUpJ7j735QzVplzYdlRJ), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Un x100to](https://open.spotify.com/album/4RyQuErXmhHcW3YZyT1yPN) | 3:28 |

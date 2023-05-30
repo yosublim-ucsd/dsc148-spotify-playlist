@@ -4,7 +4,7 @@
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ozuna & Omah Lay
 
-116 songs - 6 hr 18 min
+117 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 | 2022-04-28 |  |
 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 | 2023-01-13 |  |
 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 | 2023-05-08 |  |
-| [Poporó](https://open.spotify.com/track/0qHuoIiRu99tU4alQbgYX1) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/5yt1qMBdcKe4wKK38GW0Xp) | 2:49 | 2023-02-10 |  |
+| [Poporó](https://open.spotify.com/track/0qHuoIiRu99tU4alQbgYX1) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/5yt1qMBdcKe4wKK38GW0Xp) | 2:49 | 2023-02-10 | 2023-05-30 |
 | [Poporó](https://open.spotify.com/track/1u0gZYeHRGAknZZTjmZ6uK) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3dKFrunU6BT9Q8WPloRmBn) | 2:49 | 2022-02-16 | 2022-07-29 |
 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 | 2022-05-12 | 2023-01-17 |
 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 | 2022-02-16 |  |
@@ -114,6 +114,7 @@
 | [Tayari](https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Tayari](https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U) | 2:38 | 2022-02-16 |  |
 | [Te Amo](https://open.spotify.com/track/0GsPeFVhoWKJljDoV1pPnx) | [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Te Amo](https://open.spotify.com/album/4nGbjxnPJJalt9Q809Oexm) | 3:58 | 2022-02-16 | 2022-09-27 |
 | [Te Gusta](https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z) | [Young "D"](https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Te Gusta](https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V) | 3:26 | 2022-02-16 |  |
+| [Toco Madera](https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Toco Madera](https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8) | 3:48 | 2023-05-26 |  |
 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 | 2022-02-16 |  |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-02-16 |  |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-25 |  |

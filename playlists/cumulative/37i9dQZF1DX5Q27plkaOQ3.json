@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q"
@@ -1208,6 +1208,24 @@
       "duration_ms": 126854,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV"
+    },
+    {
+      "album": {
+        "name": "Catchin A Vibe",
+        "url": "https://open.spotify.com/album/3NrET4JIFJGchcM5fsxK0e"
+      },
+      "artists": [
+        {
+          "name": "Herobust",
+          "url": "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Catchin A Vibe - Original Mix",
+      "url": "https://open.spotify.com/track/6LtPtA337boR9e4bBDuBht"
     },
     {
       "album": {
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 192400,
       "name": "New Worlds",
       "url": "https://open.spotify.com/track/5qZCfREGHqnQzurCDucvCE"

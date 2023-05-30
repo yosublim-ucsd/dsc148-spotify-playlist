@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCOSaet9tpB.md) - [plain]
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=GXBj6FkrTdab4NKuALT\_1g"> Asake</a>   and <a href="https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr?si=PaPBBIqBSZWVqlKNGdiE\-g"> Olamide</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,607 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,886 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

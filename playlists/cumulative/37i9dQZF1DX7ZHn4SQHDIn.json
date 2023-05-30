@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "ITZY? \uc788\uc9c0! It'z ITZY Time!",
+  "description": "",
   "name": "This Is ITZY",
   "tracks": [
     {
@@ -1278,6 +1278,24 @@
       "duration_ms": 177742,
       "name": "Not Shy - Japanese ver.",
       "url": "https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.5",
+        "url": "https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "One Hundred Love",
+      "url": "https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6"
     },
     {
       "album": {

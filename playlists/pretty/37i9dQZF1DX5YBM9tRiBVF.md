@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:6ngMbvXa9lkh6ArCCuw0LQ">Axelle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,020 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,022 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

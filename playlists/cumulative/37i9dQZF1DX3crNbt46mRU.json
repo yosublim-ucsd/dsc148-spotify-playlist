@@ -22306,6 +22306,10 @@
         {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
         }
       ],
       "date_added": "2023-05-25",
@@ -26536,6 +26540,28 @@
       "duration_ms": 173869,
       "name": "Crush feat. Erika de Casier",
       "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
+    },
+    {
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
     },
     {
       "album": {
@@ -83118,7 +83144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 211774,
-      "name": "Name in lights",
+      "name": "Name in Lights",
       "url": "https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x"
     },
     {

@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 241600,
       "name": "Ikiru",
       "url": "https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp"
@@ -3484,6 +3484,24 @@
       "duration_ms": 185400,
       "name": "MOONRAKER",
       "url": "https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c"
+    },
+    {
+      "album": {
+        "name": "flow",
+        "url": "https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf"
+      },
+      "artists": [
+        {
+          "name": "Fuyuni wakarete",
+          "url": "https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200931,
+      "name": "Morning like a breath",
+      "url": "https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf"
     },
     {
       "album": {
@@ -6685,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "\u3057\u3070\u305f\u3055\u3068\u3053\u5cf6",
+        "url": "https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "\u30ab\u30fc\u30d7\u30d5\u30a1\u30f3\u306e\u5b50",
+      "url": "https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK"
+    },
+    {
+      "album": {
         "name": "Mix Wave",
         "url": "https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd"
       },
@@ -8546,7 +8582,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 103266,
       "name": "\u7a7a\u524d\u7d76\u5f8c\u306e\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M"

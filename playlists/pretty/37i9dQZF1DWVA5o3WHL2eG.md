@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,339 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,358 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 12 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
 | 13 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
 | 14 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
-| 15 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
-| 16 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
+| 15 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
+| 16 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
 | 17 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
 | 18 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
 | 19 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [Loose Lips](https://open.spotify.com/track/4EPqqtmYj7gOmIRw6boqKs) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Loose Lips \(Original and Jody Wisternoff & James Grant Mixes\)](https://open.spotify.com/album/32udrYYGz0lkvE7F50asV1) | 3:47 |
 | 30 | [Alleine](https://open.spotify.com/track/62Dmi359e09S58Srti5kmz) | [DenniJasmin](https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE) | [Alleine](https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD) | 2:28 |
 | 31 | [Zwischen den schönsten Bäumen](https://open.spotify.com/track/6a8ctjjBxs2HGy7yFaixPs) | [toksi](https://open.spotify.com/artist/5vek8wrRCD5UxnUlctYXgx) | [Zwischen den schönsten Bäumen](https://open.spotify.com/album/798k3MMihXKGasMfctNrXF) | 4:19 |
-| 32 | [Tale Of Devotion \- Sunny Version](https://open.spotify.com/track/786xUYv8djinGFUze6WGpX) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:25 |
-| 33 | [FIREWORK](https://open.spotify.com/track/4FXzptXwH5Wz33SVat2uRt) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [FIREWORK](https://open.spotify.com/album/2lQIr73uagdffu6XPh4CjZ) | 3:36 |
+| 32 | [FIREWORK](https://open.spotify.com/track/4FXzptXwH5Wz33SVat2uRt) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [FIREWORK](https://open.spotify.com/album/2lQIr73uagdffu6XPh4CjZ) | 3:36 |
+| 33 | [Tale Of Devotion \- Sunny Version](https://open.spotify.com/track/786xUYv8djinGFUze6WGpX) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:25 |
 | 34 | [DJ in Berlin](https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 2:46 |
 | 35 | [SOAMI](https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD) | 3:38 |
 | 36 | [Star](https://open.spotify.com/track/5xGZRYQ5H7bJT5oZWg7Bag) | [FEMME5](https://open.spotify.com/artist/6twhscECdbU4hMMZ5hmuii) | [Star](https://open.spotify.com/album/7LhkWbwq2Boz1borVsHS13) | 2:43 |

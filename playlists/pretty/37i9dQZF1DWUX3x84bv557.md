@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Zoë Tauran \(Spotify <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\) op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,932 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,021 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

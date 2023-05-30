@@ -1,6 +1,6 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 881,
+  "num_followers": 887,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
-        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "R\u00e8ve nou anc\u00e8tre",
-      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zoli",
         "url": "https://open.spotify.com/album/5V6V6Ox9iETTcoGCVVLi8T"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 316446,
       "name": "Zoli",
       "url": "https://open.spotify.com/track/7JrGJYwOf7qoXCe4CGsyj8"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
+        "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "R\u00e8ve nou anc\u00e8tre",
+      "url": "https://open.spotify.com/track/7CJjb2vLJSQPqUIEX1TpRV"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -387,30 +387,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        }
-      ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -423,26 +399,6 @@
       "duration_ms": 209128,
       "name": "Longanis",
       "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Main dans la main",
-        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        },
-        {
-          "name": "Le Groupe Ravanna",
-          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Vir\u00e9",
-      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -479,18 +435,46 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Craz\u00e9 s\u00e9ga 2019",
-        "url": "https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF"
+        "name": "Main dans la main",
+        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
       },
       "artists": [
         {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p"
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        },
+        {
+          "name": "Le Groupe Ravanna",
+          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
         }
       ],
-      "duration_ms": 218769,
-      "name": "Medley marcel",
-      "url": "https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9"
+      "duration_ms": 304946,
+      "name": "Vir\u00e9",
+      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -519,18 +503,34 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+        "name": "Craz\u00e9 s\u00e9ga 2019",
+        "url": "https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF"
       },
       "artists": [
         {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
+      "duration_ms": 218769,
+      "name": "Medley marcel",
+      "url": "https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+      },
+      "artists": [
+        {
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+        }
+      ],
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -551,6 +551,22 @@
       "duration_ms": 250358,
       "name": "Ti lipi\u00e9 fer rozet",
       "url": "https://open.spotify.com/track/31pGdVTn8adJ9FV2515Lkd"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -587,6 +603,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Love Ambassador",
         "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
       },
@@ -607,34 +639,34 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
+        "name": "A nou santt Cassya",
+        "url": "https://open.spotify.com/album/241lyCwOGhmRLROixQD046"
       },
       "artists": [
         {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
+          "name": "Clarel Armelle",
+          "url": "https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2"
         }
       ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
+      "duration_ms": 286275,
+      "name": "Kitole",
+      "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+        "name": "Zalouzi",
+        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
       "artists": [
         {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+          "name": "JSB Morning Game",
+          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
         }
       ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+      "duration_ms": 281917,
+      "name": "Madame ohh",
+      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -651,22 +683,6 @@
       "duration_ms": 285431,
       "name": "Ma demand aou pardon",
       "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "A nou santt Cassya",
-        "url": "https://open.spotify.com/album/241lyCwOGhmRLROixQD046"
-      },
-      "artists": [
-        {
-          "name": "Clarel Armelle",
-          "url": "https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2"
-        }
-      ],
-      "duration_ms": 286275,
-      "name": "Kitole",
-      "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -703,22 +719,6 @@
       "duration_ms": 308052,
       "name": "Eliza",
       "url": "https://open.spotify.com/track/15fYq0hQa3jljdJpYKm1X3"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Zalouzi",
-        "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
-      },
-      "artists": [
-        {
-          "name": "JSB Morning Game",
-          "url": "https://open.spotify.com/artist/6B9Kbq1Jds4MxuYWXSAoj7"
-        }
-      ],
-      "duration_ms": 281917,
-      "name": "Madame ohh",
-      "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Le Roi du s\u00e9ga",
-        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
-      },
-      "artists": [
-        {
-          "name": "Luc Donat",
-          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "S\u00e9ga Jacquot",
-      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "ZENFAN LAKAZ TOL",
         "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 301287,
       "name": "Granper Sorti Diego",
       "url": "https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Le Roi du s\u00e9ga",
+        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
+      },
+      "artists": [
+        {
+          "name": "Luc Donat",
+          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "S\u00e9ga Jacquot",
+      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",

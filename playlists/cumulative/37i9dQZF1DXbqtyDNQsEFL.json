@@ -1713,6 +1713,28 @@
     },
     {
       "album": {
+        "name": "Now I See",
+        "url": "https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9"
+      },
+      "artists": [
+        {
+          "name": "MUNACHi4u",
+          "url": "https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao"
+        },
+        {
+          "name": "Mr. DDavid",
+          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191451,
+      "name": "Now I See",
+      "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
+    },
+    {
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
       },
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 489493,
       "name": "Olowo Orimi (The One Who Paid For Me)",
       "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlpBrO6fF3s.md) - [plain]
 
 > I'm The One! A TEEnager Z is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,622 likes - 106 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,794 likes - 106 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

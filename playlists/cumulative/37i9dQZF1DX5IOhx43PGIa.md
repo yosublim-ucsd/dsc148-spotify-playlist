@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Katherine Li.
 
-456 songs - 23 hr 45 min
+457 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-27 | 2022-07-24 |
 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 | 2022-06-03 | 2022-11-12 |
 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 | 2022-09-23 | 2022-10-08 |
+| [satuRday](https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [satuRday](https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn) | 3:13 | 2023-05-26 |  |
 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 | 2022-07-22 | 2022-08-27 |
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2022-06-03 | 2022-07-15 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-06-03 |  |
@@ -463,6 +464,6 @@
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 |  |
 | [途中](https://open.spotify.com/track/6ps7aXKGIUjokiYT7e727f) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/2JkrYRPnJyStuspThL1Raz) | 3:31 | 2022-12-02 | 2023-01-06 |
 | [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-06-17 | 2022-07-29 |
-| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 |  |
+| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2023-05-05 | 2023-05-30 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

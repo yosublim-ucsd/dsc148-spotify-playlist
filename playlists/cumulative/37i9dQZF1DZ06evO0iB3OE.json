@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 210626,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 129533,
       "name": "Como en la Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh"
@@ -302,6 +302,24 @@
       "duration_ms": 198080,
       "name": "D\u00e9jame Vac\u00edo",
       "url": "https://open.spotify.com/track/42XVojXanKowQL0mGqMxls"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198280,
+      "name": "D\u00e9jame Vac\u00edo",
+      "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
     },
     {
       "album": {
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 162586,
       "name": "Se Equivoc\u00f3 El Pistolero",
       "url": "https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB"

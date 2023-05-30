@@ -7533,6 +7533,28 @@
     },
     {
       "album": {
+        "name": "Ringo",
+        "url": "https://open.spotify.com/album/6t0AxO1pGwK7a6Nh6YzCNp"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156031,
+      "name": "Ringo",
+      "url": "https://open.spotify.com/track/0jNxBp6TaBMq1Ws1FJHANF"
+    },
+    {
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi"
       },
@@ -7598,7 +7620,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 359785,
       "name": "Run",
       "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"

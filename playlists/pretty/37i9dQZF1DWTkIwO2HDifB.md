@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Galopeira e os funks mais 🔑 do Brasil\. Foto: Mc Menor MT, DJ Deivão, DJ Gouveia
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,645,720 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,648,910 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

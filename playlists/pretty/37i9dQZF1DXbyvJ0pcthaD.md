@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,089 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,717 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

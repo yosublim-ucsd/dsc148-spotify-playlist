@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Robert Robert
 
-1,870 songs - 4 day 4 hr 11 min
+1,871 songs - 4 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [PARANO](https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 4:44 | 2023-04-28 |  |
 | [Paranoïa](https://open.spotify.com/track/3vqJP70l0kLjnLFAtGvb2G) | [Abach](https://open.spotify.com/artist/6fA844834oMBVWdtAu61HU) | [Paranoïa](https://open.spotify.com/album/04sXwrxoUbpMQUyEyNX34j) | 2:52 | 2021-12-31 | 2022-01-15 |
 | [Parapluie](https://open.spotify.com/track/1XZKHDMlUHWM9tKnM8xVzB) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [D'étrangers à inséparables](https://open.spotify.com/album/1W07T8a3zF6Lx91GFEqrjb) | 2:27 | 2022-02-18 | 2022-02-26 |
+| [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 | 2023-05-26 |  |
 | [Pareil](https://open.spotify.com/track/0J0rDoDXLbfd6TBG0SQ7tW) | [MARSÖ](https://open.spotify.com/artist/37RukdYtWA60WOsfruiHxN) | [Pareil](https://open.spotify.com/album/3SRMVs9t0OFfr1zEAKl1qi) | 3:08 | 2023-03-24 | 2023-04-09 |
 | [Pareil mais différent](https://open.spotify.com/track/5jMUzrpbfbGFBSbWYHceGb) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Pareil mais différent](https://open.spotify.com/album/3w7Oj73ra5LYS9nWTG818e) | 3:34 | 2022-06-17 | 2022-06-25 |
 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 3:36 | 2023-05-19 |  |
@@ -1755,7 +1756,7 @@
 | [Un quart de piasse \- Live](https://open.spotify.com/track/3Xb6stHGO2NCBskX4Xz0cf) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Un quart de piasse \(Live\)](https://open.spotify.com/album/6J6CEMVzRJorUfu5KGi0YY) | 4:24 | 2022-10-14 | 2022-10-29 |
 | [Un rêve, un songe](https://open.spotify.com/track/3xlPGMV4CPpC3cIXotTzSF) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Jeanne](https://open.spotify.com/album/4r6Z0iuizkpuULr6XQulES) | 3:14 | 2022-09-30 | 2022-10-15 |
 | [Un soleil toujours](https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Un soleil toujours](https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh) | 3:13 | 2022-09-16 | 2022-10-01 |
-| [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 |  |
+| [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 | 2023-05-30 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-05-21 |
 | [Une jument pour toi ma chérie \- From "C'est comme ça que je t'aime"](https://open.spotify.com/track/5UyxUq4mgFQMLyHBYaWcMd) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Une jument pour toi ma chérie \(From "C'est comme ça que je t'aime"\)](https://open.spotify.com/album/5DblDY3o3ZZRCB2rekL5MB) | 3:33 | 2022-04-22 | 2022-05-07 |
 | [Une équipe](https://open.spotify.com/track/7e4hmTXOKlmZSBbUhPPF2Z) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Une équipe](https://open.spotify.com/album/1ct2biHjYjcx7A7dMcFhTB) | 3:17 | 2022-04-22 | 2022-05-07 |

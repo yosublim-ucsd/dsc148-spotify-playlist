@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 497822,
+  "num_followers": 498904,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
-      "added_at": "2023-05-28 01:06:32",
+      "added_at": "2023-05-30 01:33:45",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "At Folsom Prison",
         "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162653,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 205706,
       "name": "I Like It, I Love It",
       "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -919,22 +935,6 @@
       "duration_ms": 226493,
       "name": "Jesus, Take the Wheel",
       "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Pure Country",
-        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I Cross My Heart - Pure Country Soundtrack Version",
-      "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Pure Country",
+        "url": "https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "I Cross My Heart - Pure Country Soundtrack Version",
+      "url": "https://open.spotify.com/track/6FHXJu99aQAUnivEjPhuUR"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
-        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "High Cotton",
-      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Greatest Hits - Finest Performances",
         "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 174666,
       "name": "Fightin Side Of Me",
       "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "High Cotton",
+      "url": "https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "All I Can Be",
-        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Love, Me",
-      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 179333,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "All I Can Be",
+        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Love, Me",
+      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 145866,
       "name": "Hello Darlin' - Single Version",
       "url": "https://open.spotify.com/track/4TMP1aRZUsG8C4HChYtfgC"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/70TsRbycWfabtevnripyRu"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 148320,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/1jGa3ZVWNhqes22ZoVBfOJ"
+      "duration_ms": 178600,
+      "name": "A Good Hearted Woman - Live at Western Place, Dallas, Texas - September 25, 1974",
+      "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
     }
   ],
   "unique_name": "Country's Greatest Hits",

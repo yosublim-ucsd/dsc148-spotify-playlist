@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,883,893 likes - 25 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,884,392 likes - 25 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

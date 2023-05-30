@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bHYNN(\ubc15\ud61c\uc6d0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bMelomance(\uba5c\ub85c\ub9dd\uc2a4)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -366,6 +366,24 @@
       "duration_ms": 234998,
       "name": "A season of us",
       "url": "https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42"
+    },
+    {
+      "album": {
+        "name": "A Shining Day",
+        "url": "https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "A Shining Day",
+      "url": "https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr"
     },
     {
       "album": {

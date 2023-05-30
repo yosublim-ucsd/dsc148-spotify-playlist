@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,254 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,320 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=4OR4mHSYQMmFchUZwc5Qgw"> Chidiya Ohiagu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 50 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 50 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=frnSGsW8RRqy7NDLoYkR0w">Steffany Gretzinger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,471 likes - 101 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,737 likes - 101 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

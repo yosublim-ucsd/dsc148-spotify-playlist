@@ -1,6 +1,6 @@
 {
   "description": "Sit back, stay awhile, and savor the soft, sweet sounds of this collection. ",
-  "num_followers": 216410,
+  "num_followers": 216262,
   "original_name": "Front Porch",
   "owner": {
     "name": "Spotify",
@@ -64,12 +64,12 @@
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
           "name": "Molly Tuttle",
           "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
       "duration_ms": 232827,

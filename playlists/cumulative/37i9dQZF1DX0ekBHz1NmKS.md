@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-709 songs - 1 day 13 hr 31 min
+711 songs - 1 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-10 | 2022-09-13 |
 | [ABYSS](https://open.spotify.com/track/6gypzqa8LCZuGUnyPPCZCN) | [Franklin](https://open.spotify.com/artist/1QiIaPCrDLhnRfAg6xz8tT) | [ABYSS](https://open.spotify.com/album/5SO5qSja0Nm03HJcnJWzBq) | 2:08 | 2022-03-10 | 2022-05-08 |
 | [Afterlife](https://open.spotify.com/track/4bj8WRDUFsguMFAxG22e8c) | [Siqu](https://open.spotify.com/artist/29naRiyir00pkFnYm5H2X2) | [Afterlife](https://open.spotify.com/album/6vulfTqSVGblktuJ1K19Jx) | 2:38 | 2022-03-10 | 2022-06-24 |
-| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 |  |
+| [Airforce blue](https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Airforce blue](https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn) | 2:48 | 2023-03-30 | 2023-05-30 |
 | [Aldrig haft något annat val](https://open.spotify.com/track/2aTbJ9yyMrseRuHq9c9jY2) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aldrig haft något annat val](https://open.spotify.com/album/3Jmo7YMZXHnSGkLOPv7Dqb) | 3:09 | 2021-12-16 | 2022-03-11 |
 | [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 | 2023-01-16 |
 | [Aldrig Nu](https://open.spotify.com/track/3qoMs4kUASB2z2wTyO8hJf) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Aldrig Nu](https://open.spotify.com/album/5RO32hFSccBxgZkxHxOwuo) | 3:50 | 2021-12-16 | 2022-03-11 |
@@ -234,6 +234,7 @@
 | [Give It Up](https://open.spotify.com/track/0cfa6feWmBpltHW6vKjTTt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Give It Up](https://open.spotify.com/album/44uVGm0rxxL1y4ooq1fVJ6) | 2:41 | 2021-12-16 | 2022-01-31 |
 | [Glittret](https://open.spotify.com/track/1flHUFk0tmQxAgCFcgg5NK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Glittret](https://open.spotify.com/album/03xYeyaQWSy9HD9Zw8uqO5) | 4:36 | 2022-04-28 | 2022-07-14 |
 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 |  |
+| [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-25 |  |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-06-23 | 2023-05-08 |
 | [Golvet i hallen](https://open.spotify.com/track/24WDseuPQ5e5uYNnIWQWDw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Golvet i hallen](https://open.spotify.com/album/66D5quLzs9gUl8dyRmVWFW) | 3:06 | 2023-03-30 |  |
 | [Good Parts](https://open.spotify.com/track/3SaWMd7Gk3R2FGz7aKNfbL) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Good Parts](https://open.spotify.com/album/5tsdwoSxgUo6pjNhIa0GKb) | 2:30 | 2022-05-12 | 2022-07-18 |
@@ -515,6 +516,7 @@
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 |  |
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
+| [Sand i min hand](https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Sand i min hand](https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ) | 3:12 | 2023-05-25 |  |
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 | 2022-12-24 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 | 2023-02-09 | 2023-04-02 |
@@ -600,7 +602,7 @@
 | [Svår](https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Svår](https://open.spotify.com/album/71B5YM1pJ7ZgMXX82ZgD06) | 3:16 | 2022-01-13 | 2022-04-01 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
-| [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 |  |
+| [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 | 2023-05-30 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |
 | [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 | 2023-01-29 |
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 |  |

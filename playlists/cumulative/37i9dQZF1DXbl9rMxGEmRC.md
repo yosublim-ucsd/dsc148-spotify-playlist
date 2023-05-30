@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-401 songs - 1 day 10 hr 39 min
+404 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
-| [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 |  |
+| [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 | 2023-05-30 |
 | [Annihilation Phenomena](https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Annihilation Phenomena](https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO) | 3:51 | 2022-10-27 |  |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 | 2022-07-29 |
 | [Apostle](https://open.spotify.com/track/5y9bXtBhqIaMWRWDu0X3mX) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Acts Of God](https://open.spotify.com/album/1rGfm7jdqOjE2uMcbhbJsp) | 4:16 | 2022-11-25 | 2023-02-24 |
@@ -254,6 +254,7 @@
 | [Noblesse Oblige Richesse Oblige](https://open.spotify.com/track/6tth0ovaLcEPtHasmjhYiv) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [There's Always Blood At The End Of The Road](https://open.spotify.com/album/0hpFRZEgy6k8J7gS29F0Q4) | 5:06 | 2022-01-14 | 2022-07-25 |
 | [Nocturnal Molestation](https://open.spotify.com/track/0YkF4zY7p56B9cIA9dmaZp) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Nocturnal Molestation](https://open.spotify.com/album/6i55zeF8mGsYqiBpFdzab1) | 3:41 | 2022-02-11 | 2022-04-23 |
 | [Nosferatu](https://open.spotify.com/track/2nt0f1WitVhsMzY3uMae4r) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [We Are The Apocalypse](https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs) | 4:41 | 2022-03-18 | 2023-03-11 |
+| [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2023-05-26 |  |
 | [Nova](https://open.spotify.com/track/0y5B4FwoB7yWQvgeXcc3gC) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nova](https://open.spotify.com/album/48KBRtfdI5mzRsoTuOKC13) | 4:36 | 2022-02-11 | 2022-03-19 |
 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 | 2021-12-17 | 2022-01-15 |
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
@@ -295,7 +296,7 @@
 | [Sadist](https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Sadist](https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM) | 2:58 | 2021-12-17 | 2022-07-28 |
 | [Salomon's Gate](https://open.spotify.com/track/6BcdUH19ScZk69Sj4oXArV) | [Beherit](https://open.spotify.com/artist/3EHztVB0kFpqp0N8MlmD1X) | [Drawing Down the Moon](https://open.spotify.com/album/3tcK4M3vx2yKtPRm9WbDm4) | 3:39 | 2022-07-13 | 2022-07-24 |
 | [Satan Divine](https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Kiss The Goat](https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v) | 3:59 | 2022-07-13 | 2023-03-13 |
-| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 |  |
+| [Satan's Hunger](https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Sworn to the Dark](https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3) | 6:45 | 2022-07-13 | 2023-05-30 |
 | [Scars In The Landscape Of God](https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w) | [Abigor](https://open.spotify.com/artist/3YQNyPeDonpYjB9N92VclR) | [Nachthymnen / Orkblut \- The Retaliation](https://open.spotify.com/album/5DlUPLWGhIW5KcsS4zMYMI) | 6:13 | 2022-07-13 | 2022-07-24 |
 | [Scorched Quadrant](https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Scorched Quadrant](https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf) | 5:05 | 2023-03-31 |  |
 | [Scourge of the Offspring](https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [Scourge of the Offspring](https://open.spotify.com/album/0EOXYZmf3RXHG8ERn4iElN) | 4:28 | 2023-03-31 |  |
@@ -306,6 +307,7 @@
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
 | [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 | 2023-03-05 |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
+| [Serve the Untrue](https://open.spotify.com/track/3VSjFsP90huj6wvNKaE3Uo) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Kalmah](https://open.spotify.com/album/2wxVRKpv3yVZXV7hv5muqr) | 4:53 | 2023-05-26 |  |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [She is a Fire](https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [She is a Fire](https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg) | 5:22 | 2023-03-03 |  |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |
@@ -382,6 +384,7 @@
 | [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-15 | 2023-04-22 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |
 | [War Against All](https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/42itntO9qiIkUewMznm08m) | 3:26 | 2023-04-07 | 2023-05-28 |
+| [War Against All](https://open.spotify.com/track/4IQ6qp5TsASmn2BIT42sy1) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 3:26 | 2023-05-26 |  |
 | [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 |  |
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 |  |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
@@ -398,7 +401,7 @@
 | [Wings of Psychomachia](https://open.spotify.com/track/6nHJSZzOtUN9p99ktkLyjK) | [Argenthorns](https://open.spotify.com/artist/3wPwHk25jfo2K63Fj4MMih) | [The Ravening](https://open.spotify.com/album/6lKXbIQC11I56j86FZMo5y) | 7:02 | 2023-04-21 |  |
 | [Winter Bane](https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Abbath](https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q) | 6:49 | 2022-07-13 |  |
 | [Within the Eyes](https://open.spotify.com/track/5XlrveQ8VNb4ZjAByD7Ktj) | [Nordjevel](https://open.spotify.com/artist/3Pfim1uupYVYG87GDtdw8r) | [Gnavhòl](https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb) | 3:49 | 2023-02-15 | 2023-05-13 |
-| [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 |  |
+| [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 | 2023-05-30 |
 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 | 2022-07-13 |  |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-03-19 |
 | [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |

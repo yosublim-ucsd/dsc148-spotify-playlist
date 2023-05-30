@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,786 likes - 102 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,154 likes - 102 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

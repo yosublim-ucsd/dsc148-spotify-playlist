@@ -4,7 +4,7 @@
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-51 songs - 3 hr 31 min
+52 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Morning Moon De Aimasyo](https://open.spotify.com/track/1WPEDFFO7aZJLS4qduy4mh) | [Pretty Cast](https://open.spotify.com/artist/6GIDth52rL9sjZeGbVPqe0) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 4:29 | 2023-05-26 |  |
 | [Nagareboshihe](https://open.spotify.com/track/11KuM12cQEHpgf8lKGSf7w) | [Three Lights](https://open.spotify.com/artist/5aUjuREMkwFIBAUUVyZct0) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 4:47 | 2023-05-26 |  |
 | [Otome no Policy](https://open.spotify.com/track/4X2DC0jmAEGaoUhdSiK8tk) | [Yoko Ishida](https://open.spotify.com/artist/74DwyQJH0RnijEbWeJeoqV) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:15 | 2023-05-26 |  |
+| [Princess Moon](https://open.spotify.com/track/1oGEsPChXMElrojC0hcwQm) | [Usio Hasahimoto](https://open.spotify.com/artist/5M8uLiob7e6ZeBSOjUm7MN), [ApplePie](https://open.spotify.com/artist/4Idzv2rQLAQleQW6mS0asf) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 4:04 | 2023-05-26 |  |
 | [Ray of light](https://open.spotify.com/track/7tRlxCKKNkHjSLOcZ8XuFX) | [タキシード仮面\(CV:野島健児\)](https://open.spotify.com/artist/3qbj7B4dSyvvGxtQUYe7xP) | [劇場版「美少女戦士セーラームーンEternal」キャラクターソング集 Eternal Collection](https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ) | 4:11 | 2023-05-26 |  |
 | [Sailor Star Song](https://open.spotify.com/track/6SIYZ3n9UmwJ75AuyDCKMe) | [Kae Hanazawa](https://open.spotify.com/artist/0WA4xAfZ5cdIE6x3HQQhVX) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:53 | 2023-05-26 |  |
 | [Signpost](https://open.spotify.com/track/6zdZ9vnxefQXISYEbxjxe4) | [スーパーセーラーマーズ\(CV:佐藤利奈\)](https://open.spotify.com/artist/3wIjaYOVp0GjGJK175CcKi) | [劇場版「美少女戦士セーラームーンEternal」キャラクターソング集 Eternal Collection](https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ) | 4:28 | 2023-05-26 |  |
@@ -42,7 +43,7 @@
 | [セーラームーン劇伴\(BGM\)音楽メドレー](https://open.spotify.com/track/5dnvgh3yAfmGofhnSsjm1q) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [美少女戦士セーラームーン Classic Concert ALBUM 2018](https://open.spotify.com/album/5an9r2MuIaqk9q9R6bhKqv) | 13:17 | 2023-05-26 |  |
 | [ドリームズ・アイ](https://open.spotify.com/track/6SAQ4rzbCEFTiyge2p5ckc) | [タイガーズ・アイ\(CV:日野 聡\)](https://open.spotify.com/artist/6ShNtDNBEgIlrMMTCLMbID), [ホークス・アイ\(CV:豊永利行\)](https://open.spotify.com/artist/31u7HtAumho1P3tPUtRNcA), [フィッシュ・アイ\(CV:蒼井翔太\)](https://open.spotify.com/artist/4ZFXanwNT7lWp3ipRk36BU) | [劇場版「美少女戦士セーラームーンEternal」キャラクターソング集 Eternal Collection](https://open.spotify.com/album/7ihGqMlosVnefgVPVKVgaZ) | 3:34 | 2023-05-26 |  |
 | [ニュームーンに恋して](https://open.spotify.com/track/4A67S9AXWsG4t1EHhseOGW) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [「ニュームーンに恋して」やくしまるえつこ/「eternal eternity」セーラーウラヌス\(CV.皆川純子\)×セーラーネプチューン\(CV.大原さやか\)](https://open.spotify.com/album/5BPhzRWt3rNkIVQZA3zYrW) | 4:24 | 2023-05-26 |  |
-| [プリンセス・ムーン](https://open.spotify.com/track/53UNsb1WPOjQtEbjwZyfY9) | [橋本 潮](https://open.spotify.com/artist/6vx6kXklkOGywEp4PyujHT), [アップルパイ](https://open.spotify.com/artist/1R0lYkLRxvSIK4o77PuAGm) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 4:04 | 2023-05-26 |  |
+| [プリンセス・ムーン](https://open.spotify.com/track/53UNsb1WPOjQtEbjwZyfY9) | [橋本 潮](https://open.spotify.com/artist/6vx6kXklkOGywEp4PyujHT), [アップルパイ](https://open.spotify.com/artist/1R0lYkLRxvSIK4o77PuAGm) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 4:04 | 2023-05-26 | 2023-05-30 |
 | [ムーンライト伝説](https://open.spotify.com/track/5Evz4JdzvH5X4LNmES6SBb) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [美少女戦士セーラームーン THE 20TH ANNIVERSARY MEMORIAL TRIBUTE](https://open.spotify.com/album/7v3boxFW6SwgaCbKe0B5hc) | 2:53 | 2023-05-26 |  |
 | [ムーンライト伝説\(Short ver.\)](https://open.spotify.com/track/4r5aWSAIrJF5RcBfTQshoh) | [田中梨瑚\(セーラームーン\)](https://open.spotify.com/artist/4B4XR40isPyVzVBD8kKL5B), [前川歌音\(セーラーマーキュリー\)](https://open.spotify.com/artist/1jVBMZ6niiv4z138YyhQzp), [小林れい\(セーラーマーズ\)](https://open.spotify.com/artist/0eqCkTijY0zCtfFetVGz66), [松村キサラ\(セーラージュピター\)](https://open.spotify.com/artist/4yaOpADCoRPy1nROrVJc5G), [牧野真鈴\(セーラーヴィーナス\)](https://open.spotify.com/artist/5NFx6Q1tjA9dY0PjpIMnJF) | [ミュージカル「美少女戦士セーラームーン」かぐや姫の恋人](https://open.spotify.com/album/5P53RKW4orY8Z4q43SoDMU) | 1:55 | 2023-05-26 |  |
 | [ムーン・プリズム・パワー・メイクアップ!](https://open.spotify.com/track/5aC7yJBbtQbUbxERCqkjjR) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [美少女戦士セーラームーン 25周年記念Classic Concert ALBUM](https://open.spotify.com/album/5Vw1uQ3V9G6uNQVnGlv4Va) | 1:20 | 2023-05-26 |  |

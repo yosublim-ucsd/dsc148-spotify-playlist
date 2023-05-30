@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-264 songs - 14 hr 24 min
+265 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [JMI](https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [JMI](https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W) | 3:37 | 2023-05-08 |  |
 | [JOANA](https://open.spotify.com/track/2uIua5r0wjdDpnLb50j1w6) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [JOANA](https://open.spotify.com/album/1vVJee8FApTIXNgiQXxf2O) | 3:01 | 2023-02-09 | 2023-02-21 |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-06-11 | 2023-05-10 |
-| [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-04 |  |
+| [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-04 | 2023-05-30 |
 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 | 2021-12-25 | 2022-02-23 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-11 | 2022-07-17 |
 | [KATA](https://open.spotify.com/track/5NKlXALZpt7pLjRZimclan) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KATA](https://open.spotify.com/album/1ESrW2WAb59BBFxFbjpg6W) | 3:48 | 2022-11-09 |  |
@@ -131,6 +131,7 @@
 | [L7essada](https://open.spotify.com/track/03tv91H6kh9yQyINi9EfJc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Saïd Senhaji](https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca), [Abdelaziz Stati](https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 6:05 | 2023-01-06 | 2023-01-12 |
 | [L7essada](https://open.spotify.com/track/6BbRk218FsK51B2KVc4GrA) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Saïd Senhaji](https://open.spotify.com/artist/0B5LEqRZp3vG38J25CYPca), [Abdelaziz Stati](https://open.spotify.com/artist/43TeJ7uEQzDLp3hXmzY2X1) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 6:05 | 2022-12-20 | 2023-01-06 |
 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 | 2023-03-16 | 2023-05-09 |
+| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-29 |  |
 | [La vie](https://open.spotify.com/track/6aI2dHYNpvnm4sNfVs4Bum) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [La vie](https://open.spotify.com/album/3Jip0bL2i2bNwT7CKq2HZE) | 3:18 | 2022-02-28 | 2022-06-17 |
 | [La Vie](https://open.spotify.com/track/13UrWaFgpqfFBSodEvWC0X) | [LIMIT\-LESS](https://open.spotify.com/artist/4luLWQQk00Om8mJUKGjISW), [Ninja](https://open.spotify.com/artist/1MpTRWf8JWazWgL4zDlWsE) | [La Vie](https://open.spotify.com/album/4eDWdMdsRcu0p0L5wE8fld) | 2:39 | 2022-02-02 | 2023-01-06 |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 | 2022-06-23 |

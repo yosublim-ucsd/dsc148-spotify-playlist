@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. Samantha Barrón en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Ana Tijoux en portada.
 
 192 songs - 9 hr 54 min
 

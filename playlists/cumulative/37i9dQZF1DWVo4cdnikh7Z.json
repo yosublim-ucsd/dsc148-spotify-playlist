@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 221837,
       "name": "All The Ladies",
       "url": "https://open.spotify.com/track/3rIia2UETIGxmkxpAwcw79"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 211219,
       "name": "Goiyyaale - From \"Takkar\"",
       "url": "https://open.spotify.com/track/1ZJATS1cCAQfiaXD3JjYbs"
@@ -5321,6 +5321,32 @@
     },
     {
       "album": {
+        "name": "Pichaikkaran 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5haEWhDD82jDtNj2aPBMgV"
+      },
+      "artists": [
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        },
+        {
+          "name": "Arun Bharathi",
+          "url": "https://open.spotify.com/artist/61gLMpZ8tl6e5yQcjIvsFE"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237419,
+      "name": "Kalloorum Poove",
+      "url": "https://open.spotify.com/track/1dhTDwt6g8kJ2OhEqzyRct"
+    },
+    {
+      "album": {
         "name": "Kalloorum Poove (From \"Pichaikkaran 2\")",
         "url": "https://open.spotify.com/album/3ybaQGp3ehkyznYDHFqheK"
       },
@@ -5370,7 +5396,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 237419,
       "name": "Kalloorum Poove (From \"Pichaikkaran 2\")",
       "url": "https://open.spotify.com/track/4qu5KZ6Mxpt0FU4g49iz2C"
@@ -5594,7 +5620,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 73320,
       "name": "Kanguva Title Announcement (From \"Kanguva\")",
       "url": "https://open.spotify.com/track/35LgeXDvSIKmrMN2Ii69WN"
@@ -9206,7 +9232,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 166942,
       "name": "Nenjil Oru Minnal",
       "url": "https://open.spotify.com/track/19NHHjnMN52OXPUMjo5XfB"
@@ -9794,7 +9820,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 226000,
       "name": "Ooru Nalla Ooru - From \"Kabadi Bro\"",
       "url": "https://open.spotify.com/track/2jKpKM6wqesz04hGRWgHji"
@@ -11431,6 +11457,32 @@
     },
     {
       "album": {
+        "name": "Ram Sita Ram (From \"Adipurush\") [Tamil]",
+        "url": "https://open.spotify.com/album/0DQ7PTeVKfgnr9iE93mTP4"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230202,
+      "name": "Ram Sita Ram (From \"Adipurush\") [Tamil]",
+      "url": "https://open.spotify.com/track/2ZNjljq2XCKo8LbmznIjFS"
+    },
+    {
+      "album": {
         "name": "Rangarattinam (From \"Natchathiram Nagargiradhu\")",
         "url": "https://open.spotify.com/album/7FmTMzjqegboyCxwAKlj4z"
       },
@@ -12926,7 +12978,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 184762,
       "name": "Sundari",
       "url": "https://open.spotify.com/track/0MjeUyNSi2iKWDUyiHvg3a"
@@ -14776,7 +14828,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 194307,
       "name": "Uravu",
       "url": "https://open.spotify.com/track/3bXhstkcy4TU5ZuOuJWOwy"

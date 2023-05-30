@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,794 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 72 | [Gimme Spirit](https://open.spotify.com/track/3cKmg3AHEEl81qClZ13gUi) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/3gc5DYsNfAYPVzMsJPBfE4) | 3:22 |
 | 73 | [Target Practice](https://open.spotify.com/track/7rVqmDGODZCM4zfCjfGNqg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:30 |
 | 74 | [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 |
-| 75 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
+| 75 | [Ricochet](https://open.spotify.com/track/0MB75iaoYg55vfddaRfCi8) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Camaro \- EP](https://open.spotify.com/album/0rfX5CuXrI3VLcgcWoZRtl) | 2:57 |
 
 Snapshot ID: `MCwwMzlkYjBmMWZmNWJjNDY4NjNjMzZlMDI3NTAyYWQwY2ZhYzFlMWMz`

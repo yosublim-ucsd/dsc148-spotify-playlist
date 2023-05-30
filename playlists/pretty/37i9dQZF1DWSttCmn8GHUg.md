@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,903 likes - 104 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,678 likes - 104 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

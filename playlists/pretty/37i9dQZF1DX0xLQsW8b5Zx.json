@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 524871,
+  "num_followers": 524994,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
-    },
-    {
-      "added_at": "2023-05-17 13:01:21",
-      "album": {
         "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
         "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "added_at": "2023-05-17 13:01:21",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+    },
+    {
+      "added_at": "2023-05-17 13:01:21",
+      "album": {
         "name": "Good Golly!",
         "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 129132,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
-    },
-    {
-      "added_at": "2023-05-17 13:01:21",
-      "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2023-05-17 13:01:21",
-      "album": {
         "name": "Strike!",
         "url": "https://open.spotify.com/album/6fCk4dWzSKBJeIC3RKSxF7"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 186906,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
+    },
+    {
+      "added_at": "2023-05-17 13:01:21",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
-        "name": "Tear It Up: The Complete Legedary Coral Recordings",
-        "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
-          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
-      "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
-    },
-    {
-      "added_at": "2023-05-17 13:01:21",
-      "album": {
         "name": "Signs & Signifiers",
         "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 137813,
       "name": "Fire Bug",
       "url": "https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn"
+    },
+    {
+      "added_at": "2023-05-17 13:01:21",
+      "album": {
+        "name": "Tear It Up: The Complete Legedary Coral Recordings",
+        "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
+      "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
-        "name": "Today, Tomorrow And Forever - 20 Classics",
-        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+        "name": "1957-1959",
+        "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+          "name": "Joe Bennett & The Sparkletones",
+          "url": "https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP"
         }
       ],
-      "duration_ms": 141893,
-      "name": "I Got A Lot Of Rhythm In My Soul",
-      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
+      "duration_ms": 129026,
+      "name": "Black Slacks",
+      "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
     },
     {
       "added_at": "2023-05-17 13:01:21",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-05-17 13:01:21",
       "album": {
+        "name": "Today, Tomorrow And Forever - 20 Classics",
+        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 141893,
+      "name": "I Got A Lot Of Rhythm In My Soul",
+      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
+    },
+    {
+      "added_at": "2023-05-17 13:01:21",
+      "album": {
         "name": "Musta Notta Gotta Lotta",
         "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 155000,
       "name": "Musta Notta Gotta Lotta",
       "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
-    },
-    {
-      "added_at": "2023-05-17 13:01:21",
-      "album": {
-        "name": "1957-1959",
-        "url": "https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp"
-      },
-      "artists": [
-        {
-          "name": "Joe Bennett & The Sparkletones",
-          "url": "https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP"
-        }
-      ],
-      "duration_ms": 129026,
-      "name": "Black Slacks",
-      "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
     },
     {
       "added_at": "2023-05-17 13:01:21",

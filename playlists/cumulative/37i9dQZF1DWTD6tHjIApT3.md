@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 椎名林檎
 
-1,386 songs - 3 day 18 hr 14 min
+1,387 songs - 3 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-06-07 | 2022-07-17 |
 | [Moon In Shadow](https://open.spotify.com/track/5xo3WhTDgzea1QmCg4YoDd) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [T.B.D.](https://open.spotify.com/album/6PCU5NyvqdaxJKoRAz79kD) | 2:54 | 2022-06-02 | 2022-07-17 |
 | [Moon Prison](https://open.spotify.com/track/0rmgs7Zd2evGFVvXinF3ew) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Moon Prison](https://open.spotify.com/album/2IntUMWxuhURmGokrZdtYE) | 2:45 | 2023-02-09 | 2023-02-15 |
+| [Morning like a breath](https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:20 | 2023-05-29 |  |
 | [Mother](https://open.spotify.com/track/2mg8IxjIHCaHC9mXCTsnKo) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Mother](https://open.spotify.com/album/67SZafGfnC2pos0huaGvOO) | 4:30 | 2022-05-29 | 2022-07-17 |
 | [Movie](https://open.spotify.com/track/2FpJP26vKDilHH9AsNlbwO) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [Movie](https://open.spotify.com/album/7wWjvs8fquu0ghGZZNdYi2) | 3:17 | 2023-04-18 | 2023-04-26 |
 | [Moving sidewalks](https://open.spotify.com/track/3p1oCJw96bCh4QsyxFaQ1d) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [Moving sidewalks](https://open.spotify.com/album/26Kh2ksz6yVecUZpegnCd0) | 5:49 | 2022-06-07 | 2022-07-18 |
@@ -1375,7 +1376,7 @@
 | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/track/52sa2Yllu0MIq2SFKRNIbc) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [Harucha](https://open.spotify.com/artist/565RlgvCEeBHqybr221qBs) | [青い理想郷 \(feat\. 春茶\)](https://open.spotify.com/album/7CyfZA6EpaopCgBggVu7KB) | 4:09 | 2022-05-31 | 2022-07-15 |
 | [青山Killer物語 \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/03eu5QoG6mWFvdu3IOCmHp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [RA MU](https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5) | [RA MU \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/7Dre4HkNvQhl8diVNQugD0) | 5:02 | 2022-10-06 | 2022-10-08 |
 | [青春の続き](https://open.spotify.com/track/3Sv4Uiy4pmB94UV4UZXpiP) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [青春の続き](https://open.spotify.com/album/3WWY1Jqcl9JgQAHl117p1e) | 3:21 | 2022-11-15 | 2022-12-14 |
-| [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-07-28 |  |
+| [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-07-28 | 2023-05-30 |
 | [青藍遊泳](https://open.spotify.com/track/2jIfery4lw2abLEQ3QBBIO) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳](https://open.spotify.com/album/5dlzxOKdX0PwEvd3kfzJva) | 3:48 | 2022-06-14 | 2022-07-29 |
 | [青藍遊泳 \- From THE FIRST TAKE](https://open.spotify.com/track/59HgCwjIaxVbJs860xnVtT) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [青藍遊泳 \(From THE FIRST TAKE\)](https://open.spotify.com/album/5UGM0wsfgPSbR9caFNWqIq) | 3:58 | 2022-09-15 | 2022-11-09 |
 | [頂戴](https://open.spotify.com/track/0BIN1XDF7A976H82vIG49M) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [頂戴](https://open.spotify.com/album/5WBXWunGcA72Zo8noYVgdk) | 3:45 | 2022-06-14 | 2022-07-20 |

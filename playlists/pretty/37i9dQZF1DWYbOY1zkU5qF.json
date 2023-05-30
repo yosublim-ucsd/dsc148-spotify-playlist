@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 132888,
+  "num_followers": 133042,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "(un poco + de) FE",
         "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Cuando Fuimos Nada",
-      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "De M\u00e9xico",
         "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "No Hay Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 165282,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -311,22 +311,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
         }
       ],
-      "duration_ms": 189920,
-      "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -347,34 +343,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+        "name": "No Bailes Sola (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo"
       },
       "artists": [
         {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
-        }
-      ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+      "duration_ms": 189920,
+      "name": "No Bailes Sola - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -395,18 +379,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
       "artists": [
         {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
         }
       ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -439,6 +423,22 @@
       "duration_ms": 175208,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Burbujas De Amor",
-        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
-      },
-      "artists": [
-        {
-          "name": "Luisita Peixoto",
-          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
-        }
-      ],
-      "duration_ms": 243684,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "El Microbito",
         "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 194874,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Burbujas De Amor",
+        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
+      },
+      "artists": [
+        {
+          "name": "Luisita Peixoto",
+          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
+        }
+      ],
+      "duration_ms": 243684,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "duration_ms": 196292,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Si Veo a Tu Mam\u00e1",
         "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 189823,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/1RN4yYQ4V5Ve7kamJ6lSJO"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
-      },
-      "artists": [
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        }
-      ],
-      "duration_ms": 196292,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Muerte En Hawaii",
         "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186689,
       "name": "Muerte En Hawaii",
       "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Panacea Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
       },
       "artists": [
         {
-          "name": "Panacea Project",
-          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
+          "name": "Alfa Omega",
+          "url": "https://open.spotify.com/artist/6unfrgA6NT9eX0W09Y42YE"
+        },
+        {
+          "name": "Cl\u00e1udia Nunes",
+          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
         }
       ],
-      "duration_ms": 227088,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
+      "duration_ms": 214425,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1071,26 +1075,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
-      },
-      "artists": [
-        {
-          "name": "Alfa Omega",
-          "url": "https://open.spotify.com/artist/6unfrgA6NT9eX0W09Y42YE"
-        },
-        {
-          "name": "Cl\u00e1udia Nunes",
-          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
-        }
-      ],
-      "duration_ms": 214425,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "D\u00e9jala que vuelva",
         "url": "https://open.spotify.com/album/0YQ4Qna8FKWSBCelqPk9kY"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Y Co\u0301mo Es E\u0301l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+        "name": "Panacea Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Panacea Project",
+          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Y Co\u0301mo Es E\u0301l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 227088,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1135,6 +1119,22 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Y Co\u0301mo Es E\u0301l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+      },
+      "artists": [
+        {
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Y Co\u0301mo Es E\u0301l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
+        "name": "Mamita (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
       },
       "artists": [
         {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
         }
       ],
-      "duration_ms": 172839,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
+      "duration_ms": 142291,
+      "name": "Mamita - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1303,34 +1303,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mamita (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
       },
       "artists": [
         {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
         }
       ],
-      "duration_ms": 142291,
-      "name": "Mamita - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
+      "duration_ms": 172839,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
     },
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+        "name": "Azucar Amargo",
+        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
       },
       "artists": [
         {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
+      "duration_ms": 270550,
+      "name": "Azucar Amargo",
+      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

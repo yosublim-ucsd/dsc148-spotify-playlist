@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here! Cover:  <a href="https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4?si=DF2mocLuSF\-MCBMHqhpC7g"> Nosa </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,977 likes - 80 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,026 likes - 80 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 37 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 |
 | 38 | [Stranger](https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Stranger](https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b) | 3:14 |
 | 39 | [Come in the Room \(Live\)](https://open.spotify.com/track/3sWt03zQzPBVb5dd7WJURR) | [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Word + Prayer + Worship \(Live\)](https://open.spotify.com/album/5nlCdqYd7NUVtoLALpIYHv) | 8:56 |
-| 40 | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Godwin Adams](https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6), [Justina](https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR) | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA) | 10:28 |
+| 40 | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Godwin Adams](https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6), [Justina](https://open.spotify.com/artist/0w3fYQqVSn2hUmEpxh4aZF) | [Hallelujah \(Me Re Jirie\) \[feat\. Godwin Adams & Justina\]](https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA) | 10:28 |
 | 41 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 |
 | 42 | [Master of the World](https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Master of the World](https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha) | 5:36 |
 | 43 | [Overdose](https://open.spotify.com/track/0oU05VhUd1HCUi516jZdIG) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [A mose](https://open.spotify.com/artist/01bQLjy2Y6N10bDEJsQGEb) | [Overdose](https://open.spotify.com/album/7jWmVpXUDxch6dO9DkP1tu) | 3:09 |

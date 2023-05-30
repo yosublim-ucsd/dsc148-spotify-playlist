@@ -4,7 +4,7 @@
 
 > 
 
-449 songs - 20 hr 2 min
+451 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Dingaling \(Lil Keed\)](https://open.spotify.com/track/2s4FCo9qPtI621UZ8PalQP) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Final Fantasy: The Finale](https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM) | 1:40 | 2022-10-16 | 2023-04-12 |
 | [Dirty Demon](https://open.spotify.com/track/0d2qg6CfYsWJZy0csJiNuZ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave 2](https://open.spotify.com/album/0nQtPHNSiy2I151G4YmOwU) | 3:09 | 2022-09-01 | 2023-05-09 |
 | [Dirty Money](https://open.spotify.com/track/5N9oDpshl2kfazjIwjNpCQ) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Dirty Money](https://open.spotify.com/album/6MZeTxU57UIgJmKOfqftb8) | 1:48 | 2022-10-21 | 2023-05-09 |
+| [Dizzy \- Bonus Version](https://open.spotify.com/track/4hRydm5LUCaTZFHMBALibQ) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Dizzy](https://open.spotify.com/album/3dJOFNc7vaO7m4nxZ7HhYF) | 2:48 | 2023-05-28 |  |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-05 | 2023-05-09 |
 | [don't @ me](https://open.spotify.com/track/5RsjKNch572Mcdg5PS78yy) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:31 | 2022-07-28 | 2023-05-09 |
 | [Dont Fall Off \(KTM Drip\)](https://open.spotify.com/track/5Wk9x85aF15JW1kVahYLsK) | [Jakub tłumaczenia](https://open.spotify.com/artist/1HFz1PXpCzdOJdyShiTD8y) | [The Party Never Ends](https://open.spotify.com/album/3WXOCQmch01IIR5q6t3mDZ) | 4:12 | 2022-06-30 |  |
@@ -368,6 +369,7 @@
 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 | 2022-10-31 |  |
 | [Sic' em](https://open.spotify.com/track/5X5P92Bj4GOxnbBYpiBjcz) | [Squish](https://open.spotify.com/artist/7KuC3LimM4OgSpZa72PF51) | [Sic&\#039; em](https://open.spotify.com/album/0NzAJbElXRr0qRofnkOllO) | 2:08 | 2023-04-05 | 2023-05-09 |
 | [Sick of Slime](https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:19 | 2023-02-05 | 2023-05-09 |
+| [Slider](https://open.spotify.com/track/27BNM6DUOhLfKKv1yecgLd) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 2:28 | 2023-05-28 |  |
 | [Slipping Into Darkness](https://open.spotify.com/track/1E9jnRS7TRaJtmBf7NzQWn) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 4:16 | 2023-03-26 |  |
 | [Smile \(with The Weeknd\)](https://open.spotify.com/track/6wQlQrTY5mVS8EGaFZVwVF) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:16 | 2022-07-13 | 2023-05-09 |
 | [Smoke Strong](https://open.spotify.com/track/4ysh4U8WPIuKS8Ff1ttSaS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:15 | 2022-08-15 | 2023-05-09 |

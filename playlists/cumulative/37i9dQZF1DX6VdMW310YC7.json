@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1LclfXDVjTM6b39cCVlLgG"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172331,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
+    },
+    {
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
       },
@@ -20194,7 +20216,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 252058,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
@@ -23958,7 +23980,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 222528,
       "name": "Something Was Real",
       "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
@@ -28596,7 +28618,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 212500,
       "name": "Where I Find My Mind",
       "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"

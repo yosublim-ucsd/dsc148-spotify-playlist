@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Da Tweekaz & Refuzion
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,153 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,368 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

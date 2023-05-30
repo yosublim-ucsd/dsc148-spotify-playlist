@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-541 songs - 1 day 6 hr 44 min
+542 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Mbappé \- Remix](https://open.spotify.com/track/1T6CF1qnG0hK0absyeVL5H) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:57 | 2023-05-26 |  |
 | [Mcgregor](https://open.spotify.com/track/5zaIVQv1oPnTa86BUmmbjz) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 4:43 | 2022-05-13 | 2022-10-08 |
 | [Me Gusta](https://open.spotify.com/track/73TxnIomGcg7uzMHgPQrxc) | [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Me Gusta](https://open.spotify.com/album/5m4PdMMeRstbV80iHCmwqf) | 3:56 | 2023-05-26 |  |
-| [Medicina](https://open.spotify.com/track/4aCeS2az1PRHHKmac8v6bh) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv) | [Medicina](https://open.spotify.com/album/7z3mdqI9Ivp6yAzNAGVT7Z) | 2:59 | 2023-05-26 |  |
+| [Medicina](https://open.spotify.com/track/4aCeS2az1PRHHKmac8v6bh) | [Perro Zw](https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv) | [Medicina](https://open.spotify.com/album/7z3mdqI9Ivp6yAzNAGVT7Z) | 2:59 | 2023-05-26 | 2023-05-30 |
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2022-01-19 | 2022-05-14 |
 | [Meteoritos Vs Dinosaurios](https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Meteoritos Vs Dinosaurios](https://open.spotify.com/album/77Fovy0iY1SyGS2OHgwJm7) | 2:45 | 2022-02-14 | 2022-05-11 |
 | [Mexicanos Bravos](https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Mexicanos Bravos](https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I) | 3:38 | 2023-05-26 |  |
@@ -379,6 +379,7 @@
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-01-19 | 2022-05-14 |
 | [Por Mi México](https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/6FF9KMDcDJF0pnAfrInopS) | 3:38 | 2022-01-06 | 2022-01-20 |
 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 | 2023-05-26 |  |
+| [Posdata](https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Posdata](https://open.spotify.com/album/2R2tb1OIF91FBpqE7gJ8Km) | 3:32 | 2023-05-26 |  |
 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 | 2023-03-31 |  |
 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 | 2022-01-19 | 2022-05-14 |
 | [Problemas](https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Problemas](https://open.spotify.com/album/6RshZ6diEoUBldSTEeWlEd) | 3:38 | 2022-01-19 | 2022-10-08 |

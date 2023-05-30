@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,862 likes - 67 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,207 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

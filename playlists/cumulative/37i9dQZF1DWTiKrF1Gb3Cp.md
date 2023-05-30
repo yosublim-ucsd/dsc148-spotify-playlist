@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-102 songs - 6 hr 15 min
+103 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 | 2023-02-23 |  |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-02-23 |  |
 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:08 | 2023-02-23 |  |
-| [No Dejo De Fumar](https://open.spotify.com/track/1knLbqniGhyYMnnMZ0AzyY) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mas Locos Que Simpaticos](https://open.spotify.com/album/5vcuogPxCTR49tuq2W69eV) | 3:50 | 2023-02-23 |  |
+| [No Dejo De Fumar](https://open.spotify.com/track/1knLbqniGhyYMnnMZ0AzyY) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mas Locos Que Simpaticos](https://open.spotify.com/album/5vcuogPxCTR49tuq2W69eV) | 3:50 | 2023-02-23 | 2023-05-30 |
 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 | 2023-04-21 |  |
 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 | 2023-05-19 |  |
 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 | 2023-02-23 |  |
@@ -88,6 +88,7 @@
 | [Préndete Un Blunt \(feat\. Zimple\) \- Remix](https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Préndete Un Blunt \(feat\. Zimple\) \[Remix\]](https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0) | 4:48 | 2023-02-23 |  |
 | [Quién?](https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Quién?](https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy) | 3:46 | 2023-02-23 |  |
 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 | 2023-02-23 |  |
+| [Round 6](https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 6](https://open.spotify.com/album/49NfXDDECqeg5BjGp7HD0W) | 3:36 | 2023-02-23 |  |
 | [Sabadrugs](https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [B\-RASTER](https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby), [Sonik 420](https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed) | [Sabadrugs](https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC) | 3:49 | 2023-02-23 |  |
 | [Sangre De Barrio](https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Viviendo Recio](https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB) | 5:06 | 2023-02-23 |  |
 | [Se Rumora](https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Se Rumora](https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh) | 4:12 | 2023-02-23 |  |

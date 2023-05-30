@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/3zbvPrTnXS7TLbZcetQ8hQ"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
@@ -278,6 +278,28 @@
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+    },
+    {
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/05a4NybrgDKDCb97Ufwn0k"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+        },
+        {
+          "name": "Maddy Beyton",
+          "url": "https://open.spotify.com/artist/2dOP9NOlS6h7YtuAn2EzVA"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210487,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/2MDgD7iAVZNPT0hHffWYYT"
     },
     {
       "album": {
@@ -394,7 +416,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 347000,
       "name": "Al tanto de tanto",
       "url": "https://open.spotify.com/track/7JafkMOPn8P7eDN2QxlC7E"
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 225691,
       "name": "Alexandra",
       "url": "https://open.spotify.com/track/5XvxiFYmS8HFB2tubbGnqM"
@@ -1096,6 +1118,24 @@
       "duration_ms": 215125,
       "name": "Canta, mi\u00f1a compa\u00f1eira",
       "url": "https://open.spotify.com/track/7sEO7d6ToY5C2ObEkeJAVA"
+    },
+    {
+      "album": {
+        "name": "Canto a la Imaginaci\u00f3n",
+        "url": "https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181413,
+      "name": "Canto a la Imaginaci\u00f3n",
+      "url": "https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV"
     },
     {
       "album": {
@@ -2570,7 +2610,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
@@ -2650,7 +2690,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 183712,
       "name": "Espirales",
       "url": "https://open.spotify.com/track/5B0h0OeIJHKYWQn63U9mgS"
@@ -3227,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Instantes y Aullidos",
+        "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300452,
+      "name": "Instantes y Aullidos",
+      "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+    },
+    {
+      "album": {
         "name": "Inventar",
         "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
       },
@@ -3446,6 +3504,28 @@
       "duration_ms": 240445,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/16xUNJFTekIws4tcQwFbfy"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
     },
     {
       "album": {
@@ -3906,6 +3986,24 @@
       "duration_ms": 273332,
       "name": "Lejos de la ciudad",
       "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
+    },
+    {
+      "album": {
+        "name": "Letargo y Despertar",
+        "url": "https://open.spotify.com/album/3nV8XYYdwXkEop9DSaw0Qm"
+      },
+      "artists": [
+        {
+          "name": "Anna Andreu",
+          "url": "https://open.spotify.com/artist/6q1LUKfe8RVjcHUoTSZ7Jy"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154206,
+      "name": "Letargo y Despertar",
+      "url": "https://open.spotify.com/track/19hwyspxcCQIglIU4XfASD"
     },
     {
       "album": {
@@ -4929,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "album": {
         "name": "Nos Ocupamos del Mar (Hermanos Krahe)",
         "url": "https://open.spotify.com/album/0e528evmmuLZaHL87fohAF"
       },
@@ -5114,6 +5230,24 @@
       "duration_ms": 211277,
       "name": "Palabras de Amor",
       "url": "https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM"
+    },
+    {
+      "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
     },
     {
       "album": {
@@ -5400,7 +5534,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 144000,
       "name": "Persiguiendo el sol",
       "url": "https://open.spotify.com/track/22MdrwrcX4TK0dLP7iDfLe"
@@ -5782,7 +5916,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
@@ -6882,6 +7016,24 @@
       "duration_ms": 153440,
       "name": "Trenca'm",
       "url": "https://open.spotify.com/track/4Xs3rkhvdnGD16th3tYS1N"
+    },
+    {
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "album": {

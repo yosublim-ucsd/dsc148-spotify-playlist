@@ -1,6 +1,6 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8377,
+  "num_followers": 8395,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MCw1Njc4MDhmZDUzOTdhYjdiM2VlODI1Mjc1NmRjZTYwZWFiMDk4YjQ0",
   "tracks": [
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Gros mammouth album turbo",
-        "url": "https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm"
-      },
-      "artists": [
-        {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Hawaiienne",
-      "url": "https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ"
-    },
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 305053,
       "name": "Dis-moi pas \u00e7a",
       "url": "https://open.spotify.com/track/3v9aoyKNPznNmB9nEmzjie"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Gros mammouth album turbo",
+        "url": "https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Hawaiienne",
+      "url": "https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -271,6 +271,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Les Goules",
+        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
+      },
+      "artists": [
+        {
+          "name": "Les Goules",
+          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Crabe",
+      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Ma g\u00e9n\u00e9ration",
         "url": "https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 117373,
       "name": "Ton amour est trop lourd",
       "url": "https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Les Goules",
-        "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
-      },
-      "artists": [
-        {
-          "name": "Les Goules",
-          "url": "https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Crabe",
-      "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -363,22 +363,6 @@
       "duration_ms": 163373,
       "name": "Le m\u00e9tronome",
       "url": "https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossiere ind\u00e9cence",
-      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -443,6 +427,22 @@
       "duration_ms": 232280,
       "name": "Decoller - Remix",
       "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Projet Orange",
-        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
-      },
-      "artists": [
-        {
-          "name": "Projet Orange",
-          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Myst\u00e8re a\u00e9rosol",
-      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "100% boeuf",
         "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 251520,
       "name": "Poney",
       "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Projet Orange",
+        "url": "https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM"
+      },
+      "artists": [
+        {
+          "name": "Projet Orange",
+          "url": "https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Myst\u00e8re a\u00e9rosol",
+      "url": "https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,18 +591,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Courtepointes",
-        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
       "artists": [
         {
-          "name": "Arseniq33",
-          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Cit\u00e9 rock suicide",
-      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Sur quelle plan\u00e8te",
-        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+        "name": "Courtepointes",
+        "url": "https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5"
       },
       "artists": [
         {
-          "name": "V\u00e9nus 3",
-          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+          "name": "Arseniq33",
+          "url": "https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Dans les airs",
-      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+      "duration_ms": 184973,
+      "name": "Cit\u00e9 rock suicide",
+      "url": "https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -655,6 +655,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Sur quelle plan\u00e8te",
+        "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9nus 3",
+          "url": "https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "Dans les airs",
+      "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Le Nombre",
         "url": "https://open.spotify.com/album/4oyUIUYWRmoCLq59RneHuG"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 174000,
       "name": "Laissez venir \u00e0 moi les grandes brunes",
       "url": "https://open.spotify.com/track/3idVQRL9T87FEE7ryZxNPB"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",

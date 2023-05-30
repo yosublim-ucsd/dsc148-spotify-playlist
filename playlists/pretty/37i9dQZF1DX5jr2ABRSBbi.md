@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,781 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,786 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 21 | [Píseň pro Olgu](https://open.spotify.com/track/0P3YrzLVJjPbjsa2wHQPll) | [Aneta Langerová](https://open.spotify.com/artist/2kyu2lKKPgqLdf3TqAgYi9) | [Píseň pro Olgu](https://open.spotify.com/album/4XWdR54h572i34t4INJjB8) | 3:09 |
 | 22 | [Validation](https://open.spotify.com/track/7B6HZvijf44IZWwy6WGZVU) | [TIMEA](https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1) | [Validation](https://open.spotify.com/album/70svVXflFHVtMOiICls9nr) | 3:12 |
 | 23 | [Mamo miri](https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Mamo miri](https://open.spotify.com/album/16JA8hC7MZyKre8rx0S63c) | 2:11 |
-| 24 | [Já Tě Mám](https://open.spotify.com/track/77pGE00XXGXGxLdxwktGqx) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/0fJ5Sp4v9JydU0WoSirK1m) | 3:28 |
+| 24 | [Já tě mám](https://open.spotify.com/track/70FSPH5uczF9z372KET3rS) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Pozdravy z polepšovny](https://open.spotify.com/album/6wBLL7uvhQOqeo7v0nNs7E) | 3:28 |
 | 25 | [PUMA](https://open.spotify.com/track/2y4OP8swtxH9bf5Pg3e83o) | [Sawsane](https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG), [Hoodini](https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw) | [PUMA](https://open.spotify.com/album/4vbXkuMgYi4t9PvAsTbLIt) | 2:44 |
 | 26 | [Tmání](https://open.spotify.com/track/453WilHbK4Y8Tkdc0nd7IP) | [Lenka Dusilová](https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI) | [Tmání \(z filmu Tmání/Darkening\)](https://open.spotify.com/album/7rH1Ip9RgVt8ktjZuoGfPq) | 4:06 |
 | 27 | [Let You Down](https://open.spotify.com/track/3gZdn9vvbMi9WdiPkYPDbk) | [Kristal Shine](https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY) | [Let You Down](https://open.spotify.com/album/0jP7gljbnGL62XCX5szT4c) | 2:36 |

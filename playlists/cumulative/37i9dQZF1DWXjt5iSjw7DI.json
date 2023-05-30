@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 222346,
       "name": "Gettin' By",
       "url": "https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1"
@@ -4290,6 +4290,24 @@
       "duration_ms": 152840,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/48GTIVseXEMnkUx0HbLd0g"
+    },
+    {
+      "album": {
+        "name": "Carnegie Hall Concert",
+        "url": "https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152840,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/4e8DqcbY3ArSECFS1o52UQ"
     },
     {
       "album": {

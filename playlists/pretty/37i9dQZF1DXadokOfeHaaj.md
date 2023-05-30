@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,001 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,048 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

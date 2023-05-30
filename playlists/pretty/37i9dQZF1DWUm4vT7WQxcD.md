@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 131 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,667 likes - 131 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

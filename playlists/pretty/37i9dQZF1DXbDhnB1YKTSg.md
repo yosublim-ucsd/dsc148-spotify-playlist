@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDhnB1YKTSg.md) - [plain]
 
 > Celebrate Mommy with these family\-friendly tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 899 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 900 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

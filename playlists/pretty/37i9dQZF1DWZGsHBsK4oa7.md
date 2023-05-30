@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 
 > Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,041 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,231 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGsHBsK4oa7.md) - [plain]
 | 7 | [風も空もきっと…](https://open.spotify.com/track/50tRpoVWeGheugpKFlg7en) | [Alisa Mizuki](https://open.spotify.com/artist/3F9qxTNNdfUkuxCFBHFCHg) | [風も空もきっと…](https://open.spotify.com/album/1CS6IutJnsvco0I0De7yEg) | 4:46 |
 | 8 | [Moon Revenge](https://open.spotify.com/track/1bbPkR58fBSOie4AbxGs3r) | [Sailor Guardian](https://open.spotify.com/artist/2BIlUI0iPhjS6vqHCysGth) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 4:03 |
 | 9 | [Tuxedo Mirage](https://open.spotify.com/track/33KfggawduqZ3MIOB4UTNv) | [Kotono Mitsuishi](https://open.spotify.com/artist/30P5BGFd8PetvAJKA4Knqz), [Michie Tomizawa](https://open.spotify.com/artist/05OAQ6XvHtu63YJaLimhlz), [Aya Hisakawa](https://open.spotify.com/artist/6RkJFVr972VOKHA5IiHHTr), [emi Shinohara](https://open.spotify.com/artist/1piO8wKQzzldIm5rOkQejL), [Rika Fukami](https://open.spotify.com/artist/6fsv6zlf4xoulWyPuhmGQd) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:36 |
-| 10 | [プリンセス・ムーン](https://open.spotify.com/track/53UNsb1WPOjQtEbjwZyfY9) | [橋本 潮](https://open.spotify.com/artist/6vx6kXklkOGywEp4PyujHT), [アップルパイ](https://open.spotify.com/artist/1R0lYkLRxvSIK4o77PuAGm) | [美少女戦士セーラームーン ベスト](https://open.spotify.com/album/11RDia9ZrdWS4z90ZrK23h) | 4:04 |
+| 10 | [Princess Moon](https://open.spotify.com/track/1oGEsPChXMElrojC0hcwQm) | [Usio Hasahimoto](https://open.spotify.com/artist/5M8uLiob7e6ZeBSOjUm7MN), [ApplePie](https://open.spotify.com/artist/4Idzv2rQLAQleQW6mS0asf) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 4:04 |
 | 11 | ["Rashiku"Ikimasyo](https://open.spotify.com/track/1fFKUBInZJfiT2m6I5ckwu) | [Meu](https://open.spotify.com/artist/0C0sPt2eBCiTGaMwJJnvT8) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:33 |
 | 12 | [Sailor Star Song](https://open.spotify.com/track/6SIYZ3n9UmwJ75AuyDCKMe) | [Kae Hanazawa](https://open.spotify.com/artist/0WA4xAfZ5cdIE6x3HQQhVX) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:53 |
 | 13 | [HEART MOVING](https://open.spotify.com/track/3wtH4hKfXgTu4GT2FtRfSo) | [Misae Takamatsu](https://open.spotify.com/artist/3pHqwhzg2iI3peCNmuMcbR) | [Pretty Guardian Sailor Moon BEST](https://open.spotify.com/album/1tIpnkNUHZqbOVW8LXcALp) | 3:40 |

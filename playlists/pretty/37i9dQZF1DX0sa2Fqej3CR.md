@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: \(여자\)아이들\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,359 likes - 53 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,416 likes - 53 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

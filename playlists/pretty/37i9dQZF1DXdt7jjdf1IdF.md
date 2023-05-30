@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 
 > Bersiap untuk jatuh hati dan terjebak nostalgia di malam teristimewa \#RaisaGBK2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,896 likes - 27 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,931 likes - 27 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

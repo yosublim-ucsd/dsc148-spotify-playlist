@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 57 min
+61 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All Glory](https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:07 | 2023-03-04 |  |
 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 | 2023-03-04 |  |
 | [All Yours \(feat\. Anthony Brown\)](https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 7:05 | 2023-03-05 |  |
+| [Alright](https://open.spotify.com/track/6v01OWiPG9SPxO8FVtK35Y) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 4:38 | 2023-05-29 |  |
 | [Always Win \(Live\)](https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:25 | 2023-03-04 | 2023-04-29 |
 | [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2nss3BcDr3j1xUN6S09kyf) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:09 | 2023-03-04 | 2023-04-09 |
 | [Come A Little Closer \- Live](https://open.spotify.com/track/7oSL5SUODjjZ7UFQc4IWzT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0) | 5:10 | 2023-03-04 |  |
@@ -29,7 +30,7 @@
 | [Human](https://open.spotify.com/track/1mktkNkZoAkNKYXctbO4Ya) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 2:48 | 2023-04-04 |  |
 | [I Choose You \(Live\)](https://open.spotify.com/track/057URVa7OFE47yCgI57mcf) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:07 | 2023-03-04 |  |
 | [I Got You \(Always and Forever\)](https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:41 | 2023-03-04 |  |
-| [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 | 2023-05-09 |  |
+| [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 | 2023-05-09 | 2023-05-30 |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2023-03-04 |  |
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
 | [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 |  |

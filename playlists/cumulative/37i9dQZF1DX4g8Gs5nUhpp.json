@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 233249,
       "name": "Ai \u0110\u01b0a Em V\u1ec1",
       "url": "https://open.spotify.com/track/39TAKt2hL8sdhVTFCNfm2Y"
@@ -1849,6 +1849,32 @@
     },
     {
       "album": {
+        "name": "M\u01b0a Th\u00e1ng S\u00e1u",
+        "url": "https://open.spotify.com/album/4yBg6jOe3H4YWlqwLOj3Jp"
+      },
+      "artists": [
+        {
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "Trung Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "M\u01b0a Th\u00e1ng S\u00e1u",
+      "url": "https://open.spotify.com/track/23SUnSd024ACX7u1AUXsGc"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Ng\u00e0n N\u1ed7i \u0110au",
         "url": "https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz"
       },
@@ -1926,7 +1952,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 208939,
       "name": "Ng\u00e0y \u0110\u1ea7u Ti\u00ean",
       "url": "https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug"
@@ -1970,6 +1996,28 @@
       "duration_ms": 275583,
       "name": "Ng\u00f4i Sao C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi L\u1ea1 Trong Danh B\u1ea1 (feat. Phuc Du)",
+        "url": "https://open.spotify.com/album/58VYZEMuhqP4PPhQCqzbjR"
+      },
+      "artists": [
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        },
+        {
+          "name": "Phuc Du",
+          "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Ng\u01b0\u1eddi L\u1ea1 Trong Danh B\u1ea1 (feat. Phuc Du)",
+      "url": "https://open.spotify.com/track/7jbnA8sL3dpOYRrFrVURf0"
     },
     {
       "album": {
@@ -2540,7 +2588,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 220509,
       "name": "Thanh Xuan",
       "url": "https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5"
@@ -3089,6 +3137,28 @@
     },
     {
       "album": {
+        "name": "Vi\u1ec7t Ki\u1ec1u",
+        "url": "https://open.spotify.com/album/32HcT5adUezGmpgMCC9S51"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Vi\u1ec7t Ki\u1ec1u",
+      "url": "https://open.spotify.com/track/4YJVXeScYoka1p1cAWRqlM"
+    },
+    {
+      "album": {
         "name": "V\u00e0 Ng\u00e0y N\u00e0o \u0110\u00f3",
         "url": "https://open.spotify.com/album/4cLAtnMJPasZ99JqDVVSm3"
       },
@@ -3174,7 +3244,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"

@@ -4,7 +4,7 @@
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-268 songs - 17 hr 31 min
+269 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Georgia on a Fast Train \- Live at the Texas Music Cafe](https://open.spotify.com/track/6zudOk9Nsjx0ulYSYJ2aXC) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Eddy Shaver](https://open.spotify.com/artist/0wpd5zvhLzWHrpY6RWBBim) | [Georgia on a Fast Train \(Live at the Texas Music Cafe\)](https://open.spotify.com/album/0q0TclnPK1HyWRmCJOG7z2) | 4:04 | 2023-01-27 | 2023-05-14 |
 | [Georgia on My Mind \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/0OmDJkht9AEeXrJkRR5iJA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 4:08 | 2021-07-23 | 2022-10-15 |
 | [Get Your Kicks On Route 66](https://open.spotify.com/track/6EDntGp9mUKMWyA1bF2Ush) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [Live at Billy Bob's Texas](https://open.spotify.com/album/4lZz3iIX7TFD31msCkui68) | 3:27 | 2021-07-23 |  |
-| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 |  |
+| [Gettin' By](https://open.spotify.com/track/3jBzXVNSgRPvpGRenSkvL1) | [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7) | [Live From Dixie's Bar & Bus Stop](https://open.spotify.com/album/6p4SrcEzMn5uu2KXBRyo1S) | 3:42 | 2021-07-23 | 2023-05-30 |
 | [Gimme Three Steps \- Live](https://open.spotify.com/track/2BTxbbLJiPd1ySKtvsBgn8) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Pronounced ‘Leh\-‘nérd ‘Skin\-‘nérd \- Live From Jacksonville At The Florida Theatre](https://open.spotify.com/album/3x13WsiY5X1Di5mVWqKGD4) | 5:37 | 2021-07-23 | 2022-07-29 |
 | [Gimme Three Steps/Call Me The Breeze \- 1976/Live At Bill Graham's Winterland](https://open.spotify.com/track/7yfrdrdGjR0Sk1ustStfX3) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Authorized Bootleg \- Live Winterland San Francisco, CA 3/7/76](https://open.spotify.com/album/4I8cCe8m79fbzw1CXEcgVp) | 10:08 | 2021-07-23 |  |
 | [Girls Night Out \- Live](https://open.spotify.com/track/5IIglJEw1INsUNkXQq3Pss) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Reunion Live](https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV) | 3:08 | 2021-07-23 | 2022-07-25 |
@@ -238,6 +238,7 @@
 | [This Time \- Live in Texas \- September 1974](https://open.spotify.com/track/7lpnrBgUuirSlzoYYjaVc2) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 4:03 | 2021-07-23 |  |
 | [Till I Can Make It on My Own](https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Live at Church Street Station](https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9) | 3:13 | 2022-04-03 |  |
 | [Together Again](https://open.spotify.com/track/48GTIVseXEMnkUx0HbLd0g) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/6wX2ZCo6yoB3H6lmTvpJc2) | 2:32 | 2021-07-23 | 2023-04-29 |
+| [Together Again](https://open.spotify.com/track/4e8DqcbY3ArSECFS1o52UQ) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU) | 2:32 | 2023-05-12 |  |
 | [True Love Ways \(Live\)](https://open.spotify.com/track/1PL5WWah1F6cQaKrk9YYT4) | [Mickey Gilley](https://open.spotify.com/artist/5kFY4Bv5VRSBsM6CUYBoTC) | [80's Country Legends \- American Classics](https://open.spotify.com/album/4hM91RUj7JRDgB9EO2jRPo) | 2:07 | 2021-07-23 | 2022-07-28 |
 | [Tulsa Time \- Live](https://open.spotify.com/track/4ReuRJQakK9tm2L1mXYErf) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Don Williams in Ireland: The Gentle Giant in Concert](https://open.spotify.com/album/1r9Ag09dMKygCQwanSCSNn) | 3:14 | 2021-07-23 | 2022-07-25 |
 | [Turn It Loose \- Live](https://open.spotify.com/track/4CpzKOe4r0wG4N5zXl9gJX) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Reunion Live](https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV) | 3:40 | 2021-07-23 | 2022-07-23 |

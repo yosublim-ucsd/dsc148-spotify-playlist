@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: グソクムズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,716 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,857 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,18 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 84 | [69 Party](https://open.spotify.com/track/1Rd1IWQNTjlep5kcsyZsiq) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [DANCEHALL MAGIC](https://open.spotify.com/album/1FPcu8UL0LfZYnzV0diafu) | 3:23 |
 | 85 | [My Generation](https://open.spotify.com/track/67OMQfexlfcP6JQfxDmFzY) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [My Generation](https://open.spotify.com/album/3OMCNHJJAbgNJcJmYKFqYi) | 3:40 |
 | 86 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 |
-| 87 | [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 |
-| 88 | [Koewo](https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Koewo](https://open.spotify.com/album/56RUz6PPkjaW0iJTsrujXC) | 3:59 |
-| 89 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 |
-| 90 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 |
-| 91 | [Party night in summer dream](https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Party night in summer dream](https://open.spotify.com/album/2qbXXPqL8VMNpVJYkUXEVS) | 3:05 |
-| 92 | [New Day Rising](https://open.spotify.com/track/3e0gxqtZgfYccVBaKvNR4i) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [New Day Rising](https://open.spotify.com/album/1MgkIYvkpA9DmBdN17DPQu) | 2:52 |
-| 93 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 |
-| 94 | [memoria](https://open.spotify.com/track/2qFyT85n89vYkxdVOCn1GE) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [memoria](https://open.spotify.com/album/5gAn7GfKbxBp520YiqbGYa) | 3:40 |
-| 95 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 |
-| 96 | [ジグソーパズル](https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [ジグソーパズル](https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz) | 4:06 |
-| 97 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 |
-| 98 | [AOTOHARU](https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [AOTOHARU](https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V) | 4:33 |
-| 99 | [Dokodatteii](https://open.spotify.com/track/444UtyeTFdSZ7eRRfUJSnp) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Dokodatteii](https://open.spotify.com/album/3siRKjFzd2RWPsiAX9E6Xv) | 3:29 |
+| 87 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 |
+| 88 | [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 |
+| 89 | [Koewo](https://open.spotify.com/track/0VkBmuJMv574JUlQC0gDot) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [Koewo](https://open.spotify.com/album/56RUz6PPkjaW0iJTsrujXC) | 3:59 |
+| 90 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 |
+| 91 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 |
+| 92 | [Party night in summer dream](https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Party night in summer dream](https://open.spotify.com/album/2qbXXPqL8VMNpVJYkUXEVS) | 3:05 |
+| 93 | [New Day Rising](https://open.spotify.com/track/3e0gxqtZgfYccVBaKvNR4i) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [New Day Rising](https://open.spotify.com/album/1MgkIYvkpA9DmBdN17DPQu) | 2:52 |
+| 94 | [naniyue](https://open.spotify.com/track/6iJD4wxQUHUkOanQDgCmtA) | [tacica](https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS) | [naniyue](https://open.spotify.com/album/1W3pUhMEegHPxhq0afnsQ5) | 4:10 |
+| 95 | [memoria](https://open.spotify.com/track/2qFyT85n89vYkxdVOCn1GE) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [memoria](https://open.spotify.com/album/5gAn7GfKbxBp520YiqbGYa) | 3:40 |
+| 96 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 |
+| 97 | [ジグソーパズル](https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [ジグソーパズル](https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz) | 4:06 |
+| 98 | [ワスレガタキ](https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [ワスレガタキ](https://open.spotify.com/album/3soHYtUh1ITKtBAHPPBJwO) | 2:57 |
+| 99 | [AOTOHARU](https://open.spotify.com/track/0jndSJguaUF4ERgMBFmDGI) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [AOTOHARU](https://open.spotify.com/album/1JFNHo7DcKh0mmcwHg4S4V) | 4:33 |
+| 100 | [Dokodatteii](https://open.spotify.com/track/444UtyeTFdSZ7eRRfUJSnp) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Dokodatteii](https://open.spotify.com/album/3siRKjFzd2RWPsiAX9E6Xv) | 3:29 |
 
-Snapshot ID: `MCwwNDVjYjIxYzUwMzgxNWZjMTkyMDlmN2E0OTVkN2JjYzkwMGRhMjlh`
+Snapshot ID: `MCw3NmNjOTYyMjIxMTQ3ZjJhNjYwNTU4MGExYjMzODU2ZTRiZjkxY2Nl`

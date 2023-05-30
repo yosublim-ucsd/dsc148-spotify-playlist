@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: El Morabba3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,488 likes - 71 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,609 likes - 71 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 24 | [tab eh](https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:13 |
 | 25 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
 | 26 | [Nos El Bahr](https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Nos El Bahr](https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp) | 3:58 |
-| 27 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/3VLNM6OrIB5m8KMZ4EYc3b) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/album/1pwLq0eWnKezSJAvv3Zoht) | 3:35 |
+| 27 | [Ya Habibi, La! يا حبيبي لا](https://open.spotify.com/track/6ROCxDLVhctKY22gnAFrLH) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Bazaar Bizarre فلسطين وين أنا؟](https://open.spotify.com/album/0EADJlCNxnLYmYHZY1g4zP) | 3:35 |
 | 28 | [Sahara](https://open.spotify.com/track/76rdCaOQc4RlzeilZ9ZffD) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Sahara](https://open.spotify.com/album/4uyGKH3wKeFn9T7LH77NAp) | 4:18 |
 | 29 | [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 |
 | 30 | [Nazel Al Ghor](https://open.spotify.com/track/74LSkGNytaURvW5K4K7UwQ) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:28 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Pick your favorite BTS songs to share with the world\. <a href="https://stage\-v2\-dot\-top5\-byspotify.appspot.com/?key=4f11bcef204e0a8bcbe57faab01b5c7e">My Top 5: BTS Songs</a> as well\. ARMY is unbeatable💜
+> This is the PROOF of BTS history\. Check out <a href="https://open.spotify.com/playlist/37i9dQZF1DXaR2kf8OYllT">BTS Yet To Come in Busan LIVE SET</a> as well\. ARMY is unbeatable💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,588,409 likes - 242 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,593,858 likes - 242 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 241 | [Skit: R U Happy Now?](https://open.spotify.com/track/53XrsilgguJmmsEtDsj0yY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 2:28 |
 | 242 | [Skit: Circle Room Talk](https://open.spotify.com/track/4Ut6UU8Yyihz1jCZWSCQpu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 2:11 |
 
-Snapshot ID: `MCxmMmQwMTNjNDgyZGI4MzY4NGYzZjYxM2U3MDY1YmQ1MDNkNzE2ZWE3`
+Snapshot ID: `MCwzZWEyMjA5Y2I1MTNlMTA3ZTg5OTYwOWFhOTgxMzFkOTg4ZmI2ZmEw`

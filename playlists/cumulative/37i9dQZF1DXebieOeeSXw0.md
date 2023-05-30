@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-336 songs - 1 day 3 hr 4 min
+337 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 | 2021-12-24 |  |
 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 | 2021-12-24 |  |
 | [Obsecion](https://open.spotify.com/track/1cqwlpDbxFswOg5Ar4Ohja) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [The Last Mambo](https://open.spotify.com/album/15pxNp96HFwWq2FQI8J9Ym) | 12:45 | 2021-12-24 |  |
-| [Oh What A Feeling](https://open.spotify.com/track/4QDmCalJi2bpzPrzeyU7jE) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [More Gregory](https://open.spotify.com/album/5BeeQ4MSCbwfL6IsNyJ7cM) | 3:39 | 2021-12-24 |  |
+| [Oh What A Feeling](https://open.spotify.com/track/0Nsta4NyvGgyLMRRwknYmW) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [More Gregory](https://open.spotify.com/album/70eynxpbUifQILq4SeVmF8) | 3:39 | 2021-12-24 |  |
+| [Oh What A Feeling](https://open.spotify.com/track/4QDmCalJi2bpzPrzeyU7jE) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [More Gregory](https://open.spotify.com/album/5BeeQ4MSCbwfL6IsNyJ7cM) | 3:39 | 2021-12-24 | 2023-05-30 |
 | [Okwukwe Na Nchekwube](https://open.spotify.com/track/1XB77AcdVrAaNN2VQrmGy3) | [Celestine Ukwu & His Philosophers National](https://open.spotify.com/artist/4YYhVBJV1DG5yhNmX9rUFf) | [Okwukwe Na Nchekwube](https://open.spotify.com/album/4Ds5fMWVRmYI1gODRrFMdu) | 6:10 | 2021-12-24 |  |
 | [One Kiss Too Many](https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:18 | 2022-04-07 |  |
 | [One Two](https://open.spotify.com/track/43ywQvHPPH3ZpbNhJKktIN) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:36 | 2021-12-24 |  |

@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,649 songs - 3 day 11 hr 53 min
+1,650 songs - 3 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-23 | 2021-11-10 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-22 |  |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-05 | 2022-01-29 |
+| [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-19 |  |
 | [Double Denim](https://open.spotify.com/track/0a7IyCuWkmn0emE09Eppy1) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Double Denim](https://open.spotify.com/album/1PD55j69sO0Ml0IwBi0GMD) | 2:34 | 2022-10-14 | 2022-11-19 |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-09-03 |
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2020-02-19 | 2021-11-09 |
@@ -721,7 +722,7 @@
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-08 | 2022-01-08 |
 | [I Should Have Stayed at Home](https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [I Should Have Stayed at Home](https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR) | 2:43 | 2023-04-07 |  |
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2020-07-12 | 2021-11-10 |
-| [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 | 2023-04-14 |  |
+| [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 | 2023-04-14 | 2023-05-30 |
 | [i think too much](https://open.spotify.com/track/6wFqLYmiXyGvprbWa4ogm8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [i think too much](https://open.spotify.com/album/57KCk6H2jdmgHeh0JNW95b) | 3:22 | 2020-04-21 | 2021-11-10 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-03-17 |
 | [I Wanna](https://open.spotify.com/track/0yG5r8xqtJLfMfbsiak6Ra) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I Wanna](https://open.spotify.com/album/5KWURvzhIZ1zRn26ONZhyN) | 3:30 | 2022-09-23 | 2022-10-29 |

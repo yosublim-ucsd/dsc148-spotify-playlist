@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 70652,
+  "num_followers": 70774,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
         "name": "Reina de la Canci\u00f3n Latina",
         "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
@@ -139,6 +155,22 @@
       "duration_ms": 165213,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "...Y Que Calvos",
+        "url": "https://open.spotify.com/album/7o2KhBaz9BqbFyNPwEWWHZ"
+      },
+      "artists": [
+        {
+          "name": "Los Calvos",
+          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
+        }
+      ],
+      "duration_ms": 212257,
+      "name": "Jos\u00e9",
+      "url": "https://open.spotify.com/track/09T4yz1emL9O1yt3txtUKy"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -163,34 +195,18 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "...Y Que Calvos",
-        "url": "https://open.spotify.com/album/7o2KhBaz9BqbFyNPwEWWHZ"
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
       },
       "artists": [
         {
-          "name": "Los Calvos",
-          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 212257,
-      "name": "Jos\u00e9",
-      "url": "https://open.spotify.com/track/09T4yz1emL9O1yt3txtUKy"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
-        "name": "Tiempo pa' Matar",
-        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "Tiempo Pa\u2019 Matar",
-      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -207,22 +223,6 @@
       "duration_ms": 168093,
       "name": "A Deeper Shade Of Soul",
       "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -259,6 +259,26 @@
       "duration_ms": 195133,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -335,42 +355,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Lo Atar\u00e1 la Arache",
-      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "Barretto",
         "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
         "name": "Con Todos los Hierros: Everything But The Kitchen Sink",
         "url": "https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX"
       },
@@ -475,38 +491,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 446400,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
-        "name": "La Cuna",
-        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "Take A Trip Pussy Cat",
         "url": "https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
         "name": "A Lifetime of Hits... (Live At Centro de Bellas Artes, San Juan, Puerto Rico.)",
         "url": "https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "New York Boogaloo",
-        "url": "https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI"
-      },
-      "artists": [
-        {
-          "name": "Spanglish Fly",
-          "url": "https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu"
-        }
-      ],
-      "duration_ms": 389312,
-      "name": "Brooklyn Boogaloo",
-      "url": "https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "Ali Baba",
         "url": "https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 176146,
       "name": "It's Not What You Say",
       "url": "https://open.spotify.com/track/6xa8EuqmwQPVjzhyir7yTU"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "New York Boogaloo",
+        "url": "https://open.spotify.com/album/1eItMzO9e3pOi82He9lIiI"
+      },
+      "artists": [
+        {
+          "name": "Spanglish Fly",
+          "url": "https://open.spotify.com/artist/1iy7s9Xp6bA7lClmWDsNKu"
+        }
+      ],
+      "duration_ms": 389312,
+      "name": "Brooklyn Boogaloo",
+      "url": "https://open.spotify.com/track/2SFQr3uJF8wD7iLqGVaLNi"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "Barretto Power",
-        "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "The Two Sides Of La Lupe",
         "url": "https://open.spotify.com/album/5Hx8oOGVVbHR0mPpKLYmhb"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 167493,
       "name": "Qu\u00e9 Bueno Boogaloo",
       "url": "https://open.spotify.com/track/4XSsRzYLeNHCOOa12VruGx"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "Barretto Power",
+        "url": "https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/4V0PNNaNA9PgFC3zVlw8no"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-03-08 00:22:41",
       "album": {
-        "name": "\u00a1La Excitante Celia Cruz!",
-        "url": "https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 152090,
-      "name": "Para Ti Mi Boogaloo",
-      "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
-        "name": "Latin Bugalu",
-        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
-    },
-    {
-      "added_at": "2023-03-08 00:22:41",
-      "album": {
         "name": "Boogaloo '67",
         "url": "https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2"
       },
@@ -811,6 +779,22 @@
       "duration_ms": 370960,
       "name": "You Gotta Love Me",
       "url": "https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "\u00a1La Excitante Celia Cruz!",
+        "url": "https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 152090,
+      "name": "Para Ti Mi Boogaloo",
+      "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
     },
     {
       "added_at": "2023-03-08 00:22:41",
@@ -831,6 +815,22 @@
       "duration_ms": 323400,
       "name": "Guaguanc\u00f3 Triste",
       "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
+    },
+    {
+      "added_at": "2023-03-08 00:22:41",
+      "album": {
+        "name": "Latin Bugalu",
+        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
     },
     {
       "added_at": "2023-03-08 00:22:41",

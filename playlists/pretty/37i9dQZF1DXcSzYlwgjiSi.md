@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The King of Party Cove Jake Owen is taking over to celebrate his new lake day smash "On The Boat Again"!  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,967 likes - 151 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,274 likes - 151 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

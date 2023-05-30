@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-380 songs - 1 day 9 hr 53 min
+382 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Beat Cari](https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua) | 5:32 | 2021-12-08 | 2022-02-22 |
 | [Beautiful Nothing](https://open.spotify.com/track/2diSOKiCbQIslIZ8WsDCjI) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Beautiful Nothing EP](https://open.spotify.com/album/0wCK3Fxrd3f7KhSeMNr1WT) | 3:28 | 2021-12-08 | 2022-07-29 |
 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 | 2021-12-08 | 2023-05-08 |
-| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 |  |
+| [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2023-05-30 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
 | [Blue](https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Blue](https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k) | 4:46 | 2021-12-08 |  |
 | [Bo & Wing](https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:47 | 2021-12-08 |  |
@@ -91,6 +91,7 @@
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-12-08 | 2022-02-22 |
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 |  |
+| [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 |  |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-12-08 |  |
@@ -202,6 +203,7 @@
 | [Moment In Time](https://open.spotify.com/track/0mqObq0LCWmM0P0zLQd1eh) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Moment In Time](https://open.spotify.com/album/29wquy11Iersljz5usyVA2) | 3:57 | 2021-12-08 |  |
 | [Moment Scale \- Dubmaster X Remix](https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB) | [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [Café del Mar Essentials \(Vol\. 1\)](https://open.spotify.com/album/4CCmKV79PAwiRRfD5IAfYn) | 6:05 | 2021-12-08 | 2023-01-06 |
 | [Money](https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:18 | 2022-10-28 |  |
+| [Moonlight](https://open.spotify.com/track/5VIMpwICCfIUv4noTcES9d) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Moonlight](https://open.spotify.com/album/4GVzzVyaPe7UJBHGO7Ee1f) | 6:56 | 2023-05-26 |  |
 | [More Than You Thought](https://open.spotify.com/track/6qoGexJZGrmeeNxFpk9RJ6) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [More Than You Thought EP](https://open.spotify.com/album/45cqR8LQeUBz9kzkHp0aNt) | 8:34 | 2021-12-08 |  |
 | [Moss](https://open.spotify.com/track/6tzJUHESntwmwNBJF4R5jD) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Moss EP](https://open.spotify.com/album/7y3IgHIyRADQv1SJvaK8Nf) | 8:53 | 2021-12-08 |  |
 | [Mountain \- Tornado Wallace Remix](https://open.spotify.com/track/6q0VRNXzaJssSM1V4zd6uR) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Tornado Wallace](https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT) | [Mountain](https://open.spotify.com/album/6leiaw0XcRmeYRsuCPjyu9) | 6:02 | 2021-12-08 | 2022-07-29 |
@@ -227,7 +229,7 @@
 | [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2021-12-08 | 2022-10-05 |
 | [Of Sea](https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 6:04 | 2022-05-03 |  |
 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 | 2021-12-08 | 2023-01-06 |
-| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 |  |
+| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 | 2023-05-30 |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 |  |
 | [One\-Sided Love](https://open.spotify.com/track/3mwjb8Ft1DJMOhqfW75Wac) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/6PrH4wM9PByiCKEBDe68FF) | 6:25 | 2022-05-03 |  |
 | [One\-Sided Love](https://open.spotify.com/track/4HdZwmqBAAwmZ2nMkMJw4k) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/0HgafCZBcFvtTLvlLz2tJB) | 6:25 | 2021-12-08 | 2022-07-29 |

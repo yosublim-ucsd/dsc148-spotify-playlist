@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-345 songs - 21 hr 27 min
+346 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Break My Broken Heart](https://open.spotify.com/track/2UfDeOnKQgquiKyStdgCDj) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Break My Broken Heart](https://open.spotify.com/album/44KkghWRHAWdnTlDRAGjK3) | 3:34 | 2021-12-06 | 2022-01-19 |
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2021-12-06 | 2022-11-13 |
 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 | 2023-02-03 | 2023-02-25 |
-| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 |  |
+| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 | 2023-05-30 |
 | [Broken Ones](https://open.spotify.com/track/0VYCUWNFIYLIOQqu3bFzs0) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Broken Ones](https://open.spotify.com/album/6F6usgNiD6yrnTVgvC76ub) | 3:49 | 2022-01-05 | 2022-11-13 |
 | [brokenhearted \(together\)](https://open.spotify.com/track/45BmSERHSfZFaLH9oWtA1e) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [brokenhearted \(together\)](https://open.spotify.com/album/7EQo6zfVoU9iJuIDo9xAW7) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [brokenhearted \- sunset](https://open.spotify.com/track/2fIhX68Y1P0xLfnJh160tk) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [partly cloudy](https://open.spotify.com/album/5PN7GeludLF7xbeWtk5Sy7) | 4:21 | 2021-12-06 | 2022-07-29 |
@@ -349,6 +349,7 @@
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-12-06 | 2022-03-31 |
 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 | 2022-01-05 |  |
 | [You Don't Get To \- Stripped](https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc) | [Julia Gargano](https://open.spotify.com/artist/54IqzX9ecr68nJoastw0Nz) | [You Don't Get To \(Stripped\)](https://open.spotify.com/album/7B686IbMkI1dteleIZVSeR) | 3:16 | 2021-12-06 | 2022-04-21 |
+| [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-05-26 |  |
 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 | 2022-01-05 |  |
 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 | 2022-01-05 | 2022-04-21 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2022-07-08 |  |

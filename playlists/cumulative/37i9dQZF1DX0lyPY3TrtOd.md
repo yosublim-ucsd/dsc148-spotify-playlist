@@ -4,7 +4,7 @@
 
 > Extatische gevoelens met prachtige muziek
 
-112 songs - 6 hr 25 min
+113 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Electric City](https://open.spotify.com/track/3Pvrhpbw9o6R5flxEb1juu) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:41 | 2023-04-13 |  |
 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 | 2023-02-23 | 2023-04-28 |
 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 | 2023-02-23 | 2023-04-05 |
-| [Fire Thoughts](https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/0o8FNv5JC1wsZ4HsBbP5KB) | 3:39 | 2023-04-04 |  |
+| [Fire Thoughts](https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/0o8FNv5JC1wsZ4HsBbP5KB) | 3:39 | 2023-04-04 | 2023-05-30 |
+| [Fire Thoughts](https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs) | 3:39 | 2023-05-25 |  |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2023-02-23 | 2023-04-05 |
 | [Frisbee](https://open.spotify.com/track/6TReRzz0j5HFerU50mYFDI) | [Thaïti](https://open.spotify.com/artist/30BpvlrcBQA9Sf9M9m8Hv9) | [Frisbee](https://open.spotify.com/album/01RNydQRhhEZ3oARkkqogO) | 5:31 | 2023-04-04 |  |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2023-02-23 | 2023-04-05 |

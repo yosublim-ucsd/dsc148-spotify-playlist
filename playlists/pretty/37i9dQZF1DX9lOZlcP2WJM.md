@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 
 > Best of Lata Mangeshkar, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,487 likes - 199 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,585 likes - 199 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 156 | [Dil Ki Nazar Se](https://open.spotify.com/track/6piailrPPrz3xGKrQpP52W) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Anari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN) | 4:40 |
 | 157 | [Lo Chali Main](https://open.spotify.com/track/1zIqI7jbNrhZtY0QhTslK3) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Hum Aapke Hain Koun \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wzQyLymXegR9Wpngfo2pB) | 2:53 |
 | 158 | [Hum Tumse Mile \- From "Rocky"](https://open.spotify.com/track/1XPVW9NZXQfSLellqhwozj) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Rocky](https://open.spotify.com/album/78L9TjZw5IN7bI31lmonhT) | 6:00 |
-| 159 | [Tumse Dur Rehke \- Adalat / Soundtrack Version](https://open.spotify.com/track/5QVBXZlsxaOQSK6ODi615a) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Adalat](https://open.spotify.com/album/2A6oVYmSWbE7464I1lqyoD) | 3:26 |
+| 159 | [Tumse Dur Rehke \- From "Adalat"](https://open.spotify.com/track/5QVBXZlsxaOQSK6ODi615a) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Adalat](https://open.spotify.com/album/2A6oVYmSWbE7464I1lqyoD) | 3:26 |
 | 160 | [Humko Tumse Ho Gaya Hai Pyar \- Amar Akbar Anthony / Soundtrack Version](https://open.spotify.com/track/7cqSZn61vxGzPuc2UuQC5e) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Amar Akbar Anthony](https://open.spotify.com/album/55NxNTAZ8bSlGYjWcAxbGf) | 7:33 |
 | 161 | [Milo Na Tum To Ham Ghabraye \(From "Heer Raanjha"\)](https://open.spotify.com/track/6JRqW2QosewUb7gM5crVbH) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:58 |
 | 162 | [Piya Bina Piya Bina](https://open.spotify.com/track/2ziKr5ARPlaEzgmy5PYMwA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Abhimaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3hDjh0RzZAgQrgpIDLpvdk) | 4:11 |

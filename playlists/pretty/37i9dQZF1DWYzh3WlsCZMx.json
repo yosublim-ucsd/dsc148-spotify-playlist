@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 17355,
+  "num_followers": 17466,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 146808,
       "name": "Crazy Story",
       "url": "https://open.spotify.com/track/4eYrjXGlDycrqg7a0Wgwed"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Jackboy",
-        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
-      },
-      "artists": [
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Like a Million (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "SMD",
         "url": "https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 182146,
       "name": "LIT BITCH",
       "url": "https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Jackboy",
+        "url": "https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M"
+      },
+      "artists": [
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Like a Million (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Wat U Need",
-        "url": "https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b"
-      },
-      "artists": [
-        {
-          "name": "E Chapo",
-          "url": "https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6"
-        }
-      ],
-      "duration_ms": 121927,
-      "name": "Wat U Need",
-      "url": "https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 151186,
       "name": "Rap Shit",
       "url": "https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Wat U Need",
+        "url": "https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b"
+      },
+      "artists": [
+        {
+          "name": "E Chapo",
+          "url": "https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6"
+        }
+      ],
+      "duration_ms": 121927,
+      "name": "Wat U Need",
+      "url": "https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8"
+      },
+      "artists": [
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "Gucci Bag",
+      "url": "https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Hoodrat (feat. AzSwaye & Pjay)",
         "url": "https://open.spotify.com/album/4aBeGq3hlU2z7c6EvKjHpc"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 160000,
       "name": "Hood Baby",
       "url": "https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8"
-      },
-      "artists": [
-        {
-          "name": "Big Jade",
-          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Gucci Bag",
-      "url": "https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a"
     }
   ],
   "unique_name": "HBO Rap Sh!t's Taste",

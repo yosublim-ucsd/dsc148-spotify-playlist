@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: Santa Fe Klan & Dj Tao.
 
-120 songs - 6 hr 35 min
+121 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,8 +115,9 @@
 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 | 2023-05-26 |  |
 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 | 2023-05-26 |  |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2023-05-26 |  |
+| [Una Botella X Tu Amor](https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [El Pesa 9](https://open.spotify.com/artist/2u02lEnSZFFmpocK0jxZXq) | [Una Botella X Tu Amor](https://open.spotify.com/album/4d7TxPsGb8w6Ere4spc9Q2) | 2:58 | 2023-05-29 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 | 2023-05-26 |  |
-| [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2023-05-26 |  |
+| [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2023-05-26 | 2023-05-30 |
 | [Una copa mas](https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:44 | 2023-05-26 |  |
 | [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 |  |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2023-05-26 |  |

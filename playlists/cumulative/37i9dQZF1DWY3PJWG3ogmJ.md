@@ -4,7 +4,7 @@
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-241 songs - 14 hr 32 min
+242 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 | 2022-01-14 | 2022-07-29 |
 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 | 2022-01-14 |  |
 | [Eternal Forward Motion](https://open.spotify.com/track/2XHh7pPw1E8v37dWFBuleV) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/51ABB3Sdg2UdPbNBDieJ6y) | 3:49 | 2022-01-14 | 2022-07-29 |
+| [Eternal Forward Motion](https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Eternal Forward Motion](https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp) | 3:49 | 2023-01-18 |  |
 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 | 2022-01-14 |  |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2022-01-14 |  |
 | [Feast of the Damned](https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1) | [Black Breath](https://open.spotify.com/artist/3G5hGmHXhRi8zuIfLAeoPg) | [Sentenced to Life](https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb) | 2:51 | 2022-01-14 |  |
@@ -227,7 +228,7 @@
 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 | 2022-10-28 |  |
 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 | 2022-01-14 |  |
 | [Too Far From That](https://open.spotify.com/track/1KhM9p3yfAU6r4dxhmEwkt) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/2tvtZWchb9DcVtmp1rEuYs) | 2:25 | 2022-01-14 | 2022-07-29 |
-| [Too Far From That](https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:25 | 2022-04-22 |  |
+| [Too Far From That](https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:25 | 2022-04-22 | 2023-05-30 |
 | [Transparent Existence](https://open.spotify.com/track/3CumonGSXIjDxxtOAzMeLt) | [Blood Red Throne](https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4) | [Imperial Congregation](https://open.spotify.com/album/6vJiifcUQYV8ggzEQ5e8v5) | 4:22 | 2022-01-14 | 2022-02-11 |
 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 | 2022-01-14 |  |
 | [Ultimate](https://open.spotify.com/track/330RnswrHmcXgIgee4ZVOU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Ultimate](https://open.spotify.com/album/1LnDkfF4HHBYhhKsHCeGjO) | 2:31 | 2022-01-14 | 2022-07-26 |

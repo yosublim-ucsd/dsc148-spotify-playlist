@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 168982,
       "name": "Airforce blue",
       "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
@@ -4234,6 +4234,24 @@
       "duration_ms": 138953,
       "name": "glued to the floor",
       "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "album": {
@@ -9491,6 +9509,24 @@
     },
     {
       "album": {
+        "name": "Sand i min hand",
+        "url": "https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ"
+      },
+      "artists": [
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sand i min hand",
+      "url": "https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu"
+    },
+    {
+      "album": {
         "name": "Santiago",
         "url": "https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc"
       },
@@ -11112,7 +11148,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 178706,
       "name": "Symfoni",
       "url": "https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX"

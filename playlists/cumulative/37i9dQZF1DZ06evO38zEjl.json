@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 1290160,
       "name": "Charm (Over \"Burundi Cloud\")",
       "url": "https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 270040,
       "name": "Ondas Do Mar De Vigo",
       "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
@@ -1490,6 +1490,24 @@
       "duration_ms": 707320,
       "name": "Open Secret (Paris)",
       "url": "https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 707320,
+      "name": "Open Secret (Paris)",
+      "url": "https://open.spotify.com/track/6cF4oYq62PHIy1SCj0oJ2d"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 427533,
       "name": "Power Spot",
       "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 409693,
       "name": "Solaire",
       "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 296493,
       "name": "Tuchia",
       "url": "https://open.spotify.com/track/6G964j7YDebUoVPmUuVMeL"

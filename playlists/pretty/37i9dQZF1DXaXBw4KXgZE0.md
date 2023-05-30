@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 
 ### [Canciones de Cuna](https://open.spotify.com/playlist/37i9dQZF1DXaXBw4KXgZE0)
 
-> Llegamos para ayudarte con esta dura tarea.
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,052 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,083 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 | 44 | [Wings To Fly](https://open.spotify.com/track/6TQz8WoqWFtvFtDEdtFzwo) | [Josef Bel Habib](https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI) | [Near And Far](https://open.spotify.com/album/5KGtQ9I19PwuTk9C2Fbsve) | 2:11 |
 | 45 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
 
-Snapshot ID: `MCw4YTY0ZWY5NmE1YTMzZjQ2MDJiMjFhYWNlZmQ1OWM1MDgyZjY4NDU4`
+Snapshot ID: `MCwzMzA5ODNmZjA5NjBlNDAzZmQyNjhmNTU0YTAwZDZjNzQyZjM0MDMx`

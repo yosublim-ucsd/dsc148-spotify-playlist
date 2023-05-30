@@ -1,6 +1,6 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2621461,
+  "num_followers": 2621923,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "COOL RELAX",
+        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
+      },
+      "artists": [
+        {
+          "name": "Jon B.",
+          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
+    },
+    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Keith Sweat",
@@ -111,22 +127,6 @@
       "duration_ms": 264773,
       "name": "Nobody (feat. Athena Cage)",
       "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
-    },
-    {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "COOL RELAX",
-        "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
-      },
-      "artists": [
-        {
-          "name": "Jon B.",
-          "url": "https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Three for Love",
@@ -547,6 +531,22 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 273438,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 384666,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 273438,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -775,6 +775,22 @@
       "duration_ms": 234053,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -809,36 +825,20 @@
       "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
       "artists": [
         {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     }
   ],
   "unique_name": "Love Deluxe",

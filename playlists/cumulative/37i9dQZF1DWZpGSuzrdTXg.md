@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-118 songs - 6 hr 46 min
+119 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Oxygen](https://open.spotify.com/track/3ifF2xXCgkd8l10payCaSs) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Oxygen](https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I) | 3:34 | 2022-12-22 |  |
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-12-22 |  |
-| [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 |  |
+| [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 | 2023-05-30 |
+| [Questionnaire](https://open.spotify.com/track/4iHzg001tiA65MGZ4dq0Je) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2](https://open.spotify.com/album/0ys8RG7cVPqEJoiMhaimV9) | 2:45 | 2023-05-25 |  |
 | [Questionnaire](https://open.spotify.com/track/5KdKfHEQRIineiZYVqMHNI) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Questionnaire](https://open.spotify.com/album/6SLKkRjBbmJMbzYAjHPZrP) | 2:45 | 2023-02-16 | 2023-04-18 |
 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 | 2022-12-22 | 2023-02-17 |
 | [Running Out \- Live From The Studio](https://open.spotify.com/track/2iAy8pc1c5qEyHBETuiVP4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/4UBss9tPBdE1Pjh5tvz6Vf) | 2:45 | 2022-12-22 |  |

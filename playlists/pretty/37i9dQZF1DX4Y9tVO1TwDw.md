@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Poe Leos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,816 likes - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,819 likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 22 | [OH NO](https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [OH NO](https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu) | 2:48 |
 | 23 | [Mi Gran Error](https://open.spotify.com/track/2JFiSScWPx53pMUYHLdO6j) | [Mxuroo](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Mi Gran Error](https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM) | 4:08 |
 | 24 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
-| 25 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
-| 26 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
-| 27 | [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 |
-| 28 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
-| 29 | [Mi Error](https://open.spotify.com/track/1AktxtPO11d9jRVqIU5Ixc) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Mi Error](https://open.spotify.com/album/0Odak28sLk2nII6qJX5QQC) | 3:42 |
+| 25 | [Mi Error](https://open.spotify.com/track/1AktxtPO11d9jRVqIU5Ixc) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Mi Error](https://open.spotify.com/album/0Odak28sLk2nII6qJX5QQC) | 3:42 |
+| 26 | [Devuélveme a Mi Chica](https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Devuélveme a Mi Chica](https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8) | 3:08 |
+| 27 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
+| 28 | [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 |
+| 29 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
 | 30 | [Up For It](https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Up For It](https://open.spotify.com/album/08xseL9XAhUtKYfoweIfOy) | 2:46 |
 
 Snapshot ID: `MCxkYTZmYWYyMmY3ZTgzZmQwNzg5YTE0NGU0ZGMyMTNjNmY4NGQ4OTVi`

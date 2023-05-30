@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Nick Schilder
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,469 likes - 159 songs - 8 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,461 likes - 159 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 13 | [Keep It Secret](https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Keep It Secret](https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM) | 2:48 |
 | 14 | [Summer in E Major](https://open.spotify.com/track/4993ienyw4lTC1AiTWa8kp) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [Summer in E Major](https://open.spotify.com/album/53gv2FXjoBMlNHHXQkcyrm) | 3:30 |
 | 15 | [Blow Ya Mind](https://open.spotify.com/track/21hxN3cxOJoDmQwg2tXUpN) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Bleech](https://open.spotify.com/artist/0az6y7AjCCOAZzAF3i1Jaq), [Lock 'N Load](https://open.spotify.com/artist/36WpsQfa32ou67lhwl8RQ9) | [Blow Ya Mind](https://open.spotify.com/album/6GK4SX32R65JWHOCeZqdiA) | 2:29 |
-| 16 | [Turtulleshë \- Kingja Remix](https://open.spotify.com/track/3hJudw7SmFpeZyOgIjM4o5) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD), [Kingja](https://open.spotify.com/artist/75bXhBBlbLAKqcVH86MEbA) | [Turtulleshë \(Kingja Remix\)](https://open.spotify.com/album/6GhGZpMtqpvORpSoXvj19V) | 3:26 |
+| 16 | [Turtulleshë \- Kingja Remix](https://open.spotify.com/track/3hJudw7SmFpeZyOgIjM4o5) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD), [Kingja](https://open.spotify.com/artist/3D28WlYwddq9DmCxVJ3QZ0) | [Turtulleshë \(Kingja Remix\)](https://open.spotify.com/album/6GhGZpMtqpvORpSoXvj19V) | 3:26 |
 | 17 | [Greece 2000 \- KREAM Remix](https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000 \(KREAM Remix\)](https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV) | 3:35 |
 | 18 | [Spaceman \(Moon Raver\)](https://open.spotify.com/track/263m3SB3bm6u9y7BaDiPQn) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Spaceman \(Moon Raver\)](https://open.spotify.com/album/2JfBoyfpCIGTmRdCaS2ORJ) | 2:54 |
 | 19 | [Self Control](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w) | [Self Control](https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj) | 3:06 |

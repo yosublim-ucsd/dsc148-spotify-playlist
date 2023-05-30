@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "The East Wind",
+        "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
+      },
+      "artists": [
+        {
+          "name": "Warren Blues",
+          "url": "https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Always Sleepy",
+      "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
+    },
+    {
+      "album": {
         "name": "Anachronic",
         "url": "https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 182500,
       "name": "Clear Path",
       "url": "https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI"
+    },
+    {
+      "album": {
+        "name": "Tranquilidad",
+        "url": "https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG"
+      },
+      "artists": [
+        {
+          "name": "Camilento",
+          "url": "https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Colors Of Tomorrow",
+      "url": "https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b"
     },
     {
       "album": {
@@ -527,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/0GqhgQEET7SJTiFydo3Svp"
+      },
+      "artists": [
+        {
+          "name": "Aari Kumar",
+          "url": "https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173666,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/5S2fFnqCM8jYc4GL6k8dWK"
+    },
+    {
+      "album": {
         "name": "Evolving",
         "url": "https://open.spotify.com/album/2g0MPVqI9fbAVrn64n3YmI"
       },
@@ -632,6 +686,24 @@
       "duration_ms": 155096,
       "name": "Flor Espina",
       "url": "https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA"
+    },
+    {
+      "album": {
+        "name": "For A While",
+        "url": "https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV"
+      },
+      "artists": [
+        {
+          "name": "Astrid Whitlock",
+          "url": "https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192086,
+      "name": "For A While",
+      "url": "https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B"
     },
     {
       "album": {
@@ -797,6 +869,24 @@
     },
     {
       "album": {
+        "name": "I feel it I know it",
+        "url": "https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk"
+      },
+      "artists": [
+        {
+          "name": "Glow Crow",
+          "url": "https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "I feel it I know it",
+      "url": "https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE"
+    },
+    {
+      "album": {
         "name": "Ich W\u00fcnsche",
         "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
       },
@@ -959,6 +1049,42 @@
     },
     {
       "album": {
+        "name": "Pluma",
+        "url": "https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00f3 Lorenzo",
+          "url": "https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173281,
+      "name": "Lindo",
+      "url": "https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7dER2Jv0qJM5GRaDbabCl4"
+      },
+      "artists": [
+        {
+          "name": "Sara Kisha",
+          "url": "https://open.spotify.com/artist/77qANxC0CCaFtLxLCJfCEM"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Logi Calm",
+      "url": "https://open.spotify.com/track/1USmlL8Lc4jSClVdvmxQsk"
+    },
+    {
+      "album": {
         "name": "More Than Anything",
         "url": "https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe"
       },
@@ -992,6 +1118,24 @@
       "duration_ms": 178285,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/3KbmeqpwQMymXHdhzaAFms"
+    },
+    {
+      "album": {
+        "name": "Mahabharata",
+        "url": "https://open.spotify.com/album/7vTm9nMF9IlpmnL18EQ1jo"
+      },
+      "artists": [
+        {
+          "name": "Mellow Line",
+          "url": "https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mahabharata",
+      "url": "https://open.spotify.com/track/5X5nxaIGTBD83D93pqAjcr"
     },
     {
       "album": {
@@ -1067,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Night Mind",
+        "url": "https://open.spotify.com/album/0MWCo1sR8DN8cL7Ptf9qkd"
+      },
+      "artists": [
+        {
+          "name": "Brisbois",
+          "url": "https://open.spotify.com/artist/3kp0L0gzhW88FsfpD4H0kH"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Night Mind",
+      "url": "https://open.spotify.com/track/6jD6Rk6mDkYM44raG3m9jA"
+    },
+    {
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/4KXF0ecJzcJnMzoSFwBLxF"
       },
@@ -1139,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Awaiting The Light",
+        "url": "https://open.spotify.com/album/2xiKuJydcJMzfQp5eY6uj2"
+      },
+      "artists": [
+        {
+          "name": "Garda Eulyssos",
+          "url": "https://open.spotify.com/artist/0wYXxRlJDi8Z3wrQXwirlb"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179043,
+      "name": "Promising",
+      "url": "https://open.spotify.com/track/2z0bu71IINbJ8JlUsDklUW"
+    },
+    {
+      "album": {
         "name": "Puesta Del Sol",
         "url": "https://open.spotify.com/album/30vNexbOhaTvF52XXULEu9"
       },
@@ -1193,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Soothing Piano for Sleep and Relaxation",
+        "url": "https://open.spotify.com/album/1aZ2hk0wFgX8hTkzpP3YHt"
+      },
+      "artists": [
+        {
+          "name": "Eleonor Bauer",
+          "url": "https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/1W4KoyHxyeYCLDE7Pyueh2"
+    },
+    {
+      "album": {
         "name": "Pantrana Calm",
         "url": "https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW"
       },
@@ -1244,6 +1442,24 @@
       "duration_ms": 176441,
       "name": "Resolvation",
       "url": "https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ"
+    },
+    {
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/3mecHxhqR8MHgYiyUdPrV5"
+      },
+      "artists": [
+        {
+          "name": "Pascal Dirac",
+          "url": "https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162819,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/4Qx7uyGiw9CwgVGNkmeq1e"
     },
     {
       "album": {
@@ -1463,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Soundbed",
+        "url": "https://open.spotify.com/album/4SE64tp5RcP3DDDRVRYwNd"
+      },
+      "artists": [
+        {
+          "name": "Spring Euphemia",
+          "url": "https://open.spotify.com/artist/2LTLJd4VIsqMpaoh9dn1ik"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205070,
+      "name": "Soundbed",
+      "url": "https://open.spotify.com/track/5A0kxibkbR8Wzgv07eyGtu"
+    },
+    {
+      "album": {
         "name": "Star Stars",
         "url": "https://open.spotify.com/album/3d3jAUgBsXpLmJWZw7Q1gW"
       },
@@ -1679,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Twinkle Twinkle Little Star (Healing Version)",
+        "url": "https://open.spotify.com/album/0RCUJEu7JOpudTHZu3Yr9I"
+      },
+      "artists": [
+        {
+          "name": "Johan Davidsson",
+          "url": "https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Twinkle Twinkle Little Star (Healing Version)",
+      "url": "https://open.spotify.com/track/5ANhkDGmLPGOtChGfTNIl9"
+    },
+    {
+      "album": {
         "name": "Ultraviolet Dream",
         "url": "https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo"
       },
@@ -1712,6 +1964,24 @@
       "duration_ms": 193034,
       "name": "Une autre fois",
       "url": "https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn"
+    },
+    {
+      "album": {
+        "name": "I start to feel",
+        "url": "https://open.spotify.com/album/7KiKS5NY51JOiE0sjH40XK"
+      },
+      "artists": [
+        {
+          "name": "Udda Jnhale",
+          "url": "https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Unforgotten Girl",
+      "url": "https://open.spotify.com/track/5QROqX69Jt5QgS1fhYXUj2"
     },
     {
       "album": {

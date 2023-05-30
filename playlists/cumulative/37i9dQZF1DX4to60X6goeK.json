@@ -1300,6 +1300,24 @@
     {
       "album": {
         "name": "Kickons",
+        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+    },
+    {
+      "album": {
+        "name": "Kickons",
         "url": "https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7"
       },
       "artists": [
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 286896,
       "name": "Why Should I",
       "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"

@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-241 songs - 12 hr 42 min
+242 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Social Drinker](https://open.spotify.com/track/3Z8YLZZUNZ6hgx5b5yHXII) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9), [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Social Drinker](https://open.spotify.com/album/2w5O6Gvoz7g0MwST58zJk6) | 3:03 | 2021-09-02 | 2022-06-23 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/66a2gbwWslXC9vvc1bIxEB) | 3:06 | 2021-09-02 | 2022-07-28 |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/278kcYhSJT5MorzKYpkKqK) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Keep It Together](https://open.spotify.com/album/3MByj0jMYnFWIE82Z0ypvb) | 3:06 | 2022-04-14 | 2022-12-10 |
-| [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 |  |
+| [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 | 2021-09-02 | 2023-05-30 |
 | [Sound System](https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:14 | 2021-09-02 | 2022-07-29 |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2022-04-14 |  |
 | [Special Brew](https://open.spotify.com/track/0SnvLzVAM0X4ATkdDxNAvr) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [The Green Album](https://open.spotify.com/album/0QmKssJTnSfndHYy8n5NVw) | 3:11 | 2022-12-09 | 2023-03-16 |
@@ -203,6 +203,7 @@
 | [The Rascal King](https://open.spotify.com/track/13BRH2RILNifFRNTXbLUka) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 2:46 | 2022-12-09 |  |
 | [The Science of Selling Yourself Short](https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Anthem](https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7) | 3:06 | 2021-09-02 |  |
 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 | 2021-09-02 | 2023-02-23 |
+| [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 | 2023-05-19 |  |
 | [The Works](https://open.spotify.com/track/0hZny5qCVmB1Z0Nm8N9c3n) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [The Works](https://open.spotify.com/album/1Xy0gPjycYdsfR1nkgRmmi) | 2:10 | 2021-09-02 | 2022-04-20 |
 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 | 2021-09-02 |  |
 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 | 2021-09-02 |  |

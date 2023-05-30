@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-702 songs - 2 day 2 hr 56 min
+704 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2022-04-14 | 2022-09-15 |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-20 |  |
-| [All Or Nothing At All](https://open.spotify.com/track/6f9Rtjg4i6dczqNnLwDlyl) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [All Or Nothing At All](https://open.spotify.com/album/1zjHNjfAn2SnYsmDiK48Ef) | 4:50 | 2023-03-16 |  |
+| [All Or Nothing At All](https://open.spotify.com/track/6f9Rtjg4i6dczqNnLwDlyl) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [All Or Nothing At All](https://open.spotify.com/album/1zjHNjfAn2SnYsmDiK48Ef) | 4:50 | 2023-03-16 | 2023-05-30 |
 | [All the Things You Are](https://open.spotify.com/track/1Lh7U5c3EvLBb6lSgHVFlR) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [All the Things You Are](https://open.spotify.com/album/2MswvfhuxKNK5cYoo14DVB) | 2:50 | 2022-04-14 | 2022-05-03 |
 | [All The Things You Are](https://open.spotify.com/track/3DEZOaXvDvRw8ESZE4RaHF) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [All The Things You Are](https://open.spotify.com/album/4mmZ3MBSlGakqDOhJspWEp) | 2:48 | 2023-04-27 |  |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-19 |  |
@@ -159,6 +159,7 @@
 | [Draw Me Nearer](https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 4:42 | 2022-04-14 | 2022-09-29 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/26dt6n5cyVRdX7vD8rmUWw) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Classic](https://open.spotify.com/album/5Fb9lGRHz1WGZJnZeorwhr) | 3:05 | 2022-04-14 | 2022-04-27 |
 | [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 | 2022-09-23 |
+| [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-25 |  |
 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:24 | 2022-08-10 | 2022-08-30 |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 | 2023-05-10 |
@@ -623,7 +624,7 @@
 | [The Winter of My Discontent](https://open.spotify.com/track/4gCaFMkA1CERmgy1ny9fhy) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Beloved of the Sky](https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ) | 7:20 | 2022-06-30 | 2022-10-08 |
 | [Theme For Ernie](https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6oCVoCOJDG6LH3njz2ej4A) | 5:04 | 2022-04-14 | 2022-07-29 |
 | [Theme for Ernie](https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Altitude](https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K) | 5:04 | 2022-06-30 | 2022-10-08 |
-| [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-03-09 |  |
+| [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-03-09 | 2023-05-30 |
 | [There Will Never Be Another You](https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:25 | 2022-06-30 | 2023-03-03 |
 | [There Will Never Be Another You](https://open.spotify.com/track/38III1nu5BFSJsffk7bcWm) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/5srtpTZOrLpGJ0QDRhnl0x) | 3:28 | 2022-04-14 | 2022-07-29 |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2022-04-14 |  |
@@ -644,6 +645,7 @@
 | [To the Moon and Back](https://open.spotify.com/track/1kbVkvLiWNDF7J4zMPtwv7) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [To the Moon and Back](https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB) | 2:39 | 2023-03-09 |  |
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-14 |  |
+| [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-05-25 |  |
 | [Trouble In Paris](https://open.spotify.com/track/7BtcpMyPOIHtuOI1BpklIk) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Trouble In Paris](https://open.spotify.com/album/6Ewoxo3WR20TTILfqglnwd) | 2:49 | 2023-03-30 |  |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2022-04-14 | 2022-10-08 |
 | [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-11 | 2023-01-24 |

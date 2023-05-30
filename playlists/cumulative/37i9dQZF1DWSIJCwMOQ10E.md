@@ -4,7 +4,7 @@
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Carlos Vives
 
-168 songs - 11 hr 34 min
+169 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [La Invité a Bailar](https://open.spotify.com/track/3mcNcVQbpNGdhLKhQSc0g6) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana \(Deluxe Edition\)](https://open.spotify.com/album/50IbqXd4EIkocjvHhDmBjZ) | 4:05 | 2022-07-01 | 2022-11-11 |
 | [La Invité a Bailar](https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1) | [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Éxitos de la Champeta Urbana](https://open.spotify.com/album/18O2bcdL2iaRBsozg7H0gV) | 4:05 | 2022-08-12 |  |
 | [La Malgeniosa](https://open.spotify.com/track/6skbFFnqI3KhZuyVWqvV8F) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Edwin Gómez "El Fantasma"](https://open.spotify.com/artist/0VFLH182dLSHXpVxdy9Kxn) | [14 Cañonazos Bailables \(Vol\. 61\)](https://open.spotify.com/album/4bxAL7uUo6tZTQWS1BJ7fi) | 3:20 | 2021-10-01 | 2022-07-02 |
+| [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2023-04-21 |  |
 | [La Noche](https://open.spotify.com/track/15DUcGdD7BnGEJW6cZmtbd) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:23 | 2021-10-01 | 2022-07-29 |
 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 | 2022-07-01 | 2023-05-19 |
 | [La Noche](https://open.spotify.com/track/3CNtCDb4J6804Qh5SvPvWg) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [La Salsa: Identidad de un Pueblo, Vol\. 4 Expresión de Inspiración](https://open.spotify.com/album/3ralDGFkYJAwS7RwY2BF7E) | 4:25 | 2022-08-12 | 2022-11-13 |
@@ -174,7 +175,7 @@
 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 | 2021-10-01 | 2023-02-15 |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2021-10-01 |  |
 | [Ábrete](https://open.spotify.com/track/0qo0B5uey4DXAn2UXNdyX3) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [Grandes Éxitos](https://open.spotify.com/album/77PKmLnC3sggIXSYh56Vwh) | 4:31 | 2022-08-12 | 2022-11-13 |
-| [Ábrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 | 2022-07-01 |  |
+| [Ábrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 | 2022-07-01 | 2023-05-30 |
 | [Ábrete](https://open.spotify.com/track/0sIR0xAxoiRqkCfD9agUa9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Terremoto Musical](https://open.spotify.com/album/55NWTq5kY4ZYxei2Bf1Ocf) | 4:31 | 2021-10-01 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

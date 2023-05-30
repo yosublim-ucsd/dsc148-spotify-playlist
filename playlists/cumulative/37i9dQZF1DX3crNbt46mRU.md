@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Peter Fox
 
-6,898 songs - 14 day 13 hr 37 min
+6,899 songs - 14 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,7 +1123,7 @@
 | [Celebrities](https://open.spotify.com/track/4ZUrFcdrdXge2KavbwF1QG) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Celebrities](https://open.spotify.com/album/0HQYwb8lUcmwfYjtlpT2t0) | 2:34 | 2023-04-06 | 2023-04-14 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-11 | 2022-02-18 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-29 | 2022-10-07 |
-| [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 | 2023-05-25 |  |
+| [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 | 2023-05-25 |  |
 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 | 2023-02-09 | 2023-02-17 |
 | [CENT'ANNI](https://open.spotify.com/track/3sLGANjytghyOmfRnY54tq) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CENT'ANNI](https://open.spotify.com/album/0lfRae3gk4uRJfzn6TPW09) | 2:05 | 2023-05-18 | 2023-05-26 |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-19 | 2023-01-27 |
@@ -1333,6 +1333,7 @@
 | [Crosswalk](https://open.spotify.com/track/7o8CauLugNjyHaRI1ko6Fw) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Crosswalk](https://open.spotify.com/album/4a5Y59JwD5YUxVa0xQSqxo) | 4:26 | 2022-04-28 | 2022-05-06 |
 | [Cruise Control](https://open.spotify.com/track/53NLq6SSyKSkLBdWkoYrE7) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:26 | 2022-07-21 | 2022-07-29 |
 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 | 2023-04-13 | 2023-04-21 |
+| [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 | 2023-05-26 |  |
 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 | 2022-09-01 | 2022-09-09 |
 | [Cry](https://open.spotify.com/track/4R6DRVtu7W1tUV80vMZHaZ) | [Kya Kyani](https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL) | [Cry](https://open.spotify.com/album/4ydS5CydibclKSSeTc1X43) | 2:28 | 2023-03-02 | 2023-03-10 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-03-24 | 2022-04-01 |
@@ -4194,7 +4195,7 @@
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-02-25 |
 | [NAJA UND?](https://open.spotify.com/track/4evBBigJc5M5RtAxxNvCGG) | [Morow](https://open.spotify.com/artist/4ZqnorBpjVLBQSwiRksOcZ), [Skip](https://open.spotify.com/artist/1sWe2nEb4VOOvCFBphBjkd) | [NAJA UND?](https://open.spotify.com/album/6Jy4cmWU0rRSQLe7uShxkz) | 3:30 | 2022-03-24 | 2022-04-01 |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-03-24 | 2022-04-01 |
-| [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-25 |  |
+| [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-25 |  |
 | [NAME TO A FACE](https://open.spotify.com/track/5Pf7gHjmAxGbGHpsyJ7Ovz) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [NAME TO A FACE](https://open.spotify.com/album/4Ssx4FS5sQh6QYrYBDqD2x) | 2:27 | 2022-09-15 | 2022-09-23 |
 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 | 2022-11-17 | 2022-11-25 |
 | [NAPOLEON](https://open.spotify.com/track/49EO0VHHts92I0ZRrbLCKF) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [NAPOLEON](https://open.spotify.com/album/7Ikc5Wa5WJR8durhYokDsg) | 2:23 | 2023-02-02 | 2023-02-10 |

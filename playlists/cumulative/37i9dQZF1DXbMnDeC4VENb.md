@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-119 songs - 7 hr 0 min
+121 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Balada](https://open.spotify.com/track/7otmcwp4mIqNLm12UJRg9k) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/6CZNH0qfdnTQQFf3PXWejf) | 4:20 | 2022-05-25 | 2022-07-29 |
 | [Barbie Ven](https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/5RBZzebEyuHEx3nHy0YhgD) | 2:40 | 2022-05-25 | 2023-03-12 |
 | [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 | 2022-10-17 |  |
+| [Bonita](https://open.spotify.com/track/1nXNZRaXk1P77J7JjcUaIt) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Tm Zaiko](https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Bonita](https://open.spotify.com/album/2FErF7fWEcl79XxmYOf0wy) | 4:02 | 2023-05-29 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2022-05-25 |  |
 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 | 2022-05-25 |  |
 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 | 2022-05-25 |  |
@@ -34,6 +35,7 @@
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-05-25 |  |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-05-25 |  |
 | [Dibújame](https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Dibújame](https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0) | 3:56 | 2022-05-25 |  |
+| [Dulcinea \(La Buena\)](https://open.spotify.com/track/5E84YLrIhAIvL29wcl56dd) | [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Dulcinea \(La Buena\)](https://open.spotify.com/album/1HbpRgqJGYOSPZktNyFbcw) | 3:52 | 2023-05-29 |  |
 | [Déjame Entrar](https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Déjame Entrar](https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K) | 3:37 | 2022-05-25 | 2022-06-28 |
 | [Ella es](https://open.spotify.com/track/1W3izj7yjPvRh6vZg5EZiR) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3) | [Ella es](https://open.spotify.com/album/6vnbQXwWrfMaW5cCt256t3) | 3:01 | 2023-02-08 |  |
 | [Ella Es](https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Ella Es](https://open.spotify.com/album/4FZHnZPGheiOd83ZGrTZ1P) | 3:49 | 2022-10-28 |  |

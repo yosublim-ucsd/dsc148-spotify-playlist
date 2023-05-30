@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Intro La Divina Commedia",
+        "url": "https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Intro La Divina Commedia",
+      "url": "https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp"
+    },
+    {
+      "album": {
         "name": "Italiano Anthem",
         "url": "https://open.spotify.com/album/0lv5APWWEFXdXjUXNOKaZx"
       },
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 164848,
       "name": "Lei \u00c8...",
       "url": "https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ"
@@ -6168,6 +6186,10 @@
         {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Bobo",
+          "url": "https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J"
         },
         {
           "name": "Gu\u00e8",

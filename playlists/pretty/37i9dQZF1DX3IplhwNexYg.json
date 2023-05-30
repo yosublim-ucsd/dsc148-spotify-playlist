@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Hak Baker",
-  "num_followers": 111441,
+  "num_followers": 111448,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -207,38 +223,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -291,6 +275,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -323,38 +323,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Prophecy of the Dragon",
+        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
+      },
+      "artists": [
+        {
+          "name": "The Voidz",
+          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+        }
+      ],
+      "duration_ms": 293631,
+      "name": "Prophecy of the Dragon",
+      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "TEMPTRESS",
         "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
       },
@@ -463,6 +479,22 @@
       "duration_ms": 127707,
       "name": "U SAID!",
       "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -499,22 +531,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Burn The Empire",
-        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -547,6 +563,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -563,22 +595,6 @@
       "duration_ms": 139664,
       "name": "Borderline Insane",
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -615,8 +631,8 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+        "name": "Burn The Empire",
+        "url": "https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
+      "duration_ms": 160346,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -743,18 +759,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Prophecy of the Dragon",
-        "url": "https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "The Voidz",
-          "url": "https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 293631,
-      "name": "Prophecy of the Dragon",
-      "url": "https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 146392,
       "name": "Do You Wanna Talk",
       "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR"
-      },
-      "artists": [
-        {
-          "name": "Gengahr",
-          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
       },
@@ -1063,54 +1047,6 @@
       "duration_ms": 197013,
       "name": "The Deep End",
       "url": "https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "King of Nothing",
-      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 248243,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Everybody's Saying Thursday's The Weekend",
-        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Everybody's Saying Thursday's The Weekend",
-      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1131,34 +1067,66 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Get Out of My House",
-        "url": "https://open.spotify.com/album/3OkTj8C7lVgXTqFShwOH5s"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4VeaoBmW52Nw0tbazyyFEb"
       },
       "artists": [
         {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Get Out of My House",
-      "url": "https://open.spotify.com/track/34G5OFBcyzDCxPKTuhSfye"
+      "duration_ms": 248243,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5jqIjKNwbiSPgjyfEzv8bH"
     },
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Last Together",
-        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
         }
       ],
-      "duration_ms": 198473,
-      "name": "Last Together",
-      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
+      "duration_ms": 324906,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Everybody's Saying Thursday's The Weekend",
+        "url": "https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Everybody's Saying Thursday's The Weekend",
+      "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "King of Nothing",
+      "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1175,6 +1143,22 @@
       "duration_ms": 233600,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Get Out of My House",
+        "url": "https://open.spotify.com/album/3OkTj8C7lVgXTqFShwOH5s"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Get Out of My House",
+      "url": "https://open.spotify.com/track/34G5OFBcyzDCxPKTuhSfye"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Last Together",
+        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 198473,
+      "name": "Last Together",
+      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "No Rule",
         "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 325888,
       "name": "No Rule",
       "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     }
   ],
   "unique_name": "pulp",

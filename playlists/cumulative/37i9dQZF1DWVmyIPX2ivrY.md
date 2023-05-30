@@ -2,7 +2,7 @@
 
 ### [Classical Music for Babies](https://open.spotify.com/playlist/37i9dQZF1DWVmyIPX2ivrY)
 
-> Gentle classical music for you and your baby, proven to stimulate your little one's brain activity in the womb during pregnancy, and as a newborn.
+> 
 
 44 songs - 3 hr 6 min
 

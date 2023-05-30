@@ -988,10 +988,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 210146,
       "name": "The Walk",
       "url": "https://open.spotify.com/track/3YjrW1eYPTtcDwfGyDwdtn"
+    },
+    {
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Mark Saunders",
+          "url": "https://open.spotify.com/artist/3QoHE4hN2waHD2jELo0x9N"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/3Q7LdGxZZ5bao5mMu0wcqX"
     },
     {
       "album": {
@@ -1050,6 +1072,24 @@
     {
       "album": {
         "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/69XNTota6w88wrLZt4AX9n"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306533,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/4oFTz4lmtWtzURGJzWqdIX"
+    },
+    {
+      "album": {
+        "name": "Wild Mood Swings",
         "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
       },
       "artists": [
@@ -1060,7 +1100,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 307333,
       "name": "Want",
       "url": "https://open.spotify.com/track/3sig1llmylqwzF6CXKJBcc"

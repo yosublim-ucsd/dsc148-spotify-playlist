@@ -4,12 +4,12 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-106 songs - 6 hr 23 min
+107 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aakaasam](https://open.spotify.com/track/10ZSudErSocxMp7vplKDHp) | [Ajay Arasada](https://open.spotify.com/artist/4uJkqUa1l145CT0TqV3i5E) | [Aakaasam](https://open.spotify.com/album/1Nj15xkoyHOvNGcaBL6wb0) | 2:19 | 2023-05-25 |  |
-| [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 | 2022-07-20 |  |
+| [Adugaduguna Neetho Rana](https://open.spotify.com/track/21jacqxMqPfeoV59jySKz3) | [Shravan Goud Writes](https://open.spotify.com/artist/3kQsf3T9PJ698IGsPWWZGn) | [Adugaduguna Neetho Rana](https://open.spotify.com/album/2X9I5QqN8aykPDYOKkfA6f) | 3:45 | 2022-07-20 | 2023-05-30 |
 | [Adugu Adugu](https://open.spotify.com/track/09LRs4WvTtYN4GHlpIqX6z) | [Hari Prasad S](https://open.spotify.com/artist/70FMFT9gNlxFAWYHSVbVdK), [K\. Naga Himaja](https://open.spotify.com/artist/1nOBsOUX0CDS22XNEgzxUA) | [Adugu Adugu](https://open.spotify.com/album/0w49ZF6qJwzBuyw9FcCrAY) | 2:57 | 2023-05-26 |  |
 | [Alai Balai](https://open.spotify.com/track/6FrKmVd9tp2vygYXxcvHjV) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Alai Balai](https://open.spotify.com/album/1sdhNmeEMpP95ZuespP4VO) | 3:14 | 2022-07-18 |  |
 | [AMMA \- Janmaala Runamu Kanipinchava](https://open.spotify.com/track/14VaG9fGETELHF1EkbWO5N) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [AMMA \(Janmaala Runamu Kanipinchava\)](https://open.spotify.com/album/3aBG1lIVqPWTUQDphSNQXN) | 3:24 | 2023-05-16 |  |
@@ -104,6 +104,7 @@
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 |  |
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 |  |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
+| [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 |  |
 | [Thanuvantha](https://open.spotify.com/track/3N3jaiTj08UKOPgM639miD) | [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ) | [Thanuvantha](https://open.spotify.com/album/7eTvSqGRxg5jMdSqjvasKa) | 3:54 | 2022-07-18 |  |
 | [The Break\-Up Song](https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp) | [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [The Break\-Up Song](https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG) | 3:38 | 2023-02-14 | 2023-05-23 |
 | [Uhhh!](https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES), [Samcastic](https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q) | [Uhhh!](https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H) | 3:03 | 2023-04-10 |  |

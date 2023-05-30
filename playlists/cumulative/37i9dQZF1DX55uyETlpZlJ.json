@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "E Preeti",
+        "url": "https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml"
+      },
+      "artists": [
+        {
+          "name": "Megha R B",
+          "url": "https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt"
+        },
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "E Preeti",
+      "url": "https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon"
+    },
+    {
+      "album": {
         "name": "E Sanje",
         "url": "https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5"
       },

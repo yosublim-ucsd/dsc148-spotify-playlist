@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Batavia Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,025 likes - 112 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,053 likes - 112 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

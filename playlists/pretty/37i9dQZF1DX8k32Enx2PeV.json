@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 5911,
+  "num_followers": 5943,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -403,6 +387,22 @@
       "duration_ms": 300338,
       "name": "B\u00faho",
       "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "Casa en el \u00e1rbol",
         "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
@@ -611,22 +611,22 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Est\u00e1s Escuchando (with El David Aguilar)",
-        "url": "https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK"
+        "name": "Cuando Canto Grito",
+        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
       "artists": [
         {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
         },
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Luc\u00eda Pulido",
+          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
         }
       ],
-      "duration_ms": 137996,
-      "name": "Est\u00e1s Escuchando (with El David Aguilar) - Single Edit",
-      "url": "https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH"
+      "duration_ms": 341074,
+      "name": "Cuando Canto Grito",
+      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -651,22 +651,22 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Cuando Canto Grito",
-        "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
+        "name": "Est\u00e1s Escuchando (with El David Aguilar)",
+        "url": "https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
         },
         {
-          "name": "Luc\u00eda Pulido",
-          "url": "https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         }
       ],
-      "duration_ms": 341074,
-      "name": "Cuando Canto Grito",
-      "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+      "duration_ms": 137996,
+      "name": "Est\u00e1s Escuchando (with El David Aguilar) - Single Edit",
+      "url": "https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 225304,
-      "name": "Este Momento",
-      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Este Momento",
+      "url": "https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Un Poco Menos Idiota",
-        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 225547,
-      "name": "Un Poco Menos Idiota",
-      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "Ci\u00e9naga",
         "url": "https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 176353,
       "name": "Ci\u00e9naga",
       "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Un Poco Menos Idiota",
+        "url": "https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 225547,
+      "name": "Un Poco Menos Idiota",
+      "url": "https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp"
     },
     {
       "added_at": "2023-05-26 07:19:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-26 07:19:00",
       "album": {
-        "name": "Emocional",
-        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Emocional",
-      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
-    },
-    {
-      "added_at": "2023-05-26 07:19:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
+    },
+    {
+      "added_at": "2023-05-26 07:19:00",
+      "album": {
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Emocional",
+      "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
     },
     {
       "added_at": "2023-05-26 07:19:00",

@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 275814,
+  "num_followers": 276101,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Junko Yagami",
+          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "I Found You (feat. Benjamin Ingrosso)",
         "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
@@ -527,22 +547,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "\u516b\u795e\u7d14\u5b50 \u2013 Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3TsSsK2Ot8MCKB0RhjpYSN"
+        "name": "Bae 5",
+        "url": "https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         },
         {
-          "name": "Junko Yagami",
-          "url": "https://open.spotify.com/artist/6ooFYQBSq3sFEipwHfw5gr"
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 240666,
-      "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+      "duration_ms": 195274,
+      "name": "Welcome To The Disco",
+      "url": "https://open.spotify.com/track/6NT76Qk0fQCjPZecFgMIl5"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -579,22 +599,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "FIGHT! 2",
-        "url": "https://open.spotify.com/album/3TKjFJjhIOQSZ9Iej81PwJ"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "FIGHT! 2",
-      "url": "https://open.spotify.com/track/23YjswBh5Od2fGEs5jEHoQ"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
@@ -615,42 +619,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sendagi Collection",
-        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
+        "name": "FIGHT! 2",
+        "url": "https://open.spotify.com/album/3TKjFJjhIOQSZ9Iej81PwJ"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
         }
       ],
-      "duration_ms": 223255,
-      "name": "Selfish Earrings",
-      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Bae 5",
-        "url": "https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 195274,
-      "name": "Welcome To The Disco",
-      "url": "https://open.spotify.com/track/6NT76Qk0fQCjPZecFgMIl5"
+      "duration_ms": 132485,
+      "name": "FIGHT! 2",
+      "url": "https://open.spotify.com/track/23YjswBh5Od2fGEs5jEHoQ"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -687,6 +667,26 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Sendagi Collection",
+        "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 223255,
+      "name": "Selfish Earrings",
+      "url": "https://open.spotify.com/track/1f4ziixbUlGqU506qACOte"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Royal Club, Vol. 3",
         "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
       },
@@ -707,38 +707,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Polygon Beach",
-        "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
-      },
-      "artists": [
-        {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Polygon Beach",
-      "url": "https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "J-Funk City : Vantage's Edits Collection",
-        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "DaFuture Is Now",
         "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
       },
@@ -751,6 +719,22 @@
       "duration_ms": 171428,
       "name": "Sunset On The Shore",
       "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Polygon Beach",
+        "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Polygon Beach",
+      "url": "https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -819,22 +803,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Metro City",
-        "url": "https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Orca Adventure DX",
         "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
       },
@@ -847,6 +815,42 @@
       "duration_ms": 171135,
       "name": "Orca Adventure DX",
       "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "J-Funk City : Vantage's Edits Collection",
+        "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
+        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
+      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -879,26 +883,6 @@
       "duration_ms": 173232,
       "name": "Lovin' Is Everywhere",
       "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
-        "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
-      "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Cyber Love",
-        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
+        "name": "Metro City",
+        "url": "https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         }
       ],
-      "duration_ms": 149508,
-      "name": "The Way U Make Me Feel",
-      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+      "duration_ms": 160000,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT"
       },
       "artists": [
         {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
         }
       ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+      "duration_ms": 149508,
+      "name": "The Way U Make Me Feel",
+      "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Magic City",
         "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 217370,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1067,22 +1051,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
-      },
-      "artists": [
-        {
-          "name": "BAD4ALL",
-          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 232699,
       "name": "Mode",
       "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
+      },
+      "artists": [
+        {
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+      },
+      "artists": [
+        {
+          "name": "BAD4ALL",
+          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Waterbed (Deluxe)",
-        "url": "https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Waterbed",
-      "url": "https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+      "duration_ms": 177479,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1267,6 +1247,26 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Now That I Have You",
         "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 174159,
       "name": "Unlimited",
       "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "SOUL MATES",
         "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
@@ -1583,6 +1567,54 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
+      },
+      "artists": [
+        {
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "DUCK GROOVE",
+        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Monstruo Japon\u00e9s",
         "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
       },
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "\u9055\u3046",
-        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
-      },
-      "artists": [
-        {
-          "name": "Flammy",
-          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "\u9055\u3046",
-      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Montaime, Vol. 1",
         "url": "https://open.spotify.com/album/4IbU7u05gIBiHzCJYYVmMP"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 369500,
       "name": "Knights",
       "url": "https://open.spotify.com/track/3BnyPEg5kZhXbwsQ8uwu68"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "DUCK GROOVE",
-        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 142497,
-      "name": "DUCK GROOVE",
-      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "quarterback",
-        "url": "https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ"
-      },
-      "artists": [
-        {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
-        },
-        {
-          "name": "D 4 1 N",
-          "url": "https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw"
-        }
-      ],
-      "duration_ms": 222841,
-      "name": "quarterback",
-      "url": "https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "First Season",
         "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 295894,
       "name": "First Season",
       "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "REFRESH",
+        "url": "https://open.spotify.com/album/1sH4R6pTreRYGoOwOnL35Y"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 132001,
+      "name": "REFRESH",
+      "url": "https://open.spotify.com/track/5TJ48UIvLKQnY3sUo0kH9M"
     }
   ],
   "unique_name": "Future Funk",

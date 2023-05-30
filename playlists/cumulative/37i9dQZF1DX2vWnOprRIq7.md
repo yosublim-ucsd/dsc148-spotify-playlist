@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-127 songs - 7 hr 44 min
+128 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 |  |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 |  |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 |  |
+| [Enigma](https://open.spotify.com/track/35wEmFysg3dA4un1zBbvmh) | [Chala](https://open.spotify.com/artist/7GnPv7aXKmKqFSAjoJGHvW) | [Ninfas](https://open.spotify.com/album/3bRsYZ0Pcaoa7osqwItDGZ) | 3:05 | 2023-05-26 |  |
 | [es mejor](https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [es mejor](https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ) | 2:56 | 2023-03-17 |  |
 | [Esta Noche](https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Esta Noche](https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E) | 2:15 | 2023-03-17 | 2023-05-06 |
 | [Extranjera](https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Extranjera](https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r) | 3:59 | 2023-03-17 | 2023-05-28 |
@@ -71,7 +72,7 @@
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2023-03-17 | 2023-05-28 |
 | [Manual de una Pérdida](https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc) | 3:18 | 2023-03-17 |  |
 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 | 2023-05-12 |  |
-| [Mejor no hablar de ciertas cosas](https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Mejor no hablar de ciertas cosas](https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb) | 5:00 | 2023-03-17 |  |
+| [Mejor no hablar de ciertas cosas](https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Mejor no hablar de ciertas cosas](https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb) | 5:00 | 2023-03-17 | 2023-05-30 |
 | [MICROFRACTURAS](https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE) | [Vicu Villanueva](https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy) | [Victoria y las Máquinas](https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog) | 6:09 | 2023-04-14 |  |
 | [Might Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 | 2023-03-17 |  |
 | [Mitad Sombra Mitad Luz](https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z) | [Lolaa](https://open.spotify.com/artist/6xbhKmbCwlnZmYHWK4gQGv), [Graham Wright](https://open.spotify.com/artist/7a3G9oqId0lZHHxJHwIfwx) | [La Marea](https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW) | 4:01 | 2023-03-17 | 2023-05-21 |

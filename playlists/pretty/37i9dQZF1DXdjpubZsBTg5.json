@@ -1,6 +1,6 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 141703,
+  "num_followers": 141949,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -379,18 +395,18 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -407,22 +423,6 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 276773,
       "name": "Beber de Tu Sangre",
       "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Los Secretos",
-        "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
-      },
-      "artists": [
-        {
-          "name": "Los Secretos",
-          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Los Secretos",
+        "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
     },
     {
       "added_at": "2021-02-24 17:08:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-02-24 17:08:59",
       "album": {
-        "name": "Al calor del amor en un bar",
-        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
-      },
-      "artists": [
-        {
-          "name": "Gabinete Caligari",
-          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "El calor del amor en un bar",
-      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
-    },
-    {
-      "added_at": "2021-02-24 17:08:59",
-      "album": {
         "name": "Viviendo de Noche",
         "url": "https://open.spotify.com/album/2Oo8AfNU3dyQPi8tNHbSoU"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 246060,
       "name": "Viviendo de Noche",
       "url": "https://open.spotify.com/track/5TmobGkcbz4oYhtvPcmTDF"
+    },
+    {
+      "added_at": "2021-02-24 17:08:59",
+      "album": {
+        "name": "Al calor del amor en un bar",
+        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
+      },
+      "artists": [
+        {
+          "name": "Gabinete Caligari",
+          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "El calor del amor en un bar",
+      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
     },
     {
       "added_at": "2021-02-24 17:08:59",

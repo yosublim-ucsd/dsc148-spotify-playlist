@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Summer Dance Party 2023",
+        "url": "https://open.spotify.com/album/5tGYisIrPRUbqdSQmwCcAk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224744,
+      "name": "I See Love - Extended Mix",
+      "url": "https://open.spotify.com/track/4kG5JA2eq34XKTW7rQibsJ"
+    },
+    {
+      "album": {
         "name": "I See Love (From Hotel Transylvania 3)",
         "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
       },

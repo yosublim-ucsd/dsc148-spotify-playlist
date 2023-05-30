@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock swagger served neat\. Cover: Pecos & the Rooftops
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,123 likes - 105 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,210 likes - 105 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

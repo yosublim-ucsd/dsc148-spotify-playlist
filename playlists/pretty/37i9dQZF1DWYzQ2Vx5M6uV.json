@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 108674,
+  "num_followers": 108796,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,30 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -323,46 +347,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -383,22 +367,34 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Rotate",
-        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 201940,
-      "name": "Rotate",
-      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -423,18 +419,22 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
       "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+      "duration_ms": 201940,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Don't Rush (Remix)",
-        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Don't Rush - Remix",
-      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 186476,
       "name": "Maria Elegante (feat. Afro B)",
       "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Don't Rush (Remix)",
+        "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Don't Rush - Remix",
+      "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 177000,
       "name": "Boom Bam (with Afro B & Mariah Angeliq",
       "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "Toco Madera",
+        "url": "https://open.spotify.com/album/68UesQ9evFURlSjc4PJrr8"
+      },
+      "artists": [
+        {
+          "name": "Cabra",
+          "url": "https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3"
+        },
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 228073,
+      "name": "Toco Madera",
+      "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "Rover (feat. Piso 21)",
         "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
       },
@@ -1323,6 +1347,26 @@
       "duration_ms": 211250,
       "name": "Rover (feat. Piso 21)",
       "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1355,6 +1399,22 @@
     {
       "added_at": "2023-05-26 17:02:35",
       "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2023-05-26 17:02:35",
+      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1379,26 +1439,6 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2023-05-26 17:02:35",
@@ -1451,42 +1491,6 @@
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "Popor\u00f3",
-        "url": "https://open.spotify.com/album/5yt1qMBdcKe4wKK38GW0Xp"
-      },
-      "artists": [
-        {
-          "name": "Preto Show",
-          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 169396,
-      "name": "Popor\u00f3",
-      "url": "https://open.spotify.com/track/0qHuoIiRu99tU4alQbgYX1"
-    },
-    {
-      "added_at": "2023-05-26 17:02:35",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     }
   ],
   "unique_name": "Afro Ritmo",

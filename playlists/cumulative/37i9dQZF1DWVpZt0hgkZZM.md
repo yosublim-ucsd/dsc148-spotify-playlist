@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-105 songs - 7 hr 17 min
+106 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Pescador de Barú](https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ) | [Cumbias, Cumbias](https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA) | 2:54 | 2021-12-16 | 2023-05-23 |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2021-12-16 |  |
 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 | 2021-12-16 | 2023-05-27 |
+| [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2021-12-16 |  |
 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 | 2021-12-16 |  |
 | [El Viejo del Sombrerón](https://open.spotify.com/track/02bm1KDGRX3saB1iupRa3h) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 4:12 | 2021-12-16 |  |
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2021-12-16 |  |
@@ -69,7 +70,7 @@
 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 | 2021-12-16 |  |
 | [Maruja](https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS) | [Sonora Dinamita](https://open.spotify.com/artist/4GEVWh8Sit4x10PFf6ZFey) | [El Disco de Oro para Equipos de Sonido, Vol\. 3](https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u) | 3:57 | 2021-12-16 |  |
 | [Mas Que Amiga](https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf) | [Grupo Bananas](https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8) | [Un Mundo De Colores](https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff) | 4:14 | 2021-12-16 |  |
-| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 |  |
+| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 | 2023-05-30 |
 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 | 2021-12-16 |  |
 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 | 2021-12-16 |  |
 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 | 2021-12-16 |  |

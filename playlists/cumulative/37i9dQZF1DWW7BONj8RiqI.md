@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-282 songs - 15 hr 40 min
+283 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Hot Gyal SZN](https://open.spotify.com/track/5MmKVgHTfQmnLZAZp8cOB3) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 2:41 | 2022-08-18 | 2022-10-05 |
 | [Hot Gyal SZN](https://open.spotify.com/track/6obwvBYN4XLB1MoUVCofK0) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 2:41 | 2022-08-18 | 2023-02-22 |
 | [Hot Hot Hot](https://open.spotify.com/track/3Hli4bKq0oxYDlESezmMHP) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Hot Hot Hot: The Very Best of Arrow](https://open.spotify.com/album/7glcfWE86coSQMD3StKngo) | 6:44 | 2023-02-21 | 2023-05-16 |
-| [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2023-05-15 | 2023-05-24 |
+| [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 | 2023-05-15 |  |
 | [How She Like It](https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [How She Like It](https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC) | 3:01 | 2021-08-26 |  |
 | [Hulk](https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Get Soca 2018](https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc) | 3:07 | 2023-02-21 |  |
 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 | 2023-02-21 |  |
@@ -143,7 +143,7 @@
 | [Kiss](https://open.spotify.com/track/0MaI2ZRUC1atONjvt5Jr6T) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 2:31 | 2022-08-18 | 2023-02-22 |
 | [Leave It Alone](https://open.spotify.com/track/0hmPrKAzINJ7uF0Lplujiw) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Leave It Alone](https://open.spotify.com/album/3jq2dxPxhY68zowXMq3sB2) | 3:06 | 2022-02-24 | 2022-10-05 |
 | [Leave It Alone](https://open.spotify.com/track/49dbEbAqvPYl1p24xo7J9d) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Leave It Alone](https://open.spotify.com/album/5cNr6YPKo8WgzaQ8COYEd5) | 3:06 | 2022-08-18 | 2023-02-22 |
-| [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 | 2023-02-21 |  |
+| [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 | 2023-02-21 | 2023-05-30 |
 | [Leh Go](https://open.spotify.com/track/6o8B6EJpJPNIC2As7ewoP2) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/65cBqEY8p47XvWdbUDEJqJ) | 3:23 | 2021-08-26 | 2022-02-25 |
 | [Light It Up](https://open.spotify.com/track/148j8qTrdO3jB7uddVq2H0) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Book of Angels](https://open.spotify.com/album/2a5ZeVoFt7vhiHqtoPBp40) | 4:35 | 2023-02-21 | 2023-05-16 |
 | [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 | 2023-02-21 |  |
@@ -170,6 +170,7 @@
 | [Mr\. Fete](https://open.spotify.com/track/2cTbXePq0kurJhdxG7qBd5) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Mr\. Fete \- Single](https://open.spotify.com/album/5eGmGmPuRrwqkio8StYeBK) | 3:51 | 2023-02-21 |  |
 | [Naked](https://open.spotify.com/track/2LszGvDF3uAHUlbiJsykbw) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:21 | 2022-08-18 | 2023-02-22 |
 | [No Apology](https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [No Apology](https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh) | 2:49 | 2023-05-15 |  |
+| [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 | 2023-05-15 |  |
 | [Not One Thing](https://open.spotify.com/track/4Hfy8nmJZreJX0c00Oov6a) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [4th Quarter Riddim](https://open.spotify.com/album/4NI1i8rrlpZXHUq2lomOG3) | 3:12 | 2022-08-18 | 2023-02-22 |
 | [Not One Thing](https://open.spotify.com/track/6CEkI2ymkuwDWxVFogaSHR) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [4th Quarter Riddim](https://open.spotify.com/album/2PRKaJQDX7sCazgLQlpC2F) | 3:12 | 2022-08-18 | 2022-12-19 |
 | [Obsessive Winers \(feat\. Allison Hinds & Denise Saucy Wow Belfon\)](https://open.spotify.com/track/6AecXpiNETPxolGCC6Z5YU) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Denise Saucy Wow Belfon](https://open.spotify.com/artist/7pkAZyqc9CrB8e0XUORX97), [Allison Hinds](https://open.spotify.com/artist/7bLqFPAofYJYLqR0PiWVv8) | [Hott](https://open.spotify.com/album/6UmHPmyCXoQMbCvVu1cRYb) | 4:09 | 2023-02-21 | 2023-05-16 |
@@ -227,7 +228,7 @@
 | [Single](https://open.spotify.com/track/7p9l6t6m540j6V3VcXnXER) | [Orlando Octave](https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L) | [Single](https://open.spotify.com/album/74XLhRpz8nCdscl76Bgy8x) | 3:00 | 2021-08-26 | 2022-02-25 |
 | [So Long](https://open.spotify.com/track/2WmNARSzCch3nzifLfn05K) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/0lE3XJtV1vvNwtyypqPymW) | 3:03 | 2022-08-18 | 2023-02-22 |
 | [So Long](https://open.spotify.com/track/3VMqM5ryQlsQEH3CWSLLhQ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [The Purple Heart Riddim](https://open.spotify.com/album/06m6nNsRzCFsb84ULwgdiZ) | 3:03 | 2022-08-18 | 2022-10-05 |
-| [So Sweet](https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q) | 3:04 | 2023-05-15 |  |
+| [So Sweet](https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q) | 3:04 | 2023-05-15 | 2023-05-30 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/0bw66x6M9FioHJ9WeasFme) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/150tSOyXlQDI9RFFafG2yO) | 3:07 | 2022-08-18 | 2022-12-19 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/62OmybvtwwtPpJz9mH8FU9) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/5RhgPFNM7pl517LFHdft5Z) | 3:07 | 2022-08-18 | 2023-02-22 |
 | [Soca Kingdom](https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv) | 3:22 | 2023-02-21 | 2023-05-16 |

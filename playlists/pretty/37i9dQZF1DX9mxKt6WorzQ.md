@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mxKt6WorzQ.md) - [plain]
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,312 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,377 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

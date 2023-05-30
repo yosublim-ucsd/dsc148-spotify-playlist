@@ -2,7 +2,7 @@
 
 ### [This Is NMIXX](https://open.spotify.com/playlist/37i9dQZF1DX9olwNXZEPVC)
 
-> Hear all of NMIXX's biggest and best hits in one playlist.
+> 
 
 34 songs - 1 hr 6 min
 

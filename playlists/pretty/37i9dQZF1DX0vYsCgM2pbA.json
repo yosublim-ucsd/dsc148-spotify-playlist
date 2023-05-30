@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 120337,
+  "num_followers": 120516,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -151,26 +151,22 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
         }
       ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -263,22 +259,26 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "Love Tonight (Robin Schulz Remix)",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+    },
+    {
+      "added_at": "2023-05-25 14:48:13",
+      "album": {
         "name": "DEVOTION",
         "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 154960,
       "name": "See In Color",
       "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
-    },
-    {
-      "added_at": "2023-05-25 14:48:13",
-      "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "Love Tonight (Robin Schulz Remix)",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+    },
+    {
+      "added_at": "2023-05-25 14:48:13",
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 217390,
       "name": "Strangers (with Mansionair)",
       "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
-    },
-    {
-      "added_at": "2023-05-25 14:48:13",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "Slugger 1.4 [2014 Export.WAV]",
-        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 248811,
-      "name": "Slugger 1.4 [2014 Export.WAV]",
-      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
-    },
-    {
-      "added_at": "2023-05-25 14:48:13",
-      "album": {
         "name": "What I Breathe",
         "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2023-05-25 14:48:13",
       "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+        "name": "Slugger 1.4 [2014 Export.WAV]",
+        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
+      "duration_ms": 248811,
+      "name": "Slugger 1.4 [2014 Export.WAV]",
+      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
     },
     {
       "added_at": "2023-05-25 14:48:13",
@@ -1147,6 +1127,26 @@
       "duration_ms": 179120,
       "name": "Finish What You Started",
       "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
+    },
+    {
+      "added_at": "2023-05-25 14:48:13",
+      "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     }
   ],
   "unique_name": "Sunday Sessions",

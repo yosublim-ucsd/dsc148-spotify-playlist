@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,757 likes - 82 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,884 likes - 82 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

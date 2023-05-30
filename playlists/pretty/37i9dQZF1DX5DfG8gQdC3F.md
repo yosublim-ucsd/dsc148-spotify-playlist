@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,688 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,706 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 43 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 |
 | 44 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 |
 | 45 | [Katie's Song](https://open.spotify.com/track/3RlHQSSqC8a6hX1WvZA9se) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Katie's Song](https://open.spotify.com/album/7EmpwNuutUbRVXItuf4eV7) | 3:34 |
-| 46 | [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
+| 46 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 47 | [Bossier City Kidnap Victims](https://open.spotify.com/track/0prOblscRTUplNzf9DabhP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Winter Season \(1989\-1990\)](https://open.spotify.com/album/0mcxayFL3acXH5hbwe4VVK) | 2:43 |
 | 48 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 |
 | 49 | [bad note](https://open.spotify.com/track/39j6QzHqCa4G6lCwoJDQYE) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [bad note](https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9) | 2:46 |

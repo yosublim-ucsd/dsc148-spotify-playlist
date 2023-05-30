@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 165581,
       "name": "All Eyez on Me Remix",
       "url": "https://open.spotify.com/track/7anqApFaBkxrD6hvjpI6uL"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 203000,
       "name": "b\u00edb\u00ed",
       "url": "https://open.spotify.com/track/3CcdAxRuaIqZ4ra1p3Y9Yb"
@@ -8873,6 +8873,24 @@
     },
     {
       "album": {
+        "name": "Na jeden dych",
+        "url": "https://open.spotify.com/album/0NHfHaluEthAaot22BRgpV"
+      },
+      "artists": [
+        {
+          "name": "Dano Heriban",
+          "url": "https://open.spotify.com/artist/6qZYWZp8N68KGaTTTV8IKu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120836,
+      "name": "Jedn\u00e9ho r\u00e1na",
+      "url": "https://open.spotify.com/track/5qLB1H7ioczPPT0LE1rOp1"
+    },
+    {
+      "album": {
         "name": "Sad & Savage",
         "url": "https://open.spotify.com/album/19i9Pxul5jFdBRmrU8sGOZ"
       },
@@ -14679,6 +14697,24 @@
     },
     {
       "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327400,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
+    },
+    {
+      "album": {
         "name": "Pr\u00e1vo Veta",
         "url": "https://open.spotify.com/album/55lmXWANN7uf5pY6JvxHzK"
       },
@@ -14720,6 +14756,28 @@
       "duration_ms": 151213,
       "name": "PSYCHO CRUISE",
       "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
+    },
+    {
+      "album": {
+        "name": "Psycho Dreams (Sped Up)",
+        "url": "https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Psycho Dreams (Sped Up)",
+      "url": "https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ"
     },
     {
       "album": {
@@ -14850,7 +14908,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -17591,6 +17649,24 @@
     },
     {
       "album": {
+        "name": "O2H",
+        "url": "https://open.spotify.com/album/2kfbPWfCU1pcyVJBL3SIg2"
+      },
+      "artists": [
+        {
+          "name": "Dano Heriban",
+          "url": "https://open.spotify.com/artist/6qZYWZp8N68KGaTTTV8IKu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Svedkovia covidovi",
+      "url": "https://open.spotify.com/track/0484tpwbaVDzcnzRFyIc7W"
+    },
+    {
+      "album": {
         "name": "The Complete Myspace Collection, Vol. 4",
         "url": "https://open.spotify.com/album/1g5qVsD89SPtqwTaFdQWru"
       },
@@ -19142,7 +19218,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
@@ -19338,7 +19414,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
@@ -19870,7 +19946,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 172555,
       "name": "Watergun",
       "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
@@ -21100,6 +21176,24 @@
       "duration_ms": 246558,
       "name": "\u010cosi \u00dasmevn\u00e9",
       "url": "https://open.spotify.com/track/2bsLwiIame0BWLC1uBLJ2H"
+    },
+    {
+      "album": {
+        "name": "Jazvy",
+        "url": "https://open.spotify.com/album/6QqmK5HRJFVhVLBXw78dGl"
+      },
+      "artists": [
+        {
+          "name": "Seky",
+          "url": "https://open.spotify.com/artist/4o8pPLk6wwgYbqalY24hQu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159349,
+      "name": "\u013dadov\u00e1",
+      "url": "https://open.spotify.com/track/5OuGQrf4kd0EJILg4O4n4r"
     },
     {
       "album": {

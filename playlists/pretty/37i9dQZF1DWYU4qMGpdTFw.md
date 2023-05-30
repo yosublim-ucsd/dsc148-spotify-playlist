@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU4qMGpdTFw.md) - [plain]
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 66 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 66 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > put a little yee haw in your laid back
 
-108 songs - 6 hr 42 min
+109 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2023-04-03 |  |
 | [In the Blood](https://open.spotify.com/track/77Y57qRJBvkGCUw9qs0qMg) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 4:03 | 2023-04-03 |  |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-04-03 |  |
-| [Jersey Giant](https://open.spotify.com/track/35jC1Olo0e03VNmFIs8bqJ) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Jersey Giant](https://open.spotify.com/album/3BU6LfvwZw8V52rHbXgoSu) | 4:16 | 2023-04-03 |  |
+| [Jersey Giant](https://open.spotify.com/track/35jC1Olo0e03VNmFIs8bqJ) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Jersey Giant](https://open.spotify.com/album/3BU6LfvwZw8V52rHbXgoSu) | 4:16 | 2023-04-03 | 2023-05-30 |
+| [Jersey Giant](https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Jersey Giant](https://open.spotify.com/album/4oBQy4W1A2N6pL9MjHmwmS) | 4:16 | 2023-05-09 |  |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2023-04-03 |  |
 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 | 2023-04-03 |  |
 | [la](https://open.spotify.com/track/4P7Rt2Dd5I3N5PIskzCiOy) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:46 | 2023-04-03 |  |

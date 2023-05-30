@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 140100,
       "name": "* da Anitta",
       "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 170181,
       "name": "Capricorniana",
       "url": "https://open.spotify.com/track/6l1U4fX41XmzZfi67q9i8X"
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "DEUS \u00c9 MUITO BOM (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49T6GunhdUuSCbYBZ156AD"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174317,
+      "name": "DEUS \u00c9 MUITO BOM - Ao Vivo",
+      "url": "https://open.spotify.com/track/235CP5ItAYMS6usv3C8jkP"
+    },
+    {
+      "album": {
         "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
       },
@@ -690,6 +708,32 @@
       "duration_ms": 179599,
       "name": "ELA PIROU NA DODGE RAM",
       "url": "https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ"
+    },
+    {
+      "album": {
+        "name": "Ela se Envolve",
+        "url": "https://open.spotify.com/album/1hLg8fcSHpGZi052d2ZZdS"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "WHITE NO BEAT",
+          "url": "https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144043,
+      "name": "Ela se Envolve",
+      "url": "https://open.spotify.com/track/1dMUsdVtoSLVkaJVMBk8Rk"
     },
     {
       "album": {
@@ -996,6 +1040,28 @@
       "duration_ms": 163833,
       "name": "Love Gostosinho - Ao Vivo",
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
+    },
+    {
+      "album": {
+        "name": "Lovezinho",
+        "url": "https://open.spotify.com/album/7guyK8SG84ysWJtA5IT1ec"
+      },
+      "artists": [
+        {
+          "name": "Kamarg\u00e3o",
+          "url": "https://open.spotify.com/artist/3EY7HU2OQYbmh5FdqUlDQI"
+        },
+        {
+          "name": "Treyce",
+          "url": "https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135947,
+      "name": "Lovezinho",
+      "url": "https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi"
     },
     {
       "album": {
@@ -1595,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187562,
+      "name": "Posturado E Calmo",
+      "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -2012,7 +2096,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 114289,
       "name": "Vuco Vuco",
       "url": "https://open.spotify.com/track/6sJH1B0qL6S3XoAzaJe4wd"
@@ -2038,6 +2122,28 @@
       "duration_ms": 162923,
       "name": "V\u00e1PurMim - Ao Vivo",
       "url": "https://open.spotify.com/track/7ymf62aghs58nZp4IgU6i5"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Mato",
+        "url": "https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL"
+      },
+      "artists": [
+        {
+          "name": "Marco Brasil Filho",
+          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
+        },
+        {
+          "name": "Dj Kevin",
+          "url": "https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Welcome To The Mato",
+      "url": "https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX"
     },
     {
       "album": {

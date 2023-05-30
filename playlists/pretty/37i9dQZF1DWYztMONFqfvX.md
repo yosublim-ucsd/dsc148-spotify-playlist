@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,567 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,817 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 37 | [Main Dhoondne Ko Zamaane Mein](https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heartless](https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X) | 4:22 |
 | 38 | [Mast Magan](https://open.spotify.com/track/3uL1IBFhg52VcQqOwAG01E) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 4:40 |
 | 39 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/6V0cw3ZOtm5oQJrSv4QluQ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Gerua \(From "Dilwale"\)](https://open.spotify.com/album/4UdX8yGAWSZADs8cDxInY8) | 5:45 |
-| 40 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 |
+| 40 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 |
 | 41 | [Samjhawan](https://open.spotify.com/track/4LO5DjN6Tp3UkUvgESuy2t) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Humpty Sharma Ki Dulhania \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE) | 4:29 |
 | 42 | [Enna Sona](https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 3:33 |
 | 43 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 |

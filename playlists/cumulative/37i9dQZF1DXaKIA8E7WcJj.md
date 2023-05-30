@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-824 songs - 1 day 19 hr 12 min
+825 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [A Whiter Shade Of Pale](https://open.spotify.com/track/3qitymULqEibr7yknRMKU4) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade Of Pale](https://open.spotify.com/album/2WcfgOosdw0bN9g9twoA4K) | 4:08 | 2019-05-26\* | 2022-07-29 |
 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/1cmjxqobVTrgAiJ0btAleN) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [A Whiter Shade of Pale](https://open.spotify.com/album/16cvzyvunqoYiyr6j34ICO) | 4:08 | 2022-08-12 | 2023-04-02 |
 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 | 2022-06-08 | 2022-10-22 |
+| [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg) | 4:08 | 2022-08-12 |  |
 | [A World Without Love](https://open.spotify.com/track/4NNK7IAziJkwbXEFXCAkQv) | [Peter And Gordon](https://open.spotify.com/artist/6lHC2EQMEMZiEmSfFloarn) | [British Invasion Time](https://open.spotify.com/album/4p0nHgfuQmmB4iRvBeJ8dU) | 2:40 | 2019-06-06 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/0ejSOUMcnYJlIuTZZWgOTb) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [songs that lowkey slap](https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4) | 2:27 | 2022-08-12 | 2022-11-13 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 | 2019-05-26\* | 2022-07-29 |
@@ -500,7 +501,7 @@
 | [One](https://open.spotify.com/track/5dklFzjDDNPbaRPNjL7CNW) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Aerial Ballett](https://open.spotify.com/album/4lQ72Rx2xpc7gGNoNJ4dlH) | 2:54 | 2019-07-16 | 2019-08-09 |
 | [One \- Single Version](https://open.spotify.com/track/4ME2YQNThxEW63fxojzHvN) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Three Dog Night](https://open.spotify.com/album/3EQ412rAdAuGsxADDEarJ4) | 3:05 | 2021-05-07 | 2021-10-16 |
 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 | 2019-05-31 | 2022-11-13 |
-| [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 | 2020-08-15 |  |
+| [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 | 2020-08-15 | 2023-05-30 |
 | [Only the Lonely \(Know the Way I Feel\)](https://open.spotify.com/track/2YDfRJp5Hth6K2pHXdHNZt) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Ultimate Collection](https://open.spotify.com/album/4EpWWMjlTMRrZi0zLH1SwX) | 2:25 | 2019-05-26\* | 2020-06-12 |
 | [Orbit](https://open.spotify.com/track/0P6WsGleEnnB3VHD5pijPX) | [John Baker](https://open.spotify.com/artist/5rI2z6U2KiyWfN6zsTu2f1) | [The John Baker Tapes Volume 1](https://open.spotify.com/album/4YBmCqaZOay7qRiVc8nXxg) | 0:47 | 2019-06-21 | 2019-08-08 |
 | [Our Day Will Come](https://open.spotify.com/track/3ngYXFSYtF5mHguNCA3JZ0) | [Ruby And The Romantics](https://open.spotify.com/artist/7y0ngZzIllkP8ZOqgTKQFc) | [Our Day Will Come](https://open.spotify.com/album/4ld3rO6I2P7CmDDtksx19D) | 2:34 | 2019-07-17 | 2019-08-01 |

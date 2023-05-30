@@ -4,7 +4,7 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Kiko El Crazy
 
-256 songs - 13 hr 14 min
+257 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alta Gama](https://open.spotify.com/track/2nQkw2gz6HyqG4UDtZpDil) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [DEMBOW PEGAO VERANO 2021](https://open.spotify.com/album/1vcQOxtYH1vQHaozkDPVLf) | 2:41 | 2023-02-09 | 2023-02-25 |
 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 | 2021-11-19 | 2022-07-23 |
 | [ALÓ ALÓ](https://open.spotify.com/track/6ReFi3vfEoFCg5HnRlmOZR) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [ALÓ ALÓ](https://open.spotify.com/album/15dVINVh9730rBXttt5smv) | 2:56 | 2022-03-18 | 2022-07-16 |
-| [Arete](https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:16 | 2023-02-09 |  |
+| [Arete](https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:16 | 2023-02-09 | 2023-05-30 |
 | [Bagre](https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU) | 2:40 | 2022-07-22 | 2023-05-27 |
 | [Bagre](https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Bailalo](https://open.spotify.com/track/5qq6alfo5oP3H2vAdnAXkW) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Bailalo](https://open.spotify.com/album/1rfDlUcAZZALSkz3FWGbwQ) | 4:10 | 2021-11-19 | 2022-03-18 |
@@ -141,6 +141,7 @@
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2023-02-09 | 2023-03-11 |
 | [Malabu](https://open.spotify.com/track/6cIDPdoQ9RaKT9raNW6TsJ) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Malabu](https://open.spotify.com/album/6lZyKKjwxqciNXhikIj75A) | 2:48 | 2023-03-10 |  |
 | [Maliante](https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Maliante](https://open.spotify.com/album/4JYslbzoOPChDxxyYTvkn0) | 2:31 | 2023-02-09 |  |
+| [Malianteo Y Tiro](https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3) | [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Malianteo Y Tiro](https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys) | 2:47 | 2023-05-26 |  |
 | [Mambo](https://open.spotify.com/track/18MrnIPHsQsurEtqHmIeql) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Mambo](https://open.spotify.com/album/3S65Cuy6QWuoWohkjIV6RN) | 4:16 | 2023-02-09 | 2023-03-11 |
 | [Mango Piña](https://open.spotify.com/track/3FJoGnTXNXkw5uXIsBfa3a) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Mango Piña](https://open.spotify.com/album/4NJB2jW7tHkuK48W048NrZ) | 2:43 | 2022-03-04 | 2023-03-11 |
 | [Maniqui](https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Maniqui](https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc) | 2:57 | 2023-02-09 |  |

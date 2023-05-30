@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 258640,
       "name": "Creep - Acoustic",
       "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
@@ -8234,7 +8234,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 140000,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
@@ -8948,7 +8948,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
@@ -10690,6 +10690,24 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "album": {
+        "name": "Zanaka",
+        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
     },
     {
       "album": {
@@ -14207,6 +14225,24 @@
     },
     {
       "album": {
+        "name": "Part of Your World (From \"The Little Mermaid\")",
+        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Part of Your World - From \"The Little Mermaid\"",
+      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+    },
+    {
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -15942,7 +15978,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
@@ -16066,7 +16102,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 201340,
       "name": "Recargado en la Barra",
       "url": "https://open.spotify.com/track/4JiSFuXMGUqvUR9bViWdk1"
@@ -18022,6 +18058,28 @@
       "duration_ms": 164516,
       "name": "Sufriendo",
       "url": "https://open.spotify.com/track/3afAUVkCzAtkjiDxrtq6K1"
+    },
+    {
+      "album": {
+        "name": "Club Deportivo Guadalajara, A.C.",
+        "url": "https://open.spotify.com/album/1SYZpbbiJGzSrObzZLbrPs"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel Correa",
+          "url": "https://open.spotify.com/artist/7pQAQTRfTeyLDP0iY8O8j8"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Super Chivas",
+      "url": "https://open.spotify.com/track/5DfVYEEICrWgMgqSvoDYfw"
     },
     {
       "album": {

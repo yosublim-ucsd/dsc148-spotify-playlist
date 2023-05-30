@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 67689,
+  "num_followers": 67790,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,34 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Enrique Guzm\u00e1n (El Llanto del Siglo)",
-        "url": "https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu"
+        "name": "El rock de la c\u00e1rcel (Remastered)",
+        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Enrique Guzm\u00e1n & Teen Tops",
+          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
         }
       ],
-      "duration_ms": 132533,
-      "name": "Te Seguir\u00e9 (I Will Follow You)",
-      "url": "https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ"
+      "duration_ms": 141635,
+      "name": "Bule bule - Remastered",
+      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Pensaba en Ti - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -135,22 +151,6 @@
       "duration_ms": 161146,
       "name": "Significas Todo Para Mi",
       "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "El rock de la c\u00e1rcel (Remastered)",
-        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzm\u00e1n & Teen Tops",
-          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
-        }
-      ],
-      "duration_ms": 141635,
-      "name": "Bule bule - Remastered",
-      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
     },
     {
       "added_at": "2022-05-04 15:52:02",
@@ -171,18 +171,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
+        "name": "Enrique Guzm\u00e1n (El Llanto del Siglo)",
+        "url": "https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
         }
       ],
-      "duration_ms": 160835,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
+      "duration_ms": 132533,
+      "name": "Te Seguir\u00e9 (I Will Follow You)",
+      "url": "https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -203,18 +203,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
+        "name": "Grandes \u00c9xitos Vol.2",
+        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
         }
       ],
-      "duration_ms": 205093,
-      "name": "Pensaba en Ti - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/63bJH7VTZF8tgtgm7dPLrw"
+      "duration_ms": 160835,
+      "name": "La Historia de Tommy",
+      "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -239,18 +239,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
+        "name": "La Plaga",
+        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
       },
       "artists": [
         {
-          "name": "Los Rogers",
-          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 110706,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/2mvAbsRCWBxQdU82eB4t5e"
+      "duration_ms": 183666,
+      "name": "Popotitos",
+      "url": "https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -271,34 +271,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Idolos del Rock de los 60's: Enrique Guzman",
-        "url": "https://open.spotify.com/album/2XuRoPnWFPk5r085lSLP5v"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Rogers",
+          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
         }
       ],
-      "duration_ms": 142184,
-      "name": "Dame Felicidad",
-      "url": "https://open.spotify.com/track/2isDsHmWRiOnCTldVND0BO"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "La Plaga",
-        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Popotitos",
-      "url": "https://open.spotify.com/track/3kwvhErFvlurnAsxJ5iIaK"
+      "duration_ms": 110706,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/2mvAbsRCWBxQdU82eB4t5e"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -315,6 +299,22 @@
       "duration_ms": 142466,
       "name": "Cosas",
       "url": "https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 142146,
+      "name": "Anoche Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/7zHQkpC5hy5VSPZwdz17ND"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -339,18 +339,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Idolos del Rock de los 60's: Enrique Guzman",
+        "url": "https://open.spotify.com/album/2XuRoPnWFPk5r085lSLP5v"
       },
       "artists": [
         {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
         }
       ],
-      "duration_ms": 142146,
-      "name": "Anoche Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/7zHQkpC5hy5VSPZwdz17ND"
+      "duration_ms": 142184,
+      "name": "Dame Felicidad",
+      "url": "https://open.spotify.com/track/2isDsHmWRiOnCTldVND0BO"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -387,34 +387,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos De Enrique Guzman Vol. ll",
-        "url": "https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y"
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 166333,
-      "name": "\u00c1ngel de Mi Vida - Angel of the Morning",
-      "url": "https://open.spotify.com/track/3yETnVVPXdCOs9k8cNChPA"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
-      },
-      "artists": [
-        {
-          "name": "Los Rogers",
-          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
-        }
-      ],
-      "duration_ms": 167862,
-      "name": "Noches y Dias Perdidos",
-      "url": "https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa"
+      "duration_ms": 128626,
+      "name": "Presumida - High Class Baby [Remasterizado]",
+      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -435,18 +419,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Los Rogers",
+          "url": "https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC"
         }
       ],
-      "duration_ms": 128626,
-      "name": "Presumida - High Class Baby [Remasterizado]",
-      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
+      "duration_ms": 167862,
+      "name": "Noches y Dias Perdidos",
+      "url": "https://open.spotify.com/track/5v1udQ8k09XuMjUb7OBmXa"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -463,22 +447,6 @@
       "duration_ms": 187168,
       "name": "Fue en un Cafe",
       "url": "https://open.spotify.com/track/0FWq5DHMbw5XcohCJ956BX"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
-      },
-      "artists": [
-        {
-          "name": "Los Hitters",
-          "url": "https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT"
-        }
-      ],
-      "duration_ms": 129080,
-      "name": "Ahora estoy Solo",
-      "url": "https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -503,18 +471,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
       "artists": [
         {
-          "name": "Los Sleepers",
-          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+          "name": "Los Hitters",
+          "url": "https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT"
         }
       ],
-      "duration_ms": 140026,
-      "name": "Al Ritmo De La Lluvia",
-      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+      "duration_ms": 129080,
+      "name": "Ahora estoy Solo",
+      "url": "https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -531,6 +499,54 @@
       "duration_ms": 142785,
       "name": "Bule Bule",
       "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "15 Exitos De Enrique Guzman Vol. ll",
+        "url": "https://open.spotify.com/album/5Y0jl26HDiRVf7G4uBJV8y"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "\u00c1ngel de Mi Vida - Angel of the Morning",
+      "url": "https://open.spotify.com/track/3yETnVVPXdCOs9k8cNChPA"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Buen Rock Esta Noche - Good Rockin' Tonight [Remasterizado]",
+      "url": "https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Sleepers",
+          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "Al Ritmo De La Lluvia",
+      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -563,22 +579,6 @@
       "duration_ms": 193910,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Buen Rock Esta Noche - Good Rockin' Tonight [Remasterizado]",
-      "url": "https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
       },
       "artists": [
         {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 116715,
-      "name": "P\u00f3lvora",
-      "url": "https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8"
+      "duration_ms": 138133,
+      "name": "Confidente de Secundaria - School Confidential (Tema Remasterizado)",
+      "url": "https://open.spotify.com/track/5NwnhR2Am7p9kdUJcj9I2m"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Confidente de Secundaria - School Confidential (Tema Remasterizado)",
-      "url": "https://open.spotify.com/track/5NwnhR2Am7p9kdUJcj9I2m"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 137665,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/0aVecUM3N6lZ70vOgCp3eG"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 116715,
+      "name": "P\u00f3lvora",
+      "url": "https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 133573,
-      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
-      "url": "https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "12 Grandes exitos Vol. 2",
         "url": "https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Historia de un Amor",
-        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
         }
       ],
-      "duration_ms": 156395,
-      "name": "Historia de Tommy",
-      "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
+      "duration_ms": 133573,
+      "name": "Agujetas de Color de Rosa (Pink Shoe Laces)",
+      "url": "https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -887,6 +871,22 @@
       "duration_ms": 80764,
       "name": "Yo No Soy Rebelde",
       "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Historia de un Amor",
+        "url": "https://open.spotify.com/album/3La8k64Jy95Oe0NTfJz6M1"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 156395,
+      "name": "Historia de Tommy",
+      "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "20 Exitos Colleccion de Oro",
-        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
       "artists": [
         {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+          "name": "Los Sinners",
+          "url": "https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Creo Estar Son\u0303ando",
-      "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
+      "duration_ms": 123977,
+      "name": "La Carrera del Oso",
+      "url": "https://open.spotify.com/track/3cVUGijv6ROFeNjsyK8VJY"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1231,50 +1231,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
+        "name": "20 Exitos Colleccion de Oro",
+        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
       "artists": [
         {
-          "name": "Los Sinners",
-          "url": "https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j"
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 123977,
-      "name": "La Carrera del Oso",
-      "url": "https://open.spotify.com/track/3cVUGijv6ROFeNjsyK8VJY"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 119745,
-      "name": "Haciendote el Amor",
-      "url": "https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Magia Blanca (Devil Woman)",
-      "url": "https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs"
+      "duration_ms": 142306,
+      "name": "Creo Estar Son\u0303ando",
+      "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1295,18 +1263,34 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "20 Exitos Colleccion de Oro",
-        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
       },
       "artists": [
         {
-          "name": "Los Hermanos Carrion",
-          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+          "name": "Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Lanza a tus Penas al Viento",
-      "url": "https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg"
+      "duration_ms": 204880,
+      "name": "Magia Blanca (Devil Woman)",
+      "url": "https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 119745,
+      "name": "Haciendote el Amor",
+      "url": "https://open.spotify.com/track/1oNFfrgSdZ2Af22M60gix4"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "100 A\u00f1os de Musica",
-        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
       },
       "artists": [
         {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
         }
       ],
-      "duration_ms": 145110,
-      "name": "El Juego de Simon",
-      "url": "https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu"
+      "duration_ms": 283689,
+      "name": "Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "duration_ms": 145110,
+      "name": "El Juego de Simon",
+      "url": "https://open.spotify.com/track/6zviEOLUAWV9fRxPJBPWfu"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 168066,
       "name": "La Novia De Mi Mejor Amigo",
       "url": "https://open.spotify.com/track/0fTQjEHnF5ixoyVHAup7As"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Dile Adios",
+      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 283689,
-      "name": "Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "RCA 100 Anos De Musica - Segunda Parte (Exitos Inolvidables Del Rock & Roll En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK"
       },
@@ -1471,34 +1471,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
         }
       ],
-      "duration_ms": 137769,
-      "name": "Dile Adios",
-      "url": "https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Idolos del Rock",
-        "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 153338,
-      "name": "El Bikini Amarillo",
-      "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
+      "duration_ms": 210651,
+      "name": "Por Eso Estamos Como Estamos",
+      "url": "https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1512,25 +1496,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Lagrimas de Cristal",
-      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Atras de la Raya",
-        "url": "https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5"
-      },
-      "artists": [
-        {
-          "name": "Los Apson Boys",
-          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Por Eso Estamos Como Estamos",
-      "url": "https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw"
+      "duration_ms": 198733,
+      "name": "Lanza a tus Penas al Viento",
+      "url": "https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Idolos del Rock",
+        "url": "https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 153338,
+      "name": "El Bikini Amarillo",
+      "url": "https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Historia Musical de Mis Exitos",
         "url": "https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+        "name": "Rock, Puro Rock",
+        "url": "https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Los Jockers",
+          "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
         }
       ],
-      "duration_ms": 183875,
-      "name": "Ay Preciosa",
-      "url": "https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q"
+      "duration_ms": 165573,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Johnny Jets",
+        "url": "https://open.spotify.com/album/3XAqOq6UllVP1kwZJ9pKdP"
+      },
+      "artists": [
+        {
+          "name": "Los Johnny Jets",
+          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "La Minifalda de Reynalda",
+      "url": "https://open.spotify.com/track/7wl8KLh4SbdPcJ9YgklKZm"
     }
   ],
   "unique_name": "Rock & Roll en Espa\u00f1ol",

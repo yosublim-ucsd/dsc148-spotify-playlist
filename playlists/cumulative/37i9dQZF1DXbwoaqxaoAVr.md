@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-143 songs - 9 hr 0 min
+144 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 | 2021-11-25 | 2022-05-27 |
 | [Imagine](https://open.spotify.com/track/1FIRMWlPQlIVa8cIZe9v6v) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Imagine](https://open.spotify.com/album/1XaxFtVX2ERvKgJftzjGGD) | 4:26 | 2022-03-10 | 2022-04-15 |
 | [In Another Life](https://open.spotify.com/track/24tzZeY1hzccRdH4twuwXM) | [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Nyle Banks](https://open.spotify.com/artist/0gA0qBobEelLCWc7c1raJB), [Bost & Bim](https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP) | [In Another Life](https://open.spotify.com/album/1UfPkbVCpMAxKSit7jXvbh) | 3:13 | 2022-08-26 |  |
-| [In Your Eyes](https://open.spotify.com/track/1VjmjyzdWke5qVNH5kxX8W) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [In Your Eyes](https://open.spotify.com/album/2XuTbyPwVgQrs11h6eGgQp) | 5:26 | 2023-05-20 |  |
+| [In Your Eyes](https://open.spotify.com/track/1VjmjyzdWke5qVNH5kxX8W) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [In Your Eyes](https://open.spotify.com/album/2XuTbyPwVgQrs11h6eGgQp) | 5:26 | 2023-05-20 | 2023-05-30 |
+| [In Your Eyes](https://open.spotify.com/track/7EsmODnH1vcwBkjl8DYKTO) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Right Right Time](https://open.spotify.com/album/4qSLLP8DAOmvy1oPBvzIto) | 5:26 | 2023-05-25 |  |
 | [IRL](https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [IRL](https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ) | 3:30 | 2023-04-17 |  |
 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 | 2021-11-25 |  |
 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 | 2021-11-25 |  |

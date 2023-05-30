@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > 
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,168 likes - 15 songs - 55 min 13 sec
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,170 likes - 15 songs - 55 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

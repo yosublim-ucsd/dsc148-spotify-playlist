@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,131 songs - 2 day 18 hr 21 min
+1,132 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Golden](https://open.spotify.com/track/3DNE6c8U1fNreWOAkOqiXW) | [Thomas Hayes](https://open.spotify.com/artist/1127FlmEDHXC26IBsg8zHP), [Kyler England](https://open.spotify.com/artist/6YvjlSVLWjXqSvATafQkSK) | [Golden](https://open.spotify.com/album/7sYlXOL4BuSOyPMtZTttcN) | 3:32 | 2020-04-15 | 2021-07-31 |
 | [Golden Nights](https://open.spotify.com/track/5EKy5i2ZYe3UXPExAyBaRd) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Golden Nights](https://open.spotify.com/album/44KYSw3czmtKXP6KM2ZciM) | 2:58 | 2021-11-13 | 2022-05-14 |
 | [Good Morning \- Claes Rosen Remix](https://open.spotify.com/track/2gHzQbb7D3ObOYUtHyPfUK) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Summer Selections 03](https://open.spotify.com/album/7M7dOefvlJJwMG2HjsB106) | 6:50 | 2019-08-09\* | 2019-09-05 |
-| [Good Morning Julia](https://open.spotify.com/track/2UPyrucm3iRB0VW2uMNfB0) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Good Morning Julia](https://open.spotify.com/album/2rM2zHIbrwUFySuYLKX2NM) | 3:02 | 2023-02-10 |  |
+| [Good Morning Julia](https://open.spotify.com/track/2UPyrucm3iRB0VW2uMNfB0) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Good Morning Julia](https://open.spotify.com/album/2rM2zHIbrwUFySuYLKX2NM) | 3:02 | 2023-02-10 | 2023-05-30 |
 | [Good Things](https://open.spotify.com/track/3zNavZ4qGN1kwNaBUCEY1u) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Good Things](https://open.spotify.com/album/78GDwLq0uDdLwnGnpDweJH) | 2:40 | 2023-02-24 |  |
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 | 2019-08-28 | 2020-10-30 |
 | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/track/3UAeRjm3BXh9joNAGn2W6Q) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Goodnight \(feat\. JP Cooper\)](https://open.spotify.com/album/5LJOHCNAxofL23i7XGRY4o) | 2:57 | 2021-05-03 | 2022-05-14 |
@@ -1005,6 +1005,7 @@
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2021-06-26 | 2022-04-29 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/1rySZnvbDyYKuNcbToWoDK) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6qPjJY1vQCBKCzDJxQuvhJ) | 3:26 | 2022-07-01 | 2022-07-29 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-22 |  |
+| [Touch Me](https://open.spotify.com/track/7qdETIUEvsFoIh8Ed3YDpk) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Jam City Presents EFM](https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR) | 3:44 | 2023-05-26 |  |
 | [Toxic](https://open.spotify.com/track/15DlPYUnP84cvA4zC2zMDa) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Toxic](https://open.spotify.com/album/2pcgvMdOZHUHVWT5JAC6gA) | 3:17 | 2022-05-27 | 2022-11-19 |
 | [Tracing Steps](https://open.spotify.com/track/0rY6eMNP3hXxEodeEOdKIk) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Tracing Steps](https://open.spotify.com/album/1Vx5sLgGI2R3izkJ7sV2FG) | 6:42 | 2019-08-09\* | 2020-03-29 |
 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 | 2019-08-27 | 2020-10-30 |

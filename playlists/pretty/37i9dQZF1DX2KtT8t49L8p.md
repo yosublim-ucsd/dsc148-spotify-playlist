@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KtT8t49L8p.md) - [plain]
 
 > Awaken and connect through meditation with Theta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,245 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,406 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

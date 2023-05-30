@@ -4,7 +4,7 @@
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-454 songs - 17 hr 54 min
+456 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,8 @@
 | [Told Ya](https://open.spotify.com/track/0O9azTQB2JhJJ0JtI6upoQ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 1:43 | 2021-09-17 | 2022-04-18 |
 | [Torches](https://open.spotify.com/track/4OcOqImlsHL73c8Zn1VUu2) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [Torches](https://open.spotify.com/album/7ffXmVaFkjizO3LvVdRnz3) | 2:26 | 2022-04-15 | 2022-05-21 |
 | [TOXIC](https://open.spotify.com/track/6ppHVhbg1b9HS0iggioYtt) | [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [TOXIC](https://open.spotify.com/album/1ZG1rFrQimhJAIMZL84PKs) | 3:05 | 2022-02-11 | 2022-04-21 |
-| [TOXIC](https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O) | 1:24 | 2023-01-05 |  |
+| [TOXIC](https://open.spotify.com/track/1VDMwC7FdXCbeVCpeKUYjg) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [MENACE TO SOCIETY](https://open.spotify.com/album/1d6zYSMdMycQgpdwNUsORs) | 1:24 | 2023-01-05 |  |
+| [TOXIC](https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O) | 1:24 | 2023-01-05 | 2023-05-30 |
 | [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2023-01-05 | 2023-01-23 |
 | [Trinity](https://open.spotify.com/track/41PeGZiPALdktSyL8jqKeB) | [Lorta](https://open.spotify.com/artist/0jfcbc9ax7GnUiCzhexJOb), [Devilish Trio](https://open.spotify.com/artist/45brkGrBxvV5pxj8eiImiF) | [Trinity](https://open.spotify.com/album/46KiNG5vmNGAqHq8LMUHor) | 2:07 | 2023-04-14 |  |
 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 | 2021-09-17 | 2022-10-29 |
@@ -453,7 +454,8 @@
 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 | 2022-06-10 |  |
 | [WTF!](https://open.spotify.com/track/5po4XqNwlBnXXAYLtRcvpT) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [WTF!](https://open.spotify.com/album/0LWrRIg4YsEn1Xo0njNzVa) | 2:10 | 2022-05-06 | 2022-07-27 |
 | [Xanny Bar](https://open.spotify.com/track/629O8nN3Z3I5RrBBirnGLB) | [Sinny](https://open.spotify.com/artist/4yFMTPSQAun7AXk06kLgHJ), [HELLFXRMANCE](https://open.spotify.com/artist/5SAfqbTKypuqia3PlUNUuZ) | [Xanny Bar](https://open.spotify.com/album/2r8TSBLlXxCDF3bzN2xkVz) | 1:35 | 2022-09-16 | 2022-10-15 |
-| [XTC](https://open.spotify.com/track/1zv9AJbiLS7PhtsGVx8oro) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/17ZzioB5rmp2kddwGnUbrG) | 1:52 | 2023-05-26 |  |
+| [XTC](https://open.spotify.com/track/10Gu5xREaHENiWT53WycZR) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/4gfe52IH6Rtm58PC16i95I) | 1:52 | 2023-05-26 |  |
+| [XTC](https://open.spotify.com/track/1zv9AJbiLS7PhtsGVx8oro) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [XTC](https://open.spotify.com/album/17ZzioB5rmp2kddwGnUbrG) | 1:52 | 2023-05-26 | 2023-05-30 |
 | [Yagami](https://open.spotify.com/track/7kJ1useulEnBVk6BP0gqIL) | [Red Dot](https://open.spotify.com/artist/3eSp3CUFfIsOQUGRfIVdSz), [III\-SCAR](https://open.spotify.com/artist/5rCZjgv80X6wi240xvkdjO) | [Yagami](https://open.spotify.com/album/0nTPiq0oNIWlgw7Mbqapy6) | 2:05 | 2022-07-15 | 2022-11-19 |
 | [YASOPP](https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 1:37 | 2021-10-29 | 2022-11-26 |
 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 | 2023-02-13 | 2023-04-15 |

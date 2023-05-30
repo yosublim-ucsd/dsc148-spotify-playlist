@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Harshdeep Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,761 likes - 39 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,875 likes - 39 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 28 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 29 | [Agar Tum Saath Ho](https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:41 |
 | 30 | [Patakha Guddi](https://open.spotify.com/track/7jpmNt5iCtSdXuT1xEGp8O) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:45 |
-| 31 | [Pal](https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Pal](https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg) | 4:07 |
+| 31 | [Pal](https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Pal](https://open.spotify.com/album/4QCM8VlhhlwZtQ2Ew7gtIg) | 4:07 |
 | 32 | [](https://open.spotify.com/track/3HhzqHPEN33a5UCKSfZpgi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2jw92hf4mnISbYywvU3Anj) | 0:00 |
 | 33 | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Raataan Lambiyan \(From "Shershaah"\)](https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj) | 3:50 |
 | 34 | [Chaka Chak](https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Atrangi Re](https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm) | 4:31 |

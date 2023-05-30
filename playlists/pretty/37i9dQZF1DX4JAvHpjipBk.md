@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dua Lipa, Lil Durk, Beyoncé & Kendrick Lamar, OneRepublic, Yeat & Young Thug and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,121,580 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,122,035 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

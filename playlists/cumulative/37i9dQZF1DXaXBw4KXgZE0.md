@@ -2,7 +2,7 @@
 
 ### [Canciones de Cuna](https://open.spotify.com/playlist/37i9dQZF1DXaXBw4KXgZE0)
 
-> Llegamos para ayudarte con esta dura tarea.
+> 
 
 45 songs - 2 hr 18 min
 

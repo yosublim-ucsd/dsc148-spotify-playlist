@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=bJrObwcCQVqioXx0m85mHA">DJ Lag</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,710 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,762 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

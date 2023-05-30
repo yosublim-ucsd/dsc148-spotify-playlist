@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,367 likes - 80 songs - 4 hr 9 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,352 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

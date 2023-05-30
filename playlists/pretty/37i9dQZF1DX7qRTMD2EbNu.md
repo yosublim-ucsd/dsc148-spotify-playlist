@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B\-gkqPYAQ3CDQqrj40ZpDQ"> Kwesi Arthur</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,649 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

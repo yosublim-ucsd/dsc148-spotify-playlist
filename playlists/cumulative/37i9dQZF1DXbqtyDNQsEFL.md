@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-143 songs - 17 hr 37 min
+144 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-09 | 2023-02-04 |
 | [Nobody](https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Nobody](https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6) | 2:34 | 2023-03-30 | 2023-05-26 |
 | [Nobody](https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Nobody](https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV) | 5:03 | 2022-08-12 | 2023-05-26 |
+| [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 |  |
 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 | 2022-06-09 | 2023-04-06 |
 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 | 2022-06-09 |  |
 | [O De \(He's Here\)](https://open.spotify.com/track/6rkjS1nefV5SMIZOLD9I5D) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [BUKOLA BEKES](https://open.spotify.com/artist/2dNXRI4NkBERMYl4x5dcxR), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [O De \(He's Here\)](https://open.spotify.com/album/102OKbemB8VGg6OGjBRAba) | 4:21 | 2022-10-14 | 2022-11-05 |
@@ -102,7 +103,7 @@
 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 | 2022-10-14 | 2022-11-05 |
 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 | 2022-06-09 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS) | 7:18 | 2022-06-09 |  |
-| [Olowo Orimi \(The One Who Paid For Me\)](https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Olowo Orimi \(The One Who Paid For Me\)](https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh) | 8:09 | 2023-02-16 |  |
+| [Olowo Orimi \(The One Who Paid For Me\)](https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Olowo Orimi \(The One Who Paid For Me\)](https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh) | 8:09 | 2023-02-16 | 2023-05-30 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-10-14 | 2022-11-05 |
 | [Only You Jesus](https://open.spotify.com/track/4FlcVpYoYw84TFQyIr7oH8) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:45 | 2022-10-14 | 2022-11-05 |
 | [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 | 2022-06-09 |  |

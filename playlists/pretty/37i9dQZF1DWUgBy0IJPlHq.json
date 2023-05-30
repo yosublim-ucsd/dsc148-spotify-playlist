@@ -1,6 +1,6 @@
 {
   "description": "A new shade of Country. Cover: Buck Meek",
-  "num_followers": 448807,
+  "num_followers": 448960,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
@@ -1164,12 +1164,12 @@
       },
       "artists": [
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
           "name": "Molly Tuttle",
           "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
       "duration_ms": 212251,

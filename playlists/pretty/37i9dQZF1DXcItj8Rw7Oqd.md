@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: PVRIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,004 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,014 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

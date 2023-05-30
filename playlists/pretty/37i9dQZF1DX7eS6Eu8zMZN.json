@@ -1,13 +1,29 @@
 {
   "description": "Rock tranqui para concentrarse.",
-  "num_followers": 41245,
+  "num_followers": 41285,
   "original_name": "Rock en Espa\u00f1ol Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTQ1MDE5MTE1NDU4MGJlODk2OGE5NTk0YjcxMDg1MzJjMTU0NTNh",
+  "snapshot_id": "MCxiNmIxZTNlN2MyNTk3NTk3M2Q1NjUxMzI2NDhlZjAwZDQwNjVlY2Uy",
   "tracks": [
+    {
+      "added_at": "2023-05-29 16:09:41",
+      "album": {
+        "name": "Enemigo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Enemigo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
+    },
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {

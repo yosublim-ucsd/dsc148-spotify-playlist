@@ -1,6 +1,6 @@
 {
   "description": "This week's top new releases. Cover: Peter Fox",
-  "num_followers": 36895,
+  "num_followers": 36912,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
@@ -170,6 +170,10 @@
         {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
         }
       ],
       "duration_ms": 186613,
@@ -1101,7 +1105,7 @@
         }
       ],
       "duration_ms": 211774,
-      "name": "Name in lights",
+      "name": "Name in Lights",
       "url": "https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x"
     },
     {
@@ -1659,6 +1663,26 @@
       "duration_ms": 136752,
       "name": "Letztes Vielleicht",
       "url": "https://open.spotify.com/track/7GVxBa7m2k2hajUF6KxVAM"
+    },
+    {
+      "added_at": "2023-05-26 09:53:16",
+      "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
     },
     {
       "added_at": "2023-05-26 09:53:16",

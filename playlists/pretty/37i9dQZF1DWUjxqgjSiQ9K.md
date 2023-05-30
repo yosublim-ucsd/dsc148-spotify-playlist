@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=twkGnBOtSiWqYBth0VFXtA">Alex Zurdo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,878 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,120 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-125 songs - 6 hr 34 min
+126 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Brilla Una Cadena](https://open.spotify.com/track/4W2uoWmNAfnr8TrHWl3DMy) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Angelitos Pt\. 1](https://open.spotify.com/album/53YPLsCDz7sHSdBiNbHR1c) | 2:04 | 2023-05-19 |  |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/4ftj1xnunJwFVr2Wj4zQzR) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Entre Amigos](https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ) | 3:35 | 2023-05-19 |  |
 | [Cazzualidades](https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:08 | 2023-05-26 |  |
-| [Celular](https://open.spotify.com/track/67Msav6F3L2S5jYS6yxACA) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:56 | 2023-05-19 |  |
+| [Celular](https://open.spotify.com/track/5vbI1ZAapMWilQko88A2mA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:56 | 2023-05-26 |  |
+| [Celular](https://open.spotify.com/track/67Msav6F3L2S5jYS6yxACA) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:56 | 2023-05-19 | 2023-05-30 |
 | [Como Este Loco \(En Vivo\)](https://open.spotify.com/track/0TeERpoI966VYJBh6kxubQ) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis Gustos Mis Canciones \(En Vivo\)](https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2) | 4:37 | 2023-05-19 |  |
 | [Como Tú](https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 2:42 | 2023-05-19 |  |
 | [Conmigo](https://open.spotify.com/track/1AOz5pymukDbPjU0yEgyjr) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 2:25 | 2023-05-19 |  |

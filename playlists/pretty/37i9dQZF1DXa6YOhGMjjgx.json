@@ -1,6 +1,6 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 472420,
+  "num_followers": 472491,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ"
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/2meQ9Z51tvss87oWAbj5h3"
       },
       "artists": [
         {
-          "name": "LUNA AURA",
-          "url": "https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh"
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
         }
       ],
-      "duration_ms": 155680,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
+      "duration_ms": 105000,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/7E4WyTUxVkEnaBwtD3CSK4"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ"
+      },
+      "artists": [
+        {
+          "name": "LUNA AURA",
+          "url": "https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "I Never Loved Myself Like I Loved You",
+      "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Leader of the Pack",
         "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "I Never Loved Myself Like I Loved You",
-      "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "delirious",
         "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Rafters",
-        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
-      },
-      "artists": [
-        {
-          "name": "Yam Haus",
-          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
-        }
-      ],
-      "duration_ms": 230915,
-      "name": "Rafters",
-      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Cause You Got Me",
         "url": "https://open.spotify.com/album/0RJnmscPj3l5gSLuaIGSRJ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 232526,
       "name": "Cause You Got Me",
       "url": "https://open.spotify.com/track/25TuL0KAk45qspshkQNWJA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Rafters",
+        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "duration_ms": 230915,
+      "name": "Rafters",
+      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "All I Wanna Do Is Hate",
-        "url": "https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 165052,
-      "name": "All I Wanna Do Is Hate",
-      "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Voodoo Science",
         "url": "https://open.spotify.com/album/0C83LlAVD0nAhM1wn5aGFS"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+        "name": "All I Wanna Do Is Hate",
+        "url": "https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz"
       },
       "artists": [
         {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
         }
       ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
+      "duration_ms": 165052,
+      "name": "All I Wanna Do Is Hate",
+      "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Plus Ultra",
-        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "My Fall",
-      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Flood Into",
         "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Plus Ultra",
+        "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "My Fall",
+      "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
-      },
-      "artists": [
-        {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
       },
       "artists": [
         {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
         }
       ],
-      "duration_ms": 187431,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
       },
       "artists": [
         {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+          "name": "Little Hurt",
+          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
         }
       ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
+      "duration_ms": 187431,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 257398,
       "name": "Father Of Lies",
       "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-05-19 04:00:00",

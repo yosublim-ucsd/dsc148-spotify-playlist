@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,196 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,237 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
-| 2 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 |
-| 3 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
+| 1 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
+| 2 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
+| 3 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 |
 | 4 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 |
-| 5 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
-| 6 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
-| 7 | [Czekam Na Znak](https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Czekam Na Znak](https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn) | 3:18 |
-| 8 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
+| 5 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
+| 6 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
+| 7 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
+| 8 | [Czekam Na Znak](https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Czekam Na Znak](https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn) | 3:18 |
 | 9 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 |
-| 10 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
-| 11 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 |
-| 12 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 |
-| 13 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 |
+| 10 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 11 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
+| 12 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 |
+| 13 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 |
 | 14 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 |
-| 15 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
+| 15 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 |
 | 16 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 |
 | 17 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 18 | [Outro](https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Outro](https://open.spotify.com/album/0NqV8UXKjInjxi0HWEmfWC) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 |
 | 60 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `MCw0MzRlZWRiYTZkODA0N2M3YzVmNWExMWZiOTBmYTBhMDgwM2ZiOWU4`
+Snapshot ID: `MCxjYzQ4N2RhNGE3NzkwZmViNTc4MGEyMGE3ODU2NTMzMjY5YzI3NzNk`

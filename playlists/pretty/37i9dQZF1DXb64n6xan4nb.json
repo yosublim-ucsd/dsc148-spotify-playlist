@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 24805,
+  "num_followers": 24851,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "\ubc8c\uc368 \uc77c\ub144",
-      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
         "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 219160,
       "name": "8282",
       "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "\ubc8c\uc368 \uc77c\ub144",
+      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
-        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 228153,
-      "name": "\ube44\ubc00\ubc88\ud638 486",
-      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Stylish\u2026",
         "url": "https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "SG Wanna Be+",
-        "url": "https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs"
+        "name": "\uace0\ubc31\ud558\uae30 \uc88b\uc740 \ub0a0",
+        "url": "https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV"
       },
       "artists": [
         {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 237871,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr"
+      "duration_ms": 228153,
+      "name": "\ube44\ubc00\ubc88\ud638 486",
+      "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -611,6 +595,22 @@
       "duration_ms": 279266,
       "name": "\uac70\ub9ac\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "SG Wanna Be+",
+        "url": "https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 237871,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "My Lovely Sam Soon \ub0b4 \uc774\ub984\uc740 \uae40\uc0bc\uc21c (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1C0Q9LIGtBNhVnkAXFLVCA"
-      },
-      "artists": [
-        {
-          "name": "Clazziquai",
-          "url": "https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "She Is",
-      "url": "https://open.spotify.com/track/1XENcYfPIaUK98vBOx3mjm"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "\ubbf8\ub140\ub294 \uad34\ub85c\uc6cc Original Motion picture Soundtrack",
         "url": "https://open.spotify.com/album/5XUYDlbeJCIFSCekufQiZb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 302021,
       "name": "\ubcc4",
       "url": "https://open.spotify.com/track/02q7sJH0d1lC0oDd8gf513"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "My Lovely Sam Soon \ub0b4 \uc774\ub984\uc740 \uae40\uc0bc\uc21c (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1C0Q9LIGtBNhVnkAXFLVCA"
+      },
+      "artists": [
+        {
+          "name": "Clazziquai",
+          "url": "https://open.spotify.com/artist/0akZcna6MlOPRo0reVTaPr"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "She Is",
+      "url": "https://open.spotify.com/track/1XENcYfPIaUK98vBOx3mjm"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
-        "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
-      },
-      "artists": [
-        {
-          "name": "SWEET SORROW",
-          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
-        }
-      ],
-      "duration_ms": 273084,
-      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
-      "url": "https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Across The Romantic Bridge",
-        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "\uadf8\ub7f0\uc77c\uc740",
-      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Buzz Effect",
         "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
       },
@@ -1075,54 +1043,6 @@
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
-        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 226998,
-      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
-      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\ub354 \ub11b\uce20 1\uc9d1",
-        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
-      },
-      "artists": [
-        {
-          "name": "The Nuts",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 261630,
-      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
-      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "\uc911\ub3c5",
-      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1143,6 +1063,70 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Across The Romantic Bridge",
+        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "\uadf8\ub7f0\uc77c\uc740",
+      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
+        "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
+      },
+      "artists": [
+        {
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+        }
+      ],
+      "duration_ms": 273084,
+      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
+      "url": "https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\ub354 \ub11b\uce20 1\uc9d1",
+        "url": "https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf"
+      },
+      "artists": [
+        {
+          "name": "The Nuts",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "duration_ms": 261630,
+      "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
+      "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.36",
+        "url": "https://open.spotify.com/album/405tMm63Ou53fIs0BmdeH9"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 226998,
+      "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
+      "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Mc The Max - Solitude Love\u2026",
         "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "\uc911\ub3c5",
+      "url": "https://open.spotify.com/track/3AtVaaeENM7y8RJcNSTOlG"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Third Eye",
         "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 245866,
       "name": "flying duck",
       "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "N001",
-        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
-      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "N001",
+        "url": "https://open.spotify.com/album/02D06vVmtmZOpeK2p3QFQS"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\uc548\ub155\uc774\ub780 \ub9d0 \ub300\uc2e0",
+      "url": "https://open.spotify.com/track/6cBKZOBdcSqiDig10ubeZo"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Vivid Summer Edition 1st Amaranth Repackage Album",
         "url": "https://open.spotify.com/album/506YM58qyGoCHcTB1EZmVS"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 271986,
       "name": "\uc5b4\ub5a4\uac00\uc694",
       "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+        "name": "His Story",
+        "url": "https://open.spotify.com/album/4cjEWNisOR1ZcaNNQgHTBQ"
       },
       "artists": [
         {
-          "name": "Kim Yun A",
-          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        },
+        {
+          "name": "Kim Tae Woo",
+          "url": "https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi"
         }
       ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+      "duration_ms": 252933,
+      "name": "I Love U? Oh Thank U (Feat. \uae40\ud0dc\uc6b0)",
+      "url": "https://open.spotify.com/track/1KGiNVIzzD0vUZUIErKZTr"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

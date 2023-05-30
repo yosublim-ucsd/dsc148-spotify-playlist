@@ -1,6 +1,6 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 61445,
+  "num_followers": 61598,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 137933,
+      "name": "Tush - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Exile On Main Street (Deluxe Version)",
         "url": "https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 137933,
-      "name": "Tush - 2006 Remaster",
-      "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Yeah! (US Internet Release)",
         "url": "https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 176453,
       "name": "Smokin' in the Boy's Room",
       "url": "https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Future Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 170120,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -251,6 +235,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Future Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 170120,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Exile On Main Street (2010 Re-Mastered)",
-        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Casino Boogie",
-      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 246493,
       "name": "Let's Make It",
       "url": "https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Exile On Main Street (2010 Re-Mastered)",
+        "url": "https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Casino Boogie",
+      "url": "https://open.spotify.com/track/3NDEunNz7GMb6SkkPYTvd2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Charming Mess",
-        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Charming Mess",
-      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "The Morning After",
@@ -491,6 +475,22 @@
       "duration_ms": 189520,
       "name": "Floyd's Hotel",
       "url": "https://open.spotify.com/track/2feQ7CyRZOUeqsct3zwDtn"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Charming Mess",
+        "url": "https://open.spotify.com/album/1kOPsSIDcQ3cegRouSgx7W"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Charming Mess",
+      "url": "https://open.spotify.com/track/494fTnltxTwiZYqACtCzWU"
     },
     {
       "added_at": "2021-04-13 15:36:15",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Hoople",
-        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
-      },
-      "artists": [
-        {
-          "name": "Mott The Hoople",
-          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "The Golden Age of Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 173026,
       "name": "Borstal Boys",
       "url": "https://open.spotify.com/track/47rwchB6ebPHAY0CaBINZG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Hoople",
+        "url": "https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am"
+      },
+      "artists": [
+        {
+          "name": "Mott The Hoople",
+          "url": "https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "The Golden Age of Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
-      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Blues Band - Ready (Remastered)",
         "url": "https://open.spotify.com/album/79vGUrA1yoXpJ8FSyhbxKs"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Get The Picture?",
-        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB"
       },
       "artists": [
         {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
         }
       ],
-      "duration_ms": 139240,
-      "name": "Midnight To Six Man",
-      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
+      "duration_ms": 213626,
+      "name": "Don't Start Me Talkin' - Jinx Session / 1982",
+      "url": "https://open.spotify.com/track/6lDxaHITMuytL0amkRLvT2"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -735,6 +719,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Get The Picture?",
+        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 139240,
+      "name": "Midnight To Six Man",
+      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Jinx (Remastered 2017)",
+        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 234901,
+      "name": "Bourbon",
+      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Spirit In The Sky",
         "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jinx (Remastered 2017)",
-        "url": "https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS"
+        "name": "The Essential Edgar Winter",
+        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
       },
       "artists": [
         {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+          "name": "Edgar Winter's White Trash",
+          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
         }
       ],
-      "duration_ms": 234901,
-      "name": "Bourbon",
-      "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
+      "duration_ms": 224706,
+      "name": "Keep Playin' That Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -795,22 +811,6 @@
       "duration_ms": 240346,
       "name": "Rockout, Whatever You Feel Like",
       "url": "https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Essential Edgar Winter",
-        "url": "https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter's White Trash",
-          "url": "https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Keep Playin' That Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1"
     }
   ],
   "unique_name": "Boogie Rock",

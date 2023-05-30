@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: never young beach
 
-477 songs - 1 day 6 hr 2 min
+479 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [i.e.](https://open.spotify.com/track/56D1XjLDRNIl2J6MDxBBHe) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [i.e.](https://open.spotify.com/album/56m3Rh00xKiMl6gOowxBV5) | 4:52 | 2023-05-10 | 2023-05-27 |
 | [Ice Age](https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Ice Age](https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae) | 4:01 | 2023-05-09 |  |
 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 | 2023-05-04 |  |
-| [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 |  |
+| [Ikiru](https://open.spotify.com/track/5ZlpDMIyUb6JRUlhYWsKIp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:01 | 2023-01-12 | 2023-05-30 |
 | [In Crossing](https://open.spotify.com/track/7fzC8IP1IbYvuhgMxRBlrY) | [togaru](https://open.spotify.com/artist/3lCZbOLryImbqSIs87DKJA) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 4:02 | 2023-03-23 | 2023-03-29 |
 | [Inclusion & Groove](https://open.spotify.com/track/1SQLv9kx6RzfQZulYRICcu) | [GAME CENTER & Future Brothers](https://open.spotify.com/artist/5KmK4SkU5gy76btbPAuS1q) | [Inclusion & Groove](https://open.spotify.com/album/0yC2V4EQMpoMbJuyoYEpFz) | 3:31 | 2023-01-31 | 2023-03-29 |
 | [irk](https://open.spotify.com/track/1v5w6qzUug2apEg3PUsOY7) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [WH3Nwh3re](https://open.spotify.com/album/6gwVTUoyp5t5FY9NE17oHx) | 3:44 | 2023-03-21 | 2023-03-29 |
@@ -191,6 +191,7 @@
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-03-28 | 2023-04-07 |
 | [Miragesong](https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Miragesong](https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt) | 4:45 | 2023-01-12 | 2023-01-25 |
 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 | 2023-01-12 | 2023-01-18 |
+| [Morning like a breath](https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:20 | 2023-05-29 |  |
 | [MORNINGRISE](https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Heavenly Heavenly](https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0) | 3:18 | 2023-05-09 |  |
 | [mother ship](https://open.spotify.com/track/6JOWEwvMzumEvZlXNOVWOM) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [mother ship](https://open.spotify.com/album/25VaqWv7lR45TaIdRReDIp) | 2:57 | 2023-04-11 | 2023-04-26 |
 | [Motion \(2019 Sessions\)](https://open.spotify.com/track/7gRYo4ZETjCw8n3MqCs2Ut) | [YOUR SONG IS GOOD](https://open.spotify.com/artist/4Yt6N4u5vIpjRhT2O7zsLk) | [Sessions](https://open.spotify.com/album/1ML2YxT5dB7PeXoOtw3enA) | 6:18 | 2023-03-30 | 2023-04-19 |
@@ -360,6 +361,7 @@
 | [ゆう5時](https://open.spotify.com/track/2mADSGp41V9kN2AmM4HRbY) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [symphil](https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X) | 2:54 | 2023-03-21 | 2023-04-24 |
 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 | 2023-05-09 | 2023-05-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
+| [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 |  |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 |  |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 |  |
 | [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |
@@ -461,7 +463,7 @@
 | [知ってる](https://open.spotify.com/track/68MEVpTc9mRUJGydpXp8KZ) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [知ってる](https://open.spotify.com/album/2EnPi6zR5tn7mUfwQV9cKM) | 3:27 | 2023-04-25 | 2023-05-10 |
 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 | 2023-02-21 | 2023-05-10 |
 | [秘密](https://open.spotify.com/track/1EtFOfutoSnNgUuEebIM1u) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [秘密](https://open.spotify.com/album/2ZAgdzKbsfjt7NThrU2JpO) | 3:53 | 2023-04-27 | 2023-05-12 |
-| [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 | 2023-04-04 |  |
+| [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 | 2023-04-04 | 2023-05-30 |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-02-01 |
 | [経験](https://open.spotify.com/track/0yu9KcjQ7H3TzCG0nLOFOn) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [経験](https://open.spotify.com/album/3XIBN10g7e3wsL5naIp77z) | 4:20 | 2023-04-20 | 2023-04-22 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2023-03-28 |  |

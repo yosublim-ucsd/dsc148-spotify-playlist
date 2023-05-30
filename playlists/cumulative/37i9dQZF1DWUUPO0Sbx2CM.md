@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-380 songs - 21 hr 7 min
+381 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2023-02-08 | 2023-04-04 |
 | [Derecha](https://open.spotify.com/track/0MOtodMVaH7sxweQAQsYV2) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Derecha](https://open.spotify.com/album/5S6iWyRPQU2ijVIYJLLCTh) | 1:54 | 2023-02-08 | 2023-02-20 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-02-08 |  |
+| [Don't Ever Let Me Go](https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Don't Ever Let Me Go](https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H) | 2:54 | 2023-05-30 |  |
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2023-02-08 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2021-10-31 | 2022-07-27 |
 | [DYSFUNCTIONAL](https://open.spotify.com/track/1Ul8uZz3foXwCasaCPgVZb) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [DYSFUNCTIONAL](https://open.spotify.com/album/57tpaCIg1x0CR9VBVsCyjU) | 2:25 | 2021-10-31 | 2022-07-29 |
@@ -347,7 +348,7 @@
 | [Tread the Dawn](https://open.spotify.com/track/29LoYHqJB3YYBlSWE2j2Mz) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Tread the Dawn](https://open.spotify.com/album/1qrbqGbpjZi9k2BwX8tFam) | 3:35 | 2021-10-31 | 2022-07-08 |
 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 | 2023-02-08 |  |
 | [Trust \(Hold on Tight\), Live at Hsn Germany 2021](https://open.spotify.com/track/5etXkOBaX5MLeiudGuSh0y) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [SARVIA](https://open.spotify.com/artist/2AzjJmXPh6YhnzdqqvRw12) | [Trust \(Hold on Tight\), Live at Hsn Germany 2021](https://open.spotify.com/album/6k1coHwQPUZ0NVYqbVlqPl) | 5:17 | 2021-10-31 | 2022-07-29 |
-| [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 | 2023-02-08 |  |
+| [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 | 2023-02-08 | 2023-05-30 |
 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 | 2023-02-08 |  |
 | [Unshakable Love](https://open.spotify.com/track/1HXkhm3VgTwqtHUDzKT3GY) | [Elevation Youth](https://open.spotify.com/artist/2lmkAeBbKuATAqV9Zq81j4) | [Unshakable Love](https://open.spotify.com/album/5DCIWSIAV8ZSe52kYLlnSV) | 3:12 | 2021-10-31 | 2022-04-30 |
 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 | 2021-10-31 | 2023-02-08 |

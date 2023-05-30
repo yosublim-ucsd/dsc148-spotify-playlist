@@ -4,7 +4,7 @@
 
 > New music from Lil Durk, Moneybagg Yo and Kodak Black.
 
-1,632 songs - 3 day 12 hr 9 min
+1,633 songs - 3 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,7 +918,7 @@
 | [Neighbors \(feat\. BIG30\)](https://open.spotify.com/track/2xlOJSbScxrHHOmlNmILpD) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 2:51 | 2021-02-26 | 2021-05-15 |
 | [Neighbors Know My Name](https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 1:44 | 2022-02-04 | 2022-02-12 |
 | [Never Change \(feat\. Future\)](https://open.spotify.com/track/6BfdcIPOdGPMxlLKhgDW4f) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pegasus](https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG) | 2:53 | 2020-10-30 | 2020-11-06 |
-| [Never Imagined \(feat\. Future\)](https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:12 | 2023-05-26 |  |
+| [Never Imagined \(feat\. Future\)](https://open.spotify.com/track/4fbXBeVeqzZ0SmJQcWm4St) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:12 | 2023-05-26 | 2023-05-30 |
 | [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2021-05-12 | 2021-09-04 |
 | [Never Lie \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/0CLhMOVhX6TaPpugYkEsge) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Never Lie \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/6w9XKjOZTLF7CBhA5P6LOB) | 3:33 | 2019-08-23 | 2019-09-06 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 | 2022-10-29 |
@@ -1036,6 +1036,7 @@
 | [Payroll \(feat\. Payroll Giovanni\)](https://open.spotify.com/track/1BqFVpfIxPQ4baEGe7hxgr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Payroll \(feat\. Payroll Giovanni\)](https://open.spotify.com/album/13JnCzHdCybhKTDWBVenFy) | 3:38 | 2020-03-20 | 2020-05-01 |
 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74) | 3:23 | 2023-05-05 |  |
 | [PEEP HOLE](https://open.spotify.com/track/5l9A0gsS7w2GcQXQr3zxiC) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [PEEP HOLE](https://open.spotify.com/album/3iN0xzE19FVAFK78ZUZhLo) | 2:16 | 2020-08-04 | 2020-08-14 |
+| [Pelle Coat](https://open.spotify.com/track/6KlqjCLNImX7W9zYt2Xa7D) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 4:13 | 2023-05-28 |  |
 | [Perfect](https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [No Pressure](https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8) | 1:40 | 2020-07-24 | 2020-08-14 |
 | [Perfectionist](https://open.spotify.com/track/1vPvogmqsSQLUx0Kpha08X) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:47 | 2023-05-12 | 2023-05-27 |
 | [Peta \(feat\. Meek Mill\)](https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:18 | 2019-12-06 | 2020-02-14 |

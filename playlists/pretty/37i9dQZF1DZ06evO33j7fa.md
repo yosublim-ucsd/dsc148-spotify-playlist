@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,377 likes - 33 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,449 likes - 33 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 32 | [Milk And Honey](https://open.spotify.com/track/177sqIhTfzg8PSioaKQ4WI) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 2:59 |
 | 33 | [Magic \- Orchestrated Version 2](https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:45 |
 
-Snapshot ID: `MjgwODY1NDUsMDAwMDAwMDA2YTU2OWRmZDhhYjEwOWNiNjE1ODc4NzZjMjU1ZDdhNg==`
+Snapshot ID: `MjgwODkzNzQsMDAwMDAwMDBmOTViNjc4OGM1MGFmNzZiYjZhMzJkMzcyMzUyMTk3Nw==`

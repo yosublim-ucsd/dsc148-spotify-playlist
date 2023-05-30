@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-353 songs - 21 hr 59 min
+354 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Pale](https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 3:10 | 2021-12-15 |  |
 | [Passive](https://open.spotify.com/track/7slyp653Si99N4yQcJ2E9T) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 4:10 | 2021-12-15 | 2022-09-22 |
 | [People](https://open.spotify.com/track/3ERlkLtr5K5C7VUqlDcNSR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:38 | 2021-12-15 | 2022-09-22 |
+| [Perseverance](https://open.spotify.com/track/7HZRHiaVhqY6h2cGf13WIk) | [Terrorvision](https://open.spotify.com/artist/3jNwnthjUjHYvjyvRGfWuQ) | [Regular Urban Survivors](https://open.spotify.com/album/2doePSnN8F3dTh7CTsjGfR) | 3:11 | 2023-05-15 |  |
 | [Plans](https://open.spotify.com/track/3eiji7wigSbfalSTfciVCE) | [Fort Hope](https://open.spotify.com/artist/6YT8OB3iuoB58qaSmP0bgt) | [Fort Hope \- EP](https://open.spotify.com/album/5UoHwqklP3aC4Y5bzPEUFe) | 3:40 | 2022-02-02 | 2022-07-27 |
 | [Potential Vote](https://open.spotify.com/track/5hTc2eRfVdqNHoeFkwj1hR) | [Sixpack](https://open.spotify.com/artist/55vrGk8cpazVLoMS0aAEZy) | [Reading History](https://open.spotify.com/album/50vVtu3sMdMSGjT6AHGyNb) | 3:24 | 2021-12-15 | 2022-07-27 |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2022-06-23 |  |
@@ -278,7 +279,7 @@
 | [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 | 2023-04-29 | 2023-05-12 |
 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 | 2021-12-15 |  |
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2021-12-15 | 2022-07-29 |
-| [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 |  |
+| [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 | 2023-05-30 |
 | [Succubus](https://open.spotify.com/track/6Dunt2D6P0zuWM8XvusCAm) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Dream Soda](https://open.spotify.com/album/5OZyAu46HVgniWby7lqAWD) | 3:41 | 2021-12-15 | 2022-01-29 |
 | [Sunday](https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [A Thousand Leaves](https://open.spotify.com/album/2SDi8NTSiq6qQ2WTkrp9X4) | 4:51 | 2023-03-29 |  |
 | [Super\-fire](https://open.spotify.com/track/1eZDNesUK5TuhHikfQ8K6U) | [Girls Against Boys](https://open.spotify.com/artist/33HLOae9rhJfw6Mh0e8g5r) | [House of GVSB](https://open.spotify.com/album/2h0DWaP2Etm0F6NyoRFziW) | 3:18 | 2021-12-15 | 2022-07-26 |

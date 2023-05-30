@@ -155,6 +155,32 @@
     },
     {
       "album": {
+        "name": "Alone (Remixes)",
+        "url": "https://open.spotify.com/album/6Q8RITdKQdxrTnyQk5o36v"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Kuyamagik",
+          "url": "https://open.spotify.com/artist/5vMjcKweHaRq40T2J8gCBB"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154771,
+      "name": "Alone - Sped Up",
+      "url": "https://open.spotify.com/track/0bP2gcYVzCX0vMClaiugnO"
+    },
+    {
+      "album": {
         "name": "Alternative Girl (Slowed/Sped Up + Reverb)",
         "url": "https://open.spotify.com/album/07Q2bdlMtshCPpC1gG5YGv"
       },
@@ -224,7 +250,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 183456,
       "name": "Bananza (Belly Dancer) - Sped Up",
       "url": "https://open.spotify.com/track/5QkLSv4fVAJpRdlj9MpyRW"
@@ -542,7 +568,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 275022,
       "name": "Crazy Rap (Colt 45 & 2 Zig Zags) - Sped Up",
       "url": "https://open.spotify.com/track/3meQlpP5dmIg6wRBAzsqpb"
@@ -1056,6 +1082,28 @@
       "duration_ms": 142229,
       "name": "GOATED. - Sped Up",
       "url": "https://open.spotify.com/track/6WRVHlO5WduhRIKfLiuEwz"
+    },
+    {
+      "album": {
+        "name": "goingoutsad (Sped Up)",
+        "url": "https://open.spotify.com/album/2Ot0Mbydr4jvpSazFjonkM"
+      },
+      "artists": [
+        {
+          "name": "keltiey",
+          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
+        },
+        {
+          "name": "Nightcore Warped",
+          "url": "https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101694,
+      "name": "goingoutsad (Sped Up)",
+      "url": "https://open.spotify.com/track/0mcWCh3DHsU2aGVul9yaw1"
     },
     {
       "album": {
@@ -1824,6 +1872,24 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
+    },
+    {
+      "album": {
+        "name": "moonlight (kali uchis) [sped up version]",
+        "url": "https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1"
+      },
+      "artists": [
+        {
+          "name": "sped up viral",
+          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156436,
+      "name": "moonlight (kali uchis) - sped up version",
+      "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
     },
     {
       "album": {
@@ -3086,7 +3152,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 150533,
       "name": "You Can Buy Everything - Sped Up",
       "url": "https://open.spotify.com/track/2TVNwJdQ2KOYOHucDP9IUi"

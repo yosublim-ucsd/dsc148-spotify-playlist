@@ -2,7 +2,7 @@
 
 ### [Svensk Punk](https://open.spotify.com/playlist/37i9dQZF1DX4IkJGKNp9lO)
 
-> Svensk punk från förr och nu.
+> 
 
 236 songs - 11 hr 22 min
 

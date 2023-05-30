@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-664 songs - 1 day 9 hr 28 min
+665 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ALONE \(feat\. Trippie Redd\)](https://open.spotify.com/track/3nifv7CIkBQTOKzATNEGNK) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Ethereal](https://open.spotify.com/album/5C1X3siQg4Q3wLWorK5i0z) | 2:16 | 2022-02-11 | 2022-02-19 |
 | [alotta cake](https://open.spotify.com/track/2iCDO8ePNuCvMiMFc0FQdA) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 3:13 | 2022-01-07 | 2022-01-15 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-12-02 | 2022-03-19 |
+| [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:55 | 2023-05-19 |  |
 | [Angetenar](https://open.spotify.com/track/04aulIHjjQyDVUUmaFDy8w) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Angetenar](https://open.spotify.com/album/6K83Cr0asAWWx1vo6uJNAX) | 3:10 | 2022-04-20 | 2022-07-06 |
 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM) | 2:08 | 2021-09-30 | 2022-06-19 |
 | [Axel F](https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc) | [Crazy Frog](https://open.spotify.com/artist/4J3wzDMI97AlGimdiVcaLb) | [Crazy Frog presents Crazy Hits](https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY) | 2:48 | 2021-12-09 | 2021-12-23 |
@@ -87,7 +88,7 @@
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-15 | 2023-04-15 |
 | [Calling My Phone](https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:25 | 2021-11-10 | 2023-03-25 |
 | [can't leave without it](https://open.spotify.com/track/0hPLZrnDgtKxrym1BHjDhd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:25 | 2021-12-09 | 2021-12-23 |
-| [CAREFUL](https://open.spotify.com/track/7FET9gtiECWn7llt0sfvtU) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:29 | 2023-04-07 |  |
+| [CAREFUL](https://open.spotify.com/track/7FET9gtiECWn7llt0sfvtU) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 3:29 | 2023-04-07 | 2023-05-30 |
 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 | 2022-06-24 | 2022-06-26 |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2021-12-09 | 2021-12-23 |
 | [Chanel Bag](https://open.spotify.com/track/4d16JADh71pTeqx0vlHL69) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Chanel Bag](https://open.spotify.com/album/5Rfy71lgBW15gak3OtNHBQ) | 2:38 | 2022-04-02 | 2022-07-29 |

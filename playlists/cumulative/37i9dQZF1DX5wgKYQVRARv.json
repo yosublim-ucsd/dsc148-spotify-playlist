@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Blind Lead the Blind (Single Edit) - Instrumental",
+      "url": "https://open.spotify.com/track/0us13tL2Pzfm3YO6W0CCMc"
+    },
+    {
+      "album": {
         "name": "Blind Lead the Blind",
         "url": "https://open.spotify.com/album/2V7CF3U5UTrmbB6AoZOEiW"
       },
@@ -7838,7 +7856,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 269074,
       "name": "Sardonyx",
       "url": "https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk"

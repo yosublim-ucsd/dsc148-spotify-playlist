@@ -2,7 +2,7 @@
 
 ### [This Is SMTOWN](https://open.spotify.com/playlist/37i9dQZF1DWWRPNrrjHe9m)
 
-> Hear all of SMTOWN's biggest and best hits in one playlist.
+> 
 
 207 songs - 13 hr 21 min
 

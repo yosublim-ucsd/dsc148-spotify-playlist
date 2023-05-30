@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,601 likes - 126 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,819 likes - 126 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

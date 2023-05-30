@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-94 songs - 5 hr 17 min
+95 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 | 2023-05-25 |  |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 |  |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 |  |
+| [E Preeti](https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Preeti](https://open.spotify.com/album/65sytc26MQaDBrib5Dc4ml) | 2:48 | 2023-05-29 |  |
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 |  |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 |  |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 |  |

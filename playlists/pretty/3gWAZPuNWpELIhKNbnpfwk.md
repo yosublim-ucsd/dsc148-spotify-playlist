@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 ### [Synthwave \| Retro \| 80s Vaporwave](https://open.spotify.com/playlist/3gWAZPuNWpELIhKNbnpfwk)
 
-> 
+> Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 162,175 likes - 130 songs - 9 hr 31 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 162,134 likes - 130 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 129 | [Stars of the Night](https://open.spotify.com/track/7LxMlmPxMdm6tm58F7ykxm) | [Dynatron](https://open.spotify.com/artist/0SkwL0prvhD2CWyqj0vlF6) | [The Legacy Collection, Vol\. II](https://open.spotify.com/album/0cGJHeAxaQEkitESU7gN8c) | 5:48 |
 | 130 | [Arrival](https://open.spotify.com/track/0LGIEqMP9sc0UqZJ5uk4zF) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:27 |
 
-Snapshot ID: `NzMxLDRjYTUyODA0OGU4NTJmNTcyMGZkNDhkZTBmOGE3ZDQ0YTg2ZDRiYzE=`
+Snapshot ID: `NzM0LDcxMzliNzI3MWIxMjMzYjg0NGFkMzE4Y2U1MjE4ZTY2NDEzYmYzMzU=`

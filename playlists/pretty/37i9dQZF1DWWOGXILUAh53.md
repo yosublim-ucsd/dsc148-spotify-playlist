@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kelly Clarkson x David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,838 likes - 90 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,045 likes - 90 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

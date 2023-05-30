@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Armin van Buuren
 
-307 songs - 16 hr 32 min
+308 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [INTO THE UNKNOWN](https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:58 | 2022-09-15 | 2023-04-11 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 | 2022-07-28 | 2022-09-12 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-04-14 | 2022-07-29 |
+| [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-05-25 |  |
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-20 |  |
 | [Keep Moving](https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Keep Moving](https://open.spotify.com/album/169CFMX9eGD379MAPwLEud) | 2:26 | 2022-06-30 | 2023-04-09 |
 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 | 2022-04-14 | 2022-10-28 |
@@ -161,7 +162,7 @@
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |
 | [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 |  |
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-04-14 | 2022-07-29 |
-| [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 |  |
+| [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 | 2023-05-30 |
 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 | 2023-02-02 |  |
 | [Massive](https://open.spotify.com/track/41NEHLGt9hJul5U0IBad8b) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Massive](https://open.spotify.com/album/13KY2D8oRoXqvuz3JrwlPg) | 3:11 | 2022-04-21 | 2022-05-28 |
 | [Melody](https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Melody](https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt) | 2:33 | 2022-04-14 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:55EarwWraRQY9diMo9Oeul”>Deb Never</a>
 
-909 songs - 2 day 1 hr 3 min
+910 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2023-03-01 | 2023-04-06 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2022-05-04 | 2022-06-01 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-03-08 | 2022-04-07 |
-| [bingo](https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [breeze](https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI) | 1:24 | 2023-05-05 |  |
+| [bingo](https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [breeze](https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI) | 1:24 | 2023-05-05 | 2023-05-30 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-08 | 2022-04-07 |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2023-03-01 | 2023-04-06 |
 | [Bitch Bites Dog](https://open.spotify.com/track/78xCI7hkmeiveXBP4uhYww) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 3:32 | 2022-02-02 | 2022-03-09 |
@@ -720,6 +720,7 @@
 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 | 2022-10-05 | 2022-11-03 |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-02-01 | 2023-03-02 |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-10-05 | 2022-12-01 |
+| [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-05-05 |  |
 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 | 2023-05-03 | 2023-05-24 |
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-01 | 2022-01-06 |
 | [Silver Into Rain](https://open.spotify.com/track/6YP6K5XpZMIJ7WwQr2Wa6h) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/2T2LSGT5K9mw9miI1CQB5B) | 3:21 | 2022-05-04 | 2022-06-01 |

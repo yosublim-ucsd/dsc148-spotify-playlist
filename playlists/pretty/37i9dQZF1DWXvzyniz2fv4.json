@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 147830,
+  "num_followers": 147960,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "ELA ME TEM",
         "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 147200,
       "name": "ELA ME TEM",
       "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Spoiler",
         "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
       },
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     }
   ],
   "unique_name": "Resenha na Praia",

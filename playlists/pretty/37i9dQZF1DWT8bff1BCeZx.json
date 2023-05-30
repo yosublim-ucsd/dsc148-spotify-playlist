@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 1722,
+  "num_followers": 1799,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "The Assignment",
         "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 245333,
       "name": "Ope Mi",
       "url": "https://open.spotify.com/track/5Tf3Pu5PUTzdKysGXnijAQ"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -487,26 +487,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Taking Care",
-        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Taking Care - Remix",
-      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
@@ -521,20 +501,40 @@
       "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
     },
     {
-      "added_at": "2023-04-14 16:41:04",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
         }
       ],
-      "duration_ms": 628354,
-      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
-      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
+      "duration_ms": 227962,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
+        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 417533,
+      "name": "Tambira Jehova",
+      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -555,18 +555,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Vol. 15: Live At The ICC Arena Durban - My Gift To You",
-        "url": "https://open.spotify.com/album/7oRxjkbJPrlps1xsyeT0sO"
+        "name": "Taking Care",
+        "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 417533,
-      "name": "Tambira Jehova",
-      "url": "https://open.spotify.com/track/7vMK0yMrE3I8KIaEgaAq2r"
+      "duration_ms": 222315,
+      "name": "Taking Care - Remix",
+      "url": "https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -735,6 +739,38 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 139385,
+      "name": "Jehovah Praise",
+      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 628354,
+      "name": "Worthy Is the Lamb (Hallelujah Challenge Praise Medley 2)",
+      "url": "https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "On Top of the World",
         "url": "https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn"
       },
@@ -747,6 +783,26 @@
       "duration_ms": 289008,
       "name": "Turn Me Around",
       "url": "https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu"
+    },
+    {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "Now I See",
+        "url": "https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9"
+      },
+      "artists": [
+        {
+          "name": "MUNACHi4u",
+          "url": "https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao"
+        },
+        {
+          "name": "Mr. DDavid",
+          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "Now I See",
+      "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -787,18 +843,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
         }
       ],
-      "duration_ms": 139385,
-      "name": "Jehovah Praise",
-      "url": "https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf"
+      "duration_ms": 279764,
+      "name": "Afro Praise 1",
+      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -819,42 +875,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Colours of Africa: Live in London",
-        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
-      },
-      "artists": [
-        {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
-        }
-      ],
-      "duration_ms": 279764,
-      "name": "Afro Praise 1",
-      "url": "https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c"
-    },
-    {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "Now I See",
-        "url": "https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9"
-      },
-      "artists": [
-        {
-          "name": "MUNACHi4u",
-          "url": "https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao"
-        },
-        {
-          "name": "Mr. DDavid",
-          "url": "https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "Now I See",
-      "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Bianule",
         "url": "https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 284080,
       "name": "Bianule",
       "url": "https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm"
-    },
-    {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        },
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 227962,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
     },
     {
       "added_at": "2023-04-14 16:41:04",

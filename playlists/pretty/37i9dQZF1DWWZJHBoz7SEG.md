@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Yng Lvcas, Grupo Frontera, Peso Pluma, Dua Lipa, Sofia Reyes y Danna Paola: aquí están los nuevos lanzamientos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,062 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,266 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

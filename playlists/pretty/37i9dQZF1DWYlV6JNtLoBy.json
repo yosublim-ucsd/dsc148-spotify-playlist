@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 722,
+  "num_followers": 757,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 304680,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Tawala",
         "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Narudisha",
         "url": "https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 269688,
       "name": "Narudisha",
       "url": "https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 291657,
-      "name": "Tasted Of Your Power",
-      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
+      "duration_ms": 249026,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+      },
+      "artists": [
+        {
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Sweetie Sweetie",
         "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
@@ -331,6 +331,26 @@
       "duration_ms": 316473,
       "name": "Sweetie Sweetie",
       "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+      },
+      "artists": [
+        {
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+        },
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+        }
+      ],
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -367,54 +387,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
-        },
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
-      },
-      "artists": [
-        {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+      "duration_ms": 291657,
+      "name": "Tasted Of Your Power",
+      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -431,6 +415,22 @@
       "duration_ms": 347593,
       "name": "Ipo Siku",
       "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+        }
+      ],
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Hapa Nilipo",
         "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
@@ -495,42 +511,6 @@
       "duration_ms": 270968,
       "name": "Uliniumba Nikuabudu",
       "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
-        }
-      ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -565,6 +545,42 @@
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
+        }
+      ],
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "Thamani Ya Wokovu",
+      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
+    },
+    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Wewe ni mungu",
@@ -583,6 +599,26 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Tulia",
+        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
+      },
+      "artists": [
+        {
+          "name": "Benachi",
+          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
+        },
+        {
+          "name": "kaberere",
+          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
+        }
+      ],
+      "duration_ms": 216607,
+      "name": "Mwanake (feat. Kaberere)",
+      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Uinuliwe Baba",
         "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
       },
@@ -595,22 +631,6 @@
       "duration_ms": 418560,
       "name": "Yesu Nakupenda",
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thamani Ya Wokovu",
-      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -635,42 +655,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Tulia",
-        "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
-      },
-      "artists": [
-        {
-          "name": "Benachi",
-          "url": "https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD"
-        },
-        {
-          "name": "kaberere",
-          "url": "https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7"
-        }
-      ],
-      "duration_ms": 216607,
-      "name": "Mwanake (feat. Kaberere)",
-      "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Enjoy (Yo Blessings)",
-        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
-      },
-      "artists": [
-        {
-          "name": "Levixone",
-          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Enjoy (Yo Blessings)",
-      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Siteketei",
         "url": "https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Gharama",
-        "url": "https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z"
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
       },
       "artists": [
         {
-          "name": "Guardian Angel",
-          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
-        },
-        {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Gharama",
-      "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
     },
     {
       "added_at": "2023-05-12 00:01:00",
@@ -725,6 +705,26 @@
       "url": "https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX"
     },
     {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Gharama",
+        "url": "https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        },
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Gharama",
+      "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
+    },
+    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Mwema",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Pale Pale",
-        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
-      },
-      "artists": [
-        {
-          "name": "Size 8",
-          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
-        }
-      ],
-      "duration_ms": 210809,
-      "name": "Pale Pale",
-      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 277081,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Pale Pale",
+        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
+      },
+      "artists": [
+        {
+          "name": "Size 8",
+          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
+        }
+      ],
+      "duration_ms": 210809,
+      "name": "Pale Pale",
+      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
     },
     {
       "added_at": "2023-04-06 20:59:00",

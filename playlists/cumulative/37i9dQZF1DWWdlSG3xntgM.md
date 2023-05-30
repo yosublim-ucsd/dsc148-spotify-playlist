@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
 191 songs - 16 hr 17 min
 
@@ -63,7 +63,7 @@
 | [Hồn Trinh Nữ](https://open.spotify.com/track/63ARxrKTXP3AXmcas34U7S) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Hồn Trinh Nữ](https://open.spotify.com/album/1QzEsp11RmZmLG0fRnUMrJ) | 5:01 | 2022-03-11 | 2022-07-27 |
 | [Khong Gio Roi \(feat\. Truong Vu\)](https://open.spotify.com/track/1Kinxed6RGvVnPAMhgRDgw) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Khong Gio Roi](https://open.spotify.com/album/1DiR2MBcORbrbhnpqNLJc9) | 5:12 | 2022-03-11 | 2022-07-28 |
 | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/track/0nxkkjvAmUl7mviO0al76E) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Khuya Nay Anh Đi Rồi](https://open.spotify.com/album/56qWlLfGOyVkCLqj8w682V) | 4:13 | 2022-03-11 | 2022-07-25 |
-| [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 | 2022-03-11 | 2023-05-24 |
+| [Không Bao Giờ Quên Anh](https://open.spotify.com/track/4hY9mmmaps6GIR0MEUrqpZ) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:07 | 2022-03-11 |  |
 | [Không Giờ Rồi](https://open.spotify.com/track/0AXJI72yrYKt5XMgu8zYFn) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Kiếp Nghèo](https://open.spotify.com/album/31GoVkL7i5uNuF7TReZtG2) | 4:37 | 2022-03-11 | 2022-07-29 |
 | [Không Giờ Rồi](https://open.spotify.com/track/4UdycZeTpOihYrfojvoQhB) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhớ Người Yêu](https://open.spotify.com/album/6C3EJ1gluECmodQm2ZXtl1) | 3:34 | 2022-03-11 | 2022-07-23 |
 | [Không Giờ Rồi](https://open.spotify.com/track/4hCo5F8lu2qeVYEUgOX9Ba) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Không Giờ Rồi](https://open.spotify.com/album/5kWpxGSD5nHD9hKN1dMFtN) | 5:12 | 2022-03-11 |  |
@@ -184,7 +184,7 @@
 | [Xuân Này Con Không Về](https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Bến Xuân](https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ) | 4:45 | 2023-01-17 |  |
 | [Xuân này con về mẹ ở đâu](https://open.spotify.com/track/4G6pLDWfTKAXJINPDQsZC2) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mừng Xuân Năm 2016](https://open.spotify.com/album/3iya7kk0t0kMYSCGd0R901) | 4:15 | 2023-01-17 | 2023-05-24 |
 | [Xuân Này Con Về Mẹ Ở Đâu?](https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [7000 Đêm Góp Lại](https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8) | 4:48 | 2022-03-11 |  |
-| [Xuân Xa Mẹ](https://open.spotify.com/track/3UhzjoXWr64hFled827ran) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 5:21 | 2023-01-17 |  |
+| [Xuân Xa Mẹ](https://open.spotify.com/track/3UhzjoXWr64hFled827ran) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 5:21 | 2023-01-17 | 2023-05-30 |
 | [Xót Xa](https://open.spotify.com/track/1DgAqO1ZHP6YleeFWVB9QF) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 4:58 | 2022-03-11 | 2022-07-29 |
 | [Xót Xa](https://open.spotify.com/track/3iCgmCxnEaDWv1FVoemabY) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:58 | 2022-03-11 | 2022-08-22 |
 | [Đan Áo Mùa Xuân](https://open.spotify.com/track/7tKasGTZkxgMlecOn1lnLy) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Khúc Hát Ân Tình](https://open.spotify.com/album/27Xa31rVYooEEit5tFLpGP) | 5:19 | 2023-01-17 |  |

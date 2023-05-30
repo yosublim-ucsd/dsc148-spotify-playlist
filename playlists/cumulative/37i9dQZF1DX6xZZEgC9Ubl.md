@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-810 songs - 1 day 12 hr 47 min
+811 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [CALL!](https://open.spotify.com/track/6nGnG6NsO77qRkXa9eqDna) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [HABITS](https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9) | 2:50 | 2022-10-07 | 2022-10-15 |
 | [Can You Help Me](https://open.spotify.com/track/72D79mMBu1fs0DbnUU7Ecq) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Can You Help Me](https://open.spotify.com/album/0SkVwoOczCEidtYJomzX8m) | 2:53 | 2021-01-15 | 2021-06-19 |
 | [Can't Be Love](https://open.spotify.com/track/5FMnEM2HhI6OqyXeRt1o0U) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Can't Be Love](https://open.spotify.com/album/0j896bKYQQ6tMcNkJvSvk1) | 2:26 | 2021-07-17 | 2022-07-29 |
-| [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/track/103iTEPJwc4MththlvRakh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/album/2oB2P5aH5oQVDxl1JoG3Ub) | 3:04 | 2023-01-20 |  |
+| [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/track/103iTEPJwc4MththlvRakh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/album/2oB2P5aH5oQVDxl1JoG3Ub) | 3:04 | 2023-01-20 | 2023-05-30 |
 | [Can't Compare](https://open.spotify.com/track/50KRLdhLfusFkAP5rxxJpb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Can't Compare](https://open.spotify.com/album/4dFCj85FXWzNqOdXEgE2Zf) | 3:16 | 2021-03-26 | 2021-04-24 |
 | [Can't Leave](https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Can't Leave](https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9) | 2:54 | 2023-01-20 | 2023-04-19 |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-07-22 |  |
@@ -760,6 +760,7 @@
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-11-12 | 2022-04-13 |
 | [Wait On Me](https://open.spotify.com/track/6DIuYHUgyenHApecvZmVXo) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Wait On Me](https://open.spotify.com/album/2w1Q9PhvuFxTyEZYe5Arph) | 3:10 | 2021-09-17 | 2022-04-20 |
 | [WALKING BACKWARDS](https://open.spotify.com/track/6Sw12MIPAzOmuqHr9CYxGw) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [WALKING BACKWARDS](https://open.spotify.com/album/03EEAPqeqGYB3gDbD3cRuJ) | 3:04 | 2021-10-29 | 2022-04-21 |
+| [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [wallflower \(feat\. Ouse & Snøw\)](https://open.spotify.com/album/45ZhRluyUrfxPeRXlryi2L) | 3:17 | 2023-05-26 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-11-09 |  |
 | [Waste My Time](https://open.spotify.com/track/0QGPUHXzDnSfuQiel2NY3y) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Somethjngs Wrong](https://open.spotify.com/album/7sxn8a7d5TY8NpgoFFEA4j) | 3:06 | 2020-12-13\* | 2021-01-05 |
 | [Wasted](https://open.spotify.com/track/7dDH2I1Jldc2SXMA183sHT) | [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4), [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [Weepings](https://open.spotify.com/artist/2ZKf1mXobEQ7YwiOqteyL7), [American Dead Cross](https://open.spotify.com/artist/34Dax4BzzztDBGblPWsUJ2), [Two:22](https://open.spotify.com/artist/7pdO2N04Ggcu8tC3BqWUDc) | [Wasted](https://open.spotify.com/album/2i2Yx89ExIxgtjTjfKBVyG) | 3:16 | 2022-07-15 | 2022-07-20 |

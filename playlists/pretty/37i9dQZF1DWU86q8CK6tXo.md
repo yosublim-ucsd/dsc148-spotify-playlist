@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:55EarwWraRQY9diMo9Oeul”>Deb Never</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,435 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,427 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [HOW DARE YOU](https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [HOW DARE YOU](https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih) | 3:02 |
 | 42 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 |
 | 43 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 |
-| 44 | [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 |
-| 45 | [bingo](https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [breeze](https://open.spotify.com/album/5KXabmouzMRbYOfqtSCNhI) | 1:24 |
+| 44 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 |
+| 45 | [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 |
 
 Snapshot ID: `MCxhZmNiY2IwN2VjNmE0M2UxMGY1NWMxZmFlYjI3ZTNhZjc2MDAwYWJk`

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-336 songs - 1 day 7 hr 15 min
+337 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 |  |
 | [Adventure Of A Lifetime](https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/2pdW1q8PwPIwx2SXHLNyzB) | 4:59 | 2020-05-02\* | 2021-08-20 |
 | [Afflicted](https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f) | [Jonas Sorgenfrei](https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Peter Christof](https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4) | [Afflicted](https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA) | 4:21 | 2022-03-25 | 2022-11-23 |
+| [Alfie](https://open.spotify.com/track/3kyRABq5NomwUwGpqVqecM) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 8:19 | 2023-05-25 |  |
 | [Alfie](https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Alfie](https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY) | 8:19 | 2023-03-16 | 2023-05-01 |
 | [All Alone](https://open.spotify.com/track/6TAW00MAPvS59yEoIgtOEI) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [All Alone](https://open.spotify.com/album/0GpkwiJKo7ogyjHGML8iay) | 5:10 | 2020-05-02\* | 2021-03-24 |
 | [All I Need](https://open.spotify.com/track/7I63rA0w2lgv2iMaS7NRjY) | [Stéphane Kerecki Quartet](https://open.spotify.com/artist/20yiwcmp47i1fBanhJiVoy) | [French Touch](https://open.spotify.com/album/6x2XYBB5ROShuFabWJBMmn) | 7:12 | 2020-05-02\* | 2021-07-30 |
@@ -323,7 +324,7 @@
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 | 2023-04-03 |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 | 2023-04-26 |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
-| [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 |  |
+| [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 | 2023-05-30 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-07-21 | 2023-04-13 |
 | [When Sunny Smiles](https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [When Sunny Smiles](https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl) | 7:44 | 2021-03-10 | 2022-10-26 |

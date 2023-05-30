@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Brytiago",
-  "num_followers": 1526218,
+  "num_followers": 1526204,
   "original_name": "Trap Land",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -523,30 +507,6 @@
       "duration_ms": 184145,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -571,18 +531,26 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -615,6 +583,38 @@
       "duration_ms": 405473,
       "name": "Baby Father 2.0 (feat. Myke Towers, Arc\u00e1ngel, \u00d1engo Flow and Yeruza)",
       "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -663,54 +663,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 217954,
-      "name": "Peso a Peso",
-      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "Duki: Bzrp Music Sessions, Vol. 50",
         "url": "https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW"
       },
@@ -731,26 +683,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Glizzy Walk 2.5",
-        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
       "artists": [
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Hydro",
-          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 224248,
-      "name": "Glizzy Walk 2.5",
-      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -791,6 +739,30 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Glizzy Walk 2.5",
+        "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "duration_ms": 224248,
+      "name": "Glizzy Walk 2.5",
+      "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -807,6 +779,34 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 217954,
+      "name": "Peso a Peso",
+      "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 184072,
       "name": "Lately",
       "url": "https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "Drippin",
+        "url": "https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Drippin",
+      "url": "https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -955,6 +975,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Trap Vibes",
+        "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Dame Luz",
+      "url": "https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "6B (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45"
       },
@@ -983,42 +1019,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Drippin",
-        "url": "https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Drippin",
-      "url": "https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Trap Vibes",
-        "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Dame Luz",
-      "url": "https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "La Mini",
         "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+        "name": "Nosotros",
+        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 195426,
-      "name": "Pauta & Flow",
-      "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
+      "duration_ms": 262722,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Pauta & Flow",
+      "url": "https://open.spotify.com/track/3Zm01Ylx7FcCycdnOErkix"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "Super Gremlin (El Diablo Mix)",
         "url": "https://open.spotify.com/album/4gjKdtYzPBmVZPEZJ7aBPe"
       },
@@ -1111,6 +1127,54 @@
       "duration_ms": 239939,
       "name": "Super Gremlin - El Diablo Mix",
       "url": "https://open.spotify.com/track/62Li2RUfLV9bCSJFweIG9H"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "JETSKI (Remix)",
+        "url": "https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "JETSKI - Remix",
+      "url": "https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "Diamantes En Mis Dientes",
+        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 344602,
+      "name": "Diamantes en Mis Dientes",
+      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1147,50 +1211,6 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "JETSKI (Remix)",
-        "url": "https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "JETSKI - Remix",
-      "url": "https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Nosotros",
-        "url": "https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 262722,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Anfetamina",
-        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
-      },
-      "artists": [
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 236197,
-      "name": "Anfetamina",
-      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Anfetamina",
+        "url": "https://open.spotify.com/album/7J6peVThlSZeHce1YMyW9n"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 236197,
+      "name": "Anfetamina",
+      "url": "https://open.spotify.com/track/30gIEtWe6BawlVKlsgllKa"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "L3tra 2",
         "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
       },
@@ -1323,46 +1343,6 @@
       "duration_ms": 183428,
       "name": "Mention",
       "url": "https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Diamantes En Mis Dientes",
-        "url": "https://open.spotify.com/album/6RDNuiTLjCUCcGq1nR1aQT"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 344602,
-      "name": "Diamantes en Mis Dientes",
-      "url": "https://open.spotify.com/track/4bJ6YKzyVTnhOrSpccGQeN"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1387,22 +1367,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Problem Childs",
-        "url": "https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D"
+        "name": "UuU",
+        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
       },
       "artists": [
         {
-          "name": "Fresy Franklin",
-          "url": "https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t"
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
         },
         {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 238706,
-      "name": "Problem Childs",
-      "url": "https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7"
+      "duration_ms": 175840,
+      "name": "UuU",
+      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1423,18 +1403,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Conexiones",
-        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
+        "name": "Problem Childs",
+        "url": "https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Fresy Franklin",
+          "url": "https://open.spotify.com/artist/0y5H4Nr7bNWfBINIh8671t"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 201741,
-      "name": "Conexiones",
-      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
+      "duration_ms": 238706,
+      "name": "Problem Childs",
+      "url": "https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1451,6 +1435,22 @@
       "duration_ms": 186352,
       "name": "Tu Favorito",
       "url": "https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "Conexiones",
+        "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Conexiones",
+      "url": "https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Big Booty, Pretty Face",
-        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 227484,
-      "name": "Big Booty, Pretty Face",
-      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "XNO",
         "url": "https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Big Booty, Pretty Face",
+        "url": "https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 227484,
+      "name": "Big Booty, Pretty Face",
+      "url": "https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "Pa To' Los Combos",
         "url": "https://open.spotify.com/album/7yinu5ZWVI3S3qYBETiHbb"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "No More Tears",
         "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/52HFcMSiek3WJAPJYDvnT6"
       },
@@ -1735,6 +1735,42 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
+        "name": "Somos O No Somos",
+        "url": "https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 240049,
+      "name": "Somos O No Somos",
+      "url": "https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "No Hitter",
+        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 164062,
+      "name": "No Hitter",
+      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
         "name": "Hoy En Dia",
         "url": "https://open.spotify.com/album/55XiOVXxv8iuG7bBzI1GU1"
       },
@@ -1747,6 +1783,22 @@
       "duration_ms": 163333,
       "name": "Hoy En Dia",
       "url": "https://open.spotify.com/track/7nNkcIRoXZKYFqD3nVHt0n"
+    },
+    {
+      "added_at": "2023-05-26 21:48:20",
+      "album": {
+        "name": "El Anillo el Reloj",
+        "url": "https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "duration_ms": 172617,
+      "name": "El Anillo el Reloj",
+      "url": "https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1771,54 +1823,18 @@
     {
       "added_at": "2023-05-26 21:48:20",
       "album": {
-        "name": "El Anillo el Reloj",
-        "url": "https://open.spotify.com/album/4oQk366EGQWn2nmkBrFt8X"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 172617,
-      "name": "El Anillo el Reloj",
-      "url": "https://open.spotify.com/track/5Nj2GgTU78oXnqoZXQooDw"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "No Hitter",
-        "url": "https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "No Hitter",
-      "url": "https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Somos O No Somos",
-        "url": "https://open.spotify.com/album/33x35WmVHlcFK8C17Nhzpw"
+        "name": "Usala",
+        "url": "https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB"
       },
       "artists": [
         {
           "name": "Omy de Oro",
           "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 240049,
-      "name": "Somos O No Somos",
-      "url": "https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu"
+      "duration_ms": 194678,
+      "name": "Usala",
+      "url": "https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl"
     },
     {
       "added_at": "2023-05-26 21:48:20",
@@ -1875,22 +1891,6 @@
       "duration_ms": 174756,
       "name": "Hablando Claro 2",
       "url": "https://open.spotify.com/track/6WtFLzGMKMmY3Hvb1bl5pR"
-    },
-    {
-      "added_at": "2023-05-26 21:48:20",
-      "album": {
-        "name": "Usala",
-        "url": "https://open.spotify.com/album/102Qg6ICYQX6S8FJFrCjDB"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 194678,
-      "name": "Usala",
-      "url": "https://open.spotify.com/track/41vPhGqAax4hQocJ4lkOAl"
     },
     {
       "added_at": "2023-05-26 21:48:20",

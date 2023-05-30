@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-599 songs - 1 day 2 hr 51 min
+600 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
-| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-05-30 |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
@@ -567,6 +567,7 @@
 | [Unikko](https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX) | 3:14 | 2023-04-13 | 2023-04-15 |
 | [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 | 2023-04-13 |  |
 | [Universal Grammar](https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Universal Grammar](https://open.spotify.com/album/0BXbhd7CVpSr4qFkfapK0q) | 1:54 | 2022-02-24 | 2022-04-21 |
+| [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 |  |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [Views \- Instrumental](https://open.spotify.com/track/2T2V3tQ742UrCPMfYrMxz5) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views \(Instrumental\)](https://open.spotify.com/album/56WEsAYBimDZwH5cfMkkkh) | 1:51 | 2021-12-23 | 2022-07-23 |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-06 |

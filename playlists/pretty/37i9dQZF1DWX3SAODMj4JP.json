@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 106594,
+  "num_followers": 106968,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "comigo",
+        "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 293018,
+      "name": "comigo",
+      "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Tantos Mares",
         "url": "https://open.spotify.com/album/18fvdisM9gH3ZWH6ETAGBd"
       },
@@ -215,6 +235,22 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -243,74 +279,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 277692,
-      "name": "Me Deixe Aqui",
-      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "comigo",
-        "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 293018,
-      "name": "comigo",
-      "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
         "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
       },
@@ -327,22 +295,34 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Todos Um",
-        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Todos Um",
-      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+      "duration_ms": 277692,
+      "name": "Me Deixe Aqui",
+      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -375,6 +355,26 @@
       "duration_ms": 248398,
       "name": "Reina",
       "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Todos Um",
+        "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Todos Um",
+      "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT"
       },
@@ -519,22 +503,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
-      },
-      "artists": [
-        {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
-        }
-      ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "C\u00e2nticos I",
         "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
@@ -547,6 +515,38 @@
       "duration_ms": 266653,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+      },
+      "artists": [
+        {
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+        }
+      ],
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "sentido",
+        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 289985,
+      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
+      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "sentido",
-        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 289985,
-      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
-      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 302750,
       "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -643,22 +659,6 @@
       "duration_ms": 217373,
       "name": "Dear God - Acoustic",
       "url": "https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "III (Studio Sessions)",
-        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Infinito Amor",
         "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+        "name": "Simples Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
       },
       "artists": [
         {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         }
       ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+      "duration_ms": 242829,
+      "name": "Simples Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -883,22 +899,6 @@
       "duration_ms": 225230,
       "name": "Descansar em Ti",
       "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Simples Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Simples Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 277884,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Aprendiz",
-        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
-      },
-      "artists": [
-        {
-          "name": "Gabro",
-          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
-        }
-      ],
-      "duration_ms": 303071,
-      "name": "Cora\u00e7\u00e3o de Aprendiz",
-      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "O Banquete",
         "url": "https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 280760,
       "name": "Corpo I",
       "url": "https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Aprendiz",
+        "url": "https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz"
+      },
+      "artists": [
+        {
+          "name": "Gabro",
+          "url": "https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw"
+        }
+      ],
+      "duration_ms": 303071,
+      "name": "Cora\u00e7\u00e3o de Aprendiz",
+      "url": "https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy"
     }
   ],
   "unique_name": "Chocolate Crente",

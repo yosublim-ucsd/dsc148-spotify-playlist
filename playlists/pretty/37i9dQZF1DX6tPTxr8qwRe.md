@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,710 likes - 72 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,937 likes - 72 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

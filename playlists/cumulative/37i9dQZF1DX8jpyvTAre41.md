@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Måneskin
 
-633 songs - 1 day 11 hr 52 min
+634 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,8 @@
 | [Respectfully](https://open.spotify.com/track/59ezMUPbbZ5xR8HAtGr24s) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Respectfully](https://open.spotify.com/album/1diIxbKoyP2QdHGU0cKKTs) | 2:30 | 2021-12-31 | 2022-02-26 |
 | [Reverse the Curse](https://open.spotify.com/track/0618dwZ3KXzP71tuGsVhq0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Reverse the Curse](https://open.spotify.com/album/5IlyN5Kvcomt1cR5Kv43Oo) | 3:54 | 2022-04-22 | 2022-05-20 |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-03-11 | 2022-04-29 |
-| [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2022-11-25 |  |
+| [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2022-11-25 | 2023-05-30 |
+| [Ricochet](https://open.spotify.com/track/0MB75iaoYg55vfddaRfCi8) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Camaro \- EP](https://open.spotify.com/album/0rfX5CuXrI3VLcgcWoZRtl) | 2:57 | 2023-05-26 |  |
 | [Right Here](https://open.spotify.com/track/0G6I0dl2cIditsaqLt608y) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 2:55 | 2022-02-18 | 2022-03-26 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-13 | 2022-10-01 |
 | [Robbery](https://open.spotify.com/track/2QwrcxUvwVxvNjk83Xsrf6) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Robbery](https://open.spotify.com/album/2Grp2EjKlLzlZYZBHk9Q6h) | 2:28 | 2022-08-26 | 2023-05-16 |

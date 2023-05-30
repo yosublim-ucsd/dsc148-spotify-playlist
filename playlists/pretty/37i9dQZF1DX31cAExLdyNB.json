@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 60949,
+  "num_followers": 61004,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219799,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219799,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 213896,
+      "name": "Lilas",
+      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Daikiri",
         "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 176120,
       "name": "Temporal",
       "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "\u018eD\u00c9N",
-        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 213896,
-      "name": "Lilas",
-      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Las Vegas",
-        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 256109,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 187348,
       "name": "FIXXI\u00d3N",
       "url": "https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Las Vegas",
+        "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 256109,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "LLUVIA",
         "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
       },
@@ -987,22 +971,6 @@
       "duration_ms": 218171,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1023,6 +991,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Ca\u00edda Libre",
         "url": "https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "THREE STRIKES (feat. Khalid)",
         "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
@@ -1087,26 +1107,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Mirada Speed",
         "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 202177,
-      "name": "Tears At Bae",
-      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Drinkee (Radio Edit)",
         "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 191468,
       "name": "Drinkee (Radio Edit)",
       "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 202177,
+      "name": "Tears At Bae",
+      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
     },
     {
       "added_at": "2023-03-10 05:01:00",

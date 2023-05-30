@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-323 songs - 15 hr 50 min
+324 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [I Know](https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Dima Sick](https://open.spotify.com/artist/5P0zuWTeouNGTD5fRY9mvZ) | [I Know](https://open.spotify.com/album/4lXiRez0XOGF03semVTOiI) | 2:22 | 2021-10-29 | 2022-03-08 |
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 |  |
 | [I WANT](https://open.spotify.com/track/6tkQHOd8Wgf2ZpecK9sXGs) | [G\-Pol](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Lambi](https://open.spotify.com/artist/0kcZZU0MJOYaosYfTfAa0H) | [I WANT](https://open.spotify.com/album/3TxoC4oZUoxlGAXa6qNfWO) | 2:50 | 2022-01-21 | 2022-02-02 |
-| [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 |  |
+| [IDGAF](https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Rell Rock](https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq) | [IDGAF](https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG) | 3:00 | 2022-06-10 | 2023-05-30 |
 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 | 2022-09-09 | 2023-01-06 |
 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/60eBNPOrnPEY2Ao4RIdw12) | 2:33 | 2021-10-29 | 2022-07-29 |
 | [In My Head \(On My Mind\)](https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA) | 2:33 | 2022-07-22 | 2022-08-06 |
@@ -239,6 +239,7 @@
 | [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 | 2023-05-13 |
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |
+| [Patron](https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Patron](https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX) | 2:49 | 2023-05-26 |  |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-28 | 2022-08-27 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-10-29 | 2022-11-12 |
 | [Policia](https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Policia](https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM) | 3:31 | 2022-04-29 | 2023-04-23 |

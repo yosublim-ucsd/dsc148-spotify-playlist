@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Listen to all your favorite Disney Princess songs including songs from The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,995 likes - 56 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,451 likes - 56 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

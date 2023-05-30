@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. noahfinnce
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,813 likes - 84 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,865 likes - 84 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

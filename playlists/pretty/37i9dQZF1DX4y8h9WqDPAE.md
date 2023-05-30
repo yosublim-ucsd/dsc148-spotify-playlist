@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782,439 likes - 124 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782,510 likes - 124 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

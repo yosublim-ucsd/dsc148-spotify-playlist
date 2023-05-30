@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 813,
+  "num_followers": 842,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
         }
       ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -239,42 +239,6 @@
       "duration_ms": 290527,
       "name": "Adom Grace",
       "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "The Pen Of A Ready Writer",
-        "url": "https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr"
-      },
-      "artists": [
-        {
-          "name": "Louis Pascal",
-          "url": "https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 144169,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -307,6 +271,22 @@
       "duration_ms": 241146,
       "name": "Yesu Mo",
       "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -347,18 +327,38 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+        "name": "The Pen Of A Ready Writer",
+        "url": "https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr"
       },
       "artists": [
         {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+          "name": "Louis Pascal",
+          "url": "https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 324440,
-      "name": "W' asue Me",
-      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+      "duration_ms": 144169,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -379,18 +379,38 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
         }
       ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
+      },
+      "artists": [
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "W' asue Me",
+      "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -439,26 +459,6 @@
       "duration_ms": 325328,
       "name": "Your Grace",
       "url": "https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
-        }
-      ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -579,38 +579,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "MOVE VOL 1",
-        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        }
-      ],
-      "duration_ms": 433646,
-      "name": "Glory Chants",
-      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "Nyame Ye",
         "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
       },
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "MOVE VOL 1",
+        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "duration_ms": 433646,
+      "name": "Glory Chants",
+      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "Efiri Nyame",
         "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 275706,
       "name": "Me Ko M'Anim",
       "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+      },
+      "artists": [
+        {
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+        }
+      ],
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
+      },
+      "artists": [
+        {
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "Testimony Therapy",
         "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Style Bia Bi",
-        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
+        "name": "Gyae Su",
+        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
       },
       "artists": [
         {
-          "name": "Great Ampong",
-          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
         }
       ],
-      "duration_ms": 249704,
-      "name": "Style Bia Bi",
-      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
+      "duration_ms": 258001,
+      "name": "Gyae Su",
+      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Gyae Su",
-        "url": "https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB"
+        "name": "Gye Wayeyi",
+        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
       },
       "artists": [
         {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
         }
       ],
-      "duration_ms": 258001,
-      "name": "Gyae Su",
-      "url": "https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj"
+      "duration_ms": 485423,
+      "name": "Gye Wayeyi",
+      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -807,22 +823,6 @@
       "duration_ms": 408235,
       "name": "Amenuveve (Grace) - Live",
       "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Gye Wayeyi",
-        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 485423,
-      "name": "Gye Wayeyi",
-      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
     },
     {
       "added_at": "2023-05-26 08:05:11",

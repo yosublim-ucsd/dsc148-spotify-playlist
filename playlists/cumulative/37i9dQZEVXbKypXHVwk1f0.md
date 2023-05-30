@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-772 songs - 1 day 20 hr 2 min
+773 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [COMO HAS ESTAU?](https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:07 | 2022-11-05 | 2022-11-18 |
 | [Como Sea](https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:22 | 2021-12-05 | 2021-12-06 |
 | [Completa](https://open.spotify.com/track/6mCzElWVPTZMNPA2jjbFuJ) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E) | [Completa](https://open.spotify.com/album/28Fuo7FjZGGQo4W45IvJA4) | 2:07 | 2022-08-14 | 2022-10-09 |
-| [Confusión](https://open.spotify.com/track/3aCCiazm1YrVwYFBuGSp9H) | [Hache Theraccoon](https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw) | [Noche Bahía](https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1) | 2:35 | 2023-05-27 |  |
+| [Confusión](https://open.spotify.com/track/3aCCiazm1YrVwYFBuGSp9H) | [Hache Theraccoon](https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw) | [Noche Bahía](https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1) | 2:35 | 2023-05-27 | 2023-05-30 |
 | [CONSENTIRTE](https://open.spotify.com/track/5SRi5RHKLeq2KUhcLpRpZc) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN) | [CONSENTIRTE](https://open.spotify.com/album/7sKakAxh41JGIJCeXhVlG9) | 3:06 | 2022-08-15 | 2022-08-30 |
 | [Contigo](https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Contigo](https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG) | 3:02 | 2022-09-23 | 2022-10-09 |
 | [Controlla \- Remix](https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq) | [Carriee](https://open.spotify.com/artist/1heYNxgVSVkQoilJIh18dz), [Athzy](https://open.spotify.com/artist/0O0itpNfasVDKjX5O3Pmp3) | [Controlla \(Remix\)](https://open.spotify.com/album/1lgtVG6PaCMalcQMSpYYRV) | 3:26 | 2022-10-24 | 2022-11-12 |
@@ -766,6 +766,7 @@
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-22 | 2022-03-01 |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-04 | 2023-01-16 |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-15 |  |
+| [Yeska \- Remix](https://open.spotify.com/track/41UH3hYq0i89Ic1yl5mp4h) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Yeska \(Remix\)](https://open.spotify.com/album/0CJgEy1qE2IuT2Cse5F6ji) | 3:43 | 2023-05-29 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-07-07 |
 | [Yo No Se](https://open.spotify.com/track/1MxMBirljZVgAB9jdjB61x) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Yo No Se](https://open.spotify.com/album/67ItedIgITHZoRz4VVqukx) | 2:58 | 2021-12-25 | 2022-01-15 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-11-26 |

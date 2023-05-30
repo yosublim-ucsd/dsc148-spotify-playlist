@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 84976,
       "name": "bingo",
       "url": "https://open.spotify.com/track/1jxB8bJcHFeMuKPHug1icD"
@@ -13438,6 +13438,24 @@
       "duration_ms": 232400,
       "name": "Show Me Some Love (feat. Sadie Walker)",
       "url": "https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj"
+    },
+    {
+      "album": {
+        "name": "sickly sweet",
+        "url": "https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "sickly sweet",
+      "url": "https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB"
     },
     {
       "album": {

@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Bad Persin",
+        "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205036,
+      "name": "Bad Persin",
+      "url": "https://open.spotify.com/track/5EMK0EERtn8qQw4Q5xM1cv"
+    },
+    {
+      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 207037,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
@@ -1040,6 +1058,32 @@
       "duration_ms": 149052,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "album": {
+        "name": "DOG EAT DOG II",
+        "url": "https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "DOG EAT DOG II",
+      "url": "https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm"
     },
     {
       "album": {
@@ -1890,7 +1934,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 147428,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
@@ -3286,7 +3330,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"

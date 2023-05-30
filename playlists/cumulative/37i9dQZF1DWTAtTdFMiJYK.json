@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Door Kahin",
+        "url": "https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204516,
+      "name": "Door Kahin",
+      "url": "https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB"
+    },
+    {
+      "album": {
         "name": "Doorie",
         "url": "https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd"
       },
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 185085,
       "name": "Some Kind Of Nothing",
       "url": "https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu"

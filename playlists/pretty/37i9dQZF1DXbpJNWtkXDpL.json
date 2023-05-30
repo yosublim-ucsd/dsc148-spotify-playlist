@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 70061,
+  "num_followers": 70090,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Te Perdonar\u00eda",
-        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 163542,
-      "name": "Te Perdonar\u00eda",
-      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -319,18 +319,34 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+        "name": "Te Perdonar\u00eda",
+        "url": "https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+      "duration_ms": 163542,
+      "name": "Te Perdonar\u00eda",
+      "url": "https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Vuelve A La Vida",
+        "url": "https://open.spotify.com/album/79YLn4zdldzXfk0xIQUQVJ"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 202347,
+      "name": "Vuelve A La Vida",
+      "url": "https://open.spotify.com/track/7GChCDazj9bSNjOkhogO3A"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -355,22 +371,6 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "Vuelve A La Vida",
-        "url": "https://open.spotify.com/album/79YLn4zdldzXfk0xIQUQVJ"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 202347,
-      "name": "Vuelve A La Vida",
-      "url": "https://open.spotify.com/track/7GChCDazj9bSNjOkhogO3A"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Andando Entre la Lumbre",
         "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183775,
       "name": "Andando Entre la Lumbre",
       "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "No Quiero Llorar",
+        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "No Quiero Llorar",
+      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "LMV",
         "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "No Quiero Llorar",
-        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "No Quiero Llorar",
-      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
     },
     {
       "added_at": "2023-04-21 21:43:27",

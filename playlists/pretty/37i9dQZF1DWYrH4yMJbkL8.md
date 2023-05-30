@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Logan Staats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,900 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,007 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

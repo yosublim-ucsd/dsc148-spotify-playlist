@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 175429,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 208615,
       "name": "Amor",
       "url": "https://open.spotify.com/track/3sjoI17SWnYP20ILoaGhW9"
@@ -290,6 +290,24 @@
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
+    },
+    {
+      "album": {
+        "name": "Conga",
+        "url": "https://open.spotify.com/album/4nowK3zy4mq38HDXun5d5T"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3"
     },
     {
       "album": {
@@ -508,7 +526,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 189119,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/2LymA0AbWOxhdobdlHdhUL"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 180923,
       "name": "Clappa",
       "url": "https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ"
@@ -895,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Down (Illusionize, Viot Rework)",
+        "url": "https://open.spotify.com/album/4es3qre14ZUWofRzMdbpvI"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290629,
+      "name": "Down - Illusionize, Viot Rework",
+      "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "album": {
         "name": "Dream Team",
         "url": "https://open.spotify.com/album/3eka4HQCSqQyQbiExGGs06"
       },
@@ -928,6 +968,28 @@
       "duration_ms": 215708,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+    },
+    {
+      "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/5j4fMcmXTmmHwhau0rrh9I"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Dum Dum",
+      "url": "https://open.spotify.com/track/79UqmV70OHe4iJwWgzZY3j"
     },
     {
       "album": {
@@ -1076,7 +1138,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 180634,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/1rNVSDQZe53vVTFIvI54RI"
@@ -1509,6 +1571,46 @@
     },
     {
       "album": {
+        "name": "Hot Shit",
+        "url": "https://open.spotify.com/album/6lOlaHBaVZTrzK6mNYU7U4"
+      },
+      "artists": [
+        {
+          "name": "Omar Svenson",
+          "url": "https://open.spotify.com/artist/1VRbWYmP73QpIVoRUWTLLg"
+        },
+        {
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164688,
+      "name": "Hot Shit",
+      "url": "https://open.spotify.com/track/0vi0vTfQqpWyy90tOk4qyq"
+    },
+    {
+      "album": {
+        "name": "Hot Stuff",
+        "url": "https://open.spotify.com/album/24Vq0XyuYxGh4Q7fu8mpiJ"
+      },
+      "artists": [
+        {
+          "name": "GIANT",
+          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152244,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
+    },
+    {
+      "album": {
         "name": "How We Get Down",
         "url": "https://open.spotify.com/album/3LXZzUYOfJZHR8UkVvNTUA"
       },
@@ -1686,7 +1788,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 200625,
       "name": "Kanta",
       "url": "https://open.spotify.com/track/7qwSBOVhhcb4Da6FSpCGb8"
@@ -1748,6 +1850,24 @@
       "duration_ms": 234418,
       "name": "King MTF Kong",
       "url": "https://open.spotify.com/track/00w3e6tLEKidzDOmQ7suUZ"
+    },
+    {
+      "album": {
+        "name": "La Fuega Oculta / Yelli",
+        "url": "https://open.spotify.com/album/11vHLYho4kaaobxIsBFWLf"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200952,
+      "name": "La Fuega Oculta",
+      "url": "https://open.spotify.com/track/7mdVDuw4JBHDw4ZWFkCPEs"
     },
     {
       "album": {
@@ -2000,6 +2120,28 @@
       "duration_ms": 177230,
       "name": "Make You Dance",
       "url": "https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG"
+    },
+    {
+      "album": {
+        "name": "Mandarino",
+        "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Puff (ITA)",
+          "url": "https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308085,
+      "name": "Mandarino",
+      "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
     },
     {
       "album": {
@@ -2507,6 +2649,28 @@
     },
     {
       "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308860,
+      "name": "See The Light (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
+    },
+    {
+      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -2624,7 +2788,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 207761,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX"
@@ -2772,7 +2936,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 189473,
       "name": "Sueltate",
       "url": "https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp"

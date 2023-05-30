@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,996 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,005 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 | 35 | [Together](https://open.spotify.com/track/28u7GKDbThIk4xsqm8XTGK) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Girls](https://open.spotify.com/album/5AQ0QApvqyjvkTfstFBI0L) | 2:26 |
 | 36 | [Baby in the Back](https://open.spotify.com/track/5fo9zVfkG8E3aPi34rPTv6) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Baby in the Back](https://open.spotify.com/album/4sH8xdcmRef8ctME42sYuh) | 2:24 |
 | 37 | [Nuts](https://open.spotify.com/track/0CCjJJ7H7R8NMDggyZxIZU) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/2W6d846yiktbTixQ8IdKuX) | 2:03 |
-| 38 | [Fire Thoughts](https://open.spotify.com/track/1DAXNPuz5nMIo9qbT2RFah) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/0o8FNv5JC1wsZ4HsBbP5KB) | 3:39 |
+| 38 | [Fire Thoughts](https://open.spotify.com/track/7s735OIUvkNxQu2wSocuhX) | [Malu](https://open.spotify.com/artist/3CoTT8moVNIv2ccIKX42gd) | [Fire Thoughts](https://open.spotify.com/album/4xfz16XcHIR0HMRTci57Zs) | 3:39 |
 | 39 | [Frisbee](https://open.spotify.com/track/6TReRzz0j5HFerU50mYFDI) | [Thaïti](https://open.spotify.com/artist/30BpvlrcBQA9Sf9M9m8Hv9) | [Frisbee](https://open.spotify.com/album/01RNydQRhhEZ3oARkkqogO) | 5:31 |
 | 40 | [Leave Now](https://open.spotify.com/track/4SeLaRsfneY69BJH19G5IL) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Leave Now](https://open.spotify.com/album/67zrW9POiw6xEnzDae83QQ) | 3:47 |
 | 41 | [Just \(Good\) Enough](https://open.spotify.com/track/1SFnRRBob0uMlvTS0dY2FG) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Just \(Good\) Enough](https://open.spotify.com/album/6fbJuvJY02viWCVxXtND1g) | 3:55 |

@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "Ribena",
+        "url": "https://open.spotify.com/album/1Qu8uTqN37sZgR7Puh6q8N"
+      },
+      "artists": [
+        {
+          "name": "KYE",
+          "url": "https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "180",
+      "url": "https://open.spotify.com/track/5jmXMzvMix3Expd9pPAkAD"
+    },
+    {
+      "album": {
         "name": "24/7 (feat. JC Stewart)",
         "url": "https://open.spotify.com/album/30zhkm14VV1Llw59uYFt3G"
       },
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 197903,
       "name": "Don't Cry For Me - Mark Knight Remix",
       "url": "https://open.spotify.com/track/46UF5p8aihRkpFGISOa1ck"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
@@ -5073,6 +5091,28 @@
     },
     {
       "album": {
+        "name": "Great Southern Land",
+        "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
+    },
+    {
+      "album": {
         "name": "groove1",
         "url": "https://open.spotify.com/album/5CBneVRx0DZ2Obfxb6FSdY"
       },
@@ -6080,7 +6120,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 166091,
       "name": "ILYAF (I love you always forever)",
       "url": "https://open.spotify.com/track/5cBz1eRdiLpTVcKBZkHnul"
@@ -6388,6 +6428,28 @@
       "duration_ms": 205207,
       "name": "Just for the Times",
       "url": "https://open.spotify.com/track/67LyilCFvsLvoC7zEBPcKK"
+    },
+    {
+      "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/1A6XiRwKiokX3Ns9Ve0Jef"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Dan",
+          "url": "https://open.spotify.com/artist/0f0OIT19WzbQdDMo1Z7RbC"
+        },
+        {
+          "name": "Moanique",
+          "url": "https://open.spotify.com/artist/5FvVEHpEaY6jJMhxDJzhHS"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251463,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/7zGn1iaa1x91UqPguAr1JJ"
     },
     {
       "album": {
@@ -7711,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/45kDJdYs8wGa5QEgPgf3Da"
       },
@@ -7898,6 +7978,24 @@
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
+    },
+    {
+      "album": {
+        "name": "Million Pieces",
+        "url": "https://open.spotify.com/album/092XspFGXs1u4jPlogGFDV"
+      },
+      "artists": [
+        {
+          "name": "Jolyon Petch",
+          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163352,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/3RM0KcyPjdT8byRe64LivC"
     },
     {
       "album": {
@@ -8414,7 +8512,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
@@ -9949,6 +10047,28 @@
     },
     {
       "album": {
+        "name": "Ride For Me",
+        "url": "https://open.spotify.com/album/3EJyCfiZvfwzbWYyVhVCoa"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        },
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248676,
+      "name": "Ride For Me - Speed Mix",
+      "url": "https://open.spotify.com/track/029lMAp2wAKdCvPWyociC6"
+    },
+    {
+      "album": {
         "name": "Ride or Die (feat. Roses Gabor)",
         "url": "https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax"
       },
@@ -10446,6 +10566,28 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308860,
+      "name": "See The Light (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
     },
     {
       "album": {
@@ -11956,7 +12098,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 169395,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/2VWe9vbcjrAnQkB4CCON1v"
@@ -12224,7 +12366,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 142006,
       "name": "Them Girls",
       "url": "https://open.spotify.com/track/5wuwcRpOKOaP1wZiHYGbq6"
@@ -13356,7 +13498,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 203688,
       "name": "What You Say?",
       "url": "https://open.spotify.com/track/22quZFeltYbo325rn3ktTe"
@@ -13962,7 +14104,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 162951,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0L9oRCTObdZLvYOAljy7BD"

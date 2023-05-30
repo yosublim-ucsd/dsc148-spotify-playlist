@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of the ACM Awards nominees! Cover: ACM Awards hosts Garth Brooks and Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,716 likes - 61 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,134 likes - 61 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

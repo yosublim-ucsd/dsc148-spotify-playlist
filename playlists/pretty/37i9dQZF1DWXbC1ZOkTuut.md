@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Bajo Perfil
 
-[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 120 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 120 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 29 | [El Gavilán](https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:04 |
 | 30 | [El Mismo de Antes RR](https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:07 |
 | 31 | [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 |
-| 32 | [Celular](https://open.spotify.com/track/67Msav6F3L2S5jYS6yxACA) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [SS23](https://open.spotify.com/album/0XYT6Otzt0i7LWvhxV8yeu) | 2:56 |
+| 32 | [Celular](https://open.spotify.com/track/5vbI1ZAapMWilQko88A2mA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:56 |
 | 33 | [La Neta Ahí Te Ves](https://open.spotify.com/track/1xzJ1wOqlqPscsIVaEnDwZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 2:05 |
 | 34 | [Dame tiempo](https://open.spotify.com/track/2EjZLRk2G8ZY6iIHDp3Lg5) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 2:38 |
 | 35 | [Se acabó](https://open.spotify.com/track/29wEM41esAVMnNbLw2Lcyz) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Fácil no Fue](https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt) | 3:14 |

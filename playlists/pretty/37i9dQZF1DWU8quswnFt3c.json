@@ -1,6 +1,6 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Katherine Li",
-  "num_followers": 914191,
+  "num_followers": 914136,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "My Crystal Nails",
-        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 108695,
-      "name": "My Crystal Nails",
-      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "My Crystal Nails",
+        "url": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 108695,
+      "name": "My Crystal Nails",
+      "url": "https://open.spotify.com/track/6zIBnhXLG3K95f0OsUCPm0"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "like everyone else",
-        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "like everyone else",
-      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "R\u00eave",
         "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
       },
@@ -279,6 +263,38 @@
       "duration_ms": 189561,
       "name": "R\u00eave",
       "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "like everyone else",
+        "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "like everyone else",
+      "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -319,22 +335,6 @@
       "duration_ms": 257771,
       "name": "Ni Main Jaana",
       "url": "https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
+      },
+      "artists": [
+        {
+          "name": "Camilla Magli",
+          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
+        "name": "Step",
+        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
       },
       "artists": [
         {
-          "name": "Camilla Magli",
-          "url": "https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
+      "duration_ms": 314666,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/2NMGEp3CKg4r46dm2qMdHG"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 314666,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/3gZPnG1dUaKQUOUBEfu36y"
+      "duration_ms": 160666,
+      "name": "Lo Que Me Har\u00edas En Otra Parte",
+      "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -527,22 +543,6 @@
       "duration_ms": 189077,
       "name": "Prom\u00e9teme",
       "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Lo Que Me Har\u00edas En Otra Parte",
-      "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "luv hack",
-        "url": "https://open.spotify.com/album/2jePdtOrOK2dvH1f5IDBUq"
-      },
-      "artists": [
-        {
-          "name": "YNISH",
-          "url": "https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z"
-        },
-        {
-          "name": "drmfy",
-          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
-        }
-      ],
-      "duration_ms": 175322,
-      "name": "luv hack",
-      "url": "https://open.spotify.com/track/5Wlbi1jkICRgWrmU6gDrLk"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Sombrilla",
         "url": "https://open.spotify.com/album/4fHvrfmKLTDsQ62izJCRkP"
       },
@@ -691,38 +671,6 @@
       "duration_ms": 180466,
       "name": "Sombrilla",
       "url": "https://open.spotify.com/track/1SfO4RXTYabzsiJJbw4Y4e"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "V\u1ec1 V\u1edbi Em",
-        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
-      },
-      "artists": [
-        {
-          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
-          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "V\u1ec1 V\u1edbi Em",
-      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "I\u2019m Alright",
-        "url": "https://open.spotify.com/album/3gMSIwm7qqZjDGZHekyXct"
-      },
-      "artists": [
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/2tUMbEwyGN5hvkJeWxm8Ea"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -743,6 +691,58 @@
       "duration_ms": 181914,
       "name": "Porque Yo",
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "luv hack",
+        "url": "https://open.spotify.com/album/2jePdtOrOK2dvH1f5IDBUq"
+      },
+      "artists": [
+        {
+          "name": "YNISH",
+          "url": "https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z"
+        },
+        {
+          "name": "drmfy",
+          "url": "https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp"
+        }
+      ],
+      "duration_ms": 175322,
+      "name": "luv hack",
+      "url": "https://open.spotify.com/track/5Wlbi1jkICRgWrmU6gDrLk"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "I\u2019m Alright",
+        "url": "https://open.spotify.com/album/3gMSIwm7qqZjDGZHekyXct"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/2tUMbEwyGN5hvkJeWxm8Ea"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "V\u1ec1 V\u1edbi Em",
+        "url": "https://open.spotify.com/album/7b3mCMw0LUIIGCk7CDt51D"
+      },
+      "artists": [
+        {
+          "name": "V\u00f5 H\u1ea1 Tr\u00e2m",
+          "url": "https://open.spotify.com/artist/7wqCcGabyuT6f1ZkRxI4ga"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "V\u1ec1 V\u1edbi Em",
+      "url": "https://open.spotify.com/track/2gFR7GK4iHlth9JzWxDwLn"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "\u4e3a\u65f6\u5df2\u665a(\u300a\u9f99\u57ce\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 204277,
-      "name": "\u4e3a\u65f6\u5df2\u665a(\u300a\u9f99\u57ce\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "\u4e3a\u65f6\u5df2\u665a(\u300a\u9f99\u57ce\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/1wfjNR1UkthScF5MhsAef6"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "\u4e3a\u65f6\u5df2\u665a(\u300a\u9f99\u57ce\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1o2YahIfTmz9ibLLdkDe2X"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Paranoje",
-        "url": "https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz"
-      },
-      "artists": [
-        {
-          "name": "KIWI",
-          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Paranoje",
-      "url": "https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Top Bop",
         "url": "https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 151285,
       "name": "Top Bop",
       "url": "https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Paranoje",
+        "url": "https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Paranoje",
+      "url": "https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "\u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u539f\u8072\u5e36",
-        "url": "https://open.spotify.com/album/4lQN080kPobeTivUu7G96A"
-      },
-      "artists": [
-        {
-          "name": "\u5f35\u82e5\u51e1RuoFan",
-          "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "\u4e0d\u51e1 - \u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Wonder Woman",
         "url": "https://open.spotify.com/album/5ERMwTDRSJdT8cOjLikAoJ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 260799,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/4rWiBVHA06kJRCFlSuyLQt"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "\u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/4lQN080kPobeTivUu7G96A"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u82e5\u51e1RuoFan",
+          "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "\u4e0d\u51e1 - \u611b\u5947\u85dd\u539f\u5275\u83ef\u5287\u300a\u4e0d\u826f\u57f7\u5ff5\u6e05\u9664\u5e2b\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/7MJswc6nLJeHZVeZgx3mMX"
     },
     {
       "added_at": "2023-05-09 04:50:36",

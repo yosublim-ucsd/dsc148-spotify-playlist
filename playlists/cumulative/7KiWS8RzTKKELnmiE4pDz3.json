@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/3dJOFNc7vaO7m4nxZ7HhYF"
+      },
+      "artists": [
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Dizzy - Bonus Version",
+      "url": "https://open.spotify.com/track/4hRydm5LUCaTZFHMBALibQ"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -6926,6 +6948,24 @@
       "duration_ms": 199493,
       "name": "Sick of Slime",
       "url": "https://open.spotify.com/track/4BWqc7XhJPFkbCvfDcAdYl"
+    },
+    {
+      "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Slider",
+      "url": "https://open.spotify.com/track/27BNM6DUOhLfKKv1yecgLd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Écoute en boucle les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,819 likes - 49 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,965 likes - 49 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

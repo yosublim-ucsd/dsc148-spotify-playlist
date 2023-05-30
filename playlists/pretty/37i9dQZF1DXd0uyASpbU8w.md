@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Oa9sgeP0TfqVJ\_bQLWsZiA">Nomfundo Moh</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,110 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,170 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 18 | [Almal Baklei](https://open.spotify.com/track/6tk21RK5t7pAJtoZL2txVB) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Almal Baklei](https://open.spotify.com/album/6AAkDXooH5CSCH0fXOttzD) | 2:25 |
 | 19 | [IQHUPA](https://open.spotify.com/track/613RORmJXNeAP24mjtpdNV) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [BIG ZULU](https://open.spotify.com/artist/5zVqw8Gg9nXqAxWWkPVGe6) | [IQHUPA](https://open.spotify.com/album/253ndv8OmfvA8lvCOsnXOh) | 4:39 |
 | 20 | [10 Past 4](https://open.spotify.com/track/2uO4maCoqCaJwx1bSOe3C6) | [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [LastbornDiroba](https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G) | [10 Past 4](https://open.spotify.com/album/2dAXwNOJDV9yJB6nXXxT6M) | 6:58 |
-| 21 | [Why 2 Sah?](https://open.spotify.com/track/7r0tnKZgnEKaSobgyWZ5fT) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Portable](https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR) | [Why 2 Sah?](https://open.spotify.com/album/17FaxjowoLdUEg0SjkFB1y) | 2:10 |
+| 21 | [Why 2 Sah?](https://open.spotify.com/track/7r0tnKZgnEKaSobgyWZ5fT) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Portable](https://open.spotify.com/artist/3CnD0ytNBGQwqGHHiPUizp) | [Why 2 Sah?](https://open.spotify.com/album/17FaxjowoLdUEg0SjkFB1y) | 2:10 |
 | 22 | [Dwala Lami](https://open.spotify.com/track/5pBin0ILSy53BlC8ExaQp8) | [DJ KSB](https://open.spotify.com/artist/1wNdiP1ppXOuVVbDqMqFox), [Charlotte Lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Dwala Lami](https://open.spotify.com/album/6ZtixzXhNkJepQU2nnJsvj) | 4:38 |
 | 23 | [Hope You Heal](https://open.spotify.com/track/0nMZnTdVdQ4z7j2mCsLgRN) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Hope You Heal](https://open.spotify.com/album/6kScHIbR0cC0YvXc2OjJOg) | 3:21 |
 | 24 | [By Force](https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:27 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-35 songs - 1 hr 38 min
+36 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Slaaptekort](https://open.spotify.com/track/4zAbjQvRdn3FLgoS3775Jx) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3) | 2:26 | 2023-05-10 |  |
 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 | 2022-05-25 |  |
 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 | 2022-05-25 | 2022-07-28 |
-| [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2022-05-25 |  |
+| [Solo](https://open.spotify.com/track/5qLeE1Rys5ILNB5TrZSNkI) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:09 | 2023-05-29 |  |
+| [Solo](https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Solo](https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18) | 2:09 | 2022-05-25 | 2023-05-30 |
 | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Thomas Helsloot](https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL) | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 | 2022-05-25 |  |
 | [Sunshine](https://open.spotify.com/track/4JaziO9SplhqLt31vWXcX4) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Lente](https://open.spotify.com/album/5NxPIBU1e2Ns6npLSNOKJ8) | 2:56 | 2022-05-25 | 2023-04-11 |
 | [Sunshine](https://open.spotify.com/track/4gZD4q9gni74mpIvlG2tHz) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Lente](https://open.spotify.com/album/2ZFvIiNdavC1ysz9gbUARw) | 2:56 | 2023-04-10 |  |

@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 136320,
       "name": "Arete",
       "url": "https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4"
@@ -3208,6 +3208,32 @@
       "duration_ms": 151423,
       "name": "Maliante",
       "url": "https://open.spotify.com/track/2bktmhGaISzLn0XCdeGzK4"
+    },
+    {
+      "album": {
+        "name": "Malianteo Y Tiro",
+        "url": "https://open.spotify.com/album/43E81DbhPBrBu14fSmhWys"
+      },
+      "artists": [
+        {
+          "name": "Shootter Ledo",
+          "url": "https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Malianteo Y Tiro",
+      "url": "https://open.spotify.com/track/1GMWt9gI4XkpySGoacuMe3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP?si=rCdRTHQqT9GQXC2MAuDGKw">The Dirty Skirts</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,079 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,087 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 29 | [Take A Moment](https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Take A Moment](https://open.spotify.com/album/094V806M9aCaRlIRMAtBvD) | 3:26 |
 | 30 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
 | 31 | [boxysoxy](https://open.spotify.com/track/6DcALE029s14ahdYNY1u15) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [boxysoxy](https://open.spotify.com/album/3IBhLnG6pQNUdj4mlswWbL) | 3:10 |
-| 32 | [Playground](https://open.spotify.com/track/1gyVrI4wKnDB0JP6hGHyPt) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Somewhere Between](https://open.spotify.com/album/1nj2jHIcjiFTow8yT8egSj) | 3:42 |
+| 32 | [Playground](https://open.spotify.com/track/3UiUxpHCWSycIPVl2rBNUP) | [Cara Knox](https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR) | [Somewhere Between](https://open.spotify.com/album/6h7zooQMEcJXvgJvD5qRLg) | 3:42 |
 | 33 | [Running out of Space](https://open.spotify.com/track/64uhivFXf1iQQdqrwg10VD) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B), [Khài](https://open.spotify.com/artist/2vyvrgGf5M6a694OxTl2Em) | [Running out of Space](https://open.spotify.com/album/5YRnzdrjCLYC7t401gZtN2) | 3:05 |
 | 34 | [Legacy Of Love](https://open.spotify.com/track/4Xfvcx1T2VpZsw56emLdAk) | [JPson](https://open.spotify.com/artist/4s9YSRHrBFUpUZPWk2mwIG) | [Legacy Of Love](https://open.spotify.com/album/2lOAlyLmeM55Bp0Q59aerP) | 3:41 |
 | 35 | [Golden](https://open.spotify.com/track/5MztgDmgTL0mDCXOZR5aJ0) | [Senna\-Marie](https://open.spotify.com/artist/3PlSwDe9Gb6aJDuFhEZSKW), [Ryan Schultze](https://open.spotify.com/artist/5H7kc18IXWo03weqplDFPX) | [Golden](https://open.spotify.com/album/6UDVIOMw5Bd6z7dpmpn5ZW) | 5:11 |

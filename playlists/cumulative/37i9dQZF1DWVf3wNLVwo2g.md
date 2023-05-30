@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-287 songs - 17 hr 15 min
+288 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Hold Me Like You Used To \- Spotify Singles](https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:09 | 2021-09-14 |  |
 | [Hoodie \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5agF0y6utHAyX4LV0wQmeB) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:44 | 2021-09-14 | 2022-10-16 |
 | [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-09-14 | 2023-01-12 |
+| [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/42SrFsBezRR2t8nGutWuyu) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/47NeUjqABCu1kEXNT3zBYp) | 2:40 | 2023-03-21 |  |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4QG9LSMCNvqfiWYav9WuHC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:40 | 2022-03-08 | 2023-04-19 |
 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7vG0AFDMYvlZCDNEmuRkEf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:40 | 2021-09-14 | 2022-10-13 |
 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 | 2021-09-14 |  |
@@ -162,7 +163,7 @@
 | [Loyal \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/19eEtZaPGKHayTsxWRkhoc) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Spotify Singles](https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb) | 3:44 | 2021-09-14 | 2022-12-08 |
 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 | 2021-09-14 | 2023-01-12 |
 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 | 2021-09-14 |  |
-| [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 | 2023-01-11 |  |
+| [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 | 2023-01-11 | 2023-05-30 |
 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 | 2021-09-14 |  |
 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/5CR5wpp6rjMiePZyrj81e9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 2:36 | 2023-01-11 |  |
 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 | 2021-09-14 |  |

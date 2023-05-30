@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-123 songs - 5 hr 59 min
+124 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-29 |  |
 | [Shartan](https://open.spotify.com/track/6eMG3Ofah1FiO6N8L4Y3Cp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz) | [Shartan](https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV) | 2:40 | 2023-03-29 |  |
 | [Shawty Like A Melody](https://open.spotify.com/track/6FThFO8Pnz9YEbgyERV9XG) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Win Win Situation](https://open.spotify.com/album/4FwjJj6xPDaGCbSYWxgkJk) | 3:44 | 2023-04-03 | 2023-04-21 |
-| [Shehar Vichon Geda](https://open.spotify.com/track/1iwSPHz1qbtubRMjz5VSFf) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Shehar Vichon Geda](https://open.spotify.com/album/5rkr7jF7sQKBCnXyLhb9iX) | 2:50 | 2023-03-29 |  |
+| [Shehar Vichon Geda](https://open.spotify.com/track/1iwSPHz1qbtubRMjz5VSFf) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Shehar Vichon Geda](https://open.spotify.com/album/5rkr7jF7sQKBCnXyLhb9iX) | 2:50 | 2023-03-29 | 2023-05-30 |
+| [Shehar Vichon Geda](https://open.spotify.com/track/6eJoeuPQznU1cOsF3O8Pv6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:50 | 2023-05-26 |  |
 | [Shohrat](https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Shohrat](https://open.spotify.com/album/67gVqqexjN9khVmggJsLg5) | 3:39 | 2023-03-29 |  |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-20 |  |
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-03-29 |  |

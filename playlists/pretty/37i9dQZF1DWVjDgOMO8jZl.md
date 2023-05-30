@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:2vDluwryVXelZfng6DxjnC">Assurditè</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,859 likes - 28 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,869 likes - 28 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

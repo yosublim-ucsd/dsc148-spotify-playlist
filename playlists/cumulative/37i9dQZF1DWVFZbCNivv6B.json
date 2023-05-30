@@ -3249,6 +3249,28 @@
     },
     {
       "album": {
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "album": {
         "name": "Maldito y Bendito Vol. 2",
         "url": "https://open.spotify.com/album/3eEAeFRIIsGChkBWnludOY"
       },

@@ -922,10 +922,32 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 256006,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/35jC1Olo0e03VNmFIs8bqJ"
+    },
+    {
+      "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/4oBQy4W1A2N6pL9MjHmwmS"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256021,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R"
     },
     {
       "album": {

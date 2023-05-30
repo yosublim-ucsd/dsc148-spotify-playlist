@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257373,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/5YnFuvg0E9L8oIIlavjaNH"
+    },
+    {
+      "album": {
         "name": "Glory to Glory",
         "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 315476,
       "name": "The More of You I See",
       "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"

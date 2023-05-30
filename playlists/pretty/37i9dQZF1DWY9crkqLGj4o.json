@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 363770,
+  "num_followers": 364454,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 358240,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 261178,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "Extraordin\u00e1rio Amor de Deus",
         "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
       },
@@ -355,42 +371,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 261178,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Enche-me (Ao Vivo)",
-        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 450560,
-      "name": "Enche-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Ele N\u00e3o Desiste de Voc\u00ea",
         "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 231608,
       "name": "N\u00e3o Morrerei",
       "url": "https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Enche-me (Ao Vivo)",
+        "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 450560,
+      "name": "Enche-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Eu Escolho Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
         "name": "Ele N\u00e3o Desiste de Voc\u00ea",
         "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Eu Escolho Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "Livres ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
       },
@@ -591,6 +591,26 @@
       "duration_ms": 447843,
       "name": "Lindo \u00c9s + S\u00f3 Quero Ver Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/35IN0nKkbuQh4DMxIv4R1E"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 336716,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -627,26 +647,6 @@
       "duration_ms": 224920,
       "name": "Hey, Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 336716,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 232240,
       "name": "Jesus \u00e9 o Caminho - Ao Vivo",
       "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
       },
       "artists": [
         {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
         }
       ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
       },
       "artists": [
         {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
         }
       ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
+        "name": "Kemuel (Sony Music Live)",
+        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 314289,
+      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
+      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
+    },
+    {
+      "added_at": "2023-04-28 18:58:49",
+      "album": {
         "name": "15 Anos (ao Vivo)",
         "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
-    },
-    {
-      "added_at": "2023-04-28 18:58:49",
-      "album": {
-        "name": "Kemuel (Sony Music Live)",
-        "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 314289,
-      "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
-      "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
     },
     {
       "added_at": "2023-04-28 18:58:49",
@@ -1167,22 +1167,18 @@
     {
       "added_at": "2023-04-28 18:58:49",
       "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
         }
       ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+      "duration_ms": 919733,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
     },
     {
       "added_at": "2023-04-28 18:58:49",

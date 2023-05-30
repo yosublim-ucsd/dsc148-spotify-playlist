@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 889816,
+  "num_followers": 889729,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
+        "name": "NOVA",
+        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
+      "duration_ms": 192000,
+      "name": "UCLA",
+      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -219,22 +223,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 192000,
-      "name": "UCLA",
-      "url": "https://open.spotify.com/track/3OaunNUlXXs5e2PXtNAzzG"
+      "duration_ms": 239853,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -395,30 +395,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Northern Lights (Remixes)",
-        "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        },
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Neck And Neck - DNMO Remix",
-      "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "FEELING GUD",
         "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 190682,
       "name": "FEELING GUD",
       "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Northern Lights (Remixes)",
+        "url": "https://open.spotify.com/album/3W8TE3qqvhwhdGunef80Fe"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Neck And Neck - DNMO Remix",
+      "url": "https://open.spotify.com/track/2bCjaF7cRm53Wdq9RtkYJu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Dark Night Sweet Light",
         "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 235186,
       "name": "The Buzz - Bonus Track",
       "url": "https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Only Be Me",
-        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Only Be Me",
-      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Me and You",
         "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 226285,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Only Be Me",
+        "url": "https://open.spotify.com/album/18jDao69dC593MEAZheoyA"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Only Be Me",
+      "url": "https://open.spotify.com/track/4E4gQUWMUbi0lOf98qqtuv"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 246315,
       "name": "I Love You.",
       "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Leisure Season Vol. 1",
         "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 260087,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Cartel II",
+        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Fatal Attraction (feat. Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "High Like This",
         "url": "https://open.spotify.com/album/1AHQrn7hhAuNghkFtCXEnD"
       },
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cartel II",
-        "url": "https://open.spotify.com/album/2GLkPjI663ZQ7OGw02Iblc"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Fatal Attraction (feat. Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Apocalyptic",
         "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
       },
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Pour All Night",
-        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
-        }
-      ],
-      "duration_ms": 209016,
-      "name": "Pour All Night",
-      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "REDloop",
         "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
@@ -1663,26 +1643,6 @@
       "duration_ms": 225230,
       "name": "REDloop",
       "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "NO TOMORROW",
-        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "NO TOMORROW",
-      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1711,6 +1671,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Rumor",
         "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pour All Night",
+        "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/5Cw393gL2SjFDLgAWfmt0s"
+        }
+      ],
+      "duration_ms": 209016,
+      "name": "Pour All Night",
+      "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 150370,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "MINDDD",
         "url": "https://open.spotify.com/album/0cvKa2bC4q7tRP5refuzxq"
       },
@@ -1851,26 +1851,6 @@
       "duration_ms": 121681,
       "name": "MINDDD",
       "url": "https://open.spotify.com/track/0nSP6p4IfCI6vIy2KJy13m"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Moondance (Move Together)",
-        "url": "https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "XAELO",
-          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Moondance (Move Together)",
-      "url": "https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1911,6 +1891,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Moondance (Move Together)",
+        "url": "https://open.spotify.com/album/1WYArFyJAyDTrCskmxRBvJ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "XAELO",
+          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Moondance (Move Together)",
+      "url": "https://open.spotify.com/track/3K9OoTcAxpBcYozungwRHw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Twitter",
         "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
       },
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "HOMETOWN HEROES",
         "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     }
   ],
   "unique_name": "Trap Mojito",

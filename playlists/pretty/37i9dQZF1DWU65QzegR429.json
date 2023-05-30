@@ -1,6 +1,6 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 8302,
+  "num_followers": 8326,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "No Me Rajo",
-        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
       },
       "artists": [
         {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 165506,
-      "name": "No Me Rajo",
-      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3E1jqnbIn6u4GcPeyg9UIv"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/6DNJF3nPMoTh5g10xugYQz"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 141335,
       "name": "KI-KI",
       "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Tibro",
+        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 152546,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -247,22 +279,6 @@
       "duration_ms": 180808,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Tibro",
-        "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "Perdida",
-      "url": "https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -331,30 +347,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Lil Silvio & El Vega",
-          "url": "https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3"
-        },
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -375,18 +367,26 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Lil Silvio & El Vega",
+          "url": "https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3"
+        },
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+      "duration_ms": 242285,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
+      },
+      "artists": [
+        {
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 166736,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Come",
-        "url": "https://open.spotify.com/album/4RJ4WisTGku6ifa8iJkMi1"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Come",
-      "url": "https://open.spotify.com/track/1b7V8nIDDItoLTUmB7IZsz"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Sugar Boi",
-        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Sugar Boi",
-      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/7kRpm1Ax9vG5Mc3ISEF9ve"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 173894,
       "name": "Betty",
       "url": "https://open.spotify.com/track/4vjxTax1lQvczaIlyVx5ME"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "Sugar Boi",
+        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Sugar Boi",
+      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Pa' El Alma",
-        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
-      },
-      "artists": [
-        {
-          "name": "Anmily Brown",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "94",
-        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
+        "name": "Pa' El Alma",
+        "url": "https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY"
       },
       "artists": [
         {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
         }
       ],
-      "duration_ms": 153680,
-      "name": "94",
-      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
+      "duration_ms": 200930,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -955,6 +939,22 @@
       "duration_ms": 166533,
       "name": "KLK TE PASA A TI",
       "url": "https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     },
     {
       "added_at": "2023-04-03 18:54:44",

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla",
-  "num_followers": 424793,
+  "num_followers": 424958,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Olha Bela",
-        "url": "https://open.spotify.com/album/2H84den6cdw9vICRQfwav0"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "Olha Bela",
-      "url": "https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "DARAM\u00d4",
         "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 188620,
+      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Acabou",
         "url": "https://open.spotify.com/album/3C9V9mhn1oFxnMEUbXzAim"
       },
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Live Sessions",
-        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
+        "name": "Olha Bela",
+        "url": "https://open.spotify.com/album/2H84den6cdw9vICRQfwav0"
       },
       "artists": [
         {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 188620,
-      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
+      "duration_ms": 169928,
+      "name": "Olha Bela",
+      "url": "https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -323,26 +323,6 @@
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "CAIXA POSTAL",
-        "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 185372,
-      "name": "CAIXA POSTAL",
-      "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -419,18 +399,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "FIM",
-        "url": "https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow"
+        "name": "CAIXA POSTAL",
+        "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
       },
       "artists": [
         {
           "name": "Lagum",
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 182181,
-      "name": "Ponto de Vista",
-      "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
+      "duration_ms": 185372,
+      "name": "CAIXA POSTAL",
+      "url": "https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "FIM",
+        "url": "https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 182181,
+      "name": "Ponto de Vista",
+      "url": "https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Por Voc\u00ea",
         "url": "https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs"
       },
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 162563,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "L\u00e1 Vem A Noite",
         "url": "https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 162563,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -739,42 +739,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Tudo T\u00e1 Fluindo",
         "url": "https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu"
       },
@@ -787,6 +751,22 @@
       "duration_ms": 163998,
       "name": "Covardia",
       "url": "https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -823,6 +803,26 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Sorria que Volta",
         "url": "https://open.spotify.com/album/2V4qg7sNcMllTmLOFpzf7o"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 141573,
       "name": "Sorria que Volta",
       "url": "https://open.spotify.com/track/1PtvbTuhHBw8Mfi9XIIIuC"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Amor Compartilhado",
+        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 146231,
+      "name": "Amor Compartilhado",
+      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Amor Compartilhado",
-        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Amor Compartilhado",
-      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Cultivar",
-        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 133222,
-      "name": "Mundo de Papel",
-      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -943,6 +927,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Cultivar",
+        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 133222,
+      "name": "Mundo de Papel",
+      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Tudo Certo",
         "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 181419,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Org\u00e2nico Ver\u00e3o 2023",
         "url": "https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 238051,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/6aF1epL8UEzy40OCdEaBWQ"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 181419,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/2J4QmmrkFsNb8kHsyo6Gma"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
         }
       ],
-      "duration_ms": 273092,
-      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1215,18 +1215,34 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
       },
       "artists": [
         {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
         }
       ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+      "duration_ms": 273092,
+      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Rom\u00e2ntica Demais",
+        "url": "https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 180456,
+      "name": "Rom\u00e2ntica Demais",
+      "url": "https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Rom\u00e2ntica Demais",
-        "url": "https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE"
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 180456,
-      "name": "Rom\u00e2ntica Demais",
-      "url": "https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ"
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 192746,
       "name": "Atalaia",
       "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-05-26 03:00:00",

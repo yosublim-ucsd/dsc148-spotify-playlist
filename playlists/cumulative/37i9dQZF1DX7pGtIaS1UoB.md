@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-289 songs - 17 hr 12 min
+290 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [一天加點愛 \(feat\. Karencici\)](https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Gentle Bones](https://open.spotify.com/album/4BEjRqKkO7zvPO6GXCDcIM) | 2:24 | 2022-06-13 | 2023-05-03 |
 | [一整个爱住你](https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt) | 3:27 | 2022-07-25 | 2023-05-09 |
 | [一整个爱住你](https://open.spotify.com/track/3t0MbCCcXncdtWeaK9tNdN) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/3EbZCDAJrE0owIaNoAMxKG) | 3:27 | 2022-06-20 | 2022-07-27 |
+| [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 | 2023-05-22 |  |
 | [一點一點](https://open.spotify.com/track/3RqKpwr0EukUJlD22mIlVP) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [一點一點](https://open.spotify.com/album/5ZL3SvFjWVJGzoSxK8qzqh) | 3:15 | 2022-06-06 | 2022-07-17 |
 | [万有引力](https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd) | 4:03 | 2022-07-25 | 2023-05-08 |
 | [万有引力](https://open.spotify.com/track/6rXmhCYSdOgGYC92Sz2QMz) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/4yPCjh86jQB49cNSpIFRDe) | 4:03 | 2022-06-06 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 | 2023-04-18 |
 | [都怪那一眼\(Love at first sight\)\-電視劇<我的老闆是隻貓 >片頭曲](https://open.spotify.com/track/6uJ3uxT6lyZLKyr0DO57EB) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [電視劇\(我的老闆是隻貓\)片頭曲&插曲](https://open.spotify.com/album/6QQVXygK29VWKR9Zt4VMM2) | 4:11 | 2022-06-27 | 2022-07-21 |
 | [阳光的陪伴](https://open.spotify.com/track/0RhNGs3Rj5vwv0NFoBTLVa) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [阳光的陪伴](https://open.spotify.com/album/5U3rbQPVdRmCdY7vQiFHDq) | 3:50 | 2022-06-06 | 2022-07-29 |
-| [陪我好不好](https://open.spotify.com/track/43gIVYeU7iIcKdVq4oDYbc) | [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw), [陳佳薪](https://open.spotify.com/artist/0ZhipR0wdT4hyARrjch2vK) | [你愛上的...](https://open.spotify.com/album/7bLchgVymBOqH1tAX9V9Xe) | 4:09 | 2023-05-01 |  |
+| [陪我好不好](https://open.spotify.com/track/43gIVYeU7iIcKdVq4oDYbc) | [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw), [陳佳薪](https://open.spotify.com/artist/0ZhipR0wdT4hyARrjch2vK) | [你愛上的...](https://open.spotify.com/album/7bLchgVymBOqH1tAX9V9Xe) | 4:09 | 2023-05-01 | 2023-05-30 |
 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 | 2022-06-20 |  |
 | [陳淑芬與林志豪](https://open.spotify.com/track/4jwfbIBxuckiOhu85jOyV7) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [第十個王心凌](https://open.spotify.com/album/1atozLVVeTN3sD7om8VAzN) | 3:49 | 2022-08-08 | 2022-08-31 |
 | [雨天小情歌](https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk) | [時光街樂隊](https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D) | [雨天小情歌](https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM) | 4:24 | 2022-06-06 | 2022-07-20 |

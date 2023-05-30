@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,542 likes - 117 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,085 likes - 117 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

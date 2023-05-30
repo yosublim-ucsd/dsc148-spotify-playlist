@@ -70,10 +70,28 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 200640,
       "name": "Always Love",
       "url": "https://open.spotify.com/track/02TtDZcUvEJGFJSJ6fTMfn"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt"
     },
     {
       "album": {
@@ -2089,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "My Mind Wanders and Sometimes Leaves Completely",
+        "url": "https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "What Is It About Me",
+      "url": "https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD"
+    },
+    {
+      "album": {
         "name": "What Is It About Me",
         "url": "https://open.spotify.com/album/0ocBsHlaHYLCfMyYbf0OnN"
       },
@@ -2100,7 +2136,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 214280,
       "name": "What Is It About Me",
       "url": "https://open.spotify.com/track/1EAqfHW8G2gmziqhUkrNqr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,312 likes - 212 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,546 likes - 212 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

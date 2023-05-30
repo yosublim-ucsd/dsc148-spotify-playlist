@@ -4,7 +4,7 @@
 
 > ¡Qué rico el mambo! Cover: Machito
 
-58 songs - 3 hr 58 min
+59 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,12 +57,13 @@
 | [Que Rico El Mambo](https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy) | [Mambo](https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN) | [Mambo](https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo) | 4:40 | 2023-03-08 |  |
 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 | 2023-03-08 |  |
 | [Relax & mambo \- Remastered](https://open.spotify.com/track/2MF3bZLaQI65YjRp7H4A1D) | [Machito Y Sus Afro\-Cubanos](https://open.spotify.com/artist/4Xh7yiscGNnJXmwaZcaloB) | [Carambola \(Remastered\)](https://open.spotify.com/album/76O9p5w3ZRzxtbE7KtCUU6) | 3:09 | 2023-03-08 | 2023-05-15 |
+| [Relax and Mambo](https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Presentando a Machito](https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs) | 3:09 | 2023-03-08 |  |
 | [Rico Vacilon](https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk) | [Machito Orchestra](https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe) | [Vacation At The Concord](https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ) | 2:44 | 2023-03-08 |  |
 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 | 2023-03-08 |  |
 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 | 2023-03-08 |  |
 | [Separarla También](https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [A Little Bit Of Everything](https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY) | 2:35 | 2023-03-08 |  |
 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 | 2023-03-08 |  |
-| [The Herb Vendor](https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [La Herencia](https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G) | 3:04 | 2023-03-08 |  |
+| [The Herb Vendor](https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [La Herencia](https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G) | 3:04 | 2023-03-08 | 2023-05-30 |
 | [Tu Voz](https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:10 | 2023-03-08 |  |
 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 | 2023-03-08 |  |
 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 | 2023-03-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 261958,
+  "num_followers": 262056,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -223,18 +207,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
+      },
+      "artists": [
+        {
+          "name": "Facundo Cabral",
+          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+        }
+      ],
+      "duration_ms": 224346,
+      "name": "No Soy De Aqui, Ni Soy De Alla",
+      "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
     },
     {
       "added_at": "2022-03-01 04:08:22",
@@ -255,34 +255,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Pairos y Derivas",
-        "url": "https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 255947,
-      "name": "Entre Pairos y Derivas",
-      "url": "https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Mis Otros Yo",
-        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
-      },
-      "artists": [
-        {
-          "name": "Fato",
-          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Me Hice Una Promesa",
-      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -299,6 +283,22 @@
       "duration_ms": 264197,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Entre Pairos y Derivas",
+        "url": "https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 255947,
+      "name": "Entre Pairos y Derivas",
+      "url": "https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -355,18 +355,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
+        "name": "Mis Otros Yo",
+        "url": "https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j"
       },
       "artists": [
         {
-          "name": "Facundo Cabral",
-          "url": "https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx"
+          "name": "Fato",
+          "url": "https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq"
         }
       ],
-      "duration_ms": 224346,
-      "name": "No Soy De Aqui, Ni Soy De Alla",
-      "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
+      "duration_ms": 239200,
+      "name": "Me Hice Una Promesa",
+      "url": "https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -415,6 +415,22 @@
       "duration_ms": 231653,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -487,22 +503,6 @@
       "duration_ms": 278000,
       "name": "Alevos\u00eda",
       "url": "https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Cuerpo A Cuerpo",
-        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 301026,
-      "name": "Sin Tu Latido",
-      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "1978/1988",
-        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -691,18 +659,66 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
+        "name": "Cuerpo A Cuerpo",
+        "url": "https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 185617,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
+      "duration_ms": 301026,
+      "name": "Sin Tu Latido",
+      "url": "https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Discograf\u00eda en Castellano",
+        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "1978/1988",
+        "url": "https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Hoy Com\u00ed Con el Abuelo",
+      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -727,50 +743,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Discograf\u00eda en Castellano",
-        "url": "https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko"
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
       "artists": [
         {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 205226,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Albanta",
-        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Al Alba",
-      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Hoy Com\u00ed Con el Abuelo",
-      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
+      "duration_ms": 185617,
+      "name": "Todav\u00eda",
+      "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -807,6 +791,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Entre Cuerdas",
+        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        }
+      ],
+      "duration_ms": 264946,
+      "name": "Lo Mejor Que Hay En Mi Vida",
+      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Maldita Vocaci\u00f3n",
         "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Entre Cuerdas",
-        "url": "https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK"
+        "name": "Albanta",
+        "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
       },
       "artists": [
         {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 264946,
-      "name": "Lo Mejor Que Hay En Mi Vida",
-      "url": "https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7"
+      "duration_ms": 297040,
+      "name": "Al Alba",
+      "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -855,22 +855,6 @@
       "duration_ms": 231156,
       "name": "Trova Azul",
       "url": "https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "De Alguna Manera",
-      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -907,6 +891,42 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Sesiones \u00cdntimas",
+        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
+      },
+      "artists": [
+        {
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Dime Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -927,18 +947,34 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ"
+        "name": "Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
       },
       "artists": [
         {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
         }
       ],
-      "duration_ms": 276306,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb"
+      "duration_ms": 219480,
+      "name": "Porque la Quer\u00eda",
+      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "De Alguna Manera",
+      "url": "https://open.spotify.com/track/7MtdhnO67fNwuF7Bes1xOh"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -971,42 +1007,6 @@
       "duration_ms": 170813,
       "name": "Los Grillos",
       "url": "https://open.spotify.com/track/4gey1hMb9gioAyqeCgzSxh"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/5mfc4BGeZNxcYuzNrgU6sX"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "Porque la Quer\u00eda",
-      "url": "https://open.spotify.com/track/1p7tp4Ez8uNi1RSZMyEKOU"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Sesiones \u00cdntimas",
-        "url": "https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A"
-      },
-      "artists": [
-        {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Dime Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 216035,
+      "name": "Ella es un Volc\u00e1n",
+      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
         "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 154800,
       "name": "A Sabicas (with Joaqu\u00edn Sabina & Miguel Poveda)",
       "url": "https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/7xzYC2mGZnT51Ebb3U4r0F"
-      },
-      "artists": [
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 216035,
-      "name": "Ella es un Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5CwlzzcJGMXuZnnswCoGs7"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Al Doblar la Esquina",
-      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 254786,
       "name": "Hasta Donde tu vayas",
       "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Al Doblar la Esquina",
+      "url": "https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Dentro de Mi",
-        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
+        "name": "Encanto",
+        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
       },
       "artists": [
         {
-          "name": "Enrique Quezadas",
-          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
+          "name": "Amaury Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Dentro de Mi",
-      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
+      "duration_ms": 252380,
+      "name": "Encanto",
+      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Encanto",
-        "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
+        "name": "Dentro de Mi",
+        "url": "https://open.spotify.com/album/2j6jUidNIwLsbsZQVbf2Tw"
       },
       "artists": [
         {
-          "name": "Amaury Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D"
+          "name": "Enrique Quezadas",
+          "url": "https://open.spotify.com/artist/1MkyRRV3u7M1vb7LfkWiUP"
         }
       ],
-      "duration_ms": 252380,
-      "name": "Encanto",
-      "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+      "duration_ms": 295306,
+      "name": "Dentro de Mi",
+      "url": "https://open.spotify.com/track/2qWT4vvbFcgsjWSmbMY4qX"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1447,26 +1447,6 @@
       "duration_ms": 184968,
       "name": "Noche Sin Fin y Mar",
       "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
-        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
-      },
-      "artists": [
-        {
-          "name": "Noel Nicola",
-          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
-        },
-        {
-          "name": "Santiago Feli\u00fa",
-          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
-        }
-      ],
-      "duration_ms": 206204,
-      "name": "Para una Imaginaria Mar\u00eda del Carmen",
-      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Flor Y El Abejorro",
-        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+        "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
+        "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Noel Nicola",
+          "url": "https://open.spotify.com/artist/5Moq2OEsJWSgfZgcqtNJzR"
+        },
+        {
+          "name": "Santiago Feli\u00fa",
+          "url": "https://open.spotify.com/artist/31AxFspaes7Am7i1byB9ns"
         }
       ],
-      "duration_ms": 249740,
-      "name": "La Flor Y El Abejorro",
-      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
+      "duration_ms": 206204,
+      "name": "Para una Imaginaria Mar\u00eda del Carmen",
+      "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1527,6 +1511,22 @@
       "duration_ms": 253354,
       "name": "Todos los ojos te miran (feat. Chico Buarque)",
       "url": "https://open.spotify.com/track/1sWWb3JaGaoHGYoAs6ZAgu"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Flor Y El Abejorro",
+        "url": "https://open.spotify.com/album/5B0THhKW16oWizjRO15lI6"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 249740,
+      "name": "La Flor Y El Abejorro",
+      "url": "https://open.spotify.com/track/5ayFCv4dbmkQFPvFNpZkic"
     },
     {
       "added_at": "2021-07-29 16:46:05",

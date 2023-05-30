@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVZj12Ektr6v.md) - [plain]
 
 > To the world, this is NCT! We are NCT DREAM!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,915 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,600 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

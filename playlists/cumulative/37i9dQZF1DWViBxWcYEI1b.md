@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Anne\-Marie, Shania Twain
 
-710 songs - 1 day 15 hr 35 min
+711 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/track/1SVOLTmC627fn0XY9ltvx2) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [My Stupid Heart \(with Lauv\)](https://open.spotify.com/album/6yT57VsTlEjkZz6539dA8i) | 2:40 | 2023-03-03 | 2023-05-06 |
 | [My Valentine](https://open.spotify.com/track/03SuyWE6YU5bRO7rp7sASB) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [My Valentine](https://open.spotify.com/album/3OQvJiraXKN7zo82ZOy2YT) | 3:28 | 2022-02-11 | 2022-02-26 |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-03-25 | 2022-04-09 |
-| [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-26 |  |
+| [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 | 2023-05-26 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 | 2023-03-11 |
 | [nascar](https://open.spotify.com/track/0vdt3nHBSYvrfb0hWtBOcp) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Liquid Sunshine EP \(Deluxe\)](https://open.spotify.com/album/0pRt5aWOm5gBpoEbIIgzt5) | 3:07 | 2022-09-30 | 2022-11-19 |
 | [nascar](https://open.spotify.com/track/42r7K7a8732waijtnMC5m2) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2), [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [nascar](https://open.spotify.com/album/0wYN2O7hrc3FqrbOfNh6xk) | 3:07 | 2022-08-05 | 2022-10-02 |
@@ -609,6 +609,7 @@
 | [Swimming Like Flying](https://open.spotify.com/track/2xSV3wQkg0vobb29FwZQYr) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Uncertain Country](https://open.spotify.com/album/1FaFeak6yzQUZn96pXHFZ1) | 3:24 | 2023-04-28 | 2023-05-20 |
 | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-04-28 |  |
 | [Teenage Tears](https://open.spotify.com/track/02bXsIFfIuKXcNw1LTBu80) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Teenage Tears](https://open.spotify.com/album/1V5vfb0B2U2pMuyfz3NDOi) | 3:22 | 2022-09-02 | 2022-11-19 |
+| [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-29 |  |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-08 | 2022-05-07 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-05-14 |
 | [The Ballet Girl](https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I) | 3:21 | 2022-12-23 | 2023-01-12 |

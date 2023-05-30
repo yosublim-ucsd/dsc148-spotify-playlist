@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Dua Lipa, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,960 likes - 136 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,994 likes - 136 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 96 | [Runaway](https://open.spotify.com/track/4nQXpJxAyU9mFJv8FHWR9D) | [Liv Harland](https://open.spotify.com/artist/0X9dw83QR5kirBVlMffpKW) | [Runaway](https://open.spotify.com/album/6NM9Q2KEUD1tXGgC5Ue12z) | 3:47 |
 | 97 | [Kissin' Booth](https://open.spotify.com/track/6hgJXxv2jPu8AbM0Yh3nFo) | [Jacob Slater](https://open.spotify.com/artist/2ySjYyLhcKzJFDult8UdYw) | [Kissin' Booth](https://open.spotify.com/album/5EnVVFJ8ibmgcfKf2UTOOd) | 2:56 |
 | 98 | [thinkin bout u \(feat\. Tia Gordon\)](https://open.spotify.com/track/1WLXz8ceRko66Sx720lq8F) | [020whitton](https://open.spotify.com/artist/2VJrhcbkgaDz3iOvY6fNHP), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [thinkin bout u \(feat\. Tia Gordon\)](https://open.spotify.com/album/0Klv1AoMlUaOrTbgDFH2xJ) | 2:43 |
-| 99 | [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
+| 99 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 100 | [Tyrant](https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Tyrant](https://open.spotify.com/album/3EwcJh0H2zzd0dONi7YkgG) | 3:37 |
 | 101 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/4fVY9gN7B5xGGEHCB2nZKg) | [A/K](https://open.spotify.com/artist/1wkcgpN6kse54XE0YfESb8), [Adam K](https://open.spotify.com/artist/22hhjvrWDKX7j3VMGWGAnb) | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/album/6pEhNNWIn51NpDVp1qdhhf) | 3:30 |
 | 102 | [Proton](https://open.spotify.com/track/0cG0mxQdlR6QGkJ9CLKtyy) | [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Proton](https://open.spotify.com/album/6Tx66zOBR8dEX6Ia2JGTLg) | 3:37 |

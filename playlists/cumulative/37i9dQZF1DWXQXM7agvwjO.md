@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Reality Club
 
-795 songs - 1 day 23 hr 40 min
+796 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 | 2023-03-23 | 2023-05-19 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-31 | 2023-05-05 |
+| [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-25 |  |
 | [Kill Your Ego](https://open.spotify.com/track/3aBSxQLr3hBNZmkb6JxFhr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Kill Your Ego](https://open.spotify.com/album/5AOJIBmdhYFHrZKsZy8fTj) | 3:50 | 2022-06-09 | 2022-06-17 |
 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 | 2023-04-20 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-26 | 2022-07-29 |
@@ -452,7 +453,7 @@
 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 | 2023-02-09 | 2023-03-10 |
 | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/track/0cy1Ix7DSmvOwh1CItLptA) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Naomi, Why Won't You Answer My Call?](https://open.spotify.com/album/4so2GyTxSd7QJQoaKSu5Fk) | 2:56 | 2022-03-24 | 2022-04-29 |
 | [Navy Blue](https://open.spotify.com/track/13beFs39hK7h6LCeyWIfId) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a), [Tanskul](https://open.spotify.com/artist/5xGyJjrvJDPyxVyRphXweh) | [Navy Blue](https://open.spotify.com/album/3vGosdW2ia9BPB5x46UH8p) | 3:12 | 2022-09-15 | 2022-11-18 |
-| [Neck and Neck](https://open.spotify.com/track/1KBIRZVg2TYrQ2Tk56OImE) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Neck and Neck](https://open.spotify.com/album/2ZwfOdRLBxZ2w7rycYvmzK) | 2:45 | 2022-07-14 |  |
+| [Neck and Neck](https://open.spotify.com/track/1KBIRZVg2TYrQ2Tk56OImE) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Neck and Neck](https://open.spotify.com/album/2ZwfOdRLBxZ2w7rycYvmzK) | 2:45 | 2022-07-14 | 2023-05-30 |
 | [New Dawn](https://open.spotify.com/track/0LSYBazYTYInWDCsJKVm5c) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [New Dawn](https://open.spotify.com/album/4fmEvtc9W3pmIHgGj0mQ7c) | 3:02 | 2022-06-16 | 2022-07-22 |
 | [New Morning](https://open.spotify.com/track/3MDzm55OlzM0D2Nw4qfgFb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [New Morning](https://open.spotify.com/album/4wYcxu7ys9LdYSWER7GxPX) | 7:27 | 2022-04-07 | 2022-05-20 |
 | [New World \(feat\. Lang Lee\)](https://open.spotify.com/track/1WAKQaJR9MrYCRRrzxtAwO) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn), [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [New World \(feat\. Lang Lee\)](https://open.spotify.com/album/13pOeFKntLGo1iROzONsEr) | 5:28 | 2022-11-24 | 2023-02-10 |

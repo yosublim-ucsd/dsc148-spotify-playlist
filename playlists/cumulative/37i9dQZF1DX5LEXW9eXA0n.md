@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:HYNN\(박혜원\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Melomance\(멜로망스\)\) \(당신의 감성에 발라드, 려요\)
 
-899 songs - 2 day 10 hr 29 min
+900 songs - 2 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Pining Wind](https://open.spotify.com/track/0VMcRleh9Pep4inwQSO2rv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [A Pining Wind](https://open.spotify.com/album/3GrDwT7tSSKz861FBjRDZz) | 5:00 | 2022-09-29 | 2023-01-11 |
 | [A Rainy Night](https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [A Rainy Night](https://open.spotify.com/album/3NrgCIy6LfDqlxWaUHAbUi) | 3:57 | 2022-01-17 | 2022-04-09 |
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-07-07 | 2022-08-19 |
+| [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 | 2023-05-29 |  |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-27 | 2023-03-28 |
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-04-26 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |

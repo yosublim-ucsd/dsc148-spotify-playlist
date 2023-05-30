@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 124376,
       "name": "B-Day (feat. DAVI, baka\u00ae, Korelon)",
       "url": "https://open.spotify.com/track/2QqVRDgYIZbOXCKp3qrd6m"
@@ -3925,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
+    },
+    {
+      "album": {
         "name": "de\u00e4m",
         "url": "https://open.spotify.com/album/7fy9yoRqqtI9wCRxsI4CAK"
       },
@@ -4536,6 +4554,24 @@
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Du hast",
+      "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
     },
     {
       "album": {
@@ -7020,7 +7056,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 246691,
       "name": "GoDdAmN 2",
       "url": "https://open.spotify.com/track/5M6QkjjCLEB7jevSosOvvn"
@@ -22113,6 +22149,24 @@
     },
     {
       "album": {
+        "name": "Mutter",
+        "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "Sonne",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F"
+    },
+    {
+      "album": {
         "name": "Soppahousut",
         "url": "https://open.spotify.com/album/6PSqQH5B9ftNcm5aqUjzSG"
       },
@@ -23092,7 +23146,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 187909,
       "name": "Syd\u00e4met\u00f6n",
       "url": "https://open.spotify.com/track/0WoNCC6PYAxfqOKxVRSynq"

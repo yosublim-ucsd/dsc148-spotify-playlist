@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã com Vulgo FK e Chefin, TIAGO IORC com LUDMILLA, Juliette, XANDDY HARMONIA com Lauana Prado, Taylor Swift  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,037 likes - 98 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875,472 likes - 98 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

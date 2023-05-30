@@ -1760,6 +1760,24 @@
     {
       "album": {
         "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
+      },
+      "artists": [
+        {
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
+    },
+    {
+      "album": {
+        "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
       },
       "artists": [
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 181586,
       "name": "Min k\u00e4rlek",
       "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"

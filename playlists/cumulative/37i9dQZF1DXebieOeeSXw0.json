@@ -4540,7 +4540,7 @@
     {
       "album": {
         "name": "More Gregory",
-        "url": "https://open.spotify.com/album/5BeeQ4MSCbwfL6IsNyJ7cM"
+        "url": "https://open.spotify.com/album/70eynxpbUifQILq4SeVmF8"
       },
       "artists": [
         {
@@ -4551,6 +4551,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219659,
+      "name": "Oh What A Feeling",
+      "url": "https://open.spotify.com/track/0Nsta4NyvGgyLMRRwknYmW"
+    },
+    {
+      "album": {
+        "name": "More Gregory",
+        "url": "https://open.spotify.com/album/5BeeQ4MSCbwfL6IsNyJ7cM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
       "duration_ms": 219659,
       "name": "Oh What A Feeling",
       "url": "https://open.spotify.com/track/4QDmCalJi2bpzPrzeyU7jE"

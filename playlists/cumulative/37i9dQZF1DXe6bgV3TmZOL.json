@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "I, The Mask",
+        "url": "https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229816,
+      "name": "I Am Above",
+      "url": "https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z"
+    },
+    {
+      "album": {
         "name": "I Am Damnation",
         "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
       },
@@ -6032,7 +6050,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 214666,
       "name": "The Shape of Water",
       "url": "https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=kpZrz\-JWTb2pNiXl8PglgA">Gerhard Steyn</a> & <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=PtmxtTliRzeSVDO8T\_HfFw">Loufi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,261 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,363 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

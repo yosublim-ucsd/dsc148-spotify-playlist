@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2248,
+  "num_followers": 2250,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzI4MCxiNWY1OGEyYThlNDIzN2Y0MjAxOTExMTg3NWVmYWZkMjBmMDYxNmNl",
+  "snapshot_id": "MzMxMSwwOTJiMWY5ODk2ODRiMjg3N2ZhYTBkNTM1MzU0NGJhZGQ1NWE4NzAz",
   "tracks": [
     {
       "added_at": "2023-05-12 16:24:04",
@@ -23,6 +23,78 @@
       "duration_ms": 182659,
       "name": "Trees",
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+    },
+    {
+      "added_at": "2023-05-28 13:09:41",
+      "album": {
+        "name": "Hot Stuff",
+        "url": "https://open.spotify.com/album/24Vq0XyuYxGh4Q7fu8mpiJ"
+      },
+      "artists": [
+        {
+          "name": "GIANT",
+          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
+        }
+      ],
+      "duration_ms": 152244,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/5C6PKaVGXnQc2YaS2BhXPF"
+    },
+    {
+      "added_at": "2023-05-28 13:10:01",
+      "album": {
+        "name": "Down (Illusionize, Viot Rework)",
+        "url": "https://open.spotify.com/album/4es3qre14ZUWofRzMdbpvI"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "duration_ms": 290629,
+      "name": "Down - Illusionize, Viot Rework",
+      "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "added_at": "2023-05-28 13:09:47",
+      "album": {
+        "name": "Hot Shit",
+        "url": "https://open.spotify.com/album/6lOlaHBaVZTrzK6mNYU7U4"
+      },
+      "artists": [
+        {
+          "name": "Omar Svenson",
+          "url": "https://open.spotify.com/artist/1VRbWYmP73QpIVoRUWTLLg"
+        },
+        {
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Hot Shit",
+      "url": "https://open.spotify.com/track/0vi0vTfQqpWyy90tOk4qyq"
+    },
+    {
+      "added_at": "2023-03-17 19:24:07",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
       "added_at": "2023-05-21 14:29:22",
@@ -47,6 +119,22 @@
       "duration_ms": 183318,
       "name": "Gas Pedal - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+    },
+    {
+      "added_at": "2023-05-28 13:09:58",
+      "album": {
+        "name": "La Fuega Oculta / Yelli",
+        "url": "https://open.spotify.com/album/11vHLYho4kaaobxIsBFWLf"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "La Fuega Oculta",
+      "url": "https://open.spotify.com/track/7mdVDuw4JBHDw4ZWFkCPEs"
     },
     {
       "added_at": "2023-05-21 14:29:25",
@@ -89,10 +177,10 @@
       "url": "https://open.spotify.com/track/0uTDzjsmG91eaVkUbcBmRx"
     },
     {
-      "added_at": "2023-03-17 19:24:07",
+      "added_at": "2023-02-10 17:30:44",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
       },
       "artists": [
         {
@@ -100,9 +188,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
     },
     {
       "added_at": "2023-05-14 13:37:32",
@@ -153,6 +241,42 @@
       "url": "https://open.spotify.com/track/00KBtVGgY5Gz95CvR1yOXS"
     },
     {
+      "added_at": "2023-05-28 13:10:05",
+      "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/5j4fMcmXTmmHwhau0rrh9I"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Lowderz",
+          "url": "https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Dum Dum",
+      "url": "https://open.spotify.com/track/79UqmV70OHe4iJwWgzZY3j"
+    },
+    {
+      "added_at": "2023-01-20 06:39:56",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+    },
+    {
       "added_at": "2023-05-21 14:28:21",
       "album": {
         "name": "Closer",
@@ -169,56 +293,20 @@
       "url": "https://open.spotify.com/track/3BfwCoHLwKuX5HfPlGPOLi"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
+      "added_at": "2023-05-28 13:10:08",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+        "name": "Conga",
+        "url": "https://open.spotify.com/album/4nowK3zy4mq38HDXun5d5T"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
-      "added_at": "2023-04-30 11:55:21",
-      "album": {
-        "name": "Kanta",
-        "url": "https://open.spotify.com/album/7q6uEWdfO62rP1fDZI3vWo"
-      },
-      "artists": [
-        {
-          "name": "Zack Darza",
-          "url": "https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Kanta",
-      "url": "https://open.spotify.com/track/7qwSBOVhhcb4Da6FSpCGb8"
-    },
-    {
-      "added_at": "2023-04-30 11:55:29",
-      "album": {
-        "name": "Bossy",
-        "url": "https://open.spotify.com/album/0UaROBpNn1QFRlg2DHd8io"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Krizman Toni",
-          "url": "https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0"
-        }
-      ],
-      "duration_ms": 189119,
-      "name": "Bossy",
-      "url": "https://open.spotify.com/track/2LymA0AbWOxhdobdlHdhUL"
+      "duration_ms": 171162,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3"
     },
     {
       "added_at": "2023-05-21 14:27:46",
@@ -269,10 +357,10 @@
       "url": "https://open.spotify.com/track/5vNQ6XnOHTP9yiKwj0n6zy"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
+      "added_at": "2022-09-30 05:47:41",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
       },
       "artists": [
         {
@@ -280,49 +368,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
-    },
-    {
-      "added_at": "2023-04-30 11:55:52",
-      "album": {
-        "name": "Naughty",
-        "url": "https://open.spotify.com/album/55eFetaEDWddPSu31yr84q"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Clappa",
-      "url": "https://open.spotify.com/track/7xg64Eg2avjGw44TmtI4GQ"
-    },
-    {
-      "added_at": "2023-05-14 13:37:29",
-      "album": {
-        "name": "Esta Noche",
-        "url": "https://open.spotify.com/album/0btmQ6ej7gwhFGrWDx5heb"
-      },
-      "artists": [
-        {
-          "name": "Mareels",
-          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
-        },
-        {
-          "name": "Yautja",
-          "url": "https://open.spotify.com/artist/44g8qxsuhlZChD0ItRRDGq"
-        },
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 180634,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/1rNVSDQZe53vVTFIvI54RI"
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-05-14 13:37:16",
@@ -341,6 +389,26 @@
       "url": "https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S"
     },
     {
+      "added_at": "2023-05-28 13:10:18",
+      "album": {
+        "name": "Mandarino",
+        "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Puff (ITA)",
+          "url": "https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf"
+        }
+      ],
+      "duration_ms": 308085,
+      "name": "Mandarino",
+      "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
+    },
+    {
       "added_at": "2023-05-21 14:30:01",
       "album": {
         "name": "Most Rappers / South London",
@@ -355,22 +423,6 @@
       "duration_ms": 180000,
       "name": "Most Rappers",
       "url": "https://open.spotify.com/track/6JPUnXVzg7Nsu0NMQyJQE9"
-    },
-    {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-05-14 13:37:37",
@@ -389,6 +441,22 @@
       "url": "https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1"
     },
     {
+      "added_at": "2022-07-15 16:45:56",
+      "album": {
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "Abra",
+      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
+    },
+    {
       "added_at": "2023-05-21 14:27:18",
       "album": {
         "name": "Your Mind Is Dirty",
@@ -403,26 +471,6 @@
       "duration_ms": 198799,
       "name": "Your Mind Is Dirty",
       "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
-    },
-    {
-      "added_at": "2023-04-30 11:55:59",
-      "album": {
-        "name": "Sueltate",
-        "url": "https://open.spotify.com/album/7gsKayaP9XMyAaLF3RGArF"
-      },
-      "artists": [
-        {
-          "name": "Dre Mendez",
-          "url": "https://open.spotify.com/artist/7IgWNyKhkmxREElrD3XEvk"
-        },
-        {
-          "name": "Caleb Dent",
-          "url": "https://open.spotify.com/artist/3V6IeJyXSj7ApMbvv1ZqWE"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Sueltate",
-      "url": "https://open.spotify.com/track/6H9nRRIKgRARzEWxxKrInp"
     },
     {
       "added_at": "2023-05-14 13:37:26",
@@ -445,22 +493,6 @@
       "url": "https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs"
     },
     {
-      "added_at": "2022-07-15 16:45:56",
-      "album": {
-        "name": "Abra",
-        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Abra",
-      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
-    },
-    {
       "added_at": "2023-05-14 13:37:35",
       "album": {
         "name": "EDC Las Vegas 2023",
@@ -475,38 +507,6 @@
       "duration_ms": 170196,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5rARPIJHK466cBchvXeb2f"
-    },
-    {
-      "added_at": "2023-05-14 13:37:23",
-      "album": {
-        "name": "Masava EP",
-        "url": "https://open.spotify.com/album/6ornbfk8U5XQ5DpEt2GEkc"
-      },
-      "artists": [
-        {
-          "name": "Mene",
-          "url": "https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3sjoI17SWnYP20ILoaGhW9"
-    },
-    {
-      "added_at": "2023-04-30 11:56:04",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML"
-      },
-      "artists": [
-        {
-          "name": "OMBRO",
-          "url": "https://open.spotify.com/artist/651nuNscY3BP9sr0LFpPwo"
-        }
-      ],
-      "duration_ms": 175429,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt"
     },
     {
       "added_at": "2023-05-21 14:28:36",
@@ -525,20 +525,24 @@
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
-      "added_at": "2023-05-14 13:37:18",
+      "added_at": "2023-05-28 13:09:44",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 207761,
-      "name": "So Sweet",
-      "url": "https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX"
+      "duration_ms": 308860,
+      "name": "See The Light (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
     }
   ],
   "unique_name": "AGLF Playlist",

@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 331053,
       "name": "Clinging to the Ledge",
       "url": "https://open.spotify.com/track/71KiSnfV0Q4ug0Pv1V83oK"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 179960,
       "name": "Get to the Country",
       "url": "https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J"
@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248009,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/0aZLBvvY0fD4E27sqA3tm8"
+    },
+    {
+      "album": {
         "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
       },
@@ -1806,6 +1824,24 @@
       "duration_ms": 228573,
       "name": "You'll Let Me Know",
       "url": "https://open.spotify.com/track/5qFgkAegJUlElcXmdUKJUk"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228654,
+      "name": "You'll Let Me Know",
+      "url": "https://open.spotify.com/track/3YfHt1q2C0FCn9rQqYJmS8"
     },
     {
       "album": {

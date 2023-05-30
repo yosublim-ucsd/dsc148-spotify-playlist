@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-535 songs - 1 day 6 hr 14 min
+536 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Doing To Me](https://open.spotify.com/track/1ioqD1XvFGDomjXkKNCBQB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Trust Issues](https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E) | 3:10 | 2020-10-13\* | 2021-12-04 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2023-01-28 |
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2021-02-19 | 2021-07-04 |
+| [dot dot dot](https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [dot dot dot](https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1) | 2:17 | 2023-05-26 |  |
 | [Down Since '07](https://open.spotify.com/track/1dmYjJ35vKDV72rptktSTu) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Down Since '07](https://open.spotify.com/album/7q17UkDMOymKG7HsphFwdR) | 1:37 | 2022-04-16 | 2022-05-20 |
 | [Dragonfly](https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Dragonfly](https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE) | 3:19 | 2021-09-29 | 2022-05-20 |
 | [drinking games](https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G) | 3:20 | 2021-07-18 | 2021-11-20 |
@@ -240,7 +241,7 @@
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2021-08-29 |  |
 | [I Don't Know You Anymore \- demo](https://open.spotify.com/track/6QSH5lHbiKxOTqc9WSdi09) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I Don't Know You Anymore \(demo\)](https://open.spotify.com/album/0oEcktTBdE01o80o1ZSFsO) | 2:57 | 2020-10-13\* | 2021-10-14 |
 | [i don't miss u](https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [i don't miss u](https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX) | 2:58 | 2020-10-13\* | 2021-12-04 |
-| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 |  |
+| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 | 2023-05-30 |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-09-17 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-11-18 | 2021-07-04 |

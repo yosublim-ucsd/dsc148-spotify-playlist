@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/11jpgkfVwWidS3bry5tl1n"
+      },
+      "artists": [
+        {
+          "name": "Marco Biondo",
+          "url": "https://open.spotify.com/artist/2jOYppvhgxH0EV9N5NOFlJ"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204959,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/5VBaWgcLreU0ETw9ZWKume"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed",
         "url": "https://open.spotify.com/album/6ap5fnMGOUCNLbgXAEg2JX"
       },
@@ -1489,6 +1507,32 @@
     },
     {
       "album": {
+        "name": "Hot Models",
+        "url": "https://open.spotify.com/album/7kurMHPoZtGfSPetksQC1M"
+      },
+      "artists": [
+        {
+          "name": "Mark Bale",
+          "url": "https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx"
+        },
+        {
+          "name": "Nezir Kara",
+          "url": "https://open.spotify.com/artist/5jODUKK5AyTZzv19CqYR3V"
+        },
+        {
+          "name": "Dan.J",
+          "url": "https://open.spotify.com/artist/1HlvA7lC7b17DrDM34BEeA"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137982,
+      "name": "Hot Models",
+      "url": "https://open.spotify.com/track/6WlZwbR8W2QpE0y2Ea2zeV"
+    },
+    {
+      "album": {
         "name": "Hot Stuff",
         "url": "https://open.spotify.com/album/24Vq0XyuYxGh4Q7fu8mpiJ"
       },
@@ -2126,6 +2170,24 @@
       "duration_ms": 174375,
       "name": "Magalenha",
       "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+    },
+    {
+      "album": {
+        "name": "Make Love",
+        "url": "https://open.spotify.com/album/5JNnP4ZdBQCOs1VwJMs3D8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213353,
+      "name": "Make Love",
+      "url": "https://open.spotify.com/track/4ayNdb4ucumpb3qVzxdM85"
     },
     {
       "album": {
@@ -3452,6 +3514,24 @@
       "duration_ms": 140783,
       "name": "STRESS - Andry J Remix",
       "url": "https://open.spotify.com/track/2Zie9bbu0a4d8n4AHMuQjN"
+    },
+    {
+      "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/57rt4sRTLfULAgMoZzqjvW"
+      },
+      "artists": [
+        {
+          "name": "Gotlucky",
+          "url": "https://open.spotify.com/artist/0h3ZnunNbFkhUWGygorbVg"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/4pYlVv7kVRH8CmU9pefdsE"
     },
     {
       "album": {

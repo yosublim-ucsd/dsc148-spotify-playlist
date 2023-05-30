@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-694 songs - 1 day 13 hr 22 min
+695 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2step \(feat\. Budjerah\)](https://open.spotify.com/track/5viJfHHj5qnP55zoEWMh97) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [2step \(feat\. Budjerah\)](https://open.spotify.com/album/3wd91jE2MWmMsHjAP4TA7v) | 2:33 | 2022-05-10 |  |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-04-22 |  |
 | [9 Feet Tall](https://open.spotify.com/track/5QbifeQkWWPvn6lvT3lXpl) | [Alex Frew](https://open.spotify.com/artist/6MAkYH7Pz4yusy6J11baeE) | [Cobalt](https://open.spotify.com/album/6u71sqyPz80VM8K8CCOgZf) | 3:30 | 2021-02-26 |  |
+| [A Light Calling](https://open.spotify.com/track/0HBTFColOzJZPU07eX1wcB) | [Luke Thompson](https://open.spotify.com/artist/2Cd44ho20XhLnQu1ArHqWh) | [A Light Calling](https://open.spotify.com/album/4HAqGS0eoGORwNdJMHkoLD) | 3:15 | 2023-05-29 |  |
 | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/track/1qD8IFhhATn4f02ncWKZRE) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [a little bit bored \(feat\. ruuth\)](https://open.spotify.com/album/6hgLbcVaekLnvGdj4BHDTL) | 2:59 | 2021-02-19 |  |
 | [A Place That I Don’t Know](https://open.spotify.com/track/3Iy6H9BobVem5HyFBRVPpB) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [A Place That I Don't Know](https://open.spotify.com/album/7ojZsqV16bkGUvRNZRkGsK) | 3:05 | 2019-08-27\* | 2019-11-11 |
 | [AAA](https://open.spotify.com/track/1DnN1RRe7dFzCkfU72XuZI) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [AAA](https://open.spotify.com/album/1q38Rw2eFDewAYW0TkBBUJ) | 3:46 | 2020-03-21 | 2021-05-12 |

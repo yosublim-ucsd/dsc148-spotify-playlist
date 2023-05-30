@@ -1617,6 +1617,32 @@
     },
     {
       "album": {
+        "name": "Big Cut",
+        "url": "https://open.spotify.com/album/3hCLgL7OrV3APrUegkRYXu"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194536,
+      "name": "Big Cut",
+      "url": "https://open.spotify.com/track/3FKq3sNv8F7IGn77nqlEVq"
+    },
+    {
+      "album": {
         "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
         "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
       },
@@ -6176,7 +6202,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 167812,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se"
@@ -6404,7 +6430,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -7057,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Mami No Est\u00e9s Triste",
+        "url": "https://open.spotify.com/album/1zfbqj4jWdHyMtOQJKdMA3"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409367,
+      "name": "Mami No Est\u00e9s Triste",
+      "url": "https://open.spotify.com/track/0zbZ35wheiBtqPH2noBVhF"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -7618,7 +7662,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
@@ -10606,7 +10650,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 225306,
       "name": "ROPA CARA",
       "url": "https://open.spotify.com/track/3xRuYQbEK2CkEre89k5jDY"
@@ -11718,7 +11762,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 181044,
       "name": "Su Altura",
       "url": "https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E"
@@ -11950,7 +11994,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-30",
       "duration_ms": 151117,
       "name": "TE EXO DE MENOS :(",
       "url": "https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI"

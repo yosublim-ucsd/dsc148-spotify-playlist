@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-65 songs - 3 hr 53 min
+66 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [El Amor Despues Del Amor](https://open.spotify.com/track/2UInWUPg1jiOkXWCBr2CKD) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Amor Despues Del Amor](https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI) | 3:00 | 2021-05-13 |  |
 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 | 2021-05-13 |  |
 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 | 2021-05-13 |  |
+| [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 | 2023-05-29 |  |
 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 | 2021-05-13 |  |
 | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/track/0hbK1n62deXhuCCRXA3ZhL) | [Chris Correa](https://open.spotify.com/artist/6gP0olVV5ChX9cwrwv2dBK) | [Es Tan Facil Romper Un Corazon \(feat\. Mau Barona\)](https://open.spotify.com/album/6BKsP9ow0lUGA3mhREMoAx) | 3:44 | 2021-05-13 |  |
 | [Filofobia](https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP) | 3:02 | 2023-02-24 |  |

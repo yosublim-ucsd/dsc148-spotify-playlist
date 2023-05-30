@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=AdaIRxyGQWaDv\_DQYnjBjQ">Marissa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,631 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 24 | [Babel](https://open.spotify.com/track/1wCeEH5OsNOnj9MpmKBVR2) | [Almero](https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR) | [Babel](https://open.spotify.com/album/785ia4mmKv63pCkh6Nv9pq) | 2:55 |
 | 25 | [Ek Moes Dit Gesê Het](https://open.spotify.com/track/4SPkoOxB7YapvdbghtccTl) | [Andriette](https://open.spotify.com/artist/7bnm6q08SwpVAs76TGUj1P) | [Ek Moes Dit Gesê Het](https://open.spotify.com/album/5lucuqI53Ku3ukgOCy3PAg) | 4:07 |
 | 26 | [Kortbroek](https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY) | [Caroline Grace](https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM) | [Kortbroek](https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH) | 2:56 |
-| 27 | [Medals For Mothers](https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Medals For Mothers](https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE) | 2:45 |
+| 27 | [Liefdeskind](https://open.spotify.com/track/6m7LPmRFMhWjrU3Xgww3ob) | [Dani Villé](https://open.spotify.com/artist/1rjwjcduMBO9Pn36ZnqHDE) | [Liefdeskind](https://open.spotify.com/album/5a5a6LVsGeQYCIorRccgSU) | 3:59 |
 | 28 | [Terug Na Jou](https://open.spotify.com/track/2aGgMD2Ey7W3MkmAH0uPPy) | [Wynand Strydom](https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj) | [Terug Na Jou](https://open.spotify.com/album/6ec2TGO2mwuqiH2ccwwIn7) | 3:21 |
 | 29 | [\#23](https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl) | [Lisie Basson](https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR) | [\#23](https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2) | 2:42 |
 | 30 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 |
 | 50 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 |
 
-Snapshot ID: `MCxlZGY1Yzc1ZTM0Y2M1ZTcxOGE4ZTY5ZWI4NzgwMjdlZjNjM2YxYjBi`
+Snapshot ID: `MCxjN2Q0YTNmOTI0ZWZiNzMwNGY5OTIzMmNhYTE4ZTE2MTkxYzliZDFm`

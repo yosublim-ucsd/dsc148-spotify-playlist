@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12412,
+  "num_followers": 12418,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "The Education of the Individual Soul",
         "url": "https://open.spotify.com/album/4IYRk5HoYTrYFUkTWRc8ot"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "My Name Is Bear",
         "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 285480,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Stay Human Vol. II",
+        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Just to Say I Love You",
+      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "HOKA",
         "url": "https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Stay Human Vol. II",
-        "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 169689,
-      "name": "Just to Say I Love You",
-      "url": "https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Everyday Life, Everyday People",
         "url": "https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        },
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
-        }
-      ],
-      "duration_ms": 262174,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -867,6 +847,22 @@
       "duration_ms": 266746,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Take Your Power Back",
+        "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 207485,
+      "name": "Lifeguard",
+      "url": "https://open.spotify.com/track/38tJGBXQVq4BnKHBGCcdQ4"
     }
   ],
   "unique_name": "Peace Of Mind",

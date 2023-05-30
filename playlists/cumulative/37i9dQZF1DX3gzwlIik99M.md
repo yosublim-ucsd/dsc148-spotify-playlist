@@ -4,7 +4,7 @@
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-183 songs - 12 hr 30 min
+184 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 | 2020-10-24 |  |
 | [Mawiza Ñi Piwke](https://open.spotify.com/track/0CXdGgWZMDr8ze8NO2XAjd) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Mawiza Ñi Piwke](https://open.spotify.com/album/6539WvG4lD8gvodbPr9hEW) | 3:55 | 2020-10-24 | 2022-07-22 |
 | [Merciless Machine](https://open.spotify.com/track/14YPy9y4pGct5kDHwYl0ns) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M\. \(Up for the Massacre\)](https://open.spotify.com/album/1QFZRMsBbTK27CbtIRX5yP) | 5:15 | 2020-10-24 | 2023-05-11 |
+| [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 | 2023-04-28 |  |
 | [Minos](https://open.spotify.com/track/1cOM5qzSSxuCc2CLMR7BGF) | [The Arcane Hate](https://open.spotify.com/artist/2MO4AtDtp33PTj17zFm3yi) | [Decadencia](https://open.spotify.com/album/2tGTIfITV3Ef4FJ7PpKIrD) | 3:03 | 2020-10-24 | 2022-07-24 |
 | [Molinos De Viento](https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [La Leyenda De La Mancha](https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7) | 4:11 | 2020-10-24 |  |
 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 | 2020-10-24 |  |
@@ -136,7 +137,7 @@
 | [Opus Dei](https://open.spotify.com/track/1XtW8SZGSR5SL7hWAWltam) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Opus Dei](https://open.spotify.com/album/7rOKUNLu2VyLL5IOD8zUy2) | 2:58 | 2020-10-24 | 2022-07-27 |
 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 | 2020-10-24 | 2022-07-27 |
 | [Oídos Sordos](https://open.spotify.com/track/77LC0Gp1UA0tURs9iTF0Bk) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/18QMq4GDdBduClwIG2RjUF) | 5:09 | 2020-10-24 | 2022-07-24 |
-| [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 | 2020-10-24 |  |
+| [Oídos Sordos](https://open.spotify.com/track/2O5p5Q5wxrzTD1MUePdeGL) | [Lethal Creation](https://open.spotify.com/artist/4AhluimFPLNnran1jD354B) | [Tierras Muertas](https://open.spotify.com/album/5gZM5ZDTygLJlzi6A7Ya8Q) | 5:09 | 2020-10-24 | 2023-05-30 |
 | [Pacto Pesado](https://open.spotify.com/track/63MHBrGBDADyDEDHv5uWej) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Oscuro Plan del Poder](https://open.spotify.com/album/0Ja02wnS135j7p3CJTfjbJ) | 3:38 | 2023-04-28 |  |
 | [Pain](https://open.spotify.com/track/3iW7mkx4IRFWlfFfYLdw24) | [Cromlech](https://open.spotify.com/artist/6Cn0i5S3HFlCJqzVBLSksj) | [A Deep Dark Dream](https://open.spotify.com/album/2fBvjaaGkLJSZ3as76woZy) | 4:50 | 2020-10-24 | 2022-07-19 |
 | [Patria Grande](https://open.spotify.com/track/4iLCcS2FPLARpk79K048Xd) | [Ursus](https://open.spotify.com/artist/60cpBRimjYOTTE3jnr7o9L) | [Fuerza Metal](https://open.spotify.com/album/00qPzHDaaXYuQohykbushK) | 3:01 | 2020-10-24 | 2022-07-28 |

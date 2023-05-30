@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-298 songs - 21 hr 38 min
+299 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-11 |  |
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 |  |
 | [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2021-12-17 | 2023-01-22 |
-| [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2022-05-25 |  |
+| [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2022-05-25 | 2023-05-30 |
 | [Drifting](https://open.spotify.com/track/7coZuTH340U7sJKtTMsG93) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Drifting](https://open.spotify.com/album/0zS6U86mdHxv2w1AzJBFv2) | 4:01 | 2022-12-30 | 2023-01-29 |
 | [Dry Water](https://open.spotify.com/track/3xQH8Wn7AaDIcQlK7itltB) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC) | [Blue Bird](https://open.spotify.com/album/23k3ADRVxmy9EbEhmXnUsG) | 5:43 | 2022-09-15 | 2022-12-04 |
 | [Dust Motes Dancing In The Sunbeams \(Hammershøi\)](https://open.spotify.com/track/1lIXjtM3QvNgF7nmG8rSG4) | [Jakob Davidsen](https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Jesper Egelund](https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD) | [Silence Trio 3](https://open.spotify.com/album/4YJtOu1l3UMvkeXGz7AmSf) | 5:03 | 2021-12-17 | 2022-07-29 |
@@ -189,6 +189,7 @@
 | [Peace Piece](https://open.spotify.com/track/3gi5sApfm4Wt6kVp7IWwsy) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Lost & Found](https://open.spotify.com/album/2IwRPoM4pqAfv10x8YDiSt) | 6:42 | 2022-08-25 | 2022-11-10 |
 | [Peace Piece](https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos) | 4:13 | 2021-12-17 | 2022-06-01 |
 | [Petrus](https://open.spotify.com/track/56muRlT0rsMD0Mx18LFELG) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Out of the Loop](https://open.spotify.com/album/0pR6sQfNeIgdyP7dnV34HD) | 7:59 | 2022-05-25 | 2022-12-13 |
+| [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs) | [Pleasewakeupalittlefaster please \. \. .](https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu) | 3:49 | 2021-12-17 | 2022-05-04 |
 | [Poetry](https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd) | 3:52 | 2022-06-29 | 2022-11-11 |
 | [Poetry](https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Poetry](https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY) | 3:52 | 2021-12-17 | 2022-07-29 |

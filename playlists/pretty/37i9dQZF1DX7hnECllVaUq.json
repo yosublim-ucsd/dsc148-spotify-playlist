@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Kip Moore",
-  "num_followers": 19337,
+  "num_followers": 19576,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 167480,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Forever After All",
-      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Older I Get",
-        "url": "https://open.spotify.com/album/4OSdpAcESH8L6kPlvDvXvB"
-      },
-      "artists": [
-        {
-          "name": "Chris Else",
-          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "The Older I Get",
-      "url": "https://open.spotify.com/track/1xxSs49l1I9jgRtvQ58Dk0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Older I Get",
+        "url": "https://open.spotify.com/album/4OSdpAcESH8L6kPlvDvXvB"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "The Older I Get",
+      "url": "https://open.spotify.com/track/1xxSs49l1I9jgRtvQ58Dk0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 218280,
       "name": "All Your'n",
       "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -659,8 +659,8 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
@@ -668,25 +668,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
+      "duration_ms": 232533,
+      "name": "Forever After All",
+      "url": "https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -707,22 +691,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Whiskey To My Soul",
-        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
-      },
-      "artists": [
-        {
-          "name": "Roan Ash",
-          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "If I Ever Saw Heaven",
-      "url": "https://open.spotify.com/track/0voq3BUXS38G6fwNlTr2sH"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
       },
@@ -739,34 +707,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Whiskey To My Soul",
+        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Good Ol' Days",
-        "url": "https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 166622,
-      "name": "Good Ol' Days",
-      "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
+      "duration_ms": 230493,
+      "name": "If I Ever Saw Heaven",
+      "url": "https://open.spotify.com/track/0voq3BUXS38G6fwNlTr2sH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -807,6 +759,54 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Good Ol' Days",
+        "url": "https://open.spotify.com/album/3qHNYgJtAHuEC1tuDrG3Y4"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 166622,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/07bztO7lCRlecndWo6OB8Z"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "If I Was Your Lover",
-        "url": "https://open.spotify.com/album/3RwhwntJuYBPUl6tCJI7wr"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
       "artists": [
         {
           "name": "Kip Moore",
           "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
         }
       ],
-      "duration_ms": 220306,
-      "name": "If I Was Your Lover",
-      "url": "https://open.spotify.com/track/2zWbXUgWEWwubCja3ArCTu"
+      "duration_ms": 215920,
+      "name": "Hey Pretty Girl",
+      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1467,26 +1463,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Last Time Last",
-        "url": "https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        },
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 183644,
-      "name": "Last Time Last",
-      "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Jade Eagleson",
         "url": "https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w"
       },
@@ -1515,6 +1491,26 @@
       "duration_ms": 174096,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Last Time Last",
+        "url": "https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 183644,
+      "name": "Last Time Last",
+      "url": "https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1555,6 +1551,42 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "GOT IT GOOD",
+        "url": "https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 173031,
+      "name": "GOT IT GOOD",
+      "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "If I Was Your Lover",
+        "url": "https://open.spotify.com/album/3RwhwntJuYBPUl6tCJI7wr"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "If I Was Your Lover",
+      "url": "https://open.spotify.com/track/2zWbXUgWEWwubCja3ArCTu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Dear Life",
         "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
       },
@@ -1564,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
         }
       ],
-      "duration_ms": 180301,
-      "name": "She's with Me",
-      "url": "https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6"
+      "duration_ms": 211613,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1583,38 +1615,6 @@
       "duration_ms": 234848,
       "name": "High Time",
       "url": "https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Hey Pretty Girl",
-      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "GOT IT GOOD",
-        "url": "https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF"
-      },
-      "artists": [
-        {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
-        }
-      ],
-      "duration_ms": 173031,
-      "name": "GOT IT GOOD",
-      "url": "https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N"
+        "name": "Whiskey To My Soul",
+        "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV"
+      "duration_ms": 225773,
+      "name": "Whiskey To My Soul",
+      "url": "https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz"
     }
   ],
   "unique_name": "Country Worldwide",

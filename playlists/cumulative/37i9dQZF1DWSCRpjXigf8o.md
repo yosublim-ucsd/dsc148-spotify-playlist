@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-303 songs - 18 hr 21 min
+304 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Love & Money](https://open.spotify.com/track/69puCjWb1rrocZBah5s3GR) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Love & Money](https://open.spotify.com/album/2JfNxUZXLBPzTYWZ0x4BPb) | 3:20 | 2023-03-23 | 2023-04-21 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB) | 4:10 | 2022-10-20 | 2022-12-15 |
 | [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 | 2023-03-07 |  |
-| [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2022-10-25 |  |
+| [Love Someone](https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf) | 3:25 | 2022-10-25 | 2023-05-30 |
 | [Love, All You Need Is Love](https://open.spotify.com/track/4K7WXlChhItbqXajy4tCQT) | [Junya Narita](https://open.spotify.com/artist/2wh4NOBvfcF2S8z9jr6XBF) | [MEMORABLE](https://open.spotify.com/album/0t7smPakMfCncHjpEbOkPa) | 3:27 | 2023-04-20 |  |
 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 | 2022-10-20 |  |
 | [Lullaby \- Acoustic](https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Lullaby \(Acoustic\)](https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB) | 3:57 | 2023-04-20 | 2023-04-26 |
@@ -173,6 +173,7 @@
 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 | 2023-03-16 | 2023-04-21 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-11-08 | 2023-05-26 |
 | [Morning Light \(feat\. Alicia Keys\)](https://open.spotify.com/track/3KnLHwhRhJGuQM822JVSoI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:03 | 2023-02-28 | 2023-04-21 |
+| [Morning like a breath](https://open.spotify.com/track/0c18p3EEnRPjWmfwyEefXf) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:20 | 2023-05-29 |  |
 | [Movie Star](https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:54 | 2023-03-23 | 2023-04-21 |
 | [Moving On](https://open.spotify.com/track/2jZUVdZXDCWvw9DZPQhDnA) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Moving On](https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6) | 2:59 | 2022-11-03 | 2022-11-09 |
 | [My Last Chance \- SaLaAM ReMi Remix](https://open.spotify.com/track/6aRMFfRv2LyCh3FS8TFhct) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 3:40 | 2022-11-08 | 2023-02-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,394 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,417 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 47 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 |
 | 48 | [NO STYLIST](https://open.spotify.com/track/4L2UsmcqnAm73MeJOO8brv) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Dirty T](https://open.spotify.com/artist/52q9b7BYc5e9mkQUBgJKwc) | [NO STYLIST](https://open.spotify.com/album/0qcTSoE76QShVj8sLL2OIE) | 2:29 |
 | 49 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
-| 50 | [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
+| 50 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 51 | [Same Side \(feat\. Rob49\)](https://open.spotify.com/track/2JNaqjOm7jHePMdr6WIadg) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:33 |
 | 52 | [Step By Step](https://open.spotify.com/track/4TDGFWcs0ueT9XC56OzHZg) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Step By Step](https://open.spotify.com/album/1LOaA9FH0Sr2DOtj1D68Ui) | 2:45 |
 | 53 | [Voel Jij Dat Ook](https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Voel Jij Dat Ook](https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D) | 2:43 |

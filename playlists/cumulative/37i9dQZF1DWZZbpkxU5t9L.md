@@ -2,7 +2,7 @@
 
 ### [Weekly Buzz Tokyo](https://open.spotify.com/playlist/37i9dQZF1DWZZbpkxU5t9L)
 
-> いま話題の曲をまとめてチェック。Cover: JP THE WAVY
+> いま話題の曲を週末にまとめてチェック。Cover: JP THE WAVY
 
 602 songs - 1 day 11 hr 41 min
 

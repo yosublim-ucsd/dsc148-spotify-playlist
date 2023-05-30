@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Isyana Sarasvati
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,248 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,275 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

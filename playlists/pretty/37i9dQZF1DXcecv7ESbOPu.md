@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,516 likes - 115 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,544 likes - 115 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 62 | [The Ocean](https://open.spotify.com/track/7zZqM9EjeGeUgLoepgpIGA) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ), [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [The Ocean](https://open.spotify.com/album/5avuiOwKj2UW9yLbOhmv03) | 4:15 |
 | 63 | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw) | 4:55 |
 | 64 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
-| 65 | [Name in lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
+| 65 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 66 | [When The Shadows Go Home](https://open.spotify.com/track/7nJVkJCGWsyQuNnt7iGeaw) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [When The Shadows Go Home](https://open.spotify.com/album/0GpPl0AjZbOtODsmiL0meu) | 3:14 |
 | 67 | [Rubina](https://open.spotify.com/track/2u8OrBngkCVZtxpJw7EJi3) | [Prince Prime](https://open.spotify.com/artist/23p1rwItiE4C2SxCLe8b3r), [LRM](https://open.spotify.com/artist/71EtujY7mXQNQ0aJnTNTFi) | [Förlorad](https://open.spotify.com/album/1eFgZHqpbcxspU6jtd8cpL) | 2:32 |
 | 68 | [Crew Thang](https://open.spotify.com/track/5a8brwyxP2Ga832uYrY2lQ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish) | [Crew Thang](https://open.spotify.com/album/0eFZm20GN8fAvSG1sAsFw2) | 2:41 |
 | 69 | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 |
-| 70 | [Amigo \(feat\. Elai\)](https://open.spotify.com/track/3SLm8CRFhAhRPGDdXiTXTt) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:48 |
+| 70 | [Amigo \(feat\. Elai\)](https://open.spotify.com/track/3SLm8CRFhAhRPGDdXiTXTt) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:48 |
 | 71 | [Runt Bordet](https://open.spotify.com/track/5D1vMZ02SPGYU3212jmBBq) | [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ), [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Runt Bordet](https://open.spotify.com/album/53Rb4cJmKhu4Olebai8TIO) | 2:16 |
 | 72 | [CHROME HEARTS](https://open.spotify.com/track/15myElcUodWzdBhmeCRkF3) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [CHROME HEARTS](https://open.spotify.com/album/53aSOp9m0KGQmk00qdb69U) | 2:19 |
 | 73 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 114 | [Tid att älska](https://open.spotify.com/track/0XR0g71WVRfECp7rsWTVTR) | [Lill Lindfors](https://open.spotify.com/artist/7CAcmPN2c4Tw70JQScmdwC) | [Tid att älska](https://open.spotify.com/album/7LLj8rBx6AYez79qIn6pnU) | 3:46 |
 | 115 | [Crazy 'Bout You Baby](https://open.spotify.com/track/6Lv3TKNKqRsqf1hA5WEdUh) | [Marie Fredriksson](https://open.spotify.com/artist/4YkPXMsmFf3K2XFHPddqFU) | [Crazy 'Bout You Baby](https://open.spotify.com/album/1zuxuJGv9eoD38xciIKJDV) | 3:40 |
 
-Snapshot ID: `MCw2MWNkODQ5Yzc1N2U3YTc2OTY3MjhjNjM4NDc4OGIxZmJhNGFmZWUx`
+Snapshot ID: `MCxkN2I1N2QwNzIxMDg3YTQ0ZDQ0NzkxYzQ4MWMxZDQ3NzQxMzc0ZGVh`

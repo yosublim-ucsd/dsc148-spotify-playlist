@@ -4,11 +4,12 @@
 
 > Le meilleur du hip\-hop québécois en 2022\. Photo: Loud \#SpotifyWrapped
 
-105 songs - 5 hr 31 min
+106 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-11-30 |  |
+| [3 accords](https://open.spotify.com/track/1zqx1XQ2k1nuIHVA8KDY5J) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Astronaute](https://open.spotify.com/album/1rQ0C906Vw3mVGVwMcylgL) | 2:42 | 2022-11-30 |  |
+| [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-11-30 | 2023-05-30 |
 | [3 saisons](https://open.spotify.com/track/7qppWvyQ9uw2TPAlHNzp4H) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [3 saisons](https://open.spotify.com/album/3hNE9lZZ7U5EQxYCCZh3zT) | 3:33 | 2021-12-07 | 2022-12-01 |
 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 | 2022-11-30 |  |
 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 | 2021-12-07 | 2022-12-01 |

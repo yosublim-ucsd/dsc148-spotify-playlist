@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,642 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,657 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

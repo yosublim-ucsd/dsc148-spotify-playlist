@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,076 likes - 125 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,242 likes - 125 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
