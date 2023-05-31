@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6132\)
+## Playlists \(6133\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2753,6 +2753,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Local Hype](/playlists/pretty/37i9dQZF1DWUjxn1SsdJYZ.md)
 - [Locked In](/playlists/pretty/37i9dQZF1DWTl4y3vgJOXW.md)
 - [Locker Room](/playlists/pretty/37i9dQZF1DX8SaiEt4OVJw.md)
+- [Lofi Beats \- Chillhop \- Jazzhop \- Study Beats \- Chill Beats \(Study, Relax, Sleep\)](/playlists/pretty/7GcrOxvmFto5inXwr5Asm7.md)
 - [Logic1000's track IDs](/playlists/pretty/37i9dQZF1DWWbEGrb2ydWx.md)
 - [LolliPOP](/playlists/pretty/37i9dQZF1DWUEZXXfFphen.md)
 - [Lone Star Blues](/playlists/pretty/37i9dQZF1DXeaMD6NdSui3.md)
