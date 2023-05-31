@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
@@ -3899,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
+    },
+    {
+      "album": {
         "name": "Millimeter",
         "url": "https://open.spotify.com/album/3GUsEdMcDqIgPRi9O346zv"
       },
@@ -4008,6 +4026,24 @@
       "duration_ms": 979360,
       "name": "Mogwai Fear Satan",
       "url": "https://open.spotify.com/track/5MdseOaiPicPcXWkyyJ3FK"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300e\u602a\u7269\u300f",
+        "url": "https://open.spotify.com/album/7CwBDue4LjmnZGLbgtX5fV"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236300,
+      "name": "Monster 1",
+      "url": "https://open.spotify.com/track/7DRpF8gLkdWJ01S29MVaOa"
     },
     {
       "album": {
@@ -5856,7 +5892,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 212158,
       "name": "Sundays - Just Piano Version",
       "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
@@ -7847,6 +7883,28 @@
     },
     {
       "album": {
+        "name": "\u306f\u3058\u307e\u308a\u306e\u591c",
+        "url": "https://open.spotify.com/album/2a4fbJxLjZzfTlSloBMJxL"
+      },
+      "artists": [
+        {
+          "name": "\u6c5f\ufa11\u6587\u6b66",
+          "url": "https://open.spotify.com/artist/3AAwWUnp6ZdLgfin1hQYd2"
+        },
+        {
+          "name": "\u89d2\u9285\u771f\u5b9f",
+          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263781,
+      "name": "\u62b1\u5f71",
+      "url": "https://open.spotify.com/track/5kyoeSDY9BV5Cbq8CkLgoI"
+    },
+    {
+      "album": {
         "name": "\u6642\u9593\u3068\u8ddd\u96e2\u3068\u50d5\u3089\u306e\u65c5 (Rearrange)",
         "url": "https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP"
       },
@@ -7876,7 +7934,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 304662,
       "name": "\u6700\u5f8c",
       "url": "https://open.spotify.com/track/0qa0TiXSLBFtSwRYzoo7UL"

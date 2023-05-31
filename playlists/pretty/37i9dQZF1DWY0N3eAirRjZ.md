@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music\. Cover: Keauhou
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,817 likes - 55 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,879 likes - 55 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 54 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 |
 | 55 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 |
 
-Snapshot ID: `MCxkOWE3MDk3NGEyZWQyY2NjZjFmY2RhZTJjNTkyNTI4MjkwNzUxZDk2`
+Snapshot ID: `MCwxNmI5NzdhYjg1Y2QwOGRlZmFlODI1ZjBmZTYxMTNiMWQ3NTFhZmNi`

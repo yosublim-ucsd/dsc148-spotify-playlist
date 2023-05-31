@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,301 likes - 200 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,578 likes - 200 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 13 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
 | 14 | [On The Hook](https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [On The Hook](https://open.spotify.com/album/1LXYzCWmyLYBEOQciJXhH3) | 3:57 |
 | 15 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 |
-| 16 | [Tema de Benja](https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7) | [Melomazeando](https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl) | 4:55 |
+| 16 | [Tema de Benja](https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl) | 4:55 |
 | 17 | [Why?](https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l) | [Jonas Wall](https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo), [Umbaji](https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz) | [Why?](https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ) | 4:18 |
 | 18 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 |
 | 19 | [Spread Love](https://open.spotify.com/track/0N7yfvd5tfP3kschFBfhss) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Riot Jazz Makes People Happy](https://open.spotify.com/album/7z61j8SPcOgzo6R8D2m6Tn) | 4:38 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCxmZmVkNWEzNmZkMThlZjUzMDA1NzU3ZTY4YjE2ZjhhNTM2OGQ0MzBj`
+Snapshot ID: `MCw4MWY3NWZiN2FiNTYxMjhhMzI0NzE4NjhmODNmNTU5MTcyMGM5OTA2`

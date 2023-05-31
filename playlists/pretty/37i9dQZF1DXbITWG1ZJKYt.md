@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,958,019 likes - 250 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,959,298 likes - 250 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 249 | [Waltz for Debby \(Take 2\) \- Live](https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:00 |
 | 250 | [Tetragon](https://open.spotify.com/track/12cMYRYTV2RTz4YTlOpgSu) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Tetragon](https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA) | 5:39 |
 
-Snapshot ID: `MCxlOTBjNDRkMGY4MGY4NTM2OWMwNzBjMWViMWExZWJkYzE2ZjQwNDNk`
+Snapshot ID: `MCxlNWUyZmNhOTM2N2UxMDdjYjExMDQ4MDc3ZWFmNDQwMWI0NjFkOTIw`

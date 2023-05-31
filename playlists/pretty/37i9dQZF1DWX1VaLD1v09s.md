@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,198 likes - 150 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,187 likes - 150 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [The Answer](https://open.spotify.com/track/3oQdYW98bDqwzdlIqDeHvh) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Answer](https://open.spotify.com/album/7MvLqEJ066ULDEcqrQUGIM) | 3:08 |
 | 150 | [This Is The Day](https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Free To Worship](https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr) | 4:49 |
 
-Snapshot ID: `MCwyZDI3OGI1ZjcyOTExOTdjMWU2ODExZmZiYjc4ZTU4YmZhODQ5MmIx`
+Snapshot ID: `MCxiNjAyNzM5ZjQ1N2EwNGU4N2JhODZiMjlkZjdmMDJiZjBjODgzOTM5`

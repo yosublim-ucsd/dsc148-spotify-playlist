@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ozuna & Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,796 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,849 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 70 | [Te Gusta](https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z) | [Young "D"](https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Te Gusta](https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V) | 3:26 |
 
-Snapshot ID: `MCw1YmY5YTA0ODkyZWE4N2U5ZGIyYjg4MmVkMGEzOTA5ZmFlNmE5MDVj`
+Snapshot ID: `MCxkZmVjOTJlYzY2NWMwZmI3ZmI0ODFkOGFiMGNjMmY5NzdjY2UyZTIy`

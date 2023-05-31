@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,787 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,853 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 59 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
 | 60 | [Esperando](https://open.spotify.com/track/7jYFjn2xbxwJrNxj4Wkr0S) | [Human Lemonade](https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC) | [Esperando](https://open.spotify.com/album/65LpgCwSciU5Ykq6zqDeJZ) | 4:43 |
 
-Snapshot ID: `MCxmMGQ1YjE3NzRiNWRlZWUzY2E1NWFlZWQ1ZjkyZWZmYjUwMDkyZDJj`
+Snapshot ID: `MCwwMTZhZWQxOTgzZTJhMmU2ZWRmYzdjNDAxYmQyNzU4MTkyNTNjMzhm`

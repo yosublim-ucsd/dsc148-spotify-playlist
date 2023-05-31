@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Alamedadosoulna
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,960 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,034 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 122 | [All Turned Blue](https://open.spotify.com/track/422OBQ4maGZ7nIl8T7Crnh) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Lighthouse Keeper](https://open.spotify.com/album/0rORsD0jZ8a2sThwEG920w) | 3:58 |
 | 123 | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/track/0X7oHYTJYVml84BCs3OwmK) | [Группировка Свердловск](https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba) | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl) | 3:20 |
 
-Snapshot ID: `MCxiODU5MTBlNzNjOTI4ZjI1YWQ5MDkwZGE2MDZhZmM1NThhNzM1OWJj`
+Snapshot ID: `MCxlM2E1ZWJhMDU0OGQ0MWY3OWM5NDhhMzdhNmNjZTQ5N2E2Y2NlNTg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,389 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,494 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 65 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 |
 | 66 | [Ich Riech Gern An Büchern](https://open.spotify.com/track/2rUr2JheHPRs9bfDsyF6xk) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Ich Riech Gern An Büchern](https://open.spotify.com/album/59BkwOdFeePDFjb5wKRhVx) | 3:32 |
 | 67 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
-| 68 | [Trostpflaster](https://open.spotify.com/track/3Xh27rfmgbJIIY7y9MStWW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Trostpflaster](https://open.spotify.com/album/4aGnarb1U7fQ5qyJeuha0K) | 2:53 |
+| 68 | [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 |
 | 69 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 | 70 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 |
 | 71 | [INTERNETFREUNDIN](https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [INTERNETFREUNDIN](https://open.spotify.com/album/5DozG3LzjrMYw3wNIj17gH) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fluch](https://open.spotify.com/track/29psttIS4krdh6Ontzt2EI) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [Fluch](https://open.spotify.com/album/1s9T6GwxiNw8mTifI5YEZh) | 2:07 |
 | 75 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 
-Snapshot ID: `MCxmMDA3ZDE3YTZkNDJlNDllNDllYjJlZTYwMWNhM2E3OGZmMDQzMzlj`
+Snapshot ID: `MCw2ODhiYTE3OTg5NWRhMzM4YmQ0ZmQ1MjY3OTU1OTdlNjFkYTk3ZDMw`

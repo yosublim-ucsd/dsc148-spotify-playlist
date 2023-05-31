@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Alan Gomez & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,579 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,705 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 100 | [200 Copas \- En Vivo](https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas \(En Vivo\)](https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU) | 3:38 |
 
-Snapshot ID: `MCw0ZmI2MjczN2VjNDg4Y2Y3NDc3OTZmMGQ1OWI4MWY4NDg3OTM2NDJi`
+Snapshot ID: `MCxkN2E0YzkzZDk2YzlmMDE1YzgyMjAwYmU1YWQ4MDMwYTExN2VmMTEz`

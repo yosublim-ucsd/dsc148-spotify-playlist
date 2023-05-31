@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,433 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,529 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Coming Back](https://open.spotify.com/track/2wNRIrTy0HPWNziz0S4qp4) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Coming Back](https://open.spotify.com/album/0ZMC35dN3tfvrgD19tA3mt) | 4:04 |
 | 150 | [Shadow of Your Wings](https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Shadow of Your Wings](https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y) | 2:37 |
 
-Snapshot ID: `MCw2NWQxMTQ3M2Y4OThlNjVlYTdkYzlmMWFkYTI1MzU4YzM5NTkzYTM5`
+Snapshot ID: `MCw4MjgxNzVjNmYzMjU2MWEwMDgwMWM2NDcwZmFiNGUzYWY0NmEwNGUx`

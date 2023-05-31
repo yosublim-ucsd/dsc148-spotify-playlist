@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,608 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,693 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [sleeping at the party](https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Eliy Orcko](https://open.spotify.com/artist/2brR8geRZXyEqerYgy5clh) | [sleeping at the party](https://open.spotify.com/album/1LfsBRYd27TebvLfvRfwJT) | 2:35 |
 | 100 | [Cryin' Heart](https://open.spotify.com/track/6ZMugawDueowg6Zi4X0mN3) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Cryin' Heart](https://open.spotify.com/album/01IOkT1OwNi3WhwsP2yojE) | 3:29 |
 
-Snapshot ID: `MCw0MmEwYzY1NmVjNmY4ZmU0MWUwMDY0NDhmNzkyYjBlOTdjN2UyOWZm`
+Snapshot ID: `MCwyMGYwNTYxZTY2NGU4ZjQ4NjFkZDFjNjQ5ZjZjNDQxNmQzMjdiNmVm`

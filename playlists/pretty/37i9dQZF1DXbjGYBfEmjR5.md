@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,101 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,249 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 99 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 |
 | 100 | [REFRESH](https://open.spotify.com/track/5TJ48UIvLKQnY3sUo0kH9M) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [REFRESH](https://open.spotify.com/album/1sH4R6pTreRYGoOwOnL35Y) | 2:12 |
 
-Snapshot ID: `MCxlNjVlOWZhMTY5MzZjNWI3OWMwMGQ2Y2ZmMjlmZDkzYjk5ZTExMjcy`
+Snapshot ID: `MCw5ZjVkYWM5MTk4YWYyZjJkNTMzODA1YjE0YzhlZmU0OGQxOTFkM2E3`

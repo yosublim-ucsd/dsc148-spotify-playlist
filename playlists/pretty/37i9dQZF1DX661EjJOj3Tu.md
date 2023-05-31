@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,498 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,564 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/61kdYuzRxng0e8rKb3QLq6) | [Giovanni Hidalgo](https://open.spotify.com/artist/5x8FeI2yziZBdKbfAhvms6) | [Worldwide](https://open.spotify.com/album/20QQyfHLjyZENU9jJFEvdj) | 7:05 |
 | 100 | [Don't Like Goodbyes \- Bonus Track](https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 6:47 |
 
-Snapshot ID: `MCxmNjI2MjQ3OTg4NmE4Yzk3NjliNzJjM2IzYTNkYmMwZTAwZTI5NTYy`
+Snapshot ID: `MCwxNzQ1ZDIzNTNjMzhhNGE0MTUwMjhiOWE4ZDc0YzYwZmZjYzRlMjAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,905 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,915 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 |
 | 80 | [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 |
 
-Snapshot ID: `MCxjZDYyZGEzMTE5OTE5MjJjZDU5NTI2ODcwMTg4NWZiMTcwMGNlYTdi`
+Snapshot ID: `MCxiYmM4MmFkNjUwNzI2ODQ2OWNhZGQwZmNiYWU2MGE5OThkMjAwNjM0`

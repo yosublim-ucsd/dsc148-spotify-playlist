@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,644 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,869 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Poison](https://open.spotify.com/album/4G405l4IFP6rfMKe3PPa3z) | 2:57 |
 | 100 | [Don't Ever Let Me Go](https://open.spotify.com/track/435gxdlRxZktZoVE1AmH6Q) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Don't Ever Let Me Go](https://open.spotify.com/album/1uUGt8Msil3gO0zLN8bi3H) | 2:54 |
 
-Snapshot ID: `MCwwNzE2NTk5YzkzZWI5MWQwYmY2ZDM5OWRiMGI4ODdmOGFmOWI4ZGE1`
+Snapshot ID: `MCw5Yzg4OWNhMmE1YzA0YjBlZmUwMDBkMzRmYTIxMjdiMmVkNWVjN2Ni`

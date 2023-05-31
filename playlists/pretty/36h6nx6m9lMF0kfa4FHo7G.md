@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,837 likes - 168 songs - 10 hr 52 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,837 likes - 169 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 166 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 167 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
 | 168 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:13 |
+| 169 | [Downtown](https://open.spotify.com/track/2LAkVHr0qJYJR54lSzyUyC) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Classic Collection](https://open.spotify.com/album/4oa2hZ1r8L8Egf9ec6ncCM) | 3:04 |
 
-Snapshot ID: `NDU3LGYyYzIwOTQ2MTk3MDYwMzEwMDk0ODRhMzJmYmEyNmFkZTk5ODNjNDk=`
+Snapshot ID: `NDU4LDlkZmU2YmZjODc5NDI3ZTY0NGY2OWE2ZDJhZTQ2NDFjOWVhZWVmMWM=`

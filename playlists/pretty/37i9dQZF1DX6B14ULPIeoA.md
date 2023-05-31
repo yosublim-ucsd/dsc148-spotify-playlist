@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 
 > Con mucha dulzura y sabor para un momento de relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,181 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,252 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B14ULPIeoA.md) - [plain]
 | 99 | [El Paciente](https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [El Paciente](https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo) | 3:32 |
 | 100 | [Por Tu Maldito Amor](https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Por Tu Maldito Amor](https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t) | 3:56 |
 
-Snapshot ID: `MCxjNGU2NDI4NTIzNDAzOTg0NzdlYzQ3YzI4OTkzZTdhMTRhZTAyNDhm`
+Snapshot ID: `MCw0MWRiZjlhNThjYmVkM2IyYWU4OWYwNTJkZDE2NDU1M2I1MGI3MDJm`

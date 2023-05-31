@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,569 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,781 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Na Roja Nuvve \(From "Kushi"\)](https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Na Roja Nuvve \(From "Kushi"\) \- Single](https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS) | 4:02 |
 | 2 | [Nijame Ne Chebutunna](https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB) | 3:34 |
-| 3 | [Oopirey \- From "Takkar"](https://open.spotify.com/track/5iFefoZQF5C0VoFmOJY4Go) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Oopirey \(From "Takkar"\)](https://open.spotify.com/album/68ZaLku8BmWoqMWIfWv2XT) | 4:26 |
+| 3 | [Oopirey \- From "Takkar"](https://open.spotify.com/track/5iFefoZQF5C0VoFmOJY4Go) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Oopirey \(From "Takkar"\)](https://open.spotify.com/album/68ZaLku8BmWoqMWIfWv2XT) | 4:26 |
 | 4 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 |
 | 5 | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul) | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H) | 3:42 |
 | 6 | [Gaalullona](https://open.spotify.com/track/6GcpFFSkEUgBObU8CVNLTW) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Maama Mascheendra](https://open.spotify.com/album/7KqrXZm8p26oMzjVC2QxoO) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 |
 | 50 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 
-Snapshot ID: `MCw4NTAwZDE1NGM5MGYyMmUzMWIyZTlmNzI3ZDA0ZjQwNmFkNzA0ZDdk`
+Snapshot ID: `MCw1OGFiYTZiM2Q0M2NlZmZiOTRhOWYwOTI5ZjBhOGIxNjI2MDVkMzhh`

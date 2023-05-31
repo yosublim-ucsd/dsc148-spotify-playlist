@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,382 likes - 200 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,436 likes - 200 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX010dXHHQF5e.md) - [plain]
 | 199 | [Someday My Prince Will Come](https://open.spotify.com/track/78hP2pA1Y8DYCn5shq3f1b) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:38 |
 | 200 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 |
 
-Snapshot ID: `MCw4ZDZhYWMzYTNlYmRmMDkwYTg4ZDhmMTg4ZGE2NzQ2ZTM1ZTQ2ZDZj`
+Snapshot ID: `MCw2MmU1YmJmMmQ5NTE0ODkzNWVmNzZlMDMyMDZmYzg4MzEzYjhhODQ0`

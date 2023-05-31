@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,616 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,635 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [sai che...](https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH) | [Kid Vice](https://open.spotify.com/artist/3bnPjo8qyh6NrIw5PdRpBo), [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT) | [sai che...](https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b) | 2:40 |
 | 100 | [Rottami](https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U) | 3:19 |
 
-Snapshot ID: `MCxjM2Y5MDEyNzExN2QzOGZiYWQ4NDNlOTUzYTk2ODI2ZGExNWM5Njc5`
+Snapshot ID: `MCw2ZTYyOTc0ZjY0ODRmMzAxZDdlNWNiMDljNDk1MWNjMWM0MWRmNWQ1`

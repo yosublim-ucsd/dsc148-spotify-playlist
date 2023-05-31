@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > Beat the traffic blues with these killer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,618 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,636 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 79 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 |
 | 80 | [One More Night](https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [One More Night](https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG) | 2:42 |
 
-Snapshot ID: `MCxjMGU2NGViMTQxYTE3ZWU0N2Q0YTY5ZWRmMDVhYjk0ZGFlYWFmY2Vm`
+Snapshot ID: `MCxiMGJhMjllM2Y0YWY5MjAxNzgzZjcyNWZjZGVkMzIxMTkxYmMyY2U0`

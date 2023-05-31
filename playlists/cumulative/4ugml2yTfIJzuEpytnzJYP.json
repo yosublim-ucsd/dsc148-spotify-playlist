@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-28",
-  "description": "",
+  "description": "Deep Bass - Melodic Bass ",
   "name": "Deep Bass / Melodic Bass / 140",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 252623,
       "name": "Altar",
       "url": "https://open.spotify.com/track/1THGCI9ee9w0MfUDYf3Aw2"
@@ -544,6 +544,28 @@
       "duration_ms": 160000,
       "name": "Careless",
       "url": "https://open.spotify.com/track/55EsRl8Q16Q73P74ymPoG3"
+    },
+    {
+      "album": {
+        "name": "CHAMELEON - Remixes",
+        "url": "https://open.spotify.com/album/4p7TkKZy4dVg5KxxpFJr0H"
+      },
+      "artists": [
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        },
+        {
+          "name": "ATYYA",
+          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284073,
+      "name": "CHAMELEON - Saint Sinner Peak Remix",
+      "url": "https://open.spotify.com/track/4M30jQ5ys2qHwYKDV4kV8P"
     },
     {
       "album": {
@@ -1382,7 +1404,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 237428,
       "name": "Gimidah",
       "url": "https://open.spotify.com/track/7bhxpYCqZ2W3bf6mTYt5u0"
@@ -1931,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN"
+      },
+      "artists": [
+        {
+          "name": "Khiva",
+          "url": "https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD"
+        },
+        {
+          "name": "JLEON",
+          "url": "https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281146,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X"
+    },
+    {
+      "album": {
         "name": "Karthaus",
         "url": "https://open.spotify.com/album/53dUyF69IMlnx2Vhrgl9PZ"
       },
@@ -2058,7 +2102,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 205000,
       "name": "Lightwerker",
       "url": "https://open.spotify.com/track/69ltbjJYyr5FypqimjdZag"
@@ -2317,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/7mBang8rS6G8jlpvDWOM5X"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Microworlds",
+      "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
+    },
+    {
+      "album": {
         "name": "Kyoka Hyaku 013 Midnight Angler",
         "url": "https://open.spotify.com/album/0KcMkmJGnpSBfo9PlNGHNx"
       },
@@ -2332,6 +2394,24 @@
       "duration_ms": 257142,
       "name": "Midnight Angler",
       "url": "https://open.spotify.com/track/6jjG4Hhpggq0LuQGz22r1a"
+    },
+    {
+      "album": {
+        "name": "Mirage EP",
+        "url": "https://open.spotify.com/album/2oElQy6V66TWhl5CXhc0pE"
+      },
+      "artists": [
+        {
+          "name": "Kwizma",
+          "url": "https://open.spotify.com/artist/1m7dukoGV16L1hVKHcX5CZ"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334285,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0g7aGbgUSeZhe1OUFnS1BB"
     },
     {
       "album": {
@@ -2818,7 +2898,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 137642,
       "name": "RAWR",
       "url": "https://open.spotify.com/track/3ZZP9iEzQXpLPpMN2Ksvyx"
@@ -3282,10 +3362,46 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 226288,
       "name": "Sounds Like Color",
       "url": "https://open.spotify.com/track/0EVPBhEFx2UUAzwHLn5vf3"
+    },
+    {
+      "album": {
+        "name": "Return to Taygeta",
+        "url": "https://open.spotify.com/album/3vn29spZzdHiGqBIusy2Qh"
+      },
+      "artists": [
+        {
+          "name": "J:Kenzo",
+          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "Starseed 47 - VIP Mix",
+      "url": "https://open.spotify.com/track/4dDUGzPZifKdH97ecN9V9W"
+    },
+    {
+      "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/1zvylBQuZ66vc6TFB32cJL"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337714,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/7c1g5JmXVlH0NFdXzAZeJx"
     },
     {
       "album": {

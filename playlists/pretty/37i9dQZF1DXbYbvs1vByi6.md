@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,756 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,800 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [One Armed Scissor](https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um) | 4:20 |
 | 50 | [Men's Needs](https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Men's Needs, Women's Needs, Whatever \(Standard Version\)](https://open.spotify.com/album/0uf3G2hMRqZ0LOqv6QhZiL) | 3:15 |
 
-Snapshot ID: `MCxhM2VhYTRjZGI5ZmNhMGU3N2NjMTkyNGNmOGYyOTEzYTYwY2YyODVk`
+Snapshot ID: `MCwwZmI3ZjZkZGE4ZjBhNGM1ZmQ5ZTQ4NTUwYTViZTIwOThkNzIyNDI5`

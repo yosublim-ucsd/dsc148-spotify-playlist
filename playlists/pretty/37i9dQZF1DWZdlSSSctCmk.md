@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,153 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,240 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 | 100 | [Your Love \(feat\. BLAME\)](https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [BLAME](https://open.spotify.com/artist/1YigAsKtNYzATFkCe6u0fG) | [Your Love \(feat\. BLAME\)](https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9) | 3:10 |
 
-Snapshot ID: `MCwzNTMxYzRiODJiOTU3ZGY1M2IxOTZmM2U3MWU2MDYyZmVlMTkxMzU5`
+Snapshot ID: `MCwxN2FjZGFkYWE2MDk2Y2IzYjNkYjc4MDA4OGZmZDI2MjFiMWIzMzNl`

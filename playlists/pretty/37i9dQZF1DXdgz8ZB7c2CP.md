@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring pluko
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,977 likes - 125 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,059 likes - 125 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Through My Teeth](https://open.spotify.com/track/5yPQydEFlztCWLs9vzf0lA) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Through My Teeth](https://open.spotify.com/album/1nN0SJGvy1QB3R6vmJP9A5) | 3:48 |
 | 125 | [Free Range](https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [UNITY](https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ) | 4:33 |
 
-Snapshot ID: `MCwzNDllMTg0OWI4ZTRiNGJlYWZjMjM5YjFkMmY3ZjMyY2FkOTIzMjBi`
+Snapshot ID: `MCwxYjVmN2QyODQ2YjM2ZmJhNGFmM2MwZDFiNjM3MDg1ZDAzMDRjMWIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,678 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,789 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 12 | [Euphoria \(Solomun Remix\) \- Edit](https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Euphoria \(Solomun Remix\)](https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC) | 2:53 |
 | 13 | [Guru](https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Guru](https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3) | 3:45 |
 | 14 | [In2u](https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [In2u](https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud) | 3:21 |
-| 15 | [Uh La La \- Guz Remix](https://open.spotify.com/track/1LwqbwADW8ZvhfCJbtdKdl) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Uh La La \(Guz Remix\)](https://open.spotify.com/album/1PPGdskLdIa9oZrMpcsHy4) | 3:21 |
+| 15 | [Uh La La \- Guz Remix](https://open.spotify.com/track/5EKDyGRhaqe6tU4UYiyNed) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Uh La La \(Guz Remix\)](https://open.spotify.com/album/5m0D5NtEmNzUVF05rn13pw) | 3:21 |
 | 16 | [Catuca](https://open.spotify.com/track/0ukK2wdKAIP36g0gd5b3bF) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/7lRZxqNeoloSjF6lna9lOK) | 6:38 |
 | 17 | [The Chant \- For Club Play Only, Pt\. 8](https://open.spotify.com/track/7xy9K0gpqzgUGGuxG5ZfuN) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [The Chant \(For Club Play Only, Pt\. 8\)](https://open.spotify.com/album/4l12XOrKoqpy2skRc8Zi6Q) | 3:10 |
 | 18 | [Outlaw](https://open.spotify.com/track/0QlbAULH5qAs4b3RfQ7CoL) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Outlaw \(Music from Space \- Dimension B\)](https://open.spotify.com/album/7lwFk9vfv6RPrKGLd0O3hA) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Via Infinita](https://open.spotify.com/track/2xlhuZ55DlVojkepPhBcHZ) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Via Infinita](https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k) | 3:57 |
 | 100 | [Um](https://open.spotify.com/track/5H8kWzKP4mIb8lMqEaxIXO) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Um](https://open.spotify.com/album/6s8CZ12v5a4E1kmLEgMmRI) | 5:07 |
 
-Snapshot ID: `MCxhNDNjMGY0ZmFjN2MwNDQwZGE1YmY3NmU1NmNmNGEzODg0ZDI3MjNh`
+Snapshot ID: `MCwyOTBjMmQ2N2ExMzllMGVkZGZhNmQ3YWNiOTVhYzdiZWQyZDNkNmVl`

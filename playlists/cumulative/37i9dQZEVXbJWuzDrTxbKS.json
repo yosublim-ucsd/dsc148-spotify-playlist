@@ -3277,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Tur kaut kam ir j\u0101b\u016bt",
+        "url": "https://open.spotify.com/album/5Y7uNn0jJdtC7GS5LfSWlP"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        },
+        {
+          "name": "Gustavo",
+          "url": "https://open.spotify.com/artist/3apNWJFN6ZANKwNvFK8An7"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Bronza",
+      "url": "https://open.spotify.com/track/1Fz221qegfXWioSB55St5K"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -3332,7 +3354,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 173217,
       "name": "Br\u0101l' Ar Dz\u012bvi Nekaul\u0113",
       "url": "https://open.spotify.com/track/6IHo6KA0JW6FEHT0hdkx7s"
@@ -9832,7 +9854,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12718,7 +12740,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 125538,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0fRgHNsnNgQutv19TcvUCA"
@@ -13712,13 +13734,13 @@
       },
       "artists": [
         {
-          "name": "Livi",
-          "url": "https://open.spotify.com/artist/152t0se41fdD2sxIUS6i5i"
+          "name": "L\u012bvi",
+          "url": "https://open.spotify.com/artist/63Lsz5HoQTimVCH9iCy9eW"
         }
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Meitene, Zeltene - Bonus track, 1994",
       "url": "https://open.spotify.com/track/3xTH6HCLRY52ey85hGj9KK"
@@ -14978,7 +15000,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 210000,
       "name": "M\u016b\u017eam Jauns",
       "url": "https://open.spotify.com/track/3oQTUYUbPjUZybgQhS6yfW"
@@ -18356,7 +18378,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-07",
+      "date_removed": null,
       "duration_ms": 172280,
       "name": "Roku Oke\u0101ns",
       "url": "https://open.spotify.com/track/7qfisxNvTUxlD6mvrw8673"
@@ -25212,7 +25234,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-27",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "\u010cetri krasti",
       "url": "https://open.spotify.com/track/6ay1wKfMAH4jpAzUIxF39f"

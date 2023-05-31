@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,735 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,856 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 |
 | 100 | [Ramblin'](https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Ramblin'](https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs) | 4:58 |
 
-Snapshot ID: `MCxjOGQ4MTU2ZTg5YWVhY2E5ZDNmNDA2YmE0ZDgzYmYyMDRmODRkZGZi`
+Snapshot ID: `MCw0MTY0ODQwNzQ3MmJkNTdiMDYzYjFmOTdhZTRiNWI0OWE3ZjVlYTdi`

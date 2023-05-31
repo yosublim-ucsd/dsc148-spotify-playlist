@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,683 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,811 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Pretty Way to Fight](https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [The Heights](https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV) | 3:23 |
 | 100 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 |
 
-Snapshot ID: `MCwyZmRlNmNiNGU2ZDlkNjQyMjQ5NDQ5MzQyNGU2YjQ2YWUzMmM4ZGEy`
+Snapshot ID: `MCxhZmRmNjZmMDMzMzE5M2IxODViMDIxODk3MWVlYjM5MzNkN2IwMGFh`

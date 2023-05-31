@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: Slim & Eric Bellinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,726 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,724 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [recognize](https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 3:13 |
 | 100 | [Would You](https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J) | [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Would You](https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1) | 3:12 |
 
-Snapshot ID: `MCxlMDVhNjBmYjk4YTBmNGFhYjRlY2ZjODljZmVmNWYwNTcxYmY3ZTIz`
+Snapshot ID: `MCw5MWJhOGNlMWU5ZWQ2NjdhZTA1ZmEwYTU4ZjIzNWZmOTA0ZjdiZjgz`

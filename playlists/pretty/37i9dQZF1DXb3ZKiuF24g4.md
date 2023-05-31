@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 49 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 50 | [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 |
 
-Snapshot ID: `MCxjMTNhMDM2NTAwNGVjZDA4ZDE2Y2FkZThmMzZjZDg2ZTVjYmU0NWE0`
+Snapshot ID: `MCwyN2E3MTViMGMxYWQwNmQzYjBlYzMyYTI5N2E5M2UyN2MyMDY5ZTdj`

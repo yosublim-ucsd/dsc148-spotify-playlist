@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,782 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,300 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 99 | [Lose Control \- ChildsPlay & Badd Dimes Remix](https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Badd Dimes](https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB) | [Lose Control \(The Remixes, Pt\. 2\)](https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX) | 3:27 |
 | 100 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/7Ar6mFwSf0DNSaWhUc759s) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Remixes\)](https://open.spotify.com/album/5AnbMK160pGlJf2645jHu5) | 3:02 |
 
-Snapshot ID: `MCxjODRhZGMwZGU5ZjVhZGJhY2M4MjQ0MTMxMzgwM2E5OTAxNmEyMTRm`
+Snapshot ID: `MCxiMGFhYzM5ZGZlZmY0OWU5ZGEzZDhmZjVkMjdmZjBkNmU2MTlkNzgy`

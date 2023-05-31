@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,645 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,698 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Kickons](https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9) | 3:55 |
 | 55 | [Grape](https://open.spotify.com/track/7wobm0ZyzQHe7G3Q6rzLe3) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [Five A DAY](https://open.spotify.com/album/4Eh4Uz2Aeu1hRi5GcUdYXB) | 4:27 |
 
-Snapshot ID: `MCwxN2Y1ZjdlMDk5MDgyNTQ3M2Y4NDA5MTk4MzRjOTY0YzRkYTgzYTY1`
+Snapshot ID: `MCw5YTA5ZTQxNDgyZTQ2ZGYzZWVlMjQxZWJjMWNmMWRhYTk3ZTgzMWNi`

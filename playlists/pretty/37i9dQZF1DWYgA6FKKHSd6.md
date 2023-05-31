@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,581 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,606 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [City Vibe](https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6) | [André Ward](https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG) | [Steppin' Up](https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT) | 4:44 |
 | 100 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 |
 
-Snapshot ID: `MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0`
+Snapshot ID: `MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4`

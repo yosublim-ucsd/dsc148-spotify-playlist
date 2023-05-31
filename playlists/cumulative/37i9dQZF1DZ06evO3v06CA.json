@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 239800,
       "name": "Red Headed Stranger",
       "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
@@ -1373,7 +1373,7 @@
         },
         {
           "name": "Micah Nelson",
-          "url": "https://open.spotify.com/artist/4v7bRT3afmurVVfkuQthZX"
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
         },
         {
           "name": "Nathaniel Rateliff",

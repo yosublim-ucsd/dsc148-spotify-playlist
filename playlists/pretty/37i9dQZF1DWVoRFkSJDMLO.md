@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Emotional Oranges, Nonso Amadi 🇺🇸 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,050 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,100 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 13 | [Party Girls \(feat\. Buju Banton\) \- Michaël Brun Dancehall Remix](https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Party Girls \(feat\. Buju Banton\) \[Michaël Brun Dancehall Remix\]](https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU) | 3:19 |
 | 14 | [Bring It Good](https://open.spotify.com/track/6tvHXsB0nqA6A6ylngdFNZ) | [Kirk Diamond](https://open.spotify.com/artist/3e6KF6uSOtWu2hEGPoiSnl), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb), [Tiffanie Malvo](https://open.spotify.com/artist/1pliPsl6yHIkyhtdo54ERZ) | [Bring It Good](https://open.spotify.com/album/0iuEu0BVsHmCOrZNvQAAMV) | 3:06 |
 | 15 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
-| 16 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
+| 16 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
 | 17 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 |
 | 18 | [Drift](https://open.spotify.com/track/4JZiqyIrrexl2VGeBEMUYh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/44NSbG7DeZHOYrz3jq2ggi) | 5:59 |
 | 19 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 31 | [Niata](https://open.spotify.com/track/1mtlYmtelBzQWEbHm07q1o) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Niata](https://open.spotify.com/album/1JsCxj69403hiZzgNnKOYJ) | 3:02 |
 | 32 | [Jiggaban](https://open.spotify.com/track/5x39zjb5i0h8IeG39Yi00U) | [Bouff](https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s) | [Jiggaban](https://open.spotify.com/album/5MwAkPCHH4Y87r0CPtW4hI) | 2:09 |
 | 33 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 |
-| 34 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
+| 34 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 35 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 |
 | 36 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 |
 | 37 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 |
 | 38 | [Have Fun](https://open.spotify.com/track/1rPvhegIHzqY1b5BVro7IZ) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Have Fun](https://open.spotify.com/album/4AKm0LLj5I5Q0LfJBQeeJG) | 2:42 |
 | 39 | [No Love in Lagos](https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [1DA SHALL NEVER END](https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT) | 3:14 |
-| 40 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 |
+| 40 | [Sinner](https://open.spotify.com/track/1J12nWQKjodPf436e61Orp) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sinner](https://open.spotify.com/album/2GaYDilv8Ei7fPAE9U0oVD) | 3:00 |
 | 41 | [We a Run E Grung \- Remix](https://open.spotify.com/track/2pWpmS722XsVz1IVDlKtGw) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [We a Run E Grung \(Remix\)](https://open.spotify.com/album/7HvGaYjcsfqT7JtmSvOVHG) | 1:48 |
 | 42 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 43 | [Bruk Out](https://open.spotify.com/track/2tqmebpNRL25n5lxYfgGq3) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr) | [Bruk Out](https://open.spotify.com/album/0J5wKliBxisu2W13LnwLws) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 100 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 
-Snapshot ID: `MCxiOGFkYjk5ZDczYWRmNzIzMGRhMmY3ZjUzOGY4MTUxMDBiODczMWVl`
+Snapshot ID: `MCw1ZTAxZjFiNzAyNjEzZDBkNjk5Y2M5MjNmZjFlYmIwM2VkODE3YzAy`

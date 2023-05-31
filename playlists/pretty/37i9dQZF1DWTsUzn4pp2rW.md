@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,471 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,555 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 99 | [Hey Laura](https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [Hey Laura](https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d) | 3:13 |
 | 100 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 |
 
-Snapshot ID: `MCxmOTg0OWE5YTE2MWFhNzdhZmZjNDgwYWM5MzM5MDhhYTlhY2UwYmEw`
+Snapshot ID: `MCw0YTFhNTliYjdmMmVjNDFhMzhkMjFmZDc3NWMyM2I0OTNjZDQyMDQ1`

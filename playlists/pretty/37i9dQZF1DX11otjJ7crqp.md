@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lauren Spencer Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,665 likes - 104 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,712 likes - 104 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 53 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 |
 | 54 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
 | 55 | [Thank God These Walls Can’t Talk](https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Thank God These Walls Can’t Talk](https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7) | 2:35 |
-| 56 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 |
+| 56 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
 | 57 | [Waste A Tear](https://open.spotify.com/track/0q95y4MRVrqGaJNtz98Eb6) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/2tOODqOEMwOFPIswwcgCr7) | 2:27 |
 | 58 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
 | 59 | [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 103 | [Gentle](https://open.spotify.com/track/1qt7Dr1rek4FXHoX3h9lzM) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Gentle](https://open.spotify.com/album/3LOPFTCGElXKFqJ9EO2F6R) | 2:10 |
 | 104 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 |
 
-Snapshot ID: `MCw0ZDAwZGNjZTYyNzNiOWY4ZDhiNzA0YmY5MjY0MDU4NzMxYTBlMmMw`
+Snapshot ID: `MCw1ZjA0MWNmMjg4MTU3ODRjYWIyMzc0YWY3ZTE2Nzg0M2FkZjc3MTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,021 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,129 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [Baby Schai \- Remix](https://open.spotify.com/track/0F1NcuoaSaL8cwdXXcSF6y) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Baby Schai \(Remix\)](https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7) | 5:28 |
 | 150 | [Cero \- Remix](https://open.spotify.com/track/1d2yY2RDleLOkYxEpMuy1Y) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Cero \(Remix\)](https://open.spotify.com/album/79Usl5b5h3j61HtLWaiWd2) | 2:51 |
 
-Snapshot ID: `MCw4NTE1MDMxZjkzY2Q5MWE2NzkyYzQxZjg2MWZhYTRmNjJjNDRjZmY4`
+Snapshot ID: `MCxiMTBkNzQ3ZDNkY2I4NWNkNTU1NjZiYTM1NmYzMTA1NDk3YmJkNWE1`

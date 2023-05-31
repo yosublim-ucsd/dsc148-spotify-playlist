@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,472,777 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,472,865 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 |
 | 150 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 |
 
-Snapshot ID: `MCwyMWViYmI0YWEyYjQwNzNhY2FiZjcyYzZmYTBhYjk2NzlkNzMzMDA4`
+Snapshot ID: `MCwxMTZmOGUyMzk0NTA2MzM4ODEyNGFkOTk1ZWYyYzJhY2NmZTUzZGI4`

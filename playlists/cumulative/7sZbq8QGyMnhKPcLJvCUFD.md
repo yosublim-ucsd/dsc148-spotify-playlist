@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-279 songs - 14 hr 4 min
+280 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 |  |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 | 2023-04-28 |
+| [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 | 2023-05-30 |  |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 | 2023-04-28 |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-04-28 |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-04-28 |

@@ -2,7 +2,7 @@
 
 ### [Morning Motivation](https://open.spotify.com/playlist/37i9dQZF1DXc5e2bJhV6pu)
 
-> Get your day off to a cracking start!
+> 
 
 1,433 songs - 3 day 9 hr 22 min
 

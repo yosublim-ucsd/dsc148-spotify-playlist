@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "DARK STEP",
+        "url": "https://open.spotify.com/album/5QLNlO42lfwFSuwEZcREeK"
+      },
+      "artists": [
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91826,
+      "name": "DARK STEP",
+      "url": "https://open.spotify.com/track/620A7hleDI0h2jDscp5P7s"
+    },
+    {
+      "album": {
         "name": "dashstar*",
         "url": "https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG"
       },

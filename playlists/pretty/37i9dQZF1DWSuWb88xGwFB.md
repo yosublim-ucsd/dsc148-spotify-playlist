@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,206 likes - 75 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,232 likes - 75 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 75 | [We Can Make It \- The 'I Believe' Dub](https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg) | [Moné](https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 5:34 |
 
-Snapshot ID: `MCwwZTRiZDFkMzVhNTQwNzYwMDliYmE1YmM5MDRjM2I2ZmU1YTVkZGNh`
+Snapshot ID: `MCw3N2M4YmY5MjBiYTk5NjliYjc4OTdkZTA4NWM2MmZkMzZiNjYzYmQ1`

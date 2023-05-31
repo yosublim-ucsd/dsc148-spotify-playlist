@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,779 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,923 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Think Before I Talk \- Cahill Remix](https://open.spotify.com/track/7almlnOxMbP9vsmbtLT0jg) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Think Before I Talk \(Remixes / Pt\. 1\)](https://open.spotify.com/album/4I9mq6QqhYz2IhnHx0CI35) | 3:12 |
 | 50 | [Chained To The Rhythm \- Oliver Heldens Remix](https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Chained To The Rhythm \(Oliver Heldens Remix\)](https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW) | 4:36 |
 
-Snapshot ID: `MCxmOTE5YzZiMjkyOTE0YjNhNmFjN2I1MmVmZGU1ODI2OGRjNDQ2NTk4`
+Snapshot ID: `MCw3YzBlNGNmZTg3NDViZTk5YWYxMTY2OTQ5YmMxYTA2MTIzMTYxZjhj`

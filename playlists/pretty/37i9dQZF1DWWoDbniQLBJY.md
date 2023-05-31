@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016,454 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,467 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [Chiste](https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Chiste](https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA) | 2:51 |
 | 100 | [tensión](https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [tensión](https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX) | 3:07 |
 
-Snapshot ID: `MCxlNzE2YjVkM2QyOTQ0MTg2ZWQ0NjRkNTBjY2IyYzhjMWMyMzNlOGY1`
+Snapshot ID: `MCwyNGM0OWFjNWE4ZDU1ZGJkMTQwZDk2MDMxZDQxNzcyOWIxYmQzODRh`

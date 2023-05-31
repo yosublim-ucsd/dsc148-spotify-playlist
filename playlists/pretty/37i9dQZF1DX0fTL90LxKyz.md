@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,803 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,862 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Spoilt](https://open.spotify.com/track/6uPzjHmUcrErMjg4McdTnh) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Spoilt](https://open.spotify.com/album/0dqONCbDsca2ZgZ4daM8CJ) | 3:00 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MCw2N2ViMTlhMjYyZjcxNmUwNGI5NTdlNDJjZjQzNzM4MzBhZGU0NWM0`
+Snapshot ID: `MCwxNTQwMjI1ODA5YTdkODI1NzQ4YWMwNTdkY2U0YWZiNmI2NDM0Y2U0`

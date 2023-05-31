@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Macha Kiddo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,537 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,566 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/4wJF4rXSEidU6ZlZKp8Nre) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/0rzUB5TzTLGYryGbry7YAE) | 4:15 |
 | 75 | [Corazón Usado](https://open.spotify.com/track/7s4U0Y3doEGDTLlQY5X55Q) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Isabel Aladro](https://open.spotify.com/artist/3fzd5buQcowrpBPrplZ607) | [Corazón Usado](https://open.spotify.com/album/1E7VGxKHjqcxsesZtHF1xz) | 3:52 |
 
-Snapshot ID: `MCxjODJiZjA5NTI2MzBjM2Q1NjI5YmEzOTEwMDM0M2JhOTQzYTc5ZDM2`
+Snapshot ID: `MCxmNGQwY2RmYjM4ZWJmNWY2ZmFkYzljYTZkMmVkZDY2ZmE1OGQ3YWI0`

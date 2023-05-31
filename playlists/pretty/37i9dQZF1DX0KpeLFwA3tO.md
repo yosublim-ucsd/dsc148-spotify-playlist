@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,242 likes - 125 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,314 likes - 125 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [i h8 skewl](https://open.spotify.com/track/0o7jsFaNfMBrqSrlyY2bVz) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [i h8 skewl](https://open.spotify.com/album/3StXuwTWExhBOuChvk5Cb1) | 2:04 |
 | 125 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
 
-Snapshot ID: `MCxkMjFiMWVjNTNiOWZlY2ZlZjExN2VhNmFkODhhYjA2NDE3NDdlZWM5`
+Snapshot ID: `MCxjOWFjMTQ5ZjFiM2U3NDc5ZGQxZGMxOTQ0YWE2MTA4ZTE4MjQ4NzU1`

@@ -2,7 +2,7 @@
 
 ### [sped up songs](https://open.spotify.com/playlist/37i9dQZF1DX0mWZXNs0ArA)
 
-> 150%
+> 
 
 219 songs - 9 hr 40 min
 

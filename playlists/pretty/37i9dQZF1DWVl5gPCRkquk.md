@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,699 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,746 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 |
 | 100 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/18MmURU3LigipnhvZh99Se) | 4:39 |
 
-Snapshot ID: `MCwwNjAwNjlhZmZmMTE5MDc2ZDYyZmE1Mzc0MDIzYWVkZjZhZTBjNDli`
+Snapshot ID: `MCxkMjZlYWNlZTEyMThkYzA4OGYxODdkYzBhNmVkMjVlMmE0ZWUzN2Qz`

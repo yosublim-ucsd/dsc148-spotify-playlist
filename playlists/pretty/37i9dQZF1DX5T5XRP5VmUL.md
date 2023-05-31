@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,297 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,287 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Christmas Angel](https://open.spotify.com/track/0J4u3HXFFZMtKQb2fZPZbq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B) | [Christmas Angel](https://open.spotify.com/album/6tjj25SBB1Slk8o3QDPXt5) | 2:10 |
 | 100 | [Silver Bells](https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Silver Bells](https://open.spotify.com/album/5BgeQ2ztcrexpTaEZGpqYf) | 3:46 |
 
-Snapshot ID: `MCxmYzlmZWRkMjk1YTVkYjU4ZGZhZjYxZTlkNDJiNzZmOTMwNDc0YThm`
+Snapshot ID: `MCw0MDNmMDg2ODc1ZTAxMGEwNGQ2YWUzYzAwNmE4ZGFjYTg1NzVhMzA3`

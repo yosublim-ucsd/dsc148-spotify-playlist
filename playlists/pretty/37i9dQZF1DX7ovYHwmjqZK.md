@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,184 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,302 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Meios](https://open.spotify.com/track/1h9pUIVYwc0Hjp9ZEMisy1) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9) | [Vida Código](https://open.spotify.com/album/4pCNLcYtZ7g9KU3LMtVpBk) | 3:36 |
 | 100 | [Coisa No\. 10](https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA) | [Moacir Santos](https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ) | [Ouro Negro](https://open.spotify.com/album/6JE3031cYqjRrfi1rYwEJV) | 3:03 |
 
-Snapshot ID: `MCxmYTRlNzE3M2IxYzc4OTNiNGQxZWU0YzdhZGEyMTMwN2E4NDdmY2Ji`
+Snapshot ID: `MCxiMDc1ZWFlYmVmNDE5NDJmOTNlMjBlY2U3ZjYwNTMxMzk3MmJiNTI3`

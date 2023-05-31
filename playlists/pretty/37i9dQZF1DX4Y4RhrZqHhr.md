@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,425 likes - 200 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,611 likes - 200 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |
 | 200 | [Summer Jam 2003 \- Remix](https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em) | [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb), [Summermix](https://open.spotify.com/artist/4u4Kde9i4PU3IeJpfAHpCx) | [Remix Hits, Vol.1](https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb) | 3:49 |
 
-Snapshot ID: `MCw1OWVlODA0MmRjOTkwY2VlOWFjZGY4YWMyY2JjYmExYjgyODUxNTZj`
+Snapshot ID: `MCxhZWFjMWQ4MjA4NDM2Y2E4ZTQxMDcxM2Y1MTg0YzAzYjY4NmFmOTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,605 likes - 200 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,623 likes - 200 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [A Ballad for Alice](https://open.spotify.com/track/44aAp76Uiq3ZlGCnQlVjdl) | [Armel Dupas](https://open.spotify.com/artist/484hsKf4h2mWJ3mZy93g8l) | [A Ballad for Alice](https://open.spotify.com/album/05YNZdljADlXktZPJriKG9) | 2:00 |
 | 200 | [Berlin](https://open.spotify.com/track/1mOJEN9BH9gEebCm0o2je0) | [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8) | [Marianna](https://open.spotify.com/album/4bBEVdgdAvpCj9hiEv8RQX) | 5:33 |
 
-Snapshot ID: `MCxjMDFlYWY0MWRhZjRkM2FmNmVlM2VjODNhNzgwODNlM2M4Zjk3NDU5`
+Snapshot ID: `MCw5NzJmNGJhYWJhY2U4ZTZkZjdjZjAyYTMzNDAxNTY3ZThlZDI4Yzkz`

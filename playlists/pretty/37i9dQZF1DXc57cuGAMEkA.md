@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Dua Lipa, Lauv, OneRepublic, imase and more! cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,557 likes - 85 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,583 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 84 | [Someone](https://open.spotify.com/track/4Dib3sR8HWmTWsUE8mLUWU) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [David Paich](https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ), [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui) | [Someone](https://open.spotify.com/album/6OmbQdopwymj5POziQxVZ1) | 4:08 |
 | 85 | [Melting](https://open.spotify.com/track/495hvmiVRUYGxM6XMELLvb) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O) | 6:14 |
 
-Snapshot ID: `MCw5ZTRiM2ZkYTI2M2I5MTYwNmQwOGU0YjNkYzJmNWRkZDBkMzYwN2Ey`
+Snapshot ID: `MCwzOTJkMmNkYTlkODgzZTYwZGQ2NWNiN2UwNDgzZGFhODhlMWY1ZjY0`

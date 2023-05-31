@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,865 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,863 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Joy Unto The World](https://open.spotify.com/track/1kzcPnffNSugnsC5KaCIvh) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Joy Unto The World](https://open.spotify.com/album/4Md3Z5MRb1AqhUtiW7KxSs) | 4:13 |
 | 100 | [Joy to the World/Our God Saves](https://open.spotify.com/track/5theMlNBtF80y4WXPzSCAZ) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Christmas Worship, Vol\. 2](https://open.spotify.com/album/0Oebjw58B0C8Jx5tuJiDuS) | 4:35 |
 
-Snapshot ID: `MCwxZWE0ZDhkMWZmNWUzNzg5Mzg3ZTI0MzI4Njg4OGE0MDcwOWNiODA4`
+Snapshot ID: `MCxjZDA1ODNjYzM3ZjRlNmIwMjAwNzBjOTRlY2MxYjE2ZjJiMGJhODMz`

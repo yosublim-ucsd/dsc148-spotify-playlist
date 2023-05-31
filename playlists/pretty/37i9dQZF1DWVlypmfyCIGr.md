@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,564 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,605 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 45 | [百鬼夜行](https://open.spotify.com/track/4X6zrENMuFANqmKz6MIV7p) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [百鬼夜行](https://open.spotify.com/album/3FBrCecKShQFfSxBrcCmAK) | 2:27 |
 | 46 | [Bad Bitch BIGAKU](https://open.spotify.com/track/1h3Cwx7CWLJaLDnPlVu1Mn) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [Bad Bitch BIGAKU](https://open.spotify.com/album/1fj96LQ9agWjeZp5t8uktl) | 4:20 |
 | 47 | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/track/6fFrBnPlSalqXYL7rO6DY5) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Kyunchi](https://open.spotify.com/artist/6OSypK1O2H0k33zP5HtPtI) | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/album/6osDuDFpLd4XrdXwrHwXL8) | 3:03 |
-| 48 | [NAINAI](https://open.spotify.com/track/2nLFtKkjZ6dwF46TahVKqW) | [シキシヅキ](https://open.spotify.com/artist/2N2bouxwwzbaSUtVzmtVYk) | [NAINAI](https://open.spotify.com/album/5Urc7RMCs4yqwWIqUgsnJ5) | 4:13 |
+| 48 | [NAINAI](https://open.spotify.com/track/2nLFtKkjZ6dwF46TahVKqW) | [シキシヅキ](https://open.spotify.com/artist/6NkSa9cxuuViMBtj7NIBYs) | [NAINAI](https://open.spotify.com/album/5Urc7RMCs4yqwWIqUgsnJ5) | 4:13 |
 | 49 | [ラブシック](https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 3:12 |
 | 50 | [Time To Go](https://open.spotify.com/track/3NXhxhKuqrCIs0JiSZha4U) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Time To Go](https://open.spotify.com/album/2yOWEiiNDFbdYG7MjjPKYZ) | 2:50 |
 | 51 | [かわいそうなおんなのこたち](https://open.spotify.com/track/4fAezyThrsBcVrlVPdTdaY) | [トイハニロフ](https://open.spotify.com/artist/60VyYoxo8ZwMojKcWTiHrg) | [かわいそうなおんなのこたち](https://open.spotify.com/album/36zBpGciBjOGsvo1heRWkp) | 2:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Literary Girl](https://open.spotify.com/track/3pn9aZHPt2Cbt9xakej7fS) | [miolly](https://open.spotify.com/artist/5smKtVDKbCiaUWASPunQAa) | [Literary Girl](https://open.spotify.com/album/5ZWJD7i2sy6AnA2PTcCCoy) | 3:52 |
 | 80 | [Mayday](https://open.spotify.com/track/3gBg30QamRN5DftFNK5EKf) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Mayday](https://open.spotify.com/album/3IjA3ElHjDD9KaEnc4a9MU) | 3:12 |
 
-Snapshot ID: `MCw1MjRiNmQ5MzkzMGJiM2Y0ZWY4N2Q2YmI5ZTk0OTIyYThjMjJlNGRm`
+Snapshot ID: `MCwxNGE2OGYzZGE1MzRjZTQ0ODAyNjExYTI5N2RkYmYzODA4ODMwZjJh`

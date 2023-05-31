@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,421 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,463 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Kakistocracy](https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Knocknarea](https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz) | 6:42 |
 | 55 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 |
 
-Snapshot ID: `MCw5MmI0YTI0ZTA1YmM0ZGZmNGE5ZTQ3ZWJhNThhNmI4ZGVjZWZkZmZj`
+Snapshot ID: `MCw5NjJiNTljZDliYzEyMjllOWI3YTRjYWNmOTYxMGFjMjkxYmNlOTU4`

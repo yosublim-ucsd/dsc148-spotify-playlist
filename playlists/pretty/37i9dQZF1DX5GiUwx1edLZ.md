@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,049 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,056 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [I Could Be The One \[Avicii vs Nicky Romero\] \- Noonie Bao Acoustic Mix](https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\] \(Remixes\)](https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0) | 3:51 |
 | 100 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
 
-Snapshot ID: `MCwzN2ZkZmU2NzNkZGNiNTczZmVmYmIyNDY2N2MxNmM4NjcxOTY0Mjk3`
+Snapshot ID: `MCw3MGJlNzQzYjYxZWRjYmE2ZTJkMTYxYTg4MzM3ZjdlODg1NTRhMjEz`

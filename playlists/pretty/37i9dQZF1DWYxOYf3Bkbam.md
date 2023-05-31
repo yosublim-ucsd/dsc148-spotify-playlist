@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,984 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,015 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás](https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL) | 3:02 |
 | 90 | [Canción para Mi Muerte](https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Lucas Colque](https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2) | [Canción para Mi Muerte](https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx) | 3:34 |
 
-Snapshot ID: `MCwzYTJhMjQ1Nzc2Y2ZmYTU2NjRmZjJjMjQxYzQwMGE0MWJjOWY5ZGIz`
+Snapshot ID: `MCwxNmUzMGY3YjcwM2I4ODJiMjI3YjVmOWM1NTVjNThhODI3ZWE1MDQ4`

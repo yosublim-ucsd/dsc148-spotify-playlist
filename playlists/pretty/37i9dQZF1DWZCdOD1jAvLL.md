@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,160 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,322 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 79 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 |
 | 80 | [Revolution](https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Revolution](https://open.spotify.com/album/6A1uNJqYuAhldH89hy70od) | 4:07 |
 
-Snapshot ID: `MCw1ZTE1ODZiNDc2ZjMzZDlhZmFkZGU4ODkzZGRjYzA4YWI5NjYxYWE3`
+Snapshot ID: `MCw4ZmNmOWEwZDViMzNmNjM1OGFkZmFlMWY1NWJiMDM3OTdkYWYwNGFl`

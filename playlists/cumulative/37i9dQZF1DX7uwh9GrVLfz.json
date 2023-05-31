@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Dizzy Sunfist",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Su\u51f8ko D\u51f9koi",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 173960,
       "name": "Decided",
       "url": "https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5"
@@ -5241,6 +5241,24 @@
     },
     {
       "album": {
+        "name": "seisyunhamada",
+        "url": "https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5"
+      },
+      "artists": [
+        {
+          "name": "EiHilE",
+          "url": "https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155408,
+      "name": "seisyunhamada",
+      "url": "https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8"
+    },
+    {
+      "album": {
         "name": "In forward",
         "url": "https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx"
       },
@@ -5898,7 +5916,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 224875,
       "name": "Stay\u30fbYoung",
       "url": "https://open.spotify.com/track/79OZ3xmpxW94a0BpKQ4WL1"
@@ -8492,6 +8510,24 @@
       "duration_ms": 142853,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/6PT9GI9KfOytFFcK82ZpC6"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30fc\u30e1\u30f3\u30e9\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq"
+      },
+      "artists": [
+        {
+          "name": "Limited Express (has Gone?)",
+          "url": "https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "\u30e9\u30fc\u30e1\u30f3\u30e9\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,958 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,010 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 79 | [Samba de Nós Dois](https://open.spotify.com/track/5MQ2a8RvLTpVUHT5AsoQzf) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Samba de Nós Dois](https://open.spotify.com/album/2cjBLxmvfLPmtLm4fj1VVh) | 2:59 |
 | 80 | [elevador](https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [elevador](https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa) | 2:42 |
 
-Snapshot ID: `MCxiODE4YTQ3ZTA5YTJlZmIzYjc3MjI5MTQ3OWIyNDFhMDRjZGIzZjNk`
+Snapshot ID: `MCxlNTc5ZGNmYmI2YzRhNDBmYjcwNDk4Y2ZjNGZkMmY5OTBmOWM0YTA4`

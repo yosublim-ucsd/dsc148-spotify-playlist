@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,203 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,287 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [TRIGAL](https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 3:02 |
 | 100 | [Carta Aberta](https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3) | 5:22 |
 
-Snapshot ID: `MCwyZGViY2ZiNmNhMDE2YmVhZWI2NzIxYWM5OTA2OGJmYzAwZDIwNGQy`
+Snapshot ID: `MCxkNDIxOTBiMjQ0OWFkYWM1NjFjNGRjYWIwOTJmOTMwNTQyNzg0OGE2`

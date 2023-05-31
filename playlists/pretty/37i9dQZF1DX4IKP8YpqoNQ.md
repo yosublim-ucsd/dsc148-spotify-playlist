@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,988 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,996 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 3:02 |
 | 100 | [A Song for You \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 5:48 |
 
-Snapshot ID: `MCxhZDUyOWYxNDgyNjliYWQxYzQ0MjczNDVkOGM1ZjYyYjYxNWFmMTUw`
+Snapshot ID: `MCw5NWI3YTk1NjRiMWIwOTg4Njg1ZDRiYmNjZjlhNjc2ZWJiOGE5NGM2`

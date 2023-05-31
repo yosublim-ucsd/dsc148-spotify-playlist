@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alexvn\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,250 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,255 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Antes de partir](https://open.spotify.com/track/5dmZf0kmZDK8tqbocvU8JQ) | [Queen Conga](https://open.spotify.com/artist/07kMizszDdoXHCTG65mXje) | [Antes de partir](https://open.spotify.com/album/5HXxrpecLaMprBhWyOvArQ) | 4:38 |
 | 50 | [Humo](https://open.spotify.com/track/1wrH4HO3ZGI0bwS5u2F5yM) | [El Boscko](https://open.spotify.com/artist/4VFYudBs0kVUJ2obKT4yrS) | [Humo](https://open.spotify.com/album/0OkDNiN8t2HDHSwznu6ag5) | 3:26 |
 
-Snapshot ID: `MCw3OWI5Mzc5ZjQ3NjJiMmNiMTdlNTg3NzE1MzZhODI4MzNlMzdmN2Ey`
+Snapshot ID: `MCxlMzc0NDQ4N2FhNGY5NGIxNjM4NmNjYTc5OTA0N2RjNjE4YTJhMmE2`

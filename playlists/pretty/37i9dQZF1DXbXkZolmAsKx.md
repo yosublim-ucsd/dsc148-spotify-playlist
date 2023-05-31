@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,790 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,809 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Two Different People](https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt) | [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By) | [Living With Yourself](https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx) | 3:22 |
 | 100 | [Further Away \- Benoît Pioulard Rework](https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY), [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Glider 10: Reworks](https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF) | 5:48 |
 
-Snapshot ID: `MCwwZmFhMTdhMWM1OTI0M2IxODlmZWU1NGM0ZTgwMjcxMmQ3NWNhZTNi`
+Snapshot ID: `MCwzN2U3NGNjNzk0MDI2MzY0MjdkMGFjZjhkMTA1NTg1MDQ4YTlmZjk0`

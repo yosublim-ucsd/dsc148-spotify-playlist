@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,664 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,107 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 88 | [Burning](https://open.spotify.com/track/5UCL0TZACi3cgVaIPs0UVm) | [Mista Strange](https://open.spotify.com/artist/6f2OiLi5ws1F1xkHgjDPBX) | [Strange Faces](https://open.spotify.com/album/5myzv5MVvDrFji6BKIVbzS) | 3:45 |
 | 89 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 
-Snapshot ID: `MCw3YTU1Zjc1NDMzYzUxYTRhY2M1MGNjMGUyYjM0ZGJlN2UzZjkxZGZh`
+Snapshot ID: `MCxkMTAwM2E3NjY0MGM2Nzc1MGI4ZjRjNGRjNmI0NDZjMDRjYjlkNmU5`

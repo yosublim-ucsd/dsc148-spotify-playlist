@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,020 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,331 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
 | 100 | [Existe Uma Voz](https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Existe Uma Voz](https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer) | 3:45 |
 
-Snapshot ID: `MCxmNWRjOGY1OTljMWYwOTIzOGI5YjhlYzRjZmQ1ZDU0MmRmZjAwYjMw`
+Snapshot ID: `MCw1NTRlYmVmY2Q4YzY4MTczYTZiMWU0MmM2ZTg5ZDI1MGUwM2RkYTYz`

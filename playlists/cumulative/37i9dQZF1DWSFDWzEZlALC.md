@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller
 
-251 songs - 12 hr 25 min
+252 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Timothée Chalamet](https://open.spotify.com/track/5JYKaqxrlGN0QiKMTud8Yn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fühlst du dich allein?](https://open.spotify.com/album/2uc22qiOh7uSDgdIx6Rmy0) | 3:37 | 2023-03-09 |  |
 | [Titanic](https://open.spotify.com/track/34L1vbjzYUl7UsnaqoJfT4) | [ADRIAN](https://open.spotify.com/artist/3UgavzeD0h4CMxaceDzUeO), [DER400](https://open.spotify.com/artist/6QegidK2LlqMdtUszSnHeC) | [Titanic](https://open.spotify.com/album/1nGSeIbETSziWxhPQVNisu) | 2:01 | 2023-02-02 | 2023-02-10 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 |  |
-| [Trostpflaster](https://open.spotify.com/track/3Xh27rfmgbJIIY7y9MStWW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Trostpflaster](https://open.spotify.com/album/4aGnarb1U7fQ5qyJeuha0K) | 2:53 | 2023-05-11 |  |
+| [Trostpflaster](https://open.spotify.com/track/1qB9pVLpxLfEG6tuPHYDYW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Deutschrap Sommerhits 2023 by STOKED](https://open.spotify.com/album/7h8rKSPqOMwNvz7c50QIxe) | 2:53 | 2023-05-25 |  |
+| [Trostpflaster](https://open.spotify.com/track/3Xh27rfmgbJIIY7y9MStWW) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [Trostpflaster](https://open.spotify.com/album/4aGnarb1U7fQ5qyJeuha0K) | 2:53 | 2023-05-11 | 2023-05-31 |
 | [Trotzdem](https://open.spotify.com/track/1GyyebDa06oQi6O30C97KW) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Trotzdem](https://open.spotify.com/album/21E0iNCqzuN4wQsdvCAE2e) | 4:35 | 2023-02-23 |  |
 | [Tätowier Mir Dein Namen](https://open.spotify.com/track/3B8E7EJ5KkR6NJM2qlB92z) | [STEEZY](https://open.spotify.com/artist/7qrYjRiwMxIIxbuvVyVIeL) | [Tätowier Mir Dein Namen](https://open.spotify.com/album/6RPkPeXNuakYMF5yDWhOkk) | 2:28 | 2023-02-23 | 2023-03-18 |
 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 | 2023-02-02 | 2023-03-10 |

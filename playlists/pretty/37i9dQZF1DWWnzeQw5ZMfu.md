@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,765 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,819 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 |
 | 100 | [I Won't Let You Go \- Live At The Hospital Club](https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 4:00 |
 
-Snapshot ID: `MCw4NWY0ZDVhZGI2ZWQ2OWI1NGY3YTA0NDZmNDcwMWZjMzVkYjViYjlk`
+Snapshot ID: `MCxjNWNmOGI5MDdjMmQ1M2Q2NjQ3NmYzYWJiZDMyODMxOTEyYzgxNTBk`

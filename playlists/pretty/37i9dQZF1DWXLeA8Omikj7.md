@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,655,930 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,656,054 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 |
 | 100 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 
-Snapshot ID: `MCwwZWJmMWQwOTM0ZTNiMTBhY2YwOWIyYmM3YjkxOTAzM2UzMTVlMTcx`
+Snapshot ID: `MCxkOGNhMTY2ZjgyOWVlODY0ZTUxZjc3OGVjMzhlMzA3OWYzZWVhMmYw`

@@ -9350,7 +9350,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 358000,
       "name": "Nilavoli Mugamai (From \"Yaathisai\")",
       "url": "https://open.spotify.com/track/1K9dKYk1TRX8kYceyQwHGj"
@@ -11898,10 +11898,6 @@
         {
           "name": "Shweta Mohan",
           "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Ku Karthik",
-          "url": "https://open.spotify.com/artist/5ihlNPtMY27BzBZz3588kE"
         }
       ],
       "date_added": "2023-05-26",
@@ -15780,6 +15776,36 @@
       "duration_ms": 207944,
       "name": "Veera Soora (From \"Naane Varuvean\")",
       "url": "https://open.spotify.com/track/6mPQ3rmFeyjlYUXTnegt9w"
+    },
+    {
+      "album": {
+        "name": "Veeran Thiruvizha (From \"Veeran\")",
+        "url": "https://open.spotify.com/album/3pkFcrsLbgspPZkLRg3Q5r"
+      },
+      "artists": [
+        {
+          "name": "Muthu Sirpi",
+          "url": "https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Pranavam Sasi",
+          "url": "https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221854,
+      "name": "Veeran Thiruvizha (From \"Veeran\")",
+      "url": "https://open.spotify.com/track/52TKvbodnvPjZYRiQdmGwY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QqLAAH3ltES4Yr3XdCI9z.md) - [plain]
 
 > 
 
-[laisinha](https://open.spotify.com/user/q64xm9wcophofu2yt8armms73) - 32 likes - 87 songs - 6 hr 50 min
+[laisinha](https://open.spotify.com/user/q64xm9wcophofu2yt8armms73) - 33 likes - 87 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

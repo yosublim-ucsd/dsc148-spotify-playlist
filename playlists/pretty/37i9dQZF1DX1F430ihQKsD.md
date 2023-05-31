@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,242 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,271 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 |
 | 100 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 
-Snapshot ID: `MCxmOTg1NGVkNDc2NGQ3MzI0MzZiOGQzNDcwYmRjN2QxNDFlNTc4Njc4`
+Snapshot ID: `MCw4N2I4ZGU5NDhhMmZiZTUwOGY0NmIyNzc3MzRmOWU5ZmExNGY3MDJm`

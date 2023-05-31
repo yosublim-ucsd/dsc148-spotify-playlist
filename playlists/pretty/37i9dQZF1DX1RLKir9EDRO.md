@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: nisan Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,753 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,757 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yokuş](https://open.spotify.com/track/6FxhMQhVcb4BNkCB2lnDEF) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U) | [Yokuş](https://open.spotify.com/album/3CrnaIMOdwLov14sydUrm4) | 2:06 |
-| 2 | [Çöl](https://open.spotify.com/track/3gcadccxHzdcP410i4N8s8) | [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Çöl](https://open.spotify.com/album/1bxbSinqZ0bc4WBEv01225) | 3:42 |
-| 3 | [Zaman Zaman](https://open.spotify.com/track/4dLsXiPw7J2v06by5APXTu) | [Bîdar](https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT) | [Zaman Zaman](https://open.spotify.com/album/35P7YBn7ChMzIG2vf7YkWG) | 3:55 |
-| 4 | [Beni tek düşlerim anlar \- Akustik](https://open.spotify.com/track/3XMb86DZBzXO71wKDgzWxA) | [Turuncu Gökyüzü](https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG), [Ramazan Yalçın](https://open.spotify.com/artist/6YmLkJu3STux7ClwVLcJa5) | [Beni tek düşlerim anlar \(Akustik\)](https://open.spotify.com/album/5YRThxVrlwQguwujznvRJe) | 2:22 |
-| 5 | [HİSTERİ](https://open.spotify.com/track/6D6sKPwUar1BbjCAxPVISa) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [HİSTERİ](https://open.spotify.com/album/0uRlQgda0lRw1QSOW6e15h) | 2:24 |
-| 6 | [Bana Biraz Romantizm Gerek](https://open.spotify.com/track/0ea8CUvbK1pGB6kUWV7leU) | [Ezgi Işık](https://open.spotify.com/artist/7tVZ6gxN0xi1pvekZzzkEG) | [Bana Biraz Romantizm Gerek](https://open.spotify.com/album/4aHgoRN4kILd3D3ESekyWU) | 3:49 |
-| 7 | [Çok Anlamsız](https://open.spotify.com/track/3Bz93QnhOw06YkllvUokHE) | [Taş Kağıt Makas](https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe) | [Çok Anlamsız](https://open.spotify.com/album/5rlUyw8fGM2pyHtyaal7jk) | 4:40 |
-| 8 | [bi' rüyada](https://open.spotify.com/track/2HWGO9nZBuvElbo4QoCumn) | [RMDN](https://open.spotify.com/artist/2LZcZtzGIDIO41YAFMQK7i), [sılaze](https://open.spotify.com/artist/7Me9ru8LsfQQ0spSXY2hKG), [Yuşa Kürkcü](https://open.spotify.com/artist/69rrO4uBkRRa1gQH0p1OmB) | [bi' rüyada](https://open.spotify.com/album/1CfpU1Ev8bwWZTO6coGN4Y) | 3:30 |
-| 9 | [Oluru Yok](https://open.spotify.com/track/58kVOie5UCwbQW9N88ZdgI) | [Ali Gem](https://open.spotify.com/artist/4zc2MQSnAsfsgMs9d5eRtu) | [Oluru Yok](https://open.spotify.com/album/7rUwPGoappyEYxlG1JTFM5) | 4:09 |
-| 10 | [DELİRDİM](https://open.spotify.com/track/6I13UjONQnrceXalGtedCb) | [Mert Berkay](https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8) | [DELİRDİM](https://open.spotify.com/album/00bQMOMNHT9gQj0caErTwh) | 2:44 |
-| 11 | [F\*ckboi](https://open.spotify.com/track/4nBHmlbfWlDQcMw4bo5tMn) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [F\*ckboi](https://open.spotify.com/album/4lPE4yWVsTDCivhSwM8AtN) | 3:43 |
-| 12 | [Uyku Sularında](https://open.spotify.com/track/6xOZOwy25ZYOwu7kTjgoYN) | [Bulutlar](https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E) | [Uyku Sularında](https://open.spotify.com/album/2j76SGkyPsQh6ZgoUJysci) | 3:44 |
-| 13 | [Yaşamam Böyle Aşkı](https://open.spotify.com/track/3BmiW4VA9dUFwMZqOIIUNq) | [Kırık Kalpler Düğün Salonu](https://open.spotify.com/artist/1H35rlVXy9XPggJEo8MSDQ) | [Yaşamam Böyle Aşkı](https://open.spotify.com/album/5AYEW6rGtIYdZe93epk8qt) | 2:51 |
-| 14 | [Ruj İzi](https://open.spotify.com/track/4eOjExDKBCtEtkzMPxEDED) | [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [Ruj İzi](https://open.spotify.com/album/77IHw7UQmflewFAHjaYoRv) | 1:41 |
-| 15 | [Canavarlar](https://open.spotify.com/track/2q16tmb6f8Hihpe7eU1Jl8) | [Kontropop](https://open.spotify.com/artist/5MrHnQlt0WDTE0mwc48Luh) | [Canavarlar](https://open.spotify.com/album/3FCYnOFwHJx8HKKKiTlvLk) | 4:08 |
-| 16 | [kaygılarım kutsal kitap gibi](https://open.spotify.com/track/2BvSvZiEgl2hu4DFch0hRv) | [kurkafanda](https://open.spotify.com/artist/1hwnnyxn54luBeZsknzbIw) | [kaygılarım kutsal kitap gibi](https://open.spotify.com/album/5XdECVyWljlvd0CfovuLNo) | 2:17 |
-| 17 | [Ukde](https://open.spotify.com/track/6YBdIjewK90Ii3Pk5QqAgm) | [Kaan Çelik Metin](https://open.spotify.com/artist/0UpAvZ6nJyJ6cTXfln5Uvs) | [Ukde](https://open.spotify.com/album/1XgjG2kUPGJpGcFIloAPcW) | 3:27 |
-| 18 | [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 |
-| 19 | [Yollarımız Ayrı](https://open.spotify.com/track/4q3JPYoVMVFZ7p2AIPbxLe) | [Adakanbo](https://open.spotify.com/artist/6K1hdbuFsTMZ3TwXxvNmpm) | [Yollarımız Ayrı](https://open.spotify.com/album/0x4cJk9evfq0szTcoFfmqb) | 3:26 |
-| 20 | [Öldür Beni](https://open.spotify.com/track/7LYYI2Dnu8lqPDAkIT6iJH) | [Lavta](https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa) | [Öldür Beni](https://open.spotify.com/album/6BWywRX0aISrAnuzzWj0Qa) | 2:43 |
+| 1 | [Bana Biraz Romantizm Gerek](https://open.spotify.com/track/0ea8CUvbK1pGB6kUWV7leU) | [Ezgi Işık](https://open.spotify.com/artist/7tVZ6gxN0xi1pvekZzzkEG) | [Bana Biraz Romantizm Gerek](https://open.spotify.com/album/4aHgoRN4kILd3D3ESekyWU) | 3:49 |
+| 2 | [Yokuş](https://open.spotify.com/track/6FxhMQhVcb4BNkCB2lnDEF) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U) | [Yokuş](https://open.spotify.com/album/3CrnaIMOdwLov14sydUrm4) | 2:06 |
+| 3 | [Beni tek düşlerim anlar \- Akustik](https://open.spotify.com/track/3XMb86DZBzXO71wKDgzWxA) | [Turuncu Gökyüzü](https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG), [Ramazan Yalçın](https://open.spotify.com/artist/6YmLkJu3STux7ClwVLcJa5) | [Beni tek düşlerim anlar \(Akustik\)](https://open.spotify.com/album/5YRThxVrlwQguwujznvRJe) | 2:22 |
+| 4 | [Kayboldum](https://open.spotify.com/track/3ybD8itWhQ6tAhvsij6exP) | [Bulutlar](https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E) | [Kayboldum](https://open.spotify.com/album/0gYl4JaPvq3Et1tpL4AFBA) | 3:56 |
+| 5 | [Çok Anlamsız](https://open.spotify.com/track/3Bz93QnhOw06YkllvUokHE) | [Taş Kağıt Makas](https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe) | [Çok Anlamsız](https://open.spotify.com/album/5rlUyw8fGM2pyHtyaal7jk) | 4:40 |
+| 6 | [bi' rüyada](https://open.spotify.com/track/2HWGO9nZBuvElbo4QoCumn) | [RMDN](https://open.spotify.com/artist/2LZcZtzGIDIO41YAFMQK7i), [sılaze](https://open.spotify.com/artist/7Me9ru8LsfQQ0spSXY2hKG), [Yuşa Kürkcü](https://open.spotify.com/artist/69rrO4uBkRRa1gQH0p1OmB) | [bi' rüyada](https://open.spotify.com/album/1CfpU1Ev8bwWZTO6coGN4Y) | 3:30 |
+| 7 | [Dikenler](https://open.spotify.com/track/2f6aKMd4YgaT0sqfhLfgak) | [Kübra Yiğit](https://open.spotify.com/artist/3EvlpiQA7Pehvl3MP9tY9n), [Sado](https://open.spotify.com/artist/1M7nOZMmTRlBUGXkPiVnGe) | [Dikenler](https://open.spotify.com/album/6czou3N2oJp06sEWL33yoG) | 2:39 |
+| 8 | [DELİRDİM](https://open.spotify.com/track/6I13UjONQnrceXalGtedCb) | [Mert Berkay](https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8) | [DELİRDİM](https://open.spotify.com/album/00bQMOMNHT9gQj0caErTwh) | 2:44 |
+| 9 | [F\*ckboi](https://open.spotify.com/track/4nBHmlbfWlDQcMw4bo5tMn) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [F\*ckboi](https://open.spotify.com/album/4lPE4yWVsTDCivhSwM8AtN) | 3:43 |
+| 10 | [Neden](https://open.spotify.com/track/6IWdY0pVWayB30tERfKR5k) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/0JGlcbYf5ks7g6yF4mY2F1) | 1:55 |
+| 11 | [Yaşamam Böyle Aşkı](https://open.spotify.com/track/3BmiW4VA9dUFwMZqOIIUNq) | [Kırık Kalpler Düğün Salonu](https://open.spotify.com/artist/1H35rlVXy9XPggJEo8MSDQ) | [Yaşamam Böyle Aşkı](https://open.spotify.com/album/5AYEW6rGtIYdZe93epk8qt) | 2:51 |
+| 12 | [Ruj İzi](https://open.spotify.com/track/4eOjExDKBCtEtkzMPxEDED) | [Azure Wrath](https://open.spotify.com/artist/4jkgIFWljOfnbcE1fkwcQX) | [Ruj İzi](https://open.spotify.com/album/77IHw7UQmflewFAHjaYoRv) | 1:41 |
+| 13 | [Canavarlar](https://open.spotify.com/track/2q16tmb6f8Hihpe7eU1Jl8) | [Kontropop](https://open.spotify.com/artist/5MrHnQlt0WDTE0mwc48Luh) | [Canavarlar](https://open.spotify.com/album/3FCYnOFwHJx8HKKKiTlvLk) | 4:08 |
+| 14 | [kaygılarım kutsal kitap gibi](https://open.spotify.com/track/2BvSvZiEgl2hu4DFch0hRv) | [kurkafanda](https://open.spotify.com/artist/1hwnnyxn54luBeZsknzbIw) | [kaygılarım kutsal kitap gibi](https://open.spotify.com/album/5XdECVyWljlvd0CfovuLNo) | 2:17 |
+| 15 | [sen ve ben](https://open.spotify.com/track/2G3uVUvP2lU3W0zXv1lbvM) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y), [ilhan](https://open.spotify.com/artist/0BYgUqxpEieAv0tXdUbf27) | [sen ve ben](https://open.spotify.com/album/6HRQSKPe30GUwvzrNBd1Zk) | 1:42 |
+| 16 | [Ukde](https://open.spotify.com/track/6YBdIjewK90Ii3Pk5QqAgm) | [Kaan Çelik Metin](https://open.spotify.com/artist/0UpAvZ6nJyJ6cTXfln5Uvs) | [Ukde](https://open.spotify.com/album/1XgjG2kUPGJpGcFIloAPcW) | 3:27 |
+| 17 | [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 |
+| 18 | [Yollarımız Ayrı](https://open.spotify.com/track/4q3JPYoVMVFZ7p2AIPbxLe) | [Adakanbo](https://open.spotify.com/artist/6K1hdbuFsTMZ3TwXxvNmpm) | [Yollarımız Ayrı](https://open.spotify.com/album/0x4cJk9evfq0szTcoFfmqb) | 3:26 |
+| 19 | [Öldür Beni](https://open.spotify.com/track/7LYYI2Dnu8lqPDAkIT6iJH) | [Lavta](https://open.spotify.com/artist/0j81DyR8CkOy6rGQzorqGa) | [Öldür Beni](https://open.spotify.com/album/6BWywRX0aISrAnuzzWj0Qa) | 2:43 |
+| 20 | [tek başımayım hep](https://open.spotify.com/track/4SyAH7zuRulb079QNiU6bN) | [blaze𓂀](https://open.spotify.com/artist/3w1sLUrTdl3q4CpE6DA0U0) | [tek başımayım hep](https://open.spotify.com/album/0yuc8sOhEdIj79vgEoj76Q) | 2:12 |
 | 21 | [toksik](https://open.spotify.com/track/1Unj0UGccFn4U67P6OCWZ9) | [Güneş Özgeç](https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB) | [toksik](https://open.spotify.com/album/6PKa5aULDxNjo8NtkYs6L1) | 3:47 |
 | 22 | [Zaman](https://open.spotify.com/track/1rtE6wVtKFzbM2RsyhH0Nt) | [Ne Var Ki](https://open.spotify.com/artist/0O4CdRGCb8ls9j4ecUpqT9) | [Zaman](https://open.spotify.com/album/760AEaxeVHxGhjw6b7Zhen) | 3:00 |
 | 23 | [Aynalar](https://open.spotify.com/track/2F86YQMC3MiJJ70qncP2Ft) | [Sekant Retina](https://open.spotify.com/artist/0nHBne9OjMaikBcoK2tLa9) | [Aynalar](https://open.spotify.com/album/1UxazuYCYW2dlVjOeXFgjb) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 | 75 | [Son Perde](https://open.spotify.com/track/6ixXTrGqmgluADrd9EJxxa) | [Ben Ölünce](https://open.spotify.com/artist/3aM81T2G7hGpcGGuspkI8l) | [Son Perde](https://open.spotify.com/album/7HN9KD3pQXoo5O3v2wslKO) | 3:48 |
 
-Snapshot ID: `MCw2NGFiMmY2ZmI4MzkwZWZmM2E2MzJiZjRkYTc5ZTljYjdiNDliNzNh`
+Snapshot ID: `MCw5YjMyNTZhNDMyNmE4ZjIwMmYwNDgyNWFiOWM1MTkxZmYxNjc5MzVj`

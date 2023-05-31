@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: Preme",
-  "num_followers": 2226,
+  "num_followers": 2260,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTE4MjQ1MDkyMmFhZjVlOGVmOTFiNTcxNmJjZWIxZDYzZjYyNmEw",
+  "snapshot_id": "MCwxNjE0MGZjMTdmMzY0MzJhODE3MDc1MzNiY2FhMDc4OGIxNTE1YWNm",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -804,12 +804,12 @@
       },
       "artists": [
         {
-          "name": "a4",
-          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
-        },
-        {
           "name": "Gurjot",
           "url": "https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q"
+        },
+        {
+          "name": "a4",
+          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
         },
         {
           "name": "4theworld",

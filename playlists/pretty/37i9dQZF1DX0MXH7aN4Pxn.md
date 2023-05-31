@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > Turn the energy levels up and join the party wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,589 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,604 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [Summer In Love](https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Summer In Love](https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp) | 3:15 |
 | 100 | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ) | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX) | 2:24 |
 
-Snapshot ID: `MCxkZGUxOGQ0MDY3ODljNTI1MDQ1YWQ2NDkxNjllMDlhNDZlODI1MzRm`
+Snapshot ID: `MCwxYTY3NGU0MzRjNzhiODlkYTYzZTdiMDAyYjdmNzZkNGM2MGUzMmIw`

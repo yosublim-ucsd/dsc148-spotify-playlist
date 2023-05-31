@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,560 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,664 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Burn](https://open.spotify.com/track/73uQl32t4hNWnWWfpRQ1uj) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Gilad Hekselman](https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL), [Billy Kilson](https://open.spotify.com/artist/2CpN6s71YoYw3UDLKCFKRH) | [Burn](https://open.spotify.com/album/7CnkndNymkN758nv4t7HQf) | 3:46 |
 | 100 | [Day Dream](https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Day Dream](https://open.spotify.com/album/406jynG8Y0juiFhyOaviak) | 4:55 |
 
-Snapshot ID: `MCwxODA1MGY5NTk3YmEzM2MwZDVlNzQxOWExNGUwOTNhNzUzM2VhZTJl`
+Snapshot ID: `MCwzNDZkOTRiYjA0YjYyZTRlOWVhYmQ3MTUzZjMzM2U2MGFmODRiMTkz`

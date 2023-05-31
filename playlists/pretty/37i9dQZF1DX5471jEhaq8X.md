@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,665 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,727 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 | 199 | [Gente Fina](https://open.spotify.com/track/2sowOY6PNHB8gFLIfOR54Y) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Gente Fina](https://open.spotify.com/album/3xxV96QsW7EzKED8GlGrW7) | 2:59 |
 | 200 | [De la Calle Graduado](https://open.spotify.com/track/7BohzfINUZAuv0m1o1xA1u) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [De la Calle Graduado](https://open.spotify.com/album/4Wigj9epF6591J47RiM58Z) | 3:07 |
 
-Snapshot ID: `MCxmN2RlYWRhOTJjOWJhNDI3OTkzM2E1NDUwOTVhODFmMGUyODU0Y2E3`
+Snapshot ID: `MCxmOTE0ZDM2MmRlZWY0N2FiNzkxN2YxZGUxMTBkYTdkZWVlMTZjZjFi`

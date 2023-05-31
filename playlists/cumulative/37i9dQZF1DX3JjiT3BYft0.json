@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 315766,
       "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
       "url": "https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Anfang",
+        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "BLACK SHOUT",
+      "url": "https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L"
+    },
+    {
+      "album": {
         "name": "BLACK SHOUT",
         "url": "https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "Blessing Chord",
       "url": "https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo"
@@ -380,6 +398,24 @@
       "duration_ms": 247800,
       "name": "BRAVE JEWEL",
       "url": "https://open.spotify.com/track/0rjNLVTECa3JdFIRqCYwz6"
+    },
+    {
+      "album": {
+        "name": "Wahl",
+        "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "BRAVE JEWEL",
+      "url": "https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa"
     },
     {
       "album": {
@@ -752,6 +788,24 @@
       "duration_ms": 350300,
       "name": "Daylight -\u30c7\u30a4\u30e9\u30a4\u30c8-",
       "url": "https://open.spotify.com/track/7lbb1e459rAhDVp0EjLokE"
+    },
+    {
+      "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253466,
+      "name": "Dear Gleam",
+      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
     },
     {
       "album": {
@@ -1288,7 +1342,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 211833,
       "name": "Glee! Glee! Glee!",
       "url": "https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy"
@@ -1745,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Anfang",
+        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214206,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH"
+    },
+    {
+      "album": {
         "name": "BLACK SHOUT",
         "url": "https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3"
       },
@@ -2139,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235766,
+      "name": "Proud of oneself",
+      "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
+    },
+    {
+      "album": {
         "name": "Quintuple\u2606Smile",
         "url": "https://open.spotify.com/album/3Sch89X2lpqgiCfyansDMH"
       },
@@ -2328,7 +2418,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 334868,
       "name": "Ringing Bloom",
       "url": "https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz"
@@ -2418,7 +2508,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 366568,
       "name": "ROZEN HORIZON",
       "url": "https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K"
@@ -2710,6 +2800,24 @@
     {
       "album": {
         "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315400,
+      "name": "Sing Alive",
+      "url": "https://open.spotify.com/track/59TG3QLUt4mvnPKY07H5la"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
         "url": "https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR"
       },
       "artists": [
@@ -2760,6 +2868,24 @@
       "duration_ms": 241566,
       "name": "Song I am.",
       "url": "https://open.spotify.com/track/40EntUPer27Lm8l3Q0nd6i"
+    },
+    {
+      "album": {
+        "name": "Wahl",
+        "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242566,
+      "name": "Song I am.",
+      "url": "https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue"
     },
     {
       "album": {
@@ -2900,7 +3026,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 326842,
       "name": "STAR BEAT!~\u30db\u30b7\u30ce\u30b3\u30c9\u30a6~ - Acoustic Ver.",
       "url": "https://open.spotify.com/track/03l8t2nRF2QOQWBBlTMFEZ"
@@ -3008,7 +3134,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 253733,
       "name": "Swear ~Night & Day~",
       "url": "https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k"
@@ -3231,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "UNSTOPPABLE",
+      "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
+    },
+    {
+      "album": {
         "name": "I need you!",
         "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
       },
@@ -3426,6 +3570,24 @@
       "duration_ms": 304693,
       "name": "Yes! BanG Dream! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/483gWlMHuZA8T1Vp5NUtJn"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP"
+      },
+      "artists": [
+        {
+          "name": "\u725b\u8fbc\u308a\u307f(CV.\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310427,
+      "name": "Yes! BanG Dream! - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
     },
     {
       "album": {
@@ -3854,7 +4016,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 235100,
       "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a~\u307f\u3093",
       "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
@@ -3980,7 +4142,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 248182,
       "name": "\u3069\u304d\u3069\u304dSING OUT!",
       "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
@@ -4354,7 +4516,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 228600,
       "name": "\u308b\u3093\u3063\u266a\u3066\u3043\u3066\u3043\u30fc!",
       "url": "https://open.spotify.com/track/4uqLCBpfP6tVmvXZGtSExC"
@@ -4838,7 +5000,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 271022,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA"
@@ -4910,7 +5072,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 233032,
       "name": "\u30c6\u30a3\u30a2\u30c9\u30ed\u30c3\u30d7\u30b9 - Acoustic Ver.",
       "url": "https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ"
@@ -5040,6 +5202,24 @@
       "duration_ms": 230000,
       "name": "\u30d1\u30b9\u30d1\u30ec\u30dc\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u305a\u2606",
       "url": "https://open.spotify.com/track/1tbvfEpi0yla17GpT7ySq7"
+    },
+    {
+      "album": {
+        "name": "Pastel \u00e0 la mode",
+        "url": "https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "\u30d1\u30c3\u30d1\u30ec\u2606\u4eba\u751f!\u30d0\u30fc\u30f3\u4e07\u6b73!",
+      "url": "https://open.spotify.com/track/6WV66ZeRZ7nAGKYKjjaBQX"
     },
     {
       "album": {
@@ -5313,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232433,
+      "name": "\u4e00\u9022\u306eFull Glory",
+      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
+    },
+    {
+      "album": {
         "name": "\u4e8c\u91cd\u306e\u8679(\u30c0\u30d6\u30eb \u30ec\u30a4\u30f3\u30dc\u30a6)/\u6700\u9ad8(\u3055\u3042\u884c\u3053\u3046)!",
         "url": "https://open.spotify.com/album/0Gx04Qm99qA17JAPscYy4s"
       },
@@ -5346,7 +5544,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 271013,
       "name": "\u512a\u52dd",
       "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
@@ -5490,7 +5688,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 261635,
       "name": "\u590f\u306b\u9589\u3058\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0"
@@ -5562,7 +5760,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 299235,
       "name": "\u590f\u7a7a Sun! Sun! Seven! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX"
@@ -5688,7 +5886,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 209453,
       "name": "\u5f71\u8272\u821e",
       "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
@@ -5814,7 +6012,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 224833,
       "name": "\u707c\u71b1 Bonfire!",
       "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
@@ -6042,7 +6240,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 295593,
       "name": "\u8d70\u308a\u59cb\u3081\u305f\u3070\u304b\u308a\u306e\u30ad\u30df\u306b - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ"
@@ -6150,7 +6348,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 218602,
       "name": "\u9583\u5149",
       "url": "https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT"
@@ -6244,6 +6442,24 @@
       "duration_ms": 175233,
       "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5922",
       "url": "https://open.spotify.com/track/36oQA58GCSj91Yr3iFEsj6"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625 To Be Continued",
+        "url": "https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256366,
+      "name": "\u9752\u6625 To Be Continued",
+      "url": "https://open.spotify.com/track/0ffbqaw7SgaVKZ4Wzyx01o"
     },
     {
       "album": {

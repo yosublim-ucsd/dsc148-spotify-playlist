@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,088 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,347 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 99 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 |
 | 100 | [Intuición](https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Intuición](https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE) | 4:12 |
 
-Snapshot ID: `MCw5ZTQ0MDk5YjZmODBiNWQ2ODIzMDUxYTc3MDNmOTZiZjAyNTNiMTg3`
+Snapshot ID: `MCxhM2U5NWMxZTZmMmM3YjU1ZTE4NDA2ODM1YmQ4MDk0ZGEyZGMwOTk1`

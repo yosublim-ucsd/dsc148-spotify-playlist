@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Don Omar y Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,667 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,716 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Sereia Me Perdoa](https://open.spotify.com/track/1xw0BToTM3XnVnqXSPRByZ) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Sereia Me Perdoa](https://open.spotify.com/album/4G5meE8QB35IdXh7CP7yjv) | 7:37 |
 | 73 | [Sai Da Frente](https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Sai Da Frente](https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5) | 2:47 |
 
-Snapshot ID: `MCwwMDc0NDdlNWQzYjg0NGYzMTg0MjdmYzhmZTZjYTZmOGFkMmU2ZGRi`
+Snapshot ID: `MCwxYTZkNDQ5NjI2NGVjN2MyYjQ1M2IxYjVkNjQwMzg0ZjMzNTI4MzEz`

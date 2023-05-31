@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,698 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,045 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 25 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 26 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 |
 | 27 | [Enno Ratrulosthayi Remix Song](https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Amigos](https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc) | 4:41 |
-| 28 | [Vagalaadi](https://open.spotify.com/track/1dqVvcYTFqHKC8hZlEznlX) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Balaji Dake](https://open.spotify.com/artist/2PDCTNsoC4LD5b0ESwH0dA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Brochevarevarura](https://open.spotify.com/album/7mrgR0FRytr0ONJV1bF5eT) | 4:23 |
+| 28 | [Vagalaadi](https://open.spotify.com/track/7owyCRdR8u7Yh3xTvSvLRw) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Balaji Dake](https://open.spotify.com/artist/2PDCTNsoC4LD5b0ESwH0dA), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Brochevarevarura](https://open.spotify.com/album/1q1er7QHcC4hKE51pONWhu) | 4:23 |
 | 29 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 |
 | 30 | [Arerey Manasa](https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Falaknuma Das \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1cBufU0U56Pcm7WIKNKtHE) | 5:01 |
 | 31 | [Yentha Sakkagunnave](https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 70 | [Emai Poyave](https://open.spotify.com/track/14M1StehpwsydSGGy8z9eq) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 2:34 |
 | 71 | [Nee Neeli Kannullona](https://open.spotify.com/track/0LQzVOmKeMhC3ccO0wUlSP) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Dear Comrade](https://open.spotify.com/album/2Dm5RqMxec1kI17G2awogs) | 2:26 |
 | 72 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 |
-| 73 | [Mandaara](https://open.spotify.com/track/51O5cmwTOopxgVQuB5tZsG) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine's Day Special](https://open.spotify.com/album/5WZOo6UgGdbVgzWazeSfjo) | 4:51 |
+| 73 | [Mandaara](https://open.spotify.com/track/7LaQ58wuVdHDOgCbnyexBL) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Bhaagamathie](https://open.spotify.com/album/3C7JzpLXUHle7KhdhFSNun) | 4:49 |
 | 74 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 | 75 | [Undiporaadhey](https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Hushaaru](https://open.spotify.com/album/35CCKYAkZ8GHzIb1rbDND5) | 2:53 |
 
-Snapshot ID: `MCxjODQ2OTdlNjZmNDQ3ODg2MmE3YTAwZmE1ZDA2ZTQ2NGY3ZjcxODE0`
+Snapshot ID: `MCxjOWFiZTc3MGRiZDY0NjhiMzFhYzIxNjVmNTI3MmM5ZmYyOGViMmQx`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Baby Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,304 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,534 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 |
+| 1 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 |
 | 2 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 |
 | 3 | [100 OPPS](https://open.spotify.com/track/32VGaGAXpPFYh0XgmHp7lI) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [100 OPPS](https://open.spotify.com/album/4wYRRwVSMgQY5YBwqo67w6) | 2:47 |
 | 4 | [Vodka \(feat\. ANNA\)](https://open.spotify.com/track/5PenP8v9fJ3ccElGKOKT9s) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Facendo Faccende](https://open.spotify.com/album/3VmtySjQrfflccXajzDArW) | 2:49 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 7 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 |
 | 8 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 |
 | 9 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
-| 10 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 |
+| 10 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 |
 | 11 | [2 SECONDI](https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:29 |
 | 12 | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/album/70fx0AktGUG48bJp4vlh5Y) | 3:46 |
 | 13 | [Aspettative \(feat\. Medy\)](https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Aspettative \(feat\. Medy\)](https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Steppers \(feat\. Guè\)](https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:46 |
 | 50 | [Block notes](https://open.spotify.com/track/6mZoe1LCCaons3BDtGCw7U) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:47 |
 
-Snapshot ID: `MCxjNTdjOGJmZjk4OThjNjk1ODA2NzA2ZWYwMjE2YTRkZTEwNGQzYjMy`
+Snapshot ID: `MCwyZGI2MjFjNjdiZTg2ZjQzOTZmNjAzYWEzMjFkOTc1OGM0YTBlOTQ5`

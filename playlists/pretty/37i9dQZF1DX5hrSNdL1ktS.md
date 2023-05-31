@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,532 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,567 likes - 108 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 107 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 | 108 | [Sabes](https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Karely Ruíz](https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC) | [Sabes](https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB) | 3:42 |
 
-Snapshot ID: `MCxjZjIwODE3NTk3ODQ3NmIyNjMwYjg0YWI1N2U4ZmIxMzJhMjZjNmU0`
+Snapshot ID: `MCw3NDljZGIwNDA0YjAzMGZmOWVkMGE0YWYwOTAzYzE3ODhlNGIxY2Jj`

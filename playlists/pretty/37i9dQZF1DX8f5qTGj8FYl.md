@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,725 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,856 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 |
 | 80 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 |
 
-Snapshot ID: `MCwzOThhYzgxM2ZhMGVlZGViMzY2NzA3OTk2MzhjZDliNGZkNjZkNDcx`
+Snapshot ID: `MCw2NjEyZTFhODY3OTFjNTA4NzE1NThiNzljY2QwYzNiNThiMDZiNmM5`

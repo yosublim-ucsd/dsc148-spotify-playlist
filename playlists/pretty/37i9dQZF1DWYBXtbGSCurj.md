@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Filipe Ret, Dallas, MC Maneirinho, PJ HOUDINI, Anezzi, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,781 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,022 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 13 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 |
 | 14 | [Maldita](https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:07 |
 | 15 | [Bandida Sexy \(feat\. Pedro Lotto & WEY\)](https://open.spotify.com/track/1qJRVdA8YE2BDJgay5FXCO) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Bandida Sexy \(feat\. Pedro Lotto & WEY\)](https://open.spotify.com/album/2jZ7NditoLlTK6oXCra1Or) | 3:04 |
-| 16 | [Ampliando a Visão](https://open.spotify.com/track/6IGrmySfg2tZ6BG3I1cN6F) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Ampliando a Visão](https://open.spotify.com/album/1aG1R2ksgJaszj0Ww83k2l) | 2:22 |
+| 16 | [Ampliando a Visão](https://open.spotify.com/track/6IGrmySfg2tZ6BG3I1cN6F) | [Brandão85](https://open.spotify.com/artist/2Q0UzuBjfHcWZviyzevjCY) | [Ampliando a Visão](https://open.spotify.com/album/1aG1R2ksgJaszj0Ww83k2l) | 2:22 |
 | 17 | [Louca Life](https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Louca Life](https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ) | 2:25 |
 | 18 | [SUV](https://open.spotify.com/track/1O80SvOuSakBE2pwTqutv0) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 2:39 |
 | 19 | [INJURIADO](https://open.spotify.com/track/0Z04QToWHQUCzRT7OT99sE) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [INJURIADO](https://open.spotify.com/album/54icBT2gO11RCf5RESZIbZ) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 | 75 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 
-Snapshot ID: `MCxkZjNhZDUzZmI4NjhlNmI2ODg2MzExNjE5NDRlMWRkM2ZlYjM3NDc1`
+Snapshot ID: `MCwxYWI0MjkyMDVjNjFlZDI3OTZiZjU5Mzk2MjI2NmY5ODlmYTY2NDhi`

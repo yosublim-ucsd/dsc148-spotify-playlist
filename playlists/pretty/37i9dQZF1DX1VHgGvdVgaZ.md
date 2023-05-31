@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,193 likes - 75 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,221 likes - 75 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vathapi Ganapathim Bhajeham](https://open.spotify.com/track/4w6p6n3uIVfRa6QGznDNQw) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:49 |
 | 75 | [Pibare Rama Rasam](https://open.spotify.com/track/2qQY4aob8d9hyS7AZSUEEb) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Amazing Veena](https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d) | 5:14 |
 
-Snapshot ID: `MCw5MjMwM2YzNWQyNzYxZDI5ZGJmYjI5NzYwMGQ4NWM4Mzk0NGViODY5`
+Snapshot ID: `MCw2MmViYjBkNjFlY2IzM2Y5NDFiNDQ0ZjM4YjJlYjYzNDRiMzU2NTIy`

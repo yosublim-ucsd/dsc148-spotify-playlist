@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits of the week, worldwide! Cover: Sam Hunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,362,950 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,364,949 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/track/5b4n4Lp2ZAPDGO9nQM5IHR) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [For What It’s Worth \(feat\. Alana Springsteen\)](https://open.spotify.com/album/1pr7LMNaajjMMWnGjU9pM9) | 2:56 |
 | 50 | [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 |
 
-Snapshot ID: `MCw4ODU3NWIxOGJlMzhkZjNjODNlOWYyNDdhMjI5YTE3NjY2Y2UwMGNm`
+Snapshot ID: `MCw3MmJlYzEyOTMyZTJjYmE0OWFjMDExY2NiY2I2NDc4YzhiMWY5Njcz`

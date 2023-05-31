@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,924 likes - 120 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,242 likes - 120 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Info Pandemie](https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL) | [DarkSonicTales](https://open.spotify.com/artist/0UwpvJPYgGfPN8GD2uSvZv) | [DarkSonicTales](https://open.spotify.com/album/35f8YfklsxyPtiMONCQ5XG) | 2:57 |
 | 120 | [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 |
 
-Snapshot ID: `MCwyNGNmNjk1YmE5NjAxYWE2YmM0OWFkNDVhMzNhMDIzOWMwMTVjYmE4`
+Snapshot ID: `MCwyZjFkMGI2YjM4MWQ0YTM5ZGY4YjgzMmI4ZjRlOGJhZmY4YmMzZjk3`

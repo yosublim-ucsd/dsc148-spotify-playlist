@@ -1,13 +1,29 @@
 {
-  "description": "Here is a playlist of all our songs released so far. Our new album 'Today We\u2019re The Greatest' is out now!",
-  "num_followers": 2070,
+  "description": "Here is a playlist of all our songs released so far. Our new single 'Bootleg Firecracker' is out now!",
+  "num_followers": 2087,
   "original_name": "Middle Kids - Complete Collection",
   "owner": {
     "name": "middle_kids_official",
     "url": "https://open.spotify.com/user/middle_kids_official"
   },
-  "snapshot_id": "NjksMTNiMDE4MTcxZjFjYWQ2MWE3YzE5NDRkMzNhNzg4NmY1ZWYwM2M1ZA==",
+  "snapshot_id": "NzQsYTJjNTQ4ZGY5Zjc3Y2IxYmM5MzFiNzI2MWI2YzAxYzMwZDJhMjlmZA==",
   "tracks": [
+    {
+      "added_at": "2023-05-30 07:00:37",
+      "album": {
+        "name": "Bootleg Firecracker",
+        "url": "https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 200457,
+      "name": "Bootleg Firecracker",
+      "url": "https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC"
+    },
     {
       "added_at": "2021-08-31 14:12:23",
       "album": {

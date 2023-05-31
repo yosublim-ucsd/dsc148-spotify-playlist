@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,380 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,443 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Look Up! \- Remastered](https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Posh \(Remastered\)](https://open.spotify.com/album/45wverkThQijw67ZCPxuBP) | 3:42 |
 | 50 | [Your Good Times Will Come](https://open.spotify.com/track/3g5oI7fJYh9NaQMQ5x4ItH) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Will Come](https://open.spotify.com/album/1ZhTIMvd5OlrytEfwekpUR) | 4:50 |
 
-Snapshot ID: `MCw5OGNlN2RkYWI1M2Q4NGNkNTA1ODUzN2U4NTVlZDMzOTc1ZTYzNzUw`
+Snapshot ID: `MCw2MzRiZTAxMjZkMDJhYjNkZjlkYTY0NDcwN2VjYjE2YTNlODI1N2Yw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,916 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,922 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [ichigo](https://open.spotify.com/track/7bnrQiLN2jKpKffxrYf5Ia) | [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0) | [ichigo](https://open.spotify.com/album/09AXeGfuX57oGmKKABBSWB) | 3:54 |
 | 80 | [Nintendo](https://open.spotify.com/track/6kmT50z4Z9WLc5iy737nIl) | [Mar!k](https://open.spotify.com/artist/0LxHkc47mHRikmYZSSNO2o) | [Nintendo](https://open.spotify.com/album/1lk7q1q7qVUB09McOy3ZdQ) | 2:40 |
 
-Snapshot ID: `MCxiYjQ0MDllMmNmY2FmOTE4MjlmNmE4NzI3NGE4NWY5OTVjZjI0NWY4`
+Snapshot ID: `MCxjODJkZTEyNDA5ZjVlNDAxZWVmOGQ2N2UzNDc0Njk2NTMyODkyZDRl`

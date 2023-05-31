@@ -128,6 +128,32 @@
     {
       "album": {
         "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182562,
+      "name": "ACQUA TONICA (feat. Geolier & Junior K)",
+      "url": "https://open.spotify.com/track/06I8g946xlivnmEgB5rM0j"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
       },
       "artists": [
@@ -172,7 +198,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 182562,
       "name": "ACQUA TONICA (feat. Geolier & Junior K)",
       "url": "https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj"

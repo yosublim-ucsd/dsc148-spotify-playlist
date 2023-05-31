@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,146,885 likes - 300 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,147,083 likes - 300 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [In Between](https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [In Between](https://open.spotify.com/album/7zLjHv906AQXMJ6307lqWL) | 1:58 |
 | 300 | [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 |
 
-Snapshot ID: `MCwzMDQ2MjhlYWE5OTE1M2IyMDg0YWQ3ZDM1Y2NiZjUwY2RhYzY4YTlk`
+Snapshot ID: `MCw1YTlhZTc2YmI2NzM5ZmFmNzNhOTYyNzVkMWM4NzhjOTM1NTZmMjc5`

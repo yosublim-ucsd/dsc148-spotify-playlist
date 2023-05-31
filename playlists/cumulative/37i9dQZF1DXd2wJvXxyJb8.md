@@ -4,7 +4,7 @@
 
 > ohhhhh sukin de murucujaaaaaaaaaaa
 
-276 songs - 12 hr 44 min
+277 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-07-28 | 2022-08-12 |
 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 | 2022-05-26 | 2023-05-03 |
 | [Me Evita Mais](https://open.spotify.com/track/6qPCDdlx08sKOnlLKZW6h0) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Pra Beber e Amar](https://open.spotify.com/album/1UDHGRm4svqknx3HScd6uX) | 2:19 | 2023-01-20 | 2023-03-14 |
-| [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 | 2023-04-04 |  |
+| [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 | 2023-04-04 | 2023-05-31 |
+| [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 | 2023-05-29 |  |
 | [Mec Mec 2](https://open.spotify.com/track/1aQyW6u67mcf9qzbd98jgS) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP) | [Mec Mec 2](https://open.spotify.com/album/5zEM4yWm6l51Uub97Xcpry) | 1:54 | 2022-12-19 |  |
 | [Meca Cereja](https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Meca Cereja](https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC) | 3:54 | 2022-11-09 | 2023-03-15 |
 | [MEGA DO TIMBALAND](https://open.spotify.com/track/6nm8bUIg4B4M2ssISWOJAG) | [Selton DJ](https://open.spotify.com/artist/0H9tTaXDtqyfFd30C0AyXc) | [MEGA DO TIMBALAND](https://open.spotify.com/album/6Po1oYa7aaTKl1iVpuyB10) | 2:36 | 2022-09-26 | 2023-04-12 |

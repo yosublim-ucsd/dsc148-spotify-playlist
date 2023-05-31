@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,322 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,921 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Shroom](https://open.spotify.com/track/6mxnpHQMS44u4eQ9IQrus5) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Shroom](https://open.spotify.com/album/1mWo0lXQTVGZ4H3Y5xmHZB) | 3:13 |
 | 100 | [Writings](https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I) | 4:47 |
 
-Snapshot ID: `MCxkYzMwM2U0MzNhOTQwNWM0NDM4NDYwNzIzZDk2NTY2MGZkOWZkMWY2`
+Snapshot ID: `MCw3MGI4MDcwNmRhNjMxYjE3MjcyN2E4N2E1ZTEzNzYzZDUyZjdhODFh`

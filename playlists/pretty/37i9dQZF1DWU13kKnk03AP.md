@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Get in the zone with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,202 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,315 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [With All My Heart](https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [With All My Heart](https://open.spotify.com/album/7t2qYxQeNwbMVdc5wwaSNa) | 2:57 |
 | 100 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCwyN2ZjYzcyZjY5NWExYTQ2NDhkZDJlMjU3MWFlZTBjODNmZjdjMDc4`
+Snapshot ID: `MCw4NzAwZWY4MmY1NmU4N2Q3NTkzMzJiYWMxODllMzRjZjliZTZjYTE3`

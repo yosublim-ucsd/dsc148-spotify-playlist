@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,602 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,771 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 |
+| 1 | [Ocean Spray](https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ocean Spray](https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE) | 2:44 |
 | 2 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |
-| 3 | [Ocean Spray](https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ocean Spray](https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE) | 2:44 |
-| 4 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 |
-| 5 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
+| 3 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 |
+| 4 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
+| 5 | [War Bout It \(feat\. 21 Savage\)](https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:40 |
 | 6 | [Chromosomes](https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX) | 2:31 |
 | 7 | [Same Side \(feat\. Rob49\)](https://open.spotify.com/track/2JNaqjOm7jHePMdr6WIadg) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 2:33 |
 | 8 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Out of State](https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Out of State](https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm) | 1:46 |
 | 100 | [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 |
 
-Snapshot ID: `MCwxMzA3YzMwZWMzNzI1YzBlNDk3M2VmNzY4NzQ5ODk4NTQ1NDUxNTM2`
+Snapshot ID: `MCxjMzczZWFiNWFjOWZkZGUxZjVlN2IyYzZlOGE3MzUzOWM2YzMyODc1`

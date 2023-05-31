@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Scooby
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,694 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,751 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 8 | [Exodia](https://open.spotify.com/track/5IWzGFDIlKS0YHlgKRDXMW) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [991Didi](https://open.spotify.com/artist/4Gi0bQFqrTkn6d6xAH0AIr) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:58 |
 | 9 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
 | 10 | [Lado 13 Do Mapa](https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V) | [Feek](https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [dantt](https://open.spotify.com/artist/17zmcE5VPJGB0psr1p8XqQ) | [Lado 13 Do Mapa](https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1) | 2:25 |
-| 11 | [Debochando da Mídia](https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [L7NNON](https://open.spotify.com/artist/57AnmAPPIGLalUHf79O5sc), [Ian Girão](https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF) | [Debochando da Mídia](https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo) | 3:21 |
+| 11 | [Debochando da Mídia](https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ian Girão](https://open.spotify.com/artist/5XQEbbbweicO6g4nCj8TSF) | [Debochando da Mídia](https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo) | 3:21 |
 | 12 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
 | 13 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
 | 14 | [Esculpido a Machado](https://open.spotify.com/track/3Ukj7F16inQlhbExukF9YC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Penitência](https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Penitência](https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV) | 2:17 |
 | 50 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 |
 
-Snapshot ID: `MCw2ZDQzYTZkYzkzNzE1NmY4MTI3Y2QwYWUyMDlmYjU1N2IzMTM3OTE4`
+Snapshot ID: `MCxmOTBhZDk4ZWYxMTU4NWQzYzAwODA0ZDMzMDAzODIyMDBjNDY1MzI2`

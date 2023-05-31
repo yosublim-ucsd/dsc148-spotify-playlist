@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,774 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,793 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Nahilé](https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa) | [RockLee](https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM), [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Nahilé](https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9) | 3:49 |
 | 100 | [Ann sove peyi a](https://open.spotify.com/track/6SWvNpUkToWeDtZUWrfNpq) | [Doremi](https://open.spotify.com/artist/3gahHEkgRYjxKF5PvIyzFr) | [Ann sove peyi a](https://open.spotify.com/album/32EFrlSI1VCbaoXw4wP2Zj) | 4:26 |
 
-Snapshot ID: `MCxhNTlkMGVlMjBmNDNmODllMjBmZjE2NmM5ZDYwZTFiMjFlMTQzNmYw`
+Snapshot ID: `MCxiMzg1NzVlMDM5OGI0YTAyMDE2NTFhYzUxNGExMTNmYTY3NTllODg0`

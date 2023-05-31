@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jake Owen, Brian Kelley, Brothers Osborne and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,442 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,601 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 57 | [She Is](https://open.spotify.com/track/3d1CXWH6GHyv1ONJZUzVcR) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Reid Haughton](https://open.spotify.com/album/12jrtKXtw8OOHNvRlzm3ch) | 3:47 |
 | 58 | [Puttin' Off Movin' On](https://open.spotify.com/track/1VNT53jpYHsy8c9ft91Pg2) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Puttin' Off Movin' On](https://open.spotify.com/album/04746UQHzpWr2mKM4824t4) | 2:10 |
 
-Snapshot ID: `MCw3MWJmM2Y1NGEyMzllY2I3NWMxMzg2OTQ2YjBjOGFjN2I1NDI1ZjY4`
+Snapshot ID: `MCxlM2U3MWUxODMxNzNhZTQ2ZDg1ZWM2Nzk1NzBlNGI0NThkMmYwZjdi`

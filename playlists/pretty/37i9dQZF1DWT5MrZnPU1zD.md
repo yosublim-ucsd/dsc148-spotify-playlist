@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,668,227 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668,323 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Already Know](https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Already Know](https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA) | 2:43 |
 | 100 | [Demon Party](https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Demon Party](https://open.spotify.com/album/13MCkdR1HqTl3GGzOhoWAU) | 2:25 |
 
-Snapshot ID: `MCwzNGVlOWMxNmQxYjVmNjEwZGZjNTA5MTQxZjk5ZjM1NDJkYmRjZjZi`
+Snapshot ID: `MCxlYjA2ZWE4YmVmZTBhZTNmMmEzZjg1NGUyNzg1MjM3MDc3N2E1NzJl`

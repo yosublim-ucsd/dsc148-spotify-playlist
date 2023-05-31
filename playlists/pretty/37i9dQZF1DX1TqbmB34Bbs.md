@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: QM, Odee\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,999 likes - 200 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,006 likes - 200 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TqbmB34Bbs.md) - [plain]
 | 199 | [Waterbomb \(Feat\. Gaeko, Nucksal\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/4iMaBhUaR1xfkobeLEEQyx) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:39 |
 | 200 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 |
 
-Snapshot ID: `MCwwMTkyNzg0ZTdiNjQzYzJhNTQ2ZTk1ZDcwOWE3NmRjODJiMDAwZWU1`
+Snapshot ID: `MCwwNTk4YTM3ZTI2M2VmY2NiMGY2MDY1NWQwYWEzNDJhMjQwNWJkNTk5`

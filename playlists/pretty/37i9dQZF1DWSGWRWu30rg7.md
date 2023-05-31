@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: More on Mumbles
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,750 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,756 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 31 | [Beautiful Mistake](https://open.spotify.com/track/6aynbkZqEVbZTFL6jaSAgr) | [Dayze](https://open.spotify.com/artist/5WbJ86oSNYI1CepXrXsdTl) | [Beautiful Mistake](https://open.spotify.com/album/42nG7hjNaUjal0Xs4AjiuP) | 4:38 |
 | 32 | [So Close yet so Far \(Slow\)](https://open.spotify.com/track/3Yvy3HRyl9nRBfx4JHLmTu) | [Palettes](https://open.spotify.com/artist/2GmlzSNz9jLiXmQVYsMWot) | [Palettes: Edits](https://open.spotify.com/album/6azCwWOagmUwhsdnf3tXAa) | 4:00 |
 | 33 | [June I've Failed Twice](https://open.spotify.com/track/3zq3Il2CPqT0ZAxYZVNAnm) | [Iamgreedy](https://open.spotify.com/artist/7hY6yU9V1rQCQ33uDnfQaf) | [June I've Failed Twice](https://open.spotify.com/album/6xoQtjCH8rQBlrVrhelJO9) | 3:04 |
-| 34 | [GET IT RIGHT](https://open.spotify.com/track/4LJnbgAf3sotgdmzwb6LTa) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI), [Manic](https://open.spotify.com/artist/6COXg668vcaV0n3olIjoWM) | [GET IT RIGHT](https://open.spotify.com/album/0wwz8DfDvg0PjUEVKbnN2E) | 3:00 |
+| 34 | [GET IT RIGHT](https://open.spotify.com/track/4LJnbgAf3sotgdmzwb6LTa) | [Domm Duarte](https://open.spotify.com/artist/2fzBCB64PrQlVa33UJ3YVI), [Manic](https://open.spotify.com/artist/1xQQeHhBnvAB5aAUu6uXdj) | [GET IT RIGHT](https://open.spotify.com/album/0wwz8DfDvg0PjUEVKbnN2E) | 3:00 |
 | 35 | [Katakan](https://open.spotify.com/track/1YlsCRNSUsx5S3K4fIDM3J) | [Lil Obelix](https://open.spotify.com/artist/5O2vNx2Lx2IAufqLNxlMyp), [Fransisca Nathanael](https://open.spotify.com/artist/45Iktjt36LwBiFjRbkDjD6) | [Katakan](https://open.spotify.com/album/2y4Q5NgMU08OT1WmUoqWli) | 3:30 |
 | 36 | [Ayah Pekerja](https://open.spotify.com/track/0zmowgYG3x4O9CTR128Vzo) | [Anindityo](https://open.spotify.com/artist/5yHvIDECUPbaqQHQBusBLL) | [Ayah Pekerja](https://open.spotify.com/album/5hGndAxpljsF7gOSlnQ4fb) | 3:42 |
 | 37 | [Berharap Berpisah](https://open.spotify.com/track/3ZBH777w2cmbFZyhCSufNV) | [Yogi Samantha](https://open.spotify.com/artist/1nd2KKppxxtMx1cfBRaVJy) | [Berharap Berpisah](https://open.spotify.com/album/2jwJEE98g2oX9ia2oif43z) | 5:28 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 71 | [Benar Ku Suka](https://open.spotify.com/track/1y19F0aHIe9TDHePIqXyEN) | [ERA](https://open.spotify.com/artist/6zyGQ03MxigTBeEmq3575O) | [Benar Ku Suka](https://open.spotify.com/album/3LWtSpXnKZZgo7o4qpCtDh) | 3:53 |
 | 72 | [Nothing To Recall](https://open.spotify.com/track/4Nxh3XguzzWMCVfAoDbiGJ) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Nothing To Recall](https://open.spotify.com/album/0PhvCXxJpUvHRDsCfg0XRr) | 3:06 |
 
-Snapshot ID: `MCxlNTUxMWViYTExY2Q5ZTczY2M1NWYwOTA2MTc1NzI4MWE3ZDQ5MTBh`
+Snapshot ID: `MCw3ZjQ5YjgwNmQ5OTBiZmMyNDY4YjE5NmQ4NDRmMzYyMGM4YmY0YWRj`

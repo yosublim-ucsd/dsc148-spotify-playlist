@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,213 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,384 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Noches en BCN](https://open.spotify.com/track/5if3JzeUPoXRd9eV2ajfkX) | [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Hombre de Oro](https://open.spotify.com/album/0eSm5UmzLKix0xXPVKkQLA) | 4:22 |
 | 100 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
 
-Snapshot ID: `MCxiNjRiYjBhODVjMjIyZTFjYjIxNzJiNzZkZDM3YWQzNDcwNDZmMTdm`
+Snapshot ID: `MCxiNTU5ODgyNWM3YzEzNWYzY2Y3M2QxZmQ3Mjk3NmI4MmNiYzNkMzEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,017 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,005 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 |
 | 150 | [White Christmas](https://open.spotify.com/track/785GHbJRiiQ1Guu8V8vgWf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Spirit Of Christmas](https://open.spotify.com/album/11vKP9wxsaoQ0Ooosbute9) | 3:49 |
 
-Snapshot ID: `MCw0NWYzMjdlMzBmNTZiNjI3MjhlOTM0MDY2Mjk2NWU0NWZiMTYxNzZk`
+Snapshot ID: `MCw2Y2FjZGY3YTg2ZmU2OTM4MWJkYWYyMWJiY2NlZGJhYTM4Njk1YmM3`

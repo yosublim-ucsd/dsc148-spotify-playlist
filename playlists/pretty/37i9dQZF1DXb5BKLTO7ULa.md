@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,417 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,425 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Halfvolle Melk \- premium](https://open.spotify.com/track/6IwQP02fSYiZAtlN4ejdZQ) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Halfvolle Melk \(premium\)](https://open.spotify.com/album/0o0j4HX7h3iyqFVTdTNbxe) | 2:47 |
 | 100 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
 
-Snapshot ID: `MCw2NWM1MGU0YjE5ZDU5OTc3OTAzYjdhYjk4MmNhMDg5NzU5MWU3ZmFj`
+Snapshot ID: `MCw4YmY3MDQxODFiMjI4MDVkMmUxMWNkNDU0N2FmOGQ1NTkyNmNiM2U2`

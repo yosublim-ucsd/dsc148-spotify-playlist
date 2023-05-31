@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,352 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 967,510 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 |
 | 150 | [Flying \(Pegboard Nerds Remix\)](https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Eda Lovelace](https://open.spotify.com/artist/3bOvxcNS1rpC7aN1tLAahr), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Flying \(Pegboard Nerds Remix\)](https://open.spotify.com/album/2WhrRHs1WCqjgP4JHZM52m) | 2:48 |
 
-Snapshot ID: `MCw2MjNhMDA5N2FkOGEwNGEyYmJjODc1YTQ3Nzg1N2E0ZDA2ODYyMzJh`
+Snapshot ID: `MCwwYjM4M2Q3OTg1NjlhOTM1YTExMmY5NWY3MDgxYzJmNGQ2YTFlMGZk`

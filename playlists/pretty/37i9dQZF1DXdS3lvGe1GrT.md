@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,242 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,298 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 |
 | 101 | [Learning My Ways](https://open.spotify.com/track/4qL34AlHwCFXCwLNaeyCyp) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/6SXX7ZhhMrhzGPCQM98WKu) | 4:30 |
 
-Snapshot ID: `MCwwNmRjMTc0MzA3YjdlYjk2M2ZmYzIyYjk4ZDNjNDE4NTc0YWY3Zjkz`
+Snapshot ID: `MCxjYzdiOTkwYWQ5Njk4MjdhNDkyNmM5ZjZkNTI1MGU1NTg1ZThkN2Ri`

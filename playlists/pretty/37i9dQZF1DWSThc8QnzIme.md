@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,186 likes - 129 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,229 likes - 129 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 128 | [Rock and A Hard Place](https://open.spotify.com/track/1nPtZ8OtmKeyYZhbMAYbQP) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:27 |
 | 129 | [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 |
 
-Snapshot ID: `MCxjNzUwZDk0YTY3YWMyMzM0NWFmMjRhZmJmZDhlN2NlODBmN2VmMmU2`
+Snapshot ID: `MCw3YWRkNjQ1M2VhMDRjZjcyYjJhNjIzMmQ1YmIyZmZlOWYyMzE1Mjc0`

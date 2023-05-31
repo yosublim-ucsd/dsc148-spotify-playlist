@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,631 likes - 104 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,811 likes - 104 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 103 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
 | 104 | [Running Theme](https://open.spotify.com/track/6zfx7XrT95qwpeXChmjkzX) | [MEAGAN SKY](https://open.spotify.com/artist/2zPUeDa7TWrDrMRHPvdP9G) | [Running Theme](https://open.spotify.com/album/5B2z2x0lIP5y07vro6oJex) | 5:09 |
 
-Snapshot ID: `MCw3MzlkZWMyZjU3ZjhlOGM5MWUyNzY5OTBlZjNhZTNlNjQwMzVkZTYx`
+Snapshot ID: `MCw0NDM2OWFkOGVlNDY2OGQzOWNjNzE3MmIwM2Y4N2U4ZTQ5NDk2Y2Vj`

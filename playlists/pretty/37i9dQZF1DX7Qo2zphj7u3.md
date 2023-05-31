@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Éxitos románticos, de hoy y de siempre\. Foto: Ricardo Montaner & Carlos Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020,137 likes - 250 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,020,239 likes - 250 songs - 16 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 | 249 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
 | 250 | [Te Lloré Un Río](https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:52 |
 
-Snapshot ID: `MCxhNmZiMGUxY2NiYTA0Mzk3ODAyZmVjMzBiY2UzZTJhNmMyMGZmMDFl`
+Snapshot ID: `MCwwYmY1YTg5MjI1OTQ3NjI5NGZmMzdlZmM2YzAxNjc5ZmJkYTdhZTNh`

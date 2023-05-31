@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,545 likes - 118 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,584 likes - 118 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 117 | [Not In These Boots](https://open.spotify.com/track/7jImDCJbhVXW77Q43aY4je) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Not In These Boots](https://open.spotify.com/album/5POXSgpuVDdo7opEBFKISc) | 3:30 |
 | 118 | [Bar Changes](https://open.spotify.com/track/0tqF8JJv9ook6ATfxRuY14) | [Aaron Clafton](https://open.spotify.com/artist/0B1YrDxMjTzdGWoWLMDtP6) | [Bar Changes](https://open.spotify.com/album/4XwWRQPAZovEAEdUpUQrex) | 3:16 |
 
-Snapshot ID: `MCw2NWVkYzkwZmQ2ZjQ2ZGE3ZjA1MjhlNzVmNzY3OTVhN2Y3ZjUxOTFm`
+Snapshot ID: `MCwzNmY1ZGIyZGVkN2UzMTJkMjcyNDIzN2RmZWM4YTg0NjY4MThkNzUx`

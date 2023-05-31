@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Lauryyn
 
-334 songs - 16 hr 30 min
+335 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Il Male \- Italian Version](https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75) | [TECHNOIR](https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI) | [Il Male \(Italian Version\)](https://open.spotify.com/album/0NqZ0hiTf1zcJwP6ak50WU) | 3:08 | 2023-03-09 | 2023-04-21 |
 | [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-17 | 2022-12-08 |
 | [IL MIO NOME](https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:18 | 2022-12-01 | 2023-04-14 |
-| [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 | 2023-04-06 |  |
+| [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 | 2023-05-25 |  |
+| [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 | 2023-04-06 | 2023-05-31 |
 | [Il Re Cambia Sempre](https://open.spotify.com/track/4olowS6fzAA36724bAjfEq) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Il Re Cambia Sempre](https://open.spotify.com/album/5zlyG2KfBjooG7ohi69ZLn) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [IL TEMPO DELLE MELE](https://open.spotify.com/track/0fyXzFs8JwlCQeg5SKIksT) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [IL TEMPO DELLE MELE](https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w) | 2:16 | 2022-05-05 | 2022-09-09 |
 | [In My Way \(chi sei\)](https://open.spotify.com/track/296gP31laYpSz5V1dqxwgW) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Lita](https://open.spotify.com/artist/0G7LPCHP4W90pTLwPAbXHU) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 2:14 | 2022-05-05 | 2022-11-11 |

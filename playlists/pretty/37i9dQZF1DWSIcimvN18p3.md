@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,501 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,538 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [Boots of Spanish Leather](https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 5:17 |
 | 150 | [Game To Lose](https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:45 |
 
-Snapshot ID: `MCxmMTM2MjhmZTA2NzZkNzc2YzlkZTA2MjA0ZDI3OTljOTk5MDlhNTUy`
+Snapshot ID: `MCw0YjViNTNlOTkyOWVmY2M0NzkyYjc1OWI0ZTZhY2MxMDI3N2M0NTBh`

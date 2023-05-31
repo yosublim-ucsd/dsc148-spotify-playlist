@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,607 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,619 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Cherry Colored Love](https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj) | [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F), [Rio Momose \(CV: Rikako Yamaguchi\)](https://open.spotify.com/artist/7ujFiiJAe5rUjstTCOSBj4) | [THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry](https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w) | 4:00 |
 | 75 | [産声とクラブ](https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa) | [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS), [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:00 |
 
-Snapshot ID: `MCxjNThiNzM3NjNkMWQyZGMwMjFmYWU5MGQ5Mzc5ZWVlN2U0YjRkYmMw`
+Snapshot ID: `MCw5YzJlOTI1MWY0MDEzYjUxZTU3M2Q5N2E2ZTQ1ZjBjODdhNzBlM2M2`

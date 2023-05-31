@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,411,139 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,411,406 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Feels This Good \(feat\. Stefflon Don\) \- Jodie Harsh Remix](https://open.spotify.com/track/1tih8Lo1yKI4sOdqkUbyaj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Feels This Good \(feat\. Stefflon Don\) \[Jodie Harsh Remix\]](https://open.spotify.com/album/5bfEnAB7cl2twqMQoS03jG) | 3:03 |
 | 100 | [So Good \- Jax Jones Remix](https://open.spotify.com/track/5K2wtWyngZwbkrvqHc1YM8) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [So Good \(Jax Jones Remix\)](https://open.spotify.com/album/05HiKYFzAQ196KJ6MpnEui) | 3:09 |
 
-Snapshot ID: `MCw0NzE0OTg1NjZjODE4ZGM3ZjZjZmUwNmJkMzZiNzQ4ODMxNmQzNmRl`
+Snapshot ID: `MCw0NDU3ZmExZDUyNjVmZGYxYzI4YzY1ZGY4MTMyMDMzNTBkNTVhY2Yz`

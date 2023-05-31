@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Creeds
 
-364 songs - 17 hr 5 min
+365 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2023-01-11 | 2023-03-09 |
 | [Live 4 Ever](https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Live 4 Ever](https://open.spotify.com/album/4RT18SyW0vxHw7pjmfEQZS) | 2:13 | 2023-04-05 | 2023-05-24 |
 | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/track/0QR4vZ9iuNjrkWYNLoVAnM) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Live And Die \(feat\. Sophie Simmons\)](https://open.spotify.com/album/3CSYACo4ZoOGR9u8HLdmMs) | 2:54 | 2022-08-24 | 2023-03-02 |
-| [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/5ZA8y7ISUIEWcfuQSai2kX) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\)](https://open.spotify.com/album/1bS9MQ5MkiXVVeYugReG50) | 2:23 | 2023-05-03 |  |
+| [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/4cLDOhKl5O2pVJFqGKYJpV) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\)](https://open.spotify.com/album/61YbvST6Xi4yaKGvm9P7p8) | 2:23 | 2023-05-24 |  |
+| [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/5ZA8y7ISUIEWcfuQSai2kX) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\)](https://open.spotify.com/album/1bS9MQ5MkiXVVeYugReG50) | 2:23 | 2023-05-03 | 2023-05-31 |
 | [Lonely Again](https://open.spotify.com/track/1QkjPhhkq7iP1kD3723Emy) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Lonely Again](https://open.spotify.com/album/7JiRg4XOhBtskA1vLzboj5) | 2:30 | 2021-12-15 | 2022-01-20 |
 | [Look Back](https://open.spotify.com/track/0qTyZ4uhN2gyYq7GOVBsA4) | [Jacob \(IL\)](https://open.spotify.com/artist/5C28H3VSZhNyq7KXiciwEC), [SHAGY](https://open.spotify.com/artist/4aK48auj7fS3g63FZTboDW) | [Podemos](https://open.spotify.com/album/4BM4To9eKnOyB4xWDLbxxY) | 6:09 | 2022-12-30 | 2023-01-03 |
 | [Louder](https://open.spotify.com/track/2kbzyz1CZHSAX1dH4btQLY) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Louder](https://open.spotify.com/album/3BKOjOCLD5jpUUZ4JNOrYQ) | 2:31 | 2022-02-16 | 2022-03-17 |

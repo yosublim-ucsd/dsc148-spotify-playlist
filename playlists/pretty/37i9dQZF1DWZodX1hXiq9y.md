@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,886 likes - 100 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,002 likes - 100 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [All For You](https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Mikkelborg](https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy) | [Vision](https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq) | 6:36 |
 | 100 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 |
 
-Snapshot ID: `MCxjNjdjMjhlNzIyZjkyY2U5MTEyMjFiYTUzNjA4MWMxZTVmMzkyZjA0`
+Snapshot ID: `MCxiMTAwODZlODZmYWUyNDQwOTUyM2RiM2IxNDVjNzBjMDYxY2Y5MTZm`

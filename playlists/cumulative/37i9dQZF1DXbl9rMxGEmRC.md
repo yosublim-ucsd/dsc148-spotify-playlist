@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-404 songs - 1 day 10 hr 53 min
+405 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
-| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
+| [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 | 2023-05-31 |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 | 2023-05-10 |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
@@ -261,6 +261,7 @@
 | [Of Blood and Tears](https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [In Tenebris](https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v) | 5:24 | 2021-12-17 | 2022-05-21 |
 | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/track/1To93NNJXFePeViiKoM0sv) | [Sarvekas](https://open.spotify.com/artist/34JA2Fu5TWr18wG9g7F561) | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/album/0cNW4oxWm4IjPNAxiA2bX3) | 4:54 | 2023-05-12 | 2023-05-20 |
 | [On the Shore of Eternity](https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [Neither Moth nor Rust](https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt) | 4:13 | 2022-01-21 | 2022-07-29 |
+| [On the Wings of Cosmic Fire](https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno) | [Thulcandra](https://open.spotify.com/artist/3cJkyh6iM5N2AI07hNlu1j) | [Hail the Abyss](https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI) | 4:18 | 2023-05-30 |  |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 |  |
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 |  |
 | [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,362 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,228,027 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [Let The Chaos Reign](https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Let The Chaos Reign](https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8) | 3:18 |
 | 150 | [I Am Above](https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, The Mask](https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks) | 3:49 |
 
-Snapshot ID: `MCw3YmYyNzUxM2E1NTEyMzVmNzgzZWYwNzk3N2NmODk2MWQyYzY4YzUy`
+Snapshot ID: `MCwwN2UyN2JkMmRmMWZmNGI4ODliOWE0YTg0ZDY3YTAyMzU3YjZiOTJk`

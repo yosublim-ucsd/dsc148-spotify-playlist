@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,716 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,809 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Por Si Te Lo Preguntas](https://open.spotify.com/track/1VEQ2EDfVO6fMcAzhI42D7) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:06 |
 | 100 | [Y Yo Voy](https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Y Yo Voy](https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu) | 2:57 |
 
-Snapshot ID: `MCw0ZTBlOTRmMDFiNDI2M2QwZWUyNWVlMmMxZGIwMzlmZDMwOGZkYzFm`
+Snapshot ID: `MCw5OGUzYjY5MjQ3YWY0ZjMzNTA0OTdlNGI4YTA2NmUyOWE4YTdhNzRj`

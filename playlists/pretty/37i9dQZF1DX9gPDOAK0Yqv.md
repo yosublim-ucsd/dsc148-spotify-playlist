@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through melodic techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,743 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,884 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Meli](https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510) | [S.ONE](https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc) | [Mars](https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT) | 6:02 |
 | 75 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 |
 
-Snapshot ID: `MCwyYjYxYmMxZGVhNmRkMTA3ZDIyNzkzZjE0ZDE5OGY3YzBmMjBjYzVk`
+Snapshot ID: `MCw3OWExNzZjZjhjODBmYmY0ZjhmODljNzMzZWQyNTRjMGUxMGI4M2Y3`

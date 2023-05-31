@@ -1,12 +1,12 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Bunbury en portada.",
-  "num_followers": 40358,
+  "num_followers": 40370,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTlkYjliYWQ0NGQ3MTgzYTBkZDVlOGFjZDk3ZTVjMTU5MDY3ZjYz",
+  "snapshot_id": "MCwxNDQyZWVjOThiMjhkM2RhYTJmYTBlMDJlNDQ3NzgyNjhlMWQxNzg1",
   "tracks": [
     {
       "added_at": "2023-05-26 06:00:00",
@@ -588,12 +588,12 @@
           "url": "https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ"
         },
         {
-          "name": "Caracolas",
-          "url": "https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh"
-        },
-        {
           "name": "Nebraska",
           "url": "https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU"
+        },
+        {
+          "name": "Caracolas",
+          "url": "https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh"
         }
       ],
       "duration_ms": 236250,

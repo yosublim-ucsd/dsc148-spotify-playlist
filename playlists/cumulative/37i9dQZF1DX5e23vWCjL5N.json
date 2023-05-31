@@ -488,10 +488,28 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 205659,
       "name": "BU!",
       "url": "https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ"
+    },
+    {
+      "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205659,
+      "name": "BU!",
+      "url": "https://open.spotify.com/track/6uL3MVuQUc1eLAMRganscL"
     },
     {
       "album": {
@@ -978,6 +996,24 @@
       "duration_ms": 144520,
       "name": "Intro (Cielo)",
       "url": "https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT"
+    },
+    {
+      "album": {
+        "name": "Intro La Divina Commedia",
+        "url": "https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Intro La Divina Commedia",
+      "url": "https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp"
     },
     {
       "album": {

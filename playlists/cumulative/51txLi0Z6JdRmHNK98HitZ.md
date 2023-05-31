@@ -2,15 +2,16 @@
 
 ### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
+> Here is a playlist of all our songs released so far\. Our new single 'Bootleg Firecracker' is out now!
 
-40 songs - 2 hr 14 min
+41 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bad Neighbours](https://open.spotify.com/track/7nn9F7GffyZdg1EeJxycvi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:10 | 2021-03-19 |  |
 | [Beliefs & Prayers](https://open.spotify.com/track/5IZ9guGLjZAsBmpIfhPhlV) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Beliefs & Prayers](https://open.spotify.com/album/0xjLxhu9Wpd3SwSC1puEwF) | 3:39 | 2020-10-14 |  |
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2020-10-14 |  |
+| [Bootleg Firecracker](https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker](https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13) | 3:20 | 2023-05-30 |  |
 | [Bought It](https://open.spotify.com/track/6MZLNniWXJC24zJznXUHv8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 4:02 | 2020-10-14 |  |
 | [Call Me Snowflake](https://open.spotify.com/track/4OOY9bqocmnCcsfW2Nukqu) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 4:06 | 2020-10-14 |  |
 | [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 | 2021-03-19 |  |

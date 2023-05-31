@@ -4,7 +4,7 @@
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-128 songs - 8 hr 34 min
+129 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Pachuco](https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:14 | 2023-03-30 |  |
 | [Panza De Torino](https://open.spotify.com/track/3XFK2OTSY6x1ioT4ng3IQ0) | [Ulises Butrón](https://open.spotify.com/artist/264oCh73no9KvChVyWZoCe) | [Viajero](https://open.spotify.com/album/1JmrBH4PpT7R4wKq1apdSM) | 3:02 | 2023-03-30 |  |
 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 | 2023-03-30 |  |
-| [Perro Negro \(En Vivo\)](https://open.spotify.com/track/44ZmiVyHYipSSThIPs37M6) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/62AqYKtHR4l6MZtBdA73xk) | 3:53 | 2023-03-30 |  |
+| [Perro Negro \(En Vivo\)](https://open.spotify.com/track/44ZmiVyHYipSSThIPs37M6) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/62AqYKtHR4l6MZtBdA73xk) | 3:53 | 2023-03-30 | 2023-05-31 |
 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm) | 3:53 | 2023-03-30 | 2023-05-20 |
+| [Perro Negro \- En Vivo](https://open.spotify.com/track/3avqqo8GtaFUHOv613wLeo) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/5FpyQF5KLYwi1cq34Sbk0W) | 3:53 | 2023-03-30 |  |
 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 | 2023-03-30 |  |
 | [Pity Pity](https://open.spotify.com/track/4WRMkSZDRD0MA7rEl9XchA) | [Billy Cafaro](https://open.spotify.com/artist/13tqcy2zEw2Y4LzL29xAMB) | [Grandes Exitos, Vol.2](https://open.spotify.com/album/0n71y9FUaH4NHAu3hbeh3b) | 2:11 | 2023-03-30 |  |
 | [Pobre de Ti](https://open.spotify.com/track/1mBbKzmlbQUQNK7tw2Etdf) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [No](https://open.spotify.com/album/3glRjXzdGdiFA254NwD5Rs) | 4:37 | 2023-03-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,562 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,613 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 99 | [What A Difference She Made](https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/6otBSSEkPMOwKCtNaibxHB) | 2:55 |
 | 100 | [Cocoa](https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Midnight Microdose, Vol\. 1](https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV) | 2:05 |
 
-Snapshot ID: `MCwzMGJiYTc4MTE5Y2NkZjU0MGVjZjZlN2FjOGY4M2M5NTYzNTZhMTM4`
+Snapshot ID: `MCwyOWVmNWFjNWFjZjFlNDhlYjMyZTBjMDI1YmFkODU2MGUyMGYxZmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover\- MC STAN and KSHMR
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,395 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,510 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 58 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 |
 | 59 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 |
 | 60 | [BADNAAM](https://open.spotify.com/track/3KDD0ynijMr5VaJGxxUk92) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:52 |
-| 61 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 |
+| 61 | [Sanak](https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 1:55 |
 | 62 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 |
 | 63 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
 | 64 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 69 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 | 70 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 |
 
-Snapshot ID: `MCxkYmY5Yzk5NTg1MTE2ZDZhMzgxMGQxNjU1MGY2MGY1YTA0NjcyOWI4`
+Snapshot ID: `MCw5YTVjMTA5YmM2NTcyZTEwMjhhMGU2ODIxOGYxOTU0ZDE5NjljNjRh`

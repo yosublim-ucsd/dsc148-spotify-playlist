@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Bunbury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,953 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,074 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 28 | [A Dios](https://open.spotify.com/track/6M5XPLlWAFUAPX6wG5dmSR) | [Malonda](https://open.spotify.com/artist/4Abn3coCPVGkBP3hfPJIgG), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [A Dios](https://open.spotify.com/album/1IM9qP37UMdPwir6SX5d9T) | 3:50 |
 | 29 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 |
 | 30 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
-| 31 | [Rozando el aire](https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Caracolas](https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Rozando el aire](https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu) | 3:56 |
+| 31 | [Rozando el aire](https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU), [Caracolas](https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh) | [Rozando el aire](https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu) | 3:56 |
 | 32 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
 | 33 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 34 | [Imperio](https://open.spotify.com/track/0ZPnSxKCl1rJkbRmFnPoK0) | [ERRE](https://open.spotify.com/artist/4JEY5WEJnYy38hhcpWb1f2), [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [Imperio](https://open.spotify.com/album/4oVERPoOYwl7EV9WzhrTTZ) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 75 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
 
-Snapshot ID: `MCw2MDJjZGJiODkzNGY0MTc3ODBkZmQ0Y2ZlMGIzODQyNDlkZDQxNmUw`
+Snapshot ID: `MCxlYzgzMDQ1NDdmNTBkYTYwY2VhZmNlN2ZjOGFmZjZhOTIyNjk3ZjNk`

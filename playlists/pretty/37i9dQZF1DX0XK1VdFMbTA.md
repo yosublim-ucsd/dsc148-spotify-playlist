@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,973 likes - 500 songs - 1 day 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,077 likes - 500 songs - 1 day 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 | 499 | [Before You Accuse Me](https://open.spotify.com/track/5vDImXyLguoCbkYASPf4xQ) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 3:26 |
 | 500 | [Blue Collar](https://open.spotify.com/track/5cW22ruJYy9k7IlawMCe6P) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman Turner Overdrive](https://open.spotify.com/album/1jd8urGvuFR1fXWxEJi4ny) | 6:12 |
 
-Snapshot ID: `MCwwMTEzMzA1ZDkxYjgxNmRlMDg5Y2UyZjNjYTZiNThlMjA5ZTdkNzVl`
+Snapshot ID: `MCxmZDNmZGY0MWY5NzA0Zjk3NDZiOGRhZjI0YTIxZWQzZDE4YTBmMzAx`

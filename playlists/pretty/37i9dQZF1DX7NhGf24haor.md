@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Da Tweekaz & Refuzion
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,368 likes - 96 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,509 likes - 96 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [We Go Down](https://open.spotify.com/track/5BJbGqKyn6BF9xOWy28QeO) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [We Go Down](https://open.spotify.com/album/1MCJhDB8iFCg0rEUS3itOy) | 2:57 |
 | 96 | [Top Of The World](https://open.spotify.com/track/4zbfmYp5spMFXDNjNBefTS) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Top Of The World](https://open.spotify.com/album/7ICOtTbQURxr3mvKIhFjwh) | 2:57 |
 
-Snapshot ID: `MCwyZjg2NTA4ODUwOGE0NTk3ZjE3MDYwZDc1NmNiNjYwNTE2ZGJiZDlk`
+Snapshot ID: `MCw4NTQ3ZjkxMjQ2NWJmNmM4OWM5NWRkMzE5ZDQ5ZWFiZjI3Y2ZmNDEx`

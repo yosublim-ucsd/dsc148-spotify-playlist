@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 LOVE 1",
+        "url": "https://open.spotify.com/album/627Fr454HJb1M3IcjeZHYm"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u96c4\u99ac",
+          "url": "https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "1 LOVE 1",
+      "url": "https://open.spotify.com/track/1dcro7tCEqeC1sMEo8Ye0o"
+    },
+    {
+      "album": {
         "name": "1,000,000,000,000,000,000,000,000 LOVE",
         "url": "https://open.spotify.com/album/2RPTDrLncqitqAaLegaEGw"
       },
@@ -2081,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Follow You!",
+        "url": "https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Follow You!",
+      "url": "https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr"
+    },
+    {
+      "album": {
         "name": "FRIENDS (from \"\u6c38\u4e45\u5c11\u5e74 Eternal Boys\")",
         "url": "https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ"
       },
@@ -3042,7 +3078,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 192133,
       "name": "I wish",
       "url": "https://open.spotify.com/track/0JnG9ptaFJKPvktDvfudM4"
@@ -3316,7 +3352,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 227426,
       "name": "Just a little bit",
       "url": "https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB"
@@ -3716,7 +3752,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 213666,
       "name": "Line of sight",
       "url": "https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw"
@@ -5396,6 +5432,24 @@
       "duration_ms": 366566,
       "name": "ROZEN HORIZON",
       "url": "https://open.spotify.com/track/7BnQ7guT0xmlYP2EULTUwq"
+    },
+    {
+      "album": {
+        "name": "Runaway World (TV\u30a2\u30cb\u30e1\u300c\u9003\u8d70\u4e2d\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/32wTeElhxo3cDpPfbu4X9T"
+      },
+      "artists": [
+        {
+          "name": "fh\u00e1na",
+          "url": "https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "Runaway World",
+      "url": "https://open.spotify.com/track/5oaQkUTBFrLjqJJ4fd3eAe"
     },
     {
       "album": {
@@ -7721,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "11th\u30a2\u30eb\u30d0\u30e0 \u8a18\u61b6\u306e\u56f3\u66f8\u9928",
+        "url": "https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a",
+      "url": "https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj"
+    },
+    {
+      "album": {
         "name": "\u306a\u306b\u304c\u60aa\u3044",
         "url": "https://open.spotify.com/album/7u1WUpovfbZSSDM8edRqmb"
       },
@@ -8116,7 +8188,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 325693,
       "name": "\u30a2\u30ec\u30ad\u30b7\u30b5\u30a4\u30df\u30a2\u30b9\u30da\u30a2",
       "url": "https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso"
@@ -10034,7 +10106,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 258500,
       "name": "\u4e03\u8272\u306e\u7d75\u306e\u5177\u3067",
       "url": "https://open.spotify.com/track/6X3JSvWiDKI9zbcOJUKAtp"
@@ -12040,7 +12112,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 209000,
       "name": "\u7d42\u7109\u306eDestiny",
       "url": "https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc"

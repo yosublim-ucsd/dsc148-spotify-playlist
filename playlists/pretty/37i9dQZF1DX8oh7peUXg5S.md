@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,408 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,577 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 100 | [Tal Vez Te Acuerdes de Mí \(feat\. Nina\) \- Sesiones Moraima](https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Nina](https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F) | [Sesiones Moraima](https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH) | 2:39 |
 
-Snapshot ID: `MCxlNDFjNjJmNTZkM2QwZWY3YmFhYjc4MmViZWEzZTU1NzIyM2NkMmYz`
+Snapshot ID: `MCwzMzlkYjM5NGZhNTJhN2VkNmMyNDAyNGY3MWZiZWM1MDU1MDI5MGFk`

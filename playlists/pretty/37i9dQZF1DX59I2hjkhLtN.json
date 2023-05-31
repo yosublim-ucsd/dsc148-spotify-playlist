@@ -1,12 +1,12 @@
 {
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: Dezinho.",
-  "num_followers": 7276,
+  "num_followers": 7283,
   "original_name": "Ganda Cena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmIwZjU1ZTI4MWI2ZDk5ZTExNGI2NWUyMWE1ODM0YzMzM2ZlNzM3",
+  "snapshot_id": "MCxkNjUyMjY0Nzg1ZDI2ZTEwNTJhODRiMjhkNWU1M2M2NGYxMjc4OTgx",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -394,6 +394,10 @@
         {
           "name": "Slim G",
           "url": "https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm"
+        },
+        {
+          "name": "TRINNI",
+          "url": "https://open.spotify.com/artist/0wIqiATQ9OB7qeDvNb8Mtr"
         }
       ],
       "duration_ms": 160005,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,000 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,093 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 99 | [Standing Crosswise in the Square](https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2) | [Craig Leon](https://open.spotify.com/artist/2TFlUuw1I60a1Qbyl3Qmfs) | [Anthology of Interplanetary Folk Music Vol\. 2: The Canon](https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq) | 6:09 |
 | 100 | [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 |
 
-Snapshot ID: `MCw2ZDRlNDg5M2EyNWI2YTQ0Y2Y2YmEwZTYzOGRhZWYxOWJkOGVkNzZi`
+Snapshot ID: `MCw1MThmNTM2MjAyNWI3MzJlMDY2ZjhkYzI2MmRhZjIzNDFkNjcwMGZh`

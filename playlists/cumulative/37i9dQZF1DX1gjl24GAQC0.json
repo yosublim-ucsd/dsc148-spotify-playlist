@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover:\bENHYPEN [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover:\bCIX [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -4241,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "THE FUTURE IS OURS: LOST",
+        "url": "https://open.spotify.com/album/0YXbjMgswczPCUdRsM19Ni"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE"
+    },
+    {
+      "album": {
         "name": "W SERIES \u20182TAN\u2019(wish ver)",
         "url": "https://open.spotify.com/album/3YskOywYWBcztpX1k4SBS1"
       },
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 207617,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
@@ -6180,6 +6198,24 @@
       "duration_ms": 201960,
       "name": "Save",
       "url": "https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh"
+    },
+    {
+      "album": {
+        "name": "CIX 6th EP Album 'OK' Episode 2 : I'm OK",
+        "url": "https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Save me, Kill me",
+      "url": "https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK"
     },
     {
       "album": {
@@ -8006,7 +8042,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"

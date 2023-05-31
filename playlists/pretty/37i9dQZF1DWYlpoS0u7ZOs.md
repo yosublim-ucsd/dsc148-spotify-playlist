@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,126 likes - 92 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,136 likes - 92 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 91 | [Worthy](https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ) | [KIDS](https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P) | [Worthy](https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC) | 2:39 |
 | 92 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 |
 
-Snapshot ID: `MCw0NGQ2ODdmZjZhZWQ2ZWQwMWY3NmQwMTQwOTYwMjhhZmEwMjUwMmZm`
+Snapshot ID: `MCwxMDRiMTBkZThjMmYyZDAxYWQ1YjZkNTlhM2U3YzZlMWRmZjM5NWQw`

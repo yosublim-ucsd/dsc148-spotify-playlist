@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,557 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,086 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 |
 | 100 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 |
 
-Snapshot ID: `MCxmNzQzMTgzY2FlNjg4NmZiZDQ3OGYyODVlZGU2ODMxNGU0YjhjYjc4`
+Snapshot ID: `MCw0ZjBhYWNiZDM0ZGY2ZDk5NzI3YTgwYWMwMTBkOWNhNjhlMzhjNWE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,215 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,375 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Gordon](https://open.spotify.com/track/2mj6LDSazUdSLe9ed32lEH) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Gordon](https://open.spotify.com/album/1aormndMh4RfNXV1fJdjFL) | 4:00 |
 | 70 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 
-Snapshot ID: `MCxmYjZlMmQzYjYwZjAwODQ0NjIxOGU1OWZhOTQ5MTg4ZDVmNTcxNDUw`
+Snapshot ID: `MCxmYzBiYTQxNmFiNjdkYzU4Mzg3YjM4NTkyN2NlOTQwMDRmNTc5ZmI1`

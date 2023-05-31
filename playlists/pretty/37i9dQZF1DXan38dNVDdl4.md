@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,813 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,107 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 12 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 |
 | 13 | [Forever](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Forever](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 |
 | 14 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
-| 15 | [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 |
+| 15 | [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 |
 | 16 | [Glock 40](https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7) | 2:16 |
 | 17 | [Crawsis](https://open.spotify.com/track/5CdbxsfDbD8Xy8SSVLyvrA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Crawsis](https://open.spotify.com/album/5mZcGBQSVljkJYJLUUUC8D) | 2:53 |
 | 18 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 56 | [TOKYO](https://open.spotify.com/track/7dfs1SOSa7WzEeTC5HNS7P) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [GachaMedz](https://open.spotify.com/artist/2jCgmxebeIXRDVH49DMHm2) | [TOKYO](https://open.spotify.com/album/2iVF7QXXbh7M1AdLmkAvv4) | 2:38 |
 | 57 | [Ready](https://open.spotify.com/track/0i5tGTm0ibiyLSCiDs3CiS) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR), [Nile SNL](https://open.spotify.com/artist/4eUKHWM8spZa4rCtDdPRTZ) | [Ready](https://open.spotify.com/album/1V7ZuemBGHlZHJnXWImgiL) | 2:19 |
 | 58 | [Selfish](https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T) | [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [World News](https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV) | 4:25 |
-| 59 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
+| 59 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
 | 60 | [Want You Back](https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Alandon](https://open.spotify.com/artist/1eEatPjBX7GUArLsabmJVo), [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL) | [Want You Back](https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P) | 2:33 |
 | 61 | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [F.S.](https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN) | [Whap Whap \(feat\. F.S.\)](https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu) | 3:01 |
 | 62 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
@@ -96,6 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 86 | [DOGGY STYLE](https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU) | [Fittis](https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [DOGGY STYLE](https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ) | 2:54 |
 | 87 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 |
 | 88 | [Dawkniss](https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d) | [1Skimask](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Dawkniss](https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg) | 2:41 |
-| 89 | [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 |
+| 89 | [Only Fans](https://open.spotify.com/track/6Ac7pj7ajA3eY2sP0z97Xs) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/14eiVvhqGeNdf1lDcOzkVJ) | 3:00 |
 
-Snapshot ID: `MCxlMTIwMzdkN2Y1NWRmYjMwMzFkM2UwZmZkYzYyNTkzOTYwOTU4NDM3`
+Snapshot ID: `MCxhN2IzZTdmZjI1MDhjMDQ4ZTg5ODE2ZjcwODkxMTk5NmVjYzczZmVk`

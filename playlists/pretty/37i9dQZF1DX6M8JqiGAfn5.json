@@ -1,29 +1,13 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist. ",
-  "num_followers": 782463,
+  "num_followers": 782724,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzRmNTM2ODU0ZDA0ZjgxZWM3ZDQwMzY5OWFlNjJiNDdjZGVhMmZl",
+  "snapshot_id": "MCxiZTg5MjFiODgzNWJjMTEyNTljNTc0NTk4NDQyNDFiMjI2YzdjMTkx",
   "tracks": [
-    {
-      "added_at": "2023-03-23 22:31:19",
-      "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
     {
       "added_at": "2023-04-21 01:23:53",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-03-23 22:31:19",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2022-08-19 19:16:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,214 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,218 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 | 80 | [Tengo Ganas De Ti](https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Simplemente](https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4) | 3:30 |
 
-Snapshot ID: `MCw4YzdjYzJkNjU0ODVjYWIyZTkzY2E1YzYwYzMxYTI2ZjE5OGE5Mzk4`
+Snapshot ID: `MCxhNGZhMjQ3ZTcxZmU3NDhiY2EyOGQ4Njg0Yjk0YmU4ZWZjNDdiMDU3`

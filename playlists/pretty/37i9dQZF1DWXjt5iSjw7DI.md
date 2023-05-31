@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,974 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,001 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Together Again](https://open.spotify.com/track/4e8DqcbY3ArSECFS1o52UQ) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [Carnegie Hall Concert](https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU) | 2:32 |
 | 150 | [Is Anybody Goin' to San Antone \- Live](https://open.spotify.com/track/5WE2W6nJmMgqqRhzMavLKs) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Live](https://open.spotify.com/album/6J5evHxgFS0lym40ETnOs3) | 2:42 |
 
-Snapshot ID: `MCxlNjRkY2E2MjU3OTBjNTRhYmM3Zjk2ZTk3NmIwYmU1ZmU3Y2E4YTdm`
+Snapshot ID: `MCwyOWI5NDYzZGJiMzU5NDU0MWJjNTRiMGJiYTA2N2Q3ZDQ5MzViZjE2`

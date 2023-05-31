@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,648 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,647 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 99 | [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 |
 | 100 | [I've Never Been in Love Before](https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [Caity Gyorgy Quartet](https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm) | 5:47 |
 
-Snapshot ID: `MCw2NWRiMzc5YjQ0NTBiNzhhZTViNDQ5NTcwZTIzMDE0MjBiN2NhNzA2`
+Snapshot ID: `MCw1YjcxYjhlN2FhYjcwYTdhMDc1MDg5N2RkMzQwZTY2NjAwNDU2NDUw`

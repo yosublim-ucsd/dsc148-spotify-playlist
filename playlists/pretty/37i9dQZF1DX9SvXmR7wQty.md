@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,826 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,827 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Le blanc des yeux](https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Le blanc des yeux](https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z) | 2:57 |
 | 50 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 |
 
-Snapshot ID: `MCxmMGQyMTEwOWM0NTg2NzE2YTU5YzVlYjAwNmViNDUxZWIyNWVkZDdm`
+Snapshot ID: `MCxhYzZjNmUyNWI3NjkyZWNiM2E0OGFlMTllOTEwOTlhZTFmZGYyNDI4`

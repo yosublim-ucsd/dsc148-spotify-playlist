@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-184 songs - 9 hr 6 min
+185 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Influence \(feat\. Dexta Daps\)](https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [WSTRN Season 3](https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7) | 3:53 | 2023-05-15 |  |
 | [Inna Di Dance](https://open.spotify.com/track/5SV18zUjAFqEtl6B5LY3Xf) | [Alex \(TOK\)](https://open.spotify.com/artist/3hTRyxaN0zihxgQ6dJei9r), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Next Levelution](https://open.spotify.com/album/52bXKKh7PziML9AP8elipt) | 3:01 | 2023-05-15 |  |
 | [Know Weh Ya Do](https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Know Weh Ya Do](https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz) | 2:57 | 2023-05-15 |  |
-| [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 | 2023-05-15 |  |
+| [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 | 2023-05-15 |  |
 | [Life Story](https://open.spotify.com/track/54RD18DacMustMg17xzEC0) | [Silk Boss](https://open.spotify.com/artist/5eDVLjuN0hk3ZhjJdCvHLF), [Terro Don](https://open.spotify.com/artist/7oXpzQEwUnq5cFEGPK8wk7) | [Life Story](https://open.spotify.com/album/2XwxdxqI2MfrPsaSIfXUo0) | 3:28 | 2021-10-20 |  |
 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 | 2022-08-05 |  |
 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 | 2023-05-15 |  |
@@ -110,7 +110,8 @@
 | [Ocean Wave](https://open.spotify.com/track/6NSRwKmFyhNGPy54LWpFUv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/4d6EnDzUrDot75g66ClShl) | 2:43 | 2022-08-05 | 2022-11-13 |
 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 | 2021-10-20 | 2022-11-12 |
 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 | 2022-08-05 |  |
-| [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 | 2023-05-15 |  |
+| [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 | 2023-05-15 | 2023-05-31 |
+| [Only Fans](https://open.spotify.com/track/6Ac7pj7ajA3eY2sP0z97Xs) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/14eiVvhqGeNdf1lDcOzkVJ) | 3:00 | 2023-05-24 |  |
 | [Only Room for Two](https://open.spotify.com/track/5YjsRoJKnqfsLQHMD6uk30) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Only Room For Two](https://open.spotify.com/album/5LNfBlPuDxcbTGfvg0yJJT) | 3:17 | 2023-05-24 |  |
 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 | 2023-05-15 |  |
 | [Peace of Mind](https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Peace of Mind](https://open.spotify.com/album/4A17sw812lXIlFlmavhK37) | 2:35 | 2023-05-15 |  |
@@ -136,7 +137,7 @@
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2021-10-20 | 2022-11-12 |
 | [Ryda](https://open.spotify.com/track/3NMMclAO8N0zh2Ymqd85rU) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Ryda](https://open.spotify.com/album/50oVnp53tqNdhn1DCvBqV8) | 3:50 | 2021-10-20 |  |
 | [Selfish](https://open.spotify.com/track/2mGOKW9vv5UrwoZxgX2v9T) | [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [World News](https://open.spotify.com/album/17MvvoDeKxos5NrcDs8NvV) | 4:25 | 2023-05-15 |  |
-| [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 | 2023-05-15 |  |
+| [Sell Lie](https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [9Mill](https://open.spotify.com/artist/4eXJco1ppGz52rAiQna3sF) | [Sell Lie](https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N) | 2:51 | 2023-05-15 |  |
 | [Sell Off](https://open.spotify.com/track/2w5QZbIg9O5Eq9e3wBIA4c) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7qH2cqU9MMR2zMvGaLPSXC) | 3:09 | 2021-10-20 | 2022-11-21 |
 | [Sell Off](https://open.spotify.com/track/7M3nSIriz9CdnQdEviJi3Z) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Sell Off](https://open.spotify.com/album/7pElcZPqnLT2Y9BK0v34D5) | 3:09 | 2022-08-05 | 2023-05-24 |
 | [She Like It \- Remix](https://open.spotify.com/track/1yCjvhIGFqctLZ6JflOH9n) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [She Like It \(Remix\)](https://open.spotify.com/album/6hVZ2HnEngQycSLXY1Ljgn) | 2:19 | 2023-05-15 |  |

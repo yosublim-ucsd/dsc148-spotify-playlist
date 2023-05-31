@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Latin Mafia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,661 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,755 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 |
 | 100 | [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 |
 
-Snapshot ID: `MCwzOGE5ZGZlNmNlYTU3ZWE5MTllYzVhMzA1ZjM4NDMwMWVjZTZiOTZk`
+Snapshot ID: `MCwwZmY5MTc1MTRlNmEyZWFkYTk5ZmM3ZTllNzEwZDgyYzU3ZWZmNjE5`

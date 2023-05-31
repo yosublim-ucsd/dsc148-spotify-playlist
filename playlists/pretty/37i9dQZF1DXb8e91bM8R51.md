@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,887 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,908 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 |
 | 120 | [SPEND IT](https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 3:18 |
 
-Snapshot ID: `MCw4YjhlOGFmZWQ1MTFhYWQ0MTI3ODI5MGJmNjZkNDMzN2YwNjZmYmE2`
+Snapshot ID: `MCwwMjcwYWZkMWQ4MDhkN2UwY2NmNTZlZGNiZTI2OGI2Zjc2ODhmOWQz`

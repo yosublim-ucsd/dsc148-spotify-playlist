@@ -1,12 +1,12 @@
 {
   "description": "New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.",
-  "num_followers": 343706,
+  "num_followers": 343705,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjNjZjg5YWQ0MWE5ZGJmMWYxMDAwMzEyOTE0NTlkN2RlMDQ2M2My",
+  "snapshot_id": "MCwwNTM2NTk0MmE1NWVjMTIwMDE1ZWI1ZjlhMWNjODJkOTA2YTgyZDll",
   "tracks": [
     {
       "added_at": "2023-05-26 13:46:52",
@@ -1224,12 +1224,12 @@
       },
       "artists": [
         {
-          "name": "a4",
-          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
-        },
-        {
           "name": "Gurjot",
           "url": "https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q"
+        },
+        {
+          "name": "a4",
+          "url": "https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I"
         },
         {
           "name": "4theworld",

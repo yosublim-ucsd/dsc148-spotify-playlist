@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Paz Court.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,912 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,918 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Rally](https://open.spotify.com/track/7qq884i3tcpxJ1UIMPuH8g) | [Gato Seco](https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN), [Broken Pupil](https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE) | [Rally](https://open.spotify.com/album/6QfsP07cjoW5kXagEQ4pUU) | 2:04 |
 | 100 | [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 |
 
-Snapshot ID: `MCxkYjZmMDY2NDgzMGVjZGNjZDg3NTU5ZDdlNWQyN2JhNDZjMjNmMjM0`
+Snapshot ID: `MCwzNDkyY2Q3YjhiMzMzNWQzNWJjNjcyZWVhMWUyYjE1MGY1NWRhOWU3`

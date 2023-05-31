@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,451 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,447 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 99 | [Burning Your Ears \- ASMR Random Triggers](https://open.spotify.com/track/4nEmGLZQrJLwmqEwKrTFX7) | [Thiệu Rino](https://open.spotify.com/artist/6f2tNSxNSFty7kAaxhlFCf) | [F1](https://open.spotify.com/album/47kDfjVp3w2PwiGw7NhkXg) | 10:35 |
 | 100 | [Raros sonidos de libros ASMR](https://open.spotify.com/track/5UwGmjRlaGMWgoMwTuG8ik) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [ASMR Varios](https://open.spotify.com/album/1rOQR4ZuFPCAhEDFANTLl1) | 1:36 |
 
-Snapshot ID: `MCw3MTE0NjY2ZDUxZDkyN2QyZWE5MTA4YzdmOWU0NGI1NTc3NjE4M2Rl`
+Snapshot ID: `MCxlMzcxMWEwYWE0YzU2MTFmMjFiNzBlODYwYWU1YTM5NWU1NTJkN2Y5`

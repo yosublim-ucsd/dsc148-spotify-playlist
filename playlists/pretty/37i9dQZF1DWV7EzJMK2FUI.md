@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,149 likes - 607 songs - 1 day 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,828 likes - 607 songs - 1 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -616,4 +616,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 606 | [I'll Know](https://open.spotify.com/track/6JOFJKSCpQNG3W3mECwSxd) | [Timothy Kay Band](https://open.spotify.com/artist/5cdHnLPT8wGWV0BDgQDw18) | [I Love Paris](https://open.spotify.com/album/7AtRYmWgcQzttwhYebfVZI) | 5:01 |
 | 607 | [turned or twisted](https://open.spotify.com/track/4XkhajNW9YvcoBt1l2UuYe) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [turned or twisted](https://open.spotify.com/album/30UQBgFXxfOORDHH6oxS0a) | 2:27 |
 
-Snapshot ID: `MCw2OTFkOTBmMTlkODhkNGM0MTc2OWMyMDVhNGE0YWI3Mjk4OWYyNmFk`
+Snapshot ID: `MCxkZmI1ZDEwYmEyN2IyOGY4ODg2NjgwOGE2YWQ2MmE3NGRlMjM4MzVj`

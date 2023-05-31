@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,061 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,235 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 |
 | 100 | [PPL](https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [PPL](https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q) | 2:42 |
 
-Snapshot ID: `MCwxMjg1NTM0M2M0ZWRkMzQwYmI0NTVhNjEzOTEzM2VlOGY4OWFjMTQy`
+Snapshot ID: `MCw4MGUzZWJhZTc0MTYzNmZhZTY1Nzk0NDlmMmUzZjNiZDlmN2UyNGEw`

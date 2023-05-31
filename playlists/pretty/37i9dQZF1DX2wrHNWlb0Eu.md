@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,052 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,136 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 81 | [ความรักกำลังก่อตัว](https://open.spotify.com/track/0Xo1zj7ol0WMN3VltQxhRW) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รวมเพลงมีผลต่อหัวใจ](https://open.spotify.com/album/3iAjy7MQQBhsWQrEuoGWwm) | 5:21 |
 | 82 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 |
 | 83 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 |
-| 84 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Zee Pruk](https://open.spotify.com/artist/57i3NWWeEZc5dtW2eqoYan) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 |
+| 84 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 |
 | 85 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 86 | [กอดในใจ](https://open.spotify.com/track/5OLQ6wJUkyVsqL13NpMZJ4) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [กอดในใจ](https://open.spotify.com/album/6cjIQVmyudC1FZ1xNnMQai) | 3:37 |
 | 87 | [YOU YOU YOU](https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV), [Ammy The Bottom Blues](https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n) | [เอิ๊ต ภัทรวี](https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 99 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 |
 | 100 | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/track/68i6L61qFCI79hD3kRrdwG) | [Pause](https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE) | [คนที่แสนธรรมดา feat\. Na Polycat](https://open.spotify.com/album/6payxbbvQLVLkNlRmlAiN0) | 4:33 |
 
-Snapshot ID: `MCxlYmFjMDU1MmYwOGZiZTNmNWZmZTYxNzAwZDcwYmQ4NjdmYzE0MmY5`
+Snapshot ID: `MCxmNzliZjYwMWM0ZGQ3ODUxMjZjNDViZDc3MzM5ZGI5ODQ0YjIwNGE1`

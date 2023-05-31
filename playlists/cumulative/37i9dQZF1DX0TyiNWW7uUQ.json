@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Ponniyin Selvan",
+  "description": "Finest collection of Tamil Music from the past 10 years\nCover : Vaarisu",
   "name": "Kollywood Cream",
   "tracks": [
     {
@@ -846,6 +846,32 @@
       "duration_ms": 218915,
       "name": "Jigidi Killaadi (From \"Pattas\")",
       "url": "https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B"
+    },
+    {
+      "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224095,
+      "name": "Jimikki Ponnu",
+      "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
     },
     {
       "album": {
@@ -2425,6 +2451,44 @@
     },
     {
       "album": {
+        "name": "Enemy - Tamil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1a6zIRBWOpF75Mixv5zwwT"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Srivardhani Kuchi",
+          "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        },
+        {
+          "name": "Roshini JKV",
+          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
+        },
+        {
+          "name": "Tejaswini",
+          "url": "https://open.spotify.com/artist/22KTsf5b5SeYNOypXpyYBr"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228567,
+      "name": "Tum Tum",
+      "url": "https://open.spotify.com/track/4eVsmEtOgOCa3WnK0C4Cbg"
+    },
+    {
+      "album": {
         "name": "Tum Tum (From \"Enemy - Tamil\")",
         "url": "https://open.spotify.com/album/0sq7cT64heLZfuOJUsm1Ak"
       },
@@ -2456,7 +2520,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 228567,
       "name": "Tum Tum (From \"Enemy\")",
       "url": "https://open.spotify.com/track/3H3x4NhR3wJh6IvRHmPvkd"

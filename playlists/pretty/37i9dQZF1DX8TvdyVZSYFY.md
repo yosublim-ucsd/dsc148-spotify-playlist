@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058,489 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058,563 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [The Book of Love \- Spotify Session](https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Spotify Session](https://open.spotify.com/album/2IV7ZEABJEfaqxuQWlbV48) | 3:23 |
 | 300 | [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 |
 
-Snapshot ID: `MCw2Y2UzMzNkZjIxMzk4N2VmMmQzM2VjYWM5ZmQxMTQxZWFlNzgxMzFh`
+Snapshot ID: `MCwwYTg3ZGExZTNjYWY5ZmEwNzgwNzczYjIxODgxNGE5Y2QwMzEzMTEz`

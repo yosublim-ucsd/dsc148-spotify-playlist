@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Elegant Weapons
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,456 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,817 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 149 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 |
 | 150 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 |
 
-Snapshot ID: `MCxlMDEzM2U1MjI2YmJhNWE2OTJlYTk1Njc3MjgyNWJmNmFjOTAxYTcx`
+Snapshot ID: `MCwyNjg3YmJjZWUxOTliYWM5ZjUzNzRjNjNmNzlkNzI1MzhjYmYwODE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Hilary Hahn
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,643 likes - 67 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,738 likes - 67 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 66 | [Together 1 \- Live](https://open.spotify.com/track/282SLmhPFOvDo5f2ZxpXwm) | [Pedro García\-Velásquez](https://open.spotify.com/artist/4S2aYUHF1S0WqCIqZnV6qI), [Le Balcon](https://open.spotify.com/artist/2rOr1polu7Bn8yeyatX4lZ), [Alphonse Cemin](https://open.spotify.com/artist/4RsILAprvKQo3qwJqvgaYU), [Johan Leysen](https://open.spotify.com/artist/7MO4y9qgyqcauViBW41Zfu), [Jean\-Claude Frissung](https://open.spotify.com/artist/4sqC7l7WKV41YgGiXfNm1A) | [Pedro García\-Velásquez: Words and music \(Live\)](https://open.spotify.com/album/7MI19R6iogWtfRGeTrwt5o) | 2:09 |
 | 67 | [Mantilla de Feria](https://open.spotify.com/track/3aG4hJQVZacCdlz3XhXGKk) | [Esteban de Sanlúcar](https://open.spotify.com/artist/542dWnnDGLmKKDJTYJZwld), [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [Mantilla de Feria](https://open.spotify.com/album/4pt7v0HOaCKKP9v3eFQllU) | 3:32 |
 
-Snapshot ID: `MCwwY2MwZmRmZjM5OTYxNDE3MWJiYjY0MGRlNTIyNzAyMGExOTQ1Yjcx`
+Snapshot ID: `MCxlOGJjNjFhZDRjMzZmZWM2NDIxNzZlNDdhZDIyNmIwODhkYTQ3Nzk4`

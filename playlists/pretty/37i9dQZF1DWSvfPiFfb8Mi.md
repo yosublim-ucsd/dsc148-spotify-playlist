@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,200 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,466 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [In My Soul](https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [In My Soul](https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl) | 4:42 |
 | 100 | [Electric Drama](https://open.spotify.com/track/3zF3pigJ8LTQQtjsYrDmUI) | [Lovers](https://open.spotify.com/artist/3WDMaTckX5c9kOGLU7N6uz) | [Electric Drama](https://open.spotify.com/album/1ZEjjhIQqQPPW1SydR08SU) | 6:18 |
 
-Snapshot ID: `MCxkYmQ1ZjdjMzY5YzRhNDE5ZmIzMDI2NDE5MmM5MWU3Zjg4NTgyZTUw`
+Snapshot ID: `MCxlY2Y4ZWIyZjIzNjBkNWMzNjAwMWI2Njc3ZjY5NzNhNTUzOGRlZDE1`

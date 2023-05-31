@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Rory Fresco
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,398 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,491 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Trust Pt\. 2](https://open.spotify.com/track/3XnXKm3BJIJ4JMS1zGsiiP) | [Gic0e](https://open.spotify.com/artist/7CkRwvPIIL5cDRgpPPLkvF) | [Trust Pt\. 2](https://open.spotify.com/album/6p9CTSrA3Q0QRupycIYTqj) | 3:52 |
 | 75 | [No Discussion](https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [No Discussion](https://open.spotify.com/album/6x7ImIkrwJQlukgX4TwioK) | 2:49 |
 
-Snapshot ID: `MCwyYjJlZTlkOGYyYzhhYzM2ZWVlZDJlMDk4NzQ1Y2Y1NTdjM2ZkMjYx`
+Snapshot ID: `MCw0ZjkyY2Q0Y2U5OWQxNWY2MGYxY2M2YTAwNzY4YWRhZDc5YjNkOGEy`

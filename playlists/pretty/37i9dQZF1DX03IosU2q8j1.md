@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 
 > Ro, Ro, Ro, Rodrigo carajo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,225 likes - 61 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,267 likes - 61 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 | 3 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 4 | [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 |
 | 5 | [Ocho cuarenta](https://open.spotify.com/track/2wcIn5fYUBBdbuqRRJDWRD) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- El potro](https://open.spotify.com/album/790Iky5B8XDGflaJkhJvY8) | 5:56 |
-| 6 | [La Niña de los Ojos tristes](https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [La Niña de los Ojos tristes](https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B) | 4:38 |
+| 6 | [La Niña de los Ojos Tristes](https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [La Niña de los Ojos Tristes](https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B) | 4:38 |
 | 7 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5i9yLs9LPercK6BJgj87gj) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 9:16 |
 | 8 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 9 | [Lo Mejor del Amor](https://open.spotify.com/track/5jlTIwTNeIKx85eXDoMlz7) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Eterno](https://open.spotify.com/album/6KUYysMj9dPbQ9OFmyu46Y) | 3:50 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03IosU2q8j1.md) - [plain]
 | 60 | [Que mujer](https://open.spotify.com/track/1OKrJ96z73EF452XJqJ6re) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 4:44 |
 | 61 | [Quiero tu boca](https://open.spotify.com/track/3TKUDzwOmHUti9AHw3784q) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:00 |
 
-Snapshot ID: `MCw5NGM2ZDBlZWI0M2Y2YzI4Y2FmNzA2OTE4NDhlODc5ZTM5MzAxOGE0`
+Snapshot ID: `MCw4NThjOTQ3ZjU5ZmM0NzdhZjkyZTgzNjMwNGQxYjEwMzllMTcxZmVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,928 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,961 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 99 | [Have You Met Miss Jones?](https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1) | [Alvin Queen Trio](https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F) | [Have You Met Miss Jones?](https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ) | 3:44 |
 | 100 | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Bassic Instinct](https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf) | 3:40 |
 
-Snapshot ID: `MCw5YTUzYjViY2VhYmJjNjA1Y2Y4NGVmMzBiZjNiODRlNzc5NDg2YTBh`
+Snapshot ID: `MCxhZTYyYmZiNDhhNDk5MmE0MTc1MTU3MjkwZTM1ZmM2ZWRmZTQzNTlk`

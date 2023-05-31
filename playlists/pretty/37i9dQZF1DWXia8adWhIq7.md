@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Ton Carfi, Brunno Ramos, Paloma Possi
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,392 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,467 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
 | 80 | [Quem Sou Eu Sem Você?](https://open.spotify.com/track/54Dw2XPvYm2LlWx9n2jqjr) | [Jujubita](https://open.spotify.com/artist/3bo6KIZeJRIscQKaeqroVg) | [Quem Sou Eu Sem Você?](https://open.spotify.com/album/5E8SijDUIc5m9rt6zuTfTF) | 2:40 |
 
-Snapshot ID: `MCw3NjVkYmJiNmRhZjgyNWM3NTI5ODYwZjUyNTkyMGE3N2IzN2JiNzdi`
+Snapshot ID: `MCwyZDhlMzNlODE5Njk2OTQyM2M1ZTYyZmUyNjBlNTkxNTY5ODgwN2Ji`

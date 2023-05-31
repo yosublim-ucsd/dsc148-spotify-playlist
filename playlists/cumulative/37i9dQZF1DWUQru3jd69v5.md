@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Digital Astro in cover.
 
-576 songs - 1 day 1 hr 4 min
+577 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Braquages](https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Braquages](https://open.spotify.com/album/4V30NxcCKiJ18l4n9mwieP) | 2:24 | 2022-05-10 | 2022-08-26 |
 | [Bravo Ragazzo pt.3](https://open.spotify.com/track/5mt4JnFQk9vaR0SBI1Te7q) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [Bravo Ragazzo pt.3](https://open.spotify.com/album/7Eg094B4AEn2yiTU6SyMIW) | 2:34 | 2022-06-22 | 2022-09-02 |
 | [Bricks](https://open.spotify.com/track/59RVTRsJCrbxjmIOLT2auU) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A), [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [Bricks](https://open.spotify.com/album/42gd6fvDXBuOPZNn0HpzeF) | 1:53 | 2022-10-27 | 2022-11-11 |
-| [Bubu Chacha](https://open.spotify.com/track/3gMXrQ3aOBBZu9rbsSnjpf) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Bubu Chacha](https://open.spotify.com/album/4u95VuCQuqAfrbkIbefcaM) | 2:18 | 2023-05-18 |  |
+| [Bubu Chacha](https://open.spotify.com/track/3gMXrQ3aOBBZu9rbsSnjpf) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Bubu Chacha](https://open.spotify.com/album/4u95VuCQuqAfrbkIbefcaM) | 2:18 | 2023-05-18 | 2023-05-31 |
 | [BUGIE](https://open.spotify.com/track/5u5mKG4Cpg8H57Rf2ApEVo) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BUGIE](https://open.spotify.com/album/0og11vK6AW2XIFnr0maeAh) | 2:28 | 2022-06-23 | 2022-07-22 |
 | [BULLS](https://open.spotify.com/track/02ziGICyxDi5VHvKkQBkUB) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [BULLS](https://open.spotify.com/album/5uCB7ufT1yu047ld0EY1a0) | 2:32 | 2023-02-16 | 2023-04-21 |
 | [Business Lady](https://open.spotify.com/track/3iCW2Fuf3UCEZ9NRPu0JXj) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [Business Lady](https://open.spotify.com/album/77k6zcgqheWUdyekfdMuj6) | 3:01 | 2022-12-01 | 2023-01-04 |
@@ -143,6 +143,7 @@
 | [Corri Garçon](https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Corri Garçon](https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX) | 2:37 | 2023-05-25 |  |
 | [Corri ragazzo](https://open.spotify.com/track/2teO31Hqy8k7DBmjIxxMS5) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Willy](https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow) | [La Misère EP](https://open.spotify.com/album/3zo1z29jBi3WiItClrVaG8) | 2:44 | 2022-06-16 | 2022-08-12 |
 | [Cose Losche](https://open.spotify.com/track/0Q0gqAXmbdjs3Jg0RqLxSl) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Cose Losche](https://open.spotify.com/album/2E9D2vDE9JGDS3LmqkSCLZ) | 2:45 | 2022-07-14 | 2022-07-29 |
+| [Così Ghiacciato Tony](https://open.spotify.com/track/72GnOgY8IYhPJD2PBSNcUL) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Così Ghiacciato Tony](https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh) | 2:53 | 2023-05-30 |  |
 | [Couteau \- Drill Life 2](https://open.spotify.com/track/44s7wm1ysblXA7isTmyHrB) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [Couteau \(Drill Life 2\)](https://open.spotify.com/album/4aEWwOFbLsFAkEIZ5zNViw) | 3:09 | 2022-05-10 | 2022-06-23 |
 | [CRACK COCA](https://open.spotify.com/track/0J69jDXSJLdUVSKsV9r8lY) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [CRACK COCA](https://open.spotify.com/album/6dEYHcH5MzuOuGkEqZvJbQ) | 1:26 | 2022-09-22 | 2022-10-07 |
 | [Crack In Casa 24/7](https://open.spotify.com/track/35fUr9dMYSHsSI5hCjeklu) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Crack In Casa 24/7](https://open.spotify.com/album/37DP2uMZ4Rn1c33MOMzdzt) | 2:19 | 2022-09-08 | 2022-09-23 |

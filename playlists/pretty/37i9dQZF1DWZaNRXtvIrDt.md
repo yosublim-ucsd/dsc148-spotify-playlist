@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Hudson Mohawke and Nikki Nair
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,015 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,022 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Juniper](https://open.spotify.com/track/4PRVnpNShPqjANUE5GC7Dx) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Juniper](https://open.spotify.com/album/56TKvJC3uylhbaC8N6jhn1) | 5:00 |
 | 75 | [You Are The Reason](https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4) | [Tassone](https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv), [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI) | [First Light](https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi) | 4:00 |
 
-Snapshot ID: `MCw3NDlkZDE4YWY5OTEwZTdkYmQzZmI1M2VlZjVlNTRkNDQ4NzJjNGIx`
+Snapshot ID: `MCw1NzUyOGNjMjhlNDExOTY1NGQwOTU0ZGMwMjU0MTUwYWI0ZDMxZDZj`

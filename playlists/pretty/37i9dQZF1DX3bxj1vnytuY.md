@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,412 likes - 100 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,459 likes - 100 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dare Your Move](https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Dare Your Move](https://open.spotify.com/album/7wMzeVpDff9c3MsUciRjfU) | 2:49 |
-| 2 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 |
-| 3 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 |
-| 4 | [Memelles](https://open.spotify.com/track/2SWvbOmiI6sa9WVbiIk4Cm) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [The Lost Tribe](https://open.spotify.com/album/35E8qTvXvEBKnUIeZPbPff) | 6:26 |
-| 5 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
-| 6 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
+| 2 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
+| 3 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 |
+| 4 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 |
+| 5 | [Memelles](https://open.spotify.com/track/2SWvbOmiI6sa9WVbiIk4Cm) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [The Lost Tribe](https://open.spotify.com/album/35E8qTvXvEBKnUIeZPbPff) | 6:26 |
+| 6 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
 | 7 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 |
 | 8 | [Hammanda](https://open.spotify.com/track/1NB9xPbu3uKvIfg4F7PqSx) | [Romaryo](https://open.spotify.com/artist/7rcH8pvmUQC8beKuCSUqEY), [Robert Georgescu](https://open.spotify.com/artist/3xUdGxXE3z5cwzIae3xEZI), [White](https://open.spotify.com/artist/6dYI97SNU1SUUeKrJhzIlQ) | [Hammanda](https://open.spotify.com/album/5tOJrLZKQT1TgYrIzgNM6s) | 2:50 |
 | 9 | [Latlal \- Hyenah Remix](https://open.spotify.com/track/4zFwlzD1d4XJcelTfhpbgr) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 6:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 |
 | 100 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 |
 
-Snapshot ID: `MCxkMTFkZjYyNjNjOTNlZjk1ZTFiN2EzOWVlNGQzODY0MjkyYmYzYWMw`
+Snapshot ID: `MCw1ZjUwNjM4OGE4Y2YzYTE0MTcxMTFjZTYyZDc2MTU3MTI4ODI3OWY0`

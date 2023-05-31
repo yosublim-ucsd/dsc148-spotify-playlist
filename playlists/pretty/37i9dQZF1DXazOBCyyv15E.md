@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Jacob Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,386 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,405 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [False Objects](https://open.spotify.com/track/6k9ypS5VECInIHiDCSWoHo) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [False Objects](https://open.spotify.com/album/1dXluLMKOuRqnfBWFhlB7d) | 4:08 |
 | 100 | [IMAGINE TECHNICOLOUR](https://open.spotify.com/track/2m0KwgcVKP879c9vTQ6jZa) | [MISOGI](https://open.spotify.com/artist/778Snztf3N5DXp0kHGFl3g) | [IMAGINE TECHNICOLOUR](https://open.spotify.com/album/1X8jNHIOvX6AO56RU20QnH) | 3:10 |
 
-Snapshot ID: `MCw0ZmI1NzMzZTYxMTZlZjRmMGYyOTZkOTQ1OGFiYWMxYTM3YTlmM2Vh`
+Snapshot ID: `MCw2YjY5NGI5M2NkMzhmZmI4NjhlZWRiOTExYmU3YjdmMWQxMDk5MDVi`

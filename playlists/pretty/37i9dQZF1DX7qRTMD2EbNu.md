@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B\-gkqPYAQ3CDQqrj40ZpDQ"> Kwesi Arthur</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,691 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,709 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 28 | [Fire](https://open.spotify.com/track/75PVJ4G4p6lBGSIOn1jhoc) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fire](https://open.spotify.com/album/2hlL9lYpRlJrjtlUeazYz4) | 4:04 |
 | 29 | [God Complex](https://open.spotify.com/track/71rECXgwu9iMFo5BdJ5ETa) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [God Complex](https://open.spotify.com/album/4LGZflpwugOMeBRcDfvl4E) | 3:27 |
 | 30 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 |
-| 31 | [Accra](https://open.spotify.com/track/07IGm3D3QJrZkrpqWovJi6) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/3GBEpfWyKBlONW7DO4Y0ks) | [The Unbroken](https://open.spotify.com/album/2j44U6xDDXZtlQQ6UUhkpY) | 4:34 |
+| 31 | [Accra](https://open.spotify.com/track/07IGm3D3QJrZkrpqWovJi6) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [The Unbroken](https://open.spotify.com/album/2j44U6xDDXZtlQQ6UUhkpY) | 4:34 |
 | 32 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 |
 | 33 | [Dem Deh Try](https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Dem Deh Try](https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70) | 2:37 |
 | 34 | [ADEAKYE](https://open.spotify.com/track/0HgG7qLyE4O9G0aSIh0rUt) | [Emo Brainy](https://open.spotify.com/artist/1hMpcHk70V0YcCqGwEASJM) | [ADEAKYE](https://open.spotify.com/album/0fut9nLp8iRbY4Ue0CEDbs) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Yao](https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Yao](https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ) | 3:29 |
 | 80 | [Call My Name \(Odoyewu\)](https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Trig Triga](https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff) | [BEEN ONE](https://open.spotify.com/album/3nhemfoUj5gWPmzAwg6nHg) | 3:12 |
 
-Snapshot ID: `MCwxNGI1MDZkMDMzYjcwNzhjNjY4ZmQ3MTA3MmRkM2NkN2YwYTdlNmMx`
+Snapshot ID: `MCwzNjYxZjJjNDYxZGU1MDViYTkzYmYwYzc2Y2RhMTZiNTFmYzk3NzVl`

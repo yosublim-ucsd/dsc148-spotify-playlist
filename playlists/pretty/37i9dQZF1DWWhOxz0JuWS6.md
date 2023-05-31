@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,360 likes - 200 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,407 likes - 200 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhOxz0JuWS6.md) - [plain]
 | 199 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 |
 | 200 | [When The Smoke Is Going Down](https://open.spotify.com/track/1Cc1kD0xeMXZpdUinsH1mP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:50 |
 
-Snapshot ID: `MCxlZmZiNjFiNGE0MzZlNWI5NzA0NzZkOWI4OTRlMDRkY2Q0MzcwMTE5`
+Snapshot ID: `MCw4ODE2M2RlNjJlNGE1NzViN2VlZjc2NTFmYTc0NjEyZmJhNjRkN2My`

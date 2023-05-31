@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,391 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,537 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 | 75 | [Destiny \- Dem 2 Radio Mix](https://open.spotify.com/track/793c172sg8q7S4yIVdolYy) | [Dem 2](https://open.spotify.com/artist/32bkV540WQJ4K9tVfLdNYQ) | [Destiny](https://open.spotify.com/album/33edSIlo2PL5bY1hNvlCgA) | 4:05 |
 
-Snapshot ID: `MCxmNTU5MDgxYjk5OTdlOTNlMWQxMjdmZjFkYjkzNTkxYjkyMTc5ZDZh`
+Snapshot ID: `MCwyMDZiZWM0ODc2MmI1YjM3ZTI0YjcwY2JlODA5YTg0YzQxZDhkOTdl`

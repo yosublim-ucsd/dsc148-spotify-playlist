@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,870 likes - 200 songs - 16 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,927 likes - 200 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 199 | [Streets](https://open.spotify.com/track/2Hok9clWBUGlbA3GbFpb0n) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:59 |
 | 200 | [Hang in There, Baby!](https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Falling but Not Alone](https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr) | 10:00 |
 
-Snapshot ID: `MCw0NWVlNzhmYWFkMzk4N2M1YzJkYzM1NzgzMzIyMmJiNzllODIwNmFl`
+Snapshot ID: `MCw0ZTVhY2ZkNGI0MjcyZGRiYTIwYTQxZWZhMGYxZmE5YWFkYTIwZmQx`

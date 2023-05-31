@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,816 likes - 150 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,835 likes - 150 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [El Sapo](https://open.spotify.com/track/1QqUyjBpCHtDlJ3xzRuS6O) | [Son Chiapaneco](https://open.spotify.com/artist/4ZuOAnCXyktHTcTLUq7Agt) | [La Ruta del Son Mexicano](https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz) | 2:57 |
 | 150 | [Zirahuén](https://open.spotify.com/track/0Em8w9tBq5E1eLIL4bSHCi) | [Banda Lago Azul de Zirahuen](https://open.spotify.com/artist/1K4CXOjnnAp6E3gerkC4DX) | [Homenaje A Michoacán 20 Éxitos](https://open.spotify.com/album/0F0AjELJaNWQXXR9jZWsUT) | 4:20 |
 
-Snapshot ID: `MCw5MTRjOGI4OWUyNzEyZTMwNzYxNzI0YjU5ZTA2YWMxNjk0MjIzNTg1`
+Snapshot ID: `MCwzNzA5NTA4MWJkMWE1ODVjMzYyOWUxZTBiYmVmMTkxYmI3M2M3YTA5`

@@ -4,7 +4,7 @@
 
 > aquele rodízio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta
 
-105 songs - 4 hr 56 min
+106 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Lovezinho](https://open.spotify.com/track/2pZEMax5fopaI1UUhFlnRi) | [Kamargão](https://open.spotify.com/artist/3EY7HU2OQYbmh5FdqUlDQI), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/7guyK8SG84ysWJtA5IT1ec) | 2:15 | 2023-05-29 |  |
 | [LOVEZINHO DO PAI](https://open.spotify.com/track/1ciWhmHMYlFvSJvWUUq1QA) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [LOVEZINHO DO PAI](https://open.spotify.com/album/6L5x0X9NFi0QOHop5ICNtH) | 2:20 | 2023-05-15 |  |
 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 | 2023-05-15 |  |
-| [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 | 2023-05-15 |  |
+| [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 | 2023-05-15 | 2023-05-31 |
+| [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 | 2023-05-29 |  |
 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 | 2023-05-15 |  |
 | [Mina Sensação](https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 1:52 | 2023-05-15 |  |
 | [Moça \- Ao Vivo](https://open.spotify.com/track/66KlcaDo2PlaFpumUHVG0W) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Samba Pro Meu Povo: Bloco Rua Mariana \(Ao Vivo\)](https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m) | 3:32 | 2023-05-15 |  |

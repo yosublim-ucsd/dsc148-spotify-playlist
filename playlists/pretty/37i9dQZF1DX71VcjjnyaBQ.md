@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,061 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,132 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 |
 | 100 | [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 |
 
-Snapshot ID: `MCwxZTgxNDNkNWE4ODg1MjliMjEyYzk3ZGQxNDY2NmJlZWY4NDY2YjAz`
+Snapshot ID: `MCw3M2M5NjI4OTk5YzUwY2RkZGU0NTg2MzE2MThhODg2ODU4ZGRiNTgw`

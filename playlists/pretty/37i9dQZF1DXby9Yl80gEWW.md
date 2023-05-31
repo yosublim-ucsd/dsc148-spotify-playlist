@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,924 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,945 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 |
 | 100 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 |
 
-Snapshot ID: `MCxhMjQ2MjExYTVhMGFkZjZhZjM5Y2U0ZmFkMTQ1ZjVkMGVmY2RhNDhh`
+Snapshot ID: `MCwxZDRiNGE4YTVhMzk1ZmY2NTRmNGYyMDE4MzQ5ZTI0YjEyZGVhMmUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,013 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,230 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [ijustwanttobetheoneyoulove](https://open.spotify.com/track/2xj9puMPJGIoIDM54UjiY2) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [ijustwanttobetheoneyoulove](https://open.spotify.com/album/6rsIlXB1A8U7kwgXagSvyH) | 1:20 |
 | 80 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 |
 
-Snapshot ID: `MCw3NmJmZjA3NDczMjEwYTVmZmMwNjM0ZDRiNTYwMzM4OWQyNDBkNTY0`
+Snapshot ID: `MCxhMTNiNGZlMWIzMzQzYmZhNWJkYzFjZTU5NGQzNWEwZTVjOTlhM2Fi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 760 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Rosas](https://open.spotify.com/track/0C4H8wdTbI0yMMJCWX7O8h) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Indestructible](https://open.spotify.com/album/0rIK68jJ4GKAYjLaHHzczH) | 2:59 |
 | 100 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
 
-Snapshot ID: `MCwyYjM0MmMxYWVmNmU5OTk0YjFkNWFhOTViMjE2NzljZjU5MDgyMGQ4`
+Snapshot ID: `MCxkNGQyYWRjMjNlMTMyZTZhZDkzNTJmNzM5NTQ2Zjc4MDUyOTM5MTI5`

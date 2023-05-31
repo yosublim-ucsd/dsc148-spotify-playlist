@@ -2772,10 +2772,40 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed"
+    },
+    {
+      "album": {
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "MC Bob Anne",
+          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
     },
     {
       "album": {

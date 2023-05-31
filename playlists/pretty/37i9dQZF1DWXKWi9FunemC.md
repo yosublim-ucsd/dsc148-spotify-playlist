@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,310 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,467 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
 | 100 | [Shadowfeet](https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Albertine](https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X) | 3:35 |
 
-Snapshot ID: `MCxkMjJiOGVkNzZmMWNmZWJiNDVlNWQxZjdlYmE0OTA1MjEyZGFlOWUz`
+Snapshot ID: `MCw3ZTEyOWNiMmExNDBlZWU3YTFlMzg0NDYzNTZjZDcxZDRiZmVlN2U0`

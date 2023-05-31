@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,033 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,092 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Cruel Summer](https://open.spotify.com/track/1GGifxPLmNb1iA8QUnvEdx) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Cruel Summer](https://open.spotify.com/album/3dZmNlTCCP3FS1WmrhNoM1) | 3:08 |
 | 150 | [Afraid To Love](https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Afraid To Love](https://open.spotify.com/album/7wE5tNPadKXX5C1SG9kuIS) | 3:56 |
 
-Snapshot ID: `MCw5OWE3NzMwYzZmYTRiOTY0M2MxYzY3NWQyNGEwMzVlYTJhNmI4MjA3`
+Snapshot ID: `MCw0ZDkzMDI0MGFlOThkYjQ3OTFlYWQxZGE0OTUwODUwZDQzYzRmNWI2`

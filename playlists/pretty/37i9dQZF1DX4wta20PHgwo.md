@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,023,353 likes - 100 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,509 likes - 100 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Close Enough for Love](https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Deep](https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7) | 2:56 |
 | 100 | [Alfie](https://open.spotify.com/track/3kyRABq5NomwUwGpqVqecM) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 8:19 |
 
-Snapshot ID: `MCwzYmNlNTg5ODczM2MyZTcwZWFjNGJjYjg1YzcwNGFkNzgzZWI0NDNm`
+Snapshot ID: `MCxmYWQ2YTliOTVkN2Y3MjJlMTA1OWJkNTVjMmEyMjNmN2M5NWIzN2Jm`

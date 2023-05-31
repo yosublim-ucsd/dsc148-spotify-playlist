@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,606 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,077 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 | 2 | [Static Body](https://open.spotify.com/track/7erZjxEmGAduw6vqJLPBIs) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Static Body](https://open.spotify.com/album/1vjv2EGhYcKReQ749C0fRu) | 3:03 |
 | 3 | [Alpha](https://open.spotify.com/track/5772yKjpzTeq0SAQHB5XF6) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [Alpha](https://open.spotify.com/album/1nZU1fUaGH0d9ewY9B7vux) | 3:15 |
-| 4 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 |
+| 4 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
 | 5 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 6 | [Blame It On Me](https://open.spotify.com/track/3wzb6Yh4KpuGsj2TLEpGEC) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blame It On Me](https://open.spotify.com/album/7CiVi0qi3v6TlfGDemsFZX) | 2:34 |
 | 7 | [Work It Out](https://open.spotify.com/track/6x5kF8c4zfkxK5LJT3FWrb) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Work It Out](https://open.spotify.com/album/3PBNrUejNAnRTKbw3eWeUj) | 3:04 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 98 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 | 99 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 
-Snapshot ID: `MCw2MTIxYjRiNzI3YmVlN2YyNGRmYWI0ODkxODRjMGRmNDA2YjM4YTVm`
+Snapshot ID: `MCw0NzgwMzU2ZjExNWVlMGFiMjMyMzgwOWE5N2QyM2VhOGUwNmUwNmZl`

@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 182399,
       "name": "Diagnoza",
       "url": "https://open.spotify.com/track/0w6zm1Y7g6RW4WV68HV6NK"
@@ -7998,7 +7998,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -14735,6 +14735,24 @@
     },
     {
       "album": {
+        "name": "Sartse ot lego",
+        "url": "https://open.spotify.com/album/3Qu9mPOeyhnZZxsuupQgSp"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "Sartse ot lego",
+      "url": "https://open.spotify.com/track/5Awm1t92craHebGMzwY4kl"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -14786,7 +14804,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 220243,
       "name": "Savarshenstvo",
       "url": "https://open.spotify.com/track/5yjBmDMzL4VjPVj4RRp2WD"
@@ -16816,7 +16834,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 186772,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7yKsEFa4qLc9unbFWZWXKt"
@@ -17244,7 +17262,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 181555,
       "name": "THE LAST CHANCE",
       "url": "https://open.spotify.com/track/1pCKz778PeSa8iWrLaOiks"
@@ -18116,7 +18134,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -19897,6 +19915,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0440\u043e\u044f \u0434\u043e \u0442\u0440\u0438",
+        "url": "https://open.spotify.com/album/2NrVEI1oaFVnQw0pqZoVPD"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203566,
+      "name": "\u0411\u0440\u043e\u044f \u0434\u043e \u0442\u0440\u0438",
+      "url": "https://open.spotify.com/track/1VwtKWu60G1L6iAv5CpdY7"
+    },
+    {
+      "album": {
         "name": "\u0411\u0440\u0443\u0442\u0430\u043b\u0435\u043d",
         "url": "https://open.spotify.com/album/4UuAa6Qp2JviqaHUKenDpd"
       },
@@ -21200,7 +21236,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
@@ -21798,7 +21834,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 266400,
       "name": "\u0421\u0438\u043b\u043d\u0430",
       "url": "https://open.spotify.com/track/6Yrbyb5RUa6aSt6HAdStHb"

@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "The Classic Collection",
+        "url": "https://open.spotify.com/album/4oa2hZ1r8L8Egf9ec6ncCM"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/2LAkVHr0qJYJR54lSzyUyC"
+    },
+    {
+      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },

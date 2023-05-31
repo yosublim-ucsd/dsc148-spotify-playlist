@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Dua Lipa, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,994 likes - 136 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,012 likes - 136 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 135 | [The Blades](https://open.spotify.com/track/5BhxiOotM5oBArkkSTjrkD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Blades](https://open.spotify.com/album/5SGPP5PH19ng1p9kqFFhWB) | 6:28 |
 | 136 | [Give Me The Wisdom](https://open.spotify.com/track/6WUWRrrloipLCbJtexPWvt) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Give Me The Wisdom](https://open.spotify.com/album/3WU96MAABzwBjZspGtSrNN) | 5:18 |
 
-Snapshot ID: `MCwwYjEyNzJjYTFmZDZhMmU5ZTg1NWUxZjlkM2MwYzE1NjAzOGYyYTQz`
+Snapshot ID: `MCxjOGI1ZDJlZjg4NGFjODg1MDdjODU4ODgxYmY3MjU1ZTUzZDgxNzMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,019 likes - 120 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,290 likes - 120 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Summer In Love](https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Summer In Love](https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp) | 3:15 |
 | 120 | [Rich In Love](https://open.spotify.com/track/424bdPXDmsR1WgZoCUwxt4) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rich In Love](https://open.spotify.com/album/1ZJuNaxvUtHns8WCpIaAh9) | 3:25 |
 
-Snapshot ID: `MCwwMGU4OWRlZmFjMzUxOGExYmJiMTA2Y2MyZWRjMWI1NTIwMzJkNDY2`
+Snapshot ID: `MCwwNTlkMjA0MzkyMDIwYTcxMjNlOGJmNzM0ODRkZGIyYjEyZDI1YWNj`

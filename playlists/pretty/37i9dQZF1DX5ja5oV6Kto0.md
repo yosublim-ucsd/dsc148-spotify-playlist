@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=F3RRjsNVTiqUx3rJWkMgTg"> AYLØ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,967 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,027 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 73 | [I'm Good](https://open.spotify.com/track/6LVQaE9vOEGxFKQ3tTWU0B) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [I'm Good](https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul) | 2:35 |
 | 74 | [No Doubt](https://open.spotify.com/track/5KAxBZ8TY2YYHhiOd0XcVZ) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [No Doubt](https://open.spotify.com/album/2ucq3VkxPJbUsAJ1rP6QDD) | 2:09 |
 | 75 | [SPACE COWBOY](https://open.spotify.com/track/5f68045DHI297ti1WI8qUr) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SPACE COWBOY](https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX) | 3:21 |
-| 76 | [Vex](https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [ODUMODUBLVCK](https://open.spotify.com/artist/1KMl7oxmZzQS5I9e8aiNTs), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [Cruel Love/Vex](https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u) | 2:46 |
+| 76 | [Vex](https://open.spotify.com/track/68iiyaYIX0r25EryppFIFA) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [Cruel Love/Vex](https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u) | 2:46 |
 | 77 | [Paradise](https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 3](https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez) | 3:40 |
 | 78 | [RELOAD](https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:27 |
 | 79 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 89 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 |
 | 90 | [Trust Issues](https://open.spotify.com/track/5a74iY70gcJ1j4GCk3EMF6) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [Santaklara](https://open.spotify.com/artist/5gsCFrDcsLquTUIQojNptl) | [Trust Issues](https://open.spotify.com/album/736TSZ1hZ6pjkyHhdntbY8) | 2:30 |
 
-Snapshot ID: `MCxjZmFiZGYxNmNiYjJjNWI5MzFkMDQ2ZWM3MTlkZTBhN2U3YjNhNTc0`
+Snapshot ID: `MCw0M2RhYTQxNWVlNGM2NjdhMDljYTQ3ODM4NDJhZTUwMGNhNmY4N2E5`

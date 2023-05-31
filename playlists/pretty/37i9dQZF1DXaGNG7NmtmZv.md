@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,987 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,049 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Few And Far Between](https://open.spotify.com/track/7xvRU4KA2pPZdx9jd7cNiR) | [Shutdown](https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3) | [Few And Far Between](https://open.spotify.com/album/5KMvnMbojt9AiVyU6N7tSO) | 2:52 |
 | 50 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
 
-Snapshot ID: `MCw0MGE4MmZhYmI3YThhNGY1OTU1NGJlMjI4OGJkYjM0OGU3OWQwZDNj`
+Snapshot ID: `MCxiYjkxMmYxMDdlMmQ4M2ZjMjI1MDIxY2E4MTI3Nzc5ZWM3ZDM4MThi`

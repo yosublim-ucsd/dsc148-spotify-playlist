@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,542 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,343 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 21 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 |
 | 22 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 |
 | 23 | [Joli cœur](https://open.spotify.com/track/4xCFHoSZjzetjFGQadXlgR) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 2:53 |
-| 24 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
+| 24 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |
 | 25 | [DIS\-MOI OUI](https://open.spotify.com/track/7HS3aGgUkTzXRLBTt6aE5m) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ROUGE](https://open.spotify.com/album/7C5XPJuaRuOj3wBrdZYtQW) | 3:20 |
 | 26 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
 | 27 | [Elle est trop](https://open.spotify.com/track/45Kl4j0f9Qq1eyKtAUiucg) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Elle est trop](https://open.spotify.com/album/2bHf4A342qt3ELZirMvpEb) | 2:26 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 33 | [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 |
 | 34 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
 | 35 | [Dolce & Gabbana](https://open.spotify.com/track/6qFbHaZFzOrX5wKSbu1vvx) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Dolce & Gabbana](https://open.spotify.com/album/0MazTQ41JWkYdlPLzXQN3j) | 2:54 |
-| 36 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
+| 36 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
 | 37 | [Someone](https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Someone](https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN) | 2:37 |
 | 38 | [Hi hi hi](https://open.spotify.com/track/7ycOby0nlAhC7kj5RYxqOH) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Hi hi hi](https://open.spotify.com/album/4rvfzZglf3wk2JCt3swsnM) | 2:25 |
 | 39 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 |
 | 50 | [Rappelle\- Moi](https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Rappelle\- Moi](https://open.spotify.com/album/2TzaDzelgZzWHB68lqQUFR) | 2:47 |
 
-Snapshot ID: `MCxmMzdlNGI1OWJmOTg5OWQ2ZTY0YjJjZDQ1MzFiNGU4NmQ0N2U2NWM3`
+Snapshot ID: `MCw3NTdkZGNiNWI4MTk1ODUxMWU3YzlhYTAzMTY3MzNhYzE1NDMyOTRi`

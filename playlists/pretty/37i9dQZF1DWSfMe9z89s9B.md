@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,823 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,948 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 |
 | 100 | [Run](https://open.spotify.com/track/7Jtf2RpwDW654tbp6bbIA3) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e), [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:59 |
 
-Snapshot ID: `MCxlNmM3M2MwMTI2ZDZhNDk5M2ZiYWQwOTNjNzAwMzc5MjJkMWY3MDZi`
+Snapshot ID: `MCxkODJjZmUxYzMxMDlhOTNkOGEzYzc0MjEyZmQ2ZDNhMmU3YTBmYWQz`

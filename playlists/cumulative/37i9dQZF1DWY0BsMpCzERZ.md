@@ -2,7 +2,7 @@
 
 ### [Summer Love](https://open.spotify.com/playlist/37i9dQZF1DWY0BsMpCzERZ)
 
-> for when you've found the ultimate pov
+> 
 
 50 songs - 2 hr 50 min
 

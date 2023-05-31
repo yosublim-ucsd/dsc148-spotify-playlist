@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,938 likes - 170 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,187 likes - 170 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 169 | [SOBER](https://open.spotify.com/track/6PPV3LHJvfYsRizfCEMLYj) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/4pFhXFulMduMOUGKSPVCnX) | 2:50 |
 | 170 | [Bad For Me \- 49th & Main Remix](https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY), [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Bad For Me \(49th & Main Remix\)](https://open.spotify.com/album/5eg2sHsFBcTbHeXsazb8p2) | 2:50 |
 
-Snapshot ID: `MCxhZjc0OGFiZGE1YTE1NzFmNjE5MTI3MmY5ZjU0ZGNiODQ5ZDJjY2U0`
+Snapshot ID: `MCw0YjQxZmI3ZDk2ZjNiNmYzOTVmMzg1NDA4ZGZiMzU0MTMxODgxNDJh`

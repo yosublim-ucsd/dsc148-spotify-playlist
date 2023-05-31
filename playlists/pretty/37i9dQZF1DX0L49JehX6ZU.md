@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,417 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,533 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 |
 | 50 | [Lagda Na](https://open.spotify.com/track/2FyB6FVV2F35wh175H6IeZ) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Stunnah Beatz](https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl) | [Lagda Na](https://open.spotify.com/album/3fLoAnovxL1DsmdFJ9oqs1) | 2:17 |
 
-Snapshot ID: `MCwzNzhmOGFlY2U5ZTY2MjI5Mzc1NjI0MzYyMjRkNzI5YTU2MDljNjIz`
+Snapshot ID: `MCwzYmFmMzk2MDAxYmFiY2JmOTYwNjYyYTMyOGZhYWJmNGMzNjM1ZDQ5`

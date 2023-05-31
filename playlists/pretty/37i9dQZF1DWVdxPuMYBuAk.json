@@ -1,13 +1,33 @@
 {
   "description": "A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.",
-  "num_followers": 185657,
+  "num_followers": 187212,
   "original_name": "XO, Kitty Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTNmMmZjNDVhNWExOWMzNjEyYmJkOGRhMmFhYmZlNThkYTVjYjQ0",
+  "snapshot_id": "MCw4MDgwYzAyNjM5MThiZDAzOTQyMzAxMzMwMjFkYmY0NTk4YWMzZWJk",
   "tracks": [
+    {
+      "added_at": "2023-05-30 17:26:33",
+      "album": {
+        "name": "Everybody Wants to Rule the World (From XO, Kitty)",
+        "url": "https://open.spotify.com/album/2orBNQq9oB5FYTONCyIA2P"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        },
+        {
+          "name": "dv/sn",
+          "url": "https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS"
+        }
+      ],
+      "duration_ms": 148426,
+      "name": "Everybody Wants To Rule The World (From XO, Kitty)",
+      "url": "https://open.spotify.com/track/0PEI9t3QfzaOepAhYwJGdn"
+    },
     {
       "added_at": "2023-05-18 07:00:00",
       "album": {

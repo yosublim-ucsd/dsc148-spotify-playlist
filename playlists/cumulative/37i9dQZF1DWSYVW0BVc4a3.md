@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-528 songs - 1 day 17 hr 51 min
+529 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [Turn On The Lights again.\. \(feat\. Future\) \- Solomun Remix](https://open.spotify.com/track/0zZrLMx6G1U2nvmFGnSSSr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Turn On The Lights again.\. \(feat\. Future\) \[Solomun Remix\]](https://open.spotify.com/album/5uJJDoI0Kr5mmJKrPsStug) | 5:57 | 2022-12-08 | 2023-01-27 |
 | [Tuvan \- AVIRA Remix](https://open.spotify.com/track/1hUPXOdBeK16TJLTn3G3OK) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Tuvan \(AVIRA Remix\)](https://open.spotify.com/album/22KBPlolCAczwX0pWVAVsx) | 3:24 | 2023-01-19 | 2023-03-10 |
 | [Twister](https://open.spotify.com/track/5rWWQoeK7cZ6VD4BbBJHj3) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Trick, Pt\. 1](https://open.spotify.com/album/3M56M1PoVddtL3Q0wVmTH4) | 7:13 | 2023-01-19 | 2023-03-10 |
-| [Uh La La \- Guz Remix](https://open.spotify.com/track/1LwqbwADW8ZvhfCJbtdKdl) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Uh La La \(Guz Remix\)](https://open.spotify.com/album/1PPGdskLdIa9oZrMpcsHy4) | 3:21 | 2023-05-11 |  |
+| [Uh La La \- Guz Remix](https://open.spotify.com/track/1LwqbwADW8ZvhfCJbtdKdl) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Uh La La \(Guz Remix\)](https://open.spotify.com/album/1PPGdskLdIa9oZrMpcsHy4) | 3:21 | 2023-05-11 | 2023-05-31 |
+| [Uh La La \- Guz Remix](https://open.spotify.com/track/5EKDyGRhaqe6tU4UYiyNed) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Uh La La \(Guz Remix\)](https://open.spotify.com/album/5m0D5NtEmNzUVF05rn13pw) | 3:21 | 2023-05-25 |  |
 | [Um](https://open.spotify.com/track/5H8kWzKP4mIb8lMqEaxIXO) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Um](https://open.spotify.com/album/6s8CZ12v5a4E1kmLEgMmRI) | 5:07 | 2023-04-27 |  |
 | [Unconventional](https://open.spotify.com/track/1JlWt0i5IvccZPa5VslXaS) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Unconventional Ride](https://open.spotify.com/album/4H2UcxgnKoeE78H5j6RWNq) | 6:39 | 2022-11-24 | 2023-01-27 |
 | [Understand](https://open.spotify.com/track/1YP4xk77mKyo7HLDKf7YTC) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 3:43 | 2022-09-08 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 28 songs - 42 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 28 songs - 42 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 27 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 |
 | 28 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
 
-Snapshot ID: `MjgwODkzNzQsMDAwMDAwMDA2ZTdjNzBjOWEwZmU4NDljNjI4MDdhNzU4NmYwYjYyMg==`
+Snapshot ID: `MjgwOTExNDksMDAwMDAwMDAwYTM2MDQzNGY1NGFkNmJlYmUyN2ZjOGJiOGFkM2ZlMQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Preme
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,260 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 41 | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/track/2FxjU8KBwkhd8cUq8As0aB) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Area Codes \(773 Remix\) \[feat\. Mello Buckzz\]](https://open.spotify.com/album/5UXscuxjTNROjxeBD0yhrm) | 2:17 |
 | 42 | [London Pound Cake](https://open.spotify.com/track/3Wr0HdcLD4NHc9gCMATJK6) | [KHEM](https://open.spotify.com/artist/5oR5JjCXsdwdho4arNfO4C) | [London Pound Cake](https://open.spotify.com/album/2HlgArzRpZ0WWgzUwKFVR7) | 2:10 |
 | 43 | [SHOW YOU SOMETHING NEW](https://open.spotify.com/track/1O3gUNGJtjONST6RpnQhti) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [SHOW YOU SOMETHING NEW](https://open.spotify.com/album/6V6vn29MLbcZGd2YzYU37W) | 1:43 |
-| 44 | [LA](https://open.spotify.com/track/6KDjtO39Qq61j5gLh31Pzi) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gurjot](https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q), [4theworld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1), [Manny Music](https://open.spotify.com/artist/6CxzmoJwbRC7CYWnlyQXPF) | [LA](https://open.spotify.com/album/2NfjOP9i0j9EZPm1Jfl92f) | 3:09 |
+| 44 | [LA](https://open.spotify.com/track/6KDjtO39Qq61j5gLh31Pzi) | [Gurjot](https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q), [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [4theworld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1), [Manny Music](https://open.spotify.com/artist/6CxzmoJwbRC7CYWnlyQXPF) | [LA](https://open.spotify.com/album/2NfjOP9i0j9EZPm1Jfl92f) | 3:09 |
 | 45 | [Shinobi](https://open.spotify.com/track/3x7qgPolBilNARNwnUNBS7) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Shinobi](https://open.spotify.com/album/4r5htcG3j8krOPPHTQRSph) | 2:14 |
 | 46 | [Clique](https://open.spotify.com/track/19nfFtKHKKNSyf8ZaDMR7m) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Clique](https://open.spotify.com/album/6M1be62yMv7JvGPdrVdlK2) | 3:05 |
 | 47 | [RIGHT2IT](https://open.spotify.com/track/44UfFXMf9UDkUAyZ8zk7GF) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o) | [\*\*\*](https://open.spotify.com/album/0mQH0azKxMirXbUEUTVyKX) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Turn The Streets Up](https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Turn The Streets Up](https://open.spotify.com/album/4aCmTJ5xk0O2aVNvciRkoR) | 2:42 |
 | 50 | [Cardio](https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [21](https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm) | 3:13 |
 
-Snapshot ID: `MCw1MTE4MjQ1MDkyMmFhZjVlOGVmOTFiNTcxNmJjZWIxZDYzZjYyNmEw`
+Snapshot ID: `MCwxNjE0MGZjMTdmMzY0MzJhODE3MDc1MzNiY2FhMDc4OGIxNTE1YWNm`

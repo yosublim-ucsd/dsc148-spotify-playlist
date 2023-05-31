@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 | 65 | [Soothing Box Fan \(Loopable\)](https://open.spotify.com/track/1hicON3gopdzQOW6cVbVaF) | [Baby Sleep Aid White Noise](https://open.spotify.com/artist/6ajro3IMyJGdVN7ufmURfD), [Background Noise Catalog](https://open.spotify.com/artist/2m54cXy6ZcPG1bejgMilVq) | [Baby Sleep Aid Fan Sounds](https://open.spotify.com/album/7e0M94wGoulnR6pewEBxEr) | 1:24 |
 | 66 | [8 Hr Box Fan, Pt\. 15](https://open.spotify.com/track/2GPHRSMNm7aHBHlXXLktza) | [Sleep Sounds](https://open.spotify.com/artist/3WHzSfwUXJVcsUJrcYktC1) | [8 Hr Box Fan](https://open.spotify.com/album/0fZwn30xGBhaRPeQiAN9g6) | 1:02 |
 | 67 | [Gentle Box Fan Breeze for Sleep](https://open.spotify.com/track/7eLfJLLi6z0cKsCjElmLrR) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 2:05 |
-| 68 | [10 hours of Medium Speed Fan White Noise Sounds for Sleeping](https://open.spotify.com/track/3vySrnLFhvnb1Dg8BYwtbK) | [White Noise for Babies](https://open.spotify.com/artist/3Czx2mC782Kp7t0rNKBVhH), [White Noise Baby Sleep](https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh), [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Box Fan Sounds for the Best Sleep](https://open.spotify.com/album/0zbottdvSNFjIWIAMD60h7) | 2:00 |
+| 68 | [10 hours of Medium Speed Fan White Noise Sounds for Sleeping](https://open.spotify.com/track/3vySrnLFhvnb1Dg8BYwtbK) | [White Noise for Babies](https://open.spotify.com/artist/4ZfEELHfyKd4odAb6YfDFw), [White Noise Baby Sleep](https://open.spotify.com/artist/4W12lEvVl5wectUtRNrvDh), [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Box Fan Sounds for the Best Sleep](https://open.spotify.com/album/0zbottdvSNFjIWIAMD60h7) | 2:00 |
 | 69 | [Box Fan Sound](https://open.spotify.com/track/6g9DAYPHnSX0WgZinPUBIg) | [Sleep Guide](https://open.spotify.com/artist/6tgXScWP1HLGNgyOFcRg0K) | [Box Fan Sound](https://open.spotify.com/album/37K6llZSPwt6y4MXazi26g) | 1:30 |
 | 70 | [White Noise: Two Fans](https://open.spotify.com/track/6YSPzI6GfyQ49WhNMEZB8m) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Electronic White Noise Therapy](https://open.spotify.com/album/7rGL3cyPxZCaxIN12UGJSl) | 3:23 |
 | 71 | [8 Hr Box Fan, Pt\. 12](https://open.spotify.com/track/1AE9iyUxE0wIH0WzHF3yXK) | [Sleep Sounds](https://open.spotify.com/artist/3WHzSfwUXJVcsUJrcYktC1) | [8 Hr Box Fan](https://open.spotify.com/album/0fZwn30xGBhaRPeQiAN9g6) | 1:08 |
 | 72 | [White Noise Box Fan](https://open.spotify.com/track/70mSbSY5IOcidVw6SIxvZX) | [ASMR Fan Sounds](https://open.spotify.com/artist/1TuVDXIicIwlnbuCdzdBVh) | [White Noise Box Fan](https://open.spotify.com/album/1N7PqXAuB982uuscz5ymIh) | 2:47 |
 | 73 | [Box Fan Rest Sound](https://open.spotify.com/track/6O5fgmjLSEtW1hHdFAR14I) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 3:42 |
 
-Snapshot ID: `MCxjMzQ4ODNhYzRiZGQ3ZDhkN2VhYTQwNjVlNWIyNjU5MDM2M2I1ZTMz`
+Snapshot ID: `MCw3MTNmY2I5OGEwNGZhYTZiMzg0NTM1NjA5M2EyNDI2YTA5NzUzNmZl`

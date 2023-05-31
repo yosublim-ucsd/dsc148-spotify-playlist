@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,978 likes - 80 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,172 likes - 80 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Higher](https://open.spotify.com/track/5ju2w8RfI79r2fE3nTOXDK) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Higher](https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY) | 3:28 |
 | 80 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 
-Snapshot ID: `MCw4NWMxZDRjODlmNGY2NjQ4M2M0MjlmYjg2NmFiMjY1NzNkYzgwY2Y5`
+Snapshot ID: `MCwxYjFmODJkMmU2M2ZjMDU1NjFhNmFmOGE5NTFjYTg4MzdmZTg4NmU0`

@@ -6,8 +6,44 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY5NixkZTgyNDUwOTgzNjg1MzVmZjM1NTdmZDliZjIyMjY0ZTg5NjM1Mzlm",
+  "snapshot_id": "MzY5OCw4NjQwYThkYzhmM2Y2MmI3NDhmMWM1MjAzMzU3ZmI0NWM1YmVlZmFh",
   "tracks": [
+    {
+      "added_at": "2023-05-30 09:17:46",
+      "album": {
+        "name": "It's Euphoric (Georgia Remix)",
+        "url": "https://open.spotify.com/album/6HuxEcWwJeMLMmndIugtWt"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "It's Euphoric - Georgia Remix",
+      "url": "https://open.spotify.com/track/5IJ15LSmdUsmWnsRwcsth1"
+    },
+    {
+      "added_at": "2023-05-30 09:17:28",
+      "album": {
+        "name": "Polacrilex Kid",
+        "url": "https://open.spotify.com/album/6TwY0X9NdB3YMMasN1y4Rm"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 228167,
+      "name": "Polacrilex Kid",
+      "url": "https://open.spotify.com/track/23GqtFiHCLU3DaFlTyX9uL"
+    },
     {
       "added_at": "2023-05-24 14:45:42",
       "album": {

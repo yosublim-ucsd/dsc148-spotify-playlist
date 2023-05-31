@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: BOWPRAT\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,968 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,973 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 74 | [NO.1](https://open.spotify.com/track/3tpKwPBhe8j4kvlXQ8KERl) | [NwN YD](https://open.spotify.com/artist/2pKNB91zsSoPmwm6qlaWPr) | [NO.1](https://open.spotify.com/album/4fjjSVwuXR42NZbhRXT7to) | 2:45 |
 | 75 | [ตรงที่ไม่มีเธอ](https://open.spotify.com/track/0bLP3iGfvnZTXeiK1MOxPu) | [BOSSSICK](https://open.spotify.com/artist/246MafiP1QJBE888UZ3PRL) | [ตรงที่ไม่มีเธอ](https://open.spotify.com/album/4Qxe9B4Qqc1P8CicQLGWCb) | 3:33 |
 
-Snapshot ID: `MCw2ODEzMzZlN2U0Mjg0M2U2ZGE4NDhiMjMxNmJhYzBjMmQ5MmJkZTEx`
+Snapshot ID: `MCw3NDkzZWJmM2NkZjI5OWNmN2Q5ZDg4MTM3Y2JiMTIwYzBlOTgwNzJl`

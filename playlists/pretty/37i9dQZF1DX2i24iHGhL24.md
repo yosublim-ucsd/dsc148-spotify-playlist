@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,514 likes - 162 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,580 likes - 162 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 161 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
 | 162 | [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 |
 
-Snapshot ID: `MCxkYzI1N2M0ODJmZDA0ODhiNmNhNGMwNzcxM2U2MDk1NWE5ZDE0OWMz`
+Snapshot ID: `MCxlMGFjOGY4NjhkNDk4NTczNDMxOWQ3N2MyNjg2ZWEzZGU2MTEwN2Y0`

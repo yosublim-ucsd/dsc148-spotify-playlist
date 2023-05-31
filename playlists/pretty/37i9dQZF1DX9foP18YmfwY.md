@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Aline Brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,735 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,864 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Santa Maria das Criancinhas](https://open.spotify.com/track/7JHagjKO0odXVQAwHfjJjk) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Júlia Melo](https://open.spotify.com/artist/2AcaqHSl3NYQZORUxnUygt), [Nilton Duarte](https://open.spotify.com/artist/7KrQ1ROzmauhfaevQDXwG3) | [Santa Maria das Criancinhas](https://open.spotify.com/album/2JgGFjBhY7pPOfBlfhtTwC) | 5:02 |
 | 70 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 
-Snapshot ID: `MCxjNTFiMDAyZDg3NjM1NTI5ZGQ2MGY4NTg5OTI1ZmY3ZWUyMjM5MDI4`
+Snapshot ID: `MCxlNzQ5NDAzYjlhMGZkM2JlYTI4MWMzNjE1NWY1NDkwMDQ3NjcxNGUx`

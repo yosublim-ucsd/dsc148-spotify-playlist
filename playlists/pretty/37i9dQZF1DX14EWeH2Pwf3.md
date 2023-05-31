@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Ernia, Bresh, Fabri Fibra
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,410 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,675 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
-| 2 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
+| 1 | [Intro La Divina Commedia](https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Intro La Divina Commedia](https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3) | 2:41 |
+| 2 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 |
 | 3 | [PARAFULMINI \(con Bresh & Fabri Fibra\)](https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IO NON HO PAURA](https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO) | 3:28 |
-| 4 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
-| 5 | [Intro La Divina Commedia](https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Intro La Divina Commedia](https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3) | 2:41 |
+| 4 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 |
+| 5 | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Gelosa \(feat\. Shiva, Sfera Ebbasta, Guè\)](https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi) | 3:01 |
 | 6 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 7 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
 | 8 | [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
 | 50 | [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 |
 
-Snapshot ID: `MCw1ZTYxNjI0ZmNiOTVjNzMyYTIxMjYyMzc4ZGMzYWY5NDAwMjczOThk`
+Snapshot ID: `MCw0OGM2ZDRlZjYzYzJiN2FlYjA1NDNlYjc3ZmZlODVjMWQ0YjkyYmNh`

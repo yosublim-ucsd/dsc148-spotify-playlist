@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,573 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,610 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 39 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 |
 | 40 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 |
 | 41 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 |
-| 42 | [Here Is That Rainy Day](https://open.spotify.com/track/2OMdeDUpMJdWmsYm9x7cxM) | [Lissie Lane](https://open.spotify.com/artist/6v8NL7nzdB6eDICGrOxn8V) | [Misty](https://open.spotify.com/album/4im0vaW5Oa6WZGxnPU7nHo) | 2:24 |
-| 43 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 |
-| 44 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 |
-| 45 | [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 |
-| 46 | [I'll Be Seeing You](https://open.spotify.com/track/0KTPLB6sLuMnZ9ano7LA7c) | [Isaac Clough](https://open.spotify.com/artist/6Dkbd6XA0kB66pT1wWlfKS) | [I'll Be Seeing You](https://open.spotify.com/album/0g2TfniROywbNxQlqHiEFc) | 2:11 |
-| 47 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 |
-| 48 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 |
+| 42 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 |
+| 43 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 |
+| 44 | [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 |
+| 45 | [I'll Be Seeing You](https://open.spotify.com/track/0KTPLB6sLuMnZ9ano7LA7c) | [Isaac Clough](https://open.spotify.com/artist/6Dkbd6XA0kB66pT1wWlfKS) | [I'll Be Seeing You](https://open.spotify.com/album/0g2TfniROywbNxQlqHiEFc) | 2:11 |
+| 46 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 |
+| 47 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 |
+| 48 | [Here Is That Rainy Day](https://open.spotify.com/track/2OMdeDUpMJdWmsYm9x7cxM) | [Lissie Lane](https://open.spotify.com/artist/6v8NL7nzdB6eDICGrOxn8V) | [Misty](https://open.spotify.com/album/4im0vaW5Oa6WZGxnPU7nHo) | 2:24 |
 | 49 | [Jitterbug Waltz](https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Polkadots and Moonbeams](https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa) | 2:35 |
 | 50 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 |
 | 51 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 78 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 |
 | 79 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MCw0N2ZmNDIzMTkxOTE2NzBkMjJiMzI0ZjYwMThmNWU4MmU5MjJkZDBi`
+Snapshot ID: `MCxlNTVhOWE4NjJmMzg5NTE5NWJiY2NkZDFjZDlkODg5NTE3OThkMWI5`

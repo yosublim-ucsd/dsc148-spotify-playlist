@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\(박재범\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: xooos\)
 
-574 songs - 1 day 6 hr 58 min
+575 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [101](https://open.spotify.com/track/6DqaDchUydHe8upf4F59os) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 2](https://open.spotify.com/album/5hNnV6eRN7XatL7GgPRTHw) | 2:40 | 2023-01-10 | 2023-01-19 |
 | [19 \(Feat\. nobody likes you pat\)](https://open.spotify.com/track/6UQ4rhZ84ONsLoav2OizQO) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [High\-teen](https://open.spotify.com/album/7btdv5NiqdVwA2CJm4vYZk) | 3:07 | 2022-04-21 | 2022-05-08 |
 | [2 Years](https://open.spotify.com/track/2viVHeVDP4ia40yrCsCj3T) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [2 Years](https://open.spotify.com/album/0PP2qffCyioagNGq9w1uhM) | 2:46 | 2022-04-19 | 2022-07-25 |
-| [25](https://open.spotify.com/track/0gtgDeAIQZinZIcWkaukqN) | [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez) | [25](https://open.spotify.com/album/12wO8A8Udq8D2ilFSQsZB5) | 2:53 | 2023-05-03 |  |
+| [25](https://open.spotify.com/track/0gtgDeAIQZinZIcWkaukqN) | [EPTEND](https://open.spotify.com/artist/3X5atTeD09WXIpSzEq1Mez) | [25](https://open.spotify.com/album/12wO8A8Udq8D2ilFSQsZB5) | 2:53 | 2023-05-03 | 2023-05-31 |
 | [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-07-27 | 2022-08-03 |
 | [2easy \(feat\. Heize\)](https://open.spotify.com/track/1aRgsJJJMIAaZgiOtGRMl0) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [2easy \(feat\. Heize\)](https://open.spotify.com/album/6z59ngnlAPSrwICRPk2KyR) | 3:39 | 2022-04-19 | 2022-07-27 |
 | [2lazy2luv \(feat\. Clavita, Lokid\)](https://open.spotify.com/track/3bUsC0mobml77F92cysmXf) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7), [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [2lazy2luv](https://open.spotify.com/album/6bfO1PZIr2hLK5ZOHgrx5V) | 3:16 | 2022-07-14 | 2022-07-20 |
@@ -28,7 +28,7 @@
 | [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-12 | 2023-02-25 |
 | [absence](https://open.spotify.com/track/6HVB5lL5MEaTpl4mYRPUIT) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [absence](https://open.spotify.com/album/4zhI9laN70F0aMvoqltLmG) | 3:20 | 2022-04-19 | 2022-04-21 |
 | [AGAIN \(feat\. LEON\)](https://open.spotify.com/track/0RZPROOanNDDjfGktwqEgL) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [LEON](https://open.spotify.com/artist/7ijJey8ARbQjtLur6JpyK2) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:16 | 2022-05-11 | 2022-07-13 |
-| [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-03 |  |
+| [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-03 | 2023-05-31 |
 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 | 2022-04-19 | 2022-07-28 |
 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 | 2022-09-05 | 2022-09-21 |
 | [algorithm](https://open.spotify.com/track/27zb6pgYkmgpeD4kLNPdBQ) | [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [algorithm](https://open.spotify.com/album/70sbsUFZH7F476QOof1pw6) | 2:09 | 2022-04-19 | 2022-04-21 |
@@ -43,7 +43,7 @@
 | [Always Here](https://open.spotify.com/track/6SWxLW8d1PyRy8yIi0kBlP) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [Always Here](https://open.spotify.com/album/0JeDwEKriOIGuIlk6HsPOP) | 3:34 | 2022-06-23 | 2022-06-30 |
 | [Amazing](https://open.spotify.com/track/5u05Rmpk6tafcD7226IxvV) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Amazing](https://open.spotify.com/album/5j6mRb3Yo9jkL7R8hNXt21) | 2:47 | 2022-12-19 | 2022-12-27 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-11 | 2022-05-29 |
-| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 | 2023-05-16 |
+| [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 |  |
 | [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-27 | 2023-04-17 |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2022-12-16 |
 | [Anniversary](https://open.spotify.com/track/2m0SbQ7CHTGNIsL3XUHyOh) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Anniversary](https://open.spotify.com/album/39tkZG9vhYL6fckCwRo340) | 2:22 | 2022-04-19 | 2022-04-21 |
@@ -60,6 +60,7 @@
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2022-04-21 | 2022-08-13 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
+| [Bad At Us](https://open.spotify.com/track/12EhuKuFOOs7sBMbajhDNW) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH) | 3:19 | 2023-05-30 |  |
 | [BAD BAD \(Feat\. Tabber, Jay Park\)](https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:34 | 2023-03-10 | 2023-04-01 |
 | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/track/2uFxjq8W6lbVNJDg0EoRgd) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/album/0DuMzsjufFCk6yHUMnMgxz) | 3:47 | 2022-06-03 | 2022-06-19 |
 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 | 2023-02-20 | 2023-03-10 |

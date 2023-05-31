@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,091 likes - 400 songs - 1 day 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,167 likes - 400 songs - 1 day 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [On a Misty Night](https://open.spotify.com/track/5ehmctMo8g8GbqQXlxP43W) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 5:44 |
 | 400 | [Elinde Sazin Qurbani](https://open.spotify.com/track/0ywJlxGPnsWkPKWlo9RSfb) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:07 |
 
-Snapshot ID: `MCw0OTIxMGRmMzVjODUyYjUwOGM4NWMzNTIzODA0YmIzNmMyNTE4YTE2`
+Snapshot ID: `MCxkNTRiYjc1ZTI2N2EyNTUwYjhlOGYwNDQwNzE5NmUyYWIwMDY5OWEy`

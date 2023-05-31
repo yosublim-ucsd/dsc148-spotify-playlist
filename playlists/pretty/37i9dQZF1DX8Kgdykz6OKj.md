@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,418 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,834 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [One from the Tap](https://open.spotify.com/track/7yKwYibH6UtJfM1Cz1zOuI) | [Flatpocket](https://open.spotify.com/artist/1C3kvlK0zb8LkXCu5KQSAn), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Lazy Jones](https://open.spotify.com/artist/28rEEGnYrfwBxrVVUsolgX), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds) | [Dispo II Dispo](https://open.spotify.com/album/0hqzuv2DZlCur5iLv8IkHz) | 1:32 |
 | 100 | [Politickin](https://open.spotify.com/track/180Ul0jLSJ1YmfxmIc1QaT) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Rosy Lee](https://open.spotify.com/album/7LYbXIq3V4Sj9S9Rnsl1LK) | 3:25 |
 
-Snapshot ID: `MCw2M2Y5NjY3ZTZkM2Y1ZDEwZDg0ODM4M2JiNjM3NjExZWE1ODA3Nzcx`
+Snapshot ID: `MCw4MTc3YzIxN2ZkYTM1OGUwMmQ2N2Y3ZjJlZTEyOWMxMTgwZWY5YTI0`

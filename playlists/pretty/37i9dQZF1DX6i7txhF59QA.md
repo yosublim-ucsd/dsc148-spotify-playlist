@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: SUNGMIN\(성민\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,561 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,578 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 |
 | 100 | [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 |
 
-Snapshot ID: `MCw2YTAwYmQ2YTU2ZjViZDdmYjczZjcyY2Q5MGNjMDM3ZWIxZjRhYTdi`
+Snapshot ID: `MCxjODRkNWQzNWU3YTcxOWQ1ZTgxN2Q5MTJkN2NlZDZkZjMzNjI5YmNh`

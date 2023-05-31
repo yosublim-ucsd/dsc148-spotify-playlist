@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-83 songs - 4 hr 37 min
+84 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [I Don't Care Tonight](https://open.spotify.com/track/6kZwi3zqzCwVejpjYfIaOa) | [Misha Wong](https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0) | [I Don't Care Tonight](https://open.spotify.com/album/4WZaOHiKK6GLGimpLPHZC3) | 3:48 | 2023-05-26 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 |  |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 |  |
+| [I Wish I Knew](https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Eve Jones](https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2) | [I Wish I Knew](https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8) | 2:47 | 2023-05-30 |  |
 | [Imaginary Friend](https://open.spotify.com/track/7f7GnNw5gENI7Rpq45Ft5R) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [First Boy In Space](https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF) | 3:40 | 2023-02-23 | 2023-05-26 |
 | [In Between](https://open.spotify.com/track/4eckDYgci1yENJ2uQHce4k) | [Sheila and The Kit](https://open.spotify.com/artist/3EYBjavx2VfeoBhQjwMz74) | [In Between](https://open.spotify.com/album/7qB5fb3CM75F2SEtVNriYT) | 3:47 | 2023-02-23 |  |
 | [Into Your Head](https://open.spotify.com/track/5VY9wxhKgJJula88AQVOei) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/2mhAyi89acxMmBxj8hdWj4) | 2:52 | 2023-02-23 |  |

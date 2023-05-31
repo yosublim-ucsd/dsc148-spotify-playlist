@@ -1,12 +1,12 @@
 {
   "description": "Unearthing your new favourite artists. Cover: ALVN. Artwork: Isu Kim.",
-  "num_followers": 5017,
+  "num_followers": 5019,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjA5YzdhMWY1NzRlYTFjYzcwNjc0N2I0MjNiMGZlYjA5NGMwNzVm",
+  "snapshot_id": "MCxkZmY1MTExN2JlZTdiOTQ3NjI0MjQ4YzJlMTExMTYwMTk3Njc4Zjgx",
   "tracks": [
     {
       "added_at": "2023-05-26 05:13:42",
@@ -1828,12 +1828,12 @@
           "url": "https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK"
         },
         {
-          "name": "ABANGSAPAU",
-          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
-        },
-        {
           "name": "Dan Rafaael",
           "url": "https://open.spotify.com/artist/0CzAGxgTgfwF5Z8QQnc6yi"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
         }
       ],
       "duration_ms": 124745,

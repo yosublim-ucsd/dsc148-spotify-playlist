@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Tom Waits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,085 likes - 150 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,452 likes - 150 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [I Wouldn't Want to Be Like You](https://open.spotify.com/track/5dbcQ5D5EnBK4mO3Oygzeu) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [I Robot \(Expanded Edition\)](https://open.spotify.com/album/44VunLimdsXo2C6figBmwj) | 3:21 |
 | 150 | [Seasons in the Sun](https://open.spotify.com/track/0X3d9gx7UDYgcwwkgTeNLR) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 3:29 |
 
-Snapshot ID: `MCwyNWUzMTIwMzViMzdiOGUyOTY4ZmRhNGI5YjY1NjgyMjJkNWNiNDdk`
+Snapshot ID: `MCw4NjkwODhjY2Y5YmMxOWIyYWMxYjRlY2Q3MjhlODU2MmY4Mzc2NjBl`

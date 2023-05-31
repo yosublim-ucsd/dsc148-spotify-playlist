@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,647 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,682 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 |
 | 125 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 |
 
-Snapshot ID: `MCwwYmU2NWE1OTJiZWI5OWZmNmQ2MTdmN2Y2NDk1MmVkM2Y5MWYxOWQx`
+Snapshot ID: `MCw3OGUzMDkyNmUzZDcwNDU4Yzg2OTA1MmUyOGI5ZDAzM2YwNzUyY2M1`

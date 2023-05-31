@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-86 songs - 4 hr 5 min
+87 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [GAAAA](https://open.spotify.com/track/7a3VsUQwJdaARJYzYQlL27) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb) | [Syndrome IV](https://open.spotify.com/album/0ZZi255RBmP7dgDYPkggJg) | 3:03 | 2022-11-19 | 2023-05-24 |
 | [GEISYA3.0](https://open.spotify.com/track/1nZvLQD4eqhMT31Of41Zzj) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Satoru](https://open.spotify.com/artist/3FVw1kdpgyiIprj2iQ9Qrt), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [The Legend of TOFU \(Deluxe\)](https://open.spotify.com/album/3EsP7E6bsStQ9LVbCu9XNa) | 2:32 | 2022-11-19 | 2023-05-24 |
 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 | 2022-11-19 |  |
-| [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 | 2022-11-19 |  |
+| [Go](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 | 2023-05-23 |  |
+| [Go](https://open.spotify.com/track/1bdbr1uDAQMVxY9HXts4uW) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/3h5PA716UNNgWEl2HW1nSJ) | 3:25 | 2022-11-19 | 2023-05-31 |
 | [Gotta go](https://open.spotify.com/track/0nnFFROaJSapPjoDzzVHUM) | [RØØ](https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gotta go](https://open.spotify.com/album/2oOaikSaRa7PQjPKt35hHv) | 2:37 | 2022-11-19 | 2023-05-24 |
 | [Haunted Woods](https://open.spotify.com/track/67Q3ewenfVGwKW3XRD0owt) | [tanta](https://open.spotify.com/artist/6eKqglYANhgKUkoKI6QxBz), [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9) | [Haunted Woods](https://open.spotify.com/album/66dAWUgWUgGZ5l0u1W2kGu) | 2:14 | 2022-11-19 | 2023-05-24 |
 | [Hooligan](https://open.spotify.com/track/6E2BbzUWoSmFXInBBzN0AT) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4ZCqXTmjVkYrhWMEO0qHtw) | 2:37 | 2022-11-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,967 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,040 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 |
 | 100 | [I Wish](https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [I Wish](https://open.spotify.com/album/5bD9iZ8X5SoXJDZfVy3gXn) | 3:27 |
 
-Snapshot ID: `MCxjZTg0NmU2Y2ViOTg4ZjEyMGY5NDcyZTZlNThmM2IyMWM1MTFkMTI5`
+Snapshot ID: `MCw4NTdmMmRiYzVlMmUyNTI4NTkxY2M3YTdiOTEyNTQ0MjdhNGI2MTY1`

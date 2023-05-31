@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,373 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,656 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
 | 75 | [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 |
 
-Snapshot ID: `MCwxZjY3YmFhNzRlYjg4ZmQ4OWJiNDhkZmMyNzQ4YTkzZWQ5MGUzODY0`
+Snapshot ID: `MCwzZGRiZTI5ZDRjN2VjZGFiM2FiYjVhZmE1ZDE5OTA0YWNjZDliMGQ2`

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-246 songs - 15 hr 46 min
+247 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 |  |
-| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 | 2022-12-12 |
+| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 |  |
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
@@ -75,6 +75,7 @@
 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 | 2021-12-15 | 2022-07-29 |
 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 | 2022-02-14 | 2022-06-28 |
 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 | 2023-05-12 |
+| [Fine](https://open.spotify.com/track/7xr1eQGbgOY3X3mxlBuNzP) | [Bornside](https://open.spotify.com/artist/2mjELQUXJT0zJmuuStveX3) | [Fine](https://open.spotify.com/album/7D4OScfr4c3qZDRFmrDgAA) | 3:49 | 2023-05-30 |  |
 | [Fire](https://open.spotify.com/track/7EZXYslJB5VZUbGma0kt9c) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 6:34 | 2023-03-30 |  |
 | [Fire Fire](https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ) | 3:52 | 2022-11-28 | 2023-02-01 |
 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 | 2021-12-15 | 2022-07-29 |
@@ -137,7 +138,7 @@
 | [La chute](https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD) | [Guerilla Poubelle](https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF) | [L'ennui](https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N) | 2:47 | 2021-12-31 |  |
 | [La surface](https://open.spotify.com/track/3t6pTuxxYtNAuvrbsgyUJo) | [Lofofora](https://open.spotify.com/artist/09FUvSbZ07BWPmu8POjHNN) | [Vanités](https://open.spotify.com/album/4XBVqRJsC6DF3l2wzMKj0C) | 4:15 | 2021-12-15 | 2022-07-29 |
 | [Laugh/Cry](https://open.spotify.com/track/2JafhZDgYrYrOMpuqwEUX3) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Laugh/Cry](https://open.spotify.com/album/2JNbY5bbc5jhdyz3s3c6V8) | 2:51 | 2023-05-11 |  |
-| [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 | 2022-04-04 |  |
+| [Le Squinfus](https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn) | [Stone From the Sky](https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD) | [Songs from the Deepwater](https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd) | 4:44 | 2022-04-04 | 2023-05-31 |
 | [Leaving This Behind](https://open.spotify.com/track/2z7hRS0slQ2CLCw9orYznT) | [Top Tier](https://open.spotify.com/artist/0E4c3bUl6xhYUlc854FN8O) | [Leaving This Behind](https://open.spotify.com/album/62cdeUBCVamCTgBTElT4ef) | 2:11 | 2022-01-03 | 2022-07-26 |
 | [Living Hell](https://open.spotify.com/track/0FtVjdaaXEtdkELALSHsAC) | [Dead Myth](https://open.spotify.com/artist/6KSJGowqCABXcXI9bmGVFC) | [Living Hell](https://open.spotify.com/album/6yZGO09kc7XJ863zH5UocO) | 3:01 | 2022-03-24 | 2023-01-27 |
 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 | 2021-12-15 |  |
@@ -171,7 +172,7 @@
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 |  |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |
 | [Passing On](https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4) | [Untitled With Drums](https://open.spotify.com/artist/4XiFVuDepsbUebkmNbTjlu) | [Hollow](https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ) | 4:05 | 2021-12-15 | 2022-07-28 |
-| [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 |  |
+| [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 | 2023-05-31 |
 | [People In The Shadow](https://open.spotify.com/track/13Kk7Slvx443ZmMAFB9fjP) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late \(Super Deluxe Version\)](https://open.spotify.com/album/2D9zCv79mWQw6j3nRTcf4N) | 4:30 | 2022-04-17 | 2022-07-29 |
 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 | 2023-05-01 |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |

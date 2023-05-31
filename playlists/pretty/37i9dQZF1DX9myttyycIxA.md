@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Homeschool
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,751 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,791 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [All Good Fun](https://open.spotify.com/track/51Rn2Zin9vYbf3Mfn02RdX) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Mo Lowda & the Humble](https://open.spotify.com/album/4qyQfforE8s0Vy1iBHEwuq) | 3:40 |
 | 100 | [Costumes](https://open.spotify.com/track/31vJeKw9YQBoKLzw1pbxvy) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Costumes](https://open.spotify.com/album/5NQ3LtPwZHIfxtXFB69LL9) | 2:16 |
 
-Snapshot ID: `MCwzMTUzMjU4YzdjNWU2ZjEzMTFmMzJiMTc4MGM0YTM5ZDhkYWViMWMx`
+Snapshot ID: `MCxmYTY4NzJkNDgzNDdkOWU5YzRkOGM1Zjk3ZWZhZDZjMjc0MjIwMDkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,258 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,296 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 119 | [Hear Me Singing \(Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Double Cream](https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN) | 3:17 |
 | 120 | [Recovery Time](https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Recovery Time](https://open.spotify.com/album/2zkwPbAe8duHRZP62hmg9s) | 3:43 |
 
-Snapshot ID: `MCxiYzU1ZGNiY2JlNDA4ODk4MDBiMTNiZDM4YWMyZGY3MjU4NWI3Yjlm`
+Snapshot ID: `MCxiMGIxOTYxMTg2MjIzYzVhOWQ4MDNmOTM2NWIwMjgxNDU0MjY5OWYw`

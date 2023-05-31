@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,064 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,135 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 99 | [When It Suns It Shines](https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE) | [Alicia Gail](https://open.spotify.com/artist/4Q9CkAPfAQBeHWs1q0h23k) | [When It Suns It Shines](https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p) | 4:30 |
 | 100 | [Chinook Blues](https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR) | [Alice Di Micele](https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX) | [Chinook Blues](https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5) | 5:09 |
 
-Snapshot ID: `MCw1OWY0MDU4ZWFhNDllYjY2M2MzYThhOWRiOTFlOGIyOTNmZDEyMGVi`
+Snapshot ID: `MCwxOWU0MmU0YzIxNTg0ZDg1MzNhODY1ZDVhN2Q0NzFhNWQwZjU2NmJi`

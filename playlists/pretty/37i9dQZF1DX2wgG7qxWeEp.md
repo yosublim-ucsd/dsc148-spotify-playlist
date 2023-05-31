@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain](/playlists/plain/37i9dQZF1DX2wgG7qxWeEp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2wgG7qxWeEp)
 
-### [Verano Mix](https://open.spotify.com/playlist/37i9dQZF1DX2wgG7qxWeEp)
+### [Verano Mix 2023](https://open.spotify.com/playlist/37i9dQZF1DX2wgG7qxWeEp)
 
-> Esto es un party por debajo del agua.
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,984 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,996 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wgG7qxWeEp.md) - [plain]
 | 99 | [Tigini \(Remix\)](https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini \(Remix\)](https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe) | 2:55 |
 | 100 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
 
-Snapshot ID: `MCxkMmFkZmVkNWZiMjc0N2JiMzI2YzY2MTRmNTAwN2RjMTZmNjFmZTc4`
+Snapshot ID: `MCw4ZTRhZDNhNmEyYTExNTNjNTRhY2JiZDU3OWVkNDNkNmY1NzUwNzg5`

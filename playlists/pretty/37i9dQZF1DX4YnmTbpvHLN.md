@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 
 > Degusta de lo más delicioso para cenar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,833 likes - 300 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,826 likes - 300 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YnmTbpvHLN.md) - [plain]
 | 299 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 |
 | 300 | [My Perennial Companion](https://open.spotify.com/track/1dWOpasvS3pVvnpEqPYVSh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [My Perennial Companion](https://open.spotify.com/album/7sqahvp0GRSsUMvFxEdZmA) | 3:26 |
 
-Snapshot ID: `MCw0YTJiNTUxZjhkN2Q1ZDcyOWE1MWRhNjM1Y2RmMWE5ZDUwNGI5MTY2`
+Snapshot ID: `MCxkYjQ1ZWU5ODYxN2M0YThmMDgwN2NjYjk0Njk4ZjJiNThjY2EyZWJh`

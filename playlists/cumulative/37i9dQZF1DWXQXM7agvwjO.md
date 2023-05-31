@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: Reality Club
 
-796 songs - 1 day 23 hr 43 min
+797 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [KALA](https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Mario Camarena](https://open.spotify.com/artist/1C5b4zPDtIjrhOVVvBBtCZ) | [SIMILAR](https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA) | 3:19 | 2023-03-23 | 2023-05-19 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-31 | 2023-05-05 |
-| [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-25 |  |
+| [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-25 | 2023-05-31 |
 | [Kill Your Ego](https://open.spotify.com/track/3aBSxQLr3hBNZmkb6JxFhr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Kill Your Ego](https://open.spotify.com/album/5AOJIBmdhYFHrZKsZy8fTj) | 3:50 | 2022-06-09 | 2022-06-17 |
 | [Killer](https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:18 | 2023-04-20 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-26 | 2022-07-29 |
@@ -639,6 +639,7 @@
 | [Thinkin' Bout Me](https://open.spotify.com/track/1vYVy0C40JfBo8l6Rhv2QK) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Thinkin' Bout Me](https://open.spotify.com/album/1oJq5u10EdD29i5HJ4XXvY) | 3:53 | 2022-09-22 | 2022-10-07 |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-02-02 | 2023-03-03 |
 | [This City](https://open.spotify.com/track/6HCzzybrDpWJfvrTYtbRn3) | [Feby Bachtiar](https://open.spotify.com/artist/79Qrl5DlQ2pFXKfXrVi4MM) | [This City](https://open.spotify.com/album/3u08f4jtvJh72AwnqfSEHc) | 4:39 | 2022-09-29 | 2022-11-25 |
+| [THIS IS THE INTERNET](https://open.spotify.com/track/5c9pk3Vijagvi5gvUM0iLm) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SKETCHTAPE VOL.1](https://open.spotify.com/album/2zGzxtcjTe8WaOgA6ky2vN) | 3:04 | 2023-05-30 |  |
 | [This Is Where I Leave You](https://open.spotify.com/track/1XdkU9HeHcHaKxLjIjP7c0) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO) | [This Is Where I Leave You](https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE) | 4:05 | 2022-05-26 | 2022-07-08 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-06 | 2022-06-17 |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |

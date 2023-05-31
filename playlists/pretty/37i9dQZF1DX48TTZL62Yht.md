@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Lil Durk, J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,051 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,136 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 |
 | 100 | [2055](https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [2055](https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf) | 2:03 |
 
-Snapshot ID: `MCw2NWQzYmI2NWVjNDQ5MjJhOGM1OGI1NGNiMjU5YTMxZWNjMzlhMzli`
+Snapshot ID: `MCwyMThjNTE3YWUzNGVlYzUxMmI2NWRiMDE1MmE2NjM0ZjBmYmNjYzM1`

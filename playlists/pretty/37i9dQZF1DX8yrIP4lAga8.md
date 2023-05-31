@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,270 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,308 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 50 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
 
-Snapshot ID: `MCw1ZWI4MjJhMjcxY2NmMTAzNmQ3OTNlOTE3YWVlYTk4OGUxYzM0MWZi`
+Snapshot ID: `MCw4YmZlZTdmOGE4NTU5ZjFiZjkxYTM0NjcyZDEyMzBmMDA0MDhjYzAz`

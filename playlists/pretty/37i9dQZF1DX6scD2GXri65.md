@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,410 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,639 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Masterpiece](https://open.spotify.com/track/73YSqgqVJEEq5dl4K8tgCF) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB) | [Masterpiece](https://open.spotify.com/album/6LHgTS7CpEiw3l9s0hGCTQ) | 3:40 |
 | 80 | [Thundercloud \(Not Alone\)](https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Thundercloud \(Not Alone\)](https://open.spotify.com/album/6AWo8m1dChoaCJUzIicpZw) | 4:09 |
 
-Snapshot ID: `MCw3NTA1MmZhNzVjM2M3YjM3YWM0NWZjOGZlNjk5MGUwYjgxMDMzNGRm`
+Snapshot ID: `MCxmNTBlOWFjZjViZWRmMWFlNjM5YTlhMzg4NzkyNDYwNTEwMzRmN2Vk`

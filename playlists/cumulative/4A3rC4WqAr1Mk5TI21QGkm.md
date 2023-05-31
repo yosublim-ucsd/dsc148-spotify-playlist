@@ -4,7 +4,7 @@
 
 > 
 
-185 songs - 10 hr 30 min
+186 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [East Coast](https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 4:37 | 2022-04-19 |  |
 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 | 2022-05-30 |  |
 | [Evil Zero](https://open.spotify.com/track/1WoY4X6vgdYHv5zJVO0th4) | [Scoped](https://open.spotify.com/artist/3e1LBn6TnaswAdYexRRUlj) | [Evil Zero](https://open.spotify.com/album/2lrdd8Y5C9OQKtQbREstOP) | 1:54 | 2022-03-28 |  |
+| [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2023-05-30 |  |
 | [F Song](https://open.spotify.com/track/4z9KVNX4hmk672SJfhtQNz) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song](https://open.spotify.com/album/5ZacQ1N3XCqVC1urIKTAWH) | 3:44 | 2022-09-07 |  |
 | [Feel me](https://open.spotify.com/track/5ONsezUm3ZH10aj7IvzJJY) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Do you mind EP](https://open.spotify.com/album/4bXmI2H2vWMIO5vqi5i2hN) | 4:04 | 2021-12-18 |  |
 | [Final](https://open.spotify.com/track/7FIq9VqTIBmuqHxXmJd4db) | [Heyser](https://open.spotify.com/artist/0cZhK4WVdeQkoRdKpXJD2j) | [Dejame Soñar](https://open.spotify.com/album/48C1uzXNJCLXu7VfrRXLCl) | 4:25 | 2021-07-17 |  |

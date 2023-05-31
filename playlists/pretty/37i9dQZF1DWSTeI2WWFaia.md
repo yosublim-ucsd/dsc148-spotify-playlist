@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,941 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,078 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [MOTHERLESS \- Single Version](https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [MOTHERLESS](https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ) | 3:33 |
 | 50 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 
-Snapshot ID: `MCxhMmU4MDdhMTA1NWE1OWRhZGZhZWU2M2RjMDE1MGZjNTNmNDBkOWFi`
+Snapshot ID: `MCxlOTE4NGUxOTlmMWU1YzlmMzBjYzlhMTdlYTVlZWEyOTI3NWIzYTY0`

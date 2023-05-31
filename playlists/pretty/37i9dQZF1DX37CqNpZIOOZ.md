@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,526 likes - 58 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,536 likes - 58 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [Ariadne auf Naxos / Prologue: "Ein Augenblick ist wenig"](https://open.spotify.com/track/7FWRFBUh0ETGb1ANRGX8tB) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Edita Gruberova](https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0), [Julia Varady](https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Kurt Masur](https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn) | [Strauss, R: Ariadne auf Naxos](https://open.spotify.com/album/4Lb4ZJyRNKyjKbYFsuWCpN) | 3:48 |
 | 58 | [Strauss, R: An Alpine Symphony, Op\. 64: XV\. Mists Rise Up](https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Rudolf Kempe](https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg), [Staatskapelle Dresden](https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7) | [Strauss: Metamorphosis & An Alpine Symphony, Op\. 64](https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN) | 0:17 |
 
-Snapshot ID: `MCxiMDE4NDc0NTU2MWIzYWM4YWE3ZTgyM2Q1MjA1NTk5ZDI0ZTZkMTA5`
+Snapshot ID: `MCwxYWI0Y2M0NGUyYmUyZjllMGRkZDJiNmUwZTNiZWM0MjIxYjc0Mzlh`

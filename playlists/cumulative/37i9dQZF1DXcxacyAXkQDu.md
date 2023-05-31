@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-876 songs - 2 day 3 hr 57 min
+877 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-08-22 | 2022-08-27 |
 | [Jesus Couldn't Love Me](https://open.spotify.com/track/2u38U69ABazSHMawCWsXY6) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Manic Pixie Dream](https://open.spotify.com/album/3CD0Ezfnm6kBDxTu2xgzUY) | 3:17 | 2022-03-24 | 2022-04-19 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2021-12-21 |  |
+| [Just Because](https://open.spotify.com/track/3Ues7YM3y8JYnTeu2OYFVH) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Just Because](https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc) | 3:13 | 2023-05-30 |  |
 | [Kawai Desu](https://open.spotify.com/track/5ASue9VqTEjTrKFscUYOa6) | [London Calling](https://open.spotify.com/artist/2RcrJS14SI6DyMJ2r0Mi3D) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 4:30 | 2022-03-24 | 2022-04-20 |
 | [Keep You Waiting](https://open.spotify.com/track/1XquJc5Ue8bYcYbtWa1aNL) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Made Up Lost Time](https://open.spotify.com/album/0mY9LnMlO13imj2NBBwNmE) | 3:31 | 2022-03-24 | 2022-07-12 |
 | [Kids In Love](https://open.spotify.com/track/3JNCFaTBMGPaXNGfsfrirX) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Kids In Love](https://open.spotify.com/album/2lpHycGonBPEpat2T6gQ71) | 3:09 | 2021-12-21 |  |
@@ -808,7 +809,7 @@
 | [W I T C H C R A F T](https://open.spotify.com/track/4RuoW2bjOBzWVakgSBTjuD) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [W I T C H C R A F T](https://open.spotify.com/album/0qYilMrkDztgJXtqDqVkiq) | 2:56 | 2022-03-24 | 2022-04-01 |
 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 | 2021-12-21 | 2022-07-29 |
 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 | 2022-07-08 | 2023-03-09 |
-| [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 | 2023-02-17 |  |
+| [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 | 2023-02-17 | 2023-05-31 |
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-17 |  |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-11-11 | 2022-11-13 |
 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 | 2022-03-24 | 2022-04-18 |

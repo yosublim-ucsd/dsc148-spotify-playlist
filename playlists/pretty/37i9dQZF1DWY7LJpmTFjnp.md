@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,895 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,057 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
 | 100 | [Te Odio y Te Quiero](https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Pinche Amor](https://open.spotify.com/album/5eimAhBgq83zYg7C0vckXc) | 2:36 |
 
-Snapshot ID: `MCwwOWZiN2Y3NDViY2RjZTc0MDI0ZjgwYWNhZGMxNjhmMGM3YjQ4ZjA4`
+Snapshot ID: `MCxhYTc5ZjBkNjA2MGI3NjI1NjY3YWU0YTY4ZDIwY2IyMTFhOGIzOWU3`

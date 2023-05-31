@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,421 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,750 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 |
 | 150 | [Kiss From A Rose](https://open.spotify.com/track/6UedQdOB6BIX96B4V1oBP4) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Kiss From A Rose](https://open.spotify.com/album/6A8hlKALPC8Pg1tyRLsx7z) | 4:00 |
 
-Snapshot ID: `MCwxMWIzOTNmYTU3MGJjZjA0MmY1MzFlYWUzNzMyYjBhMjIyYWU4ZTcw`
+Snapshot ID: `MCwyNGEyYWRkYzhhZDllOWE3ODAwN2ExZWU3MGM3MDRlMjM0ZThlZDkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,787 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,861 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Songs without Words, Op\. 67, No\. 3 in B\-Flat Major: Andante tranquillo](https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Philippe Cassard](https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h) | [Mendelssohn](https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj) | 2:49 |
 | 60 | [Andante spiniato in G: Allegro maestoso](https://open.spotify.com/track/5ol0EvR9aNThftRoereISI) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chill With Chopin](https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV) | 4:54 |
 
-Snapshot ID: `MCxjNzQyNTU5NDAxYWNkZDYxMDZkMzQzNTY5NzY3ZTJhZTczYjMzNTJj`
+Snapshot ID: `MCwzZDZkMzkyZmQ3ZTE1OGEwYzMyODM1ZjFhMDk5ZWU2Njg2ZDY0MGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,446 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,541 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [El Reloj](https://open.spotify.com/track/6sGUQrIkp6qqgrddIeGNLx) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Dos Leyendas del Bolero](https://open.spotify.com/album/6kMY1yrxN1jwuH0rjihCnk) | 2:57 |
 | 75 | [Sortilegio](https://open.spotify.com/track/0BErJnxQYdU7BOrwkPbP65) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Antología ...Boleros](https://open.spotify.com/album/7GsjuSOmrNWEt01dcKufNj) | 2:54 |
 
-Snapshot ID: `MCw4M2NlZGJiNjNkNTYxYWYyMWE4ODBmYmJjNTk1ODRiYThlY2JiYWMx`
+Snapshot ID: `MCxlNWRlZDZlYWI3OTI5ZGE4OWE5NGY1NzcxOTkyOGZmNDU4MDFhMDZl`

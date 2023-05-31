@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,552 likes - 200 songs - 12 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,674 likes - 200 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [Therapy](https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:44 |
 | 200 | [Here Is Gone](https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 3:58 |
 
-Snapshot ID: `MCxkZThkODcwODk5Yjc0YTJjOGQ3ZDQwMGM4MGY2YTRkYzRkZGMyOTNj`
+Snapshot ID: `MCxlZDc1MTA3ODVjMjJlYmYyNmEyODEwMzljMjFkM2FmZjVhMTZmOTJj`

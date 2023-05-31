@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,357 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,370 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [intuição](https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo) | [Luiza Nis](https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD) | [intuição](https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9) | 3:14 |
 | 75 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 
-Snapshot ID: `MCwyMWM4MmMyNDhhMTY2NjUwYjJmYzIwODNjZjZkMDk5ZWU0ZTMxOWM0`
+Snapshot ID: `MCw1NzcyZDk4MjU5NmRhMmEzYTEyMDE4MDVjY2JhNzZmNTg1NmVmMzMz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,368 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,397 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 |
 | 100 | [Colourblind](https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia) | [Gold Rush](https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs) | 4:31 |
 
-Snapshot ID: `MCw3NWI2NGI2MmEzNTgxNGVmOTczMTI4MWM0MmQwMjZlMDMwYjIyYjI1`
+Snapshot ID: `MCxlMDkyMTg2M2I5NDQwZmQ0YmZlZDUwODU1ODFjYWFjMzg3NzFiMTI1`

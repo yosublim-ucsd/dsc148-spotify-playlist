@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,044 likes - 230 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,413 likes - 230 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 |
 | 230 | [Shades](https://open.spotify.com/track/32K4G5jEHKSXpdvqtJyMqp) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Shades](https://open.spotify.com/album/2HIMHpEJFDTq8aMuvIuaxg) | 3:44 |
 
-Snapshot ID: `MCw3YWViMjUzMDU0ZDFiZDkwMjEyYjE3MDYxMzQ4MDg3MDc1NGFlYzFk`
+Snapshot ID: `MCwwMWNiNmQ0NWZjNzFjYWY4OTAwN2U3NGY5NGNhOTY2ZGU3OTkyNDQ0`

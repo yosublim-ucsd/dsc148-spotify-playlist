@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,417,337 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,418,204 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [Ininna Tora](https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Ininna Tora](https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G) | 3:24 |
 | 100 | [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 |
 
-Snapshot ID: `MCxiZTg2ZmQ2NGYwZjkxMzkwZmEyZTM4N2JmZmMwMDU0M2ViZTQ4ZTFl`
+Snapshot ID: `MCxjOGViMjVhNGFiZTJmYTcyODFjOGZjMTllYjdjNGE3YzBkZWRlNzBi`

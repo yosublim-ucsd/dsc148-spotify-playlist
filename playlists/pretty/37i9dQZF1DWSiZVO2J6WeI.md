@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,109 likes - 170 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,228 likes - 170 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 169 | [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 |
 | 170 | [Peaceful Drones](https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw) | [Belgravia](https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP) | [Peaceful Drones](https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5) | 2:52 |
 
-Snapshot ID: `MCw1NzJlOTQzZmU1OWExNDYxZDVjZDQyODBmOWNmMjE2YjE1OWNjNGM0`
+Snapshot ID: `MCw5MDI3Y2E3NTk5YWE0MTQ1NDJlYmEzN2M4NjQxMjAxYjhmNDk0ZWFj`

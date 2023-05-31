@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bunbury en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,358 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,370 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 31 | [La Jaula](https://open.spotify.com/track/7nZhAEajA5SASK3An2GmEU) | [Lady Banana](https://open.spotify.com/artist/5rYapv14QGjhRGc4N59QR2) | [La Jaula](https://open.spotify.com/album/5NjetfpMy24wdBciWTL6TD) | 3:51 |
 | 32 | [Esas Ganas...](https://open.spotify.com/track/5GziwdEoBqzKonzj58QFGJ) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Esas Ganas...](https://open.spotify.com/album/1wyqqsn2qHjAXFSBWrHs2C) | 3:14 |
 | 33 | [Juancarlista](https://open.spotify.com/track/2Dti63Vmk7gCVb4ZEALKQa) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [DJ Pollo](https://open.spotify.com/artist/0O7NbXmjtpCooRUH5u9U7M) | [Juancarlista](https://open.spotify.com/album/1Av2f40jMFQQ9mZ7YO77Pr) | 2:41 |
-| 34 | [Rozando el aire](https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Caracolas](https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU) | [Rozando el aire](https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu) | 3:56 |
+| 34 | [Rozando el aire](https://open.spotify.com/track/32TFVoHMTunbU7FWjmSLLW) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ), [Nebraska](https://open.spotify.com/artist/408Xlsk3OkET9JXTbU7LxU), [Caracolas](https://open.spotify.com/artist/3iihv1PWr600Gr0u0pnuGh) | [Rozando el aire](https://open.spotify.com/album/0DxftajLNHVKD2wz27pFUu) | 3:56 |
 | 35 | [DANA](https://open.spotify.com/track/4PhcSdfljoaFnP1X5ndboB) | [VIBORA](https://open.spotify.com/artist/1lS6I3BcAEmnmALFdn9bHH) | [DANA](https://open.spotify.com/album/715oIMuwTw0scMvAdFqX5M) | 2:14 |
 | 36 | [Calzonazos por mayoría absoluta](https://open.spotify.com/track/6NnvwvzAlBpmecvoOkcsCT) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [CXMA](https://open.spotify.com/album/6k4GZnkraRbir4rbFaH2OF) | 2:49 |
 | 37 | [Indiferentes](https://open.spotify.com/track/4et6rUEjKydcYhJlpmBWbQ) | [Alison Darwin](https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz) | [Indiferentes](https://open.spotify.com/album/2wtyhkvOJomqiniFZVQlAx) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Tim soltó las tijeras](https://open.spotify.com/track/6hQMR17c0bbXToIQbGA2A4) | [Austero](https://open.spotify.com/artist/6JDVFtEqAZ1HuCC9FTIKsZ) | [Tim soltó las tijeras](https://open.spotify.com/album/7kfgJubhXGjQLyaMVwUEL2) | 3:31 |
 | 50 | [Y No Me Digan Nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y No Me Digan Nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 |
 
-Snapshot ID: `MCxmNTlkYjliYWQ0NGQ3MTgzYTBkZDVlOGFjZDk3ZTVjMTU5MDY3ZjYz`
+Snapshot ID: `MCwxNDQyZWVjOThiMjhkM2RhYTJmYTBlMDJlNDQ3NzgyNjhlMWQxNzg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,840 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,951 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [shadows](https://open.spotify.com/track/5h65pxH4GY65qOUTz24CVp) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x) | [shadows](https://open.spotify.com/album/6R6HqsC0djiNv01HQsdaBA) | 2:29 |
 | 100 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 |
 
-Snapshot ID: `MCw2Mjc0Zjc5ODExOGQyM2RhZjRlNzAxNGYxOTgzYTdmZGE0OTZhODVl`
+Snapshot ID: `MCw2YjUxYzNiNjYwZjliMWNkMzczMzQ3MjEzNjk0ZjI3MmJiYTcyNTUx`

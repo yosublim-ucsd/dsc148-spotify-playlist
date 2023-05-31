@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 
 > Disfruta los sonidos de truenos distantes y lluvias fuertes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,664 likes - 250 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,798 likes - 250 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgToHlKhwA5.md) - [plain]
 | 249 | [Thunderstorm by Night](https://open.spotify.com/track/5YWO3rtH2xuF7Ysy1XenjF) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Distant Thunder](https://open.spotify.com/album/2sReYyHQzGTthoDBByyKFx) | 3:09 |
 | 250 | [Surrender To The Storm](https://open.spotify.com/track/3MoX7IOZbJRb1xXWXYaYyL) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm From The North](https://open.spotify.com/album/1uHb3rCfRwo9UTNKvXt7hd) | 2:52 |
 
-Snapshot ID: `MCxlYjBlMTZmZTRlMGU1YzQ0ZGYzY2ViYTUxOGY1ZTY4NjllNGIyYzdi`
+Snapshot ID: `MCwzZmU0ZGQ1ZTAzNTE2OGI1ZDM5NGI1MzU5Yjg3YzI5MWFmMjc4ZGQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,176 likes - 120 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,239 likes - 120 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [Mashing Rain](https://open.spotify.com/track/31rViVUzJfb9EybyfTxTDI) | [Honky Fish](https://open.spotify.com/artist/0Cnqt7ZhpE7wDK5hJzbU96) | [Mashing Rain](https://open.spotify.com/album/3x9VyS2BCTAWtW71X2Yhbu) | 2:14 |
 | 120 | [Hard Times Are Comin'](https://open.spotify.com/track/5wx9L4JVX7jKBX4w5lFmkE) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 2:49 |
 
-Snapshot ID: `MCw1Yzk0ZmNlNzQyYzVlNGRhYTA1ODM0YTZiM2VkNTUzNWExYmFmZWYw`
+Snapshot ID: `MCw5MDRkNTcwNTgzZWMyMDUwOThmZGEzZGNmZTMwNGFjODU3ZTFkMzEx`

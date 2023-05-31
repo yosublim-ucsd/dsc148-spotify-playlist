@@ -13419,6 +13419,32 @@
     },
     {
       "album": {
+        "name": "Tareyaan Di Jodi",
+        "url": "https://open.spotify.com/album/6njW2aP7Ug9AVVPIggx7tx"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189430,
+      "name": "Tareyaan Di Jodi",
+      "url": "https://open.spotify.com/track/2ZBeF74dtWlfXPRf0UhtPI"
+    },
+    {
+      "album": {
         "name": "Back Stage to Front Stage",
         "url": "https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm"
       },

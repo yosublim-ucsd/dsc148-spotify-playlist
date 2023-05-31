@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "I Wish I Knew",
+        "url": "https://open.spotify.com/album/1eKElfchc2K5pjz0JkH6b8"
+      },
+      "artists": [
+        {
+          "name": "Faint Louis",
+          "url": "https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz"
+        },
+        {
+          "name": "Eve Jones",
+          "url": "https://open.spotify.com/artist/0HtGEZuGr7pnIgySImmPh2"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167294,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0"
+    },
+    {
+      "album": {
         "name": "First Boy In Space",
         "url": "https://open.spotify.com/album/3DhyZK51vn05p2kAfjzIDF"
       },

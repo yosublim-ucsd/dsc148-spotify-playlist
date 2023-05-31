@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,544 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,610 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Tá tarde](https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Tá tarde](https://open.spotify.com/album/1ZSCM6ieyNDFPe4r1ZEEuz) | 3:59 |
 | 75 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
 
-Snapshot ID: `MCw3MDAyOTJmMGNkYTA1ZDMzZWJiNWU2MTRkZTVlZDNmMjQyN2JkMmY4`
+Snapshot ID: `MCxmMjViNTEyN2M2OGI1MWIxMjUzOTYzMzI1ZGY5ODY5ZTY5YzVhZGMy`

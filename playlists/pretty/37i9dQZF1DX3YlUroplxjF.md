@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Jesus Piece
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,298 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,421 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 100 | [Name Your Price](https://open.spotify.com/track/1H5Rep5mTwWCw3o1dtAfO3) | [The New Age](https://open.spotify.com/artist/3gsxykUVQOCa9H0K6kryPp) | [Name Your Price](https://open.spotify.com/album/48k7va8R3kUJ2C9YzGFb73) | 2:52 |
 
-Snapshot ID: `MCwxNGY0OWExYjVlYTgwNmFmOGJjM2Y5ZWY5M2JkMzA5NWFlNDU4NmUy`
+Snapshot ID: `MCw0NzY4NjVlNjcxZDQ5MDdiOTZlZTg1NTdhOGY3MDk1ZDQ2ZWIzMWNh`

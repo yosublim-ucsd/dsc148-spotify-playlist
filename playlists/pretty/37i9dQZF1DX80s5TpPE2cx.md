@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,408 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,429 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rapid Fire](https://open.spotify.com/track/1RHFgbaMxkM3dVYHBrg7Me) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 3:12 |
-| 2 | [Alté Cruise](https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Zamir Los](https://open.spotify.com/artist/3WgKNlYCBnaxl7XUed9CmR) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 3:12 |
+| 2 | [Alté Cruise](https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [rare.](https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48) | 3:12 |
 | 3 | [Popping](https://open.spotify.com/track/7b9QrJwaTRQYAbs0fnoilW) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Odunsi \(The Engine\)](https://open.spotify.com/artist/2IJM1sZVKURhI8zSar9pbL) | [Palmwine Music](https://open.spotify.com/album/4reE9Z0ffJqJA37fUlmQjW) | 4:00 |
 | 4 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 |
 | 5 | [Gangsta Fear \(feat\. Odunsi \(The Engine\)\)](https://open.spotify.com/track/4LrMO8FuGpkA9v4QJMwmpe) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Suzie's Funeral](https://open.spotify.com/album/22WXPfyPwdYZKOa59009Cc) | 2:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Situationship \(feat\. AYLØ\)](https://open.spotify.com/track/6bWJVNePO79QaQFBYumAFq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Aylo](https://open.spotify.com/artist/0GHv9SSbui0TC7ij4fiM0I) | [Situationship \(feat\. AYLØ\)](https://open.spotify.com/album/1fWXDDRR7vTNl8vmM1BueH) | 3:25 |
 | 80 | [Optimum Esse](https://open.spotify.com/track/20EbpUHGtvuluX2AQSLYkZ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:11 |
 
-Snapshot ID: `MCw5ZGU4OGVmYjJmZTk4NjEzZDAxZjkxODRkYTkzMmYzOGU2ZmFmZTFm`
+Snapshot ID: `MCxlMWU4YjFhMmY1ZjNjYzY5NjgyZmU2NDJkMmNiMjg2NzY3NjgzMDc1`

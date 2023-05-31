@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-485 songs - 1 day 4 hr 18 min
+486 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-09 | 2022-10-21 |
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
-| [Golden](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Golden](https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24) | 3:34 | 2023-03-08 |  |
+| [Golden](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Golden](https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24) | 3:34 | 2023-03-08 | 2023-05-31 |
 | [Good Feeling](https://open.spotify.com/track/5zr19Omvn2GkHtSTe55vga) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Good Feeling](https://open.spotify.com/album/08Bep0F33a63DEj9QGTNOK) | 3:22 | 2021-12-06 | 2022-03-11 |
 | [Good For Me](https://open.spotify.com/track/35w074ZJpkCUCWtS0T2pvm) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Good For Me](https://open.spotify.com/album/7iz2DbytzGHESa6tJmtwsR) | 2:56 | 2022-06-27 | 2022-09-09 |
 | [Good Times](https://open.spotify.com/track/1WnSUyG5FQwIwWYMzMTkRS) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:24 | 2022-10-27 | 2023-01-10 |
@@ -462,6 +462,7 @@
 | [Unfinished](https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Unfinished](https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH) | 4:44 | 2022-01-28 | 2022-04-08 |
 | [Used](https://open.spotify.com/track/221btWts70oQ60quERFxXM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Emma Mae](https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv) | [Used](https://open.spotify.com/album/6rHqNX0gISvnog7Q0vm0e8) | 4:18 | 2021-11-19 | 2022-01-28 |
 | [Used to Losing You](https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Used to Losing You](https://open.spotify.com/album/0SO9gIl0UKy42daxkuXtNT) | 4:25 | 2023-02-03 | 2023-04-22 |
+| [Used To The Silence](https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Used To The Silence](https://open.spotify.com/album/1AicQE6OrucDFv8RYhB1Ho) | 3:09 | 2023-05-30 |  |
 | [Valhalla](https://open.spotify.com/track/4nQAwNLKpcn0g54dPedQBi) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Valhalla](https://open.spotify.com/album/49ViXJDQNm2nV1bCMFMcAJ) | 3:57 | 2023-03-01 | 2023-05-30 |
 | [Vermin](https://open.spotify.com/track/4sSDPuQLBSowFuPtXBzUI5) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Vermin](https://open.spotify.com/album/47lB5nD266T3nhDeSJjRdv) | 2:56 | 2023-04-05 |  |
 | [Waiting](https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:40 | 2022-11-04 | 2022-11-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44456,
+  "num_followers": 44454,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjIzOCw2YjIzNjVmZmJjY2Q0N2VhZDM4MGM3ZDRiNjk5ZDNmNjQxM2NjZWM4",
+  "snapshot_id": "NjI0MCw5YzVkODk3ZjQzMTc2YzIxM2JmODhkNDc2MjIxMWY5NDUzODM4NmI1",
   "tracks": [
     {
       "added_at": "2023-05-26 17:29:48",
@@ -43,6 +43,22 @@
       "duration_ms": 168750,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/3PKXTGsIpCDoBdUvb1FV2b"
+    },
+    {
+      "added_at": "2023-05-30 13:48:33",
+      "album": {
+        "name": "No Es Igual",
+        "url": "https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "duration_ms": 238780,
+      "name": "Se Paga",
+      "url": "https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX"
     },
     {
       "added_at": "2023-05-26 17:29:48",

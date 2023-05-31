@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1286,6 +1304,24 @@
       "duration_ms": 196741,
       "name": "Siempre Atento",
       "url": "https://open.spotify.com/track/2qqTaOUxy3hD3mbxZB4iVY"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo Al Exito",
+        "url": "https://open.spotify.com/album/5JNw6CsEmFJEYDw8oYpWhM"
+      },
+      "artists": [
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180405,
+      "name": "Sin Miedo Al Exito",
+      "url": "https://open.spotify.com/track/5XaddIXt53XkEFjoDe9oiW"
     },
     {
       "album": {

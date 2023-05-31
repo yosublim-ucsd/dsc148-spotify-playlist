@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > Classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,604 likes - 150 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,045 likes - 150 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 149 | [Misirlou](https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Wanna Surf?](https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE) | 2:15 |
 | 150 | [Sugar, Sugar](https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [Sugar, Sugar](https://open.spotify.com/album/1tjurhbCd70ZjsXhN8fGUC) | 2:49 |
 
-Snapshot ID: `MCxmZWU0MGE5OWUwOTY3Y2I4NzFjM2JkODNlZDc3NDcwMDRhYTUyMTA1`
+Snapshot ID: `MCwxZjBmYjRkODk2MjNhNzY5ZTk0YTVkMDZiMmQ2ZjkxZDU4N2ZmMDdh`

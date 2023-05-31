@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,741 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,942 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Que Me Digan Loco](https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Homenaje A La Trayectoria De Don Salvador Lizárraga](https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7) | 3:42 |
 | 100 | [El HT](https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El HT](https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz) | 2:30 |
 
-Snapshot ID: `MCwzNDliZmU2YzU5ZTQ4MTdkZTE2MDcyNmM2MjBmNDI2YTc2MjBhMzgy`
+Snapshot ID: `MCw5MjRjYjkwNDhkM2M1YzMwZWE5NjZjZGZiYjI2ODU0MmQwOTlmMDY3`

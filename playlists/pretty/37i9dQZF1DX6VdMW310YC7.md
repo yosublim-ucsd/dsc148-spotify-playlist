@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,618,675 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,619,217 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Back To The Roots](https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Back To The Roots](https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT) | 4:46 |
 | 100 | [Don't Give Up](https://open.spotify.com/track/7E5Tl1oyZW5JPdhqGgW5hz) | [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Charlz](https://open.spotify.com/artist/6HlbdrXWMFHgFdbIDX9Znv) | [Don't Give Up](https://open.spotify.com/album/7eJ0TQWlnSy4z744vHgDm6) | 3:16 |
 
-Snapshot ID: `MCw1MDY5ZGU2MmI0OTNhZDNjMTkwNTczMzA4ODY4N2E5MTc0ZDdkM2Nj`
+Snapshot ID: `MCw2YzZiZDY4NDA0OTk2NzY0YjJjYTU4NjRiYmVjNWJlY2RiMGVmNWM0`

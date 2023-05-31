@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href="https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA">Pastor Steven Furtick</a> and <a href="https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,931 likes - 100 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,050 likes - 100 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 99 | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8) | 5:49 |
 | 100 | [Let Go \- Live](https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Live At The Manor](https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W) | 4:34 |
 
-Snapshot ID: `MCw0MjdhZDAzMGJhMjA3MjFiYzAyMGM2ZTY0YjQ1MGRhNDEwNDYzZjdi`
+Snapshot ID: `MCw3Yjc4ZDhmOGFlN2RkNjQyODJiYTkwZjFkNGY2ZDk3MWI2ZmRhYTUz`

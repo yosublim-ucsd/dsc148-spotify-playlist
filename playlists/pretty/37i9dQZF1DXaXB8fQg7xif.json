@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
-  "num_followers": 5001913,
+  "num_followers": 5002215,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGVlZjc4ZGI2MWUwNDI1Y2M3ZjJkM2I3YmE3Mjg1NmJiMzk4NzU0",
+  "snapshot_id": "MCwwZDBkN2QwMDkxYzZjMWVjM2I5MTdlODBmYzgyNWIyYzc5MzNhYjAx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2275,26 +2275,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Living On Video (feat. DTale)",
-        "url": "https://open.spotify.com/album/1bS9MQ5MkiXVVeYugReG50"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "DTale",
-          "url": "https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Living On Video (feat. DTale)",
-      "url": "https://open.spotify.com/track/5ZA8y7ISUIEWcfuQSai2kX"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Can\u2019t Fight The Feeling",
         "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
       },
@@ -2899,6 +2879,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "ME WITHOUT U",
         "url": "https://open.spotify.com/album/1ZiNaETb1Usa0jcYEmxfob"
       },
@@ -2915,22 +2911,6 @@
       "duration_ms": 156312,
       "name": "ME WITHOUT U",
       "url": "https://open.spotify.com/track/6aEtOtuVYBDfR07qJm8wB3"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Dancing Shoes (Take Me Higher)",
-        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Dancing Shoes (Take Me Higher)",
-      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -3031,6 +3011,22 @@
       "duration_ms": 197254,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
     },
     {
       "added_at": "2023-05-26 04:00:00",

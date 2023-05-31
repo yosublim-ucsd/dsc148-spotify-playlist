@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,752 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,831 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Save Me](https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Cry No More](https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y) | 4:35 |
 | 100 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 |
 
-Snapshot ID: `MCw2MzUyNzkzMjI5NmRkZjJkYjRkZTQ1OGI4OGU2YjI4MGM5NWNjN2Yz`
+Snapshot ID: `MCxjM2Y1NjNkYjU0Y2M2MWIwYjY2MDhlY2NmMDNkMTA2ZWIwYWY2MmRj`

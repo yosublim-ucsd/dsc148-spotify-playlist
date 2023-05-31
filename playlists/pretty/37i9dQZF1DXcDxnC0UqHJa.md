@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,914 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,925 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 |
 | 115 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 |
 
-Snapshot ID: `MCw5NWUzYTU5MzA2OWExM2Q2MDFhMjIzY2IyYzg5ODU0ZWQ2NmY0Njgx`
+Snapshot ID: `MCwwYTEzNmY5MjVkYzdlNzhkZGEzYmI1ZjZjZWUxOTRjM2QyNTk0Mjlk`

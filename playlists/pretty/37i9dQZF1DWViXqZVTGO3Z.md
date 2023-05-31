@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,604 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,598 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 |
 | 150 | [Christmas Is Here \- Radio Edit](https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmas at Home](https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF) | 3:01 |
 
-Snapshot ID: `MCxiNzliNjQ4NWVmYjhmMmE5Yzc2MWZjOGRhYTU3NDM2YTI3ZWYxMzU3`
+Snapshot ID: `MCwyZTI2NDQ5MjU3OTJhZmRhNTBmMWZhYjIwZTAwNDlmN2RjMjhjNTYz`

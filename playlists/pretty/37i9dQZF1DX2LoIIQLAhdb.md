@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej'
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,904 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,988 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [VIBESTARS \#6](https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [VIBESTARS \#6](https://open.spotify.com/album/3ZRItbt48UvxlbEuIFRFVI) | 3:04 |
 | 40 | [Cicatrices](https://open.spotify.com/track/6Wgq0Mr4D7BsYwhCfU3JGt) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Cicatrices](https://open.spotify.com/album/0H8PSYkG1CXQna6ycNcMAM) | 2:45 |
 
-Snapshot ID: `MCxjM2RkMTAxZGY2MjE0OWVjNWZkZTI1OGQyNWY5Y2Y5ZTZlODAwZWE2`
+Snapshot ID: `MCw1ZGRjZmMyMjgxYzY3ODkwZTAzYzNhZGZjYWY3N2NiNDYwNTNlZTgy`

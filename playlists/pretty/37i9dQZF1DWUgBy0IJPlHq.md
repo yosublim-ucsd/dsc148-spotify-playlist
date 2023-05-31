@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Buck Meek
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,960 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,031 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 |
 | 100 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 |
 
-Snapshot ID: `MCw3NTZlMTA0MzcxMDhiNjMyN2JiZjE3ZGUxNzlhZGJmNjI5YWQyZTcx`
+Snapshot ID: `MCw1ZTk5NGEzOWQ1NGVjNWZkN2ZjM2IyMmQyNjdjOTIzYmVhNGM2NTY1`

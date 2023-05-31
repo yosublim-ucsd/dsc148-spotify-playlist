@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,276 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,283 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 17 | [duality](https://open.spotify.com/track/7D8Q16EPjM9693MXczL4Nf) | [casperrr](https://open.spotify.com/artist/30C5jZT0VYbtkkA7Sdd2fj), [1fern](https://open.spotify.com/artist/6GekGA3LuBhM8GCqsmeFYE) | [duality](https://open.spotify.com/album/2TMz47siJlMwcROynjJTb2) | 3:12 |
 | 18 | [Pen Drive](https://open.spotify.com/track/4NYL7Jh26U03gjXG4p2j4W) | [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU) | [Pen Drive](https://open.spotify.com/album/3JcQbHIuBSFLvAcaMa6fSP) | 2:16 |
 | 19 | [Alma](https://open.spotify.com/track/0NdpQXyjJScXZ5H4wIEewD) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [LUCAS101](https://open.spotify.com/artist/613GGxQuXh9Zv4tGuvfEma), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [Big Jony](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Vol.3](https://open.spotify.com/album/1CTzq16x0GUICRkczgHmRV) | 3:19 |
-| 20 | [Onde Estou a Ir](https://open.spotify.com/track/30nyKvMD2WR8o2hXnEK8ka) | [Slim G](https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm) | [Onde Estou a Ir](https://open.spotify.com/album/246gJJN932ZRHfong8jHZr) | 2:40 |
+| 20 | [Onde Estou a Ir](https://open.spotify.com/track/30nyKvMD2WR8o2hXnEK8ka) | [Slim G](https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm), [TRINNI](https://open.spotify.com/artist/0wIqiATQ9OB7qeDvNb8Mtr) | [Onde Estou a Ir](https://open.spotify.com/album/246gJJN932ZRHfong8jHZr) | 2:40 |
 | 21 | [Babar os Nike](https://open.spotify.com/track/4xlRH6S6l0oWmSuLNSbolG) | [SäoOneArt](https://open.spotify.com/artist/0HJlFDUwaxWgytljhL5i0N), [ZA](https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc) | [Babar os Nike](https://open.spotify.com/album/5PmwRNlPlI8PNKX9SRnGsB) | 3:58 |
 | 22 | [Fora Lei](https://open.spotify.com/track/3WrWXxzV0O0e09BwSvVASn) | [Lewis Czm](https://open.spotify.com/artist/77lZuMrgxSoq2FbBuqSq2D), [Landzs](https://open.spotify.com/artist/7dkcFqRuKh7BViKOumG86T) | [Fora Lei](https://open.spotify.com/album/1Zahm2tVQAN0UrF1ByDKTd) | 3:39 |
 | 23 | [Parece Fácil](https://open.spotify.com/track/5XcX17u8DRl3YqBP4YxbcG) | [Subtil](https://open.spotify.com/artist/5Pvq6yUdNbP89g5xc0KfQl) | [Parece Fácil](https://open.spotify.com/album/5quWk9IF75Ng1zcUcadBbV) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [POÇÃO](https://open.spotify.com/track/6BqHzkNqVSygx9aAFojT2K) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2), [ROBZI](https://open.spotify.com/artist/1rrQ8W9iGjjJJAQ6SA4Csc) | [POÇÃO](https://open.spotify.com/album/4oAvRIRDMMxdV9rcvkaRqG) | 3:17 |
 | 100 | [Lifestyle](https://open.spotify.com/track/4v5nIFE2CuAMSO9Ziig6y6) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [Guetto Music](https://open.spotify.com/artist/0iWfrDWZt9hwt2Gkdg2TcP), [Yendis VB](https://open.spotify.com/artist/3cSX4DvrdSvGmTOHmN8SBn), [Santos Priince](https://open.spotify.com/artist/5uZSdWb9ejf28pk5upAZGF) | [Lifestyle](https://open.spotify.com/album/0zd9eJgWwIzyjzKRUs5D6n) | 2:40 |
 
-Snapshot ID: `MCxhNmIwZjU1ZTI4MWI2ZDk5ZTExNGI2NWUyMWE1ODM0YzMzM2ZlNzM3`
+Snapshot ID: `MCxkNjUyMjY0Nzg1ZDI2ZTEwNTJhODRiMjhkNWU1M2M2NGYxMjc4OTgx`

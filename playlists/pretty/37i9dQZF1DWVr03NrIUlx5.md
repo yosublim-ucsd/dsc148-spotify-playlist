@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,378 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,456 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Welcome to the Jungle](https://open.spotify.com/track/6SiYPSuNfD9Erz5mRUH8N4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Guns N' Roses](https://open.spotify.com/album/58PG2MINfE9JQmgj02xPM3) | 3:26 |
 | 100 | [All the Small Things](https://open.spotify.com/track/42iOAFz1Qyay607RXlNr6q) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of blink\-182](https://open.spotify.com/album/4cPJGrImNW1ponkWGIdFqs) | 2:58 |
 
-Snapshot ID: `MCw2ODBmYjNmNGI3YTAxZTEyOTBmNWIwNzRmYTNlNTM1MDBlYWIzYmMw`
+Snapshot ID: `MCw4ZjY3NTYzOGFhYTBhYjIzNDc3Y2VlZTRkNGFlMTUzMzZkZmQxZDZl`

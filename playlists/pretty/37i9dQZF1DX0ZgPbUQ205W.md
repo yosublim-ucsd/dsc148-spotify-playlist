@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,713 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,753 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [La Petite Reine](https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78) | [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL) | [Absinthe](https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr) | 2:13 |
 | 100 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 |
 
-Snapshot ID: `MCxmMDI4OTIzZjBmYTZhYTBjZThmODg0ZDUzZGYxZWZjNGJhY2ExMGE5`
+Snapshot ID: `MCw2ODMyYTg1OTg0NTkzMWM0NDU0NzFiZDZhMjE2NGMyNDY3MDFiNTg3`

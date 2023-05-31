@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,706 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,705 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 64 | [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 |
 | 65 | [Blowing Up Things in the Woods](https://open.spotify.com/track/3DGpBvI8IIhBnNqLyVnxf4) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions](https://open.spotify.com/album/6wtP1fcntyDMN5N7hDlKi3) | 3:04 |
 | 66 | [it doesn't get any better than this](https://open.spotify.com/track/4oHipBv2ATIdYtgRgVvy9Q) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [it doesn't get any better than this](https://open.spotify.com/album/6E1nEdbPAxQSSZgOhcswwf) | 2:35 |
-| 67 | [LA](https://open.spotify.com/track/6KDjtO39Qq61j5gLh31Pzi) | [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [Gurjot](https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q), [4theworld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1), [Manny Music](https://open.spotify.com/artist/6CxzmoJwbRC7CYWnlyQXPF) | [LA](https://open.spotify.com/album/2NfjOP9i0j9EZPm1Jfl92f) | 3:09 |
+| 67 | [LA](https://open.spotify.com/track/6KDjtO39Qq61j5gLh31Pzi) | [Gurjot](https://open.spotify.com/artist/5ONiYcz5K7LJIoLu1vCF4q), [a4](https://open.spotify.com/artist/6cXae0oxFktl578F6xun8I), [4theworld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1), [Manny Music](https://open.spotify.com/artist/6CxzmoJwbRC7CYWnlyQXPF) | [LA](https://open.spotify.com/album/2NfjOP9i0j9EZPm1Jfl92f) | 3:09 |
 | 68 | [My Mind At Ease](https://open.spotify.com/track/3x8E6sX3I3rGP0oITZRHLX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [My Mind At Ease](https://open.spotify.com/album/1oBZ20zNFcydJedaGQ5InG) | 2:55 |
 | 69 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 |
 | 70 | [Itchy Palms](https://open.spotify.com/track/1sLuQUHLO7HmAoyU3Nb4oQ) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Itchy Palms](https://open.spotify.com/album/2cTvDrYFjytz6NirK1mrUc) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Delicate People](https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Delicate People](https://open.spotify.com/album/5TPEdVSMdIG6aiatkrVtZp) | 4:14 |
 | 100 | [Nothing Feels Special Anymore](https://open.spotify.com/track/3Hm1uXL6q6jMFFfIkOARez) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Nothing Feels Special Anymore](https://open.spotify.com/album/4vLKRMbc4eIH5mipZm7Fu8) | 3:11 |
 
-Snapshot ID: `MCw3ZjNjZjg5YWQ0MWE5ZGJmMWYxMDAwMzEyOTE0NTlkN2RlMDQ2M2My`
+Snapshot ID: `MCwwNTM2NTk0MmE1NWVjMTIwMDE1ZWI1ZjlhMWNjODJkOTA2YTgyZDll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > A trilha sonora do verão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,173 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,204 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [XEQUE\-MATE](https://open.spotify.com/track/0E8N4bWQ4h1EjA23Q9dQOT) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [XEQUE\-MATE](https://open.spotify.com/album/092uEdwPl5DJMAIjuqdTCP) | 3:12 |
 | 100 | [Ninja](https://open.spotify.com/track/6rFrw2q9nHux9FnZkmlzYd) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Ninja](https://open.spotify.com/album/3KJA1FQ0D6xptLEII8MAFK) | 2:32 |
 
-Snapshot ID: `MCwzYjA5ZDM4MmRhZjBjZjIyZGEyY2MyZjA2ZDEyMTQ1MTY1YWJkMjMy`
+Snapshot ID: `MCw3YWQ1MWU0ODI5NDRjMGU2Y2MxODVmNjE0NTZlZTViMDdmZWIwNWNk`

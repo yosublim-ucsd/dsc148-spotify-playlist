@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Hello Seahorse! en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,655 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,725 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Mochi](https://open.spotify.com/track/0XLV0vWarC3F92iCN9NP7k) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Mochi](https://open.spotify.com/album/1kThfBK9dHcuzmnaLWj7PW) | 3:09 |
 | 100 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 |
 
-Snapshot ID: `MCxkOTFiZGM0MWQwYzRmYjMxOWU3N2EyYmRhZjQxYTdjMzNjZWY3OWNk`
+Snapshot ID: `MCxjYzk4YjAzZDZjYTM0MDhmYzMzYTU3YmM0MTg2MzNmN2FiZjY2NmY3`

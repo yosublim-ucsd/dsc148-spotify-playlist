@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,467 likes - 500 songs - 1 day 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,612 likes - 500 songs - 1 day 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 |
 | 500 | [For Lena And Lennie](https://open.spotify.com/track/5uNtaTmigAubx5fLfO92AW) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Quintessence](https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH) | 4:19 |
 
-Snapshot ID: `MCxlY2EzZTFhZmYwN2VjNjI5MWRmZTUxMTVhZmEzNzEwNDczMTZhZGU5`
+Snapshot ID: `MCxlYzFiZTkzNmNjYzYyZGE3YzJkYmU4NWFlYzVlZmY1M2IyMDI4Y2Mw`

@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:JOOHONEY\(주헌\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:Kid Milli\(키드밀리\)\)
 
-896 songs - 2 day 1 hr 34 min
+897 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Hollow Season \(Feat\. INE, C JAMM, YUNHWAY\)](https://open.spotify.com/track/19ED83SfC8QW8MJhy9Gxsh) | [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [INE](https://open.spotify.com/artist/2esZEOvnP8fACfmFZerWHy), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Hollow Season](https://open.spotify.com/album/3I01GZau9zdhKZrY2bcnIG) | 7:07 | 2022-04-07 | 2022-05-24 |
 | [home \(feat\. Hesper\)](https://open.spotify.com/track/464h8vrQbuDmTSijuP0CvO) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY), [Hesper](https://open.spotify.com/artist/7rOHC7zGWrPNUYrAQXviPs) | [space](https://open.spotify.com/album/2sZrEiT7qIJ07gEbldGjnB) | 4:25 | 2022-01-04 | 2022-05-12 |
 | [Hommage \(Feat\. Swings\)](https://open.spotify.com/track/31lSZSQjdmQND10EFjw4pW) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [On the Wheel](https://open.spotify.com/album/1NuyhsJGJlxjqgaqVhuZPa) | 3:37 | 2022-08-27 | 2022-12-20 |
+| [HONDA !](https://open.spotify.com/track/0yurxXDL2EC9dFyZJXy39y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BEIGE](https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S) | 3:01 | 2023-05-30 |  |
 | [HOP ON THE TRUCK \(Prod\. Padi\)](https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS) | [HOP ON THE TRUCK](https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE) | 4:23 | 2023-01-17 |  |
 | [Hopefully \(Feat\. Jung In\) \(Prod\. TOIL\)](https://open.spotify.com/track/6zdgPI0zkt6xJSUoTLud8v) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:26 | 2021-12-29 | 2022-07-01 |
 | [HOW U FEEL? \(feat\. Woo\)](https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3) | [HOLYDAY](https://open.spotify.com/artist/6BEleStcBwip7cF71WVt1L), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [HOLY](https://open.spotify.com/album/1odIOe9NrMNHlQg5l895Zc) | 2:52 | 2023-02-09 | 2023-04-19 |

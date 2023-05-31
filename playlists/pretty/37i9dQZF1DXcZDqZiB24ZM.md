@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,408 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,419 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Gucci](https://open.spotify.com/track/2O0VHBHWmfpp5Qy8CguLQI) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Gucci](https://open.spotify.com/album/3aSD0RiBSjaKUYcUR45zrs) | 3:31 |
 | 100 | [Wow](https://open.spotify.com/track/3T1bB8PzL5Gi0XlvB9hDxU) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [Canicule, Vol.1](https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP) | 2:25 |
 
-Snapshot ID: `MCxjNjBiNjI5NDFiYWFhNzYzZjdmNDFjYzYwNWI1NWIxNGI4ZTBiMjQ1`
+Snapshot ID: `MCxhNzBiYzYyYTc4NjQzNWIyNGI2ZTIxODljNjVkNzYxNzc0ZTg2YmI5`

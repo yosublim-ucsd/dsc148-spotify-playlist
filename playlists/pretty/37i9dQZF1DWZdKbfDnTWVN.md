@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover KayCyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,128 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,135 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 21 | [The Point](https://open.spotify.com/track/0USVFLxsAauRkpVaFprj8s) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [The Point](https://open.spotify.com/album/7MkNwTMI6DfxnAnbvn1RsP) | 2:22 |
 | 22 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 |
 | 23 | [From The Bottom](https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D) | [CK Sula](https://open.spotify.com/artist/3GhEMZn9eAjfLsGoj9Q313) | [From The Bottom](https://open.spotify.com/album/4dd6K40Z2A7YGYSs59pIOG) | 2:28 |
-| 24 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 |
+| 24 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 |
 | 25 | [Light It Up](https://open.spotify.com/track/7wn9CznZ9KqtGxBmPVqnmN) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM) | [Light It Up](https://open.spotify.com/album/1WlqYudMiTJkTF6fnx2EBi) | 3:55 |
 | 26 | [MAMBA FLOW \(feat\. Kiddo Nel & TJ Bliko\)](https://open.spotify.com/track/3FkF6InKBRbaKei477gV6n) | [UVT](https://open.spotify.com/artist/4mzw3dz0gTuhVaXU8OAJwq), [SYEKO](https://open.spotify.com/artist/1ViOji0PrdPWPz9Del25Nw), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI), [Kiddo Nel](https://open.spotify.com/artist/24H6TrMSn6pUjBRlXcptXj), [TJ Bliko](https://open.spotify.com/artist/0QpwSLJ5IdyNFhDD9duqnq) | [SNAKE EYES](https://open.spotify.com/album/4DkV4LOwG1Y1rQSrlmpBbz) | 3:12 |
 | 27 | [Nyo](https://open.spotify.com/track/55xiKBMDGv7Bs3X1lF8rAj) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Yinga](https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY) | 3:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 56 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 |
 | 57 | [Shrap in Rage](https://open.spotify.com/track/7rHVA6faZqOaxt58d9f5bK) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Shrap in Rage](https://open.spotify.com/album/6dNBtrnPvbKdNXJQaIoq1p) | 3:56 |
 | 58 | [Talk 1](https://open.spotify.com/track/2IEMb0weVldFdaFNKk3S2e) | [Zische](https://open.spotify.com/artist/0JB6umTJU4N8s89kqt63yZ) | [Talk 1](https://open.spotify.com/album/1fyB2EcRkCsLybJBhdDKRz) | 2:37 |
-| 59 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
+| 59 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
 | 60 | [tha feelin](https://open.spotify.com/track/3GM4jz8GuMkVUvCODSZ1i0) | [Thayu Mwas](https://open.spotify.com/artist/6Za9gHP7gAvWh4IJC9Osqc) | [tha feelin](https://open.spotify.com/album/2pQ8DLVKqm5YYIseTwjnhZ) | 1:54 |
 
-Snapshot ID: `MCw3Y2FjMmRjMWI1NTE5NmRlNzFmYzMzOWM3NWI2OTg1NGZhMGVjYjVl`
+Snapshot ID: `MCxlZDE1Y2Q0MzM4OGE3ZjQ4ZGI2ZGZkYmI4NDM4MWExOGNlNTBkZDU3`

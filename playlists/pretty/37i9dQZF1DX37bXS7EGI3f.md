@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,145 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,260 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 | 80 | [A Cloak Woven of Stars](https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH) | [Lacrimas Profundere](https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz) | [A Cloak Woven of Stars](https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm) | 3:37 |
 
-Snapshot ID: `MCw5MjA0YTYwZTQ5ZWNiMjcxMTE0MGUwNzY1OTM1MmI2MGJjY2U5NWIw`
+Snapshot ID: `MCw2OWRjNjUxZmY0ZDhmZmY1N2Q0YTU2NjVmNWZiMzI0YjI4MzZmNTVl`

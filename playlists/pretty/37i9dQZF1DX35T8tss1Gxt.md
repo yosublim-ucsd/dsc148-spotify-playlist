@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,714 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,871 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 100 | [Be Alright](https://open.spotify.com/track/2RttnAvdTIokgZmXeOJkYY) | [Michael Dixon](https://open.spotify.com/artist/0aXyBedQLbHTZwDOY5QGZF), [Christina Bell](https://open.spotify.com/artist/4cPFOPBu1lxWI5cKlWmSvR) | [How Are You Healing?](https://open.spotify.com/album/5k9npIVUV9HbqnCzo1RDfy) | 4:45 |
 
-Snapshot ID: `MCw2MmRiODFiZTUwOTE5OWE5ZjY3ZWJhMjM3NWFiYzZlNzE3YzM5NDZk`
+Snapshot ID: `MCw2ODhkZjMyNGRmOWZjYWNmZjVkZjJmYzMyYjc0OGYxYTQzZGFkZDNi`

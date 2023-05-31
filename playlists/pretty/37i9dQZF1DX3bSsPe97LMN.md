@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Diego Coss en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,475 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,507 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Después De Ella](https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [2023](https://open.spotify.com/album/15IMqHJ9SDCObrchMwqUPY) | 2:58 |
 | 75 | [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 |
 
-Snapshot ID: `MCxlZTVlYzExNmE0MmNmNzBlYzc2YWYxYzM0ODJjMjUzNjljNjcxZTM5`
+Snapshot ID: `MCw5ZTkxNGNlOWExZmExNmRlZTQ1NDczMjAzNjJjNGI3ZjJlZDY2ZmQw`

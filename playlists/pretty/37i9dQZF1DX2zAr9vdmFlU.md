@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,642 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,767 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 |
 | 100 | [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 |
 
-Snapshot ID: `MCwyZGY0MDZhNTVmMGY1NmY5NzYzYjQ3YTk5N2VkZjNlNmVmNGM3Yjky`
+Snapshot ID: `MCw4NGQzNjljNDgxZjkyMGU5NDFkNTA0MmQ5YTIwMGE4ZGY1YzY3OGRh`

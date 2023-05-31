@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > la primavera non è una stagione, è un mood 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,362 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,368 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
 | 100 | [Alcool & Acqua \(feat\. PSICOLOGI\)](https://open.spotify.com/track/4UpCWcaJdu26OxLwxd3baF) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [ORO BLU](https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim) | 2:51 |
 
-Snapshot ID: `MCw1MTYzNmVjMjIxM2M1NjMwZjhlYmExNjdlMWRhYzAyM2Q5NGMzYmQ2`
+Snapshot ID: `MCxkNjM4ZWViMTQwNTYzMTNhYWE0NDgyZjBjNTZiMDBmMmU2YmJhOWY2`

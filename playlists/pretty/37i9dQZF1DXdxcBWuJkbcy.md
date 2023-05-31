@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,855,711 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,856,571 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [I'm So Excited \- Siks Remix](https://open.spotify.com/track/5lvXklAtsaPvyxZFxRx9oC) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn), [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY) | [I'm So Excited \(Siks Remix\)](https://open.spotify.com/album/5Ye9eoe9VSnZwRlanJzJVv) | 2:05 |
 | 80 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 |
 
-Snapshot ID: `MCw3ODM5ZTQ5ODBhM2EwZDU2ZmMxZGZmNzMyNjNlMjAzYzNlYjQzZTdk`
+Snapshot ID: `MCxiNDAyNDk3MmE5YzliNGMxN2QzNjhmZDU0OWMzYmQwNTk5NWM4M2Iz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,774 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,766 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 | 100 | [The Christmas Song](https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [R&B Christmas Songs](https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU) | 2:38 |
 
-Snapshot ID: `MCxmYTY2MjRhOGM3ZDhlYzEzOTc3ZGRjNWM2ZWU2MDViMWY5MGY1MmQ1`
+Snapshot ID: `MCwxZjZkNDJiMzIwN2U3ZjUyNDRlODAwMzhjMDBiMjcxZWZjNDI1MTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2022! Cover: RHOVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,168 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,211 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 17 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 |
 | 18 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2LxEDzVro56jdFydwjwQL6) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 4:25 |
 | 19 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
-| 20 | [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:02 |
+| 20 | [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/06I8g946xlivnmEgB5rM0j) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:02 |
 | 21 | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TÊTE \(feat\. Medy & VillaBanks\)](https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG) | 3:00 |
 | 22 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 |
 | 23 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 49 | [Signore del bosco](https://open.spotify.com/track/0stcTp1Ngt9UDvRjRbb4tw) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Signore del bosco](https://open.spotify.com/album/5TjtyQAqwclzC1NqclBIAP) | 3:39 |
 | 50 | [Chillin' Rmx \(feat\. Zano\)](https://open.spotify.com/track/4bTMumc74NDYaiA6xx6sVv) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Zano](https://open.spotify.com/artist/2WaJkMEav3HhVXRAv6Ugbm) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:45 |
 
-Snapshot ID: `MCw4NTQzM2IzMTcwMzVmMzliZDY0MDhjZWJhZmNjNDQ0YzZlMTczNjM3`
+Snapshot ID: `MCw3N2M4YTM3N2E1NzQ0NmNhYzQ2OWMyNmMxZWQyMWI3NTFlYzQ1MDAw`

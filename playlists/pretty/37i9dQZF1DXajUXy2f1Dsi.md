@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,550 likes - 100 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,553 likes - 100 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [La Pasión según San Marcos: 26\. Lúa descolorida \(Aria de las lágrimas de Pedro\)](https://open.spotify.com/track/0RpnZ9FpAkAL9aCm9QU4xF) | [Osvaldo Golijov](https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv), [Jessica Rivera](https://open.spotify.com/artist/6sVDWBjob9Qtauu62oz8hG), [Members of the Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/5Jiq0apSUeflgRwXOUvmDv), [María Guinand](https://open.spotify.com/artist/1UGkyn1ev2gK0MQzXL09HG), [Orquesta La Pasión](https://open.spotify.com/artist/1IAGTvTNkXFcI6pm6YBbVW) | [Golijov: La Pasión según San Marcos](https://open.spotify.com/album/6M9p1htxWs2vCUZu1OQSGv) | 5:44 |
 | 100 | [Abertura em Ré](https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX) | [José Maurício Nunes Garcia](https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8), [Vox Brasiliensis](https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB), [Ricardo Kanji](https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk) | [Música Sacra do Brasil](https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr) | 4:32 |
 
-Snapshot ID: `MCw0OTQyMGYyNWZhZGVjM2Y3N2YyYTQyODhiMjEzYjI1YzcwM2Y4NDk4`
+Snapshot ID: `MCxmMWYxNTdkYjI0NmU3MWIyMzI0YjJhY2I4YjJlMmYyNGE3NTNmZGU1`

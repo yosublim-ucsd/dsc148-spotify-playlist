@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 192943,
       "name": "Ee\u2019mel Share (from the movie \"Ramsis Paris\")",
       "url": "https://open.spotify.com/track/3eBRF7ygd5nMA6u3ayacXe"
@@ -1740,6 +1740,24 @@
       "duration_ms": 283267,
       "name": "El Alb Galo Hoboot",
       "url": "https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6"
+    },
+    {
+      "album": {
+        "name": "El Baghdada",
+        "url": "https://open.spotify.com/album/5GyhSegrimrOsUJQXWMuif"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201874,
+      "name": "El Baghdada",
+      "url": "https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl"
     },
     {
       "album": {

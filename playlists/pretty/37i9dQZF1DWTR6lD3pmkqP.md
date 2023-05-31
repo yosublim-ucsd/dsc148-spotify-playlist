@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,152 likes - 250 songs - 20 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,238 likes - 250 songs - 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Gotu Lust](https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S) | [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [Self\-Titled.](https://open.spotify.com/album/5zjTdXe19FOs1xfb30GQ2v) | 3:51 |
 | 250 | [Devil Worm](https://open.spotify.com/track/0ZUm2JdVbac1oPGkeAPiVA) | [Ola Kvernberg](https://open.spotify.com/artist/6OaEACxpxzP2sDxX2nTUYJ) | [Devil Worm](https://open.spotify.com/album/3DNqPG427Ud5KwVqmAeW3Q) | 14:10 |
 
-Snapshot ID: `MCxjZGU0MGY5ZDY1NGViYWU5M2M5MjNiMDJhNjUyODcyNzhhMDZlM2M1`
+Snapshot ID: `MCxhOWJjNTkzMmJkYzRkODdjY2E0YmZhMGMzNzExYjkxN2MxMWRlNjAz`

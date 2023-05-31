@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,786 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,888 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 5 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 | 6 | [Tumba pala Cocuyé](https://open.spotify.com/track/6yOAu4HWDd9ggFYF1sDpCv) | [Afro\-Cuban All Stars](https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg) | [Distinto, diferente](https://open.spotify.com/album/1Y03qwzJ3MPDUdLcGcw4jm) | 6:47 |
 | 7 | [Moliendo café](https://open.spotify.com/track/4jM0v4ReOQh5RntXfiG3NN) | [Vieja Trova Santiaguera](https://open.spotify.com/artist/2t7ndReOwR0bTqTaDxYa9G) | [El Balcon Del Adios](https://open.spotify.com/album/6RrE499bQ4sEOT81yuqUIM) | 4:55 |
-| 8 | [Y tú qué has hecho](https://open.spotify.com/track/3qilMIgzZK8p5J8fNsFQzB) | [Compay Segundo](https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 3:13 |
+| 8 | [Y tú qué has hecho](https://open.spotify.com/track/3qilMIgzZK8p5J8fNsFQzB) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 3:13 |
 | 9 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
 | 10 | [Dulce Habanera](https://open.spotify.com/track/6ijh9JrrEYvXsVl45ohmgJ) | [Osvaldo Farrés](https://open.spotify.com/artist/5ThTreQSco0IwxQRm8mbGA) | [La Música de La Bodeguita: Vol\. 1 De Cuba con Sabor](https://open.spotify.com/album/4zU5ji5KJmtovm3pgEsCGc) | 3:38 |
 | 11 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 49 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 50 | [Temba, Tumba Y Timba](https://open.spotify.com/track/0xzSgIVOg8ZjPCVvir36aO) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Cuban All Stars Vol\. 2](https://open.spotify.com/album/0miSetdUZccRUKHH6M7OTf) | 6:53 |
 
-Snapshot ID: `MCw2NjcyNmJhYTNkM2IzNGY0ZjFkZjU0NjVkOGI4YzNlYjE0YThhN2Vh`
+Snapshot ID: `MCw0OWQ2MDQ0Yjc4ZDY5Nzk5NDAwMTkyNmZjMjBmNTU0YzkzYzNmMGM4`

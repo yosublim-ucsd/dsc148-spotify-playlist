@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,985 likes - 225 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,171 likes - 225 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 |
 | 225 | [I Predict A Riot](https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Souvenir : The Singles 2004 \- 2012](https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK) | 3:52 |
 
-Snapshot ID: `MCxmOTM4YTFiMWY0ZmE3MTk4ZGZjOTg0MWU0NzE3ZjI0MDNhYzAzMWQ5`
+Snapshot ID: `MCw5ZjQ4YzlmZjVmNzhiOTMzN2M0YjFkZDk4ZjJlNjgyNTZiNWIxZjNl`

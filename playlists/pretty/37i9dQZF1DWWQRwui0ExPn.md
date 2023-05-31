@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,038,223 likes - 750 songs - 1 day 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,038,574 likes - 750 songs - 1 day 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [Summit](https://open.spotify.com/track/6a6pPskNdYzTndFrdBFfl9) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Study With Kawaii Vol\. 1](https://open.spotify.com/album/476VfR88grgRrbnLHfWZf1) | 2:09 |
 | 750 | [Mezzenile](https://open.spotify.com/track/0FcnYz7S1rCXsPLh4idw5M) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [Mezzenile](https://open.spotify.com/album/3PdOaq8rOQxwr9pfkGN2S6) | 2:22 |
 
-Snapshot ID: `MCw1N2ViNTMxMzIzZGY3NTE4ZTc0NDA1NWFlZDJhYWFhYTQxZDg3Mjkw`
+Snapshot ID: `MCwyZmNhOThjOGQxMzVmY2ZjM2ZhN2JmMmVkMzRlOThlYWU4YmYyMzJk`

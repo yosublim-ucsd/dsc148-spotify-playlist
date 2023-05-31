@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,728 likes - 19 songs - 49 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 19,746 likes - 19 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 | 18 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 19 | [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 |
 
-Snapshot ID: `MCw0NzIwZDg0NTZlY2YwMmE4NWZlMzQ2MGFiMGYzYmEwZGI4ZDBjNjU1`
+Snapshot ID: `MCwwYWRiOWI1ZGEzYzgzNWMxOWViZmQxOTQ1N2Y5N2I1NjU3Yzk0OTNk`

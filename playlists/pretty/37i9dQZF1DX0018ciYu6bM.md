@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,773 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,588 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 83 | [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 |
 | 84 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 |
 
-Snapshot ID: `MCw2YmQ3MWJmMGFmMWU5MzhhODBiYmQ2ZmRmNTBmZTdlMTZjMDU4MWM4`
+Snapshot ID: `MCw1NzQ1ZjU2YzY0NjQwOTExZWQ3ZTUwZWMxZDBkMTVkNmQ3Y2Q0YmJm`

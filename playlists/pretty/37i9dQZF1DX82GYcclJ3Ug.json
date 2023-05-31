@@ -1,12 +1,12 @@
 {
   "description": "No rules or boundaries. Just the very best new alternative tracks. Cover: Briston Maroney",
-  "num_followers": 1123501,
+  "num_followers": 1123617,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODMyOTY1NjdkYTY2M2ZmNzJhZTNkYjM4YjMxMmJkYjhiOGFlZjc0",
+  "snapshot_id": "MCxjYzk5MjA0NDY2MTI2YWYwMmZhMDAwMzcyNjZlNWVlNDUyYWY3Y2I4",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1023,6 +1023,22 @@
       "duration_ms": 167613,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs"
+    },
+    {
+      "added_at": "2023-05-30 15:01:03",
+      "album": {
+        "name": "Leaving The Light",
+        "url": "https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Leaving The Light",
+      "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
     },
     {
       "added_at": "2023-05-26 04:00:00",

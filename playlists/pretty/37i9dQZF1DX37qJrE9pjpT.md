@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-[Spotify](https://open.spotify.com/user/spotify) - 963 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 968 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Putin](https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [Putin](https://open.spotify.com/album/7Ieceym17LPKTFTBkPDxE2) | 3:32 |
-| 2 | [Sweet One](https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [Sweet One](https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW) | 3:26 |
+| 2 | [Sweet One](https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Sweet One](https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW) | 3:26 |
 | 3 | [Bigman](https://open.spotify.com/track/7d59EK9eqZJe33g6v7T6Ro) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Bigman](https://open.spotify.com/album/6l4m6lJBRYcglztCbr8PAX) | 3:04 |
 | 4 | [ORIGHT](https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [ORIGHT](https://open.spotify.com/album/3uozcnWR0UJO4Ilg6xqEm1) | 2:46 |
 | 5 | [Show Time \- Remix](https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx) | [MwanaFA](https://open.spotify.com/artist/7hHFTNIoDdt8C2whsOn3d3), [Suka](https://open.spotify.com/artist/6Q61rk0Kdz5axpxzP5Mi0a) | [Show Time \(Remix\)](https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO) | 4:23 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 48 | [Dear Gambe](https://open.spotify.com/track/2i37M0jQYvAZNvId6tZU30) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Dear Gambe](https://open.spotify.com/album/4cOVoj2vxhLViRWFhA5XUm) | 4:00 |
 | 49 | [Mzee Mbuzi](https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Kitaaolojia](https://open.spotify.com/album/1UK4Xl5OjQdJZsI52ZBewB) | 3:36 |
 
-Snapshot ID: `MCw0MGEwZDI4NWYzZjk0MDcyNzk4M2E0NDZhZjNiZDBkYTRkNWI3YjVh`
+Snapshot ID: `MCxlZmMzYzNkNmYyMGMwNWM0ZWVhNDgwY2U5ZTA1NTRmNzBmMmVkNzRi`

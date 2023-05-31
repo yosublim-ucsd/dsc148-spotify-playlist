@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,201 likes - 50 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,288 likes - 50 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Lean Back \(feat\. Amanda Lindsey Cook & Chandler Moore\)](https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 15:45 |
 | 50 | [Conmigo \(feat\. Nate Diaz & Amanda Camille\)](https://open.spotify.com/track/6Ikao91sXHsljCRhkSX20j) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Amanda Camille](https://open.spotify.com/artist/6HGQmlvyrjFK2ZWuSK2YIR) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 5:44 |
 
-Snapshot ID: `MjgwODkzNzQsMDAwMDAwMDBjY2NhZDU3ODkxMjY5ZDNiZGVkYWNkMjU0YjBiNTIwZQ==`
+Snapshot ID: `MjgwOTExNDksMDAwMDAwMDA2YmQwNzI0NTcwMjUwMTg3ZWVhMzk2ZmNkM2VhY2YwOA==`

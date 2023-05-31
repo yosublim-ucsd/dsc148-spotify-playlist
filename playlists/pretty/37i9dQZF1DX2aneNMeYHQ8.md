@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Grace Potter
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,669 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,717 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Really Really Light](https://open.spotify.com/track/76Gx8ULHTaOMju0Sv3dkSk) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 3:21 |
 | 100 | [It’s Fine](https://open.spotify.com/track/3xDa6ui2haGzVZJpyFRCHj) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [It's Fine](https://open.spotify.com/album/5cWGHnWOhetbCvCAhyYSSA) | 3:46 |
 
-Snapshot ID: `MCw5MmE0NjYwMDY0OGY0YTVkOWM4OTkzM2IwOGYxZDI0ZWI5Y2JhMmJj`
+Snapshot ID: `MCxiYjU4MDNjOTE0ZGRkMjRjZTA2Y2JmZGQ2OGIxYWFlOGZmYTE3MDAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 
 > Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,125 likes - 75 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,167 likes - 75 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwvaSJuR2fl.md) - [plain]
 | 74 | [Symphony No\. 3 In E Flat, Op\. 10, B\. 34: 2\. Adagio molto, tempo di marcia](https://open.spotify.com/track/0SyObhCmgAlG737JYX9pHP) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Myung\-Whun Chung](https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby) | [Dvorák: Symphony No.3 In E Flat, Op.10, B\. 34 & Symphony No.7 In D Minor, Op.70, B\. 141](https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA) | 15:30 |
 | 75 | [Symphony No\. 4 in D Minor, Op\. 13, B.41: 4\. Finale \(Allegro con brio\)](https://open.spotify.com/track/1YWTznDWC9wssE0If4I7T4) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [István Kertész](https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL) | [Dvorák: The Symphonies/Overtures](https://open.spotify.com/album/6ECe5dUoLAX7LCyYArKemo) | 9:46 |
 
-Snapshot ID: `MCw1ZWM0ODExMWE4ZWQ2MDk0MTU0OTEyMmMwZDIzYzU1Zjk1NDE4NjYw`
+Snapshot ID: `MCxhMjE0ZTM4ZjdiZjA5NjZlZjA5YzBmMzA1Mzk0OWI3NzhkNzgzNGNh`

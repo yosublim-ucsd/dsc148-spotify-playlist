@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-746 songs - 1 day 16 hr 40 min
+747 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [D E A T H Metal Rage](https://open.spotify.com/track/54UnnwazTfj2nI5O98kzTx) | [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [D E A T H METAL RAGE](https://open.spotify.com/album/1DI6dxxuE5EaKX1hqG5HVv) | 2:20 | 2022-10-24 | 2022-12-10 |
 | [Daggers](https://open.spotify.com/track/0D6OgpGKzbKrGVn3MZmEIQ) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Twilight](https://open.spotify.com/album/5ZSqXREKvuRcwsOhZvIMVG) | 2:51 | 2022-06-03 | 2022-09-15 |
 | [Dale Vuelta](https://open.spotify.com/track/40tEZ9JmmfpwMUvG2DYgje) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU), [episcool](https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4) | [Dale Vuelta](https://open.spotify.com/album/0qZEnwW3OQTuTqUVQI8ABD) | 3:00 | 2022-11-16 | 2023-04-29 |
+| [DARK STEP](https://open.spotify.com/track/620A7hleDI0h2jDscp5P7s) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [DARK STEP](https://open.spotify.com/album/5QLNlO42lfwFSuwEZcREeK) | 1:31 | 2023-05-30 |  |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2022-12-16 | 2022-12-27 |
 | [Day One](https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP) | [Day One](https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj) | 2:45 | 2022-08-19 | 2023-01-28 |
 | [Daydream](https://open.spotify.com/track/2xwOqFwANa6Emye6KlkgHT) | [Bloom Line](https://open.spotify.com/artist/53HYxzneeSBFFUEjkfXleH) | [Daydream](https://open.spotify.com/album/0jQFksbr0abnIxMJFxSitd) | 3:44 | 2022-05-11 | 2022-09-10 |

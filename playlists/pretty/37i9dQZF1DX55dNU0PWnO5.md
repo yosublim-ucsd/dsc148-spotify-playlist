@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,411 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,486 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Above Us](https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Above Us](https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa) | 2:42 |
 | 80 | [We Don't Need No Roads](https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [We Don't Need No Roads](https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm) | 4:18 |
 
-Snapshot ID: `MCxkMmIyMWM1NDQwOGQ3NzcwOGEyOTc4ODk3NDFmNjNlZjI4NWQ5OTA5`
+Snapshot ID: `MCw5ZTM2Y2NlMWY5NGNmYjYwOWIzZGM0ZDUxZGQwN2YxYTI2M2E0ODI1`

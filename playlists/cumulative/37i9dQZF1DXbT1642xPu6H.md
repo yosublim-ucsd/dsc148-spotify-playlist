@@ -2,7 +2,7 @@
 
 ### [Buen Vibe](https://open.spotify.com/playlist/37i9dQZF1DXbT1642xPu6H)
 
-> Pura música fresca para vibrar en cualquier momento de la semana.
+> 
 
 283 songs - 15 hr 3 min
 

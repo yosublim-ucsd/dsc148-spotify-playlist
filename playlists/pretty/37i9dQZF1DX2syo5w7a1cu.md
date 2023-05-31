@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,586 likes - 200 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,255 likes - 200 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 200 | [Wish I Could Fly](https://open.spotify.com/track/6F1ZirVF5m1UHEiWv8A7fw) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Have A Nice day \(Extended Version\)](https://open.spotify.com/album/0Zs3mjPZUkBvltuA6qLNuO) | 4:39 |
 
-Snapshot ID: `MCwyMDg5ZDA0YjYwNWFhMGE0YzA0ZWRmZjliZjkzZGYxNDIyMzEwNmNh`
+Snapshot ID: `MCwwYjE2NjE3MDBiNzAzZmYzMWZiOWU3MTY4YjgxMDdiYzQ4NjRjZTg1`

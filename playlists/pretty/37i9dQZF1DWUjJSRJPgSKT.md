@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,133 likes - 100 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,209 likes - 100 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Oleo](https://open.spotify.com/track/1kSoWg2hMVklqtngOba5sK) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Oleo](https://open.spotify.com/album/1vrL33aprfuGToazTDUeie) | 3:14 |
 | 100 | [Joshua](https://open.spotify.com/track/10ZQCKPyp19cS48VaabC3N) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:58 |
 
-Snapshot ID: `MCxjNDQ0M2IxY2VmZTdjOTczODdkNzk1ZGUxMzFkZmMyOWFkYjlhYzBh`
+Snapshot ID: `MCxmZTliYjFmNGJlYjNhYmE5ZDMyMTE5OTM5MzM1YzY4OTljN2MzYWUz`

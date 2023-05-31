@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Alkaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,859 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,089 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 96 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
 | 97 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 | 98 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
-| 99 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7m0hJIZ6ZRVSbvObhGPSiR) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
+| 99 | [Leggo Mi Ears \- Remix](https://open.spotify.com/track/32N0pwVyn0MCtt07r84BAN) | [Tatik](https://open.spotify.com/artist/2MJT5iXdO2amV4LQ4QYOhQ), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Leggo Mi Ears \(Remix\)](https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse) | 2:51 |
 | 100 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 
-Snapshot ID: `MCxmNDgyZGM5OWU3YmIyOTUxMTg1ZDM3NTRjZGJkNzEyYTAxOTk3Mzcy`
+Snapshot ID: `MCwyY2E2NzI4MWEwOWUwNWQ1MTI0MzkzNjNhZjM5MTkxMDRmOGVkNDE3`

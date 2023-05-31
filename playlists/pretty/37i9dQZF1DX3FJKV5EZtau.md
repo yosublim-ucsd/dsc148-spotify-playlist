@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,668 likes - 125 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,737 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 |
 | 125 | [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 |
 
-Snapshot ID: `MCxjMjJmOWM4NmJhMzJmZWMzZjRiYmU4YjZhYmYwYmU0OGMxZGFmODVm`
+Snapshot ID: `MCw0ZDc0ODkxNDEyZmUyMzBkN2Y2MzJiMTI2ODlmNDEwMTA5YTM2NDQ4`

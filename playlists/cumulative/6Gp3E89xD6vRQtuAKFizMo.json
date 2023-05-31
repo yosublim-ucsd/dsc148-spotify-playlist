@@ -2871,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "No Es Igual",
+        "url": "https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238780,
+      "name": "Se Paga",
+      "url": "https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX"
+    },
+    {
+      "album": {
         "name": "SHEEESH EP",
         "url": "https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU"
       },

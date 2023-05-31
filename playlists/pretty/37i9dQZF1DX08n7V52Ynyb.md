@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,482 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 99 | [All in Love is Fair](https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [Clique](https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3) | 4:23 |
 | 100 | [Bye Bye Blackbird](https://open.spotify.com/track/0ZdIvdu9qqSUDOyUth6zcK) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 5:57 |
 
-Snapshot ID: `MCwyODgxN2E1MTY1MzIzOGFiNzc3Mjk5Yzk3OTkzYWQ1OTYwNzJkNDYw`
+Snapshot ID: `MCw0YjUzOGUyZjNmMjUxNGY2NjVhYTA1NzViOTBlODkzZjZiMWU5YjNk`

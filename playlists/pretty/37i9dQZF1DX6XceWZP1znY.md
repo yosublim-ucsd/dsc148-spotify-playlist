@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,734 likes - 200 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,107 likes - 200 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 |
 | 200 | [モラトリアム](https://open.spotify.com/track/1a1wB12w5qTXLvz6et9ohH) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [モラトリアム](https://open.spotify.com/album/3wWqdbRezIHgiR8Ze2mURQ) | 4:47 |
 
-Snapshot ID: `MCxlNzU4MmZkYWFjMzVlZDk3MzEyYTQyYWRmNDNhMGM1OTM4MmFlODcz`
+Snapshot ID: `MCxkZTUyNDNlZmNlMGI0MTEzZmU2NGE3MWY3MTU2NjcyNzc4M2MyNmM4`

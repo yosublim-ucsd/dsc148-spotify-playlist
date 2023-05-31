@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,662 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,709 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 81 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 82 | [LOCO \(feat\. Muz!\)](https://open.spotify.com/track/5FuBh6ztXw5qf5wwgjpjEF) | [BLXSS](https://open.spotify.com/artist/2MErAFVwib6BaoHZa3GvWb), [Muz!](https://open.spotify.com/artist/5SjkjKZ05dPl7gtZbBRQV4) | [LOCO \(feat\. Muz!\)](https://open.spotify.com/album/3B1HMKvqGX7rsjqK7aa2Ti) | 2:47 |
 | 83 | [Down Low](https://open.spotify.com/track/6zntYa0B4LorAP7FB4ySTG) | [WaiKid](https://open.spotify.com/artist/4Y4QHTHS8v9GNGEZ4Xh90Q) | [Down Low](https://open.spotify.com/album/3Du0nB1UH8uZyGhFUuWVuI) | 2:27 |
-| 84 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
+| 84 | [Lay Low](https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Lay Low](https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4) | 2:19 |
 | 85 | [FOREVER](https://open.spotify.com/track/6S8Iul6DWPZ6VtjyESjxFx) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [FOREVER](https://open.spotify.com/album/2tQp7yltog7HsOGuKlvMxE) | 2:31 |
 
-Snapshot ID: `MCwxYjI4ZGFjZTNjYmVhYjRjZGNmYWY1ZGE0MDgwOWU0ZDBiNGM5YTI2`
+Snapshot ID: `MCw0ZTg1ZDc3OTlkMWJmY2U4MDA1ZGIwODI0MDE3MzIzYWM4ZTM5ZTli`

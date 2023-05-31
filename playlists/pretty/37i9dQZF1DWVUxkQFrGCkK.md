@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,516 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,656 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [The Girl Next Door](https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [The Girl Next Door](https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl) | 5:48 |
 | 100 | [i just wanna be here \(MÒZÂMBÎQÚE Remix\)](https://open.spotify.com/track/1llQmVTyLJ9f0o1Q1h0Wxj) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF), [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T) | [i just wanna be here \(MÒZÂMBÎQÚE Remix\)](https://open.spotify.com/album/1nlI8ACkPhvXAS7t61wJZn) | 3:51 |
 
-Snapshot ID: `MCxjZmVlZmRlMjhkNTMzZDgwMjg1ZGI5NzhkNThlN2Y4MzM5MWYzMTZk`
+Snapshot ID: `MCw1ODg5NWE1ZTc4NTA4NTUzNmFlNjhiNTRmM2E0MWM5NThlOWMxNjY2`

@@ -2,7 +2,7 @@
 
 ### [Sleep](https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp)
 
-> Gentle ambient piano to help you fall asleep.
+> Gentle Ambient piano to help you fall asleep.
 
 795 songs - 1 day 16 hr 3 min
 

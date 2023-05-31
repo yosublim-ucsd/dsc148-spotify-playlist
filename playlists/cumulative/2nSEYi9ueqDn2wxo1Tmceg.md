@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-492 songs - 1 day 9 hr 19 min
+494 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [it isnt fair](https://open.spotify.com/track/3tmuRI4UT2SghNi3Ppt2GI) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [it isnt fair](https://open.spotify.com/album/4C3LVzyMPr8DIlmQoMwQtl) | 3:03 | 2022-07-27 | 2022-09-15 |
 | [It Will Never Stop](https://open.spotify.com/track/7AbtmOXWdVNzh2NGX1mMqv) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [It Will Never Stop](https://open.spotify.com/album/2BTHmANiamvDEZOUoSIP9t) | 1:50 | 2022-12-14 | 2023-02-09 |
 | [It's Art](https://open.spotify.com/track/1gAYnbHNrMS5ngedqDMn5r) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [It's Art](https://open.spotify.com/album/0TXieMHWSUKWzlnOuBDGtA) | 1:49 | 2022-07-27 | 2022-09-15 |
+| [It's Euphoric \- Georgia Remix](https://open.spotify.com/track/5IJ15LSmdUsmWnsRwcsth1) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's Euphoric \(Georgia Remix\)](https://open.spotify.com/album/6HuxEcWwJeMLMmndIugtWt) | 3:34 | 2023-05-30 |  |
 | [It's Euphoric \- Mura Masa Remix](https://open.spotify.com/track/1xAGqmVj5Asg1g8nUhEoFs) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [It's Euphoric \(Mura Masa Remix\)](https://open.spotify.com/album/2uxnyz1pomXCqsaJcBrVoJ) | 3:13 | 2023-05-19 |  |
 | [It's in Your Heart Now](https://open.spotify.com/track/5X1yiohWRv7RfGzjKz8XyN) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 6:55 | 2022-06-29 | 2022-08-11 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/4o9xGMKJTiNRqLiSV9ZrR6) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/6B1qz8kJ8VEnBAzVRM8UYC) | 4:46 | 2023-02-08 | 2023-03-16 |
@@ -343,6 +344,7 @@
 | [Picture This!](https://open.spotify.com/track/515VZ0TZNIe0n7G0qvBc7C) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Picture This!](https://open.spotify.com/album/4YNC78x0p60fySweHaVW48) | 7:55 | 2023-04-12 | 2023-05-18 |
 | [Playing For Time \- Dark\-Side Mix](https://open.spotify.com/track/2MAGR0Si4Kv9iYq5erZgpf) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Playing For Time \(Dark\-Side Mix\)](https://open.spotify.com/album/1mmLWGy5s9zb6CN5aoAzsB) | 6:17 | 2023-03-15 | 2023-04-27 |
 | [Please Yourself](https://open.spotify.com/track/56zAKeMNf17IrHkJfX3uTb) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Please Yourself](https://open.spotify.com/album/3SDYKCfX2te4hJDXcj3JEk) | 3:19 | 2022-06-08 | 2022-06-23 |
+| [Polacrilex Kid](https://open.spotify.com/track/23GqtFiHCLU3DaFlTyX9uL) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Polacrilex Kid](https://open.spotify.com/album/6TwY0X9NdB3YMMasN1y4Rm) | 3:48 | 2023-05-30 |  |
 | [Polaris](https://open.spotify.com/track/6Yt8PGw2VEbLH5pLTrXkHX) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Magic](https://open.spotify.com/album/1rz6c0Nm9Zo1YmgA3P521A) | 4:22 | 2023-02-08 | 2023-03-16 |
 | [Polly Armour](https://open.spotify.com/track/3ssIkCQAizo73SKYe66hfm) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Polly Armour](https://open.spotify.com/album/7n4OYjNT0lQQEhN4jalOq2) | 2:49 | 2022-11-23 | 2023-01-19 |
 | [Polygod](https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Polygod](https://open.spotify.com/album/3ckC8EdvfgHQ8lrM0kITWV) | 3:01 | 2022-08-03 | 2022-09-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,413 likes - 62 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,505 likes - 62 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 11 | [tum/njan](https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [tum/njan](https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz) | 4:08 |
 | 12 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 |
 | 13 | [Nin Mukham](https://open.spotify.com/track/5saGm4ThnJxgtliYLUIdYV) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Nin Mukham](https://open.spotify.com/album/065esGl1GbCWdqSgU2kq51) | 4:20 |
-| 14 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 |
+| 14 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 |
 | 15 | [Pollunnunde](https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Pollunnunde](https://open.spotify.com/album/45GNFY5oWRTEBT79hFRs1b) | 2:48 |
 | 16 | [Poralikal](https://open.spotify.com/track/4Yi3Z3kmaQIqG00EZ5XEyv) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Poralikal](https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa) | 2:51 |
 | 17 | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/track/5f1oPeQ3tzCJUeXjoR47g8) | [Khayaal Mary Nazreth](https://open.spotify.com/artist/6nWn4phT9V8rmEvnMqp7rc), [Anuj Sekhar](https://open.spotify.com/artist/2YP3KghNwinD6VZLZuhcnO) | [Ini Enthoram Kaanan Kedakkanu](https://open.spotify.com/album/0UnX5bU0IKKiXfp6RWbtxO) | 2:01 |
-| 18 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 |
+| 18 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 |
 | 19 | [Kaana Neram](https://open.spotify.com/track/0pIm8FZ6SxPLyjTgDa9G24) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kaana Neram](https://open.spotify.com/album/0STmyqTzP2SnulgOsuIX2V) | 4:59 |
 | 20 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 |
 | 21 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 61 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 |
 | 62 | [Aakasham](https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 3:18 |
 
-Snapshot ID: `MCxhMTAzMTYzMjdhMWVlZmU3YjEwZDhiMDIxNDU1ZTljOWE5NWE0ZGYx`
+Snapshot ID: `MCxlZGNlZTgyYTdlN2IxMDQyYTUxOGJmNGQwYmQ2Mjg1NWVmMDA1Njkw`

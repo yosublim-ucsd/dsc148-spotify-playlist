@@ -4,7 +4,7 @@
 
 > Plus Ultra presenta: il meglio dell'urban italiano nel 2022! Cover: RHOVE
 
-115 songs - 5 hr 45 min
+116 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/4rstEjIOddR5CuzzLv2bhS) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:54 | 2021-12-01 | 2022-07-29 |
 | [181](https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:20 | 2022-11-30 |  |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-11-30 |  |
+| [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/06I8g946xlivnmEgB5rM0j) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:02 | 2022-11-30 |  |
 | [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/1mq3yDFC1hBukqGvrmOW2q) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:02 | 2022-11-30 | 2022-12-08 |
-| [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:02 | 2022-11-30 |  |
+| [ACQUA TONICA \(feat\. Geolier & Junior K\)](https://open.spotify.com/track/3WVXxfB3B76CkG2wglKotj) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:02 | 2022-11-30 | 2023-05-31 |
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-11-30 |  |
 | [Allenamento \#4](https://open.spotify.com/track/3TzSpxjKOnmVrtNOhtK8mx) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 2:50 | 2021-12-01 | 2022-12-01 |
 | [Andrea](https://open.spotify.com/track/0DSq4f2grIJOrawmfXkrRy) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim) | 3:05 | 2022-11-30 |  |

@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Booorn!!",
+        "url": "https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Booorn!!",
+      "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
+    },
+    {
+      "album": {
         "name": "Neon",
         "url": "https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8"
       },
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 221483,
       "name": "Buckingham",
       "url": "https://open.spotify.com/track/7uX2DpFsKiitlAYGLSGlci"
@@ -212,7 +230,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 227666,
       "name": "de messiah",
       "url": "https://open.spotify.com/track/5HPkVEqdGS65rqvX4a5UFo"
@@ -313,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Shiroto Hanataba",
+        "url": "https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u"
+    },
+    {
+      "album": {
         "name": "FightSong",
         "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
       },
@@ -400,7 +436,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 219306,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/5VTYSiBAkyZ4DCqilSU40y"
@@ -563,6 +599,24 @@
     },
     {
       "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208065,
+      "name": "LEFT RIGHT",
+      "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "album": {
         "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
       },
@@ -586,7 +640,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 271893,
       "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
@@ -608,6 +662,28 @@
       "duration_ms": 213666,
       "name": "Line of sight",
       "url": "https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw"
+    },
+    {
+      "album": {
+        "name": "Love Groovin'",
+        "url": "https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "HITOMITOI",
+          "url": "https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185668,
+      "name": "Love Groovin'",
+      "url": "https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI"
     },
     {
       "album": {
@@ -662,7 +738,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 187669,
       "name": "MAGICAL DREAM",
       "url": "https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P"
@@ -886,7 +962,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 216826,
       "name": "Red:birthmark",
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
@@ -1333,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "\u305a\u304e\u3085\u3093\u304e\u3085\u3093\u3086\u3089\u308a",
+        "url": "https://open.spotify.com/album/07ak0gzMu1dVuyyfsGlB65"
+      },
+      "artists": [
+        {
+          "name": "\u3053\u306f\u306a\u3089\u3080",
+          "url": "https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167599,
+      "name": "\u305a\u304e\u3085\u3093\u304e\u3085\u3093\u3086\u3089\u308a",
+      "url": "https://open.spotify.com/track/7imHT2drWF3A1rnEh1hwjy"
+    },
+    {
+      "album": {
         "name": "\u3072\u304b\u308a\u306e\u30c7\u30a3\u30b9\u30b3",
         "url": "https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI"
       },
@@ -1528,7 +1622,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 220120,
       "name": "\u5de3\u98df\u3044\u306e\u3066",
       "url": "https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch"
@@ -1637,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "\u7dba\u7f85\u7dba\u7f85",
+        "url": "https://open.spotify.com/album/3hHtwgwIZklErgqC9f9A5e"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193292,
+      "name": "\u7dba\u7f85\u7dba\u7f85",
+      "url": "https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1"
+    },
+    {
+      "album": {
         "name": "\u821e\u53f0\u306e\u4e0a\u3067",
         "url": "https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB"
       },
@@ -1674,6 +1786,24 @@
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9"
+    },
+    {
+      "album": {
+        "name": "\u904b\u547d\u5171\u540c\u4f53!",
+        "url": "https://open.spotify.com/album/4YUe2shq63CoC7jQGMgblW"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u8389\u98f4",
+          "url": "https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231230,
+      "name": "\u904b\u547d\u5171\u540c\u4f53!",
+      "url": "https://open.spotify.com/track/68UvIpHBuWCJop41Paz9ON"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN"

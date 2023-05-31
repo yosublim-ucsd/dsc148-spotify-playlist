@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,775 likes - 80 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,838 likes - 80 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 |
 | 80 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 |
 
-Snapshot ID: `MCxlYzE3N2ZhZTIwMjQzNjZiMmViYzM4Yzk5ZGE0MGZhMjRiM2EyZmU5`
+Snapshot ID: `MCw3NmFhYjI5M2RkNzVkOTEzMzQ1N2YzNjYwOTY0MzM2OWIyNTE0MjU5`

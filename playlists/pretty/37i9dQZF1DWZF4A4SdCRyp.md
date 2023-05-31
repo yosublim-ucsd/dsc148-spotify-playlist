@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZF4A4SdCRyp.md) - [plain]
 
 > This is Jon Pardi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,602 likes - 58 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,630 likes - 58 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZF4A4SdCRyp.md) - [plain]
 | 57 | [Drinkin' With Me](https://open.spotify.com/track/1wQT3RdsZxBUikfocOqM5F) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [The B\-Sides, 2011\-2014](https://open.spotify.com/album/4B1IUKpspjSVnqYtcht4WY) | 3:04 |
 | 58 | [Dirt On My Boots \- Remix](https://open.spotify.com/track/3S86G5H2vQbmaOGIg0UXKr) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN), [Will Weatherly](https://open.spotify.com/artist/6wijYgUom6JRsTxdRqlx4n) | [Dirt On My Boots \(Remix\)](https://open.spotify.com/album/1LqxKSLjw1BiTPS036wg8S) | 3:26 |
 
-Snapshot ID: `MCw1ZjljMDI4NWY2Y2ExZjY3Y2E4NzRmNWI4ZjE3ODY1ZTdjMjFkOGMz`
+Snapshot ID: `MCw3ODg5N2M1Yzg3M2RiN2YyMWJkNGExNGVkMWI3MTdhOWY5OTQ2ODc1`

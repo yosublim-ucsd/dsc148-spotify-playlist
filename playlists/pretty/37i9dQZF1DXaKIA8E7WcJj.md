@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,842,229 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,842,761 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 150 | [Ramblin' Gamblin' Man](https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ramblin' Gamblin' Man](https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE) | 2:25 |
 
-Snapshot ID: `MCw5ZjA0MTBjNDkzNjlkOWJkZjI1Y2M5MTJiNGQ3OGE0Y2Q1YzZmNzkw`
+Snapshot ID: `MCxkNWUwZTE3MWZjNWRkZGI1ZTg4YzQ2NjQxMGRkOGU1NGViMDMyNTI0`

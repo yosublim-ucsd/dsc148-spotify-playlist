@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,790 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,825 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 |
 | 100 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 |
 
-Snapshot ID: `MCw2OGQyYjE5NTA3MWI0MjA5YzE2YTkxYTg5ZGQyN2I3MGUxM2IzMzUz`
+Snapshot ID: `MCxmYTI4YjNmZTIwZmM4MjQ5YTYxZDhlY2YyMGMyMTYyMTQzOWY4NmNk`

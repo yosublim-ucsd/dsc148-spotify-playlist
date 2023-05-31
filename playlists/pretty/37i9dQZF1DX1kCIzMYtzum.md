@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,820 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,032 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [Perfect Stranger](https://open.spotify.com/track/6zXyPzGp9AjpbrOYMQ1sc9) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Mark Klaver](https://open.spotify.com/artist/68l3xR1huVp4U3ThWY0XvT) | [Perfect Stranger](https://open.spotify.com/album/5RK342eDaM4bGIiUdRN9NQ) | 2:30 |
 | 100 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 |
 
-Snapshot ID: `MCw2MDFjODI2YTY3NmJhODljZTY5MGZhMDAxZTFhMDkwMzBjMTg3NDQx`
+Snapshot ID: `MCxjOTgyMTUwYjk1NGFkZTliMjFjZmM3MzU3YWJjOTc2YjQ1N2Q1M2Jm`

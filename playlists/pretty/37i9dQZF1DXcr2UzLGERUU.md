@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,386 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,613 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 49 | [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 |
 | 50 | [Just Be](https://open.spotify.com/track/4V7mzEF4UR4cN0UNt8XYGF) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Mindful Moments for Kids](https://open.spotify.com/album/7xjZAPE23hL7YzCtw7ST7s) | 4:20 |
 
-Snapshot ID: `MCw0OTU0YzA5MWU2ZDM2NjY5ZDA1Yzk1MGNiYTYxMjgwODRjM2QzNzZk`
+Snapshot ID: `MCwzY2Q4ZTUyZGJmYTc2ZDQyZDY2OWQxY2NjN2Q5NjYyMjQwMWZkOTZj`

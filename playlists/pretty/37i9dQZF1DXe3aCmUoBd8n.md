@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Mohanad Zaiter & Al Shami .
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,238 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,278 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 50 | [Trend Al Awal](https://open.spotify.com/track/7r2xInKFlLc3gLfY66CZGL) | [Mohanad Zaiter](https://open.spotify.com/artist/6UPw1MtEOM1tfFTnMeRObq) | [Trend Al Awal](https://open.spotify.com/album/0y6ZKq9EkMos1Yhtxc6NIa) | 3:33 |
 | 51 | [Bi Amro](https://open.spotify.com/track/6rwmGovvGuA89IED5UTd6A) | [Majd Moussally](https://open.spotify.com/artist/3rkjF41xaOv7YIOhylmoIc) | [Bi Amro](https://open.spotify.com/album/6vVGzovhYC1Q8k7KQ5bq7x) | 3:28 |
 
-Snapshot ID: `MCxmOWQ5NGMyYmU5MmVlYzljZjA4N2FiYTFmYWU1N2RmNmM3NDM5M2Nm`
+Snapshot ID: `MCwyYjdmZDUxNDAzMjA0MjA1NmM4ZmViYTNjM2FkNThhYzU5MWE3YmY2`

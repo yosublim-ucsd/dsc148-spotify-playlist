@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs"
+      },
+      "artists": [
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165468,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92"
+    },
+    {
+      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS"
       },

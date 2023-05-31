@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Peter Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,912 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,914 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 97 | [Lost With Me](https://open.spotify.com/track/3TxulCnyjY8yscYW3QVicr) | [Jules Atlas](https://open.spotify.com/artist/589j7VCgHVfk4fjX0JoB2q) | [Lost With Me](https://open.spotify.com/album/4QBPXsjNNlmINbR5jjGQZI) | 3:24 |
 | 98 | [Pussy Edible](https://open.spotify.com/track/7zOvVE1tWtCXN1VEDaB0zf) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Pussy Edible](https://open.spotify.com/album/2vYTwDjN249gi68MPkbHwB) | 2:10 |
 
-Snapshot ID: `MCxhNzQ5Y2MwZDA0Y2QyMTQzMzdkYjhiYzBkYzY0MTUxMWU4YzRkZDFj`
+Snapshot ID: `MCw4MTVmNjFhMTMyYWUzMDI0MzFlMmQ4NmU1OGEzZDFhODg1OWQ3MTgx`

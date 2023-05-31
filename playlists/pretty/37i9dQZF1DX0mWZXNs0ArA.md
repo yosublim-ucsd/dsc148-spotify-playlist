@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 ### [sped up songs](https://open.spotify.com/playlist/37i9dQZF1DX0mWZXNs0ArA)
 
-> 150%
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514,019 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,791 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Drama \(feat\. Drake\) \- Sped Up](https://open.spotify.com/track/4Xu9IUWFfEkW8YZw6orPGd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drama \(feat\. Drake\) \[Sped Up\]](https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv) | 3:44 |
 | 100 | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/track/0Ntea3SB1jJ0SxRNt5MvjM) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Private Landing \(Sped Up\) \[feat\. Justin Bieber & Future\]](https://open.spotify.com/album/6ZrzrK6Fn0AIQtuV9CqXzs) | 3:37 |
 
-Snapshot ID: `MCxiZDEzMDk3ZTFlNmZjYjBhNjJiYmE2OWU2Y2UxNDIzNTZlYjk5YzBl`
+Snapshot ID: `MCwzN2Q3OTQwZjdiNDdkNjY0ZTBhZGQ5NmM2MWZkM2FjNTdhZjMzYzNl`

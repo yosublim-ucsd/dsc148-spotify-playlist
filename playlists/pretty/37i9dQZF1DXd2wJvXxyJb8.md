@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > ohhhhh sukin de murucujaaaaaaaaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,669 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,388 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 7 | [QUE EU VOU TE BOTAR](https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW) | [DJ JOÃO PEREIRA](https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Menor do Engenho](https://open.spotify.com/artist/48OIkMByRxvJ6bxHrnCwLS) | [QUE EU VOU TE BOTAR](https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3) | 2:16 |
 | 8 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 9 | [Ela Voltou de Perna Bamba](https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP), [MC Pê Original](https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC) | [Ela Voltou de Perna Bamba](https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs) | 3:19 |
-| 10 | [Mec Life](https://open.spotify.com/track/5tk0ERnzadzyexVfXA0yed) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Mec Life](https://open.spotify.com/album/0PXiTPSYnO6jU5z3g0MKx4) | 3:15 |
+| 10 | [Mec Life](https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [MC Theuzyn](https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm), [MC Bob Anne](https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5) | [Mec Life](https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx) | 3:15 |
 | 11 | [Menozin É Abusado](https://open.spotify.com/track/7ED51LMfG28pKMGIW3CEy0) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Menozin É Abusado](https://open.spotify.com/album/4x81PWFB5XqYGgj2KSB80w) | 2:38 |
 | 12 | [Galopeira](https://open.spotify.com/track/1Kb2zOLd3ua8kiiEtc82DE) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [THEUZ ZL](https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz) | [Galopeira](https://open.spotify.com/album/2v6Sz9UJQYq7EFy2gSoiJF) | 4:00 |
 | 13 | [Welcome To The Mato](https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX) | [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb), [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd) | [Welcome To The Mato](https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 59 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 60 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCxjNGJkM2M4OTY2N2JhNWViMzE3OWJlZDU3NTk1NWE0ZmZhNzQ2OGJk`
+Snapshot ID: `MCxhNWU5NDUxY2Q4ZGJiNmYwNzFmMzZhYjZlZGE0OGE4OGM0N2Q0ZTEx`

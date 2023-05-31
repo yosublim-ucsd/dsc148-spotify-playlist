@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,187 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,296 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Story of My Life](https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc) | [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [PsykoPhonic](https://open.spotify.com/artist/1KZdUfQP2t8y4XlV7zrr83) | [Story of My Life](https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c) | 4:05 |
 | 100 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 |
 
-Snapshot ID: `MCxmOGExNjY4YzkwNGZmYjBkN2RhNGQ5NTg1YjJjMWFhNzM2ZGUyZmY2`
+Snapshot ID: `MCwzYzgyMmJiYTAxMjNmZDI5NDkxNjEwMzM1ODA0NDE3NzVjZmM4Zjdm`

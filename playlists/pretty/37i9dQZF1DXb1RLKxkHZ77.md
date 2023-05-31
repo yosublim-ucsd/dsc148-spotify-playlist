@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,715 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,790 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Tak Ingin Kau Terluka](https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Tak Ingin Kau Terluka](https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW) | 4:09 |
 | 50 | [Bagaimana \- Pano](https://open.spotify.com/track/2mI4gvSAVCjNajeOqEQEud) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq) | [Bagaimana \(Pano\)](https://open.spotify.com/album/1LCDXgEwtK83RCzDa96GaW) | 4:13 |
 
-Snapshot ID: `MCxlNWM0OTA2YWJhY2YwYzBiMmVhMmMwYmQ1MDg5YTU3YzdjMzMzNmY1`
+Snapshot ID: `MCxkMjRjMDM2ODQxYjRhZTRkYWQxNGNjNTE4ZjIzYmZmNzhlOTlhNTc2`

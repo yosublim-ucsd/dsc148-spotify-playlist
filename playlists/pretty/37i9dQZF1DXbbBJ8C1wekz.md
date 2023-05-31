@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,740 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,879 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 59 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
 | 60 | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Tá com o Papato \(feat\. BIN\)](https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp) | 3:33 |
 
-Snapshot ID: `MCxlOGE5MjRmYTIwZjY0NTBkYWIxMDE5NjI3YWZmYWEzOTQ4MjNiNjk2`
+Snapshot ID: `MCw2MWQzZDg3ZDkxYzVjZWJmMjAwMzY1YjIzNjAwY2U2ZjBhMmY5ZTFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: La Beriso
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,152 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,202 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 |
 | 100 | [Me Puedo Programar \(En Vivo](https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [En Vivo\-Vol.2](https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw) | 3:21 |
 
-Snapshot ID: `MCxiM2I3YTYxNzRkZjMyNDQxZWE3YTc4NWRjMTE3MjM3YWU3NWMwYTI1`
+Snapshot ID: `MCxmOGIxODQyNDNhY2IyNTBiYzZiZjY1YzBlOTFkYThmOTRjNDMyOThk`

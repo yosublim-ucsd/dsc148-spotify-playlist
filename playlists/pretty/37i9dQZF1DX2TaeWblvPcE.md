@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,630 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,633 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 | 100 | [As If It's Your Last](https://open.spotify.com/track/7BoA9W76UhejAW80tkgmZn) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 2](https://open.spotify.com/album/3CT8vHhdIFY59dDSJaYVp6) | 3:46 |
 
-Snapshot ID: `MCxkMmNhM2I4M2RjMTllMWM4ZWJjNjk5YTJkYmVmNGYwOTk2M2YyOGE2`
+Snapshot ID: `MCw3MTAyOWM1YzE5MGYyMDdmZDUwMzlhYmZlMDk1NDQ2Nzk3OTBlOTAw`

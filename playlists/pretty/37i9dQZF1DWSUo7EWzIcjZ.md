@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,506 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,581 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Caminando por la Vida](https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu) | [Confusion](https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 5:16 |
 | 150 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
 
-Snapshot ID: `MCw2MjM2NWUzN2Y1YzlmNjAzNWQzZTk0ZTVkOGZiY2VlZDIyYTAxZTBm`
+Snapshot ID: `MCw4MjE4NDI0N2I4ZDc4MDQ3MTdkMmRlMmJhNTM2OTdlNWQ5NzRhMDE4`

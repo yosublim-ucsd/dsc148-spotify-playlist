@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,524 likes - 150 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,553 likes - 150 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 9 | [Tu Carcel \(En Vivo\)](https://open.spotify.com/track/7KTU1N7ZVl1lSuv7HIFVrh) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis Gustos Mis Canciones \(En Vivo\)](https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2) | 3:14 |
 | 10 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4) | 3:10 |
 | 11 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
-| 12 | [Cumbia Triste \(Marraneo Time Segunda Temporada\) \- Acústico En Vivo](https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Cumbia Triste \(Marraneo Time Segunda Temporada\) \[Acústico En Vivo\]](https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b) | 2:49 |
+| 12 | [Cumbia Triste \(Marraneo Time T2\) \- Acústico En Vivo](https://open.spotify.com/track/0EenRXa3ielyyC2lDTrrr4) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Cumbia Triste \(Marraneo Time T2\) \[Acústico En Vivo\]](https://open.spotify.com/album/7EmuMEtDUMJDXc1HJnxP2b) | 2:49 |
 | 13 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 14 | [Ch y la Pizza](https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ch y la Pizza](https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa) | 2:16 |
 | 15 | [La Del Moño Colorado \(En Vivo\)](https://open.spotify.com/track/58LFKqZqBq1p74V3Rqapxs) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [La Del Moño Colorado \(En Vivo\)](https://open.spotify.com/album/6adAT1G2RqV5jyEWQtxWEI) | 5:26 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 149 | [El Precio De La Soledad \- En Vivo](https://open.spotify.com/track/6AQEerPhCJhnJ9qTNcIzPK) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [El Precio De La Soledad \(En Vivo\)](https://open.spotify.com/album/43kbolEEnXUq6z4Y1Olfo1) | 3:16 |
 | 150 | [El Juan \- Vivo](https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [El Juan](https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl) | 2:18 |
 
-Snapshot ID: `MCw5YWJiZjI3ZDAyYWI5ZmEzODE1NTg0ZjJmMGU4M2Y5MDIxMjU0Mjg2`
+Snapshot ID: `MCw5YmMxOTRlOGFlZjJiYTk1Njg4Mjc2MzFlOGE4ZTkzZDNlMTBjZGI2`

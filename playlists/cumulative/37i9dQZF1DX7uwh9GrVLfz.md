@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Dizzy Sunfist
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-553 songs - 1 day 6 hr 4 min
+555 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
-| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 |  |
+| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 | 2023-05-31 |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
@@ -296,6 +296,7 @@
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
+| [seisyunhamada](https://open.spotify.com/track/4x8dUbBZSfR6mGyoZAe4F8) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [seisyunhamada](https://open.spotify.com/album/5H6j3a87BUuNgjZQUD9sX5) | 2:35 | 2023-05-30 |  |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 | 2022-09-15 |
 | [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 | 2022-09-09 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
@@ -331,7 +332,7 @@
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |
 | [Stay Pure](https://open.spotify.com/track/3YnshcRCGme6KvEykGpjtF) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [PURE](https://open.spotify.com/album/6Ym1lCGxIlduxxTNp6FTaP) | 3:38 | 2022-05-17 | 2022-07-29 |
-| [Stay・Young](https://open.spotify.com/track/79OZ3xmpxW94a0BpKQ4WL1) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [Stay・Young](https://open.spotify.com/album/5bTQbfOp1T7qPFKavEP6vU) | 3:44 | 2023-04-18 |  |
+| [Stay・Young](https://open.spotify.com/track/79OZ3xmpxW94a0BpKQ4WL1) | [EiHilE](https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED) | [Stay・Young](https://open.spotify.com/album/5bTQbfOp1T7qPFKavEP6vU) | 3:44 | 2023-04-18 | 2023-05-31 |
 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 | 2022-05-12 |  |
 | [Steer This Band](https://open.spotify.com/track/1Vmh9Q12P6tyB19oi2a8nx) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:53 | 2022-05-12 | 2022-10-12 |
 | [Step By Step](https://open.spotify.com/track/5QXoJkovHMOQcAnvjdoqgI) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:08 | 2022-05-31 | 2022-07-27 |
@@ -475,6 +476,7 @@
 | [メロディー](https://open.spotify.com/track/4mO8Q2xq2Qubo10LAQCtci) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [ハブ・ア・グッドバイ](https://open.spotify.com/album/6AvLMxfZudBb8cflhCnqZa) | 2:54 | 2022-06-30 | 2022-07-03 |
 | [メロディー](https://open.spotify.com/track/6mhx3RQGyRnyySxOSjiZDj) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [メロディー](https://open.spotify.com/album/475kHGADzl51GNWvBDlZ8b) | 2:54 | 2022-05-12 | 2022-07-09 |
 | [ラブソングはいらない](https://open.spotify.com/track/6PT9GI9KfOytFFcK82ZpC6) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [ラブソングはいらない](https://open.spotify.com/album/1IyWrwgeRCsTveiU5s9WyT) | 2:22 | 2022-05-12 | 2022-07-25 |
+| [ラーメンライス](https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [ラーメンライス](https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq) | 2:49 | 2023-05-30 |  |
 | [レイジー](https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/4IYmBLtPsWV9hwGIl5gvHM) | 3:43 | 2023-05-16 | 2023-05-18 |
 | [ロスタイム](https://open.spotify.com/track/4MBgEjXDDB2oPvX5PYg2TM) | [メメタァ](https://open.spotify.com/artist/1T20xglqzXdTMykiOTUTjG) | [ロスタイム](https://open.spotify.com/album/4Z6Y3IVRxjSeRp2IMLZ9zp) | 3:58 | 2022-05-17 | 2022-07-27 |
 | [ロックスター人生](https://open.spotify.com/track/0yyKxMFrG3PUzrGmIjcSbT) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [LOVE☆SONG \~唄を愛したピエロのロックスター人生\~ \(Special Edition\)](https://open.spotify.com/album/7rnYwUX2E8FgJauLauQv7i) | 3:16 | 2022-05-12 | 2022-07-29 |

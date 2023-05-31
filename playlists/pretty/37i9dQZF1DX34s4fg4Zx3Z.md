@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,969 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,987 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 88 | [Anh Đã Từng](https://open.spotify.com/track/4nAobe9FOH8IrTWxVD7wZV) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [2Hoang](https://open.spotify.com/artist/01WAgDamuRnJyTMnRXbSfB) | [Anh Đã Từng](https://open.spotify.com/album/5t9wfhxFb2igEWTdA0q0Rj) | 2:59 |
 | 89 | [Monday](https://open.spotify.com/track/2TWW5ePwVqgvZthUj7mqJP) | [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [HwangMike](https://open.spotify.com/artist/6dUcguuhmzTNQSVHKaHVJs) | [Monday](https://open.spotify.com/album/0VlUDpC3UIWHmqdLiwTDzh) | 3:03 |
 | 90 | [Gió \- Official](https://open.spotify.com/track/4YrI4tUJTzqi1hfvICCJPD) | [JanK x N2L](https://open.spotify.com/artist/4o52B6GZw0oZrxVTzfO3hV) | [Gió \(Official\)](https://open.spotify.com/album/1N6qUEJau1cE4DJ7PRKnGg) | 4:37 |
-| 91 | [ta nen vay thoi](https://open.spotify.com/track/3l2pzxSGxA5QBczflT8IFm) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Gia Gia](https://open.spotify.com/artist/0rRfgjRejsES6xPGa1N0Ew) | [ta nen vay thoi](https://open.spotify.com/album/28zWCsd2SvWCCGNUFEmHmK) | 2:53 |
+| 91 | [ta nen vay thoi](https://open.spotify.com/track/299SFAenm6AhaD6ughFSkC) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Gia Gia](https://open.spotify.com/artist/0rRfgjRejsES6xPGa1N0Ew) | [LOVE](https://open.spotify.com/album/3ggUbiKB1hfZ3FE0KrlNHO) | 2:53 |
 | 92 | [Đôi Mắt Biết Nói Dối](https://open.spotify.com/track/6ppAOdNAPzMNbzjQRFRGPZ) | [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [Đôi Mắt Biết Nói Dối](https://open.spotify.com/album/3AQAwEp9vAsbvAi6fozsch) | 4:06 |
 | 93 | [Con lai ai](https://open.spotify.com/track/5KLDaL6meYiYAMfEuKetT6) | [Kinn](https://open.spotify.com/artist/1deDBB69YQHCr0hfw2INEt), [shi](https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ), [Dewie](https://open.spotify.com/artist/2fZ5sWYSqJpL11OqCDr9oY) | [Con lai ai](https://open.spotify.com/album/7ka9GPVDvUyZZPXE1mjIW5) | 2:46 |
 | 94 | [ON YOU](https://open.spotify.com/track/2L6uWjXkP6c8TI0nL2jZvh) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [Gxxfy](https://open.spotify.com/artist/1i9boYyWPAZZLSrDcIov6U) | [ON YOU](https://open.spotify.com/album/3oXkB9RAPhqDw3L7XyMPAy) | 2:22 |
 | 95 | [NGÀY XA EM](https://open.spotify.com/track/0byJ14Bq2MzGk84asssidS) | [PT3](https://open.spotify.com/artist/1mlZRnekQgYGn3nyIgAsze), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW), [Domi](https://open.spotify.com/artist/3ilRrV8bsWwSgbwApmbtnk) | [NGÀY XA EM](https://open.spotify.com/album/7pQfoZW2DDzNdrQiFhsUU4) | 2:28 |
-| 96 | [whatever happens, happens](https://open.spotify.com/track/5kjb7pJ5iYvt0AqX0iD0YU) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Saabirose](https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5) | [whatever happens, happens](https://open.spotify.com/album/1HPTmBEU2Ov6AR4oByyfHY) | 2:56 |
+| 96 | [whatever happens, happens](https://open.spotify.com/track/6w5qwL5HQsbdAa4cLG6guE) | [PAR SG](https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY), [Saabirose](https://open.spotify.com/artist/3IMLi0C3EgNuwDiksTxiS5) | [LOVE](https://open.spotify.com/album/3ggUbiKB1hfZ3FE0KrlNHO) | 2:56 |
 | 97 | [Một Mình Vẫn Vui](https://open.spotify.com/track/2bvfuSSprhmkBCov4JMQ6e) | [Lê Ngọc Châu Anh](https://open.spotify.com/artist/275KG0jezF4cng8bZmuk8q) | [Một Mình Vẫn Vui](https://open.spotify.com/album/1kCk32IbrgBdj9uVFI70wW) | 3:29 |
 | 98 | [Chưa Từng Yêu Góc Tối Của Nhau](https://open.spotify.com/track/5Vm4xOmF796ZtCvZ058uQi) | [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj), [Bean](https://open.spotify.com/artist/0ye4I1wDHH70kYGCRHnK0x), [Heni](https://open.spotify.com/artist/1mzHTHt7GmbiLG84ygdKnE) | [Chưa Từng Yêu Góc Tối Của Nhau](https://open.spotify.com/album/1tPrt2gyyLPK0FqcUGRABm) | 3:19 |
 | 99 | [Cuộc Gọi Đêm](https://open.spotify.com/track/27Nsm7EmmMJTEfZlgYjuap) | [Uyên Tố](https://open.spotify.com/artist/2JBjRSGBG8SYTVMoN7ZIlR), [Heness](https://open.spotify.com/artist/6ZJIw0WmfGPP8Oi4QCZ5bm) | [Cuộc Gọi Đêm](https://open.spotify.com/album/63rohEHJXSTN8zxHZOpEbQ) | 3:29 |
 | 100 | [em đou biết mình said](https://open.spotify.com/track/5uU92f5c6joZNErtlcQSI3) | [Vũ Đức Kiên OBC](https://open.spotify.com/artist/2ZQyqUYzAtkcIEgaH2Vf3E) | [em đou biết mình said](https://open.spotify.com/album/3pqOqJHCFOJn0fjLpeNK6w) | 3:12 |
 
-Snapshot ID: `MCxhYjAzZjgwMDRkNzU0YTM2YzZiMjZkOTQwZWM3MDI2ZWYzNDQ0MGM5`
+Snapshot ID: `MCxmMjE0MTVhNjFjNWMxNTJkOTNmOTg3MjEzYmU3ZTkyOTZkMzEwMTNk`

@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Darou Bina",
+        "url": "https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210433,
+      "name": "Darou Bina",
+      "url": "https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y"
+    },
+    {
+      "album": {
         "name": "Demi-tour",
         "url": "https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,996 likes - 150 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,249 likes - 150 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 |
 | 150 | [Bend & Break \- Instrumental](https://open.spotify.com/track/0DvOD9MYBxtXywC54zLYtJ) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Bend & Break](https://open.spotify.com/album/1ce4M8suREfo8SIZDkE1PY) | 5:16 |
 
-Snapshot ID: `MCw1YmM0NmZmYzhhYzA5YmRhODFmM2Y1NzgzNDQwZmY0NGYyZWNmY2Qx`
+Snapshot ID: `MCw5OTYzMGI4NmE5ZjhhNzZiMzExMTk4ZjIzZThkNDEyMzhhZjkwN2Jk`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL?si=cWR\_tC2BQmWNvhPwHwyT5w"> Rebecca Garton</a>  and <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=l0hmhiOZQpiwKspg3SkMWQ"> Tay Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,985 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,996 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everyday Love](https://open.spotify.com/track/6wXRsCSsGwY1bfXK3BaZ7L) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Everyday Love](https://open.spotify.com/album/5YuQhH8F5KA5xqSZYbgZzp) | 3:53 |
 | 2 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 |
 | 3 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 |
-| 4 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/2moYD45FnHYQyPi7wa9tnE) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
+| 4 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 |
 | 5 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
 | 6 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 |
 | 7 | [Everything](https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Don't Tell Anyone](https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY) | 2:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 78 | [Hope Alive](https://open.spotify.com/track/4e7ews9UGAlxHA4rV06KoY) | [Mulla Rae](https://open.spotify.com/artist/2A2cmFmFbDZIVYIpVmR813) | [Wavy Sound](https://open.spotify.com/album/78HIwKoPbr9FmAiNs0Shx4) | 2:44 |
 | 79 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
 
-Snapshot ID: `MCw2MzIxZGFlMzY3N2QwM2JmMWU2YmJjMDAxNDkwMTg5MjFiODk5YzFm`
+Snapshot ID: `MCw2MWIyZjRjNDhkYjg1YjlmMzFiNzJmYmU0ZDYwOGI4YWJmYjRiYWI1`

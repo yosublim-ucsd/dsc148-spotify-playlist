@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Mc Luanna e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,728 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,777 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 50 | [Sal e Pimenta](https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Sal e Pimenta](https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf) | 3:26 |
 
-Snapshot ID: `MCw4NGZlZmU4ZmQ2MjczOTkxZDZhODk2NWJiODdiODE4YzVmZDYwNzRl`
+Snapshot ID: `MCxiYzMzZmE3MTdmMTVkZDUzMzdmYjE4Zjk1ODhhODBjMWJhYzRlY2Q3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,986 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,984 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Navidad](https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA) | [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Navidad](https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw) | 3:48 |
 | 100 | [Plena Que Adora a Dios](https://open.spotify.com/track/4rBxK37YIwtn2vonTCDL93) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Plena Que Se Pega](https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um) | 3:28 |
 
-Snapshot ID: `MCw2M2NlNTc0Nzg4NDgzY2VmODA4M2VhZGNhNDkyNGRiZGNhZDJhZjI2`
+Snapshot ID: `MCw2MGMwZjM1MDIzOWFmNzRlY2E5NWI3YjUzODBhZDRjMDBjZTY3YmRk`

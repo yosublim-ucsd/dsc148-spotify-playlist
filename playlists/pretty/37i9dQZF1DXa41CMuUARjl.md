@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Dylan & Harry \(Party Favor & Baauer\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,657 likes - 105 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,746 likes - 105 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 104 | [Electric Drive](https://open.spotify.com/track/4BrRkijMoO7QtKJAQhy6sY) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Electric Drive](https://open.spotify.com/album/6CqAkOisbxub3iuOC9KGhk) | 4:07 |
 | 105 | [Jingū Kogo / Emperatriz Jingū](https://open.spotify.com/track/7DPWWobv9QiEq5jDRq5nuB) | [Paurro](https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO) | [Jingū Kogo / Emperatriz Jingū](https://open.spotify.com/album/2uwKjgzMF4j3R72YG4OV2L) | 8:54 |
 
-Snapshot ID: `MCw1NDc1ZTBiOGQ5ZjMxMjliNzU1MjFkMDVmNGY2ZjQ3MWZkODAyNDlj`
+Snapshot ID: `MCw0YjU2M2NhMDQ2ODdlNmU0ZmU5OTQ3ODA1ODc2ZDdjYjY3NzcyMDQ3`

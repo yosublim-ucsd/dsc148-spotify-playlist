@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,845 likes - 105 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,866 likes - 105 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [decide](https://open.spotify.com/track/6bW3c6YCIlHyrVMkxAjQ8n) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [decide](https://open.spotify.com/album/47TmgIfUPSKRogT4kmT8Lb) | 2:43 |
 | 105 | [預感](https://open.spotify.com/track/7cd9FUyybSJX1gQ9ElPi2g) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:50 |
 
-Snapshot ID: `MCwzMWY1ODE2NDNjMTUxM2M0NDQ1YmVmMGM5ODE3ZWNjOWM2ODY5NWY1`
+Snapshot ID: `MCw3ODI1YzRiMjcwZmFiYjYxNmI3ZmYzNTEzMzZkZTU0ZTA4MDA4MjYz`

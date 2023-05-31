@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 941274,
+  "num_followers": 941600,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTU0ZmY2MTRhMjIwMzA1MWE4YzRkMTJmNDY2YWU5OTZkNzZjMmZj",
+  "snapshot_id": "MCw0YmM3MDVhY2RiZGUyODkwZGZhOWYzYzI5NjRmZDkyMjQ2M2YyYjFh",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Automatic (Expanded Version)",
-        "url": "https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Head On",
-      "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Spike",
         "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
       },
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Playlist: The Very Best of A Flock of Seagulls",
+        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 330426,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Playlist: The Very Best of A Flock of Seagulls",
-        "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 330426,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Kilimanjaro",
         "url": "https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 239533,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/55MEbqyxZphjB0beZ7YT0f"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     }
   ],
   "unique_name": "The '80s All Lined Up",

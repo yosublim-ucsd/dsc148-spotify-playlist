@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Lauryyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,727 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,730 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cambio di scena](https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cambio di scena](https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj) | 2:49 |
 | 2 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 3 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
-| 4 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 |
+| 4 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 |
 | 5 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 | 6 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 |
 | 7 | [Luce](https://open.spotify.com/track/3JNIkNlzpYSVRqRntUVMF0) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 74 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |
 | 75 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 |
 
-Snapshot ID: `MCxmZDRjNzZkZjgzN2E4MDdhN2RjNGEyZmE4ZGM3ZmFlZjc0OWI2MDZi`
+Snapshot ID: `MCw5MDQwM2RmNmQ1ZTdhMjk0OTdjMDlkYmMxODZlM2JlZjk3OGE4NWM3`

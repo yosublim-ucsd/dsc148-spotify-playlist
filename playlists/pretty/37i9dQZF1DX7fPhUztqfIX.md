@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,844 likes - 130 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,871 likes - 130 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Martin Smith](https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz) | [Lord You Have My Heart \(feat\. Martin Smith\)](https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS) | 4:27 |
 | 130 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
 
-Snapshot ID: `MCxhZmNiYTE1NGUyMzVlYjFhZGJmNmM4MDAwYjdiNjQyZDAyZTZiOTg5`
+Snapshot ID: `MCxjZTgxN2ZiNDdhYWI4NjUyMmMxOGNlNzY5ZTY3NjBkNDM5ZjRlZmI3`

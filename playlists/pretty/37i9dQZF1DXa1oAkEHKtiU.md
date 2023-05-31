@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 
 > Los hermanos Durán, López y Basualto nos dejaron estos temas desde Concepción al mundo..\. ¡Grande Los Bunkers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,955 likes - 66 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,030 likes - 66 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 65 | [El día en Que Dejaste de Fingir](https://open.spotify.com/track/2fzn3EaklnRkKiWsKpLtfE) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:44 |
 | 66 | [Nada Más De Mi](https://open.spotify.com/track/3ccqnu4sNRcyeRUW1HxvA6) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:13 |
 
-Snapshot ID: `MCwzMTA5YTc5OGFjNGZlZDY2MjljYjllNTQ3ODcwZjRjMDc3OGU5YmM1`
+Snapshot ID: `MCxlYjZjYjUzMzc4ZTEwOTFkODMyODg3ZTVhNTYzMjdjODBmNTcxNzMw`

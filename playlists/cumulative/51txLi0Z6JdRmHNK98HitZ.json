@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-03",
-  "description": "Here is a playlist of all our songs released so far. Our new album 'Today We\u2019re The Greatest' is out now!",
+  "description": "Here is a playlist of all our songs released so far. Our new single 'Bootleg Firecracker' is out now!",
   "name": "Middle Kids - Complete Collection",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 239765,
       "name": "Big Softy",
       "url": "https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU"
+    },
+    {
+      "album": {
+        "name": "Bootleg Firecracker",
+        "url": "https://open.spotify.com/album/6yxR2ZMUrvFrSpgXFSBs13"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200457,
+      "name": "Bootleg Firecracker",
+      "url": "https://open.spotify.com/track/4o1NDnqy0tuTXG2yoEqfQC"
     },
     {
       "album": {

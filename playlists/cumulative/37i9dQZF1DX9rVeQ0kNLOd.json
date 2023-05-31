@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "I am here",
+        "url": "https://open.spotify.com/album/2T7x92ijvQLOaK7IUeP6Ar"
+      },
+      "artists": [
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "I am here",
+      "url": "https://open.spotify.com/track/3oY94FnUoK5sSVyExSFZDa"
+    },
+    {
+      "album": {
         "name": "idoshiyo",
         "url": "https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk"
       },
@@ -1240,6 +1258,28 @@
       "duration_ms": 238857,
       "name": "Mirror ball (feat. \u9ad8\u6a4b\u98db\u5922)",
       "url": "https://open.spotify.com/track/2r6RvMnR8Ff2TNc1LdYNam"
+    },
+    {
+      "album": {
+        "name": "Mo ai ni",
+        "url": "https://open.spotify.com/album/79saUDsLWYgwn46WMKRtW7"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        },
+        {
+          "name": "\u77f3\u73ba\u5f64",
+          "url": "https://open.spotify.com/artist/1m4PLF4txR3ykHKa3uVWcd"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178673,
+      "name": "Mo ai ni",
+      "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
     },
     {
       "album": {
@@ -2101,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3081",
+        "url": "https://open.spotify.com/album/0SvQEjDT5o6DNKNXmTRhEK"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b3\u30c8\u30b3\u30f3\u30c9\u30a6",
+          "url": "https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "\u3042\u3081",
+      "url": "https://open.spotify.com/track/3krw9tEZvkPK2EIxgDSohn"
+    },
+    {
+      "album": {
         "name": "\u3044\u306e\u308a",
         "url": "https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm"
       },
@@ -2860,7 +2918,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 228452,
       "name": "\u5e30\u308d\u3046",
       "url": "https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3"
@@ -2882,6 +2940,28 @@
       "duration_ms": 229333,
       "name": "\u5fc3\u76ee\u5f53\u3066\u306e\u30aa\u30ec\u30f3\u30b8",
       "url": "https://open.spotify.com/track/6OIR1s8d49Wmx1ErT28nUj"
+    },
+    {
+      "album": {
+        "name": "\u611b\u304c\u305d\u308c\u3060\u3051 (feat.\u539f\u7530\u90c1\u5b50)",
+        "url": "https://open.spotify.com/album/6pPHKrIrfDuB1pE7t1ErOZ"
+      },
+      "artists": [
+        {
+          "name": "the chef cooks me",
+          "url": "https://open.spotify.com/artist/7rHuV593nUs88Tx4NJMimt"
+        },
+        {
+          "name": "Ikuko Harada",
+          "url": "https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203348,
+      "name": "\u611b\u304c\u305d\u308c\u3060\u3051 - feat.\u539f\u7530\u90c1\u5b50",
+      "url": "https://open.spotify.com/track/5evxDN31KQyoJrqEB49QzV"
     },
     {
       "album": {
@@ -2936,7 +3016,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 186683,
       "name": "\u6570\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf"
@@ -3084,7 +3164,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 177813,
       "name": "\u6e9c\u3081\u606f",
       "url": "https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb"
@@ -3286,7 +3366,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"

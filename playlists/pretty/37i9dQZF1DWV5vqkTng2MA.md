@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Abraham Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,335 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,431 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Sadie](https://open.spotify.com/track/2Nq1CHPEOt21w1ctEaV22j) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Sadie](https://open.spotify.com/album/7nXFbaFq3Z9gGPZnE8wew8) | 2:56 |
 | 90 | [Little Record Girl](https://open.spotify.com/track/5K467049SloeEJHvMhJDcl) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:02 |
 
-Snapshot ID: `MCw3MDkzOWFiYzI3YmJiNTNhODViY2ZmYzQ1N2Q3N2I4M2VlODhhZjkz`
+Snapshot ID: `MCw1Yzg2YmUyOWRjZmUwODIxMDMwOGI0MWNhOTJhNzg5NjQwYmIxYzVk`

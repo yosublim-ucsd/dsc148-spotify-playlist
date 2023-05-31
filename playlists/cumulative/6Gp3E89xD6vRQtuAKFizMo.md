@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-179 songs - 8 hr 53 min
+180 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
+| [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 |  |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 |  |
 | [Smoke](https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Smoke](https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG) | 2:58 | 2022-08-26 | 2023-04-09 |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 | 2023-04-09 |

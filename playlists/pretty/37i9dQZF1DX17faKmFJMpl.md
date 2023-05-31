@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,407 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [똑바로 걸어가 \(feat\. Redroc & 도끼\)](https://open.spotify.com/track/6LY8SLZE6WahwaAluvocrb) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Redroc](https://open.spotify.com/artist/1wwQDS0bLPNsiFFqWmCJNa), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Ill Skill](https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf) | 3:38 |
 | 100 | [But I Go](https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 3:21 |
 
-Snapshot ID: `MCw3YTAxYWMyYmRjMWQyYzRmOTlkMjI1ZGQ3MTlmZTA0Y2I2NjA5ZTVi`
+Snapshot ID: `MCwwOTY4OGI5NDhkYzA3OWM1YzhmYWY4NTM1Mjg4MzYxOWM5MzIwN2Y5`

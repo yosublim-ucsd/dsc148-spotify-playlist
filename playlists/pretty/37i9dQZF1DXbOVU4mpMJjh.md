@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,845 likes - 300 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,942 likes - 300 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 299 | [Morristown Blue](https://open.spotify.com/track/2yfDEMRiDN5lvCYJiRvefD) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Morristown Blue](https://open.spotify.com/album/3mvq8WFbWietlyrYBceJPw) | 3:49 |
 | 300 | [Spring Will Be a Little Late This Year](https://open.spotify.com/track/6Rv2CtJxWX6Kg7hppcZkAm) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [Spring Will Be a Little Late This Year](https://open.spotify.com/album/6E3oiM7hAqeUcw7zEM5kil) | 3:07 |
 
-Snapshot ID: `MCwzMmQ1YmZiODE2ZDI5YWQ4NmFlZWVkYTFiMGViYWNjMzY0ZmM0MmI3`
+Snapshot ID: `MCxlMmUwMWIxODEzMWEzODY0NjRmNTVjOWFiNDkzMjRlYzFiN2ZiMzA5`

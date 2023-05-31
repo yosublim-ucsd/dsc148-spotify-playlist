@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,076 songs - 2 day 13 hr 39 min
+1,077 songs - 2 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Don’t Forget To Breathe](https://open.spotify.com/track/0cSXY3uBw8wuEjJeQAwOGO) | [Associanu](https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U) | [Don’t Forget To Breathe](https://open.spotify.com/album/1Z3cPY7x3yBjhWlhyhbJX7) | 3:08 | 2022-06-17 | 2022-06-25 |
 | [Dos Gardenias](https://open.spotify.com/track/7qNKqt4pUkxVb58YAs5XzA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Dos Gardenias](https://open.spotify.com/album/1yNfqvgX3JV7JoBZVtt5Qn) | 3:39 | 2023-05-12 | 2023-05-20 |
 | [Down To Earth](https://open.spotify.com/track/1qylaDunQs1eEcDN5m1ZpE) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Down To Earth](https://open.spotify.com/album/7sGpOYniLG9vzBH898x5kj) | 3:37 | 2023-04-28 | 2023-05-06 |
+| [Dream Of You](https://open.spotify.com/track/2AJI9PXZEdFuhjJkoGedhJ) | [CHAN](https://open.spotify.com/artist/4i7DSbtW1kZ2iv0w8j6lUZ) | [Dream Of You](https://open.spotify.com/album/2ZVUWrpzqOg21OKLBEf87X) | 2:52 | 2023-05-30 |  |
 | [Dreamer](https://open.spotify.com/track/1Pl0i0pjNxdFCMlnBirdob) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO) | [Dreamer](https://open.spotify.com/album/0zORCmOe4LKxteNOWDdzeb) | 3:34 | 2023-01-28 | 2023-02-11 |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-13 |  |
 | [Drop It](https://open.spotify.com/track/4h9RxRzTdbJlV8gFyOIdv0) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 | 2022-06-11 |

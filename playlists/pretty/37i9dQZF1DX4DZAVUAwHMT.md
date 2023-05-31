@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,562 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,542 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 |
 | 55 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
 
-Snapshot ID: `MCwxMDRjZTRjOWE1YmUzYTQ1NjdmMjllNjkyMDYyMDYzMTNhNWI5ZWRk`
+Snapshot ID: `MCw5ZjJkNmFjZmI2YjE3MmM1N2ViMTk2YTIzODIxZDkwZjAyM2MxYjNi`

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy a break with some relaxing soft songs.",
-  "num_followers": 733232,
+  "num_followers": 733325,
   "original_name": "Cozy Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGRlYThiZGY2YmJmMGZhZDE5N2YwMjNjZTlkNjYyMDBkNGMwNzJj",
+  "snapshot_id": "MCw3MmFiNTY3MDFmZmUzYWQ1YzI3YzM0MWUxMjI2OTE1MTdjYTBmY2Ni",
   "tracks": [
     {
       "added_at": "2023-03-17 10:30:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
     },
     {
+      "added_at": "2023-05-30 12:00:30",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/4KE1Eeu0tO0f2czX9pfaRc"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/3Ues7YM3y8JYnTeu2OYFVH"
+    },
+    {
       "added_at": "2023-03-31 11:00:00",
       "album": {
         "name": "Kryptonite",
@@ -1483,6 +1499,22 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Shouldn't Matter but It Does",
+      "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
         "name": "A World Gone By",
         "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
       },
@@ -1527,22 +1559,6 @@
       "duration_ms": 172786,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Shouldn't Matter but It Does",
-      "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -3403,22 +3419,6 @@
     {
       "added_at": "2023-02-17 11:17:00",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
         "name": "4 (The Pink Album)",
         "url": "https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s"
       },
@@ -3435,6 +3435,22 @@
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/7InQwxswyvUtAxfV8KsCrz"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -4163,22 +4179,6 @@
       "duration_ms": 195226,
       "name": "Fraction",
       "url": "https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk"
-    },
-    {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe"
     }
   ],
   "unique_name": "Cozy Blend",

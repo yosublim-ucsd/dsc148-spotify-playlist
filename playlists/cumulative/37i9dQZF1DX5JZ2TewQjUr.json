@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/5tTfA9XazzOUy9od4PaEEZ"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213589,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/0w1XN1HtEZIBXSSfYFrOQ0"
+    },
+    {
+      "album": {
         "name": "Stick With You",
         "url": "https://open.spotify.com/album/49xv1VRDu4J06GezkqFHr9"
       },
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-31",
       "duration_ms": 213589,
       "name": "Stick With You",
       "url": "https://open.spotify.com/track/2LrkvWO2443XxHjFDzq3Jz"
