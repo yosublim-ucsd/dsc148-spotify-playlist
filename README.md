@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6133\)
+## Playlists \(6134\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -6201,4 +6201,5 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [포근 편안 폭신](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
 - [해리 스타일스 'LOVE ON TOUR 2023 Live In Seoul'](/playlists/pretty/37i9dQZF1DX9ET7mtaGmRc.md)
 - [힐링 힙합](/playlists/pretty/37i9dQZF1DWZiWafrEIdA8.md)
+- [𝙛𝙨𝙝 𝙣𝙙 𝙘𝙝𝙥 𝙟𝙢𝙨](/playlists/pretty/4bPJzqdwVF3SMKYy9MzH5e.md)
 - [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)
