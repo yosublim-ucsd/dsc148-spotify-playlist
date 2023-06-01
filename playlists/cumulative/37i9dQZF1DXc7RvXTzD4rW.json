@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5cac\u306a\u3053(Misaki Nako)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5800\u5185\u307e\u308a\u83dc (Marina Horiuchi)",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
+    {
+      "album": {
+        "name": "1 LOVE 1",
+        "url": "https://open.spotify.com/album/627Fr454HJb1M3IcjeZHYm"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u7530\u96c4\u99ac",
+          "url": "https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227306,
+      "name": "1 LOVE 1",
+      "url": "https://open.spotify.com/track/1dcro7tCEqeC1sMEo8Ye0o"
+    },
     {
       "album": {
         "name": "Shiroto Hanataba",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 241240,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/1cKiG2MSjSCYq3Ikj2jGXU"
@@ -208,6 +226,42 @@
       "duration_ms": 267000,
       "name": "ALRIGHT!",
       "url": "https://open.spotify.com/track/0V4AQZP769SHFH513BNqsZ"
+    },
+    {
+      "album": {
+        "name": "Alter Echo",
+        "url": "https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211890,
+      "name": "Alter Echo",
+      "url": "https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S"
+    },
+    {
+      "album": {
+        "name": "Angel Ladder",
+        "url": "https://open.spotify.com/album/0wOqYylqQDfR5WaatVSvN1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30f3\u30c9\u30ea\u30aa\u30f3",
+          "url": "https://open.spotify.com/artist/2qP4MQzvWRkgVVNpxRVdm6"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258372,
+      "name": "Angel Ladder",
+      "url": "https://open.spotify.com/track/1ShMFZI6aHbNsX8gJ1nB8f"
     },
     {
       "album": {
@@ -586,7 +640,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
@@ -662,6 +716,24 @@
       "duration_ms": 261972,
       "name": "eclatante",
       "url": "https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x"
+    },
+    {
+      "album": {
+        "name": "Shiroto Hanataba",
+        "url": "https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u"
     },
     {
       "album": {
@@ -784,7 +856,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 255200,
       "name": "Fantastic Future - From CrosSing",
       "url": "https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb"
@@ -842,6 +914,24 @@
       "duration_ms": 210283,
       "name": "flower",
       "url": "https://open.spotify.com/track/7F2ElpBUHRNJdVsPGFUfer"
+    },
+    {
+      "album": {
+        "name": "Follow You!",
+        "url": "https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP"
+      },
+      "artists": [
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Follow You!",
+      "url": "https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr"
     },
     {
       "album": {
@@ -1087,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/0xRi6wtLzzZnhk1MGR4SpR"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6751\u5065\u4e00",
+          "url": "https://open.spotify.com/artist/2GI6Rs7eT3ZDZ4mjvjxDH1"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/3gTwnTWjFSjkxUv4yyHxM8"
+    },
+    {
+      "album": {
         "name": "DELIGHTED REVIVER",
         "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
       },
@@ -1242,7 +1350,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 227426,
       "name": "Just a little bit",
       "url": "https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB"
@@ -1296,7 +1404,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 230117,
       "name": "Key to My Heart",
       "url": "https://open.spotify.com/track/1NmvymljWwjFk64R6N24So"
@@ -1905,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "PIZZA SUSHI planet walking",
+        "url": "https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj"
+      },
+      "artists": [
+        {
+          "name": "\u6c5f\u53e3\u62d3\u4e5f",
+          "url": "https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196900,
+      "name": "PIZZA SUSHI planet walking",
+      "url": "https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6"
+    },
+    {
+      "album": {
         "name": "Pokerface",
         "url": "https://open.spotify.com/album/4dELVIOLcAs8JBT0vHGDIN"
       },
@@ -2060,7 +2186,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 231640,
       "name": "Salt & Sugar",
       "url": "https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR"
@@ -2193,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Starry Garden",
+        "url": "https://open.spotify.com/album/4f9OsZlfycCAYBVXY2FCog"
+      },
+      "artists": [
+        {
+          "name": "Nanaka Suwa",
+          "url": "https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "Starry Garden",
+      "url": "https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk"
+    },
+    {
+      "album": {
         "name": "Starry-eyed Chronicle",
         "url": "https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo"
       },
@@ -2222,7 +2366,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 238480,
       "name": "sugar",
       "url": "https://open.spotify.com/track/2675zqM1O6irmmtUWamczG"
@@ -2547,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Just a little bit",
+        "url": "https://open.spotify.com/album/2hyCWFxpPWVoWHZSXqGOOM"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u5185\u307e\u308a\u83dc",
+          "url": "https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/5ia4dmh1nNWx7VsUdzRNLu"
+    },
+    {
+      "album": {
         "name": "VISIONS (feat. \u5bfa\u5cf6\u62d3\u7be4)",
         "url": "https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY"
       },
@@ -2735,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3063\u3071\u308c!\u99ac\u9e7f\u9a12\u304e",
+        "url": "https://open.spotify.com/album/3pYdaRaH4pvd1JXIKMW21S"
+      },
+      "artists": [
+        {
+          "name": "i\u2606Ris",
+          "url": "https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226885,
+      "name": "\u3042\u3063\u3071\u308c!\u99ac\u9e7f\u9a12\u304e",
+      "url": "https://open.spotify.com/track/3gANQpw7QXUwsOq7YxlqZm"
+    },
+    {
+      "album": {
         "name": "\u3042\u306e\u65e5\u306e\u3053\u3068\u3070 / Growing",
         "url": "https://open.spotify.com/album/2uwhDqO7HjJULspAfWD5AM"
       },
@@ -2822,7 +3002,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 253760,
       "name": "\u305d\u308c\u3092\u50d5\u306f\u5f37\u3055\u3068\u547c\u3073\u305f\u3044",
       "url": "https://open.spotify.com/track/4fsekxb0iIBRP2JvzinstE"
@@ -3344,7 +3524,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 232900,
       "name": "\u30c9\u30e9\u30e0\u5f0f\u63a2\u67fb\u6a5f",
       "url": "https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca"
@@ -3946,7 +4126,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 292226,
       "name": "\u795e\u69d8\u3060\u3063\u3066\u6c7a\u3081\u3089\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/1X1ifUFJiBuK9r6VfqzoVd"
@@ -4090,7 +4270,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 263613,
       "name": "\u83ef\u9e97\u30ef\u30f3\u30bf\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3E7PYVYZ5YfmeJpzEv4PYf"
@@ -4184,6 +4364,24 @@
       "duration_ms": 236000,
       "name": "\u9752100\u8272",
       "url": "https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4"
+    },
+    {
+      "album": {
+        "name": "PRESENCE",
+        "url": "https://open.spotify.com/album/3677faNhVxL4oQAWrLYgjA"
+      },
+      "artists": [
+        {
+          "name": "\u6960\u6728 \u3068\u3082\u308a",
+          "url": "https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "\u9752\u5929\u306e\u9739\u9742",
+      "url": "https://open.spotify.com/track/3EesqOwvaAzaefNb6lwTM5"
     },
     {
       "album": {

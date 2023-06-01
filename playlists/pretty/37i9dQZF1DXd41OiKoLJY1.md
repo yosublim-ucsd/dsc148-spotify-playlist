@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: YNISH Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,320 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,327 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Mag Wala Ka](https://open.spotify.com/track/4wzEehqx2682GpU2wULUHG) | [Outer Space Studio](https://open.spotify.com/artist/2NWGirWy4tZ0b9qNGn6dgq), [Lynch](https://open.spotify.com/artist/59ABZmN3lE5pXyIqNMpMrb) | [Mag Wala Ka](https://open.spotify.com/album/6vcTwjINiMSgzFixwNtauR) | 3:38 |
 | 75 | [Bihag](https://open.spotify.com/track/6xE7Sze1DELG3VdXHtOWyL) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [Bihag](https://open.spotify.com/album/6DkfJ3JHcezZn61FYXQk9y) | 3:55 |
 
-Snapshot ID: `MCwxYjM4Nzk3NTM1MmUyNTc5NzUyNjkwZDJkM2U0Mjc0NmE3ZDY0Nzcy`
+Snapshot ID: `MCxkZjIxNWI1NTQ5MzY5MzAyOTZiNGQ0YmJlNGMxOTU4MTQ3ZTFiNDI4`

@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6013,
+  "num_followers": 6012,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGNmMWU5Zjk1MDI4ODlkMDc0ODBkNWUxNWU1OWE0Y2RlMjZhODVm",
+  "snapshot_id": "MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -23,6 +23,22 @@
       "duration_ms": 562388,
       "name": "A Casa \u00c9 Sua",
       "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Ana N\u00f3brega (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 342353,
+      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -55,22 +71,6 @@
       "duration_ms": 229594,
       "name": "Acredito (We Believe)",
       "url": "https://open.spotify.com/track/6sDmwH4Iy2NZ90crcH7Bk2"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Ana N\u00f3brega (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 342353,
-      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal em Fam\u00edlia",
-        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 287499,
-      "name": "Natal em Fam\u00edlia",
-      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "\u00d3 Noite Santa",
         "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 310714,
       "name": "\u00d3 Noite Santa",
       "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Natal em Fam\u00edlia",
+        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 287499,
+      "name": "Natal em Fam\u00edlia",
+      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 210372,
       "name": "Dai Louvores ao Rei",
       "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "#TBT",
+        "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
+      },
+      "artists": [
+        {
+          "name": "7MUS",
+          "url": "https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8"
+        },
+        {
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
+        }
+      ],
+      "duration_ms": 212175,
+      "name": "A Hist\u00f3ria de Cristo",
+      "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 230658,
       "name": "O Primeiro Natal",
       "url": "https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Noite de Paz",
-        "url": "https://open.spotify.com/album/385673vVXabsOzy5GjDQzn"
-      },
-      "artists": [
-        {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        },
-        {
-          "name": "Jeanne Mascarenhas",
-          "url": "https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J"
-        }
-      ],
-      "duration_ms": 241222,
-      "name": "Noite de Paz",
-      "url": "https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1"
     }
   ],
   "unique_name": "Louvores de Natal",

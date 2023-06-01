@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26276,
+  "num_followers": 26281,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODMxYzJhOGI5ZTE3NGQ5OWFkM2VlNDY2YzFlYjRhMWEyMGRlOGZh",
+  "snapshot_id": "MCwzNTU4YTA3OTI4OGUyODQyYjRmYTU1ZmYwZDlmMzE2ZDMwODk3YzM4",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -211,18 +211,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "[en] catimini",
-        "url": "https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5"
+        "name": "3",
+        "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
       },
       "artists": [
         {
-          "name": "La Chicane",
-          "url": "https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI"
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
         }
       ],
-      "duration_ms": 250333,
-      "name": "Calvaire",
-      "url": "https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO"
+      "duration_ms": 246400,
+      "name": "Tu ne sauras jamais",
+      "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -243,18 +243,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
+        "name": "[en] catimini",
+        "url": "https://open.spotify.com/album/6oQ2Xld7fc3gYT4IRX3xC5"
       },
       "artists": [
         {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+          "name": "La Chicane",
+          "url": "https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Tu ne sauras jamais",
-      "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
+      "duration_ms": 250333,
+      "name": "Calvaire",
+      "url": "https://open.spotify.com/track/74c8FhugaKufekAOeh2dcO"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Diane Dufresne",
         "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Miserere",
-        "url": "https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi"
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
       "artists": [
         {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
         }
       ],
-      "duration_ms": 264786,
-      "name": "Aime",
-      "url": "https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe"
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1079,6 +1063,22 @@
       "duration_ms": 224506,
       "name": "Billy",
       "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Miserere",
+        "url": "https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Aime",
+      "url": "https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Joe Bocan",
         "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 201333,
       "name": "Repartir \u00e0 z\u00e9ro",
       "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
     },
     {
       "added_at": "2020-04-07 15:18:18",

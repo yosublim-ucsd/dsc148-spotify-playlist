@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,926 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 4 | [Flow State](https://open.spotify.com/track/2j2O9265fjoeRkGLeh2IVJ) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Flow State](https://open.spotify.com/album/2ijnhSRwK2vbJb8ReKSRJO) | 2:18 |
 | 5 | [Awake](https://open.spotify.com/track/6CpqZ6Pyi1e6QIPegZoA6C) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 3:37 |
 | 6 | [Le Gini](https://open.spotify.com/track/3W1hVS6uIsH7Dh3EgOQwIS) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS) | [Darr's Lane](https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB) | 6:09 |
-| 7 | [Joyful Resistance Part I](https://open.spotify.com/track/7zN0QWpTE8SMnmowkg6x2h) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks vol.1](https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK) | 4:06 |
+| 7 | [Joyful Resistance Part I](https://open.spotify.com/track/7CoBYgLvKvGn6p4ywPslVY) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P) | [Midnight Snacks, Vol\. 1](https://open.spotify.com/album/6CpPKzQnb2ZG01W0b1WDxa) | 4:06 |
 | 8 | [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 |
 | 9 | [Hang Glide](https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Hang Glide](https://open.spotify.com/album/1jF5hnhL0sfEyShSzgQc1r) | 3:54 |
 | 10 | [Cyrus](https://open.spotify.com/track/1HSpCqvsyUd7URKsnzOTVs) | [Barra Brown](https://open.spotify.com/artist/4rw6zh0NRR8sLOKCXFSsDe), [Cyrus Nabipoor](https://open.spotify.com/artist/0jmBXGiYaxSDOewYhEhgbQ) | [LFT:RT](https://open.spotify.com/album/6wMTUEpIhoy9ckYs0PUJ8C) | 3:39 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MCwxYjQ1ZjFjMjAzYWRkMGVkMGU2NjhhNDgzOTQzYjgxMjFkYWJhZjY2`
+Snapshot ID: `MCw0ZjQzZjJjYzFlY2IyMDkwZGUzNzM5YjJhYzgzYjFlYzc3ZjYzMTZi`

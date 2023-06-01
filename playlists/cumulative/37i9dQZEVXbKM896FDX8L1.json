@@ -4064,7 +4064,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4162,7 +4162,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -20304,6 +20304,24 @@
       "duration_ms": 161773,
       "name": "Whiskey in the Jar",
       "url": "https://open.spotify.com/track/1rJCuds0vDMAjF5RdZU7bq"
+    },
+    {
+      "album": {
+        "name": "Whiskey on the Rocks",
+        "url": "https://open.spotify.com/album/0wHk25df62UFNV1qVwSGpd"
+      },
+      "artists": [
+        {
+          "name": "Romi Chase",
+          "url": "https://open.spotify.com/artist/4GUFVPWRfpl0PxsyvFO30K"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184329,
+      "name": "Whiskey on the Rocks",
+      "url": "https://open.spotify.com/track/4ORf0sjGm02eaJeSwhmqsK"
     },
     {
       "album": {

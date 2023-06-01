@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Deep Bass \- Melodic Bass
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,173 likes - 18 songs - 1 hr 14 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,175 likes - 18 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

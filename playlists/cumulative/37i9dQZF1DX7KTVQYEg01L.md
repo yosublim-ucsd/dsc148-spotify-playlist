@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-299 songs - 17 hr 14 min
+300 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB) | 3:56 | 2022-03-24 | 2022-04-21 |
 | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/track/02VHspkXhhH1QCInRWWIfr) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/album/39qXV1tvwnmPEDnFUEFz5G) | 3:38 | 2022-03-24 | 2022-04-19 |
 | [Change the World](https://open.spotify.com/track/0xpDj4FiSoIVsNR9uJHHuF) | [Fox Blanco](https://open.spotify.com/artist/0XAzqhdQM4Oa2uzORPlqCt) | [Change the World](https://open.spotify.com/album/6A55zr5quO5XSuBn5QL2oi) | 2:57 | 2022-03-24 | 2022-04-21 |
+| [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-26 |  |
 | [Chateau](https://open.spotify.com/track/0QWsssAqEAyOVEHG6Lx4EJ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/6w6UOc6MZxO8oN5VckWGSR) | 4:33 | 2022-03-24 | 2022-04-20 |
 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 | 2022-03-24 | 2022-04-17 |
 | [Cheguei Pra Te Amar](https://open.spotify.com/track/4UbWczmUqp2mfzSHSmTpAC) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheguei Pra Te Amar](https://open.spotify.com/album/364j7YrznWF9uTCc51H4gd) | 3:17 | 2022-02-04 | 2022-07-29 |
@@ -301,7 +302,7 @@
 | [You Only Live Once](https://open.spotify.com/track/34wBynTTCXRdDSZ43eyGXi) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/6hlyaYhc2ENrpUATGap9bZ) | 3:09 | 2022-03-24 | 2022-04-21 |
 | [You Really Got Me](https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:14 | 2022-03-24 | 2022-11-13 |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2022-03-24 | 2022-11-13 |
-| [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 | 2022-03-24 |  |
+| [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 | 2022-03-24 | 2023-06-01 |
 | [Your Song](https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song](https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ) | 3:00 | 2022-03-24 | 2022-04-21 |
 | [Yummy](https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:28 | 2022-02-04 | 2022-11-13 |
 | [Yung Luv](https://open.spotify.com/track/4Xx4oojaE3MlJKpgtilgp1) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC), [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Yung Luv](https://open.spotify.com/album/7IznWqKYfUeAeuW602luX3) | 3:30 | 2022-03-24 | 2022-04-20 |

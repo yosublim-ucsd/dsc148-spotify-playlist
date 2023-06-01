@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Pretty Pink
 
-880 songs - 1 day 22 hr 25 min
+881 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Breaking My Heart](https://open.spotify.com/track/0nKTOWJGF6CUeoot8UECJD) | [Donata](https://open.spotify.com/artist/6rC5q8dgyXjvNUICucB075) | [Breaking My Heart](https://open.spotify.com/album/6bzFgqU4TNlH68xNdBfDPy) | 3:08 | 2022-05-31 | 2022-07-06 |
 | [Breathe Me To Life \(Ayahuasca\)](https://open.spotify.com/track/1rrxvAUElak6DINoqtMHMj) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Orange INC](https://open.spotify.com/artist/0k9vcRDtl7YbZ0ZYcprdhi), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Breathe Me To Life \(Ayahuasca\)](https://open.spotify.com/album/6Yl9R6wwxOn6s5ZaQdroAu) | 3:09 | 2022-01-04 | 2022-02-02 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-07-05 | 2022-08-03 |
-| [Broken Promises](https://open.spotify.com/track/6cET8vehV4mW4cfhq2OxQD) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/3Pvv5KqsmuYE39dJUVTjYY) | 1:51 | 2023-05-02 |  |
+| [Broken Promises](https://open.spotify.com/track/02bFDwUUM1aKVGRyYNAQYR) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/31ZyoCqAQBXFn9e1y0edze) | 1:51 | 2023-05-02 |  |
+| [Broken Promises](https://open.spotify.com/track/6cET8vehV4mW4cfhq2OxQD) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/3Pvv5KqsmuYE39dJUVTjYY) | 1:51 | 2023-05-02 | 2023-06-01 |
 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 | 2023-05-02 |  |
 | [Bulletproof](https://open.spotify.com/track/7k5bm67iLW5XALoBeiUxxm) | [KAY SHAGAO](https://open.spotify.com/artist/0kZwjzYpwJudeLLEVvu9tb) | [Bulletproof](https://open.spotify.com/album/3vJkVWxqeMG2Qb79ayWW7X) | 2:28 | 2022-01-04 | 2022-02-02 |
 | [Butterfly Pen](https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Butterfly Pen](https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn) | 3:33 | 2022-08-02 | 2022-09-07 |

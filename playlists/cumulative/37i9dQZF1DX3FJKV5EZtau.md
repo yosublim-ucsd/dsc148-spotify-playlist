@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-365 songs - 21 hr 1 min
+366 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Someone Else’s Dream \(CASTLE\. Edit\)](https://open.spotify.com/track/56oC5buLanioZDYpK2q94t) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr), [CASTLE.](https://open.spotify.com/artist/6IcVDBaltKmVE8Asl4p8FM) | [Someone Else’s Dream](https://open.spotify.com/album/6Kr3T5LjvpUl4QKipF5qqs) | 4:06 | 2022-01-07 | 2022-07-29 |
 | [Somewhere Far Away From Here](https://open.spotify.com/track/1mZsABAFAStMVUKW8AyRX5) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/2tf4qRFJYH1mFFPEbXCdUt) | 5:02 | 2022-01-07 | 2023-01-08 |
 | [Somewhere Far Away From Here \(feat\. Lolaby\)](https://open.spotify.com/track/7FiicGWciexdcPZVOwjv26) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Lolaby](https://open.spotify.com/artist/2bJ1Od9O4eVt9Uv0BOBJIm) | [REBIRTH](https://open.spotify.com/album/1OxASE4sDzjiYJBEqNnaaC) | 5:02 | 2023-02-17 |  |
+| [sorry](https://open.spotify.com/track/3vAi1U6UfWgxkax9IzKGts) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [things i wanna text u](https://open.spotify.com/album/5893KtZcBOjUaqo1RuoRGt) | 3:11 | 2023-05-26 |  |
 | [Stardust Adventure](https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Stardust Adventure](https://open.spotify.com/album/4d7RidCnUxbQ4C5huq9G4S) | 3:05 | 2022-01-07 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/26MtZfJOjVrYXSazR5NPhi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id) | [Starlight](https://open.spotify.com/album/1i8mhstzGsJAzXD0a0lAug) | 2:20 | 2022-04-29 | 2022-10-13 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2022-01-07 | 2022-11-12 |
@@ -358,7 +359,7 @@
 | [where u been](https://open.spotify.com/track/3rnIWluqxgrUezYZ0I7SGu) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [ilo ilo](https://open.spotify.com/artist/0rSZHzeyKxdfnQLoTIbq6U) | [COLOR BLIND](https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi) | 3:10 | 2022-01-07 |  |
 | [Whirlwind \- Woebn edit](https://open.spotify.com/track/09DsSWNAzsSDwfYVT9im2u) | [Woebn](https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [Whirlwind \(Woebn edit\)](https://open.spotify.com/album/7FXi7a8FRMD9SjC8xUACIl) | 3:04 | 2022-01-07 | 2022-07-06 |
 | [With Clouds Below](https://open.spotify.com/track/7hwSaTdDujbwXGGp72hssA) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W) | [With Clouds Below](https://open.spotify.com/album/7wsIfcNt1Muj6dgNpuDldC) | 3:29 | 2022-01-07 | 2023-05-13 |
-| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 |  |
+| [Without u \(feat\. Holywatr\)](https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Without u \(feat\. Holywatr\)](https://open.spotify.com/album/38zCcpxCUq4CimSwKVAALj) | 3:05 | 2023-05-12 | 2023-06-01 |
 | [WONDER POP](https://open.spotify.com/track/2LJRpUkMAyBmuBSxQDN61i) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [WONDER POP](https://open.spotify.com/album/5Qfzvs1Xso9ZaZwbqN8a42) | 6:06 | 2022-01-07 |  |
 | [Worlds Away](https://open.spotify.com/track/7oN714ES39BtIurjS46BQt) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Worlds Away](https://open.spotify.com/album/54qisi0X9GjPyLA0MTlnSN) | 3:52 | 2022-01-07 |  |
 | [You Make It Look So Easy \- S.M.I.L.E.Y](https://open.spotify.com/track/00k4OQ83GU3zlGINUJngQA) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look so Easy \(S.M.I.L.E.Y\)](https://open.spotify.com/album/76cQqQjAjGYy8aoBJTXXis) | 4:41 | 2022-01-28 | 2022-07-27 |

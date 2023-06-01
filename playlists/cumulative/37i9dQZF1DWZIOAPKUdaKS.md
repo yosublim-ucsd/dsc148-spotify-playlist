@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-651 songs - 1 day 4 hr 9 min
+652 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,8 +489,9 @@
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2021-12-07 |  |
 | [Salzburg](https://open.spotify.com/track/4dFrWtOUvwvukZNeHP5hGH) | [Lucie Vanderville](https://open.spotify.com/artist/0ZEgMOvu6GpJWX1OCfp9Pb) | [Fall Clouds](https://open.spotify.com/album/1BoLkxRrD1JXTbMWuSC33s) | 2:30 | 2021-12-07 | 2022-10-05 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-18 |  |
-| [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 | 2023-04-18 |  |
+| [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 | 2023-04-18 | 2023-06-01 |
 | [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 | 2023-03-07 | 2023-03-23 |
+| [Sans fleurir](https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Éphémère](https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG) | 2:24 | 2023-05-03 |  |
 | [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 | 2023-03-21 | 2023-04-26 |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2021-12-07 | 2022-09-13 |

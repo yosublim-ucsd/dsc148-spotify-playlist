@@ -1,12 +1,12 @@
 {
   "description": "Revisit memories and make new ones with the best Kwaito songs ever released. Cover: Spikiri",
-  "num_followers": 27317,
+  "num_followers": 27344,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDhlMWUwZGM2YmViMzkzMmZiNTk5Y2RhYjgyNWFjNzYyYzEwMWFk",
+  "snapshot_id": "MCw4MGMwNzNjZWJhMmE5NDRjYzc4MjM2MWE2OTMxYWVlZTAwMDhjY2U3",
   "tracks": [
     {
       "added_at": "2022-04-25 18:44:17",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "and the beat goes on",
         "url": "https://open.spotify.com/album/6LEfTlDkoGfqEmuaWh5k11"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 305624,
       "name": "Zonke",
       "url": "https://open.spotify.com/track/0P35ObcV2oMcTRSNl5NMIG"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
     },
     {
       "added_at": "2022-04-25 18:44:17",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Top Dawg",
-        "url": "https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 337986,
-      "name": "Ungawa Kum",
-      "url": "https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy"
-    },
-    {
-      "added_at": "2022-04-25 18:44:17",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/06WmmNtrJiAWf8ofaaTfUK"
       },
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
+        "name": "Intwenjani",
+        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+      },
+      "artists": [
+        {
+          "name": "Mawillies",
+          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+        }
+      ],
+      "duration_ms": 333760,
+      "name": "Intwenjani",
+      "url": "https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh"
+    },
+    {
+      "added_at": "2022-04-25 18:44:17",
+      "album": {
         "name": "It's Our Game (No Need To Claim)",
         "url": "https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m"
       },
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-04-25 18:44:17",
       "album": {
-        "name": "Intwenjani",
-        "url": "https://open.spotify.com/album/4VJK1hwYju24DtMhDAwDli"
+        "name": "Top Dawg",
+        "url": "https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp"
       },
       "artists": [
         {
-          "name": "Mawillies",
-          "url": "https://open.spotify.com/artist/6Zd8RQbtBZ2ywALmjzwM7N"
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
         }
       ],
-      "duration_ms": 333760,
-      "name": "Intwenjani",
-      "url": "https://open.spotify.com/track/0eotNIGKUHo9XGsUlToDIh"
+      "duration_ms": 337986,
+      "name": "Ungawa Kum",
+      "url": "https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy"
     },
     {
       "added_at": "2022-04-25 18:44:17",

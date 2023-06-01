@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-747 songs - 1 day 16 hr 42 min
+749 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Drop It Like It's Hot](https://open.spotify.com/track/0PoZibVGbZGNI9zyFQ8N2U) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Justtjokay](https://open.spotify.com/artist/4AsEwe2pYHpTM6xB5KAa2y) | [Drop It Like It's Hot](https://open.spotify.com/album/3BvmwoarABEjsz0pIE8bFt) | 3:23 | 2022-02-04 | 2022-03-19 |
 | [Drugs \- Effin VIP](https://open.spotify.com/track/0j43MFSf19vk8ctaWz7C74) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Drugs \(Remixes\)](https://open.spotify.com/album/4dmhCVyVbajUyZkZ5qCIRB) | 3:27 | 2022-04-18 | 2022-05-18 |
 | [Dry](https://open.spotify.com/track/0Yv5b5zk4aOsS5CDQaPE0J) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [AmanderSings](https://open.spotify.com/artist/173GfQx5bEtd47VPltulZ0) | [Dry](https://open.spotify.com/album/6TzMfoUiHRHWbHeAWYojBf) | 2:51 | 2022-04-29 | 2022-06-04 |
+| [Dynamite](https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Dynamite](https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4) | 3:49 | 2023-05-31 |  |
 | [Easy To Love](https://open.spotify.com/track/7cIkqDx8ySlgNgNFF5v5Bk) | [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Easy To Love](https://open.spotify.com/album/7gWIMxBq6vANxJ3LgHFQQo) | 4:47 | 2022-06-24 | 2022-07-29 |
 | [Electrifying](https://open.spotify.com/track/0OwVPc1LrKgQnTRgzFysvC) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Electrifying](https://open.spotify.com/album/6VDGx56kuc4zzJPB9GMfPz) | 3:19 | 2022-12-21 | 2022-12-27 |
 | [Eliminate](https://open.spotify.com/track/3rD9mhlzhKKugBOEe62k50) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [LOGOS](https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP) | 3:41 | 2022-11-10 | 2023-02-22 |
@@ -399,6 +400,7 @@
 | [Lost](https://open.spotify.com/track/4lXaDsnSigLjC0zzngrRxl) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [9 Worlds](https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Lost](https://open.spotify.com/album/0Bk1KQZUDvL4Z9mmikVTcc) | 3:54 | 2023-03-18 |  |
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-05-05 | 2023-05-13 |
 | [Lost In My Mind](https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Lost In My Mind](https://open.spotify.com/album/0zL7vKsNDJPLm91dliiMlX) | 3:15 | 2022-03-04 | 2022-04-02 |
+| [Lost My Mind](https://open.spotify.com/track/4RWa0yikVR7JeEFhhfoq7A) | [Able Grey](https://open.spotify.com/artist/6fkfeksXohRMypM9kdYjNb), [NoelleMichelle](https://open.spotify.com/artist/0eKsXE7hCYMRuPThWm6YWT) | [WE ARE EX MEDIAS VOL\. III](https://open.spotify.com/album/4eOvhNcS8CFASLRupC6h6y) | 4:03 | 2023-05-31 |  |
 | [Lost Without You](https://open.spotify.com/track/5x7dCMY120aFbg33VxCjpG) | [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [KnownAsNat](https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR) | [Lost Without You](https://open.spotify.com/album/3ZMIql6dt08cpegtz4Gr7b) | 3:51 | 2022-02-04 | 2022-03-05 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-05-06 | 2022-07-09 |
 | [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-06-10 | 2022-11-24 |

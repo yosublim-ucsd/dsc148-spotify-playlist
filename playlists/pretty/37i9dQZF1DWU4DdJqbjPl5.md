@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=\_BkhqRTRQOy8BS3ltFT0KA"> Nomfundo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,841 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,934 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Mayana](https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:38 |
 | 80 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 |
 
-Snapshot ID: `MCw3ZWY5YjMxNWI2OWM0ZTgyYTYxODZlNTRjMzMzMmVmNjg2ZjAyYTE4`
+Snapshot ID: `MCw2NjBkNTg4NDc0MGVhNzljMmQwZjI0YTgxM2RlOWEwZTE5YWNjMWVi`

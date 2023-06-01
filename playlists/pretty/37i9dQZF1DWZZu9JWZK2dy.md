@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,631 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,818 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCxkOTRkODVhNzI2MmFmOWRjYjBkN2ViYmQ1YmY1NmRjOTY0NDE1YjYz`
+Snapshot ID: `MCw5ZjRlNzQyOTA3ZjhkYmM4MTgzYTVlZDE1OTliYmE3YjdmNTZmODll`

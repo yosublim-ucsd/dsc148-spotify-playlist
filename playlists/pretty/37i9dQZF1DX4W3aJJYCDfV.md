@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Dua Lipa, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,012 likes - 136 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,025 likes - 136 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 2 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 3 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
-| 4 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:07 |
+| 4 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 5 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 |
 | 6 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 |
 | 7 | [Unruly](https://open.spotify.com/track/332LAe5CARYmQZ9PneOR2c) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Unruly](https://open.spotify.com/album/40KmIveFJGLnFIz6g8jqPR) | 3:12 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 122 | [Picture Perfect](https://open.spotify.com/track/3idu5z4y7YmPDYzvlfhrOk) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Picture Perfect](https://open.spotify.com/album/0PClzY0m0JBEYytI2sH4ez) | 3:02 |
 | 123 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 |
 | 124 | [grown](https://open.spotify.com/track/1ZN4waU3WC1xb18ol4t1R2) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [as things grow](https://open.spotify.com/album/1jIgfpRTwDB2CqjjrbA0TM) | 3:31 |
-| 125 | [Doctors](https://open.spotify.com/track/2GRkE5E0Yvnao8vnaBA7Un) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [SB](https://open.spotify.com/artist/0aKoAwqRVhigYe3JlWJKg2), [Bluw](https://open.spotify.com/artist/6GKbgKHf3FNjdPnAvius6n) | [08701](https://open.spotify.com/album/0TH6e2x5LdNY1LOtYaIvFH) | 2:03 |
+| 125 | [Doctors](https://open.spotify.com/track/2GRkE5E0Yvnao8vnaBA7Un) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [SB Ricflair](https://open.spotify.com/artist/1Td4Hpppnv2kzQAYsKOBTS), [Bluw](https://open.spotify.com/artist/6GKbgKHf3FNjdPnAvius6n) | [08701](https://open.spotify.com/album/0TH6e2x5LdNY1LOtYaIvFH) | 2:03 |
 | 126 | [This Was Not Meant To Be Easy](https://open.spotify.com/track/5ETfdqF533s8WQm0wzN7rt) | [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL), [Sarah Carton](https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS) | [This Was Not Meant To Be Easy](https://open.spotify.com/album/6HFc8HNLJw4lVUeqOJ36Nk) | 3:16 |
 | 127 | [DNA](https://open.spotify.com/track/61xhKAdKR5ryA7zL8LBeyZ) | [Brad Ryan](https://open.spotify.com/artist/6VT57umY3K2PFLgpVEZlIm) | [DNA](https://open.spotify.com/album/1D2pZHmyhteQXmfPtGzziB) | 2:17 |
 | 128 | [no use](https://open.spotify.com/track/5GJL1URiKny9Sh2agc7hjB) | [carina](https://open.spotify.com/artist/36NzuZY6vwK2XwqN5b9XSZ) | [no use](https://open.spotify.com/album/35lNYpODOSwtSwGgCMjKL4) | 3:37 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 135 | [The Blades](https://open.spotify.com/track/5BhxiOotM5oBArkkSTjrkD) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Blades](https://open.spotify.com/album/5SGPP5PH19ng1p9kqFFhWB) | 6:28 |
 | 136 | [Give Me The Wisdom](https://open.spotify.com/track/6WUWRrrloipLCbJtexPWvt) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Give Me The Wisdom](https://open.spotify.com/album/3WU96MAABzwBjZspGtSrNN) | 5:18 |
 
-Snapshot ID: `MCxjOGI1ZDJlZjg4NGFjODg1MDdjODU4ODgxYmY3MjU1ZTUzZDgxNzMy`
+Snapshot ID: `MCwwYjEyNzJjYTFmZDZhMmU5ZTg1NWUxZjlkM2MwYzE1NjAzOGYyYTQz`

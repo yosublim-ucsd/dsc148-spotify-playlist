@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla",
-  "num_followers": 425010,
+  "num_followers": 425066,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTc5ZGNmYmI2YzRhNDBmYjcwNDk4Y2ZjNGZkMmY5OTBmOWM0YTA4",
+  "snapshot_id": "MCxiODE4YTQ3ZTA5YTJlZmIzYjc3MjI5MTQ3OWIyNDFhMDRjZGIzZjNk",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Cora\u00e7\u00f5es Psicod\u00e9licos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m"
-      },
-      "artists": [
-        {
-          "name": "Roupa Nova",
-          "url": "https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 207810,
-      "name": "Cora\u00e7\u00f5es Psicod\u00e9licos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Cora\u00e7\u00f5es Psicod\u00e9licos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m"
+      },
+      "artists": [
+        {
+          "name": "Roupa Nova",
+          "url": "https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 207810,
+      "name": "Cora\u00e7\u00f5es Psicod\u00e9licos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Te dizer que sim.",
-        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 150036,
-      "name": "Te dizer que sim.",
-      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
         "url": "https://open.spotify.com/album/75YOSbvTjjulviH8yLHgXH"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 232416,
       "name": "Boa Sorte / nada contra (ci\u00fame) / Bixinho",
       "url": "https://open.spotify.com/track/31rZKzqElU5sb51on0nZwy"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Te dizer que sim.",
+        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 150036,
+      "name": "Te dizer que sim.",
+      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Lance ou Romance",
-        "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
+        "name": "Tudo T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu"
       },
       "artists": [
         {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Lance ou Romance",
-      "url": "https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8"
+      "duration_ms": 163998,
+      "name": "Covardia",
+      "url": "https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -739,34 +739,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Tudo T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu"
+        "name": "Lance ou Romance",
+        "url": "https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc"
       },
       "artists": [
         {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
         }
       ],
-      "duration_ms": 163998,
-      "name": "Covardia",
-      "url": "https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "te decorei em mim",
-        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 177078,
-      "name": "te decorei em mim",
-      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
+      "duration_ms": 162857,
+      "name": "Lance ou Romance",
+      "url": "https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "te decorei em mim",
+        "url": "https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 177078,
+      "name": "te decorei em mim",
+      "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Amor Compartilhado",
-        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 146231,
-      "name": "Amor Compartilhado",
-      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Rara",
         "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 197883,
       "name": "Rara",
       "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Amor Compartilhado",
+        "url": "https://open.spotify.com/album/2XbbNMDLvAJW9SePNXkKgL"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 146231,
+      "name": "Amor Compartilhado",
+      "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Pois \u00c9",
-        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
-      },
-      "artists": [
-        {
-          "name": "Iuri K",
-          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Pois \u00c9",
-      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -1199,50 +1183,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Esperando C\u00ea Voltar",
-        "url": "https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q"
+        "name": "Pois \u00c9",
+        "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
       },
       "artists": [
         {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+          "name": "Iuri K",
+          "url": "https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W"
         }
       ],
-      "duration_ms": 135555,
-      "name": "Esperando C\u00ea Voltar",
-      "url": "https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 273092,
-      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
-      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Rom\u00e2ntica Demais",
-        "url": "https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 180456,
-      "name": "Rom\u00e2ntica Demais",
-      "url": "https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ"
+      "duration_ms": 162188,
+      "name": "Pois \u00c9",
+      "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1267,6 +1219,54 @@
       "duration_ms": 160031,
       "name": "Eu e Voc\u00ea",
       "url": "https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Esperando C\u00ea Voltar",
+        "url": "https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 135555,
+      "name": "Esperando C\u00ea Voltar",
+      "url": "https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Rom\u00e2ntica Demais",
+        "url": "https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 180456,
+      "name": "Rom\u00e2ntica Demais",
+      "url": "https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+        "url": "https://open.spotify.com/album/3VabbpDgkyhiRMsSt4AiHq"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 273092,
+      "name": "O Tempo \u00c9 Sua Morada - 10 A\u00d1OS",
+      "url": "https://open.spotify.com/track/5yEbJk7T0xTF0b87WyA3DM"
     },
     {
       "added_at": "2023-05-26 03:00:00",

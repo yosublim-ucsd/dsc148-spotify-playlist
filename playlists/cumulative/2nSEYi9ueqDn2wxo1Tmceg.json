@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 196666,
       "name": "Blue Over Blue",
       "url": "https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 266000,
       "name": "Bugs Life",
       "url": "https://open.spotify.com/track/4VRF0KHa0PpS7qGaga9oym"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 177520,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/3fjFX90ytPIgRaW5rlPxol"
@@ -2823,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Everyone's Crushed",
+        "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Everyone's Crushed",
+      "url": "https://open.spotify.com/track/4BxMHyOM33CNbExjurjAut"
+    },
+    {
+      "album": {
         "name": "Everything I Ever Wanted",
         "url": "https://open.spotify.com/album/0gR1MDfkp0uo2vbP6z83ZT"
       },
@@ -2928,6 +2946,24 @@
       "duration_ms": 276320,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
+    },
+    {
+      "album": {
+        "name": "Archangel Hill",
+        "url": "https://open.spotify.com/album/3D1ay6vbbFAhpaZcDnKFDp"
+      },
+      "artists": [
+        {
+          "name": "Shirley Collins",
+          "url": "https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196953,
+      "name": "Fare Thee Well My Dearest Dear",
+      "url": "https://open.spotify.com/track/13PyP4V5A44QVPlLZ9a2wk"
     },
     {
       "album": {
@@ -3606,6 +3642,24 @@
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
+    },
+    {
+      "album": {
+        "name": "GUT",
+        "url": "https://open.spotify.com/album/4bnl2VUEuMa0B50OxBAZb8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "GUT",
+      "url": "https://open.spotify.com/track/5paCqqDk6dZA6UFtIyHkLm"
     },
     {
       "album": {
@@ -4811,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "Keep It Secret",
+        "url": "https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Keep It Secret",
+      "url": "https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN"
+    },
+    {
+      "album": {
         "name": "Key To The City",
         "url": "https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L"
       },
@@ -5972,7 +6048,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 324428,
       "name": "Ode to Boy",
       "url": "https://open.spotify.com/track/26nzK385U3DfWSlRQHolAv"
@@ -6044,7 +6120,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 145785,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/3Z3nvwzhzPmY9stjgGoFgk"
@@ -6594,6 +6670,24 @@
       "duration_ms": 79844,
       "name": "PRESSED",
       "url": "https://open.spotify.com/track/4WYoSVibjO0PftEmfRimMN"
+    },
+    {
+      "album": {
+        "name": "Pulling Stitches",
+        "url": "https://open.spotify.com/album/3ErkAcb0jUkphb9WblF846"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252320,
+      "name": "Pulling Stitches",
+      "url": "https://open.spotify.com/track/6CycPGevU7MQNmImScrJEh"
     },
     {
       "album": {
@@ -7792,7 +7886,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 259568,
       "name": "Summer Glass",
       "url": "https://open.spotify.com/track/08SHXQxXq1UZERSVWLhN77"
@@ -8738,7 +8832,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 191106,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"

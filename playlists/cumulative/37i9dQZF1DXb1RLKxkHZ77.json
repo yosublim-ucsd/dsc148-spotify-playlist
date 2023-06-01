@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 253500,
       "name": "Bagaimana - Pano",
       "url": "https://open.spotify.com/track/2mI4gvSAVCjNajeOqEQEud"
@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Di Sebalik Rahsia",
+        "url": "https://open.spotify.com/album/1LweEZf8kLWPwmS7xpyPWd"
+      },
+      "artists": [
+        {
+          "name": "Haqiem Rusli",
+          "url": "https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268970,
+      "name": "Di Sebalik Rahsia",
+      "url": "https://open.spotify.com/track/7yJtvZjco9VZKE22DJTjmu"
+    },
+    {
+      "album": {
         "name": "Di Ujung Hari",
         "url": "https://open.spotify.com/album/6EKeNdmZmzZpZanXKYA5wY"
       },
@@ -984,6 +1002,28 @@
       "duration_ms": 249981,
       "name": "Erti Sempurna",
       "url": "https://open.spotify.com/track/1CSt6QD08myLv2ZyUxA9z2"
+    },
+    {
+      "album": {
+        "name": "Flash & Dash",
+        "url": "https://open.spotify.com/album/3wXeex4NWwvQrQZI3AJOwZ"
+      },
+      "artists": [
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        },
+        {
+          "name": "Guccimith",
+          "url": "https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147301,
+      "name": "Flash & Dash",
+      "url": "https://open.spotify.com/track/5rQTRNaJOiSqGfhYrf4Tc2"
     },
     {
       "album": {
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 227750,
       "name": "Ilusi Keliru",
       "url": "https://open.spotify.com/track/0itY5LK5FZtLXu5LmvRJDU"
@@ -1846,6 +1886,24 @@
       "duration_ms": 202058,
       "name": "KEMBALI TERANG",
       "url": "https://open.spotify.com/track/4NzB31TlldP5VSb9En1L6Q"
+    },
+    {
+      "album": {
+        "name": "Kembalilah",
+        "url": "https://open.spotify.com/album/5zwgSkn0xCQHiQm3RjTPVT"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Victor",
+          "url": "https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216695,
+      "name": "Kembalilah",
+      "url": "https://open.spotify.com/track/16chL4feuTZ9ACni38HxsS"
     },
     {
       "album": {
@@ -2326,7 +2384,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 313829,
       "name": "Mencintaimu",
       "url": "https://open.spotify.com/track/32ikFVT4ttN9VTu9PIFrBm"
@@ -2548,7 +2606,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 220740,
       "name": "Miris",
       "url": "https://open.spotify.com/track/5flEc5qL87VHnDqSLrMfSm"
@@ -3169,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "Salah Hati",
+        "url": "https://open.spotify.com/album/1Wc621PJ1RLgLaTuKaFgR9"
+      },
+      "artists": [
+        {
+          "name": "Kucaimars",
+          "url": "https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220632,
+      "name": "Salah Hati",
+      "url": "https://open.spotify.com/track/3u6QUGEVqlXUNdhMHEiEN0"
+    },
+    {
+      "album": {
         "name": "Sama Seperti Dulu",
         "url": "https://open.spotify.com/album/7vUeBaFOGUh4pPy0r38E51"
       },
@@ -3366,6 +3442,28 @@
       "duration_ms": 228640,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/6QGyP2oyiOKHzh87rokO7d"
+    },
+    {
+      "album": {
+        "name": "Sejuta Kata",
+        "url": "https://open.spotify.com/album/7bbY7fvBSmQguTuad1VuTB"
+      },
+      "artists": [
+        {
+          "name": "Hazrul Nizam",
+          "url": "https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC"
+        },
+        {
+          "name": "Diana Nazyra",
+          "url": "https://open.spotify.com/artist/0UjqqPr0hK1lIx0i69KNxp"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219475,
+      "name": "Sejuta Kata",
+      "url": "https://open.spotify.com/track/0wLtYXCZm8wAzTVGYKxslQ"
     },
     {
       "album": {
@@ -3724,7 +3822,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 249100,
       "name": "Tak Ingin Kau Terluka",
       "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"

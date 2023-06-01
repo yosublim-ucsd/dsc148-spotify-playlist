@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Midnight Snacks, Vol. 1",
+        "url": "https://open.spotify.com/album/6CpPKzQnb2ZG01W0b1WDxa"
+      },
+      "artists": [
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Joyful Resistance Part I",
+      "url": "https://open.spotify.com/track/7CoBYgLvKvGn6p4ywPslVY"
+    },
+    {
+      "album": {
         "name": "Midnight Snacks vol.1",
         "url": "https://open.spotify.com/album/3u0nEa0WmDG65OzPylGtwK"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 246000,
       "name": "Joyful Resistance Part I",
       "url": "https://open.spotify.com/track/7zN0QWpTE8SMnmowkg6x2h"

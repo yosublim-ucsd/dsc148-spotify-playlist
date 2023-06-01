@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,425 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,441 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 40 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
 | 41 | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/track/6f0c32QKMYYI9wZsHeGG8E) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg), [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA) | [Weg Van Hier \(feat\. Masri\)](https://open.spotify.com/album/6faJaISL9OPyKU689w7A4z) | 2:28 |
 | 42 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 |
-| 43 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:07 |
+| 43 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 44 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 |
 | 45 | [Deeper](https://open.spotify.com/track/6m8gxJwT3SX0hhPkMFyBQt) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [Deeper](https://open.spotify.com/album/4IMMDdT63QhU39jKrAJB26) | 3:03 |
 | 46 | [Real Estate](https://open.spotify.com/track/4tE91iFWVroHWNpZrBzAqV) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Real Estate](https://open.spotify.com/album/5WKqEnCQgZi0Cf3bC7vWwx) | 2:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Standing On The Edge](https://open.spotify.com/track/0aoJN3R0KcZnHl4k9WWyiT) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge](https://open.spotify.com/album/7BSfuuzonzh9iA3ELQlbGr) | 4:05 |
 | 96 | [Mentiras](https://open.spotify.com/track/1dkc8FuzlSBFDhScF5zVa8) | [Mariposa](https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV) | [Mentiras](https://open.spotify.com/album/4guVMkR0Ax4tvmNjXMtMMe) | 2:02 |
 | 97 | [Marathon I](https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Marathon I](https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5) | 2:11 |
-| 98 | [Anne](https://open.spotify.com/track/5EdCrj3EIxjfSS1TLQDDig) | [Theun met een H](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Anne](https://open.spotify.com/album/1IA9xKogtaP3ZS1RoWpGek) | 2:50 |
+| 98 | [Anne](https://open.spotify.com/track/5EdCrj3EIxjfSS1TLQDDig) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Anne](https://open.spotify.com/album/1IA9xKogtaP3ZS1RoWpGek) | 2:50 |
 | 99 | [Halfvolle Melk \- premium](https://open.spotify.com/track/6IwQP02fSYiZAtlN4ejdZQ) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Halfvolle Melk \(premium\)](https://open.spotify.com/album/0o0j4HX7h3iyqFVTdTNbxe) | 2:47 |
 | 100 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 |
 
-Snapshot ID: `MCw4YmY3MDQxODFiMjI4MDVkMmUxMWNkNDU0N2FmOGQ1NTkyNmNiM2U2`
+Snapshot ID: `MCw2NWM1MGU0YjE5ZDU5OTc3OTAzYjdhYjk4MmNhMDg5NzU5MWU3ZmFj`

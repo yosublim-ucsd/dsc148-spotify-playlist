@@ -1,13 +1,37 @@
 {
-  "description": "Press play and dance away to your favorite electronic hits. Cover: Cash Cash",
-  "num_followers": 116797,
+  "description": "Press play and dance away to your favorite electronic hits. Cover: Party Favor and Baauer",
+  "num_followers": 116792,
   "original_name": "Dance For Days",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "Mzc5MSw5MzMyOTI3N2Q3MmFiZmZjNDBkMTllZmQ0NzJjYWY2YzkwOWQxMTk0",
+  "snapshot_id": "Mzc5NCw3ZThiZDY4MWJjNjdmYjhjOGEzYTI4Y2RiZTQxZjNlMWFiZjNjMzU5",
   "tracks": [
+    {
+      "added_at": "2023-05-26 04:47:53",
+      "album": {
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+    },
     {
       "added_at": "2023-05-26 04:47:53",
       "album": {
@@ -67,30 +91,6 @@
       "duration_ms": 201002,
       "name": "Sad in the Summer (feat. Lily Rose)",
       "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
-    },
-    {
-      "added_at": "2023-05-26 04:47:53",
-      "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-05-26 04:47:53",
@@ -376,7 +376,7 @@
           "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 167586,
+      "duration_ms": 168000,
       "name": "Breathless (with Alina Baraz)",
       "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },

@@ -592,7 +592,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 78099,
       "name": "Glue",
       "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
@@ -776,6 +776,24 @@
       "duration_ms": 170213,
       "name": "I Know Why",
       "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+    },
+    {
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
     },
     {
       "album": {

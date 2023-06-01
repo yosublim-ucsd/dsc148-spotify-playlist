@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Digital Astro in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,215 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,217 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 16 | [Mi Amor](https://open.spotify.com/track/1oprE5KWGpxvfo6JRH62M5) | [Y.E.B](https://open.spotify.com/artist/1UX1nNkeNhEl07t7KVGDif), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [Mi Amor](https://open.spotify.com/album/3hnuTolpcruL9UpzawPgVN) | 2:47 |
 | 17 | [Progressi \(feat\. Vale Pain\)](https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Progressi \(feat\. Vale Pain\)](https://open.spotify.com/album/4TXJALE2louD30G0onu9zl) | 2:30 |
 | 18 | [READY](https://open.spotify.com/track/59TnLgf4V9ReFxdwVls8Qb) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [READY](https://open.spotify.com/album/2K1mSJHTs8TPZevcrAUcnd) | 2:27 |
-| 19 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [KERO](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
+| 19 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
 | 20 | [Tortellini alla Paulo Dybala](https://open.spotify.com/track/6t1LlfS4FM7lNPu4DvQVu9) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Tortellini alla Paulo Dybala](https://open.spotify.com/album/3LDu3gqSvaVHqZmWlOtUHJ) | 2:14 |
 | 21 | [Sintetico \(feat\. Tony Boy\)](https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:31 |
 | 22 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [STEPPIN' ON BITCHES](https://open.spotify.com/track/5LAb5zRgvQ26sc6wO0SCJu) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm), [Flaco](https://open.spotify.com/artist/44rWmNL2UHcKoDoVGkbaPE) | [STEPPIN' ON BITCHES](https://open.spotify.com/album/4ouy8EGY7i4t3aYM61wbo0) | 2:11 |
 | 50 | [Rame](https://open.spotify.com/track/1BVOgvigFRjWvmo1MIYEDa) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Rame](https://open.spotify.com/album/6nla5FUuCdCDsU6KgHFr9k) | 2:29 |
 
-Snapshot ID: `MCxhNGI0ODAwZjUzNTc1NTlmMGQ5NWRhZmQwMjRjNTc2NjgyOGZiMWQ4`
+Snapshot ID: `MCxlYTVmZWEyYTUwN2MzNzhhYzFhOGU2MjhmMzJjOWUwM2VmNGEyNWEz`

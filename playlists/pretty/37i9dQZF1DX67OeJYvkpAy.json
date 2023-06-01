@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Kay9ine",
-  "num_followers": 86312,
+  "num_followers": 86325,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWIxNTBhNmJjYzQ4NzYxOTZkZTE4YWZjMmNmMzc4ZjM4M2E2NDQ4",
+  "snapshot_id": "MCw1ZGZlZTBmMzdjY2JiN2VkNGNkMjllMTA1MGMxNGVlNjA3MDExZjcy",
   "tracks": [
     {
       "added_at": "2022-08-02 15:42:28",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 213790,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+        "name": "Shipp\u016bden",
+        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
         }
       ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+      "duration_ms": 179594,
+      "name": "Shipp\u016bden",
+      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -667,22 +683,6 @@
       "duration_ms": 198620,
       "name": "Change",
       "url": "https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Shipp\u016bden",
-        "url": "https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F"
-      },
-      "artists": [
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Shipp\u016bden",
-      "url": "https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "If I knew how to save us",
-        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        }
-      ],
-      "duration_ms": 157664,
-      "name": "If I knew how to save us",
-      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "J\u00f6etry",
         "url": "https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 244000,
       "name": "mate in five",
       "url": "https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "If I knew how to save us",
+        "url": "https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "If I knew how to save us",
+      "url": "https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Never Been Ordinary",
         "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 96086,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Retrogress (Season 1)",
-        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Love, Eternity & Faith",
         "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
-      },
-      "artists": [
-        {
-          "name": "Anubis",
-          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -1236,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 181044,
-      "name": "High On Love",
-      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1255,6 +1223,22 @@
       "duration_ms": 160030,
       "name": "High (All The Time)",
       "url": "https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA"
+      },
+      "artists": [
+        {
+          "name": "Anubis",
+          "url": "https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Retrogress (Season 1)",
+        "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181044,
+      "name": "High On Love",
+      "url": "https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S"
       },
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
         "name": "Is it too much? (Pray things change)",
         "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "added_at": "2022-08-02 15:42:28",
+      "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1459,22 +1475,6 @@
       "duration_ms": 142027,
       "name": "Told Me",
       "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2022-08-02 15:42:28",
-      "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Take The Risk",
-        "url": "https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld"
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9"
       },
       "artists": [
         {
-          "name": "OB",
-          "url": "https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj"
+          "name": "xcst",
+          "url": "https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo"
         }
       ],
-      "duration_ms": 200888,
-      "name": "Take The Risk",
-      "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
+      "duration_ms": 185108,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R"
     },
     {
       "added_at": "2022-08-02 15:42:28",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-08-02 15:42:28",
       "album": {
-        "name": "Ether",
-        "url": "https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm"
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x"
       },
       "artists": [
         {
-          "name": "NSJ Mali",
-          "url": "https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO"
+          "name": "xcst",
+          "url": "https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Ether",
-      "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+      "duration_ms": 200039,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE"
     },
     {
       "added_at": "2022-08-02 15:42:28",

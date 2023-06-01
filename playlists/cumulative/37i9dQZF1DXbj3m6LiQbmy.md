@@ -2,7 +2,7 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana e dai suoi alleati\. Queen Of Saba e BigMama in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana e dai suoi alleati\. Asteria in cover! ✨
 
 277 songs - 16 hr 57 min
 

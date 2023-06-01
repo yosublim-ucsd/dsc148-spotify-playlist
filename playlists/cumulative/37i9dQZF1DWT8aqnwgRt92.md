@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-685 songs - 1 day 19 hr 36 min
+687 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |
 | [I’m a Voice Actor \- Big Band version③](https://open.spotify.com/track/23iZwGBqHlO9ybMb4VD4jD) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [HATANO WATARU THE BEST](https://open.spotify.com/album/4lXNjJoVfpNhIjG2TDRK0W) | 4:42 | 2023-03-14 | 2023-04-09 |
 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 | 2023-01-17 | 2023-04-12 |
-| [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 |  |
+| [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-06-01 |
+| [Just a little bit](https://open.spotify.com/track/2JYtD7hvXIkGDlEUl7pSsa) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/2hyCWFxpPWVoWHZSXqGOOM) | 3:47 | 2023-05-30 |  |
 | [Kaerimichi no Iro](https://open.spotify.com/track/78c6wtbj63K6xdK7GOtrbt) | [Shibuya HAL](https://open.spotify.com/artist/2KCxMDtyrp9krF6gdxCNRF) | [Kaerimichi no Iro](https://open.spotify.com/album/3CNJSvUBH2vITGSpYWslA2) | 4:09 | 2022-07-28 | 2022-08-24 |
 | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/track/0PlyoT0K2MN9e5jUoRHQ3C) | [Tomita Miyu](https://open.spotify.com/artist/4BOQzrxB1xj5G3rsL4f8Gg) | [Kaikai Kitan \- From CrosSing](https://open.spotify.com/album/6395Muzk3LEqZXqUdce60r) | 3:43 | 2022-09-27 | 2022-10-28 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-28 | 2022-07-06 |
@@ -250,6 +251,7 @@
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2023-04-21 |
 | [My Plan \- Lofi Remix](https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [一騎\(CV:豊永利行\)](https://open.spotify.com/artist/6UNfWUQV7Zjuz2WvFSXcj3), [零\(CV:内山昂輝\)](https://open.spotify.com/artist/3bT8HW83dr4YDKYN20RYjy) | [My Plan](https://open.spotify.com/album/3CpERluTyAXWsI6kaQp139) | 3:37 | 2023-03-14 | 2023-04-12 |
 | [My Tale](https://open.spotify.com/track/6wWKDglEzL9JfiTnJmOSeo) | [Yoshino Aoyama](https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP) | [My Tale](https://open.spotify.com/album/4CtOKxZsZXOWBHbJjnLoWT) | 4:19 | 2022-12-13 | 2023-01-13 |
+| [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 | 2023-05-30 |  |
 | [Nascent Sacrifice](https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Nascent Sacrifice](https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6) | 3:12 | 2023-04-20 |  |
 | [Natsuyume noisy](https://open.spotify.com/track/1i4VjLtf3rtqF1eBPPJe92) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Natsuyume noisy](https://open.spotify.com/album/2JzBHYayYFeqaG1WntbNXk) | 4:16 | 2022-08-16 | 2022-10-19 |
 | [Natsuyume noisy \- TVSize](https://open.spotify.com/track/2lsWz3ZllOTzVKRnuyguAG) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Natsuyume noisy \(TVSize\)](https://open.spotify.com/album/0zPfUlKgvMxhyW7UNF8XH2) | 1:36 | 2022-07-28 | 2022-08-03 |
@@ -425,7 +427,7 @@
 | [ずっと好きだった](https://open.spotify.com/track/2ZvKYdnWNzzSiIbS88yCzp) | [榎木淳弥](https://open.spotify.com/artist/4jl9awuZJuOK7UFDFkhHUI) | [\[Re:collection\] HIT SONG cover series feat.voice actors \~10's\-20's EDITION\~](https://open.spotify.com/album/3yMUzckDJ4TCnioXn783VO) | 4:08 | 2022-07-26 | 2022-07-29 |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2022-11-22 | 2023-01-11 |
 | [となりあわせ](https://open.spotify.com/track/4fvSpQzTsHOMevyvppbfut) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS) | [となりあわせ](https://open.spotify.com/album/47JPJhvwaFQWFluvjKX9EX) | 3:05 | 2023-04-11 |  |
-| [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム 記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 | 2023-05-30 |  |
+| [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム 記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 | 2023-05-30 | 2023-06-01 |
 | [なにが悪い](https://open.spotify.com/track/5r8hIaf0VCNptCt8SRtxD9) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [なにが悪い](https://open.spotify.com/album/7u1WUpovfbZSSDM8edRqmb) | 3:47 | 2022-11-29 | 2022-12-28 |
 | [なんだなんなんだ!](https://open.spotify.com/track/4vjKgV2rjD38Xs0L2RSDaU) | [Mikako Komatsu](https://open.spotify.com/artist/4gzfRfkcrQ3Lle7ONpYZJO) | [なんだなんなんだ!](https://open.spotify.com/album/7eMqKpD3zmKrWaII7GMSVr) | 3:58 | 2022-08-02 | 2022-08-17 |
 | [にゃんぼりーdeモッフィー!!](https://open.spotify.com/track/4OuTUiJ0REmA42fzntM9zP) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [にゃんぼりーdeモッフィー!!](https://open.spotify.com/album/0PHXU7uNvO7EeyE8SaawVM) | 3:03 | 2023-04-06 | 2023-04-09 |

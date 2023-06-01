@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-81 songs - 3 hr 54 min
+83 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,13 +13,15 @@
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-01-13 | 2023-03-02 |
 | [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2022-10-28 |  |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2022-10-28 |  |
-| [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 | 2023-01-13 |  |
+| [By The Window](https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:01 | 2023-02-13 |  |
+| [Contemplations \#2](https://open.spotify.com/track/4mWGn5BKWKD8YDXpTIG3py) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [Contemplations](https://open.spotify.com/album/2gOMTje0HNrjJZWB8n2W9K) | 2:03 | 2023-01-13 | 2023-06-01 |
 | [Costa Tormenta](https://open.spotify.com/track/1fK6fnY1WSGzInlketXt6D) | [El Tiempo Central](https://open.spotify.com/artist/2jrgRXoeKU9D8qrOcnS9fZ) | [Mal tiempo](https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr) | 1:52 | 2022-10-28 |  |
 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 | 2022-12-09 | 2023-05-13 |
 | [Distant Storm](https://open.spotify.com/track/6sZVHMKQ7lf57eTlgby2WL) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 | 2022-10-28 | 2023-01-06 |
 | [Distant Thunder At Night](https://open.spotify.com/track/1eAAKEMh69QfLafJAwgmXg) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Distant Thunder At Night](https://open.spotify.com/album/72gBU4g2D5LGIxe4HKm09V) | 2:22 | 2022-10-28 |  |
 | [Electric Dreams](https://open.spotify.com/track/1PVmI01F4mrbD0czddRlyq) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2023-04-24 |
 | [Electrostatic](https://open.spotify.com/track/4Q73bV2I8Bl55TWlBBUyr5) | [Vedhamn Sounds](https://open.spotify.com/artist/1frCifpQ2GtUMzlLcczFcb) | [Electrostatic](https://open.spotify.com/album/7pqQZkINJGaMdr461sNxkv) | 2:43 | 2022-10-28 |  |
+| [Energy](https://open.spotify.com/track/6mOyhVD6I8LNa9FOHqXQ1L) | [Sylvie Kaplan](https://open.spotify.com/artist/61hhbYWnINRvkUiYRCd2oA) | [Energy](https://open.spotify.com/album/4MvAHtPjtBjGwNgaWcqPvx) | 1:54 | 2023-02-13 |  |
 | [Forest Rain And Thunder \(Seamless\)](https://open.spotify.com/track/1dw1T7x4CFdxUvNcwA6hbY) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:07 | 2022-10-28 |  |
 | [Forest Thunder](https://open.spotify.com/track/5wasNCesFpY5wSiYTar3uL) | [Empyrean](https://open.spotify.com/artist/3KMNkkaZzoo0wfCzVZ3pri) | [In the hands of Thor](https://open.spotify.com/album/2yUnTie8FuYybCVZlH48e3) | 2:24 | 2022-10-28 |  |
 | [Forest Thunderstorm](https://open.spotify.com/track/7F0xezgLJNUnBl2n0Wm48W) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:42 | 2022-10-28 |  |
@@ -64,7 +66,7 @@
 | [Stormy Nights](https://open.spotify.com/track/0m2TR5Z8tZxhBT00aNE3iU) | [Chō](https://open.spotify.com/artist/44rsp35dDfvab8zpuNRdyT) | [Tumbling Sky](https://open.spotify.com/album/6CFrtb4oaSVy7o2k8R9la9) | 3:28 | 2022-10-28 |  |
 | [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2022-11-15 |  |
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
-| [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
+| [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 | 2023-06-01 |
 | [Thunder & Streams](https://open.spotify.com/track/3d2loIRK1NH49qP6w7ydDH) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Thunder & Streams](https://open.spotify.com/album/37SSoz3jxhcfdGDvWeEXlg) | 2:42 | 2022-10-28 | 2023-05-24 |
 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 | 2023-02-13 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |

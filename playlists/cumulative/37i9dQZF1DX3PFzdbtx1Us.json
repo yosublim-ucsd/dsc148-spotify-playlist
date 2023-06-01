@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "XI...rather solemnly",
+        "url": "https://open.spotify.com/album/2KgCQ4mAsfIl48aIGCckNe"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134625,
+      "name": "IX...like a calm and careless morning",
+      "url": "https://open.spotify.com/track/2ra9kQe97lYT5n057ey6yE"
+    },
+    {
+      "album": {
         "name": "IX...like a calm and careless morning",
         "url": "https://open.spotify.com/album/4qgS3tewxI4dUg1Ckv5Z4U"
       },
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 134625,
       "name": "IX...like a calm and careless morning",
       "url": "https://open.spotify.com/track/7qdYmvnXg7STSS9rxlBOQR"

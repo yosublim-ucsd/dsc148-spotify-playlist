@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 126168,
       "name": "Are You Free Tonight?",
       "url": "https://open.spotify.com/track/55bwq3EoSYSSUj8YlnzGsX"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 220440,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/2f7e7ilrvu3lI3ciZQoxnB"
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 142325,
       "name": "BULL IN A CHINA SHOP (feat. 93FEETOFSMOKE)",
       "url": "https://open.spotify.com/track/7tFT48ZinORfsDHaGNpoaV"
@@ -2456,6 +2456,24 @@
       "duration_ms": 363157,
       "name": "By The Little Things",
       "url": "https://open.spotify.com/track/0Qg0pNQUTS0mEkWzfDt4MI"
+    },
+    {
+      "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/7EIDHIB7Gg4JFTTnNWTuGP"
+      },
+      "artists": [
+        {
+          "name": "King Falcon",
+          "url": "https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182461,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/0KAxcmnTqf2g8ToqAkhKHd"
     },
     {
       "album": {
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 208640,
       "name": "Crimson to Chrome",
       "url": "https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj"
@@ -3646,7 +3664,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 163278,
       "name": "crybaby",
       "url": "https://open.spotify.com/track/6hculJA3dWJyUuiTcNPsdr"
@@ -4917,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/504xWYLKOV3ePdpUM07e6r"
+      },
+      "artists": [
+        {
+          "name": "MID CITY",
+          "url": "https://open.spotify.com/artist/5CfLIXfiqkmqz5If0yFu5E"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204082,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5v1Me8UomQqWZKaVLSc4HH"
+    },
+    {
+      "album": {
         "name": "Emo Needs More Fucking Girls",
         "url": "https://open.spotify.com/album/5obexc5rupogBjArsiHj6d"
       },
@@ -6030,7 +6066,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 176427,
       "name": "George Michael",
       "url": "https://open.spotify.com/track/5qim6KadssUIPbPEmjplZ9"
@@ -6636,6 +6672,28 @@
       "duration_ms": 174421,
       "name": "Haunting",
       "url": "https://open.spotify.com/track/1Jnrw6FS2CdkVQTRkz5bla"
+    },
+    {
+      "album": {
+        "name": "have u got a light?",
+        "url": "https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Somber Hills",
+          "url": "https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123538,
+      "name": "have u got a light?",
+      "url": "https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW"
     },
     {
       "album": {
@@ -9681,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Lucky You",
+        "url": "https://open.spotify.com/album/0fBqr043kzBtPLdorWFQNt"
+      },
+      "artists": [
+        {
+          "name": "Joiner",
+          "url": "https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "Lucky You",
+      "url": "https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK"
+    },
+    {
+      "album": {
         "name": "Mac and Steeze",
         "url": "https://open.spotify.com/album/1kiENWEGpg9rSQWGb8AhNA"
       },
@@ -10344,6 +10420,24 @@
       "duration_ms": 250013,
       "name": "Moving Car",
       "url": "https://open.spotify.com/track/2356QCE0gXy04RKzk1okTZ"
+    },
+    {
+      "album": {
+        "name": "Mr Lucky",
+        "url": "https://open.spotify.com/album/4laYvzP2v50nlgvhJPxe00"
+      },
+      "artists": [
+        {
+          "name": "The Stoned Immaculate",
+          "url": "https://open.spotify.com/artist/489qMO8HPBkYqffqFYwC3u"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136224,
+      "name": "Mr Lucky",
+      "url": "https://open.spotify.com/track/5K3s9uVcYlofNL2wBmFcdw"
     },
     {
       "album": {
@@ -12848,7 +12942,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 220188,
       "name": "Sad Dream",
       "url": "https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j"
@@ -14026,7 +14120,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 225624,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts"
@@ -14416,6 +14510,42 @@
       "duration_ms": 131196,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/0acXuhdDyDzyiR021H8a45"
+    },
+    {
+      "album": {
+        "name": "Strong Spirits",
+        "url": "https://open.spotify.com/album/3T9D4sBh6JdDrxGq3uTguX"
+      },
+      "artists": [
+        {
+          "name": "The Life",
+          "url": "https://open.spotify.com/artist/6nVF2Zqiojv0BRHTiYMkHP"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238474,
+      "name": "Strong Spirits",
+      "url": "https://open.spotify.com/track/2EBr6SBTDiZYMr6YaSiuW1"
+    },
+    {
+      "album": {
+        "name": "Sucka",
+        "url": "https://open.spotify.com/album/2PRPlRX26hrpKwO36jD3Nw"
+      },
+      "artists": [
+        {
+          "name": "Sick Love",
+          "url": "https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Sucka",
+      "url": "https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS"
     },
     {
       "album": {
@@ -15651,6 +15781,24 @@
     },
     {
       "album": {
+        "name": "Thoughts Back",
+        "url": "https://open.spotify.com/album/4rP3tcnDTXoTMyN04gmVLg"
+      },
+      "artists": [
+        {
+          "name": "Cable Ties",
+          "url": "https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196077,
+      "name": "Thoughts Back",
+      "url": "https://open.spotify.com/track/4zHuAp1CSsuRWjdlnYhla1"
+    },
+    {
+      "album": {
         "name": "World To Me",
         "url": "https://open.spotify.com/album/0YYEa5959qL0Bcz5vd2pLv"
       },
@@ -16301,6 +16449,24 @@
     },
     {
       "album": {
+        "name": "VERTEBRAE",
+        "url": "https://open.spotify.com/album/4QnzPonbxABKQ1SfbT4rEX"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157356,
+      "name": "VERTEBRAE",
+      "url": "https://open.spotify.com/track/2FJHbwkZGrabc07tlLoNoX"
+    },
+    {
+      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/6s98gaMAAcdvMqT9lw6wf0"
       },
@@ -16402,7 +16568,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 230124,
       "name": "Wait Around",
       "url": "https://open.spotify.com/track/4X03LNoWfzsT2PvFlJLHLH"

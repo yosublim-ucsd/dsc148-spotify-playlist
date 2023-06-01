@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-416 songs - 18 hr 27 min
+417 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Flowers](https://open.spotify.com/track/5cbXenJuFqre3P9G3sYRpV) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [STORi](https://open.spotify.com/artist/0cNL0rBLHK5qIViN1EYM6h) | [Flowers](https://open.spotify.com/album/2Jws4VUvOIirsghBsI5JEh) | 3:24 | 2023-05-23 |  |
 | [Forever Young \(feat\. Leona\)](https://open.spotify.com/track/0YQH3I84QZWalxVLf1PskP) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Leona](https://open.spotify.com/artist/0OF6cV70bUjcaeHJXrsd5G) | [Forever Young \(feat\. Leona\)](https://open.spotify.com/album/71jJShfBMuGvm6srHVSAF2) | 2:21 | 2022-01-13 |  |
 | [Forever Young \- LIZOT Remix](https://open.spotify.com/track/3rX9rP8H83zIwf3ojfvobz) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Forever Young \(LIZOT Remix\)](https://open.spotify.com/album/0mgRzq7SpS8JPAvDW0WbOp) | 2:33 | 2022-01-13 |  |
-| [Freed From Desire](https://open.spotify.com/track/449CDhiQLGc4QFindBgAiy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Tess Burrstone](https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy) | [Freed From Desire](https://open.spotify.com/album/3uVU0iwXMdGajv0JOwFcAR) | 2:40 | 2022-01-13 |  |
+| [Freed From Desire](https://open.spotify.com/track/449CDhiQLGc4QFindBgAiy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Tess Burrstone](https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy) | [Freed From Desire](https://open.spotify.com/album/3uVU0iwXMdGajv0JOwFcAR) | 2:40 | 2022-01-13 | 2023-06-01 |
+| [Freed from Desire](https://open.spotify.com/track/1CwQksL3ppDiJq53dNxuEQ) | [Solveno](https://open.spotify.com/artist/3LLBXVL5YoPD962NlyrO17) | [Freed from Desire](https://open.spotify.com/album/4ZKALfHVOJjoqRTP2jcotb) | 2:41 | 2023-05-16 |  |
 | [Friday](https://open.spotify.com/track/2b4VSmtrC8yVZq7BnwR54W) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Camilia](https://open.spotify.com/artist/58jQ9ySMbgsPyB4VkDjGrQ) | [Friday](https://open.spotify.com/album/2oel6AtBABS8vaLLcKUUWL) | 2:12 | 2022-08-05 |  |
 | [Friday Night \(It's Not Right\)](https://open.spotify.com/track/4xuoZzmW07K2zCl8bGzOen) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Friday Night \(It's Not Right\)](https://open.spotify.com/album/3YaYGppuypevDu41rrfttH) | 2:49 | 2022-01-13 |  |
 | [From Paris to Berlin](https://open.spotify.com/track/5Iyd7OK9tNJmglvVUqfc3g) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [From Paris to Berlin](https://open.spotify.com/album/1R1EmM9vtg3zMk2udHeHfa) | 2:35 | 2022-06-03 |  |

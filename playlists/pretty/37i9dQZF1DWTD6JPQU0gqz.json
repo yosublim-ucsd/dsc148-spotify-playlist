@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 47528,
+  "num_followers": 47541,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZjYzUzNTFkODAzODhkMTVjYzNiOTZhMTdlZWM5MzM2ODE0Y2Nl",
+  "snapshot_id": "MCwzMzFjMTg4MDliYzA5YzZiY2EzYWFlNDIyODk3YzQ2ZDBiM2Y0NTg3",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Bonito que Canta",
         "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 259000,
       "name": "La Vida Vale la Pena",
       "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "13 razones",
+        "url": "https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y"
+      },
+      "artists": [
+        {
+          "name": "Arianna Puello",
+          "url": "https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Juana Kalamidad",
+      "url": "https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "NO AZARA",
         "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 149167,
       "name": "NO AZARA",
       "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "13 razones",
-        "url": "https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y"
-      },
-      "artists": [
-        {
-          "name": "Arianna Puello",
-          "url": "https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "Juana Kalamidad",
-      "url": "https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "MIA BEACH",
-        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "MIA BEACH",
-      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "MIA BEACH",
+        "url": "https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "MIA BEACH",
+      "url": "https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Haters y Fan\u00e1ticos",
-        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Fettuccine",
-      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "EnVy",
         "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 169412,
       "name": "EnVy",
       "url": "https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Haters y Fan\u00e1ticos",
+        "url": "https://open.spotify.com/album/5ozdJlbZNDyinRp5MGXqsb"
+      },
+      "artists": [
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Fettuccine",
+      "url": "https://open.spotify.com/track/3Y21rqKVb3Rqf7FjRCK2EB"
     },
     {
       "added_at": "2023-05-12 04:01:00",

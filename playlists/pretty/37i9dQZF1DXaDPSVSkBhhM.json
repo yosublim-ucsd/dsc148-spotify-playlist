@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 61452,
+  "num_followers": 61486,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTIzYThkNGIwZGU5Zjk5NmFjYTYxZjE4ZGI0ZDcyMmEzNGJiMWJj",
+  "snapshot_id": "MCwxZGE0YWQ4MWRhMTNjM2EwYmM3YmU3ZGRiY2VkZDFmZDBhYTlhZjVl",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+      },
+      "artists": [
+        {
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
-      },
-      "artists": [
-        {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
       },
       "artists": [
         {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
         }
       ],
-      "duration_ms": 252782,
-      "name": "Tennessecito",
-      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
       },
       "artists": [
         {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
         }
       ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
+      "duration_ms": 252782,
+      "name": "Tennessecito",
+      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "La teor\u00eda de los septenios",
+        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
+      },
+      "artists": [
+        {
+          "name": "Da Skate",
+          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
+        }
+      ],
+      "duration_ms": 151757,
+      "name": "No olvides de enfocarte siempre en lo importante",
+      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "Autodestrucci\u00f3n",
         "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "La teor\u00eda de los septenios",
-        "url": "https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo"
-      },
-      "artists": [
-        {
-          "name": "Da Skate",
-          "url": "https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW"
-        }
-      ],
-      "duration_ms": 151757,
-      "name": "No olvides de enfocarte siempre en lo importante",
-      "url": "https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "No Hay Final Feliz",
-        "url": "https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea"
+        "name": "Un Poco de Ti",
+        "url": "https://open.spotify.com/album/5rlV10enxQTX6glKaLgRei"
       },
       "artists": [
         {
-          "name": "Cuatro y Medio",
-          "url": "https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC"
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
         }
       ],
-      "duration_ms": 218811,
-      "name": "No Hay Final Feliz",
-      "url": "https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r"
+      "duration_ms": 191043,
+      "name": "Nunca Estar\u00e1 Bien",
+      "url": "https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV"
     }
   ],
   "unique_name": "Escena Pop Punk",

@@ -2188,10 +2188,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 225053,
       "name": "Dig",
       "url": "https://open.spotify.com/track/3GTsEcu7HyKyQiGHNdIl6K"
+    },
+    {
+      "album": {
+        "name": "White Buffalo",
+        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225053,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/5PajfJ1BQwHHHird3li8S4"
     },
     {
       "album": {

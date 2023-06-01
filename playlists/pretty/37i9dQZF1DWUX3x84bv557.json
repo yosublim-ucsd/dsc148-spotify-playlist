@@ -1,12 +1,12 @@
 {
   "description": "Zo\u00eb Tauran (Spotify <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR-artiest</a>) op de cover van de vernieuwde Je Moerstaal! ",
-  "num_followers": 154055,
+  "num_followers": 154113,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTc2ODNkNTk0YTZhNzI0MzA3Mjc5MjM5YzRiY2IwNTFkZGQyNzA0",
+  "snapshot_id": "MCxhNzEwMDM0NTg0ZDE5ODQ5Zjc5ZWRiN2MxMDQzNDQxZjM1ZjM0MGJh",
   "tracks": [
     {
       "added_at": "2023-05-26 12:17:27",
@@ -99,6 +99,26 @@
     {
       "added_at": "2023-05-26 12:17:27",
       "album": {
+        "name": "Het Is Ok\u00e9",
+        "url": "https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu"
+      },
+      "artists": [
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Het Is Ok\u00e9",
+      "url": "https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM"
+    },
+    {
+      "added_at": "2023-05-26 12:17:27",
+      "album": {
         "name": "Altijd Al Beloofd",
         "url": "https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 167116,
       "name": "Zonder",
       "url": "https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w"
-    },
-    {
-      "added_at": "2023-05-26 12:17:27",
-      "album": {
-        "name": "Het Is Ok\u00e9",
-        "url": "https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu"
-      },
-      "artists": [
-        {
-          "name": "sor",
-          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Het Is Ok\u00e9",
-      "url": "https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM"
     },
     {
       "added_at": "2023-05-26 12:17:27",

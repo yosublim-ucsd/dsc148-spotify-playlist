@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
 
-249 songs - 11 hr 41 min
+250 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [My Kind](https://open.spotify.com/track/1plHk1KHGjLoCjsH1UcsSL) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [My Kind](https://open.spotify.com/album/6l2LiKX9Y51YF9LsMxCaQ2) | 3:04 | 2023-03-03 | 2023-04-15 |
 | [My Real Dawgs \(feat\. Young Nudy\)](https://open.spotify.com/track/3TTjOi9gq94Vds4yXXkK33) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 3:13 | 2023-01-13 |  |
 | [Naked](https://open.spotify.com/track/4kI0jttAHHNohO8dRo4BNW) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M) | [Cousin Feeter](https://open.spotify.com/album/6jNHDprQUP9wxZD6SekkjJ) | 1:43 | 2022-06-03 | 2022-09-17 |
+| [New Opp](https://open.spotify.com/track/2TeC1gKpfWDJYwFf6udy6k) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [New Opp Pack](https://open.spotify.com/album/4P0Nu4LQpdaxYeLeBRDR5Q) | 1:34 | 2023-05-31 |  |
 | [No Effort](https://open.spotify.com/track/6FDeouZz4liRfuXB7CjeEg) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [No Effort](https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt) | 2:48 | 2022-06-03 | 2023-02-18 |
 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 | 2022-07-15 |  |
 | [No Limit](https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 4:05 | 2023-02-03 |  |

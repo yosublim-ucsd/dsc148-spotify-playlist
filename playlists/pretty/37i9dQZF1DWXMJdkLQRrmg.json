@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 311435,
+  "num_followers": 311571,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGE3MDkzNmE2ZDIzNGRhYTMyMjczNGU3ZDEzNTkzZDIxOGZiMzM3",
+  "snapshot_id": "MCwzMjFiZjFlM2FlNjgyMWM0YTkwYjU4ZGFiMjEzMDE4OTE5OWQ3YTZj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -495,22 +479,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Surface Sounds",
-        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 232529,
-      "name": "Backbone",
-      "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -531,6 +499,38 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Surface Sounds",
+        "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 232529,
+      "name": "Backbone",
+      "url": "https://open.spotify.com/track/2mVblJ1gaLw0TZz822Oy31"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Same Kind Of Different",
         "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 241292,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Cut Deep \u2013 Stripped",
-        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Cut Deep \u2013 Stripped",
-      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Cut Deep \u2013 Stripped",
+        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Cut Deep \u2013 Stripped",
+      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "blindfolded (acoustic)",
-        "url": "https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 204563,
-      "name": "blindfolded (acoustic)",
-      "url": "https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Crooked Shadows",
         "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "blindfolded (acoustic)",
+        "url": "https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 204563,
+      "name": "blindfolded (acoustic)",
+      "url": "https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7"
     },
     {
       "added_at": "2023-05-19 04:01:00",

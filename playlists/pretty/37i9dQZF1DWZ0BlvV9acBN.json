@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 117593,
+  "num_followers": 117641,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE2ZjgxMDlhOTEyOGViOGEwMjgzMDZiMjUxZTQyMmZiOGIwYzJi",
+  "snapshot_id": "MCwxNmViN2NiNzM4YjE0ZDE5MDM3ZmFiNjczM2JkMzAwNmRmM2ZiMGFi",
   "tracks": [
     {
       "added_at": "2023-05-19 15:04:04",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 288000,
       "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "Bartimeu",
+        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        },
+        {
+          "name": "Marcos Miranda",
+          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Bartimeu",
+      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 274005,
       "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "Bartimeu",
-        "url": "https://open.spotify.com/album/7BOTcVXmkt4fZaPEJpQXam"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        },
-        {
-          "name": "Marcos Miranda",
-          "url": "https://open.spotify.com/artist/1Y4kBL8z3S14t91luqBy9F"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Bartimeu",
-      "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
+        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
+      },
+      "artists": [
+        {
+          "name": "Redentto",
+          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
         "name": "Quarantine Session",
         "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 225000,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
-      },
-      "artists": [
-        {
-          "name": "Redentto",
-          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Fui Encontrado",
-        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
+        "name": "Me Ensina a Seguir",
+        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
       "artists": [
         {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+          "name": "Al\u00e9m do Mar",
+          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
         }
       ],
-      "duration_ms": 193662,
-      "name": "Fui Encontrado",
-      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
+      "duration_ms": 246333,
+      "name": "Me Ensina a Seguir",
+      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "Me Ensina a Seguir",
-        "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
+        "name": "Fui Encontrado",
+        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
       },
       "artists": [
         {
-          "name": "Al\u00e9m do Mar",
-          "url": "https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3"
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Me Ensina a Seguir",
-      "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
+      "duration_ms": 193662,
+      "name": "Fui Encontrado",
+      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2023-05-19 15:04:04",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-05-19 15:04:04",
       "album": {
-        "name": "At\u00e9 Que Nada Mais Importe",
-        "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        },
-        {
-          "name": "Michel Oliveira",
-          "url": "https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH"
-        }
-      ],
-      "duration_ms": 176487,
-      "name": "At\u00e9 Que Nada Mais Importe",
-      "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
-    },
-    {
-      "added_at": "2023-05-19 15:04:04",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 473382,
       "name": "Sua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB"
+    },
+    {
+      "added_at": "2023-05-19 15:04:04",
+      "album": {
+        "name": "At\u00e9 Que Nada Mais Importe",
+        "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        },
+        {
+          "name": "Michel Oliveira",
+          "url": "https://open.spotify.com/artist/6evPViYPVqrknINn3qocAH"
+        }
+      ],
+      "duration_ms": 176487,
+      "name": "At\u00e9 Que Nada Mais Importe",
+      "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
     },
     {
       "added_at": "2023-05-19 15:04:04",

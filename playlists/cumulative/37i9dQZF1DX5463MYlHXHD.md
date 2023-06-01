@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: Santa Fe Klan & Dj Tao.
 
-121 songs - 6 hr 38 min
+122 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Acercate Bandida](https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb) | [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG) | [El Retutu](https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e) | 3:22 | 2023-05-26 |  |
 | [Adentro del Party](https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5) | 3:00 | 2023-05-26 |  |
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 |  |
+| [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 |  |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2023-05-26 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2023-05-26 |  |
 | [Barra Libre](https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [Barra Libre](https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW) | 3:58 | 2023-05-26 |  |
@@ -111,7 +112,7 @@
 | [Tamo Chelo](https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [Tamo Chelo](https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD) | 1:52 | 2023-05-26 |  |
 | [Tamo Chelo \- Remix](https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB) | [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DINERO EN EL BEAT](https://open.spotify.com/artist/6z6d7XTjd4u2sXVJTVwzE0) | [Tamo Chelo \(Remix\)](https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE) | 5:38 | 2023-05-26 |  |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2023-05-26 |  |
-| [The la Planta: Rkt Session \#6](https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [The la Planta: Rkt Session \#6](https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q) | 1:55 | 2023-05-26 |  |
+| [The la Planta: Rkt Session \#6](https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [The la Planta: Rkt Session \#6](https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q) | 1:55 | 2023-05-26 | 2023-06-01 |
 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 | 2023-05-26 |  |
 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 | 2023-05-26 |  |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2023-05-26 |  |

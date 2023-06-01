@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 190750,
       "name": "La Guarida",
       "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
@@ -2888,6 +2888,28 @@
       "duration_ms": 283333,
       "name": "Rara",
       "url": "https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz"
+    },
+    {
+      "album": {
+        "name": "Remolino",
+        "url": "https://open.spotify.com/album/0vJz6AFA0dM0Y0Fy6am5bp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Larrosa",
+          "url": "https://open.spotify.com/artist/5RtjnEV9DhnyUsEOYv6Whw"
+        },
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219846,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/2hfo5s1hqllxzd1yUURhjR"
     },
     {
       "album": {

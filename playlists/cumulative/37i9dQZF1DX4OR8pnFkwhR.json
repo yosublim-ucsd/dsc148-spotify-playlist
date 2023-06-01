@@ -8167,6 +8167,24 @@
     },
     {
       "album": {
+        "name": "69 Jewel Beetle",
+        "url": "https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF"
+      },
+      "artists": [
+        {
+          "name": "Yamato Mori",
+          "url": "https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272750,
+      "name": "Taishitamondayo",
+      "url": "https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY"
+    },
+    {
+      "album": {
         "name": "Take Me Maybe",
         "url": "https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut"
       },
@@ -10330,7 +10348,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 272750,
       "name": "\u305f\u3044\u3057\u305f\u3082\u3093\u3060\u3088",
       "url": "https://open.spotify.com/track/1ofWIY0SGBubobEqZR4M2u"

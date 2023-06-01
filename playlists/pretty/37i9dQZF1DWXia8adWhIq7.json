@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Ton Carfi, Brunno Ramos, Paloma Possi",
-  "num_followers": 67467,
+  "num_followers": 67523,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhlMzNlODE5Njk2OTQyM2M1ZTYyZmUyNjBlNTkxNTY5ODgwN2Ji",
+  "snapshot_id": "MCw3NjVkYmJiNmRhZjgyNWM3NTI5ODYwZjUyNTkyMGE3N2IzN2JiNzdi",
   "tracks": [
     {
       "added_at": "2023-05-19 15:02:57",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-19 15:02:57",
       "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2023-05-19 15:02:57",
-      "album": {
         "name": "Azul do C\u00e9u",
         "url": "https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI"
       },
@@ -1071,6 +1055,38 @@
       "duration_ms": 182601,
       "name": "Azul do C\u00e9u",
       "url": "https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI"
+    },
+    {
+      "added_at": "2023-05-19 15:02:57",
+      "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+    },
+    {
+      "added_at": "2023-05-19 15:02:57",
+      "album": {
+        "name": "Vai Ser Melhor",
+        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
+      },
+      "artists": [
+        {
+          "name": "Dani Ferber",
+          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Vai Ser Melhor",
+      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
     },
     {
       "added_at": "2023-05-19 15:02:57",
@@ -1155,34 +1171,18 @@
     {
       "added_at": "2023-05-19 15:02:57",
       "album": {
-        "name": "Vai Ser Melhor",
-        "url": "https://open.spotify.com/album/2qKeZs3J2ihqc5YlLmb5yL"
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
       "artists": [
         {
-          "name": "Dani Ferber",
-          "url": "https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 177733,
-      "name": "Vai Ser Melhor",
-      "url": "https://open.spotify.com/track/6FRFSFbFcrMjFCOstsDiLy"
-    },
-    {
-      "added_at": "2023-05-19 15:02:57",
-      "album": {
-        "name": "O Final",
-        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "O Final",
-      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2023-05-19 15:02:57",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-05-19 15:02:57",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+        "name": "O Final",
+        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 235558,
+      "name": "O Final",
+      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
     },
     {
       "added_at": "2023-05-19 15:02:57",

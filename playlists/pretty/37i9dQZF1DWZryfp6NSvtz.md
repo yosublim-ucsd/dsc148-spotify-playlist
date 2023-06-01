@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,958 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,064 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 | 2 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
-| 3 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:07 |
+| 3 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 4 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
 | 5 | [Sucka](https://open.spotify.com/track/5ncA4JJkIyrOz7TEx1C2WS) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Sucka](https://open.spotify.com/album/2PRPlRX26hrpKwO36jD3Nw) | 2:45 |
 | 6 | [Token Appreciation Society](https://open.spotify.com/track/7h93bsTZBsTqVWQjLEP1M8) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Token Appreciation Society](https://open.spotify.com/album/0qrfFlQZxrYP8SjP3u0bsn) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Dog Years](https://open.spotify.com/track/3COjKlDYXvddcBi8Om3BPI) | [The Deadnotes](https://open.spotify.com/artist/6Ul5GFMF8FIfK9ARp9efBF) | [Forever Outsider](https://open.spotify.com/album/1o9ZlcmutaMODuSsnPzxzY) | 3:50 |
 | 50 | [Anti\-Venom](https://open.spotify.com/track/2WEJcvp7wtsMbaWO4zUEYM) | [PENI PARKER](https://open.spotify.com/artist/7isyJZD7MXbmlkFBSkwQu8) | [Anti\-Venom](https://open.spotify.com/album/1oHNb2jxLN1rXLnfYz4aEn) | 2:43 |
 
-Snapshot ID: `MCw3MGQxMWYxM2FkOTdhOTc4NTlhNGM3ZmFmMzI1MjI5YTFjNDgyODVj`
+Snapshot ID: `MCxiODM0NjQ5Y2Q1YmMyOTY2ZmMxYTk3MmFmNGMxY2NkNDRmNTdiNTg5`

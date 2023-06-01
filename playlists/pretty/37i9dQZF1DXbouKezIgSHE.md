@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain]
 
 > Where drum & bass comes alive\. Cover: Luude, Bru C
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,540 likes - 83 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,550 likes - 83 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain]
 | 39 | [Skyline](https://open.spotify.com/track/5M6DnQMTwQs0CaNdz7yJ5d) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Skyline](https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg) | 4:10 |
 | 40 | [Monolith](https://open.spotify.com/track/1pvHTmHwlsEZx5cVIbNKZD) | [VovKING](https://open.spotify.com/artist/5cv42gJ8QCmmPQ4h8DjsdH) | [Monolith / Collagen](https://open.spotify.com/album/4Hn4zbNH6NRnhtYpWq4xVb) | 4:12 |
 | 41 | [Lofi Love](https://open.spotify.com/track/5F210oygZ6fMAvbznWrjwJ) | [Sly Chaos](https://open.spotify.com/artist/02QaTKGbI6W9D80tPSqJ6i), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Lofi Love](https://open.spotify.com/album/7fUAeXxYUirpCyQJuykaJt) | 4:52 |
-| 42 | [Daydream](https://open.spotify.com/track/3baML5RbtecV8Q5yuzrslP) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Daydream](https://open.spotify.com/album/5taOQUJucITY4aEJDQHT8d) | 6:06 |
+| 42 | [Daydream](https://open.spotify.com/track/0cPfUHZzcYDdk1L1iJ5Pza) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Spectrum Vol.2](https://open.spotify.com/album/7zEoD45UE887YCOIGKvA6m) | 6:06 |
 | 43 | [Giants](https://open.spotify.com/track/6YZfLjsFTrRS8EtGLDY24Y) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Giants](https://open.spotify.com/album/5U9rP5znc63gF2UBnoQ8Hb) | 3:37 |
 | 44 | [Miss You \- Solomon France Remix](https://open.spotify.com/track/6OXQfpCGaJ4OqS7g014KmB) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy), [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp) | [Miss You \(Solomon France Remix\)](https://open.spotify.com/album/7BXON2X1HqTRpdJHKiBGz3) | 3:22 |
 | 45 | [Fall](https://open.spotify.com/track/1gfWf2AnJtLckqo9pRFI4p) | [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Fall](https://open.spotify.com/album/797htxFmHyEMgc4mBz1q9h) | 3:47 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain]
 | 82 | [Hidden Deep](https://open.spotify.com/track/1THSOHQigCJf9zlCC5FWO9) | [Magnetude](https://open.spotify.com/artist/1oG2f8B49xa2z9ih8EnqdD) | [Hidden Deep](https://open.spotify.com/album/6H7OcIgE5mDWpcDDh2dfbE) | 4:27 |
 | 83 | [Burn 'Em Down](https://open.spotify.com/track/43ohQwkTpSSgVdib9dJWj1) | [Pythius](https://open.spotify.com/artist/0CRJK2gwHjs3IKm4uhjNTR) | [Burn 'Em Down](https://open.spotify.com/album/3qYCL2kJB9G9yVUp8n3vU1) | 3:24 |
 
-Snapshot ID: `MCw2ZjJkNjJhNWU0MTBjMjZlN2M0OTI0ZjE2OGVhYjlhN2IzNGE2N2Fm`
+Snapshot ID: `MCxmY2YwMDI4OWI3YzA0N2RhNzNjOTFiZGViNDQxOWM1YjA0MmQxMzli`

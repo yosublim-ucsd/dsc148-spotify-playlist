@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 62272,
+  "num_followers": 62291,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDNiZDZiMWNjYWM4MWU4M2FjYzZiOGQ2ODkxNDIzOGJmYzViYzQz",
+  "snapshot_id": "MCw0MjcxODlkYmMyZjNjMzQwN2U3MzQyZWRmNzYyYzcyNWNjNzlhOGNi",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 224560,
-      "name": "Where Is My Mind? - XFM Live Version",
-      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
+      "duration_ms": 316240,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -611,6 +595,22 @@
       "duration_ms": 257650,
       "name": "Fix You - Live",
       "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Where Is My Mind? - XFM Live Version",
+      "url": "https://open.spotify.com/track/6Yg3J1OkP45uNcboiUg2Rw"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Aladdin Sane (2013 Remaster)",
-        "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 190751,
-      "name": "Let's Spend the Night Together - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Resistance Radio: The Man in the High Castle Album",
         "url": "https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193194,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Aladdin Sane (2013 Remaster)",
+        "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 190751,
+      "name": "Let's Spend the Night Together - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
     },
     {
       "added_at": "2021-10-29 16:31:16",

@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
@@ -4030,6 +4030,24 @@
       "duration_ms": 178303,
       "name": "Siguiendo la Huella No Llego a Par\u00eds",
       "url": "https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/304ViHDChtOfPJJyS9HAEQ"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/67xcvzrXQ3E6KC6xxU59vu"
     },
     {
       "album": {

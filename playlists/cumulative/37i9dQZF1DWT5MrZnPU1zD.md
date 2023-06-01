@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-711 songs - 1 day 10 hr 9 min
+712 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-09-03 | 2022-11-19 |
 | [BANKROLL \(feat\. A$AP Rocky & A$AP Ferg\)](https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:22 | 2021-09-03 | 2022-07-29 |
 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 | 2022-07-01 | 2022-07-29 |
+| [BASE](https://open.spotify.com/track/4MODrNdQupGkrWScijvQvU) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [BASE](https://open.spotify.com/album/6bZ603gg1uZVONvzyCLA0d) | 3:04 | 2023-05-19 |  |
 | [Batman](https://open.spotify.com/track/1xMvdOFQaql3EBkHmuh2TK) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS) | [Batman](https://open.spotify.com/album/2XtDT9YT729iLxWjuTMtrR) | 2:36 | 2021-09-03 | 2022-03-18 |
 | [Beat Box 3 \(feat\. DaBaby\)](https://open.spotify.com/track/6toQdWWc4noiOk3Eo5mVDS) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Beat Box 3 \(feat\. DaBaby\)](https://open.spotify.com/album/6QqwWNpKYbROin3Gq5pIrV) | 3:20 | 2021-09-03 | 2022-09-03 |
 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 | 2022-08-26 |  |
@@ -159,7 +160,7 @@
 | [Dead Broke](https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:24 | 2021-09-03 | 2022-05-27 |
 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 | 2022-09-16 | 2023-04-29 |
 | [Deez Boyz](https://open.spotify.com/track/3OHasTNtHSPlXT7C1axoHm) | [Cam Wallace](https://open.spotify.com/artist/15PcygUDr0j5LvDA23i5BG) | [These Perfect Moments](https://open.spotify.com/album/5F9Mfg4ed28qy7Y9PK2US6) | 3:15 | 2021-09-03 | 2022-04-20 |
-| [Demon Party](https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Demon Party](https://open.spotify.com/album/13MCkdR1HqTl3GGzOhoWAU) | 2:25 | 2023-03-13 |  |
+| [Demon Party](https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Demon Party](https://open.spotify.com/album/13MCkdR1HqTl3GGzOhoWAU) | 2:25 | 2023-03-13 | 2023-06-01 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-02 | 2023-03-14 |
 | [Diablo](https://open.spotify.com/track/6pi85Qq6rwDaTMKY6MapIV) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [222](https://open.spotify.com/album/3zSACdYWSh5TPr5fn0YO0T) | 2:15 | 2022-08-05 | 2022-08-13 |
 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 | 2022-08-05 | 2022-10-31 |
@@ -520,7 +521,7 @@
 | [Rain](https://open.spotify.com/track/5R6Q2E0wC10LDfrLLcKtwD) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Backward Books 2](https://open.spotify.com/album/5ED0GoysTq0UklFRc3HQYa) | 2:59 | 2022-03-25 | 2022-04-21 |
 | [Rain On You!](https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Rain On You!](https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A) | 1:24 | 2022-04-01 | 2022-04-21 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-09-03 | 2022-03-18 |
-| [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 | 2023-05-30 |
+| [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 |  |
 | [Red](https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Red](https://open.spotify.com/album/676VcdOBUSv6CcS9SHYhrb) | 2:09 | 2021-09-03 | 2022-03-18 |
 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 | 2021-09-03 | 2022-03-18 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-13 | 2023-04-01 |
@@ -662,7 +663,7 @@
 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 | 2022-11-11 | 2023-02-08 |
 | [UP](https://open.spotify.com/track/2yayJdN0THmDy3Cco1TZtI) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [UP](https://open.spotify.com/album/6bBIifv9VnIVRPKTKQjyBP) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 | 2023-02-17 |  |
-| [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-28 |  |
+| [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-07-28 | 2023-06-01 |
 | [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 | 2022-03-11 | 2022-04-19 |
 | [Vaccine](https://open.spotify.com/track/3SDCwIs4eizbx4rDIgB9Lf) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vaccine](https://open.spotify.com/album/3MYWr5418EXuoq5udBmqIC) | 2:01 | 2021-09-03 | 2022-07-28 |
 | [Van Hayden](https://open.spotify.com/track/3UfpqCUS9euaswAOot4irW) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Van Hayden](https://open.spotify.com/album/1hy7VNroMZgy8StQT5qNCB) | 2:50 | 2022-05-27 | 2022-07-28 |

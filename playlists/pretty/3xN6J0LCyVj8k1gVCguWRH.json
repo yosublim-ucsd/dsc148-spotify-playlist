@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101420,
+  "num_followers": 101437,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDY3NCw0MmZiMDQyMjM2MDE3ODkwYWI5MDVkYmMxY2QyYThiNmM4Y2RhOGYy",
+  "snapshot_id": "NDY3OCwwZDM3MmQzMjFmYzBlNDYxNTc4NjUwMzA0MDI0ODEwZGIwYTIwYjdl",
   "tracks": [
     {
       "added_at": "2023-05-20 03:27:04",
@@ -51,26 +51,6 @@
       "duration_ms": 190373,
       "name": "4EVA",
       "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
-    },
-    {
-      "added_at": "2023-05-13 13:48:39",
-      "album": {
-        "name": "Feels So Good (Swedish Red Elephant Remix)",
-        "url": "https://open.spotify.com/album/7xjodj8r3DFOXkUN61mLlY"
-      },
-      "artists": [
-        {
-          "name": "Scoobert Doobert",
-          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
-        },
-        {
-          "name": "Swedish Red Elephant",
-          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Feels So Good - Swedish Red Elephant Remix",
-      "url": "https://open.spotify.com/track/4ICWb7UFalbnma7FfIScG2"
     },
     {
       "added_at": "2023-05-25 01:21:03",
@@ -123,6 +103,26 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-05-31 13:50:48",
+      "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 186836,
+      "name": "Pegasus (ft. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
     },
     {
       "added_at": "2023-05-25 14:37:56",
@@ -1777,22 +1777,6 @@
       "url": "https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb"
     },
     {
-      "added_at": "2023-05-12 13:35:18",
-      "album": {
-        "name": "Blank Page",
-        "url": "https://open.spotify.com/album/0mi3Vk3Y069hOCdYA0e3gj"
-      },
-      "artists": [
-        {
-          "name": "Elena Shirin",
-          "url": "https://open.spotify.com/artist/7d94AgU8YMpNvzuRhHu7Fj"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Blank Page",
-      "url": "https://open.spotify.com/track/7n3PGud6gQWS5GnFF8SAbb"
-    },
-    {
       "added_at": "2023-05-14 13:46:08",
       "album": {
         "name": "Stuck",
@@ -1823,22 +1807,6 @@
       "duration_ms": 190344,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
-    },
-    {
-      "added_at": "2023-05-12 14:19:42",
-      "album": {
-        "name": "Now I Let You Go",
-        "url": "https://open.spotify.com/album/2c5TZ0SQztTckMP3eqYN0X"
-      },
-      "artists": [
-        {
-          "name": "Teeya Lam\u00e9e",
-          "url": "https://open.spotify.com/artist/0eDr9FGxuaqEVJk76OQUvT"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Now I Let You Go",
-      "url": "https://open.spotify.com/track/7KTRd4UcAxLqFRGRvvzbcu"
     },
     {
       "added_at": "2023-05-14 14:38:01",

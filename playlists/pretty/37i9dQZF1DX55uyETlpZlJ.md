@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,020 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,044 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 15 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 |
 | 16 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 |
 | 17 | [Yako Summane](https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g) | 3:31 |
-| 18 | [Chitte \(Tulu Song\)](https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte \(Tulu Song\)](https://open.spotify.com/album/0regMNfCSK2yR0aqjdvwGQ) | 3:29 |
+| 18 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 |
 | 19 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 |
 | 20 | [Anarkali](https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC) | [Anarkali](https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS) | 5:07 |
 | 21 | [Amma \- Amma enda aa kshana](https://open.spotify.com/track/4fLupNE2qawIX7d146Wj9t) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Giridhar Divan](https://open.spotify.com/artist/0fj18YwFnSMUQ7xlrOIWVz), [Bagur Markadeya](https://open.spotify.com/artist/5v2JYszdVFwmkDBX0iQOPL) | [Amma \(Amma enda aa kshana\)](https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo) | 4:07 |
 | 22 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 |
-| 23 | [Ninnolavina Aasare](https://open.spotify.com/track/3x3Esiey1grIJ0edTcpxAh) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Ninnolavina Aasare](https://open.spotify.com/album/4ADpZeIj6CBNRZ3jVYLVkd) | 1:36 |
+| 23 | [Ninnolavina Aasare](https://open.spotify.com/track/5D1X2g1faG74urU0MI5HFg) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Aasare](https://open.spotify.com/album/1G5Pnfrg6iQfxe28J74nN7) | 1:36 |
 | 24 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 |
 | 25 | [Idhe Idhe Bengaluru](https://open.spotify.com/track/6igjJBcoQ98ZSfVs3fK0zb) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Prithviraj Naik](https://open.spotify.com/artist/31vmekSUvxse1Dr6BlKj1Z) | [Nachinavadu](https://open.spotify.com/album/1gDxZdntEMN96fR8kTga2p) | 2:22 |
 | 26 | [Sajana Re](https://open.spotify.com/track/2J9fnmKHJcOKmIgt8IXqe5) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Armaan Sharif](https://open.spotify.com/artist/0JsfsNRsH8pgGtTe1uqWgD) | [Sajana Re](https://open.spotify.com/album/3ZZDTeKo5dDnwr8tBE6HOD) | 3:38 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 94 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 |
 | 95 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 |
 
-Snapshot ID: `MCw4MzYxZjkyNjY2MzEyZTJiNWRhNDcyYmMzYWVlZGQ4ZWI2ZWMyZDJi`
+Snapshot ID: `MCw4ZGZkOGM5ZTAyMjY3OGI1N2QwYWVmZmY4ZTE4MzNiNjcyNmRkNDJj`

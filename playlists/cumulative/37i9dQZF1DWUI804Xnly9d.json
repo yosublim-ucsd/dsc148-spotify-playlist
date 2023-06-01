@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Aye Ajnabi",
+        "url": "https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W"
+      },
+      "artists": [
+        {
+          "name": "Azadd",
+          "url": "https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Aye Ajnabi",
+      "url": "https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl"
+    },
+    {
+      "album": {
         "name": "Baat Itni Si Hai (Unplugged)",
         "url": "https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC"
       },
@@ -263,6 +281,28 @@
     },
     {
       "album": {
+        "name": "Bechara Dil (feat. Ishaan Nigam)",
+        "url": "https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP"
+      },
+      "artists": [
+        {
+          "name": "Aditya Agrahari",
+          "url": "https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG"
+        },
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161926,
+      "name": "Bechara Dil (feat. Ishaan Nigam)",
+      "url": "https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO"
+    },
+    {
+      "album": {
         "name": "Afsana",
         "url": "https://open.spotify.com/album/17yHafgTW0pQ2yGcanLduv"
       },
@@ -346,7 +386,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 235094,
       "name": "Dheemi",
       "url": "https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz"
@@ -570,7 +610,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 283984,
       "name": "Ik Daffa",
       "url": "https://open.spotify.com/track/0p81CX3O1kwWvVE2NkHDsp"

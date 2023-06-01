@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-324 songs - 15 hr 53 min
+325 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 |  |
 | [Alone](https://open.spotify.com/track/05u2bMqTUNgD5CnxM7pEcU) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Alone](https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL) | 2:29 | 2021-10-29 | 2022-07-29 |
 | [Alright](https://open.spotify.com/track/2001Dk1uUT2AtwV9GuvuAe) | [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Alright](https://open.spotify.com/album/3uhacxjARwJvQZ5iyehrX3) | 2:38 | 2021-10-29 | 2022-03-22 |
+| [AM:PM \- NOTD VIP Mix](https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM \(NOTD VIP Mix\)](https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC) | 2:21 | 2023-05-26 |  |
 | [Amado](https://open.spotify.com/track/6umBB4ktNSSrxhFQQfRSv9) | [Yurie](https://open.spotify.com/artist/7wDogImylcF6JsvvvXaCZ5) | [Amado](https://open.spotify.com/album/2ZlP83uVoIMuF9hqwOSA87) | 3:14 | 2022-04-01 | 2022-07-15 |
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2021-10-29 |  |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-08-06 |
@@ -244,7 +245,7 @@
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-10-29 | 2022-11-12 |
 | [Policia](https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Policia](https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM) | 3:31 | 2022-04-29 | 2023-04-23 |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-29 |  |
-| [PPL](https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [PPL](https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q) | 2:42 | 2022-04-29 |  |
+| [PPL](https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [PPL](https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q) | 2:42 | 2022-04-29 | 2023-06-01 |
 | [Pressure](https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Pressure](https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f) | 2:51 | 2022-03-04 |  |
 | [Problems](https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Problems](https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG) | 2:59 | 2021-10-29 | 2022-10-08 |
 | [Prophecy](https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Prophecy](https://open.spotify.com/album/4tpO8jKHrIOAwWIbJS2zfW) | 2:27 | 2021-10-29 | 2022-03-23 |

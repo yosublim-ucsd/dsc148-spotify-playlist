@@ -1166,6 +1166,40 @@
     {
       "album": {
         "name": "Long Way",
+        "url": "https://open.spotify.com/album/3ZFqID6ShRS5h1jp7pzaH1"
+      },
+      "artists": [
+        {
+          "name": "Hiro Kimura",
+          "url": "https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI"
+        },
+        {
+          "name": "Yusuke Sase",
+          "url": "https://open.spotify.com/artist/2IIu2bokBK7Ypa8ayaT7a7"
+        },
+        {
+          "name": "Tomoaki Baba",
+          "url": "https://open.spotify.com/artist/33cOkvm7eN6eLevzqCuBTZ"
+        },
+        {
+          "name": "Shota Watanabe",
+          "url": "https://open.spotify.com/artist/51aJHn1DtpKe23KBp5igP0"
+        },
+        {
+          "name": "Keisuke Furuki",
+          "url": "https://open.spotify.com/artist/0j1X1NUzqVm0iHZkeXXrx9"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb"
+    },
+    {
+      "album": {
+        "name": "Long Way",
         "url": "https://open.spotify.com/album/04jOhXDYymWNGvo8Vp9bUn"
       },
       "artists": [
@@ -1192,7 +1226,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 320000,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5L1NeeITlI2bHP5Z9E8mJQ"

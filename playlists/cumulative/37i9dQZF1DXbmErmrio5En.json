@@ -2253,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "SECRETS",
+        "url": "https://open.spotify.com/album/01yVqF6VTPmg6hiVcRDcln"
+      },
+      "artists": [
+        {
+          "name": "cxldface",
+          "url": "https://open.spotify.com/artist/1iJd70hmuFd2Xw38LM94hm"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127477,
+      "name": "SECRETS",
+      "url": "https://open.spotify.com/track/2ygzRCfZKc4fySuSzIXsfW"
+    },
+    {
+      "album": {
         "name": "Send My Love",
         "url": "https://open.spotify.com/album/3vhMcEy0QNZ0S7uE7yu30K"
       },
@@ -2707,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Delusional",
+        "url": "https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn"
+    },
+    {
+      "album": {
         "name": "tooth",
         "url": "https://open.spotify.com/album/5pNYo2aydjdR0n1PrL99d5"
       },
@@ -2780,6 +2820,24 @@
       "duration_ms": 151978,
       "name": "Ughh Parents Evening",
       "url": "https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL"
+    },
+    {
+      "album": {
+        "name": "unwind",
+        "url": "https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128832,
+      "name": "unwind",
+      "url": "https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW"
     },
     {
       "album": {

@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "New Opp Pack",
+        "url": "https://open.spotify.com/album/4P0Nu4LQpdaxYeLeBRDR5Q"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94099,
+      "name": "New Opp",
+      "url": "https://open.spotify.com/track/2TeC1gKpfWDJYwFf6udy6k"
+    },
+    {
+      "album": {
         "name": "No Effort",
         "url": "https://open.spotify.com/album/73ZrfPFfKXA6VtBYJEsFzt"
       },

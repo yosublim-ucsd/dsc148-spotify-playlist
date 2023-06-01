@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "AINIIKOU",
+        "url": "https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245650,
+      "name": "AINIIKOU",
+      "url": "https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW"
+    },
+    {
+      "album": {
         "name": "Aiseta",
         "url": "https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST"
       },
@@ -6545,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "Reimei",
+        "url": "https://open.spotify.com/album/3wzVJGkfNEBR1lP3yy0YwW"
+      },
+      "artists": [
+        {
+          "name": "Rina Yamashita",
+          "url": "https://open.spotify.com/artist/2ZtSiBTEhkNUSyt2cxCzHa"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277609,
+      "name": "Junction",
+      "url": "https://open.spotify.com/track/6YW05PZJ5q44S4x0YVExXw"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/4g4QLW0E1SfBipYZuE5Hym"
       },
@@ -6632,6 +6668,24 @@
       "duration_ms": 232813,
       "name": "Just the way you are",
       "url": "https://open.spotify.com/track/3k5URLS7vPdyjdtewnHCBl"
+    },
+    {
+      "album": {
+        "name": "kajitsukyoso",
+        "url": "https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257409,
+      "name": "kajitsukyoso",
+      "url": "https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I"
     },
     {
       "album": {
@@ -8951,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "11th Album Kioku no Toshokan",
+        "url": "https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245173,
+      "name": "Naimononedari",
+      "url": "https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO"
+    },
+    {
+      "album": {
         "name": "NATSU NO HAMON",
         "url": "https://open.spotify.com/album/7gpyp8SJ911G4AUYdB04oa"
       },
@@ -9150,7 +9222,7 @@
     {
       "album": {
         "name": "New Romantic (feat. Maki Nomiya)",
-        "url": "https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi"
+        "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
       },
       "artists": [
         {
@@ -9165,6 +9237,28 @@
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193017,
+      "name": "New Romantic (feat. Maki Nomiya)",
+      "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
+    },
+    {
+      "album": {
+        "name": "New Romantic (feat. Maki Nomiya)",
+        "url": "https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
       "duration_ms": 193017,
       "name": "New Romantic (feat. Maki Nomiya)",
       "url": "https://open.spotify.com/track/4DAGg2adRd1PuKrnoUZXOP"
@@ -16648,7 +16742,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 245173,
       "name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a",
       "url": "https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj"
@@ -18282,7 +18376,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 277609,
       "name": "\u30b8\u30e3\u30f3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4wSLulLgSVls0lkCrJiWDl"
@@ -18858,7 +18952,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 199453,
       "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
       "url": "https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2"
@@ -20520,7 +20614,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 245650,
       "name": "\u4f1a\u3044\u306b\u3044\u3053\u3046",
       "url": "https://open.spotify.com/track/30zHq1T2xqEjuG3H4Mrb0s"
@@ -21800,7 +21894,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 257409,
       "name": "\u590f\u65e5\u72c2\u60f3",
       "url": "https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8"
@@ -23700,7 +23794,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 241152,
       "name": "\u6708\u306e\u82b1",
       "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"

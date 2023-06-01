@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới.
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 60 songs - 3 hr 33 min
 
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 59 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 |
 | 60 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 |
 
-Snapshot ID: `MCxjMWQ2MWRkZjgxNjdhZGQyNGU4YmU0NGI0N2JiOTRkMDk5YjczNTBk`
+Snapshot ID: `MCw0NDllOGYwOTYyNzA4NTljZWI4NzhjMGYxZjI1YzgzZjlhZDE1OTIx`

@@ -706,7 +706,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 216666,
       "name": "Black And Blue",
       "url": "https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 220689,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk"
@@ -3978,6 +3978,24 @@
       "duration_ms": 214795,
       "name": "LOST IN YOU",
       "url": "https://open.spotify.com/track/4TMtydweRFufJuukwDH48j"
+    },
+    {
+      "album": {
+        "name": "lozer",
+        "url": "https://open.spotify.com/album/3fhpSroTG3JGEhsBdzwG2r"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "lozer",
+      "url": "https://open.spotify.com/track/66DiGAO6hsJYfJiYKLBmXc"
     },
     {
       "album": {

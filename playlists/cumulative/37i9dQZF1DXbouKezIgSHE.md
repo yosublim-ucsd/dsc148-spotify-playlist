@@ -4,7 +4,7 @@
 
 > Where drum & bass comes alive\. Cover: Luude, Bru C
 
-93 songs - 6 hr 11 min
+94 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-11 |  |
 | [CNCNTRTN](https://open.spotify.com/track/6CyWYoGbXYDaWzgVtDWFfJ) | [PRFCT Mandem](https://open.spotify.com/artist/17E7dnCNABNW9SJBiaDe5E) | [CNCNTRTN](https://open.spotify.com/album/3EMQpMfulXzJIVnHQRskOs) | 3:24 | 2022-06-08 |  |
 | [Come This Far](https://open.spotify.com/track/0jE6OcJzJ1mngyrNV82mZK) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Take What You Want / Come This Far](https://open.spotify.com/album/446PvnUtFcdBH010dsqcNZ) | 3:40 | 2022-06-08 |  |
-| [Daydream](https://open.spotify.com/track/3baML5RbtecV8Q5yuzrslP) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Daydream](https://open.spotify.com/album/5taOQUJucITY4aEJDQHT8d) | 6:06 | 2022-06-08 |  |
+| [Daydream](https://open.spotify.com/track/0cPfUHZzcYDdk1L1iJ5Pza) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Spectrum Vol.2](https://open.spotify.com/album/7zEoD45UE887YCOIGKvA6m) | 6:06 | 2023-05-25 |  |
+| [Daydream](https://open.spotify.com/track/3baML5RbtecV8Q5yuzrslP) | [Safire](https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB) | [Daydream](https://open.spotify.com/album/5taOQUJucITY4aEJDQHT8d) | 6:06 | 2022-06-08 | 2023-06-01 |
 | [De Carle \- KETTAMA Remix](https://open.spotify.com/track/20S0Uu2h1RZ4oVivYNdueF) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [De Carle \(KETTAMA Remix\)](https://open.spotify.com/album/3RAqyYwQf1WDTU3OgJPK1H) | 3:08 | 2023-05-11 |  |
 | [Deranged](https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Deranged / Monster](https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd) | 3:24 | 2023-05-18 |  |
 | [Desire](https://open.spotify.com/track/2zZMNnWQbHrUs10LkB9PQK) | [Neonlight](https://open.spotify.com/artist/1dDzlLlakr2JyoK4EtRv5L), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Desire](https://open.spotify.com/album/6R36PEkkLoBaghta6MptKE) | 4:11 | 2022-06-08 |  |

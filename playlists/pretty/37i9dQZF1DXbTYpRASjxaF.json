@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Xam\u00e3",
-  "num_followers": 110960,
+  "num_followers": 111082,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGRkYmEzNTJjNjQ4MDgzOWRjNzdmODI1NjkyMDRjNDExNTFiOGEz",
+  "snapshot_id": "MCxiMGM3NTU4YWNmNGY0NTdhZDM0YjUxMjFlZjFhOTI2MTdiOTljZDhj",
   "tracks": [
     {
       "added_at": "2023-05-26 13:13:55",
@@ -987,6 +987,26 @@
     {
       "added_at": "2023-05-26 13:13:55",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-05-26 13:13:55",
+      "album": {
         "name": "Na Onda do Gin",
         "url": "https://open.spotify.com/album/06toWHXwaQ4930x0UEfQSq"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 264057,
       "name": "Na Onda do Gin",
       "url": "https://open.spotify.com/track/3J2dWPo6aN0mwJFcg1aW4e"
-    },
-    {
-      "added_at": "2023-05-26 13:13:55",
-      "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-05-26 13:13:55",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-26 13:13:55",
       "album": {
-        "name": "Evoque Miami Blue",
-        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
-      },
-      "artists": [
-        {
-          "name": "A$TRO BOY",
-          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
-        }
-      ],
-      "duration_ms": 129044,
-      "name": "Evoque Miami Blue",
-      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
-    },
-    {
-      "added_at": "2023-05-26 13:13:55",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico Online",
         "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
       },
@@ -1335,6 +1319,58 @@
     {
       "added_at": "2023-05-26 13:13:55",
       "album": {
+        "name": "Evoque Miami Blue",
+        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        }
+      ],
+      "duration_ms": 129044,
+      "name": "Evoque Miami Blue",
+      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
+    },
+    {
+      "added_at": "2023-05-26 13:13:55",
+      "album": {
+        "name": "Carioca & Luandense/Porsche",
+        "url": "https://open.spotify.com/album/7AmqSiWKiaK5K8fuApDtG8"
+      },
+      "artists": [
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "duration_ms": 225145,
+      "name": "Carioca & Luandense",
+      "url": "https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA"
+    },
+    {
+      "added_at": "2023-05-26 13:13:55",
+      "album": {
+        "name": "MANDRAKES DA GAROA",
+        "url": "https://open.spotify.com/album/5AfwoCMHUKU5ot89IaZifW"
+      },
+      "artists": [
+        {
+          "name": "Dragon Boys",
+          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
+        },
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "MANDRAKES DA GAROA",
+      "url": "https://open.spotify.com/track/6itCwgxJcm2cPVXe6gUaC5"
+    },
+    {
+      "added_at": "2023-05-26 13:13:55",
+      "album": {
         "name": "Jhony Convida #5 - Confirma",
         "url": "https://open.spotify.com/album/4KdYS9doYHGw4Mrv5E1sqN"
       },
@@ -1371,26 +1407,6 @@
     {
       "added_at": "2023-05-26 13:13:55",
       "album": {
-        "name": "MANDRAKES DA GAROA",
-        "url": "https://open.spotify.com/album/5AfwoCMHUKU5ot89IaZifW"
-      },
-      "artists": [
-        {
-          "name": "Dragon Boys",
-          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
-        },
-        {
-          "name": "Ugovhb",
-          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "MANDRAKES DA GAROA",
-      "url": "https://open.spotify.com/track/6itCwgxJcm2cPVXe6gUaC5"
-    },
-    {
-      "added_at": "2023-05-26 13:13:55",
-      "album": {
         "name": "Fala Isso pra Todas",
         "url": "https://open.spotify.com/album/4HQER8pOnUmA7UiztEVatF"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 143004,
       "name": "Para o Baile",
       "url": "https://open.spotify.com/track/5OwhyEznMGm4iJDpTTp1h8"
-    },
-    {
-      "added_at": "2023-05-26 13:13:55",
-      "album": {
-        "name": "Carioca & Luandense/Porsche",
-        "url": "https://open.spotify.com/album/7AmqSiWKiaK5K8fuApDtG8"
-      },
-      "artists": [
-        {
-          "name": "DNASTY",
-          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
-        }
-      ],
-      "duration_ms": 225145,
-      "name": "Carioca & Luandense",
-      "url": "https://open.spotify.com/track/3PEMo84BP2cSpeHV7a43JA"
     }
   ],
   "unique_name": "Cop\u00e3o na m\u00e3o",

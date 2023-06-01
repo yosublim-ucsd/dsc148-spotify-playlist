@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 332097,
+  "num_followers": 332145,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmNiNjhmZTdlODBlMzhlODU5MjM1NmE2YmExNmEyNTQzYTExYjc0",
+  "snapshot_id": "MCxiYTNlYjljZTY1Nzg3NDhlZTQzYWExMzIwZjAyNTMyNWQxYjg1NmUw",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Open Window",
-        "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
-      },
-      "artists": [
-        {
-          "name": "Matti Bye",
-          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Fluttering",
         "url": "https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
+      },
+      "artists": [
+        {
+          "name": "Matti Bye",
+          "url": "https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -695,18 +695,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Num\u00e9ro 1",
-        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
+        "name": "In Breath",
+        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
       },
       "artists": [
         {
-          "name": "J\u00f8sefine",
-          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
+          "name": "Luke Gajdus",
+          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
         }
       ],
-      "duration_ms": 154625,
-      "name": "Num\u00e9ro 1",
-      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
+      "duration_ms": 174000,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "In Breath",
-        "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
+        "name": "Num\u00e9ro 1",
+        "url": "https://open.spotify.com/album/2FD6tNq2lHhx57hK0q1X35"
       },
       "artists": [
         {
-          "name": "Luke Gajdus",
-          "url": "https://open.spotify.com/artist/5YaLrJC1QyjP7kUj1w9lsh"
+          "name": "J\u00f8sefine",
+          "url": "https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Ephemera",
-      "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
+      "duration_ms": 154625,
+      "name": "Num\u00e9ro 1",
+      "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dagdraumur",
-      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dagdraumur",
+      "url": "https://open.spotify.com/track/6YNBS5HVb1h0Wt3SIPn5xT"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "We Met in the Garden",
+        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "duration_ms": 143585,
+      "name": "We Met in the Garden",
+      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "We Met in the Garden",
-        "url": "https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        }
-      ],
-      "duration_ms": 143585,
-      "name": "We Met in the Garden",
-      "url": "https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Echoes In The Valley",
         "url": "https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Any",
-        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
-      },
-      "artists": [
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Any",
-      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Life in Process",
         "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 199400,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Any",
+        "url": "https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC"
+      },
+      "artists": [
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Any",
+      "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Col",
-        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
+        "name": "Octaves",
+        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
       },
       "artists": [
         {
-          "name": "Elias Braun",
-          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
         }
       ],
-      "duration_ms": 142041,
-      "name": "Col",
-      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
+      "duration_ms": 132500,
+      "name": "Octaves",
+      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Octaves",
-        "url": "https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir"
+        "name": "Col",
+        "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
       "artists": [
         {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
         }
       ],
-      "duration_ms": 132500,
-      "name": "Octaves",
-      "url": "https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "An Evening Scene",
-        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 144625,
-      "name": "An Evening Scene",
-      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
+      "duration_ms": 142041,
+      "name": "Col",
+      "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1207,6 +1191,22 @@
       "duration_ms": 151397,
       "name": "Wings",
       "url": "https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "An Evening Scene",
+        "url": "https://open.spotify.com/album/6qDYuLFEzlrUmcu5xm492a"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 144625,
+      "name": "An Evening Scene",
+      "url": "https://open.spotify.com/track/276HXUxlxWcRkavtERQpru"
     },
     {
       "added_at": "2022-09-20 13:39:53",

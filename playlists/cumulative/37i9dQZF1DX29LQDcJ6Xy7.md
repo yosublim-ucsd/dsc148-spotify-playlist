@@ -2,7 +2,7 @@
 
 ### [Industrial Metal](https://open.spotify.com/playlist/37i9dQZF1DX29LQDcJ6Xy7)
 
-> A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
+> A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
 199 songs - 14 hr 8 min
 

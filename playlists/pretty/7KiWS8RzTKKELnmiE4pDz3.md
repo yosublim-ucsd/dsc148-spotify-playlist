@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 181 songs - 8 hr 12 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 185 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 127 | [Cab Fare](https://open.spotify.com/track/5Q5Mw2JjkQ5V7jCWhY5xC0) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:43 |
 | 128 | [Fresh As Fuck](https://open.spotify.com/track/1lpm9Nut3Lscr1I8qqrHmU) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:58 |
 | 129 | [tokoyoto](https://open.spotify.com/track/28akW28raGpnoNwTuAHLRH) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [XO](https://open.spotify.com/album/4gQa9eWUzWe6XRYekLxfyD) | 2:10 |
-| 130 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya tiji](https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 |
+| 130 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya Tiji](https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 |
 | 131 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 |
 | 132 | [If It Means Anything!](https://open.spotify.com/track/5Y8mZp8WevMgxRqc2uyJsS) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [If It Means Anything!](https://open.spotify.com/album/37MZEYFZ622doZCLUxKVh4) | 2:09 |
 | 133 | [Orion's Belt](https://open.spotify.com/track/26ppRCIIgFDWmZbP3NAxUu) | [Dammntc](https://open.spotify.com/artist/5fusLQAgJkYQ9NeC0TaVDJ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Orion's Belt](https://open.spotify.com/album/0M2HmW5ebgoukPvZe5YZyT) | 2:33 |
@@ -189,5 +189,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 179 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 |
 | 180 | [Slider](https://open.spotify.com/track/27BNM6DUOhLfKKv1yecgLd) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 2:28 |
 | 181 | [Dizzy \- Bonus Version](https://open.spotify.com/track/4hRydm5LUCaTZFHMBALibQ) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Dizzy](https://open.spotify.com/album/3dJOFNc7vaO7m4nxZ7HhYF) | 2:48 |
+| 182 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
+| 183 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 |
+| 184 | [Fresh Prince Of Utah](https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:45 |
+| 185 | [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 |
 
-Snapshot ID: `NzAzOSw5MGE1ODhiMTRlNWM0MDdkYjdjM2RjYWZiZTQ3ZjE1MDAzMDMyODc4`
+Snapshot ID: `NzA0MywwOTFhYzE5MzYzNjdkMGRjYmMxM2EzY2ZjMmRlMGMxOGNmNjE3Y2U2`

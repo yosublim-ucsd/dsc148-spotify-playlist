@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Swedish House Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,853 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,857 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 52 | [Festie Life](https://open.spotify.com/track/6fCPyfnZxnAumIxt8RTUU9) | [Bum Bag](https://open.spotify.com/artist/2WS2Qwnxq1hrwwgfMLFTDW) | [Festie Life](https://open.spotify.com/album/7iuRhISiDgwtnWBTHEtLVN) | 2:56 |
 | 53 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 54 | [Reminisce](https://open.spotify.com/track/2CjRcJNaSRM4bJAs0RvzL6) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Reminisce](https://open.spotify.com/album/6L2XJSKEAb9ViAWIRXNX7p) | 2:32 |
-| 55 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:47 |
+| 55 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 |
 | 56 | [That Accordion Song](https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [That Accordion Song](https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa) | 2:46 |
 | 57 | [Shout](https://open.spotify.com/track/3Qsa3qblr8mD9T3rt7Kjog) | [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Shout](https://open.spotify.com/album/34ZsiV1oodEdlwAe0lxssY) | 4:30 |
 | 58 | [Get Flutey](https://open.spotify.com/track/1Ryer7rjuIJ8UztDyMVWLG) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Get Flutey](https://open.spotify.com/album/1NMNkeVHBhy7tSpBkmYWNy) | 3:54 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
 | 101 | [You Take Me \(So High\)](https://open.spotify.com/track/4G0P1Qm7emMlIfvDHqsmyZ) | [Steve Hart](https://open.spotify.com/artist/4PE36BVs8ZE8MmAPMPJQ7I) | [You Take Me \(So High\)](https://open.spotify.com/album/0EJTirFaHN2XwRnoLpYuKl) | 3:27 |
 
-Snapshot ID: `MCw2YzRmMzkyNzUxM2ZiZmFiNmNhNDFlZDc3NzM0NmIxMTVlZmE1N2Mw`
+Snapshot ID: `MCwyYjk1NTFmNWNhNmVmMmE1ZGIzYTgzN2JlNzkyZTJlNjExYTVlODRm`

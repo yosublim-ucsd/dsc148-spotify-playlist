@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới.
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
 63 songs - 3 hr 45 min
 

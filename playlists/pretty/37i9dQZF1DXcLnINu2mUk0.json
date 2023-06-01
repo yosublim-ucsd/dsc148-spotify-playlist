@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 33610,
+  "num_followers": 33676,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjViNTEyN2M2OGI1MWIxMjUzOTYzMzI1ZGY5ODY5ZTY5YzVhZGMy",
+  "snapshot_id": "MCw3MDAyOTJmMGNkYTA1ZDMzZWJiNWU2MTRkZTVlZDNmMjQyN2JkMmY4",
   "tracks": [
     {
       "added_at": "2023-05-26 09:57:04",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "19.2k",
         "url": "https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 193200,
       "name": "Ride (feat. B\u00e1rbara Bandeira)",
       "url": "https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Lisabonna",
-        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lisabonna",
-      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Lisabonna",
+        "url": "https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lisabonna",
+      "url": "https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "GUUD",
+        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "GUUD",
+      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "DECLIVE",
         "url": "https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "GUUD",
-        "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 168631,
-      "name": "GUUD",
-      "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+      "duration_ms": 279423,
+      "name": "Depois da Chuva",
+      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -927,22 +943,6 @@
       "duration_ms": 230658,
       "name": "Tu Reclamas",
       "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Depois da Chuva",
-      "url": "https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
-      },
-      "artists": [
-        {
-          "name": "J.Yen",
-          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
         "name": "Golo",
         "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
       },
@@ -1079,30 +1063,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Suzana",
-        "url": "https://open.spotify.com/album/1DUDfVee537gZGjf4PhJjv"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
       "artists": [
         {
-          "name": "Dj Helio Baiano",
-          "url": "https://open.spotify.com/artist/33aeOKnSKPNGbyVH78vHPH"
-        },
-        {
-          "name": "Tio Edson",
-          "url": "https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2"
-        },
-        {
-          "name": "Samuel Cl\u00e1ssico",
-          "url": "https://open.spotify.com/artist/6TcXjoEQqRNidRkjhn467n"
-        },
-        {
-          "name": "Addy Buxexa",
-          "url": "https://open.spotify.com/artist/6HJQeq0cUFeMKrSTiJn1GP"
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
         }
       ],
-      "duration_ms": 218282,
-      "name": "Suzana",
-      "url": "https://open.spotify.com/track/7jan2eOiDAjoaQkwbnxkbS"
+      "duration_ms": 208163,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1143,6 +1115,34 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Suzana",
+        "url": "https://open.spotify.com/album/1DUDfVee537gZGjf4PhJjv"
+      },
+      "artists": [
+        {
+          "name": "Dj Helio Baiano",
+          "url": "https://open.spotify.com/artist/33aeOKnSKPNGbyVH78vHPH"
+        },
+        {
+          "name": "Tio Edson",
+          "url": "https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2"
+        },
+        {
+          "name": "Samuel Cl\u00e1ssico",
+          "url": "https://open.spotify.com/artist/6TcXjoEQqRNidRkjhn467n"
+        },
+        {
+          "name": "Addy Buxexa",
+          "url": "https://open.spotify.com/artist/6HJQeq0cUFeMKrSTiJn1GP"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "Suzana",
+      "url": "https://open.spotify.com/track/7jan2eOiDAjoaQkwbnxkbS"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
       },
@@ -1155,54 +1155,6 @@
       "duration_ms": 216831,
       "name": "Lua",
       "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Yah!",
-        "url": "https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR"
-      },
-      "artists": [
-        {
-          "name": "JNY",
-          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Yah!",
-      "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "\u00c1gua",
-        "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc"
-      },
-      "artists": [
-        {
-          "name": "Mariana Norton",
-          "url": "https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV"
-        }
-      ],
-      "duration_ms": 207593,
-      "name": "\u00c1gua",
-      "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "Compensa",
-        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
-      },
-      "artists": [
-        {
-          "name": "Yang",
-          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Compensa",
-      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1227,6 +1179,54 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
+        "name": "Yah!",
+        "url": "https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Yah!",
+      "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Compensa",
+        "url": "https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY"
+      },
+      "artists": [
+        {
+          "name": "Yang",
+          "url": "https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Compensa",
+      "url": "https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "\u00c1gua",
+        "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Norton",
+          "url": "https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV"
+        }
+      ],
+      "duration_ms": 207593,
+      "name": "\u00c1gua",
+      "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
         "name": "Cora\u00e7\u00e3o Dormente",
         "url": "https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 179384,
       "name": "Cora\u00e7\u00e3o Dormente",
       "url": "https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a"
-    },
-    {
-      "added_at": "2023-05-26 09:57:04",
-      "album": {
-        "name": "HEADS or TAILS",
-        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
-      },
-      "artists": [
-        {
-          "name": "THE F LIBRA",
-          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
-        }
-      ],
-      "duration_ms": 221597,
-      "name": "HEADS or TAILS",
-      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-05-26 09:57:04",
       "album": {
-        "name": "Acabar Na Cama",
-        "url": "https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ"
+        "name": "HEADS or TAILS",
+        "url": "https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS"
       },
       "artists": [
         {
-          "name": "Hugo Pina",
-          "url": "https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu"
+          "name": "THE F LIBRA",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
         }
       ],
-      "duration_ms": 156534,
-      "name": "Acabar Na Cama",
-      "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
+      "duration_ms": 221597,
+      "name": "HEADS or TAILS",
+      "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
     },
     {
       "added_at": "2023-05-26 09:57:04",
@@ -1323,6 +1307,22 @@
       "duration_ms": 239069,
       "name": "T\u00e1 tarde",
       "url": "https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h"
+    },
+    {
+      "added_at": "2023-05-26 09:57:04",
+      "album": {
+        "name": "Acabar Na Cama",
+        "url": "https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pina",
+          "url": "https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu"
+        }
+      ],
+      "duration_ms": 156534,
+      "name": "Acabar Na Cama",
+      "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
     },
     {
       "added_at": "2023-05-26 09:57:04",

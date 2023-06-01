@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Imas7RTB6t.md) - [plain]
 
 > The rising star <a href=“spotify:artist:4ztolv1NbTfNxSjS1EgtOX”>Amy Wiles</a>  shares a handpicked selection of Progressive tunes for her latest Spotify mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 12 songs - 56 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 916 likes - 12 songs - 56 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Imas7RTB6t.md) - [plain]
 | 11 | [Ritual \- Mixed](https://open.spotify.com/track/3lribXpaTrrgssSsklr4o8) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Ritual \(Mixed\)](https://open.spotify.com/album/2vlrMkvS3lba0jjx2pLHR5) | 5:54 |
 | 12 | [Distorted Youth \- Mixed](https://open.spotify.com/track/28JBAbNK4zXyMhUk5jYcZU) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth \(Mixed\)](https://open.spotify.com/album/2CzzkpprkrwgsVrxETUPYu) | 4:08 |
 
-Snapshot ID: `MCw3ODY4ZjIwNWFlMGM4ODZhYzg2N2UwZDI2NDViM2RhZDJhODAxZjc0`
+Snapshot ID: `MCxiYzc5NzI4Yjk1MDdhODE2YTQ5NzI5N2M3ODZiNjNiMjdjYzY1MGYz`

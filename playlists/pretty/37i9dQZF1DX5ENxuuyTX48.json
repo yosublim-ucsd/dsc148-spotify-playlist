@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Agatha Pricilla",
-  "num_followers": 11461,
+  "num_followers": 11468,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjgzZWM3ZDFhOTA1NzI1ODJkMGIwNGQ1OWFlZmRkN2Y5OWM2ZjBm",
+  "snapshot_id": "MCw0OGRlZWNlYjBlMDIxNjVkNDEwMWE1ZTQzZGExZjgzNGNhNzdhMDI3",
   "tracks": [
     {
       "added_at": "2023-05-25 17:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-25 17:00:00",
       "album": {
-        "name": "Inilah JalanNya",
-        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
-      },
-      "artists": [
-        {
-          "name": "Masdo",
-          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
-        }
-      ],
-      "duration_ms": 160117,
-      "name": "Inilah JalanNya",
-      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
-    },
-    {
-      "added_at": "2023-05-25 17:00:00",
-      "album": {
         "name": "Glorious (The Official Song of FIFA U-20 World Cup Argentina 2023\u2122)",
         "url": "https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 222500,
       "name": "Buru-Buru",
       "url": "https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6"
+    },
+    {
+      "added_at": "2023-05-25 17:00:00",
+      "album": {
+        "name": "Inilah JalanNya",
+        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
+      },
+      "artists": [
+        {
+          "name": "Masdo",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        }
+      ],
+      "duration_ms": 160117,
+      "name": "Inilah JalanNya",
+      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
     },
     {
       "added_at": "2023-05-25 17:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-25 17:00:00",
       "album": {
-        "name": "Ada Apa Dengan Cinta (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
-      },
-      "artists": [
-        {
-          "name": "Melly Goeslaw",
-          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Kubahagia",
-      "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
-    },
-    {
-      "added_at": "2023-05-25 17:00:00",
-      "album": {
         "name": "Rossa",
         "url": "https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 230386,
       "name": "Takkan Berpaling DariMu",
       "url": "https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3"
+    },
+    {
+      "added_at": "2023-05-25 17:00:00",
+      "album": {
+        "name": "Ada Apa Dengan Cinta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Kubahagia",
+      "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
     }
   ],
   "unique_name": "OTW ",

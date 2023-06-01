@@ -1,12 +1,12 @@
 {
   "description": "It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.",
-  "num_followers": 86422,
+  "num_followers": 86575,
   "original_name": "Grandma's Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzM3ODA4YjZjOTUzYmY4MzA2YzM1NDZiZDU3MjUxMjhjYTc0MTcz",
+  "snapshot_id": "MCw1YTg3ZTYwOGUwYWMxM2JlYWVkZjk0NDE4ZjdhY2JkOWJmYjhlYWU3",
   "tracks": [
     {
       "added_at": "2023-01-03 16:08:08",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-01-03 16:08:08",
+      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
-    },
-    {
-      "added_at": "2023-01-03 16:08:08",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "NBC-TV Special (Live)",
-        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 200057,
-      "name": "If I Can Dream - Live from the '68 Comeback Special",
-      "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": "2023-01-03 16:08:08",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-01-03 16:08:08",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+        "name": "NBC-TV Special (Live)",
+        "url": "https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+      "duration_ms": 200057,
+      "name": "If I Can Dream - Live from the '68 Comeback Special",
+      "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
     },
     {
       "added_at": "2023-01-03 16:08:08",

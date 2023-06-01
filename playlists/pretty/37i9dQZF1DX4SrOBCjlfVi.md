@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, Kodak Black, and more\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,021 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,130 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
 | 50 | [Choosin Me](https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Choosin Me](https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb) | 2:15 |
 
-Snapshot ID: `MCxkNWM1NDY3ZWU4Yzc5Y2JjNGY3MGJkODQyY2E3MGQyMTE5NTg0NjRm`
+Snapshot ID: `MCxjNTAxOGE1MGU3MmNkYmMzMWViMzI0ZjYwMmRiYTE5ZTQ5MmFlMzk4`

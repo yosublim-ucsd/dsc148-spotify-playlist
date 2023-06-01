@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,705 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,710 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 72 | [I love U](https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:47 |
 | 73 | [Regrets Pt II](https://open.spotify.com/track/72MmoEuk9caU2tTBsSqR28) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Every Lie is Two Lies \(Deluxe\)](https://open.spotify.com/album/3sI7fJqLzRuOsepgGh8WYX) | 2:36 |
 | 74 | [BETTER THAN THE FIRST TIME \(FEAT\. REO CRAGUN\)](https://open.spotify.com/track/2yNHNMfmaozeHbUpUqrGPf) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [THIS THING CALLED LOVE](https://open.spotify.com/album/70ll8L6vtD58nOCQeCVKn3) | 3:39 |
-| 75 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:07 |
+| 75 | [Mountains At Midnight](https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Mountains At Midnight](https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc) | 3:06 |
 | 76 | [Rivals](https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Rivals](https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3) | 3:07 |
 | 77 | [Remember The Time](https://open.spotify.com/track/3QctKtn3TD4jr87bijzUKl) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Remember The Time](https://open.spotify.com/album/31BZJWJbujE5mkB7oSoO0T) | 4:12 |
 | 78 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Delicate People](https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Delicate People](https://open.spotify.com/album/5TPEdVSMdIG6aiatkrVtZp) | 4:14 |
 | 100 | [Nothing Feels Special Anymore](https://open.spotify.com/track/3Hm1uXL6q6jMFFfIkOARez) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Nothing Feels Special Anymore](https://open.spotify.com/album/4vLKRMbc4eIH5mipZm7Fu8) | 3:11 |
 
-Snapshot ID: `MCwwNTM2NTk0MmE1NWVjMTIwMDE1ZWI1ZjlhMWNjODJkOTA2YTgyZDll`
+Snapshot ID: `MCw3ZjNjZjg5YWQ0MWE5ZGJmMWYxMDAwMzEyOTE0NTlkN2RlMDQ2M2My`

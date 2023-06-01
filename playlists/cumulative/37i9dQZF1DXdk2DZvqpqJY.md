@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-364 songs - 22 hr 40 min
+365 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 | 2023-05-04 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-20 |  |
 | [Coasting](https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:49 | 2022-02-17 | 2023-03-21 |
-| [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 | 2023-05-04 |  |
+| [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 | 2023-05-04 | 2023-06-01 |
 | [Come Again](https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Come Again](https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu) | 3:23 | 2022-06-02 | 2023-03-21 |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-04-20 |  |
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2022-02-17 | 2023-05-05 |
@@ -249,6 +249,7 @@
 | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-03-09 | 2023-03-21 |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2022-05-05 | 2023-05-05 |
 | [Planet Caravan](https://open.spotify.com/track/0T6fOzhQyVLJuEZXDcsapd) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [THE ESSENCE OF SOIL](https://open.spotify.com/album/4Opp41fuz6nGHzGojaMImc) | 6:54 | 2022-04-22 | 2022-05-03 |
+| [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Plus 100](https://open.spotify.com/track/09NjmJF5aZi2bJRhdr1fUr) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Plus 100](https://open.spotify.com/album/0ECy4AGJcScaPoCUFQEHxu) | 2:44 | 2022-06-02 | 2023-02-16 |
 | [Positive Activity](https://open.spotify.com/track/4T3VH4hPuc3qtB4hlv6Mp7) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/0REJ2l75YDq5TBBtm79gJ3) | 7:53 | 2022-12-01 | 2023-03-21 |
 | [Press Start](https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Press Start](https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s) | 1:47 | 2022-06-02 | 2023-03-31 |

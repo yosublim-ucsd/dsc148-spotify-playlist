@@ -2,9 +2,9 @@
 
 ### [El Top 2023](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> KHEA está en el Top!
+> Bizarrap & Peso Pluma están en el Top!
 
-116 songs - 6 hr 1 min
+117 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| DJ TAO Turreo Sessions \#15](https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc) | 2:13 | 2023-05-12 |  |
 | [Peipper \| Mission 11](https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Peipper \| Mission 11](https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM) | 2:18 | 2023-05-12 |  |
 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perfecta \(Versión 2023\)](https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM) | 3:41 | 2023-05-12 |  |
+| [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-01 |  |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2023-05-12 |  |
 | [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-05-12 |  |
 | [Polvito](https://open.spotify.com/track/56gWw6TmEYzeMkunkQVXkc) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Polvito](https://open.spotify.com/album/25Uts5FC3OtRu2PdbsnBnv) | 2:59 | 2023-05-19 |  |
@@ -107,7 +108,7 @@
 | [SIN CORAZÓN](https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:17 | 2023-05-24 |  |
 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-05-19 |  |
 | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/track/6Vp8EcHAHjC9u7Qnsn2kob) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Te Escapas De Mis Brazos \(Remix\)](https://open.spotify.com/album/7z6DWyWrMQPPCGs5H0IU67) | 3:37 | 2023-05-12 |  |
-| [TO LO DÍAS ES 420](https://open.spotify.com/track/3FFr3Dllm8qLNtteC9IcBk) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TO LO DÍAS ES 420](https://open.spotify.com/album/2NRgFNHyPp1T8iqRpJRLNk) | 2:55 | 2023-05-19 |  |
+| [TO LO DÍAS ES 420](https://open.spotify.com/track/3FFr3Dllm8qLNtteC9IcBk) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TO LO DÍAS ES 420](https://open.spotify.com/album/2NRgFNHyPp1T8iqRpJRLNk) | 2:55 | 2023-05-19 | 2023-06-01 |
 | [Toto](https://open.spotify.com/track/3IWcUkdKHKCd8yC6WImYnl) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Toto](https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV) | 2:57 | 2023-05-19 |  |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-05-12 | 2023-05-20 |
 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2023-05-12 |  |

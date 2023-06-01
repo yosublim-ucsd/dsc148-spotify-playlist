@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stil & Bense
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,243 likes - 79 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,313 likes - 79 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 43 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 |
 | 44 | [Wholehearted](https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Wholehearted EP](https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr) | 3:26 |
 | 45 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 |
-| 46 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
+| 46 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 47 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 |
 | 48 | [Never Be The Same](https://open.spotify.com/track/7HiJ29gLHcwAwlh8vpcTFE) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Never Be The Same](https://open.spotify.com/album/2fckRtFdy3Z9rGhN9STyse) | 5:48 |
 | 49 | [Burn \- Rework](https://open.spotify.com/track/2qpWDAsbW8KKqBnD1AVciy) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Viviana Alvarez](https://open.spotify.com/artist/5q4TpityK7WTy0ssP7RSxd) | [After you love](https://open.spotify.com/album/4GEgoc6k5RC14mfT8FloYv) | 5:22 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 78 | [Inner Call](https://open.spotify.com/track/78XxQF5IOqBJJYkMCVMvJg) | [Johan Mila](https://open.spotify.com/artist/2pRosGbLxjNNeijcRGKYli), [Andre Texias](https://open.spotify.com/artist/1sJjYd4qXVRLWcw9Ys5yKb) | [Inner Call](https://open.spotify.com/album/2XpPOToMEWhXP1JM1MSAP2) | 5:44 |
 | 79 | [Marvis](https://open.spotify.com/track/6c8330DP5r0zuYuM8LN7j2) | [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [Marvis](https://open.spotify.com/album/3iWUcQQ3fYun6NHvhE351d) | 6:24 |
 
-Snapshot ID: `MCxhN2E1NzcwMDdlZWRiOTNiMTQ5Mzk2NTY5MDYwYTc4NzEwODQ2ODMw`
+Snapshot ID: `MCwxMjlkZjY1ZGJkZmVlZTMwNDdiYTI2MDJkY2NmNjgyNDI5NmI5MTc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Yng Lvcas, Grupo Frontera, Peso Pluma, Dua Lipa, Sofia Reyes y Danna Paola: aquí están los nuevos lanzamientos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,375 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,539 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
 | 50 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 
-Snapshot ID: `MCwzNDExYWFlMTg3OTQ4YTYwNDc0NTNhNjIwYWIwOGVjMGViYjhkYzNk`
+Snapshot ID: `MCxlMzU3NjFmNmM0YjMyMTQ1YTJkOWMwM2RmZWY4YWM4YzJkOTBkYjUw`

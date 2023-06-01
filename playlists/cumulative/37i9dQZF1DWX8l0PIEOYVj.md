@@ -4,14 +4,14 @@
 
 > Future & melodic bass\. Cover: ARMNHMR & Lights.
 
-360 songs - 21 hr 42 min
+361 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 |  |
 | [A Million Miles](https://open.spotify.com/track/701AA4jldjmxUjOvP5sh1R) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [A Million Miles](https://open.spotify.com/album/4ltKsW9EWbYFkVCRfsvXl2) | 4:57 | 2022-07-08 | 2022-08-06 |
 | [Afraid To Love](https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Afraid To Love](https://open.spotify.com/album/4oTyTcvgXWAceOKX9LtspZ) | 3:56 | 2022-07-08 | 2023-04-09 |
-| [Afraid To Love](https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Afraid To Love](https://open.spotify.com/album/7wE5tNPadKXX5C1SG9kuIS) | 3:56 | 2022-08-26 |  |
+| [Afraid To Love](https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Afraid To Love](https://open.spotify.com/album/7wE5tNPadKXX5C1SG9kuIS) | 3:56 | 2022-08-26 | 2023-06-01 |
 | [After All](https://open.spotify.com/track/7sA1fng2qaZWg4YdQB0cgj) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [After All](https://open.spotify.com/album/4J8zPogEPfW7jdDiTO6HKa) | 4:19 | 2023-02-17 |  |
 | [Afterlife](https://open.spotify.com/track/0gJGVFeMLs9i9rVV1XVeF4) | [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Rachel Leycroft](https://open.spotify.com/artist/6C6qqlV7VNMEN2jIwYJcNM) | [Afterlife](https://open.spotify.com/album/3EanE5iTkBAnMIclLiuvMG) | 3:14 | 2022-11-28 | 2023-05-28 |
 | [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 | 2022-08-06 |
@@ -35,6 +35,7 @@
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-07-08 | 2023-05-03 |
 | [Be Ok](https://open.spotify.com/track/1xe8rWI6ZToSgKdZ0HMNrO) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Be Ok](https://open.spotify.com/album/1EAYRPaU27CAiKlqf1tSRt) | 3:04 | 2022-07-08 | 2022-08-06 |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2022-07-08 | 2022-08-06 |
+| [Boyz Lie](https://open.spotify.com/track/0lE7VZvooD13UimBdCPkpz) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Boyz Lie](https://open.spotify.com/album/3Y2s6QLxcPS9DYdaCw4Al2) | 3:12 | 2023-05-19 |  |
 | [Breakthrough](https://open.spotify.com/track/32ohfXjRAJoj43Jgtm02cP) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Breakthrough](https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT) | 4:48 | 2022-08-26 | 2022-12-20 |
 | [Brightest Light \(feat\. Dotter\)](https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Beyond The Veil \(Deluxe\)](https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy) | 3:58 | 2023-02-17 |  |
 | [Broken](https://open.spotify.com/track/1PA8t7QlRzSpUOZIlLLi6U) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Broken](https://open.spotify.com/album/0KIgFLZ7k3UTVXMe5SRwSo) | 3:48 | 2022-07-08 | 2022-08-25 |

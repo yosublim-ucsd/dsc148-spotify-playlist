@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360,234 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,360,836 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [ascend.mp3](https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl) | [mimofr](https://open.spotify.com/artist/6z69NxGmRyHCMFhOZ8H1Va) | [ascend.mp3](https://open.spotify.com/album/3EbJ2nv3t3hByvhI9Xozcv) | 4:16 |
 | 100 | [HeLiCoPtEr sWaG Pt4.Mp3](https://open.spotify.com/track/1w9aOfHbcSbqEnxv6P3rVb) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Let Me Update My Status](https://open.spotify.com/album/1yQ3aFEBqlKuqjTTaxQ0mk) | 1:42 |
 
-Snapshot ID: `MCw1YWU5ZTM3ZTgyODk4Nzc3MTQ3ZjEwMmMzYTlkZTdlZmY2OWU4M2Fj`
+Snapshot ID: `MCw4NzRjY2E5YmU5ZjU0Y2E0MGQ1OTcyMjY5YmRmYzBjN2E1MmFjNDRm`

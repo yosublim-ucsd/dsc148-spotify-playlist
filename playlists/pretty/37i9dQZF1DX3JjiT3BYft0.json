@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 56629,
+  "num_followers": 56683,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU5YTk1NTNlMTIwNmM5N2JlODJlZDBjOTEzODlmNTc1YWM2YjZm",
+  "snapshot_id": "MCwwNjMzOTFmMjNjODVlZmFiYmViNzUyZjlkZmJhMTgzODUzYTUzZjNk",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -443,54 +443,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u6f84",
-          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
-        },
-        {
-          "name": "\u862d",
-          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
-        },
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
-        },
-        {
-          "name": "\u3053\u3053\u308d",
-          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 323168,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "BanG Dream! Dreamer's Best",
         "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
       },
@@ -519,6 +471,54 @@
       "duration_ms": 262902,
       "name": "CATASTROPHE BANQUET",
       "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 323168,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
-        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
       },
       "artists": [
         {
-          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
-          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 236938,
-      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
-      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
+        "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV.\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry"
         }
       ],
-      "duration_ms": 271653,
-      "name": "\u540d\u7121\u58f0",
-      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+      "duration_ms": 236938,
+      "name": "\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!",
+      "url": "https://open.spotify.com/track/50lLGQbFwJUHuIsXJzsBpw"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -763,38 +763,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr"
-        }
-      ],
-      "duration_ms": 238835,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "\u97f3\u4e00\u4f1a",
         "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 213746,
       "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
       "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/3T2Swbk2WotBJA6sXka0mY"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/0WVuJfe3JrP97oz0EJYFLr"
+        }
+      ],
+      "duration_ms": 238835,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/0BFyIMS0AV0nQPey197CAh"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u97f3\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "\u5f71\u8272\u821e",
+      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
         "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "\u97f3\u4e00\u4f1a",
-        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "\u5f71\u8272\u821e",
-      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
-        }
-      ],
-      "duration_ms": 248182,
-      "name": "\u3069\u304d\u3069\u304dSING OUT!",
-      "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
         "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
+        }
+      ],
+      "duration_ms": 248182,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "Anfang",
         "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 214206,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 232433,
-      "name": "\u4e00\u9022\u306eFull Glory",
-      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 232433,
+      "name": "\u4e00\u9022\u306eFull Glory",
+      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "ROZEN HORIZON",
         "url": "https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Dear Gleam",
-      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 247933,
       "name": "BRAVE JEWEL",
       "url": "https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Dear Gleam",
+      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
+        "name": "Repaint",
+        "url": "https://open.spotify.com/album/6J1E7JWTSA672DpSpRkiLQ"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 315766,
-      "name": "A DECLARATION OF \u00d7\u00d7\u00d7",
-      "url": "https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj"
+      "duration_ms": 233732,
+      "name": "Repaint",
+      "url": "https://open.spotify.com/track/0qOEdXcgu54ojYVpJWmCtg"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

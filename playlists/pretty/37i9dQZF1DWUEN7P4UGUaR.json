@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 862,
+  "num_followers": 879,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDg0MTY0YTg0NTg5MjI2YWE4ZDlmZjE0ZTMwODAxNWExMjFkMzEw",
+  "snapshot_id": "MCxkZjY5NDQyMmM5ZGEyZWQzYWRhNDViM2M3YWFlYjY0ZmM0OTdlM2U2",
   "tracks": [
     {
       "added_at": "2023-05-26 08:05:11",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
         "name": "Who Say God No Dey",
         "url": "https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Nyame Ye",
-        "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
       "artists": [
         {
-          "name": "Solomon King",
-          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         }
       ],
-      "duration_ms": 184660,
-      "name": "Nyame Ye",
-      "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -607,6 +591,22 @@
       "duration_ms": 433646,
       "name": "Glory Chants",
       "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
+        "name": "Nyame Ye",
+        "url": "https://open.spotify.com/album/64uZTak252YtY8M7VqXs8a"
+      },
+      "artists": [
+        {
+          "name": "Solomon King",
+          "url": "https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT"
+        }
+      ],
+      "duration_ms": 184660,
+      "name": "Nyame Ye",
+      "url": "https://open.spotify.com/track/75mE5CO8KerkTVdZMfVSi3"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Style Bia Bi",
+        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
+      },
+      "artists": [
+        {
+          "name": "Great Ampong",
+          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Style Bia Bi",
+      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Style Bia Bi",
-        "url": "https://open.spotify.com/album/3TjCSAi7cH306yVB8b8g3f"
-      },
-      "artists": [
-        {
-          "name": "Great Ampong",
-          "url": "https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Style Bia Bi",
-      "url": "https://open.spotify.com/track/2nRxaDdtIeUrkRjb8EzqRM"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -843,38 +843,34 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
+        "name": "ONYE NWERE",
+        "url": "https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI"
       },
       "artists": [
         {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+          "name": "GEMS",
+          "url": "https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF"
         }
       ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
+      "duration_ms": 218181,
+      "name": "ONYE NWERE",
+      "url": "https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl"
     },
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "CYB",
-        "url": "https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy"
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
       },
       "artists": [
         {
-          "name": "Regardless Da YungKing",
-          "url": "https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy"
-        },
-        {
-          "name": "Morphat",
-          "url": "https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw"
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
         }
       ],
-      "duration_ms": 179413,
-      "name": "CYB",
-      "url": "https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk"
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
     }
   ],
   "unique_name": "Aseda",

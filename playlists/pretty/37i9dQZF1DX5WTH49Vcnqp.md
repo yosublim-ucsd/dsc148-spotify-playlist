@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,137 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,183 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [backseat](https://open.spotify.com/track/4uPxXynOy7JphMHeSiQFjm) | [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [backseat](https://open.spotify.com/album/096b6xAs5ToKJJuZuoW23f) | 3:17 |
 | 75 | [Lost In The Rush](https://open.spotify.com/track/4YGMBDcyxKCg6ucyeYEhOI) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Lost In The Rush](https://open.spotify.com/album/7oX1RWPTy3nblMNvPgqutb) | 3:28 |
 
-Snapshot ID: `MCw3OWFmZWQwNjUxMTFkZmZkMGY0YzAwZThjZjE1ZTVhODYwMzdmZDU0`
+Snapshot ID: `MCw3MTczMjI4MDg4OTZlNGNjMDIyYmMxMDI3ODljZjJjMDc5MDY2ZTNi`

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 342723,
+  "num_followers": 342744,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzdjMjYyNjQ3YWYyZTJlNGY4ZTgyNjdhMzM3NDJiNGQyMWM5NWFk",
+  "snapshot_id": "MCwzYjM1YjAzNTkwZTExYTA2ZWQ1ZjkzODllN2U2ODY0MjNjYjNhYmFi",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -151,22 +151,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         }
       ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -191,18 +187,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
       },
       "artists": [
         {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Forever Man (How Many Times) [Earth n Days Remix]",
         "url": "https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 181533,
       "name": "Forever Man (How Many Times) - Earth n Days Remix",
       "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
-      },
-      "artists": [
-        {
-          "name": "Aevion",
-          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
-        }
-      ],
-      "duration_ms": 250862,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "You Are the Sun",
         "url": "https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 408889,
       "name": "You Are the Sun - Sun Up Mix",
       "url": "https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
-      },
-      "artists": [
-        {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Ghetto Rock",
-      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Forty Deuce",
         "url": "https://open.spotify.com/album/6KvwtWrCaYwbOLJfLmxiAD"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
-        "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
         }
       ],
-      "duration_ms": 202051,
-      "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
-      "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
+      "duration_ms": 182950,
+      "name": "Ghetto Rock",
+      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -1131,6 +1111,26 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
+        "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 202051,
+      "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
+      "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
     }
   ],
   "unique_name": "Groove Theory",

@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3VBPvCalDAaE5MJHkMAuDk">Ophelia Lia</a>
 
-770 songs - 1 day 14 hr 33 min
+771 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,8 @@
 | [Picture Frame](https://open.spotify.com/track/2t64xZv8rVX11pF1uBVzcM) | [Nene](https://open.spotify.com/artist/4PqWaoSD27Qq1Zn5MXie8c), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Picture Frame](https://open.spotify.com/album/1taYB2FCjFwPRHHmP3GvcF) | 2:40 | 2022-07-29 | 2022-09-12 |
 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 | 2023-03-02 | 2023-04-05 |
 | [Pills](https://open.spotify.com/track/6OruzcGEXkyGfTgCKEJOyC) | [dollsaway](https://open.spotify.com/artist/6JmRU2kRs2DHaRocEpw8CT) | [Pills](https://open.spotify.com/album/5cinm2n5jXup4avEcA2NUH) | 2:22 | 2023-04-18 | 2023-05-18 |
-| [Piove](https://open.spotify.com/track/0iAvPiEHuvyus6VfQV3ShO) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Piove](https://open.spotify.com/album/0uql9QXmkNpbqBzqaWTsTo) | 2:12 | 2023-05-30 |  |
+| [Piove](https://open.spotify.com/track/0iAvPiEHuvyus6VfQV3ShO) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Piove](https://open.spotify.com/album/0uql9QXmkNpbqBzqaWTsTo) | 2:12 | 2023-05-30 | 2023-06-01 |
+| [Piove](https://open.spotify.com/track/2RU6CQohrTlP7UgewTp4fh) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Piove](https://open.spotify.com/album/1YLfIhVXN91ZBS3wAbVzgW) | 2:12 | 2023-05-30 |  |
 | [Piove Dentro](https://open.spotify.com/track/5n79HFgmPQATiB8NwP8Uvk) | [Gli Occhi Degli Altri](https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ) | [Piove Dentro](https://open.spotify.com/album/33J2CqTy3vTKh0O5Tzh9ex) | 3:17 | 2023-03-02 | 2023-03-25 |
 | [Pirati](https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Pirati](https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI) | 5:01 | 2022-09-15 | 2022-10-14 |
 | [Plastica](https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [Controluce](https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I) | 3:27 | 2022-01-06 | 2022-02-18 |

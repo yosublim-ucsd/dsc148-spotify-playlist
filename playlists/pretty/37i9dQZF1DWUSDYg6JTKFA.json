@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 146284,
+  "num_followers": 146356,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTI3MjU4NDAzMGJkYmMzNWVjNmUwMzNkNGE4NDczZGFmZTBkYjNl",
+  "snapshot_id": "MCxhNDU1ODRlNDZjMzE4MWU5OTdlOGM1ZGVmODE4ZTI2ZTM1OWRhMjE4",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -999,6 +999,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "What If We Were Real",
+        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 213886,
+      "name": "Stronger - With Cold Ending",
+      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "HARD CUTS: Songs from the H A R D L O V E Sessions",
         "url": "https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "What If We Were Real",
-        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
+        "name": "This Is What We Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
         }
       ],
-      "duration_ms": 213886,
-      "name": "Stronger - With Cold Ending",
-      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
+      "duration_ms": 254880,
+      "name": "My Hope Is in You",
+      "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1051,22 +1067,6 @@
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "This Is What We Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "My Hope Is in You",
-      "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+        "name": "Lead Us Back: Songs of Worship",
+        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        },
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/3Dh3p9j6KhjyhVAUI9SIYR"
         }
       ],
-      "duration_ms": 217799,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
+      "duration_ms": 238600,
+      "name": "Your Words (feat. Harvest) (feat. Harvest)",
+      "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
     }
   ],
   "unique_name": "Hold Hope",

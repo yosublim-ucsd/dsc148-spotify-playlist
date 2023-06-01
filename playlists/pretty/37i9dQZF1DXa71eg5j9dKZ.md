@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,439 likes - 133 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,509 likes - 133 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 132 | [Summer Ghost](https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Summer Ghost](https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe) | 5:10 |
 | 133 | [Ladybird](https://open.spotify.com/track/71OK6N7cJy8CO6TIBoKLSO) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Ladybird](https://open.spotify.com/album/2Hsg69hsstYxU908bHpnty) | 3:33 |
 
-Snapshot ID: `MCxjNWMwYzMyZWFiYTdlOWM4Y2RiNjFlM2Y5YmMzZDYyMzliZjUwMTgw`
+Snapshot ID: `MCw3NmQ1OGE5ZDg3ZDEwNDg3OGIwOGRiNDAxMGQ3YTJmOWE5Zjk0N2Jk`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1515,
+  "num_followers": 1517,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNlYzBhNThiY2I2Y2Q5ZjllZWY3NDk5NWFhZjQ1MzRhMzAzZmNh",
+  "snapshot_id": "MCwxYzg3MjRiMzc1ZThmNTZhMzU0ZGI2NzIxM2UwZDIzYzc2NjQ2ZWNi",
   "tracks": [
     {
       "added_at": "2023-05-26 13:11:58",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-05-26 13:11:58",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
-      },
-      "artists": [
-        {
-          "name": "Fancy Fingers",
-          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
-        },
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
         "name": "Longitude 20",
         "url": "https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 222309,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
+      },
+      "artists": [
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
       "added_at": "2023-05-26 13:11:58",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-26 13:11:58",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 188444,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2023-05-26 13:11:58",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-26 13:11:58",
       "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
-      },
-      "artists": [
-        {
-          "name": "Omutume Planet",
-          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 137333,
       "name": "Mama I Made It",
       "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "Chai We Njaye",
+        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
+      },
+      "artists": [
+        {
+          "name": "Omutume Planet",
+          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Chai We Njaye",
+      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
       "added_at": "2023-05-26 13:11:58",
@@ -811,58 +811,6 @@
     {
       "added_at": "2023-05-26 13:11:58",
       "album": {
-        "name": "Nkuwe",
-        "url": "https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Kin Bella",
-          "url": "https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2"
-        }
-      ],
-      "duration_ms": 221911,
-      "name": "Nkuwe",
-      "url": "https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
@@ -883,26 +831,70 @@
     {
       "added_at": "2023-05-26 13:11:58",
       "album": {
-        "name": "Voices & Vices",
-        "url": "https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp"
+        "name": "Nkuwe",
+        "url": "https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C"
       },
       "artists": [
         {
-          "name": "Xcript",
-          "url": "https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         },
         {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        },
-        {
-          "name": "Ug Mob",
-          "url": "https://open.spotify.com/artist/54pTX9pmQOazq1fpl3SpJc"
+          "name": "Kin Bella",
+          "url": "https://open.spotify.com/artist/3rvpqqkLp2C6LE5Lo02hy2"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Voices & Vices",
-      "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"
+      "duration_ms": 221911,
+      "name": "Nkuwe",
+      "url": "https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2023-05-26 13:11:58",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
     },
     {
       "added_at": "2023-05-26 13:11:58",

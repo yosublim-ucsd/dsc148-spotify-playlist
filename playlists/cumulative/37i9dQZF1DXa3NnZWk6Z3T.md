@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-318 songs - 18 hr 20 min
+319 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [De Vez En Cuando](https://open.spotify.com/track/2VNExLz5Y7zubCNuVbSUJP) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [De Vez En Cuando](https://open.spotify.com/album/06YJEqZe1fmb07iO3bLHYc) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2022-04-07 |  |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-02-10 |  |
-| [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2021-12-09 |  |
+| [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2021-12-09 | 2023-06-01 |
 | [Diablo De Un Segundo](https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Diablo De Un Segundo](https://open.spotify.com/album/14FFsLvG1NLDm2pK0Jc14c) | 2:07 | 2021-12-09 | 2022-07-24 |
 | [Distancia](https://open.spotify.com/track/1I4Tj5GjMBFOGd6HpwqSUF) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Ambivalente](https://open.spotify.com/album/4ZXeVhvevhngnTB8UxB0sK) | 3:19 | 2022-04-07 | 2022-04-21 |
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-09 |  |
@@ -288,6 +288,7 @@
 | [Te Tengo Que Meter En Mi Vida \- Versión Acústica](https://open.spotify.com/track/1uVCCp3y3kdwmM41r3fsw7) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Noche Entera](https://open.spotify.com/album/3j49ZqSAOxShjCTvuVhtib) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 | 2022-08-19 |  |
 | [Tigres](https://open.spotify.com/track/6IRylJFrx3UGGmOLxQ6Sh7) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Tigres](https://open.spotify.com/album/7HdE8nLN359mWjPkb65xZd) | 3:20 | 2021-12-09 | 2022-07-25 |
+| [Tigres](https://open.spotify.com/track/7A5cHcK7V569sIAWaAar5c) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Lo Azul Sobre Mí](https://open.spotify.com/album/5FLtrjVRAXfcHlEYATjl59) | 3:20 | 2023-05-26 |  |
 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 | 2021-12-09 |  |
 | [Todas Juntas \(feat\. Vicente García\)](https://open.spotify.com/track/2I5BjOL9xpobbem28XWQxD) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Amor Presente](https://open.spotify.com/album/6qPyFeApmk6187F7yoQvcd) | 3:53 | 2021-12-09 |  |
 | [Todo el Día en la Cama](https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Todo el Día en la Cama](https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz) | 4:16 | 2021-12-09 |  |

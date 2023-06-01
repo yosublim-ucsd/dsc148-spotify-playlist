@@ -1,12 +1,12 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Cover: Clara Rockmore",
-  "num_followers": 2379,
+  "num_followers": 2382,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjg3YzdjMDA3MTFlOTIxNGViYWZiMWQzYmMyYzRhNTFmYTcyODY4",
+  "snapshot_id": "MCw2ODFiMjc1YzkyYzM2M2U2N2M4Yzk5NjcxY2JhMzI2Y2NlYzNiMTY1",
   "tracks": [
     {
       "added_at": "2021-08-17 02:35:20",
@@ -47,6 +47,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Around the World in 80 Days",
+        "url": "https://open.spotify.com/album/09Xpn0xBfnKHrJvDlh6V6H"
+      },
+      "artists": [
+        {
+          "name": "Katica Ill\u00e9nyi",
+          "url": "https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7"
+        }
+      ],
+      "duration_ms": 213515,
+      "name": "Once Upon a Time in the West",
+      "url": "https://open.spotify.com/track/2q9X3Lz59IaBNGzR1XrRuU"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Around the World in 80 Days",
-        "url": "https://open.spotify.com/album/09Xpn0xBfnKHrJvDlh6V6H"
-      },
-      "artists": [
-        {
-          "name": "Katica Ill\u00e9nyi",
-          "url": "https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7"
-        }
-      ],
-      "duration_ms": 213515,
-      "name": "Once Upon a Time in the West",
-      "url": "https://open.spotify.com/track/2q9X3Lz59IaBNGzR1XrRuU"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -132,26 +132,6 @@
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "La vie en rose (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
-      },
-      "artists": [
-        {
           "name": "Fritz Kreisler",
           "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
         },
@@ -167,6 +147,26 @@
       "duration_ms": 153026,
       "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5vPIY9UAHmOux60VpRV26j"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
+      },
+      "artists": [
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "La vie en rose (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -335,30 +335,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/3QHqvTeZQOQhQwD2Y3YYvy"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
@@ -379,6 +355,30 @@
       "duration_ms": 207960,
       "name": "8 Humoresques, Op. 101, B. 187: No. 7, Poco lento e grazioso (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/6spFjPhXZZtJMunWpzcM3A"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "6 Morceaux, Op. 51, No. 6. Valse sentimentale: 6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/3QHqvTeZQOQhQwD2Y3YYvy"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -575,18 +575,26 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Discmorphia",
-        "url": "https://open.spotify.com/album/1ba187ocIN64czJt2OD5li"
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
       "artists": [
         {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+          "name": "Gaspar Cassad\u00f3",
+          "url": "https://open.spotify.com/artist/69CqmqoqN7ZwMRAMODTUF6"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 218240,
-      "name": "Lacrimosa",
-      "url": "https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog"
+      "duration_ms": 240093,
+      "name": "Requiebros (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/50zabl8L6p3aeF4i7x3sPz"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -687,26 +695,18 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
-        "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
+        "name": "Theremin Discmorphia",
+        "url": "https://open.spotify.com/album/1ba187ocIN64czJt2OD5li"
       },
       "artists": [
         {
-          "name": "Gaspar Cassad\u00f3",
-          "url": "https://open.spotify.com/artist/69CqmqoqN7ZwMRAMODTUF6"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
         }
       ],
-      "duration_ms": 240093,
-      "name": "Requiebros (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/50zabl8L6p3aeF4i7x3sPz"
+      "duration_ms": 218240,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -1065,28 +1065,20 @@
       "url": "https://open.spotify.com/track/62iNNRWB0tpmE8O6RuMGqV"
     },
     {
-      "added_at": "2021-08-17 02:35:20",
+      "added_at": "2022-01-11 03:14:58",
       "album": {
-        "name": "Theremin",
-        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
+        "name": "Elegies for Theremin & Voice",
+        "url": "https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH"
       },
       "artists": [
         {
           "name": "Carolina Eyck",
           "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "Rebekka Markowski",
-          "url": "https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc"
-        },
-        {
-          "name": "Roman Eyck",
-          "url": "https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s"
         }
       ],
-      "duration_ms": 190986,
-      "name": "Cantilena No. 3 (Arr. for Theremin, Cello Quartet and Double Bass)",
-      "url": "https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4"
+      "duration_ms": 250824,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
     },
     {
       "added_at": "2021-08-17 02:35:20",

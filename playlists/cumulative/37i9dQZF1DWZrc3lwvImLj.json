@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV"
@@ -3352,6 +3352,24 @@
       "duration_ms": 154625,
       "name": "Only If You Stay",
       "url": "https://open.spotify.com/track/4P59lUGuSG7TMs6qTZlbrc"
+    },
+    {
+      "album": {
+        "name": "Light From Your Eyes",
+        "url": "https://open.spotify.com/album/0JgFVac8yutlbFSVp6aBrz"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154625,
+      "name": "Only If You Stay",
+      "url": "https://open.spotify.com/track/5qTDBdXQbOMPXM3TFSBjbB"
     },
     {
       "album": {

@@ -2648,10 +2648,32 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 240360,
       "name": "Svarteboka",
       "url": "https://open.spotify.com/track/3lic78aL9uIXCukos4sWNK"
+    },
+    {
+      "album": {
+        "name": "Svarteboka",
+        "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
+      },
+      "artists": [
+        {
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+        },
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "Svarteboka",
+      "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
     },
     {
       "album": {

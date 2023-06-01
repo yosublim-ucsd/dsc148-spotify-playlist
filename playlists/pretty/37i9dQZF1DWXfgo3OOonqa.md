@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,066 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,099 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [PONDUS](https://open.spotify.com/track/2SwZWiSUf4k1fvbJGxWj8b) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [PONDUS](https://open.spotify.com/album/4KGjExWCw6y5Geugyc5Fuy) | 2:33 |
 | 80 | [Stockholm](https://open.spotify.com/track/3wpjZajcRJQlvjCRCgQ40q) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Turbulence](https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18) | 2:22 |
 
-Snapshot ID: `MCwwNGExYWQ1NTE5NjFmYzVjOTNiNWFlZWZjNjNmMDg1ZGJmMTJlODU4`
+Snapshot ID: `MCw4YjIwMGZjOWVhNjI0OTg5YTA1ZDRmYjE1MzVlMTg5OWIwNTk4ODQ3`

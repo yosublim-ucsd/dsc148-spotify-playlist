@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Zoë Tauran \(Spotify <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\) op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,055 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,113 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 |
 | 4 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 |
 | 5 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
-| 6 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 |
-| 7 | [Small Talk](https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Small Talk](https://open.spotify.com/album/3lCs6eE88aVxRpgFCkVYkO) | 2:52 |
-| 8 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
-| 9 | [Zonder](https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Zonder](https://open.spotify.com/album/4F1nbImQVRxby0QYoHvcLN) | 2:47 |
-| 10 | [Het Is Oké](https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Het Is Oké](https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu) | 2:34 |
+| 6 | [Het Is Oké](https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Het Is Oké](https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu) | 2:34 |
+| 7 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 |
+| 8 | [Small Talk](https://open.spotify.com/track/2M6sp60mWuRoGHapvKDapT) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Small Talk](https://open.spotify.com/album/3lCs6eE88aVxRpgFCkVYkO) | 2:52 |
+| 9 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 10 | [Zonder](https://open.spotify.com/track/3sibTlz0NOn4dq7oPnXx9w) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Zonder](https://open.spotify.com/album/4F1nbImQVRxby0QYoHvcLN) | 2:47 |
 | 11 | [Voel Jij Dat Ook](https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Voel Jij Dat Ook](https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D) | 2:43 |
 | 12 | [Hetzelfde](https://open.spotify.com/track/1mLP442VEMPztX02Gdsdfj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Hetzelfde](https://open.spotify.com/album/2yjUK5W3QzyPXsTRwuhadJ) | 2:56 |
 | 13 | [Niemand Anders](https://open.spotify.com/track/6pRAF99tQ6bJXYkkYhFB1G) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Niemand Anders](https://open.spotify.com/album/68AAkMDMZPQMEqR9elVSwX) | 2:37 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Aan](https://open.spotify.com/track/5Yoe79keJ0xoIeYC4I9HLK) | [Raffie](https://open.spotify.com/artist/1Or5JOvZf2PHMx8OmWHXfh) | [Aan](https://open.spotify.com/album/6bcsjxw1agsRZeWfGCFVvk) | 2:38 |
 | 90 | [Oceaan](https://open.spotify.com/track/6JXQqhnF6ACLhMPXCF64rM) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Oceaan](https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi) | 3:07 |
 
-Snapshot ID: `MCwxYTc2ODNkNTk0YTZhNzI0MzA3Mjc5MjM5YzRiY2IwNTFkZGQyNzA0`
+Snapshot ID: `MCxhNzEwMDM0NTg0ZDE5ODQ5Zjc5ZWRiN2MxMDQzNDQxZjM1ZjM0MGJh`

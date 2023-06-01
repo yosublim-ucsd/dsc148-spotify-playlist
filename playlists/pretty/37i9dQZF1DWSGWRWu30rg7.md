@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: More on Mumbles
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,756 likes - 72 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,762 likes - 72 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 71 | [Benar Ku Suka](https://open.spotify.com/track/1y19F0aHIe9TDHePIqXyEN) | [ERA](https://open.spotify.com/artist/6zyGQ03MxigTBeEmq3575O) | [Benar Ku Suka](https://open.spotify.com/album/3LWtSpXnKZZgo7o4qpCtDh) | 3:53 |
 | 72 | [Nothing To Recall](https://open.spotify.com/track/4Nxh3XguzzWMCVfAoDbiGJ) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Nothing To Recall](https://open.spotify.com/album/0PhvCXxJpUvHRDsCfg0XRr) | 3:06 |
 
-Snapshot ID: `MCw3ZjQ5YjgwNmQ5OTBiZmMyNDY4YjE5NmQ4NDRmMzYyMGM4YmY0YWRj`
+Snapshot ID: `MCxlNTUxMWViYTExY2Q5ZTczY2M1NWYwOTA2MTc1NzI4MWE3ZDQ5MTBh`

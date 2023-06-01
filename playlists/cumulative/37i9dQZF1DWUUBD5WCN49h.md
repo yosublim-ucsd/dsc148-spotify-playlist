@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL?si=cWR\_tC2BQmWNvhPwHwyT5w"> Rebecca Garton</a>  and <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=l0hmhiOZQpiwKspg3SkMWQ"> Tay Iwar</a>
 
-411 songs - 20 hr 18 min
+412 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [DON'T](https://open.spotify.com/track/5AzIXbjKdIR5NwLtQD4f48) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [DON'T](https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT) | 2:19 | 2022-11-25 | 2022-12-02 |
 | [Don't Care](https://open.spotify.com/track/6ZVQ4U55BqXLvLhOUOpkdb) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Senth Of Her](https://open.spotify.com/album/0YZHDg8vEVvf1O2yPIizzu) | 3:22 | 2022-12-18 | 2023-01-20 |
 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-17 |  |
+| [Don't Stop Believing](https://open.spotify.com/track/5WGfXuEnqIkaFHiimm017j) | [Gillian Baci](https://open.spotify.com/artist/2wVzSBbiE5VqVrfD2h4IWc) | [Don't Stop Believing](https://open.spotify.com/album/5YUYPveZGKaDSzUfvcDRKP) | 2:58 | 2023-05-25 |  |
 | [Dondi](https://open.spotify.com/track/06g9YpLkAyq0ttNa7hgJLl) | [Romi](https://open.spotify.com/artist/5kZWwJkGR6YrQt0xh3W3Vo) | [Romi](https://open.spotify.com/album/7jGfsjRjvCylFn25edyCRK) | 2:30 | 2022-09-16 | 2022-11-04 |
 | [Down](https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr) | [Pariah](https://open.spotify.com/artist/23nc1fZrp58KsnzSL9rae4) | [The Tower](https://open.spotify.com/album/1k1wO0MdpT7QdfwP4brWck) | 3:42 | 2023-03-17 | 2023-05-12 |
 | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D) | [Khalifina](https://open.spotify.com/artist/79MzTwzDXHZkVoX4He1l2l) | [DTMV \(Don't Touch My Vision\)](https://open.spotify.com/album/6yawCJDZwZDV5KDvCzAYzS) | 1:28 | 2022-10-21 | 2022-11-04 |

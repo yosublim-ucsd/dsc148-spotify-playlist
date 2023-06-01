@@ -2,7 +2,7 @@
 
 ### [90s Road Trip](https://open.spotify.com/playlist/37i9dQZF1DX76cnmxfAAhD)
 
-> Ultimate mix of songs from the 1990s to insure a good time while on the road.
+> 
 
 349 songs - 1 day 0 hr 55 min
 

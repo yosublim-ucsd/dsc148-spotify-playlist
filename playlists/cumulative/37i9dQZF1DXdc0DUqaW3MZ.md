@@ -2,7 +2,7 @@
 
 ### [Soultronic](https://open.spotify.com/playlist/37i9dQZF1DXdc0DUqaW3MZ)
 
-> Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
+> 
 
 315 songs - 18 hr 59 min
 

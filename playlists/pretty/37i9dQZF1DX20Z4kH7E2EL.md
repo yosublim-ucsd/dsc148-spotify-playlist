@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,558 likes - 85 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,572 likes - 85 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 84 | [Wish I Knew](https://open.spotify.com/track/4LbRlcWWiY68c0zXJEqtwW) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Wish I Knew](https://open.spotify.com/album/1rd4syO1UlYp3w5si1BZak) | 3:46 |
 | 85 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 
-Snapshot ID: `MCwyNDg3ZDljODU0YzI3Y2M5MjFiYWY1MTM1NmZjY2I0Y2E4MTliMTJi`
+Snapshot ID: `MCw1MTE2M2ZlZTk5YWEyNjhjMTk2M2Q1YjIzYWYyNWNlNWJmMTRkNWE3`

@@ -8702,7 +8702,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw"
@@ -8724,6 +8724,24 @@
       "duration_ms": 144625,
       "name": "Sans fleurir",
       "url": "https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V"
+    },
+    {
+      "album": {
+        "name": "\u00c9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG"
+      },
+      "artists": [
+        {
+          "name": "Revemont",
+          "url": "https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144625,
+      "name": "Sans fleurir",
+      "url": "https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo"
     },
     {
       "album": {

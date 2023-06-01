@@ -1,12 +1,12 @@
 {
-  "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11170,
-  "original_name": "Father's Day Love",
+  "description": "Songs that show your dad love and appreciation",
+  "num_followers": 11176,
+  "original_name": "Father's Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc5Njk2ZmY1ZjNjNGZmYzI4ODE0ZThiYjk4ZTRkYTFlMDU4ODY5",
+  "snapshot_id": "MCw0YzUyMzNiNzAwYThiNTAyZGY4OTUxNTg0NWRmYTYxYTYwNGFjMjg5",
   "tracks": [
     {
       "added_at": "2023-05-24 15:45:04",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
+      "added_at": "2023-05-31 15:14:57",
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "You Should Be Here",
+      "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
+    },
+    {
       "added_at": "2022-06-09 16:13:45",
       "album": {
         "name": "Songs In The Key Of Life",
@@ -189,6 +205,22 @@
       "url": "https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb"
     },
     {
+      "added_at": "2023-05-31 15:14:57",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 228758,
+      "name": "First Man",
+      "url": "https://open.spotify.com/track/6TRt2bniIq0EIlrDlje7b8"
+    },
+    {
       "added_at": "2022-06-09 16:13:45",
       "album": {
         "name": "Dance With My Father",
@@ -269,6 +301,22 @@
       "url": "https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS"
     },
     {
+      "added_at": "2023-05-31 15:14:57",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 227222,
+      "name": "My Old Man",
+      "url": "https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg"
+    },
+    {
       "added_at": "2022-06-09 16:13:45",
       "album": {
         "name": "Surprise",
@@ -315,6 +363,26 @@
       "duration_ms": 340600,
       "name": "Butterfly Kisses",
       "url": "https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU"
+    },
+    {
+      "added_at": "2023-05-31 15:14:57",
+      "album": {
+        "name": "Home At Last",
+        "url": "https://open.spotify.com/album/1eJpsLmeCaf02MCGsdbM6W"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "Ready, Set, Don't Go",
+      "url": "https://open.spotify.com/track/4SSUj4OC7giqpMNCqSQSCf"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -381,10 +449,10 @@
       "url": "https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK"
     },
     {
-      "added_at": "2022-06-09 16:13:45",
+      "added_at": "2023-05-31 15:14:57",
       "album": {
-        "name": "Hits Alive",
-        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
       "artists": [
         {
@@ -392,25 +460,9 @@
           "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 282226,
+      "duration_ms": 282933,
       "name": "He Didn't Have to Be",
-      "url": "https://open.spotify.com/track/1LONTBZZRxDVx4wEvdcCLd"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "At The Speed Of Life",
-        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "The Foundation",
-      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
+      "url": "https://open.spotify.com/track/6sXDEs7z0LLitIPnPBJ4QM"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -427,6 +479,22 @@
       "duration_ms": 183240,
       "name": "Dance Like Yo Daddy",
       "url": "https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "At The Speed Of Life",
+        "url": "https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "The Foundation",
+      "url": "https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -523,76 +591,8 @@
       "duration_ms": 249820,
       "name": "Things Dads Do",
       "url": "https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Greatest Hits Volume 3",
-        "url": "https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "I Learned From You",
-      "url": "https://open.spotify.com/track/3qhIhyu9Sl8lyF43vNt9Dv"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
-        "name": "Color Him Father",
-        "url": "https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M"
-      },
-      "artists": [
-        {
-          "name": "The Winstons",
-          "url": "https://open.spotify.com/artist/1VePrTOSgCLcaBecBs7i2q"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Color Him Father",
-      "url": "https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK"
     }
   ],
-  "unique_name": "Father's Day Love",
+  "unique_name": "Father's Day",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXakVTmpoTAP"
 }

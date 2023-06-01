@@ -4,7 +4,7 @@
 
 > saturation, distortion, overdrive, feedBack\. Cover: ThxSoMch
 
-164 songs - 7 hr 22 min
+167 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-04 | 2023-03-08 |
 | [run](https://open.spotify.com/track/4K8xpTfr5k0dwaModQtgH8) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [run](https://open.spotify.com/album/2jcKI96BUu7wwH5N2vqM1K) | 2:15 | 2023-04-28 | 2023-05-20 |
 | [save yourself first](https://open.spotify.com/track/4AtzMzc06H8izlD8d6AYAT) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [save yourself first](https://open.spotify.com/album/6akubgzy3EgF3jr08fDecs) | 2:46 | 2022-12-04 | 2023-04-15 |
+| [SECRETS](https://open.spotify.com/track/2ygzRCfZKc4fySuSzIXsfW) | [cxldface](https://open.spotify.com/artist/1iJd70hmuFd2Xw38LM94hm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [SECRETS](https://open.spotify.com/album/01yVqF6VTPmg6hiVcRDcln) | 2:07 | 2023-05-31 |  |
 | [Send My Love](https://open.spotify.com/track/19peDv7OzX8XnQx6nAomoM) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Send My Love](https://open.spotify.com/album/3vhMcEy0QNZ0S7uE7yu30K) | 2:33 | 2023-02-24 |  |
 | [SET YOU FREE](https://open.spotify.com/track/6dU35fmLnM6yB8tCySkvwC) | [chase plato](https://open.spotify.com/artist/6fhU5nl4JH1Umw2aiuCtYg) | [SET YOU FREE](https://open.spotify.com/album/44dlMu3kxAHKgQYxdqeZVQ) | 2:25 | 2022-12-04 |  |
 | [Shadows](https://open.spotify.com/track/7iI6aH46uqvW09y78sq23O) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT) | [Shadows](https://open.spotify.com/album/3X1ybNkRWynmnL3SikiTJL) | 3:07 | 2023-01-13 | 2023-02-18 |
@@ -151,10 +152,12 @@
 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 | 2023-03-24 |  |
 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 | 2022-12-04 |  |
 | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV) | [the world is ending and i can't stop crying over these frog boots](https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7) | 2:37 | 2022-12-09 |  |
+| [Think About It](https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Delusional](https://open.spotify.com/album/3nG1CK2bOhi74cNDtCYppx) | 2:20 | 2023-05-31 |  |
 | [tooth](https://open.spotify.com/track/1jlh10sj0EezRytqgOgHvf) | [lavi kou](https://open.spotify.com/artist/77g4HXj3U279MaBzDn9eP0) | [tooth](https://open.spotify.com/album/5pNYo2aydjdR0n1PrL99d5) | 1:26 | 2023-03-17 |  |
 | [truth hurts](https://open.spotify.com/track/5CAvQkgGDGOyicH7e0Z6jN) | [chriad](https://open.spotify.com/artist/7deQ6Y3VQYqHzRrVia18Bl), [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [truth hurts](https://open.spotify.com/album/3HLoC6h0fWZrceTxnrk1cy) | 3:34 | 2023-02-17 |  |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-03-24 | 2023-04-09 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-05-19 |  |
+| [unwind](https://open.spotify.com/track/69XCORenfXQeypvDU6dRYW) | [kurffew](https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz) | [unwind](https://open.spotify.com/album/5TZGkQC8aNOoC6Y2jMQnkq) | 2:08 | 2023-05-31 |  |
 | [update failed](https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [update failed](https://open.spotify.com/album/3Ga4jF853bRTfUMjKq7QjW) | 3:46 | 2023-03-17 |  |
 | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn) | 2:38 | 2023-01-20 |  |
 | [used to it](https://open.spotify.com/track/2gkYcu06kcbeajVWqaxzpL) | [rl](https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw) | [used to it](https://open.spotify.com/album/5QRvznjd6p67rba7Az4ygB) | 3:23 | 2023-03-23 | 2023-03-29 |

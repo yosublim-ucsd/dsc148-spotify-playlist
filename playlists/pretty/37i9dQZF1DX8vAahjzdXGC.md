@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: raissa anggiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,234 likes - 118 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,261 likes - 118 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 117 | [Revolve Around You](https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Revolve Around You](https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61) | 3:12 |
 | 118 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 
-Snapshot ID: `MCwyYzIxMWYwY2YzNmYzNjgwOTgzODNiNGEyY2EyOWRjMWMwMDgwZjU2`
+Snapshot ID: `MCxkM2Y0ODNiNDkwYTZmODZhMWIxYjM4NGRjMjgzNTk1Mzc3Nzk0NzA5`

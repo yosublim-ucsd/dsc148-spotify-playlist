@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 213869,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv"
@@ -1640,6 +1640,24 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "album": {
+        "name": "L'unica Cosa Che Vuoi",
+        "url": "https://open.spotify.com/album/3exP1rqWrlQEdU9fQjhlc0"
+      },
+      "artists": [
+        {
+          "name": "Boomdabash",
+          "url": "https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178839,
+      "name": "L'unica Cosa Che Vuoi",
+      "url": "https://open.spotify.com/track/2xpD1wAwxj0wYbTGovkXUr"
     },
     {
       "album": {

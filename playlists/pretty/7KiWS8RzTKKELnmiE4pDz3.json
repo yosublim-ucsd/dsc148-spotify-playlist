@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzAzOSw5MGE1ODhiMTRlNWM0MDdkYjdjM2RjYWZiZTQ3ZjE1MDAzMDMyODc4",
+  "snapshot_id": "NzA0MywwOTFhYzE5MzYzNjdkMGRjYmMxM2EzY2ZjMmRlMGMxOGNmNjE3Y2U2",
   "tracks": [
     {
       "added_at": "2022-08-27 21:01:46",
@@ -2180,8 +2180,8 @@
       },
       "artists": [
         {
-          "name": "Izaya tiji",
-          "url": "https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2"
+          "name": "Izaya Tiji",
+          "url": "https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09"
         }
       ],
       "duration_ms": 123297,
@@ -3087,6 +3087,74 @@
       "duration_ms": 168247,
       "name": "Dizzy - Bonus Version",
       "url": "https://open.spotify.com/track/4hRydm5LUCaTZFHMBALibQ"
+    },
+    {
+      "added_at": "2023-05-31 14:52:11",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "added_at": "2023-05-31 14:52:38",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW"
+      },
+      "artists": [
+        {
+          "name": "R.T.R Jae",
+          "url": "https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq"
+        }
+      ],
+      "duration_ms": 109852,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ"
+    },
+    {
+      "added_at": "2023-05-31 14:54:45",
+      "album": {
+        "name": "Realer 2",
+        "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Fresh Prince Of Utah",
+      "url": "https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh"
+    },
+    {
+      "added_at": "2023-05-31 15:01:13",
+      "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Mr Gaulden",
+      "url": "https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl"
     }
   ],
   "unique_name": "main ",

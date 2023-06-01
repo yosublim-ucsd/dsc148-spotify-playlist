@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: November Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,177 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,293 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le soleil revient sans toi](https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Out Loud](https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i) | 3:23 |
 | 50 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 |
 
-Snapshot ID: `MCxjNTcyNzdhZTE3NjE0MDAzZTU2ZGYyMTJkYjYzMmU3ZDg1YWNhZDlm`
+Snapshot ID: `MCxhMjNkMzJmMDQzOGVmYWE1MTI0YTg2ZjkyYTRhM2RkN2E4ZWFhNDY0`

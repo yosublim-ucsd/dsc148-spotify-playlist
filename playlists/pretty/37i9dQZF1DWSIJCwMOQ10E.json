@@ -1,32 +1,28 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Carlos Vives\n",
-  "num_followers": 91605,
+  "num_followers": 91638,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2YwNzBjZTE1YzU2MGIxZDhkM2M1MTBkN2NkYWQ2MmRmY2JkNWM2",
+  "snapshot_id": "MCw0NjE1MzdkMTc0YmYzNDBjN2QyMDVjODQ2MjJkMWMwMWIwY2NhNDZj",
   "tracks": [
     {
       "added_at": "2023-04-21 19:14:48",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -47,18 +43,22 @@
     {
       "added_at": "2023-04-21 19:14:48",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-04-21 19:14:48",
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 304117,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
-    },
-    {
-      "added_at": "2023-04-21 19:14:48",
-      "album": {
         "name": "Cr\u00e9eme",
         "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 212493,
       "name": "Cr\u00e9eme",
       "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
+    },
+    {
+      "added_at": "2023-04-21 19:14:48",
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 304117,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -311,18 +311,26 @@
     {
       "added_at": "2023-04-21 19:14:48",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+        "name": "Alguien Me Gusta",
+        "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 310306,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+      "duration_ms": 168533,
+      "name": "Alguien Me Gusta",
+      "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -355,30 +363,6 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
-    },
-    {
-      "added_at": "2023-04-21 19:14:48",
-      "album": {
-        "name": "Alguien Me Gusta",
-        "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "Alguien Me Gusta",
-      "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -435,6 +419,22 @@
       "duration_ms": 209032,
       "name": "C\u00e1sate Conmigo",
       "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
+    },
+    {
+      "added_at": "2023-04-21 19:14:48",
+      "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 310306,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
     },
     {
       "added_at": "2023-04-21 19:14:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-21 19:14:48",
       "album": {
-        "name": "Full HD",
-        "url": "https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj"
-      },
-      "artists": [
-        {
-          "name": "Cali Flow Latino",
-          "url": "https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD"
-        }
-      ],
-      "duration_ms": 259265,
-      "name": "Ras Tas Tas Full Hd",
-      "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
-    },
-    {
-      "added_at": "2023-04-21 19:14:48",
-      "album": {
         "name": "35 A\u00f1os de Exitos",
         "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 263201,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R"
+    },
+    {
+      "added_at": "2023-04-21 19:14:48",
+      "album": {
+        "name": "Full HD",
+        "url": "https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj"
+      },
+      "artists": [
+        {
+          "name": "Cali Flow Latino",
+          "url": "https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD"
+        }
+      ],
+      "duration_ms": 259265,
+      "name": "Ras Tas Tas Full Hd",
+      "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
     },
     {
       "added_at": "2023-04-21 19:14:48",

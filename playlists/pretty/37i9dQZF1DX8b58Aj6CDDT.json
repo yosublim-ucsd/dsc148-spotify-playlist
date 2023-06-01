@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 2237,
+  "num_followers": 2247,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTQ2MGQ2YjdmZjJhY2YxYTgyZWNlOWI0ZDYzM2E1YjMwOWNmMThk",
+  "snapshot_id": "MCxlZmQ0ODQ3YThkNjQwZTFjNmU4YzQ4MTJkZjlhNmVmMmU2ZGJmMTBi",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -451,6 +451,26 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Mientras Ando",
+        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        },
+        {
+          "name": "Belicemanu",
+          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Me lo kiero imaginar",
+      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Sobredosis De Amor",
         "url": "https://open.spotify.com/album/09VrjlJzEaaGrWNbeMHkvF"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 255660,
       "name": "TRASCENDER",
       "url": "https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Mientras Ando",
-        "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        },
-        {
-          "name": "Belicemanu",
-          "url": "https://open.spotify.com/artist/4X0IYY2C5zrOmrYoSTRkJv"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Me lo kiero imaginar",
-      "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
     },
     {
       "added_at": "2022-11-30 14:18:55",

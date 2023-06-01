@@ -4,14 +4,15 @@
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-51 songs - 3 hr 39 min
+52 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Life Worth Living \(Kesariyo\)](https://open.spotify.com/track/5L8GHat4FQUdZWQRET5PyS) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Chotu Khan](https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p), [Salman Khan](https://open.spotify.com/artist/68ePdYvtRgq9CiPzv6fapI), [Triplicane K\. Sekar](https://open.spotify.com/artist/2OaA4iqVxw33eqX9axg8BK) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:04 | 2023-03-10 |  |
 | [Ae Re Sakhi](https://open.spotify.com/track/7h5jBU18CqXNhDUKRr6y7h) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Ae Re Sakhi](https://open.spotify.com/album/29kxXKLyYDcl0vJvnSLvcI) | 3:42 | 2023-03-10 |  |
 | [Aisi Mhari Preet \(Eternal Love\) \- Sabr](https://open.spotify.com/track/4k7feahPXeSdkUf5aZXBCp) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7) | [Aisi Mhari Preet \(Eternal Love\) \[Sabr\]](https://open.spotify.com/album/4LeG4P2H1mI7BpFGSTEZND) | 5:32 | 2023-03-10 |  |
-| [Asadh Mein](https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd) | [Zubaan Music](https://open.spotify.com/artist/0hk5o3q3aoaTgq5RPtVYd9), [Chandan Tiwari](https://open.spotify.com/artist/1tjgaRT3lAX7OJqTrFsKN6), [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Asadh Mein](https://open.spotify.com/album/7lU5oWhj6hJsrRGRDzHB3w) | 3:35 | 2023-03-10 |  |
+| [Asadh Mein](https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd) | [Zubaan Music](https://open.spotify.com/artist/0hk5o3q3aoaTgq5RPtVYd9), [Chandan Tiwari](https://open.spotify.com/artist/1tjgaRT3lAX7OJqTrFsKN6), [Kavish Seth](https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV) | [Asadh Mein](https://open.spotify.com/album/7lU5oWhj6hJsrRGRDzHB3w) | 3:35 | 2023-03-10 | 2023-06-01 |
+| [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 | 2023-05-30 |  |
 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 | 2023-03-10 |  |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-03-10 |  |
 | [Chanda Jhaanke](https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Hansraj Raghuwanshi](https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF) | [Chanda Jhaanke](https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG) | 3:38 | 2023-03-10 |  |

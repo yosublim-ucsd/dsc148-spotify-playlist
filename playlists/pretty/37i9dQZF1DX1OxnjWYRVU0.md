@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,672 likes - 353 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,836 likes - 353 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,7 +269,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 259 | [Every Breath You Take](https://open.spotify.com/track/5pO2v6kaQwh8aeVISo7NYG) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Every Breath You Take](https://open.spotify.com/album/0VlhtM0WNt1WXRJXFz3Ovk) | 2:00 |
 | 260 | [Losing My Religion \(feat\. MKLA\)](https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [Aukoustics](https://open.spotify.com/artist/3o8z3AHOZOxmmb2IKqRxiT) | [Losing My Religion \(feat\. MKLA\)](https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48) | 2:48 |
 | 261 | [Black & Gold \- LIZOT Mix](https://open.spotify.com/track/5cZRBjvDHaQn0vu2GYQOaV) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Black & Gold \(LIZOT Mix\)](https://open.spotify.com/album/2Gwq4Aftzy4cjXOYfsd9OV) | 2:48 |
-| 262 | [Freed From Desire](https://open.spotify.com/track/449CDhiQLGc4QFindBgAiy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Tess Burrstone](https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy) | [Freed From Desire](https://open.spotify.com/album/3uVU0iwXMdGajv0JOwFcAR) | 2:40 |
+| 262 | [Freed from Desire](https://open.spotify.com/track/1CwQksL3ppDiJq53dNxuEQ) | [Solveno](https://open.spotify.com/artist/3LLBXVL5YoPD962NlyrO17) | [Freed from Desire](https://open.spotify.com/album/4ZKALfHVOJjoqRTP2jcotb) | 2:41 |
 | 263 | [Can't Get You Out Of My Head](https://open.spotify.com/track/1nwlLOkSNpb5NMldTT6C1t) | [CRISPIE](https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Can't Get You Out Of My Head](https://open.spotify.com/album/63hmAWUSGushLTwobym9sp) | 3:04 |
 | 264 | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/track/5p3TPKXcEanHmNzJNUxybY) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/album/0JlCX6tuYVECMNhEdWw7u4) | 2:22 |
 | 265 | [What Is Love \(feat\. Nito\-Onna\)](https://open.spotify.com/track/6vUIW5SQODOUwPzBoOrWQ2) | [Royale Avenue](https://open.spotify.com/artist/1sSjBN7wUrQBTgcjSNEnI5), [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [What Is Love \(feat\. Nito\-Onna\)](https://open.spotify.com/album/7FFM8eDpTQPPVPrYoPu7gM) | 2:27 |
@@ -362,4 +362,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 352 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 353 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCwzN2U2ZTUzYzRjOGMxNTJjNTRhYTQyN2NkOTQyMjM2ODYyODFlZDc4`
+Snapshot ID: `MCxlY2E5YmM5MmJlOTEwMmQ2NzkzMzNiMGZiODczOGVhYTE5NTA2ZTM3`

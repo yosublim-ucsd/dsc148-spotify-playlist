@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: FIFTY FIFTY ",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: (G)I-DLE",
   "name": "KimBops!",
   "tracks": [
     {
@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "K-909 : Baby good night",
+        "url": "https://open.spotify.com/album/2asvFTdI6QIFzBFppa3c0p"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Baby good night",
+      "url": "https://open.spotify.com/track/5zvLjMjcVDD8blrEgEeriW"
+    },
+    {
+      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -663,6 +681,24 @@
     },
     {
       "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+    },
+    {
+      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -776,6 +812,24 @@
       "duration_ms": 206853,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4KHTeInKLpN83MtOenzyxn"
+    },
+    {
+      "album": {
+        "name": "[Apocalypse : From us]",
+        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "BONVOYAGE",
+      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
     },
     {
       "album": {
@@ -1156,6 +1210,24 @@
       "duration_ms": 224000,
       "name": "Catch (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
+    },
+    {
+      "album": {
+        "name": "QUEENDOM PUZZLE TEAM BATTLE 2",
+        "url": "https://open.spotify.com/album/4tJeXiRLFAV2K9HNTo0hvQ"
+      },
+      "artists": [
+        {
+          "name": "DROP The Beat",
+          "url": "https://open.spotify.com/artist/7hHzp9ll7UubWYMGSKC2zt"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4ZKOqQNA1zWx6yzzoE94LD"
     },
     {
       "album": {
@@ -1978,6 +2050,24 @@
       "duration_ms": 203107,
       "name": "EUNOIA",
       "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Eve, Psyche & The Bluebeard\u2019s wife",
+      "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
       "album": {
@@ -3201,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
+    },
+    {
+      "album": {
         "name": "MIC ON",
         "url": "https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ"
       },
@@ -3442,6 +3550,24 @@
       "duration_ms": 179120,
       "name": "KA-BOOM!",
       "url": "https://open.spotify.com/track/3lbXWGqf8Fqb9UWcrgexbK"
+    },
+    {
+      "album": {
+        "name": "That Karma",
+        "url": "https://open.spotify.com/album/6svUGnoz4ra10k5993SGvc"
+      },
+      "artists": [
+        {
+          "name": "BLACKSWAN",
+          "url": "https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/0AZ5C3305mRKWX1x0hDF39"
     },
     {
       "album": {
@@ -5677,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "CIX 6th EP Album 'OK' Episode 2 : I'm OK",
+        "url": "https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Save me, Kill me",
+      "url": "https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - ARTIST BATTLE",
         "url": "https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC"
       },
@@ -6048,6 +6192,24 @@
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
+    },
+    {
+      "album": {
+        "name": "SPECIAL LOVE",
+        "url": "https://open.spotify.com/album/786QtwJHbeZKjoRyfDLtkV"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "SPECIAL LOVE",
+      "url": "https://open.spotify.com/track/11RrLN6I83tZKAKBxkPSsn"
     },
     {
       "album": {

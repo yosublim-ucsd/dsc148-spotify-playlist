@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Karuna",
+        "url": "https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7"
+      },
+      "artists": [
+        {
+          "name": "Venkata Chaitanya",
+          "url": "https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Karuna",
+      "url": "https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy"
+    },
+    {
+      "album": {
         "name": "Khadhhar",
         "url": "https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 216000,
       "name": "Maya Chesave",
       "url": "https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 312039,
       "name": "Naalo Kalisave",
       "url": "https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL"
@@ -1922,6 +1940,24 @@
       "duration_ms": 207671,
       "name": "Silakole Nuvvu Raye Pilla",
       "url": "https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9"
+    },
+    {
+      "album": {
+        "name": "Sin Amor",
+        "url": "https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb"
+      },
+      "artists": [
+        {
+          "name": "Palan",
+          "url": "https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "Sin Amor",
+      "url": "https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG"
     },
     {
       "album": {

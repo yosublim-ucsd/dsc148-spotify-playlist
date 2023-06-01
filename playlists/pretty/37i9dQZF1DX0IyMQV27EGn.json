@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 614321,
+  "num_followers": 614407,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTZlMDg2ZmUwYmVmOGY3MjIyOWQyMGJmY2EyMTZhM2EwODRhN2Qw",
+  "snapshot_id": "MCxmODUwYzY4MTk0MWQ1YjIxOWM5MjZhNjFiMTI2MmZhZmI4YTczZjQz",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Kathleen II",
         "url": "https://open.spotify.com/album/53i39sp8XOhqNPZ9q7reFG"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
       },
       "artists": [
         {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
         }
       ],
-      "duration_ms": 181818,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Get Free",
-        "url": "https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe"
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06"
       },
       "artists": [
         {
-          "name": "Whissell",
-          "url": "https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh"
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
         }
       ],
-      "duration_ms": 194399,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ"
+      "duration_ms": 181818,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 182853,
       "name": "Torture",
       "url": "https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Get Free",
+        "url": "https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe"
+      },
+      "artists": [
+        {
+          "name": "Whissell",
+          "url": "https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh"
+        }
+      ],
+      "duration_ms": 194399,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "The Soul Sessions, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
+        "name": "Goodnight Rhonda Lee",
+        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         }
       ],
-      "duration_ms": 217260,
-      "name": "Why\u2019d Ya Do It",
-      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
+      "duration_ms": 190560,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Goodnight Rhonda Lee",
-        "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "By The Horns",
         "url": "https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 234013,
       "name": "It's All Okay",
       "url": "https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3VBPvCalDAaE5MJHkMAuDk">Ophelia Lia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,940 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,946 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 21 | [Immune](https://open.spotify.com/track/4Rd3Epu7LPyhrOAjN62Jkf) | [K.Wasabi](https://open.spotify.com/artist/7b1uiauywAz9Hgin8D1IyQ) | [Immune](https://open.spotify.com/album/7ALHVYp3akp59EqqqzdXXn) | 3:06 |
 | 22 | [Noi](https://open.spotify.com/track/4n5Nw85CVXZTfEsqIWu5X5) | [EFFETTI](https://open.spotify.com/artist/7eZWZ5FqmPfd6UgoDLK6Mt) | [Noi](https://open.spotify.com/album/7sStlDlaMI5vLK3JDd26Km) | 3:22 |
 | 23 | [Primmavera](https://open.spotify.com/track/1ZPsUM5lQiW6g4cpzioy17) | [Auua](https://open.spotify.com/artist/2tnzSiqtkZbBZMshF406i9) | [Primmavera](https://open.spotify.com/album/7mXs7QcPuK6gWeNPDR2GKN) | 3:19 |
-| 24 | [Piove](https://open.spotify.com/track/0iAvPiEHuvyus6VfQV3ShO) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Piove](https://open.spotify.com/album/0uql9QXmkNpbqBzqaWTsTo) | 2:12 |
+| 24 | [Piove](https://open.spotify.com/track/2RU6CQohrTlP7UgewTp4fh) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Piove](https://open.spotify.com/album/1YLfIhVXN91ZBS3wAbVzgW) | 2:12 |
 | 25 | [Milano sei tossica](https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL) | [Kate Klein](https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO) | [Milano sei tossica](https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn) | 2:08 |
 | 26 | [Artico](https://open.spotify.com/track/2qK43ANPPsyZeHNkRdoG4o) | [Blu3bike](https://open.spotify.com/artist/4YIjPRaxNwLX789NykTox9), [Marte](https://open.spotify.com/artist/7I1MkZLIK0DQGLxGzelEui) | [Artico](https://open.spotify.com/album/3JKjTtueavDnkb377T6c9W) | 2:34 |
 | 27 | [Chilometri](https://open.spotify.com/track/6nwFGaa89tRUhXR3dMMF9Z) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Chilometri](https://open.spotify.com/album/5D9vxGblOQOxPq6vZf7aur) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Carletto](https://open.spotify.com/track/1QeT4Wmjtwm47zsZcqXB8C) | [Tuma](https://open.spotify.com/artist/3HpTFbgF36sfAlVqebZ8as) | [Carletto](https://open.spotify.com/album/5m3CTz59GuWl5UOAJf59nb) | 3:28 |
 | 50 | [Quanto è semplice](https://open.spotify.com/track/3G9vyuzdUliB1jMbwDeCM6) | [Ventidue](https://open.spotify.com/artist/5OGi0t3oH4M8GDNYDxK4Eh) | [Quanto è semplice](https://open.spotify.com/album/2GKZuu9lhHTD2DwgSRYw8L) | 2:55 |
 
-Snapshot ID: `MCw1ZWE2MTc2NTczNTI1OGY0N2E2OWE1NTVlYzkyOGM0ODFjZGZlNWZk`
+Snapshot ID: `MCxhMmJlYmJmMTM0YzIyYjAwMDFiOTg0ZTBkM2M0ZWY1YzQ0ZmE3NWVk`

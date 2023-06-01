@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2545401,
+  "num_followers": 2545864,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWFjMTRkZTAxOWY2Nzg1NTY3MWY4YWM3NGM1YjVlZWViNTk0ZDI2",
+  "snapshot_id": "MCwwYjA0YmVhMTRiYjVmYThkNjMwZWMzNDE2NjM5YTFkOWI1NzU5OGY1",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -95,30 +95,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "FEELING GUD",
-        "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Matthew Santos",
-          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
-        }
-      ],
-      "duration_ms": 190682,
-      "name": "FEELING GUD",
-      "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -139,6 +115,30 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "FEELING GUD",
+        "url": "https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Matthew Santos",
+          "url": "https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj"
+        }
+      ],
+      "duration_ms": 190682,
+      "name": "FEELING GUD",
+      "url": "https://open.spotify.com/track/0suLmBuEbatdochI4tHduq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "dashstar* (Yellow Claw Trap Edit)",
-        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 152776,
-      "name": "dashstar* - Yellow Claw Trap Edit",
-      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 133274,
       "name": "Trials",
       "url": "https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "dashstar* (Yellow Claw Trap Edit)",
+        "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 152776,
+      "name": "dashstar* - Yellow Claw Trap Edit",
+      "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Apex",
-        "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 282834,
-      "name": "Rumble",
-      "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Apex",
+        "url": "https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 282834,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 159162,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Work That Body",
         "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 165000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 159162,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1551,18 +1551,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+        "name": "TILL I DIE",
+        "url": "https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 131254,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
+      "duration_ms": 171810,
+      "name": "TILL I DIE",
+      "url": "https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB"
     }
   ],
   "unique_name": "Hype",

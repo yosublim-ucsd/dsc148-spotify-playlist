@@ -536,10 +536,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 238053,
       "name": "Horses & Weed",
       "url": "https://open.spotify.com/track/08sNpSbnzaPv0dpQvm8sgv"
+    },
+    {
+      "album": {
+        "name": "White Buffalo",
+        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Horses & Weed",
+      "url": "https://open.spotify.com/track/3vLR6c10EehYU1z0iYzQcs"
     },
     {
       "album": {

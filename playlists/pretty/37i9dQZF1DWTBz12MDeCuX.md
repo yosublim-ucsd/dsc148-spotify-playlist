@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Joost, Otto Waalkes
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,668 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,284 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 |
 | 100 | [Was mir gefällt](https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Was mir gefällt](https://open.spotify.com/album/1JK0xNjVPJLAgH81xYY76Z) | 2:18 |
 
-Snapshot ID: `MCw3MTlhNTU0MzM3MWFmODZjZDA4NDUxYzlkZDVhYmQzOWRhNzE3MzZj`
+Snapshot ID: `MCwyOTE5NjMxNTc3ZjViMDdmMTc5OWEwNDk0OGM0YTUyNmQzMzQzZGJl`

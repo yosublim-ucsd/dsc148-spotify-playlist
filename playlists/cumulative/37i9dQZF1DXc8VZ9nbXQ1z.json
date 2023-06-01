@@ -7229,6 +7229,32 @@
     },
     {
       "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/7kMDY1tby0hSMTCJDXKbzB"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo",
+          "url": "https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL"
+        },
+        {
+          "name": "Kyaku Kyadaff",
+          "url": "https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179950,
+      "name": "Zulu - Edit",
+      "url": "https://open.spotify.com/track/4qTW584MYElJ0FrONOIyFs"
+    },
+    {
+      "album": {
         "name": "Zulu Spear (Remixes)",
         "url": "https://open.spotify.com/album/1vknicfYd89RcdSvY4xbYA"
       },

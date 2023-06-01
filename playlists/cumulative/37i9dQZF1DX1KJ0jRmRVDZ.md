@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-730 songs - 1 day 17 hr 45 min
+731 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Antithesis Kisama \-kai\-](https://open.spotify.com/track/0OmfaGcA7apk49uVlzmWwC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Antithesis Kisama \-kai\-](https://open.spotify.com/album/7Fe8AR257yKmXZfM7osje4) | 3:13 | 2022-09-27 | 2022-10-05 |
 | [Aoiharu](https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40) | [Misekai](https://open.spotify.com/artist/3D3rPrHQXf7RGhWPNtVNHk) | [Aoiharu](https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN) | 2:58 | 2022-09-20 | 2022-10-05 |
 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 | 2022-12-06 | 2023-01-06 |
+| [Atashi](https://open.spotify.com/track/6XsThMCedPz1M1E6EXmF1h) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Atashi](https://open.spotify.com/album/4FouqX8bPsuBPAAM5fGYJP) | 3:14 | 2023-05-30 |  |
 | [Azurite](https://open.spotify.com/track/7KHwZdPTlhXybDNJBLQKin) | [oshina](https://open.spotify.com/artist/6uPDUcO9dIgZ6b75Z17XvA) | [Azurite](https://open.spotify.com/album/6ZF6bHVS64T9IW5y0NVCV7) | 3:11 | 2022-09-20 | 2022-09-28 |
 | [Backlight](https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:57 | 2022-10-27 | 2023-01-11 |
 | [Beauty Unique Boutique](https://open.spotify.com/track/2jpkqAe2sHDgaWDOSS2jpD) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [Beauty Unique Boutique](https://open.spotify.com/album/7ogIxlXNX4FOUGu4GyjSa9) | 3:14 | 2022-09-08 | 2022-10-05 |
@@ -323,7 +324,7 @@
 | [アオイナツ](https://open.spotify.com/track/4zUesyooUI2QpxAetqDWgT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [アオイナツ](https://open.spotify.com/album/4AAnOSns0SjRqE7BB6WmB9) | 4:03 | 2022-07-21 | 2022-07-23 |
 | [アオイハル](https://open.spotify.com/track/5SAM5ms9HkCUcOFE7Cfib5) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [アオイハル](https://open.spotify.com/album/6pJUfEsJ7a3ExT5modeFbM) | 2:58 | 2022-09-20 | 2022-09-22 |
 | [アゲクノハテ](https://open.spotify.com/track/72dWbrgPBzjtyyPLLdd4mu) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [アゲクノハテ](https://open.spotify.com/album/3YFPMd5vQQKAT4PXQqbOel) | 3:41 | 2022-10-27 | 2022-11-16 |
-| [アタシ](https://open.spotify.com/track/6TP14XdyV4UfzawCmXFnzp) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [アタシ](https://open.spotify.com/album/51ZoRv6IzNqzEANnZptu4e) | 3:14 | 2023-05-30 |  |
+| [アタシ](https://open.spotify.com/track/6TP14XdyV4UfzawCmXFnzp) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [アタシ](https://open.spotify.com/album/51ZoRv6IzNqzEANnZptu4e) | 3:14 | 2023-05-30 | 2023-06-01 |
 | [アット・ザ・電脳シティ](https://open.spotify.com/track/0AiZ9S04OaSfwZ2Hw2Ldgf) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [アット・ザ・電脳シティ](https://open.spotify.com/album/1lDosxm9y9KdFMDtm7ag3n) | 4:18 | 2022-06-23 | 2022-06-26 |
 | [アフタウ](https://open.spotify.com/track/6IAsN1LZdzrROWKy3DONaP) | [yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [アフタウ](https://open.spotify.com/album/5lz3Am4h0qna27FQRkzbdl) | 3:17 | 2022-07-07 | 2022-07-27 |
 | [アブノーマリティー。](https://open.spotify.com/track/5o6Nt28EkGBO6HPb3CzG4q) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アブノーマリティー。](https://open.spotify.com/album/4Jd3gd0HkzO8rGl6rOJHpq) | 3:38 | 2022-06-09 | 2022-07-28 |

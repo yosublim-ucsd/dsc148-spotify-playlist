@@ -1,12 +1,12 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 223440,
+  "num_followers": 223470,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGE3NmRhYjNlN2Y3YjllY2I3ZjAyOTY2N2Y2ZWZlODc2YjljNGVh",
+  "snapshot_id": "MCxlNTJmZjZkNGNkMjlhMTkwODRlN2E0ZTE4YjU5NWYyYzNlZTcwNjZh",
   "tracks": [
     {
       "added_at": "2021-10-15 13:47:27",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Regrets & Resolutions",
         "url": "https://open.spotify.com/album/0jEYgUe5ByUDh3XdP29KBG"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
         }
       ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+      "duration_ms": 240000,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -319,6 +303,22 @@
       "duration_ms": 270252,
       "name": "Would You Believe",
       "url": "https://open.spotify.com/track/0HvtGDMR4hVmNK3HBUIUOS"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m"
-      },
-      "artists": [
-        {
-          "name": "Thomas James White",
-          "url": "https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Next to Nothing",
         "url": "https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216000,
       "name": "Joyfulness",
       "url": "https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m"
+      },
+      "artists": [
+        {
+          "name": "Thomas James White",
+          "url": "https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "L.O.S.S.",
-        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "Nobody New Around You",
-      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "All Encores",
         "url": "https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 699397,
       "name": "All Armed",
       "url": "https://open.spotify.com/track/4tA2fAzDdltaUtL0gtmvou"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -535,38 +535,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Atlantics (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf"
-      },
-      "artists": [
-        {
-          "name": "Fatima Al Qadiri",
-          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
-        }
-      ],
-      "duration_ms": 96746,
-      "name": "Qasida - Sunset Fever 2",
-      "url": "https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Sacred - Radio Edit",
-      "url": "https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Opals",
         "url": "https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x"
       },
@@ -599,22 +567,34 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Low (Babeheaven Remix)",
-        "url": "https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG"
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
       "artists": [
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        },
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 247501,
-      "name": "Low - Babeheaven Remix",
-      "url": "https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS"
+      "duration_ms": 206829,
+      "name": "Sacred - Radio Edit",
+      "url": "https://open.spotify.com/track/2wqqzMQ457bjitt2vDDGmf"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Atlantics (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FWKJ334wfgxb10foTngyf"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        }
+      ],
+      "duration_ms": 96746,
+      "name": "Qasida - Sunset Fever 2",
+      "url": "https://open.spotify.com/track/0Y6bC35xuN9ycyKxpT9Iks"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -639,18 +619,22 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Disrupt",
-        "url": "https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn"
+        "name": "Low (Babeheaven Remix)",
+        "url": "https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG"
       },
       "artists": [
         {
-          "name": "Delac",
-          "url": "https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM"
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        },
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Disrupt",
-      "url": "https://open.spotify.com/track/2axUQ5XVoEImeCqbZOW3dQ"
+      "duration_ms": 247501,
+      "name": "Low - Babeheaven Remix",
+      "url": "https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -667,6 +651,22 @@
       "duration_ms": 219259,
       "name": "Autumn Star",
       "url": "https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Disrupt",
+        "url": "https://open.spotify.com/album/0wHYnbt9wiWkD5zMiC4kBn"
+      },
+      "artists": [
+        {
+          "name": "Delac",
+          "url": "https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Disrupt",
+      "url": "https://open.spotify.com/track/2axUQ5XVoEImeCqbZOW3dQ"
     },
     {
       "added_at": "2021-10-15 13:47:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-10-15 13:47:27",
       "album": {
-        "name": "Planet Hearth",
-        "url": "https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3"
-      },
-      "artists": [
-        {
-          "name": "Calibre",
-          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
-        }
-      ],
-      "duration_ms": 257275,
-      "name": "Planet Hearth",
-      "url": "https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb"
-    },
-    {
-      "added_at": "2021-10-15 13:47:27",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 222840,
       "name": "Grown Into You",
       "url": "https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy"
+    },
+    {
+      "added_at": "2021-10-15 13:47:27",
+      "album": {
+        "name": "Planet Hearth",
+        "url": "https://open.spotify.com/album/35WGtiXgUzM8ZANghXQxl3"
+      },
+      "artists": [
+        {
+          "name": "Calibre",
+          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
+        }
+      ],
+      "duration_ms": 257275,
+      "name": "Planet Hearth",
+      "url": "https://open.spotify.com/track/1RvPfvzAg6jbzWsODpDILb"
     },
     {
       "added_at": "2021-10-15 13:47:27",

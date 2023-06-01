@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-159 songs - 12 hr 20 min
+160 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,12 +94,13 @@
 | [Melody Drive](https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq) | [Estelle](https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI) | [Melody Drive](https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft) | 2:48 | 2023-03-23 |  |
 | [Melrose Avenue](https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Melrose Avenue](https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0) | 2:55 | 2023-03-16 |  |
 | [Midnight At The Oasis](https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:20 | 2022-05-06 |  |
-| [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 | 2022-05-06 |  |
+| [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 | 2022-05-06 | 2023-06-01 |
 | [Moonlit Ocean](https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:58 | 2022-05-06 |  |
 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 | 2022-08-16 |  |
 | [Mr\. Groove](https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:01 | 2022-05-06 |  |
 | [Neptune](https://open.spotify.com/track/5oBQvuNbSTzX7qTxn1vRMN) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 4:23 | 2022-05-06 | 2022-10-26 |
 | [Never Without You](https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:52 | 2022-05-06 |  |
+| [Next Journey](https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Next Journey](https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz) | 3:03 | 2023-05-30 |  |
 | [Night Calls](https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [In The Moment](https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6) | 5:25 | 2022-05-06 |  |
 | [Nightwalk](https://open.spotify.com/track/10eKeT50gEcWHtf5lKKOTp) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Sessions \(Volume 1\)](https://open.spotify.com/album/0RrijXnO1sop1L0Wkmc9lR) | 6:39 | 2022-05-06 | 2023-03-15 |
 | [No Woman No Cry](https://open.spotify.com/track/0uGRWcUBryGGCFYI9lC3dj) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:57 | 2022-05-06 | 2022-09-20 |

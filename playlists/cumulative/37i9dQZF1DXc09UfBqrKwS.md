@@ -2,7 +2,7 @@
 
 ### [mimir](https://open.spotify.com/playlist/37i9dQZF1DXc09UfBqrKwS)
 
-> hora d hacer la meme
+> 
 
 242 songs - 11 hr 49 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 21734,
+  "num_followers": 21753,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWY2ZDEzOGVkNTA4ZDBmMmU2YjUyNTk1MWY4NjFkNGQwZTM5Nzdh",
+  "snapshot_id": "MCxkMjdiNWMzYjQxYjBjMGNmZmJmOTExMTU2NmY2ZDFkZTQyMGNlYTQ0",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -643,8 +643,8 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 04",
-        "url": "https://open.spotify.com/album/5vFeizkVQA7PqDIuSr4cH6"
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
+        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
         }
       ],
-      "duration_ms": 260100,
-      "name": "\u30ad\u30e3\u30c3\u30c8\u30b9\u30af\u30ef\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/7jZj6OJp3TT7MpIDj1TIOY"
+      "duration_ms": 232520,
+      "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
+      "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -792,13 +792,13 @@
       },
       "artists": [
         {
-          "name": "\u767d\u702c\u54b2\u8036 (CV.\u516b\u5dfb\u30a2\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM"
+          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
+          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
         }
       ],
-      "duration_ms": 274800,
-      "name": "\u5343\u591c\u30a2\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
+      "duration_ms": 277866,
+      "name": "statice",
+      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
     },
     {
       "added_at": "2023-03-07 15:00:00",
@@ -808,13 +808,13 @@
       },
       "artists": [
         {
-          "name": "\u6d45\u5009 \u900f (CV.\u548c\u4e45\u4e95 \u512a)",
-          "url": "https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu"
+          "name": "\u767d\u702c\u54b2\u8036 (CV.\u516b\u5dfb\u30a2\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM"
         }
       ],
-      "duration_ms": 277866,
-      "name": "statice",
-      "url": "https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo"
+      "duration_ms": 274800,
+      "name": "\u5343\u591c\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",

@@ -2152,10 +2152,28 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 166779,
       "name": "\u3042\u3081",
       "url": "https://open.spotify.com/track/3krw9tEZvkPK2EIxgDSohn"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3081",
+        "url": "https://open.spotify.com/album/6Ei7G3UVp3acGkrTt4IZJG"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b3\u30c8\u30b3\u30f3\u30c9\u30a6",
+          "url": "https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "\u3042\u3081",
+      "url": "https://open.spotify.com/track/4VHXcXKWES6vfhohsfpnnu"
     },
     {
       "album": {

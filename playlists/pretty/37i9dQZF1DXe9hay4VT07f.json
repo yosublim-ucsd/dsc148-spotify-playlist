@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 393089,
+  "num_followers": 393322,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E2NzI4MWEwOWUwNWQ1MTI0MzkzNjNhZjM5MTkxMDRmOGVkNDE3",
+  "snapshot_id": "MCxmNDgyZGM5OWU3YmIyOTUxMTg1ZDM3NTRjZGJkNzEyYTAxOTk3Mzcy",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -659,30 +659,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
-      },
-      "artists": [
-        {
-          "name": "Scrptiid",
-          "url": "https://open.spotify.com/artist/5uh7k2ooXAJNRxheolagV4"
-        },
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        },
-        {
-          "name": "Astyle Alive",
-          "url": "https://open.spotify.com/artist/4P6LAPSZ5NFxmzAWcHwrRW"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/39MmCz5nbVj4A4ZnLzZ5y2"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Ambala",
         "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
       },
@@ -695,6 +671,22 @@
       "duration_ms": 142080,
       "name": "Ambala",
       "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -735,18 +727,26 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Scrptiid",
+          "url": "https://open.spotify.com/artist/5uh7k2ooXAJNRxheolagV4"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "Astyle Alive",
+          "url": "https://open.spotify.com/artist/4P6LAPSZ5NFxmzAWcHwrRW"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+      "duration_ms": 182222,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/39MmCz5nbVj4A4ZnLzZ5y2"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Vibes Weekend",
+        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Vibes Weekend",
+      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Walking Trophy",
         "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Vibes Weekend",
-        "url": "https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Vibes Weekend",
-      "url": "https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y"
+      "duration_ms": 219574,
+      "name": "Pieces (with Jahshii)",
+      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -875,26 +895,6 @@
       "duration_ms": 165560,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "438",
-        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "438",
+        "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -983,22 +1003,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1015,22 +1031,6 @@
       "duration_ms": 231266,
       "name": "Romie",
       "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Pon Di Cocky",
-        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
-      },
-      "artists": [
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 190119,
-      "name": "Pon Di Cocky",
-      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Run Run",
-        "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 186081,
-      "name": "Run Run",
-      "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Party Hard",
         "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Ghetto Story (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
       },
       "artists": [
         {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Ghetto Story",
-      "url": "https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih"
+      "duration_ms": 186081,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1455,6 +1439,22 @@
       "duration_ms": 156081,
       "name": "Dunce Bat",
       "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Ghetto Story (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Ghetto Story",
+      "url": "https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Dye Dye - Single",
-        "url": "https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz"
-      },
-      "artists": [
-        {
-          "name": "Macka Diamond",
-          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
-        }
-      ],
-      "duration_ms": 186265,
-      "name": "Dye Dye (Raw)",
-      "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Fling",
         "url": "https://open.spotify.com/album/4XDwOg42iBKH7lx6dg33OC"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 168045,
       "name": "Fling",
       "url": "https://open.spotify.com/track/0Ocz4RqsoxmtwcZjWnjYlp"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Dye Dye - Single",
+        "url": "https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz"
+      },
+      "artists": [
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+        }
+      ],
+      "duration_ms": 186265,
+      "name": "Dye Dye (Raw)",
+      "url": "https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Mi Nuh Know",
-        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
+        "name": "Ghetto Story (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
         }
       ],
-      "duration_ms": 146886,
-      "name": "Mi Nuh Know",
-      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
+      "duration_ms": 252893,
+      "name": "Vitamin S",
+      "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Ghetto Story (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
+        "name": "Mi Nuh Know",
+        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
       },
       "artists": [
         {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         }
       ],
-      "duration_ms": 252893,
-      "name": "Vitamin S",
-      "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
+      "duration_ms": 146886,
+      "name": "Mi Nuh Know",
+      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
     },
     {
       "added_at": "2023-05-14 20:18:19",

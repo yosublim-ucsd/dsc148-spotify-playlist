@@ -1,15 +1,15 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 5393,
+  "num_followers": 5399,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwOTExNDksMDAwMDAwMDBlMmE4MTBiZjcyZTFkMjFmYzgzMmJhZmRkNzdkM2Y5ZQ==",
+  "snapshot_id": "MjgwOTIyOTAsMDAwMDAwMDAwODJiODIyZGFlNmUxYTUxY2Q4YjAxNWJhY2M1NTFmYg==",
   "tracks": [
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Nunca Tristes (Me Vale Madre)",
         "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Quiero Quedarme para Siempre",
         "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Enferma Despedida",
         "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
@@ -85,23 +85,7 @@
       "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
@@ -189,7 +173,23 @@
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
@@ -225,23 +225,7 @@
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Tibio",
-      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
@@ -257,7 +241,23 @@
       "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Tibio",
+      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Amor Particular",
         "url": "https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S"
@@ -293,23 +293,7 @@
       "url": "https://open.spotify.com/track/41x3Zgm2LornuG311321J6"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Hoy Me Siento Bien",
-      "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
@@ -325,39 +309,7 @@
       "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "as\u00ed no funciona",
-      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "2D",
-      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
@@ -373,7 +325,39 @@
       "url": "https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "as\u00ed no funciona",
+      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "2D",
+      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
@@ -389,7 +373,23 @@
       "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Hoy Me Siento Bien",
+      "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Rockea Bien Duro",
         "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
@@ -429,23 +429,7 @@
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 113440,
-      "name": "No Me Digas Qu\u00e9 Hacer",
-      "url": "https://open.spotify.com/track/1fBip2frsNLgliGzaZiYeI"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
@@ -465,7 +449,39 @@
       "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 113440,
+      "name": "No Me Digas Qu\u00e9 Hacer",
+      "url": "https://open.spotify.com/track/1fBip2frsNLgliGzaZiYeI"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Todo Te Da Igual",
         "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
@@ -485,23 +501,27 @@
       "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
       "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
@@ -517,7 +537,23 @@
       "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+    },
+    {
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "fior",
         "url": "https://open.spotify.com/album/5zzz22tSzU3NHE85lzSkeq"
@@ -565,23 +601,7 @@
       "url": "https://open.spotify.com/track/5BQUCm2vmsddy6AaHyn2Gi"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
-    },
-    {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
     },
     {
-      "added_at": "2023-05-30 17:49:27",
+      "added_at": "2023-05-31 12:50:11",
       "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"

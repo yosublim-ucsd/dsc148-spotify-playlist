@@ -1,12 +1,12 @@
 {
   "description": "ele \u00e9 dos pr\u00e9dios, ele gosta de toy story, ele \u00e9 veigh baby",
-  "num_followers": 1154963,
+  "num_followers": 1155859,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDU0NTRmNjg1M2YyN2EwM2FkZjAwOTg1NzhmYTQ0ZTFkOGVjNzA5",
+  "snapshot_id": "MCwwNjhlNTI2OWY3NjA5YWNhMTdjNmViYmJiMmQ1MzY3ZjI1NmM1ZmY4",
   "tracks": [
     {
       "added_at": "2023-05-26 10:42:23",
@@ -987,42 +987,6 @@
     {
       "added_at": "2023-05-26 10:42:23",
       "album": {
-        "name": "Pagodeiro",
-        "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        }
-      ],
-      "duration_ms": 458666,
-      "name": "Pagodeiro",
-      "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
-    },
-    {
-      "added_at": "2023-05-26 10:42:23",
-      "album": {
         "name": "Marolento",
         "url": "https://open.spotify.com/album/4TzGr4urshbTMEJoXTfsb6"
       },
@@ -1055,6 +1019,42 @@
       "duration_ms": 161379,
       "name": "Marolento",
       "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
+    },
+    {
+      "added_at": "2023-05-26 10:42:23",
+      "album": {
+        "name": "Pagodeiro",
+        "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        }
+      ],
+      "duration_ms": 458666,
+      "name": "Pagodeiro",
+      "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
     },
     {
       "added_at": "2023-05-26 10:42:23",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2023-05-26 10:42:23",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
-    },
-    {
-      "added_at": "2023-05-26 10:42:23",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "added_at": "2023-05-26 10:42:23",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
     },
     {
       "added_at": "2023-05-26 10:42:23",
@@ -1467,26 +1467,30 @@
     {
       "added_at": "2023-05-26 10:42:23",
       "album": {
-        "name": "Malandrex",
-        "url": "https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw"
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
       },
       "artists": [
         {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
         },
         {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "MC Bob Anne",
+          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Malandrex",
-      "url": "https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi"
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
     },
     {
       "added_at": "2023-05-26 10:42:23",
@@ -1539,30 +1543,26 @@
     {
       "added_at": "2023-05-26 10:42:23",
       "album": {
-        "name": "Mec Life",
-        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
+        "name": "Malandrex",
+        "url": "https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw"
       },
       "artists": [
         {
-          "name": "DJ ESCOBAR",
-          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
         },
         {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
         },
         {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "MC Bob Anne",
-          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Mec Life",
-      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
+      "duration_ms": 256000,
+      "name": "Malandrex",
+      "url": "https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi"
     },
     {
       "added_at": "2023-05-26 10:42:23",

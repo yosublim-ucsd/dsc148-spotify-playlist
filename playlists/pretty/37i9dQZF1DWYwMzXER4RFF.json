@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 265463,
+  "num_followers": 265546,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjJiNTljZDliYzEyMjllOWI3YTRjYWNmOTYxMGFjMjkxYmNlOTU4",
+  "snapshot_id": "MCw5MmI0YTI0ZTA1YmM0ZGZmNGE5ZTQ3ZWJhNThhNmI4ZGVjZWZkZmZj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
     },
     {
-      "added_at": "2023-05-31 02:04:27",
+      "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
       },
       "artists": [
         {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
         }
       ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+      "duration_ms": 146978,
+      "name": "Don't Cling To Life",
+      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -217,20 +217,20 @@
       "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
+      "added_at": "2023-06-01 01:42:54",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
       },
       "artists": [
         {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
-      "duration_ms": 146978,
-      "name": "Don't Cling To Life",
-      "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
         }
       ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
         }
       ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Audio Drag for Ego Slobs",
-        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
-      },
-      "artists": [
-        {
-          "name": "Gustaf",
-          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
-        }
-      ],
-      "duration_ms": 120268,
-      "name": "Book",
-      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "wollte nie",
         "url": "https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Audio Drag for Ego Slobs",
+        "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 120268,
+      "name": "Book",
+      "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Welfare Jazz",
         "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
       },
@@ -525,7 +525,23 @@
       "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
-      "added_at": "2023-05-31 02:04:27",
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-06-01 01:42:54",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -539,22 +555,6 @@
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
-    },
-    {
-      "added_at": "2023-05-31 02:04:27",
-      "album": {
-        "name": "Nurse!",
-        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 228268,
-      "name": "Nurse!",
-      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
       "artists": [
         {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
         }
       ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
+      "added_at": "2023-06-01 01:42:54",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+        "name": "Nurse!",
+        "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
         }
       ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+      "duration_ms": 228268,
+      "name": "Nurse!",
+      "url": "https://open.spotify.com/track/5EhYdpI1gNIrOCreDQP6Q1"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     },
     {
-      "added_at": "2023-05-31 02:04:27",
+      "added_at": "2023-06-01 01:42:54",
       "album": {
         "name": "Knocknarea",
         "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"

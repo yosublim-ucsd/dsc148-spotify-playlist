@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã com Vulgo FK e Chefin, TIAGO IORC com LUDMILLA, Juliette, XANDDY HARMONIA com Lauana Prado, Taylor Swift  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,724 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875,967 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 33 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
 | 34 | [Ana](https://open.spotify.com/track/2FNA1ZLJcp4LV1yTOELdwl) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Digital Baile](https://open.spotify.com/album/5Z3CZJvgO3LEYGzipkuKiL) | 1:48 |
 | 35 | [Nunca Será \- Ao Vivo](https://open.spotify.com/track/6a41sOHxF7s1VJLjyc0Xiq) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Ao Vivo Em Goiânia Vol\. 05](https://open.spotify.com/album/601a1WT9kGGFhL0gwpD6Xm) | 2:27 |
-| 36 | [Logo Eu](https://open.spotify.com/track/2Y1hhZA4RATzmJUwt9yQKR) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Jorgin](https://open.spotify.com/artist/4Co76B97RP7Uflclg9Jd3o) | [Logo Eu](https://open.spotify.com/album/5q4P7ED5E2jlF5xdmgeW42) | 2:49 |
+| 36 | [Logo Eu](https://open.spotify.com/track/2Y1hhZA4RATzmJUwt9yQKR) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [DJ Jorgin](https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF) | [Logo Eu](https://open.spotify.com/album/5q4P7ED5E2jlF5xdmgeW42) | 2:49 |
 | 37 | [No Próprio Nó](https://open.spotify.com/track/1ztLNW6TNJYb5ebMgvbIKp) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Inverso](https://open.spotify.com/album/4miczMmtEyNRbQZEYvwxO6) | 1:43 |
 | 38 | [Buteco Fuleiro \(Dan Lellis no Barzin\) \- Ao Vivo](https://open.spotify.com/track/2GphQ7ptrHB0HXXCSKskYa) | [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk) | [Buteco Fuleiro \(Dan Lellis no Barzin\) \[Ao Vivo\]](https://open.spotify.com/album/1g8LUsLRA4s0p41Sfm1oBD) | 2:55 |
 | 39 | [Ampliando a Visão](https://open.spotify.com/track/6IGrmySfg2tZ6BG3I1cN6F) | [Brandão85](https://open.spotify.com/artist/2Q0UzuBjfHcWZviyzevjCY) | [Ampliando a Visão](https://open.spotify.com/album/1aG1R2ksgJaszj0Ww83k2l) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [minha cabeça é meu pior inimigo](https://open.spotify.com/track/6pe4cViwV3qYFAymTdZvBr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [minha cabeça é meu pior inimigo](https://open.spotify.com/album/1M4GC1izcCzRJT6OL6JyIV) | 3:08 |
 | 99 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
 
-Snapshot ID: `MCxlNDlhZGE4ZDgxZmZhZjVlMjk5MDFjODk4ZDVjNWIzM2MwMjg4Yzhl`
+Snapshot ID: `MCxlNzQ3ZmJiNThhYzcxNGE0ZmZiYjE5NjVlMWE1YWNlYTdjZjYzZDMw`

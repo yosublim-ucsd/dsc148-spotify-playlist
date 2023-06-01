@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Mau P
 
-1,089 songs - 2 day 15 hr 42 min
+1,090 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,12 +344,13 @@
 | [Gelato Dream](https://open.spotify.com/track/6T37xNJpgshMDpdrigh8eK) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Gelato Dream](https://open.spotify.com/album/4ORtIEkrRwL36U3dUB8GVj) | 4:58 | 2022-12-28 | 2023-01-06 |
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-06-17 | 2022-09-10 |
 | [Get Busy](https://open.spotify.com/track/2ueJxqeHLLpsfJr5yv9buB) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Get Busy](https://open.spotify.com/album/4MbsXUNsV2RFv0WkssjhIO) | 2:47 | 2023-04-21 |  |
+| [Get Down](https://open.spotify.com/track/7MXy1r5LU9S2KkNyeqVITj) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Get Down](https://open.spotify.com/album/3Xgos48pchxDr8bgrUCl6z) | 2:59 | 2023-05-26 |  |
 | [Get Down](https://open.spotify.com/track/228gxHWEjaZGS9OXOeINmr) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Get Down](https://open.spotify.com/album/2QJXVB6YAdrQxz4nsOol67) | 2:49 | 2022-06-24 | 2022-09-06 |
 | [Get Down](https://open.spotify.com/track/45QJtYjeuFJiwvUlrSoFtN) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Get Down](https://open.spotify.com/album/2a9LoUnQzZJq2zRHSYyovd) | 3:10 | 2021-11-26 | 2022-01-06 |
 | [Get Down](https://open.spotify.com/track/325P6RTcKaZ52yjr2zUSCH) | [Healy](https://open.spotify.com/artist/1qduYDRJMSnCuIlJEoPOuF), [Gouldson](https://open.spotify.com/artist/5WyDqoLe8cPBcyax1nh6cJ) | [Get Down](https://open.spotify.com/album/091KAYPBm3LpuKnfgTIEad) | 5:37 | 2021-11-26 | 2022-01-06 |
 | [Get Down Low \(Dip\)](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low \(Dip\)](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 | 2022-06-10 | 2022-09-10 |
 | [Get High](https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Givin It Bifters](https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN) | 4:00 | 2022-03-11 | 2022-06-04 |
-| [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 |  |
+| [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-06-01 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 |  |
 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 | 2022-05-06 | 2022-06-04 |
 | [Gimme More](https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl) | [Jaksan](https://open.spotify.com/artist/62kJlPY22K322WwqspIIec) | [Gimme More](https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97) | 3:35 | 2022-04-22 | 2022-07-09 |

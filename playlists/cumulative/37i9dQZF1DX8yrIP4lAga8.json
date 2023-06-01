@@ -552,7 +552,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 169901,
       "name": "Closer (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d"
@@ -702,6 +702,28 @@
       "duration_ms": 205161,
       "name": "Don't Give Up - Radio Edit",
       "url": "https://open.spotify.com/track/1YNlViGi3aLIPtABK0kzEd"
+    },
+    {
+      "album": {
+        "name": "Don't Go (Gerd Janson Re-Work - Shorter Edit)",
+        "url": "https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0"
+      },
+      "artists": [
+        {
+          "name": "Julie McDermott",
+          "url": "https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146190,
+      "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
+      "url": "https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU"
     },
     {
       "album": {

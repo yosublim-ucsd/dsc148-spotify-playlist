@@ -1,28 +1,52 @@
 {
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Rory Fresco",
-  "num_followers": 209491,
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: That Mexican OT",
+  "num_followers": 209722,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjkyY2Q0Y2U5OWQxNWY2MGYxY2M2YTAwNzY4YWRhZDc5YjNkOGEy",
+  "snapshot_id": "MCwzMDMzNDE0NTNmZjAzYWYxZmEyMDIxMmRlMjUwZjQ5YTk1NTMxYTYz",
   "tracks": [
     {
-      "added_at": "2023-05-24 16:00:00",
+      "added_at": "2023-05-31 13:09:44",
       "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q"
+        "name": "Johnny Dang (with Paul Wall & DRODi)",
+        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
       "artists": [
         {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
         }
       ],
-      "duration_ms": 141888,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "added_at": "2023-05-31 13:09:44",
+      "album": {
+        "name": "Edna (Capes)",
+        "url": "https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "duration_ms": 192364,
+      "name": "Edna (Capes)",
+      "url": "https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb"
     },
     {
       "added_at": "2023-05-25 04:45:39",
@@ -43,6 +67,106 @@
       "duration_ms": 185177,
       "name": "Stiffly",
       "url": "https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll"
+    },
+    {
+      "added_at": "2023-04-19 18:25:52",
+      "album": {
+        "name": "Trimmer",
+        "url": "https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trimmer",
+      "url": "https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6"
+    },
+    {
+      "added_at": "2023-04-26 16:00:00",
+      "album": {
+        "name": "First Day In (Cheatcode)",
+        "url": "https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l"
+      },
+      "artists": [
+        {
+          "name": "PM FRVR",
+          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
+        }
+      ],
+      "duration_ms": 127638,
+      "name": "First Day In (Cheatcode)",
+      "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
+    },
+    {
+      "added_at": "2023-05-17 16:00:00",
+      "album": {
+        "name": "The Last Dance",
+        "url": "https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "duration_ms": 189496,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
+    },
+    {
+      "added_at": "2023-05-24 16:00:00",
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 141888,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
+    },
+    {
+      "added_at": "2023-05-17 16:00:00",
+      "album": {
+        "name": "Feel Myself",
+        "url": "https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "duration_ms": 124712,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN"
+    },
+    {
+      "added_at": "2023-05-31 13:09:44",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        },
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "S3 X",
+      "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
     },
     {
       "added_at": "2023-05-24 16:00:00",
@@ -79,34 +203,34 @@
     {
       "added_at": "2023-05-17 16:00:00",
       "album": {
-        "name": "Feel Myself",
-        "url": "https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f"
+        "name": "Makin It Sound",
+        "url": "https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj"
       },
       "artists": [
         {
-          "name": "C Stunna",
-          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
         }
       ],
-      "duration_ms": 124712,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN"
+      "duration_ms": 137142,
+      "name": "Makin It Sound",
+      "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
     },
     {
-      "added_at": "2023-04-19 18:25:52",
+      "added_at": "2023-05-31 13:09:44",
       "album": {
-        "name": "Trimmer",
-        "url": "https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE"
+        "name": "Choosin Me",
+        "url": "https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb"
       },
       "artists": [
         {
-          "name": "Trigga500k",
-          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Trimmer",
-      "url": "https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6"
+      "duration_ms": 135322,
+      "name": "Choosin Me",
+      "url": "https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN"
     },
     {
       "added_at": "2023-05-03 16:00:00",
@@ -197,22 +321,6 @@
       "url": "https://open.spotify.com/track/5CsFSfyl4ujmTKi8s1mHeg"
     },
     {
-      "added_at": "2023-05-17 16:00:00",
-      "album": {
-        "name": "Makin It Sound",
-        "url": "https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj"
-      },
-      "artists": [
-        {
-          "name": "Da Crook",
-          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Makin It Sound",
-      "url": "https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ"
-    },
-    {
       "added_at": "2023-05-24 16:00:00",
       "album": {
         "name": "Break Up & Make Up",
@@ -227,22 +335,6 @@
       "duration_ms": 201000,
       "name": "Break Up & Make Up",
       "url": "https://open.spotify.com/track/04mxdKpxC97zIEzcaTVChF"
-    },
-    {
-      "added_at": "2023-05-17 16:00:00",
-      "album": {
-        "name": "The Last Dance",
-        "url": "https://open.spotify.com/album/66U307HBY3iMZk6afuh0Rr"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        }
-      ],
-      "duration_ms": 189496,
-      "name": "The Last Dance",
-      "url": "https://open.spotify.com/track/6pZMDwkmvrqt2ubqpLGRQy"
     },
     {
       "added_at": "2023-05-24 16:00:00",
@@ -307,22 +399,6 @@
       "duration_ms": 157492,
       "name": "BENIHANAS",
       "url": "https://open.spotify.com/track/0zHIzLEmeCCKUHyoSp3FiP"
-    },
-    {
-      "added_at": "2023-04-26 16:00:00",
-      "album": {
-        "name": "First Day In (Cheatcode)",
-        "url": "https://open.spotify.com/album/0i8FWTLpzeKv0dH9v5T11l"
-      },
-      "artists": [
-        {
-          "name": "PM FRVR",
-          "url": "https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X"
-        }
-      ],
-      "duration_ms": 127638,
-      "name": "First Day In (Cheatcode)",
-      "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
     },
     {
       "added_at": "2023-05-17 16:00:00",
@@ -531,22 +607,6 @@
       "duration_ms": 182305,
       "name": "No Lies",
       "url": "https://open.spotify.com/track/0t58xiARE4ZH1AmuWN55Lt"
-    },
-    {
-      "added_at": "2023-05-10 16:00:00",
-      "album": {
-        "name": "FIESTA",
-        "url": "https://open.spotify.com/album/6m4f5lFKJfbl5sAo2t3b6V"
-      },
-      "artists": [
-        {
-          "name": "Joey Trap",
-          "url": "https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce"
-        }
-      ],
-      "duration_ms": 112920,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/3etouJKdaLH1CcXKiKo6zx"
     },
     {
       "added_at": "2023-05-03 16:00:00",
@@ -1015,22 +1075,6 @@
     {
       "added_at": "2023-04-12 16:34:45",
       "album": {
-        "name": "5 Star Chef",
-        "url": "https://open.spotify.com/album/7jZSAG17zfdM5jYcsGFvNl"
-      },
-      "artists": [
-        {
-          "name": "Anset",
-          "url": "https://open.spotify.com/artist/69SamfwiXZrdbWRb9G7tEQ"
-        }
-      ],
-      "duration_ms": 104554,
-      "name": "5 Star Chef",
-      "url": "https://open.spotify.com/track/2wlYWh4BD7dcnvtD1bS4rz"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
         "name": "heads up!",
         "url": "https://open.spotify.com/album/1sJ3tAZrRELONFz8XG4P7b"
       },
@@ -1119,22 +1163,6 @@
     {
       "added_at": "2023-04-12 16:34:45",
       "album": {
-        "name": "Knocked Up",
-        "url": "https://open.spotify.com/album/4z6R7wci0eXJZn7vQMxDBV"
-      },
-      "artists": [
-        {
-          "name": "Rory Fresco",
-          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Knocked Up",
-      "url": "https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
         "name": "Gave you love",
         "url": "https://open.spotify.com/album/6GxPsRmryUvC7CRN8J1OVC"
       },
@@ -1147,22 +1175,6 @@
       "duration_ms": 157358,
       "name": "Gave you love",
       "url": "https://open.spotify.com/track/6Z0qDARZTHdj2YkauHJDpw"
-    },
-    {
-      "added_at": "2023-04-12 16:34:45",
-      "album": {
-        "name": "Papercuts",
-        "url": "https://open.spotify.com/album/4PzEyQ4Zh0INv12yKQ4aFC"
-      },
-      "artists": [
-        {
-          "name": "White $osa",
-          "url": "https://open.spotify.com/artist/1GYdtgkKzP62BRZsCvpkog"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "Papercuts",
-      "url": "https://open.spotify.com/track/6AuqHJkNesmHfHK7AKxhR5"
     },
     {
       "added_at": "2023-04-12 16:34:45",

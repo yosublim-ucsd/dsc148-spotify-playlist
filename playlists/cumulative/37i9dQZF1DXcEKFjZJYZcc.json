@@ -380,10 +380,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 188561,
       "name": "Blue Dream (Softly)",
       "url": "https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl"
+    },
+    {
+      "album": {
+        "name": "Blue Dream (Softly)",
+        "url": "https://open.spotify.com/album/2EpDD5MHbJxuTBTwt5JagM"
+      },
+      "artists": [
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188561,
+      "name": "Blue Dream (Softly)",
+      "url": "https://open.spotify.com/track/5JUb9uhLMytRWi18UvvZAS"
     },
     {
       "album": {

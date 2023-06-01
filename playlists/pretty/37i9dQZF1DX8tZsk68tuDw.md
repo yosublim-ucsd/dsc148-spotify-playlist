@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ACRAZE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,035,127 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,269 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 48 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 |
 | 49 | [Feels Like My Hands Are On Fire](https://open.spotify.com/track/4WUYv43gJtAAIaeSBml8ow) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Shield](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr) | 3:28 |
 | 50 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
-| 51 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:47 |
+| 51 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 |
 | 52 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 |
 | 53 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 |
 | 54 | [All That Matters \- ARTBAT Remix Radio Edit](https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 5:14 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 61 | [Salty](https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Salty](https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM) | 2:56 |
 | 62 | [Se Siente Bien](https://open.spotify.com/track/5zMEaRJk7o8SLyQzxOH12S) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Amor En Los Tiempos de Odio \(Deluxe\)](https://open.spotify.com/album/3SXpzwoqEhCfGG1Oug9FAY) | 2:48 |
 | 63 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 |
-| 64 | [Batonga](https://open.spotify.com/track/2HErbtwi53vJz73ZvdSbg3) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Batonga](https://open.spotify.com/album/5hGL1MpYx3ZlZlABNvd2Pt) | 3:35 |
+| 64 | [Batonga](https://open.spotify.com/track/2HErbtwi53vJz73ZvdSbg3) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud), [Don Bello Ni](https://open.spotify.com/artist/2E3N0Qfv4EBNlgL1tJwBDT) | [Batonga](https://open.spotify.com/album/5hGL1MpYx3ZlZlABNvd2Pt) | 3:35 |
 | 65 | [Feeling \(feat\. Paul Brenning\)](https://open.spotify.com/track/0mxonM6UJRZW5415NE0YJp) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Just A Feeling \(feat\. Paul Brenning\)](https://open.spotify.com/album/0cMKVn1rTn8f7gy9uhLPog) | 3:36 |
 | 66 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 |
 | 67 | [NO8DO](https://open.spotify.com/track/30m1iFw7BSOMkVqpMrZxSJ) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Fernanda Ouro](https://open.spotify.com/artist/226GKyqOgh2SXoJ8lHaEBe) | [Sevilla](https://open.spotify.com/album/4F2X3Z2cnNKbZPylb6ZhdC) | 4:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 89 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 |
 | 90 | [Sandman](https://open.spotify.com/track/4nGYaSyae3uuPsriAN9vEu) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Sandman](https://open.spotify.com/album/5ME1bejRuqVgtKgeWt51Rl) | 3:37 |
 
-Snapshot ID: `MCw1MmUxMjE0ODNmMDc4ZmVjYTk1NjYwNWE2YjA0YWUyZmJhNDViNTJj`
+Snapshot ID: `MCxmMmM4MjJkNjE0ZThjMTk1NGQ4MjllMjNmOWYxNmEwZDA2ODM3MDM2`

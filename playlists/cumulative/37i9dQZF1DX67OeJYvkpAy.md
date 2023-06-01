@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-173 songs - 8 hr 22 min
+175 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [DSLM?](https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [DSLM?](https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP) | 3:09 | 2022-05-24 |  |
 | [Elevate](https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Elevate](https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr) | 2:25 | 2022-04-05 |  |
 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 | 2022-04-05 |  |
-| [Ether](https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Ether](https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm) | 3:05 | 2022-04-05 |  |
+| [Ether](https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Ether](https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm) | 3:05 | 2022-04-05 | 2023-06-01 |
+| [Ether](https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Ether](https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9) | 3:05 | 2022-08-02 |  |
 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 | 2022-04-05 | 2022-11-26 |
 | [Frozen Gold](https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3) | 2:18 | 2022-08-02 |  |
 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/32aiwuXt7o4oAk6jGG6S3h) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [A R&B Halloween](https://open.spotify.com/album/75Ll9oQcvPx7aMwNK5CMWe) | 4:05 | 2022-08-02 | 2022-11-13 |
@@ -153,11 +154,12 @@
 | [Take The Risk](https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Take The Risk](https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R) | 3:20 | 2022-08-02 | 2023-03-03 |
 | [take the risk](https://open.spotify.com/track/6A4zgs4IsEi3iglTBF2RUL) | [bxnz](https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp) | [take the risk](https://open.spotify.com/album/5vqqu6b8M6WRj6I8jhJgAZ) | 3:20 | 2022-08-02 | 2022-11-28 |
 | [Take The Risk](https://open.spotify.com/track/0awuE0LPZZUnlNyfS3KH0B) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/3GtwsJ6W6K5YhhmhSFvjET) | 3:20 | 2022-08-02 | 2022-12-22 |
-| [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 |  |
+| [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 | 2023-06-01 |
 | [Take The Risk](https://open.spotify.com/track/6PrlW3ixvblqC6gLCDMAOH) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/3xmYrVJwdA922UfaEbiWGW) | 3:20 | 2022-08-02 | 2023-01-06 |
 | [Take The Risk](https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj), [King K bËAtZ](https://open.spotify.com/artist/6a8kfrURNaarwQrjgtdJqr) | [Take The Risk](https://open.spotify.com/album/6bf4swql2jvA6zq1jvND9H) | 3:20 | 2022-08-02 | 2022-10-21 |
 | [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 | 2022-08-02 | 2023-05-23 |
 | [Take The Risk](https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv) | 3:20 | 2022-08-02 | 2023-04-27 |
+| [Take The Risk](https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Take The Risk](https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x) | 3:20 | 2022-08-02 |  |
 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 |  |
 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 | 2022-04-05 | 2022-11-26 |
 | [The Talking Stage Game](https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/390DNattBVGkTxvaTVAW6o) | 3:15 | 2022-08-02 |  |

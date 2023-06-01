@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
-  "num_followers": 703695,
+  "num_followers": 703697,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFiZDgwNzk2Yjk0NzNhMTMwOWVkN2IzYjkxMGZlMDZkMmNmZTU2",
+  "snapshot_id": "MCw1NjQ4OGNhN2VkZDQ2MTNjMzUwNTkzMjk1YThjZGY5YzVkZDFhMTZh",
   "tracks": [
     {
       "added_at": "2023-05-26 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-26 03:01:00",
       "album": {
-        "name": "Heavy Is The Crown",
-        "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 234687,
-      "name": "Heavy Is The Crown",
-      "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
-    },
-    {
-      "added_at": "2023-05-26 03:01:00",
-      "album": {
         "name": "Dad Vibes",
         "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 132206,
       "name": "Dad Vibes",
       "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+    },
+    {
+      "added_at": "2023-05-26 03:01:00",
+      "album": {
+        "name": "Heavy Is The Crown",
+        "url": "https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 234687,
+      "name": "Heavy Is The Crown",
+      "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
     },
     {
       "added_at": "2023-05-26 03:01:00",

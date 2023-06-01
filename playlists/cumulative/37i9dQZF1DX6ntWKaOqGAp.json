@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Isshoukonomama",
+        "url": "https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283111,
+      "name": "Isshoukonomama",
+      "url": "https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU"
       },
@@ -1926,6 +1944,24 @@
       "duration_ms": 189670,
       "name": "Kagayaki",
       "url": "https://open.spotify.com/track/6HTszMxB3dpiwaAR5WXAGG"
+    },
+    {
+      "album": {
+        "name": "kajitsukyoso",
+        "url": "https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257409,
+      "name": "kajitsukyoso",
+      "url": "https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I"
     },
     {
       "album": {
@@ -2686,10 +2722,28 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 185826,
       "name": "numb brain",
       "url": "https://open.spotify.com/track/4uJqW72XHX5eIiugU0z60D"
+    },
+    {
+      "album": {
+        "name": "Make My Name",
+        "url": "https://open.spotify.com/album/4xz847XImjpQFUFhp0vmdj"
+      },
+      "artists": [
+        {
+          "name": "SHIFT_CONTROL",
+          "url": "https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185826,
+      "name": "Numb Brain",
+      "url": "https://open.spotify.com/track/5Livz4o0bMHptCvP8vrqIy"
     },
     {
       "album": {
@@ -6504,7 +6558,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 283111,
       "name": "\u4e00\u751f\u3053\u306e\u307e\u307e",
       "url": "https://open.spotify.com/track/1q4zRDIKKchOp9fijZf7Px"
@@ -6894,7 +6948,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 257409,
       "name": "\u590f\u65e5\u72c2\u60f3",
       "url": "https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8"

@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 69503,
+  "num_followers": 69510,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTY2YzlhNGUzNzU1Y2QwMTFjMDBlMGJmYmYwODFmZTBlYWI5NGU3",
+  "snapshot_id": "MCxiY2NhMDcxM2NkZmI3YmYzODVhMDU2MDk0ZmE5YzQwYjFiMTJiNTg1",
   "tracks": [
     {
       "added_at": "2023-05-23 13:45:39",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 255720,
       "name": "If Ever You're in My Arms Again",
       "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "One Heartbeat",
         "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Think (About It)",
-        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
       "artists": [
         {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1567,6 +1551,22 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 187333,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Some Type of Love",
         "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 185608,
       "name": "Some Type of Love",
       "url": "https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 148706,
       "name": "Baby, I'm Yours",
       "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "One Heartbeat",
         "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 247000,
       "name": "One Heartbeat",
       "url": "https://open.spotify.com/track/74mogflQPJsYtZWZQ9mFmM"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3035,22 +3035,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Only For The Lonely",
-        "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "I Have Learned To Do Without You",
-      "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Stand By Your Man",
         "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
@@ -3067,18 +3051,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Method To The Madness",
-        "url": "https://open.spotify.com/album/56VMIvmsPptQmzkgB4gvg5"
+        "name": "Only For The Lonely",
+        "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
       },
       "artists": [
         {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Take a Vacation from Life (And Visit Your Dreams)",
-      "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
+      "duration_ms": 254800,
+      "name": "I Have Learned To Do Without You",
+      "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3095,6 +3079,22 @@
       "duration_ms": 222533,
       "name": "A Nickel And A Nail",
       "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Method To The Madness",
+        "url": "https://open.spotify.com/album/56VMIvmsPptQmzkgB4gvg5"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Take a Vacation from Life (And Visit Your Dreams)",
+      "url": "https://open.spotify.com/track/68KRAOVAq0I84clxvkEFbf"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3131,6 +3131,26 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "More: Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Glenn Osser",
+          "url": "https://open.spotify.com/artist/5IzlXnIwa5PWqv5Eh4vJnj"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Small World",
+      "url": "https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "The Commodores: The Definitive Collection",
         "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
       },
@@ -3159,26 +3179,6 @@
       "duration_ms": 170146,
       "name": "To Be Young, Gifted and Black - Single Version",
       "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "More: Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Glenn Osser",
-          "url": "https://open.spotify.com/artist/5IzlXnIwa5PWqv5Eh4vJnj"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Small World",
-      "url": "https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Can't Be Satisfied - The XL and Sounds of Memphis Story Vol. 1",
         "url": "https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 154040,
       "name": "Still a Part of Me",
       "url": "https://open.spotify.com/track/3nNLy4pf06yCXoJUITMJDS"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3343,22 +3343,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "A Brand New Me",
-        "url": "https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149706,
-      "name": "Brand New Me",
-      "url": "https://open.spotify.com/track/0w3AAvT5RNrwFCx9mItvIW"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Smooth Soul",
         "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
@@ -3371,6 +3355,22 @@
       "duration_ms": 284040,
       "name": "Made For Each Other",
       "url": "https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "A Brand New Me",
+        "url": "https://open.spotify.com/album/0pm72PHGq5z0yK60jXr36t"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149706,
+      "name": "Brand New Me",
+      "url": "https://open.spotify.com/track/0w3AAvT5RNrwFCx9mItvIW"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3407,22 +3407,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "70s Classic Love Songs",
-        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Pure Love (Single Version)",
-      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "25 Best Of...",
         "url": "https://open.spotify.com/album/7eurwOvLFAKYcWlzlGTofF"
       },
@@ -3439,18 +3423,18 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+        "name": "70s Classic Love Songs",
+        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
       },
       "artists": [
         {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
         }
       ],
-      "duration_ms": 274920,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
+      "duration_ms": 155506,
+      "name": "Pure Love (Single Version)",
+      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3467,6 +3451,22 @@
       "duration_ms": 285666,
       "name": "After You Love Me, Why Do You Leave Me",
       "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
+      },
+      "artists": [
+        {
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/7MS752SypWNJNeDHrhRHjK"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3503,22 +3503,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Sweet Charlie Babe",
-        "url": "https://open.spotify.com/album/0Oc9or9JzNTUlB3sGezwbZ"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0tJeElFFnWkCqG3bihF2Vz"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "The Natural Four",
         "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
       },
@@ -3551,6 +3535,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "Sweet Charlie Babe",
+        "url": "https://open.spotify.com/album/0Oc9or9JzNTUlB3sGezwbZ"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0tJeElFFnWkCqG3bihF2Vz"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "Roulette Disco: Original Club Classics From The Dawn Of The Disco Era",
         "url": "https://open.spotify.com/album/6uuNeT2pIWGWrdWP6Q8GfM"
       },
@@ -3567,22 +3567,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Love And Happiness",
-        "url": "https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "You Ought To Be With Me",
-      "url": "https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Pity for the Lonely",
         "url": "https://open.spotify.com/album/5nrPurMxX7n7lpky0EFo6C"
       },
@@ -3595,6 +3579,22 @@
       "duration_ms": 242800,
       "name": "To The Other Man",
       "url": "https://open.spotify.com/track/1I3xgRAsHGDMaRHsawyN45"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Love And Happiness",
+        "url": "https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "You Ought To Be With Me",
+      "url": "https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL"
     },
     {
       "added_at": "2023-05-23 13:45:39",

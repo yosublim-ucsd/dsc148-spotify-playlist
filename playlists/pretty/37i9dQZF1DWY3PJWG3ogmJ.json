@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 571070,
+  "num_followers": 571379,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzk2Y2E0MzYyMjNiNjc2MGFhMTRhMjgwMDUzNTAzMGQ5Nzg0OTk3",
+  "snapshot_id": "MCw3NjEyOGJkOGZjNmFkYWQ4MmU2ODA4MzlhZDk5NThjNDkzZjdiNTgx",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Killing Season",
         "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 212360,
       "name": "Killing Season",
       "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Death Perception",
-        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "Death Perception",
-      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Opening Fire: 2008-2014",
         "url": "https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Death Perception",
+        "url": "https://open.spotify.com/album/7CpkZr08eLIFGLwlMrg2ev"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "Death Perception",
+      "url": "https://open.spotify.com/track/7F9mf1qxNAU9T886jeUoUA"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "GRAVESIDE CONFESSIONS",
         "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 261252,
       "name": "SLIT WRIST SAVIOR - Graveside Edition",
       "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
-        "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        },
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
-      "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -891,6 +871,26 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
+        "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        },
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 194307,
+      "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
+      "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Bloodlust",
         "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 209746,
       "name": "Black Hoodie",
       "url": "https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/3T3HQbUNL5abOheRDENfOV"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In The Court Of The Dragon",
-        "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 309029,
-      "name": "In The Court Of The Dragon",
-      "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 191746,
       "name": "Nekketsu",
       "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "In The Court Of The Dragon",
+        "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 309029,
+      "name": "In The Court Of The Dragon",
+      "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q"
+        "name": "Welcome to the West Coast II",
+        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
       },
       "artists": [
         {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
         }
       ],
-      "duration_ms": 187142,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/3T3HQbUNL5abOheRDENfOV"
+      "duration_ms": 197314,
+      "name": "Trial by Fire",
+      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Welcome to the West Coast II",
-        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
       "artists": [
         {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
         }
       ],
-      "duration_ms": 197314,
-      "name": "Trial by Fire",
-      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
+      "duration_ms": 192436,
+      "name": "Become a Machine",
+      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
+        "name": "The Level Above Human",
+        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
       "artists": [
         {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
         }
       ],
-      "duration_ms": 192436,
-      "name": "Become a Machine",
-      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
+      "duration_ms": 258245,
+      "name": "Invidious",
+      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1215,22 +1231,6 @@
       "duration_ms": 194208,
       "name": "Behind the Crowd",
       "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Level Above Human",
-        "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 258245,
-      "name": "Invidious",
-      "url": "https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "A New Responsibility",
-        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
+        "name": "With Devils Amongst Us All",
+        "url": "https://open.spotify.com/album/4GqDYU0PYzdRm09Ndq44ZG"
       },
       "artists": [
         {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+          "name": "Walls of Jericho",
+          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
         }
       ],
-      "duration_ms": 186200,
-      "name": "A New Responsibility",
-      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
+      "duration_ms": 228720,
+      "name": "A Trigger Full Of Promises",
+      "url": "https://open.spotify.com/track/0ysRXybOUX5lvpU4RF8fHs"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "With Devils Amongst Us All",
-        "url": "https://open.spotify.com/album/4GqDYU0PYzdRm09Ndq44ZG"
+        "name": "A New Responsibility",
+        "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
       },
       "artists": [
         {
-          "name": "Walls of Jericho",
-          "url": "https://open.spotify.com/artist/60cGRl68qyCBMqZi3tiHEU"
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
         }
       ],
-      "duration_ms": 228720,
-      "name": "A Trigger Full Of Promises",
-      "url": "https://open.spotify.com/track/0ysRXybOUX5lvpU4RF8fHs"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
+      "duration_ms": 186200,
+      "name": "A New Responsibility",
+      "url": "https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1359,6 +1343,22 @@
       "duration_ms": 235266,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Life Is Pain",
-        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 174012,
-      "name": "Life Is Pain",
-      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Strength in Numbers",
         "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Life Is Pain",
+        "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 174012,
+      "name": "Life Is Pain",
+      "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "The Immortal Wars",
+        "url": "https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV"
+      },
+      "artists": [
+        {
+          "name": "Ex Deo",
+          "url": "https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA"
+        }
+      ],
+      "duration_ms": 290425,
+      "name": "The Rise of Hannibal",
+      "url": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "GH\u00d8STKID",
         "url": "https://open.spotify.com/album/3FcNEcNgxEuBCXv8PbH3wT"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 227000,
       "name": "SUPERN\u00d8VA (feat. Marcus Bischoff of Heaven Shall Burn)",
       "url": "https://open.spotify.com/track/6yipS5nDSFvW73cxDOimST"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Immortal Wars",
-        "url": "https://open.spotify.com/album/6y44nJTwRz1FbgZRcPodFV"
-      },
-      "artists": [
-        {
-          "name": "Ex Deo",
-          "url": "https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA"
-        }
-      ],
-      "duration_ms": 290425,
-      "name": "The Rise of Hannibal",
-      "url": "https://open.spotify.com/track/2FKsHrXl6gVnbN9oVEL1M2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Habitual Decline",
-        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "Habitual Decline",
-      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Habitual Decline",
+        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "Habitual Decline",
+      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Sentenced to Life",
         "url": "https://open.spotify.com/album/4xOhXPxrcjesTwl6dhLZUb"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 171813,
       "name": "Feast of the Damned",
       "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Realigion",
+        "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
+      },
+      "artists": [
+        {
+          "name": "Nasty",
+          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "At War with Love",
+      "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1623,22 +1639,6 @@
       "duration_ms": 133013,
       "name": "Born Strong",
       "url": "https://open.spotify.com/track/16wLPRzPx8ONlpcWXhfaDa"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Realigion",
-        "url": "https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R"
-      },
-      "artists": [
-        {
-          "name": "Nasty",
-          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "At War with Love",
-      "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hammer of the Witch (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
-      },
-      "artists": [
-        {
-          "name": "Ringworm",
-          "url": "https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV"
-        }
-      ],
-      "duration_ms": 202215,
-      "name": "Hammer of the Witch",
-      "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The American Dream",
         "url": "https://open.spotify.com/album/0rtM1oLaYxWaDw3UMVaiL4"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 196546,
       "name": "The American Dream",
       "url": "https://open.spotify.com/track/0cJBr06QAVjv65hwrK90AU"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hammer of the Witch (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2zBcPs4fZxUW3tNywX1FNU"
+      },
+      "artists": [
+        {
+          "name": "Ringworm",
+          "url": "https://open.spotify.com/artist/1mVvXNKbCaUapInbgHCDRV"
+        }
+      ],
+      "duration_ms": 202215,
+      "name": "Hammer of the Witch",
+      "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "No Rest No Peace",
-        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
+        "name": "Eternal Forward Motion",
+        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
       },
       "artists": [
         {
-          "name": "Katalepsy",
-          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
         }
       ],
-      "duration_ms": 266518,
-      "name": "No Rest No Peace",
-      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
+      "duration_ms": 229373,
+      "name": "Eternal Forward Motion",
+      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1863,6 +1863,22 @@
       "duration_ms": 229808,
       "name": "Verminous",
       "url": "https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "No Rest No Peace",
+        "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
+      },
+      "artists": [
+        {
+          "name": "Katalepsy",
+          "url": "https://open.spotify.com/artist/5YhUdrpk2poH0o5B8DOa8w"
+        }
+      ],
+      "duration_ms": 266518,
+      "name": "No Rest No Peace",
+      "url": "https://open.spotify.com/track/5z2l7csO5pRiFd95W8PiRI"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1911,22 +1927,6 @@
       "duration_ms": 227398,
       "name": "One Day Closer to the End of the World",
       "url": "https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Eternal Forward Motion",
-        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Eternal Forward Motion",
-      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
     },
     {
       "added_at": "2023-01-18 15:54:17",

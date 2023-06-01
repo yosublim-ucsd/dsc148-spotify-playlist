@@ -2104,10 +2104,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
+    },
+    {
+      "album": {
+        "name": "White Buffalo",
+        "url": "https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "More Than Me",
+      "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
     },
     {
       "album": {

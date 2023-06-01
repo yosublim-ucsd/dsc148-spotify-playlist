@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: Santa Fe Klan & Dj Tao.",
-  "num_followers": 543710,
+  "num_followers": 543908,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGU1OTEzYWE5MjM1ZDc4ZTg2YWNkODQ1OTVhYjFkNDk0ZTkxMjQ2",
+  "snapshot_id": "MCxmNTJhN2NlMDcxNDkzZGJiNjRmMGIxMzQyZmEyZWUxZWU0NDQ4Y2Q5",
   "tracks": [
     {
       "added_at": "2023-05-29 16:04:37",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 164323,
       "name": "Tranka",
       "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
-        "name": "TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -639,6 +639,26 @@
       "duration_ms": 208619,
       "name": "Me Muero de Amor - En Vivo",
       "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -727,30 +747,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Cumbia del Recuerdo",
-        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 177340,
-      "name": "Cumbia del Recuerdo",
-      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
       },
@@ -779,6 +775,30 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "Cumbia del Recuerdo",
+        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 177340,
+      "name": "Cumbia del Recuerdo",
+      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -839,22 +859,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+      "duration_ms": 243957,
+      "name": "De Regreso Al Penal",
+      "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -879,22 +895,6 @@
       "duration_ms": 177950,
       "name": "Pinta",
       "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 243957,
-      "name": "De Regreso Al Penal",
-      "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
+        "name": "Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
+      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
         "name": "Vicera, las Zapas",
         "url": "https://open.spotify.com/album/7jYECg5W7BIF5sMksrqxoi"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 136808,
       "name": "Vicera, las Zapas",
       "url": "https://open.spotify.com/track/2i0SfKksuxxJkDehpyzxuu"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
-        "name": "Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
-      "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2023,22 +2023,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Sin Ayuda",
-        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
+        "name": "Hdp",
+        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 229500,
-      "name": "Sin Ayuda",
-      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+      "duration_ms": 185603,
+      "name": "Hdp",
+      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2059,18 +2055,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Hdp",
-        "url": "https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp"
+        "name": "Sin Ayuda",
+        "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 185603,
-      "name": "Hdp",
-      "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
+      "duration_ms": 229500,
+      "name": "Sin Ayuda",
+      "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Yo Fumo",
-        "url": "https://open.spotify.com/album/33FknRCSpak207j4cmiApB"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 190849,
-      "name": "Yo Fumo",
-      "url": "https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "Culo Pa 2 Tangas",
         "url": "https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 182000,
       "name": "Culo Pa 2 Tangas",
       "url": "https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "Yo Fumo",
+        "url": "https://open.spotify.com/album/33FknRCSpak207j4cmiApB"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 190849,
+      "name": "Yo Fumo",
+      "url": "https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2263,18 +2263,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Ojos Color Fernet",
-        "url": "https://open.spotify.com/album/0cT0ygX5Ir9CRNSQIYH41q"
+        "name": "Pase y Vea, Ac\u00e1 Suena la Cumbia",
+        "url": "https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm"
       },
       "artists": [
         {
-          "name": "Mak Donal",
-          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
         }
       ],
-      "duration_ms": 143011,
-      "name": "Ojos Color Fernet",
-      "url": "https://open.spotify.com/track/3NCtczoyFW0qRxCXqLg7wt"
+      "duration_ms": 167026,
+      "name": "Como una Pelota",
+      "url": "https://open.spotify.com/track/0sbJx6LrsIRWpPbqfVp1vh"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2303,22 +2307,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Pase y Vea, Ac\u00e1 Suena la Cumbia",
-        "url": "https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm"
+        "name": "Ojos Color Fernet",
+        "url": "https://open.spotify.com/album/0cT0ygX5Ir9CRNSQIYH41q"
       },
       "artists": [
         {
-          "name": "El Pepo",
-          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Como una Pelota",
-      "url": "https://open.spotify.com/track/0sbJx6LrsIRWpPbqfVp1vh"
+      "duration_ms": 143011,
+      "name": "Ojos Color Fernet",
+      "url": "https://open.spotify.com/track/3NCtczoyFW0qRxCXqLg7wt"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2343,22 +2343,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "The la Planta: Rkt Session #6",
-        "url": "https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q"
+        "name": "Anoche Yo Me Fui",
+        "url": "https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn"
       },
       "artists": [
         {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 115291,
-      "name": "The la Planta: Rkt Session #6",
-      "url": "https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu"
+      "duration_ms": 182666,
+      "name": "Anoche Yo Me Fui",
+      "url": "https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E"
     }
   ],
   "unique_name": "Cumbia de Barrio",

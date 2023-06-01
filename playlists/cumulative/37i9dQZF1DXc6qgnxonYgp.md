@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Brodha V
 
-171 songs - 9 hr 58 min
+172 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Dhrogam](https://open.spotify.com/track/6TFbl8obc4PHOSVT4spvlj) | [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Dhrogam](https://open.spotify.com/album/4tvT4BIYHQDZOKZD4rrm1W) | 4:22 | 2021-12-01 | 2022-06-16 |
 | [DIARY](https://open.spotify.com/track/2JxS54zjJrd7ljmhQnPR5X) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [MJ Melodies](https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI) | [DIARY](https://open.spotify.com/album/3fVUyTQ9S54dbGLT3kWNb5) | 2:28 | 2022-09-13 |  |
 | [Don't Touch Me](https://open.spotify.com/track/4erLcheGVxTJeokOKeiImR) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Yunohoo](https://open.spotify.com/artist/79SPoI6mlBPKamBm21Q1ut) | [Don't Touch Me](https://open.spotify.com/album/5nYz61zMnv7ukmwHTYG0mn) | 4:18 | 2021-12-01 | 2023-04-29 |
-| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 |  |
+| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 | 2023-06-01 |
+| [Dope](https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ) | 2:21 | 2023-04-28 |  |
 | [Double Game](https://open.spotify.com/track/4vH5zXAxyruqjKuEgjOdKp) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Punitha Raja](https://open.spotify.com/artist/3nlRk4xC0MZJbCa30mOwlk) | [Double Game](https://open.spotify.com/album/3s0nTuZy8Wb465hfnqibpj) | 3:38 | 2021-12-01 | 2022-07-29 |
 | [Double Game](https://open.spotify.com/track/3KT5ahHesWCLbSS5HjrqF4) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Punitha Raja](https://open.spotify.com/artist/3nlRk4xC0MZJbCa30mOwlk), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Double Game](https://open.spotify.com/album/3iJE35Ui1klXznqjHC0YHw) | 3:38 | 2021-12-01 | 2023-04-07 |
 | [Echcharikkai](https://open.spotify.com/track/6TXRzVvfEzw9gQhC4NPYd8) | [Krishan Maheson](https://open.spotify.com/artist/090PjZy0HWrly2e5Tcpj8j), [Ramith](https://open.spotify.com/artist/0ADjrpuNSt5xZGvGETL6Jl), [Yuki Navaratne](https://open.spotify.com/artist/5IPUfmVKL9eyMQNXw4CU8g), [Yauwanan](https://open.spotify.com/artist/2kKwO6X6sf2RlmGVAgDsCv), [Ilangai Thamizhan](https://open.spotify.com/artist/1xUaSoAfGO8NpojwBJUl1R) | [Echcharikkai](https://open.spotify.com/album/2JkHNkdsY2ZqxF8jzZ3kGm) | 7:54 | 2021-12-01 | 2023-02-24 |

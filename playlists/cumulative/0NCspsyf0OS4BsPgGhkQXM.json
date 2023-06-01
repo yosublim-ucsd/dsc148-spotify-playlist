@@ -3725,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229028,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/7gWIMxBq6vANxJ3LgHFQQo"
       },
@@ -8436,6 +8454,28 @@
       "duration_ms": 195200,
       "name": "Lost In My Mind",
       "url": "https://open.spotify.com/track/2J6k6GnFrWm3i5rueXr1p1"
+    },
+    {
+      "album": {
+        "name": "WE ARE EX MEDIAS VOL. III",
+        "url": "https://open.spotify.com/album/4eOvhNcS8CFASLRupC6h6y"
+      },
+      "artists": [
+        {
+          "name": "Able Grey",
+          "url": "https://open.spotify.com/artist/6fkfeksXohRMypM9kdYjNb"
+        },
+        {
+          "name": "NoelleMichelle",
+          "url": "https://open.spotify.com/artist/0eKsXE7hCYMRuPThWm6YWT"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/4RWa0yikVR7JeEFhhfoq7A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-493 songs - 1 day 3 hr 39 min
+494 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,13 +80,14 @@
 | [California](https://open.spotify.com/track/3dNnwIKsoQDHYfI9wzeVnZ) | [Lees](https://open.spotify.com/artist/4xb5O8bO4LzyDuQWRE8C73) | [California](https://open.spotify.com/album/72q4C9igimOvjbCIZlCYuK) | 3:46 | 2022-03-25 | 2022-04-21 |
 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 | 2022-03-25 | 2022-07-29 |
 | [California](https://open.spotify.com/track/3IVu2L2hITRxJedtpjbeSB) | [Toby Johnson](https://open.spotify.com/artist/6aWiYkCceJsc6lorPBdvIg) | [California](https://open.spotify.com/album/1bOhzCexdGpt6MKJYm3sjw) | 3:13 | 2022-01-17 | 2022-03-28 |
-| [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2021-12-16 |  |
+| [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2021-12-16 | 2023-06-01 |
 | [call u mine](https://open.spotify.com/track/3wF0hfaYIMz9t47pGXGIXb) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [call u mine](https://open.spotify.com/album/4Ez0kzzreXaOpoWDJ6hzS4) | 3:46 | 2022-03-25 | 2022-04-21 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-02-21 |  |
 | [Calm](https://open.spotify.com/track/6Oa5Syttsum4NuqohIMYwI) | [Hemes](https://open.spotify.com/artist/5vvJXaobeLAyZvQ9jLSOzl) | [Calm](https://open.spotify.com/album/0srwXjUXSLbrUIRtCgPGYK) | 2:57 | 2022-03-25 | 2022-04-05 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-10-11 |  |
 | [Camden](https://open.spotify.com/track/4w3vwDfM8CYyXlw3TWiCDV) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Camden](https://open.spotify.com/album/1pXZRsCDKgKDlhwS2vQzA6) | 4:09 | 2022-03-25 | 2022-04-04 |
 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 | 2023-03-28 |  |
+| [Carmen](https://open.spotify.com/track/4zvJ9MBwjY4llz0W7caiN6) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Carmen](https://open.spotify.com/album/1aP9KMdu0cT2JbgAQSNwhR) | 4:48 | 2023-05-26 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-12-20 |  |
 | [Change Your Mind](https://open.spotify.com/track/6rb8nnxO6NcPM6kl9iF8Ij) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Change Your Mind](https://open.spotify.com/album/6OFGEm1peWfbGKV1IouC7W) | 4:07 | 2022-02-21 | 2022-07-29 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-29 | 2023-05-27 |

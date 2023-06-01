@@ -4,7 +4,7 @@
 
 > Revisit the retro Rahman
 
-160 songs - 14 hr 52 min
+161 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Dhaandiya Aatamum](https://open.spotify.com/track/2RYdglc0SXGveIaukv9qeN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 7:48 | 2021-10-15 | 2023-04-18 |
 | [Dhaandiya Aatamum](https://open.spotify.com/track/7dlmwVZvagQDCkSbTMwbbJ) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 7:48 | 2021-10-15 | 2023-03-11 |
 | [Eetchi Elumichi](https://open.spotify.com/track/6n6g7h9O6WXE1eWZzsYq9w) | [Manoj](https://open.spotify.com/artist/7wiEsNZNjH2ncGOG2ix7ds), [Arunthathi](https://open.spotify.com/artist/2k42s4AcjIe4hFUXowbImD) | [Taj Mahal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DcUVMWoylf2fKpVsqKWpA) | 6:45 | 2021-10-15 |  |
-| [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 | 2021-10-15 |  |
+| [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 | 2021-10-15 | 2023-06-01 |
 | [En Kadhale](https://open.spotify.com/track/1NyK6HEYrFuA6nNwEaCOai) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Noel James](https://open.spotify.com/artist/2rp7t72puDdjCwrA3WjJOk) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 6:00 | 2021-10-15 |  |
 | [En Meal Vizhundha Mazhai](https://open.spotify.com/track/4Qu1iqZ91prSvXiUmwSNLj) | [P\. Jayachandran](https://open.spotify.com/artist/2HujlDCi1ggnUSdfgipUxE), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [May Madham](https://open.spotify.com/album/7lOAMWFbgRFydIu8U4Qr0v) | 5:00 | 2021-10-15 |  |
 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 | 2021-10-15 |  |
@@ -40,6 +40,7 @@
 | [Enna Vilai](https://open.spotify.com/track/6rZSYvC4KUK1wjJWwHXsce) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/54smW0Ay2dLlme2CUivRmf) | 5:55 | 2021-10-15 | 2023-03-11 |
 | [Enna Vilai \(From "Kadhalar Dhinam"\)](https://open.spotify.com/track/1BdH25MwA6wAHPwWTPkV2H) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Super Hits of Vaali](https://open.spotify.com/album/4u91WcDqOfMTK3XrwrgaYX) | 5:51 | 2021-10-15 | 2023-05-19 |
 | [Enna Vilai \(From "Kadhalar Dhinam"\)](https://open.spotify.com/track/34VWKth8BOASPwM9SBkjvz) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Love and Love Only](https://open.spotify.com/album/5QsKznH55SB0z2j1QKurmo) | 5:51 | 2021-10-15 | 2022-11-14 |
+| [Enna Vilai Azhage](https://open.spotify.com/track/3qlawfjCvol8f2JdsdTxjX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5aQGpop0sXYi7lU6CIscIs) | 5:55 | 2021-10-15 |  |
 | [Enna Vilai Azhage](https://open.spotify.com/track/4XhGK1D4wJxDFbeJIA22DN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ddsjwKwhdsE8v60oG2Jph) | 5:55 | 2021-10-15 | 2023-05-14 |
 | [Ennavale Adi Ennavale](https://open.spotify.com/track/5KfLr5UF3iQN0ifFMQH0ol) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kaadhalan](https://open.spotify.com/album/2FLFZYTdBl3PyrsMVm1fMR) | 5:12 | 2021-10-15 |  |
 | [Ennuyire](https://open.spotify.com/track/6DNeqxj4E9rsyWC69L1OdD) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Uyire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2ko3R4trOYlVmNbxEX0s) | 7:22 | 2021-10-15 | 2022-07-29 |

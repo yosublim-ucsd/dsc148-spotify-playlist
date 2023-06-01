@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,087 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,158 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
 | 55 | [SAW](https://open.spotify.com/track/5plHlHptZcNkPaenanRdT1) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:05 |
 
-Snapshot ID: `MCwyN2IxMGVjYzI3NmViZTkwMjIyNDAzMTAzZTMzZjMwMzVhNzE5OWQ5`
+Snapshot ID: `MCxlMmYxZTVjMmQ4MGYyODE0MzM4YWVmNWY1ZDJhN2Y4OTAzZmUxNGM1`

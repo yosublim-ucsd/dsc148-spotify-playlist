@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-696 songs - 1 day 19 hr 15 min
+697 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/47ipdCuDMiIcSuV21YW6df) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/7tm4AxSXl7Eo7ERh4SEegI) | 4:02 | 2022-07-04 | 2022-07-15 |
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/5hAuHGTReizi2XhoAkQX80) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/4xUw9Wdnhin8pF6ssYnpgx) | 3:46 | 2022-08-01 | 2022-08-15 |
 | [Cheranaadu](https://open.spotify.com/track/2jAGtM4p7cAvCO98nDW43Y) | [Simon K\. King](https://open.spotify.com/artist/1IlhogUcs6tZ7vd9iOVxUF), [Ramya Nambessan](https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa) | [Paper Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT) | 3:45 | 2022-07-19 | 2022-07-27 |
+| [Chikku Bukku Chikku \(From "Erumbu"\)](https://open.spotify.com/track/6JoMbckvQjqbLN85ShNd8U) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Meghna Sumesh](https://open.spotify.com/artist/5xgrdbHQB8leR3BWiXEHZF) | [Chikku Bukku Chikku \(From "Erumbu"\)](https://open.spotify.com/album/7EOZsUUh1NwHtgaHyTd3vk) | 3:16 | 2023-05-31 |  |
 | [Chill Makkaa](https://open.spotify.com/track/4XmhJxv1NCvwwlPl9KQKm5) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Good Night \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtdCzPkXkjtTkYev6EgPQ) | 4:14 | 2023-05-16 |  |
 | [Chill Makkaa \- From "Good Night"](https://open.spotify.com/track/6S6EGzAQVjPzBsKWjHQZpL) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Chill Makkaa \(From "Good Night"\)](https://open.spotify.com/album/6vwS08oT3eq8YGroRNGPmc) | 4:14 | 2023-04-20 | 2023-04-26 |
 | [Chinna Maamiye](https://open.spotify.com/track/1oLJIeFTazH63VenzlRR2C) | [Nithi Kanagaratnam](https://open.spotify.com/artist/4EO7knyiy9ZAKJLHGVDShr), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 2:39 | 2022-07-15 | 2022-07-22 |

@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2021-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -3266,6 +3266,28 @@
       "duration_ms": 137653,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/0STkNvBDD8mFcszWjbGaPA"
+    },
+    {
+      "album": {
+        "name": "don't see this (feat. lawrence)",
+        "url": "https://open.spotify.com/album/2qMQRQSY0YDx6l66WNIAEQ"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337137,
+      "name": "don't see this (feat. lawrence)",
+      "url": "https://open.spotify.com/track/73rIC3DBCwd4T7IvEQWg73"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Vk Mac, Duzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,107 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,110 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 12 | [Dentro da GLA](https://open.spotify.com/track/2VifbPsraFPdqSZbQNUCOm) | [Jall](https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2), [Pedro Avelar](https://open.spotify.com/artist/00x3pkNVK3oes0pMRKMr9z), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Dentro da GLA](https://open.spotify.com/album/17RZw57GQNWHcI0KwmvHTP) | 2:15 |
 | 13 | [Motor](https://open.spotify.com/track/2NeCzvtURdGehud3qHsvaF) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Motor](https://open.spotify.com/album/50mSvzbbn5zyjS9bwTKU5N) | 2:38 |
 | 14 | [Hora Errada](https://open.spotify.com/track/6ubWrh2GuyKMpQrzOynRjD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:30 |
-| 15 | [Capa da Vogue](https://open.spotify.com/track/0EP4JCuMHMh7QX1ZqRlqg2) | [JackDi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Capa da Vogue](https://open.spotify.com/album/0XET7BiBsmWNEhayDhlZv9) | 2:42 |
+| 15 | [Capa da Vogue](https://open.spotify.com/track/0EP4JCuMHMh7QX1ZqRlqg2) | [Jackdi](https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Capa da Vogue](https://open.spotify.com/album/0XET7BiBsmWNEhayDhlZv9) | 2:42 |
 | 16 | [MOLEJO](https://open.spotify.com/track/1TaxXo7VCuB9rrpyW9LXt9) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [2MIL E UMA NOITES](https://open.spotify.com/album/6PT6ICyjAtEKITRY9G48n9) | 1:40 |
 | 17 | [Farfetch](https://open.spotify.com/track/2cv13qGu63883vwFsYjnII) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Clara Dalua](https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Farfetch](https://open.spotify.com/album/7CIKehHTW9GUiQh8eYYObW) | 2:26 |
 | 18 | [Segue a Paz](https://open.spotify.com/track/4diQTKvUgF0NsFCwid5crP) | [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD), [MaisALTO](https://open.spotify.com/artist/6bHV9BesPg9osPD2gKZzhB), [Dj Terrorista](https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC) | [Segue a Paz](https://open.spotify.com/album/2ISKlcpwU8oJgEPuvU8oSV) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 75 | [Marte](https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Marte](https://open.spotify.com/album/7LwqaFIUzOj366DPg81IAJ) | 3:20 |
 
-Snapshot ID: `MCw1ZDQ4OGM0YmEyMTAwZmUzOGY4NjZkMjliZDQ2OTMzNTJkYTA1NzMz`
+Snapshot ID: `MCwzMjMwMjk5NDVlNTM3OGZjMmRmMTQxNDE2ODcwOTY5MTVhMjM5Mjdi`

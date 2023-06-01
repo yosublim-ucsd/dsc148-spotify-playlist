@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shourya Malhotra , Artwork: Isu Kim
+> Emerging Indie artists on the rise, updated every Wednesday\. Cover: Aditya Rikhari , Artwork: Isu Kim
 
-786 songs - 1 day 22 hr 47 min
+787 songs - 1 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Patience](https://open.spotify.com/track/6lFkQ3opLswwvcOFqbo9s3) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Patience](https://open.spotify.com/album/6vGx08lVqzvjtL9Q07hN6N) | 3:26 | 2022-07-27 | 2022-11-10 |
 | [Pavlov's Web](https://open.spotify.com/track/3LnqEjI3ah1Zf6kkSCtgkq) | [Keshav Iyengar](https://open.spotify.com/artist/0UxdZGJNvgHfM9gFeEr99W) | [Seeing Faces](https://open.spotify.com/album/5cY4R5A00WBIz6m2bLRGi1) | 3:43 | 2022-01-19 | 2022-01-27 |
 | [Payaliya Jhankaar](https://open.spotify.com/track/0BOGGFXTMfUOfxrasa41hs) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f), [Nandini Gaikwad](https://open.spotify.com/artist/78VN7vMgRbDesA3bL7Aokq) | [Payaliya Jhankaar](https://open.spotify.com/album/3WMKCc5jI7aYnxJEgwwMkn) | 6:05 | 2022-03-16 | 2022-04-07 |
-| [Peace Lily](https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X) | 3:45 | 2023-02-22 |  |
+| [Peace Lily](https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X) | 3:45 | 2023-02-22 | 2023-06-01 |
 | [Peak of Sunshine](https://open.spotify.com/track/687zR2EMtvCYQPodugs344) | [Vernon Noronha](https://open.spotify.com/artist/6CWRHbheSR5BwvtjDP7S6T) | [Winds and the Murky Seas](https://open.spotify.com/album/70AlD14BSPK45IzXhedJ5A) | 2:51 | 2021-12-01 | 2022-01-13 |
 | [Pebbles In A River](https://open.spotify.com/track/5P2r0HMdmq7s14V0dtozhr) | [Nav's Hook](https://open.spotify.com/artist/5mzMIkIsGaD0PvwYvlHSqg) | [Pebbles In A River](https://open.spotify.com/album/6gYEeD6WdQdHYJWQGe5YhG) | 4:02 | 2022-06-22 | 2022-08-26 |
 | [Pedh Tum Darzi](https://open.spotify.com/track/5egECSQez9LtESVAe7lsE3) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Pedh Tum Darzi](https://open.spotify.com/album/64URP2n0IFONpGxyJf40kt) | 2:12 | 2022-04-27 | 2023-01-12 |
@@ -702,6 +702,7 @@
 | [Those Colourful Days](https://open.spotify.com/track/2zQUFVZsR5eyfn1MIgA1Hq) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Those Colourful Days](https://open.spotify.com/album/4sWJdwvzWHNF6LTm5d6NRs) | 3:20 | 2022-09-28 | 2022-10-18 |
 | [Thousand Miles](https://open.spotify.com/track/1VJYxSVAhJLUUj2fGegCtb) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Thousand Miles](https://open.spotify.com/album/0cZ4FY7vanJaKXCSTG5guS) | 5:43 | 2021-12-01 | 2022-01-13 |
 | [Tigress](https://open.spotify.com/track/45TcQuukZWtO7qDPJyNFHm) | [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Tigress](https://open.spotify.com/album/6Evwv4kbSbqj1Fyjr8iOhJ) | 4:02 | 2022-06-22 | 2022-09-15 |
+| [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 | 2023-05-31 |  |
 | [Tippity\-Toe](https://open.spotify.com/track/0pVWurfElBtrujP1YB5WY3) | [Shivangi Kale](https://open.spotify.com/artist/1xGv7tCiaxDMDVtj8RY2N6) | [Tippity\-Toe](https://open.spotify.com/album/2DCh4W0PUjpJ5smHIJ9A6U) | 3:29 | 2022-06-08 | 2022-06-23 |
 | [Tishnagi](https://open.spotify.com/track/3x7omcgMTFQWLh69QhTJKc) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Tishnagi](https://open.spotify.com/album/7uRaqL29m7pipZyyxMpt8I) | 4:00 | 2021-12-01 | 2022-01-13 |
 | [Titliyan](https://open.spotify.com/track/3cecLCTXZWUy7Opv8TZlrT) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4) | [Titliyan](https://open.spotify.com/album/4FbunKEZOQGi7sMufvmGSq) | 2:29 | 2022-02-23 | 2022-03-24 |

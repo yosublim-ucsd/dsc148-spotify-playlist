@@ -1438,6 +1438,24 @@
     {
       "album": {
         "name": "Sex Politik & F\u00e5glar",
+        "url": "https://open.spotify.com/album/32VvPLYDMKpWrko4eTSA9k"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Grav\u00f6l",
+      "url": "https://open.spotify.com/track/3FHqXZWwfSRnUCleK2U0eI"
+    },
+    {
+      "album": {
+        "name": "Sex Politik & F\u00e5glar",
         "url": "https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66"
       },
       "artists": [
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 121510,
       "name": "Va\u0308gra",
       "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"

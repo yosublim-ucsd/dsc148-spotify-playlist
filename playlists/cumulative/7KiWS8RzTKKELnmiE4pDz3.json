@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Realer 2",
+        "url": "https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Fresh Prince Of Utah",
+      "url": "https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh"
+    },
+    {
+      "album": {
         "name": "From A Mile",
         "url": "https://open.spotify.com/album/5nUViFewcaK9s4ej3aRU3u"
       },
@@ -3898,8 +3916,8 @@
       },
       "artists": [
         {
-          "name": "Izaya tiji",
-          "url": "https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2"
+          "name": "Izaya Tiji",
+          "url": "https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09"
         }
       ],
       "date_added": "2023-02-09",
@@ -4828,6 +4846,24 @@
       "duration_ms": 139311,
       "name": "Money Tw\u00ebrk",
       "url": "https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp"
+    },
+    {
+      "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191160,
+      "name": "Mr Gaulden",
+      "url": "https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl"
     },
     {
       "album": {
@@ -7663,6 +7699,28 @@
     },
     {
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "album": {
         "name": "##B4GC3 ##B4GC3",
         "url": "https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw"
       },
@@ -7960,6 +8018,24 @@
       "duration_ms": 155742,
       "name": "Turban",
       "url": "https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb"
+    },
+    {
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW"
+      },
+      "artists": [
+        {
+          "name": "R.T.R Jae",
+          "url": "https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109852,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ"
     },
     {
       "album": {

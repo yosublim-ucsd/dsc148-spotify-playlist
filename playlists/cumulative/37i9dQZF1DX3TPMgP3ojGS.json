@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 243209,
       "name": "Ballade Pour Elly",
       "url": "https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK"
@@ -10560,7 +10560,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 137250,
       "name": "Handmade",
       "url": "https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30"
@@ -16714,7 +16714,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 122698,
       "name": "Mist",
       "url": "https://open.spotify.com/track/1FxrWXRLIi0aUDlTQNLQZY"
@@ -17266,6 +17266,24 @@
       "duration_ms": 122766,
       "name": "Mullaghmore",
       "url": "https://open.spotify.com/track/0uFGCfcqs595Q0ptklBeUt"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
+      },
+      "artists": [
+        {
+          "name": "Ina Lawson",
+          "url": "https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133375,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
     },
     {
       "album": {

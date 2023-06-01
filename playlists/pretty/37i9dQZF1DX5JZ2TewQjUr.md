@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,461 likes - 133 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,468 likes - 133 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 56 | [First Love](https://open.spotify.com/track/71EGyGq824vWbn0YcFdPpu) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [First Love](https://open.spotify.com/album/1nNbyuAox38W1VvOKD1aP1) | 3:21 |
 | 57 | [Mornington](https://open.spotify.com/track/4bUvTxxbvzYJZZT39aDz0l) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [lifas viator](https://open.spotify.com/album/1xT4oytxLQwcNnuG6XRKJy) | 4:02 |
 | 58 | [outrun](https://open.spotify.com/track/6xYJ0n8OBSbYxJ746skLnf) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [outrun](https://open.spotify.com/album/5mLWUEjcJzpbY9TQIqvkrP) | 4:00 |
-| 59 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 |
+| 59 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 |
 | 60 | [講再見](https://open.spotify.com/track/6A1Nw8alBWUyvxhTRSBxVG) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [講再見](https://open.spotify.com/album/5svObEfoGUr0PCgle3XgCN) | 4:21 |
 | 61 | [唔好嬲啦](https://open.spotify.com/track/6RTMWCzrx4q6S2hcYiZn4J) | [Lazyboi Dri](https://open.spotify.com/artist/5gLpTC2hyiNnIXh2uwXFWU) | [唔好嬲啦](https://open.spotify.com/album/0ytW5O3t3BlCnWIPTo7eFv) | 3:23 |
 | 62 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 132 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 133 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCwwMDg2NTYzMTA1YTYzMTg3NzAxMTU5MjU0ZDVlZTMxYTUxYjdlMTVh`
+Snapshot ID: `MCxkMjIyZDk0NmZlZjRkYmRmMDdkN2I1MzY2YTU1YTdlOWNmOTQ4Yzk1`

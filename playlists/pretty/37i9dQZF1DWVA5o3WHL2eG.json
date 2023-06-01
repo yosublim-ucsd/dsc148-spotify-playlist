@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Pretty Pink",
-  "num_followers": 26367,
+  "num_followers": 26366,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTM3NTFlYWIwMTZkNzhmOTk5MzFiZDdhMWY1YWUxODAyNGMwYTI5",
+  "snapshot_id": "MCw4M2E5MDViODRlMGYyMmQ1OTJiMzY4OGI3ZTBhOTNlOGFjMDU5NTM1",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -59,22 +59,6 @@
       "duration_ms": 166856,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Broken Promises",
-        "url": "https://open.spotify.com/album/3Pvv5KqsmuYE39dJUVTjYY"
-      },
-      "artists": [
-        {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
-        }
-      ],
-      "duration_ms": 111515,
-      "name": "Broken Promises",
-      "url": "https://open.spotify.com/track/6cET8vehV4mW4cfhq2OxQD"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -235,22 +219,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Lost Indieboy",
-        "url": "https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Lost Indieboy",
-      "url": "https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "ocean drive",
         "url": "https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 151736,
       "name": "ocean drive",
       "url": "https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Lost Indieboy",
+        "url": "https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Lost Indieboy",
+      "url": "https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -507,22 +491,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Alleine",
-        "url": "https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD"
-      },
-      "artists": [
-        {
-          "name": "DenniJasmin",
-          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
-        }
-      ],
-      "duration_ms": 148990,
-      "name": "Alleine",
-      "url": "https://open.spotify.com/track/62Dmi359e09S58Srti5kmz"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Zwischen den sch\u00f6nsten B\u00e4umen",
         "url": "https://open.spotify.com/album/798k3MMihXKGasMfctNrXF"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 259502,
       "name": "Zwischen den sch\u00f6nsten B\u00e4umen",
       "url": "https://open.spotify.com/track/6a8ctjjBxs2HGy7yFaixPs"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Alleine",
+        "url": "https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD"
+      },
+      "artists": [
+        {
+          "name": "DenniJasmin",
+          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
+        }
+      ],
+      "duration_ms": 148990,
+      "name": "Alleine",
+      "url": "https://open.spotify.com/track/62Dmi359e09S58Srti5kmz"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -555,22 +539,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Consciousness As A State Of Matter",
-        "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 265496,
-      "name": "Tale Of Devotion - Sunny Version",
-      "url": "https://open.spotify.com/track/786xUYv8djinGFUze6WGpX"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "DJ in Berlin",
         "url": "https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "SOAMI",
-        "url": "https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD"
+        "name": "Consciousness As A State Of Matter",
+        "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
       },
       "artists": [
         {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
         }
       ],
-      "duration_ms": 218885,
-      "name": "SOAMI",
-      "url": "https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55"
+      "duration_ms": 265496,
+      "name": "Tale Of Devotion - Sunny Version",
+      "url": "https://open.spotify.com/track/786xUYv8djinGFUze6WGpX"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -619,6 +587,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "SOAMI",
+        "url": "https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "duration_ms": 218885,
+      "name": "SOAMI",
+      "url": "https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Radiocarbon",
         "url": "https://open.spotify.com/album/2oV3FdJ6HpYkDnCUw5mnEN"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Brown Sugar Baby",
-        "url": "https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL"
-      },
-      "artists": [
-        {
-          "name": "Queenwho",
-          "url": "https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Brown Sugar Baby",
-      "url": "https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 167335,
       "name": "My Time",
       "url": "https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Brown Sugar Baby",
+        "url": "https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL"
+      },
+      "artists": [
+        {
+          "name": "Queenwho",
+          "url": "https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Brown Sugar Baby",
+      "url": "https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 297583,
       "name": "Strawberry Milk",
       "url": "https://open.spotify.com/track/79aJ1jhpv0hTQwBSRv5wZd"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Broken Promises",
+        "url": "https://open.spotify.com/album/31ZyoCqAQBXFn9e1y0edze"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 111515,
+      "name": "Broken Promises",
+      "url": "https://open.spotify.com/track/02bFDwUUM1aKVGRyYNAQYR"
     }
   ],
   "unique_name": "EQUAL GSA",

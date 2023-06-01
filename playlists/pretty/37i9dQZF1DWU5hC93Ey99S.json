@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 8587,
+  "num_followers": 8601,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2RmNjE1N2FhZDRkMDNhMzc1MGY3OTlhMzJiYmM1ZTI0ZDlmZGQ2",
+  "snapshot_id": "MCwyZGY5NmExMWM3ODQyNmMyOWIyOWRiMmIxYTJmZTAzOGVhZTRkOTlm",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "WASTED ON ME",
+        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "WASTED ON ME",
+      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
+    },
+    {
       "added_at": "2023-05-04 22:00:00",
       "album": {
         "name": "Breaking Apart",
@@ -731,22 +747,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "WASTED ON ME",
-        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "WASTED ON ME",
-      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "I Will / Beloved",
-        "url": "https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 308571,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Apart Of Me (feat. Devault)",
         "url": "https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Nothing Is Easy EP",
-        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+        "name": "I Will / Beloved",
+        "url": "https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8"
       },
       "artists": [
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 191328,
-      "name": "Nothing Is Easy",
-      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+      "duration_ms": 308571,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1075,22 +1059,6 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1115,6 +1083,38 @@
       "duration_ms": 209767,
       "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
       "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Nothing Is Easy EP",
+        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 191328,
+      "name": "Nothing Is Easy",
+      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
     },
     {
+      "added_at": "2023-05-04 22:02:43",
+      "album": {
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD"
+    },
+    {
       "added_at": "2023-04-27 22:01:00",
       "album": {
         "name": "Moving On (Alle Farben Remix)",
@@ -1167,22 +1183,6 @@
       "duration_ms": 195967,
       "name": "Moving On - Alle Farben Remix",
       "url": "https://open.spotify.com/track/6SqXRwGPPnjXsshy6vRvTY"
-    },
-    {
-      "added_at": "2023-05-04 22:02:43",
-      "album": {
-        "name": "I'm All In",
-        "url": "https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "I'm All In",
-      "url": "https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1553,6 +1553,26 @@
       "url": "https://open.spotify.com/track/4R6XSF33V92Cgqs038Ugcy"
     },
     {
+      "added_at": "2023-05-26 06:42:06",
+      "album": {
+        "name": "Criteria",
+        "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "More In Love (with Grady)",
+      "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
+    },
+    {
       "added_at": "2023-04-27 22:01:00",
       "album": {
         "name": "Silence In The Hollow",
@@ -1587,26 +1607,6 @@
       "duration_ms": 283408,
       "name": "See This Through",
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
-    },
-    {
-      "added_at": "2023-05-26 06:42:06",
-      "album": {
-        "name": "Criteria",
-        "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "More In Love (with Grady)",
-      "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1669,26 +1669,6 @@
       "url": "https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7"
     },
     {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Isolate (Jacana People Remix)",
-        "url": "https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP"
-      },
-      "artists": [
-        {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
-        },
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 244673,
-      "name": "Isolate - Jacana People Remix",
-      "url": "https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw"
-    },
-    {
       "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "feelslikewerefalling",
@@ -1711,6 +1691,26 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Isolate (Jacana People Remix)",
+        "url": "https://open.spotify.com/album/1De74ejTitVpfGKijS6SIP"
+      },
+      "artists": [
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        },
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 244673,
+      "name": "Isolate - Jacana People Remix",
+      "url": "https://open.spotify.com/track/4gaVbud6ZqzIgse5t5kzYw"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "54321 (ATRIP Remix)",
         "url": "https://open.spotify.com/album/65qZVwoxmyMx9ph95PSjCH"
       },
@@ -1727,22 +1727,6 @@
       "duration_ms": 199633,
       "name": "54321 - ATRIP Remix",
       "url": "https://open.spotify.com/track/0ACZ92GjHD2lxR6jZ0GaYL"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "calling for you",
-        "url": "https://open.spotify.com/album/3kIX1b8sDyu4Ter3BtXs9w"
-      },
-      "artists": [
-        {
-          "name": "devin",
-          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
-        }
-      ],
-      "duration_ms": 141048,
-      "name": "calling for you",
-      "url": "https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "calling for you",
+        "url": "https://open.spotify.com/album/3kIX1b8sDyu4Ter3BtXs9w"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "duration_ms": 141048,
+      "name": "calling for you",
+      "url": "https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf"
       },
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "dont make me wait",
-        "url": "https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3"
+        "name": "follow you",
+        "url": "https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL"
       },
       "artists": [
         {
-          "name": "heartaake",
-          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
         }
       ],
-      "duration_ms": 145777,
-      "name": "dont make me wait",
-      "url": "https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN"
+      "duration_ms": 184856,
+      "name": "follow you",
+      "url": "https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw"
     },
     {
       "added_at": "2023-04-27 22:01:00",

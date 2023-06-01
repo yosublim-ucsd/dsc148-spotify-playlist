@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu?si=XZLcAG\-8QDmEXy6\_1onvyg">Vaes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,073 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,112 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Gozo](https://open.spotify.com/track/3T3VI5YfOaxkPtg6MICIdi) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Gozo](https://open.spotify.com/album/0utPSrLh8vfADbb7CwWES9) | 3:10 |
 | 100 | [N M L D \- Remix](https://open.spotify.com/track/6zU8gpkBqHFuAaRdgisxtP) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Chesary](https://open.spotify.com/artist/42nFYKDPtvTu6pJyl5KOVa), [Wubeat](https://open.spotify.com/artist/1f93uZU90Q2DQMPkjdUgpw), [Chembooficial](https://open.spotify.com/artist/1RDrpg7VrkU0u5h9B3ifC5), [Monicka Faber](https://open.spotify.com/artist/42T1TulzK5Shce1xachNdt), [Roxana Gotera](https://open.spotify.com/artist/4gt9bM8ABcUr0wyPiPttS8), [Misael MCR](https://open.spotify.com/artist/4pp9SN9NMiKHBqb7u6ehOC) | [N M L D \(Remix\)](https://open.spotify.com/album/36elTrwL4tbYwMtrSQwaZn) | 4:59 |
 
-Snapshot ID: `MCxjMDk2NWNjZTUxYmMzYzI4MTdkMzc0OTcxNmQ4NWU1MzExODAyOTE5`
+Snapshot ID: `MCxjYWRhZmI0ZWNkN2U4Yzk3MjFlZTczZGJlYjcwNjhkY2VmMTljM2Iz`

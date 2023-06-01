@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 402440,
       "name": "(You Are) The Oracle (feat. Michael Mayo)",
       "url": "https://open.spotify.com/track/4Zm26xEmrdfnTQkSu2IZYn"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 303000,
       "name": "Brown Study",
       "url": "https://open.spotify.com/track/3QnsWVTSUo20erLVx4L2sS"
@@ -6550,7 +6550,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 398173,
       "name": "Feelings Outro",
       "url": "https://open.spotify.com/track/0oSklU0c7vCjdcVa1FtzSl"
@@ -9730,7 +9730,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 314106,
       "name": "Jazz Camp",
       "url": "https://open.spotify.com/track/2DvEnW7qVYDzsVUa0YBYiR"
@@ -14553,6 +14553,32 @@
     },
     {
       "album": {
+        "name": "Pace (POLY POLY Remix)",
+        "url": "https://open.spotify.com/album/5CLr2E4MmZnd3N84WcmXT6"
+      },
+      "artists": [
+        {
+          "name": "Ferge X Fisherman",
+          "url": "https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV"
+        },
+        {
+          "name": "Victoryaz",
+          "url": "https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk"
+        },
+        {
+          "name": "POLY POLY",
+          "url": "https://open.spotify.com/artist/4MdhWtwr2EGHOn80cSM380"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Pace - POLY POLY Remix",
+      "url": "https://open.spotify.com/track/7hYAnMReztki8o92UT3Bpp"
+    },
+    {
+      "album": {
         "name": "Spam vol.1",
         "url": "https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy"
       },
@@ -17879,6 +17905,24 @@
     },
     {
       "album": {
+        "name": "Spilornis",
+        "url": "https://open.spotify.com/album/4kb8DjuNX4OdxBvlourrit"
+      },
+      "artists": [
+        {
+          "name": "ynkmr.",
+          "url": "https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Spilornis",
+      "url": "https://open.spotify.com/track/3RInyzqnPlEL0SKAyrmzap"
+    },
+    {
+      "album": {
         "name": "Spirits Rebellious",
         "url": "https://open.spotify.com/album/0NfGLsVWWrmmx9v7IXNRQK"
       },
@@ -17992,7 +18036,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
@@ -20039,6 +20083,28 @@
     },
     {
       "album": {
+        "name": "The Simple Things",
+        "url": "https://open.spotify.com/album/6SMmEul0la6ZCPNsaTFLFT"
+      },
+      "artists": [
+        {
+          "name": "Natalie Oliveri",
+          "url": "https://open.spotify.com/artist/7bG1JrD2v2UoKkkImZHrWS"
+        },
+        {
+          "name": "Samer Sharawi",
+          "url": "https://open.spotify.com/artist/6oJBzrF4YKL1OASVWPOkpD"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "The Simple Things",
+      "url": "https://open.spotify.com/track/7Dj5fZNBjsONlFdl8HjRTu"
+    },
+    {
+      "album": {
         "name": "The Standing",
         "url": "https://open.spotify.com/album/3G8tpvnqHYcf0Cy5yqLB9Y"
       },
@@ -21521,6 +21587,28 @@
     },
     {
       "album": {
+        "name": "Master St.",
+        "url": "https://open.spotify.com/album/3kxUnjjRa5Jjr0G4C06Pqp"
+      },
+      "artists": [
+        {
+          "name": "The Dam Jawn",
+          "url": "https://open.spotify.com/artist/7dzbcGQjhmLwoPTOBeZDid"
+        },
+        {
+          "name": "Dick Oatts",
+          "url": "https://open.spotify.com/artist/6HAwEMXs6wBDDAY3MDuo8i"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332205,
+      "name": "Venango",
+      "url": "https://open.spotify.com/track/1F1uCJIJeldjVC5E3ukStK"
+    },
+    {
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/3s33h3bMU971A7bJAGFbOS"
       },
@@ -21682,6 +21770,24 @@
       "duration_ms": 232048,
       "name": "Vista Ahead",
       "url": "https://open.spotify.com/track/6VbahJdYLLtV3uhQYyq0Fl"
+    },
+    {
+      "album": {
+        "name": "Vlad",
+        "url": "https://open.spotify.com/album/2GU1HmnHfu0sq0RhbzrK2c"
+      },
+      "artists": [
+        {
+          "name": "Mika Krstic",
+          "url": "https://open.spotify.com/artist/3fs2IhOduiLzt9jlN7YEC2"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251697,
+      "name": "Vlad",
+      "url": "https://open.spotify.com/track/5EuHGJnx5aInPpE32L61eF"
     },
     {
       "album": {
@@ -22367,6 +22473,28 @@
     },
     {
       "album": {
+        "name": "White Runway",
+        "url": "https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282413,
+      "name": "White Runway",
+      "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
+    },
+    {
+      "album": {
         "name": "why my love?",
         "url": "https://open.spotify.com/album/5L9Xd70CE9nb8suM5BGdQQ"
       },
@@ -22378,7 +22506,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 277283,
       "name": "why my love?",
       "url": "https://open.spotify.com/track/1FKQyGD0UVL5gAiNOGZ1YW"

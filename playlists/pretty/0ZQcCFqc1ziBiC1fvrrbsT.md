@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,797 likes - 36 songs - 2 hr 20 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,802 likes - 36 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 19 | [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 |
 | 20 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 |
 | 21 | [Touch Me](https://open.spotify.com/track/1fW5rB3CvtiwtdYqaLCIWC) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Touch Me](https://open.spotify.com/album/4jSjuLkk6WiI9ZyLyZf4Uy) | 3:44 |
-| 22 | [Brainstorming](https://open.spotify.com/track/0nQBS2zuVtdw3nO7YwVBOk) | [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [DJ Green Lantern](https://open.spotify.com/artist/2Fzxa58BAbUa6XVw8t2zkl), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Brainstorming](https://open.spotify.com/album/6WXNOe11oNiM7IO8pigJOE) | 3:30 |
+| 22 | [Brainstorming](https://open.spotify.com/track/0nQBS2zuVtdw3nO7YwVBOk) | [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [DJ Green Lantern](https://open.spotify.com/artist/2Fzxa58BAbUa6XVw8t2zkl) | [Brainstorming](https://open.spotify.com/album/6WXNOe11oNiM7IO8pigJOE) | 3:30 |
 | 23 | [Wazap](https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Wazap](https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On) | 3:19 |
 | 24 | [8 AM](https://open.spotify.com/track/7CSmXJNeArnwDfUmtP4Gve) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [8 AM](https://open.spotify.com/album/4io4WcuVRNAKnVUyYA5wN9) | 2:27 |
 | 25 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |

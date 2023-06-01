@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-412 songs - 1 day 0 hr 32 min
+413 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/track/1Fd9CucoQHCdfI9OkJaaY8) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/album/2CrINPwYd8VJxwjErnjMDI) | 4:45 | 2023-02-10 |  |
 | [Dolu Dolu](https://open.spotify.com/track/7qG4GUCpzFW2ipC9cV0Ek4) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Dolu Dolu](https://open.spotify.com/album/3vTEBAk2S0U5XNfoKyD4CP) | 5:13 | 2022-12-02 | 2023-02-22 |
 | [Dooram](https://open.spotify.com/track/34p2ECAu54Jm3Bhfmk1ykH) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Bhavani R](https://open.spotify.com/artist/1gYyuaOQtl0ibPYHFwjTNG) | [Dooram](https://open.spotify.com/album/42qjYngA4LGkRuzTJrGkXT) | 3:47 | 2023-03-29 | 2023-04-01 |
-| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 |  |
+| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 | 2023-06-01 |
+| [Dope](https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ) | 2:21 | 2023-04-28 |  |
 | [Durai Sleeping \- From "Think Originals"](https://open.spotify.com/track/197dZDgejcTSZ8RYPEDowe) | [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Durai Sleeping \(From "Think Originals"\)](https://open.spotify.com/album/6mYSDtZpONcrjnJCqFXPR1) | 2:31 | 2023-03-03 | 2023-03-23 |
 | [Ean Machi](https://open.spotify.com/track/6IxYter8iWxtHJgQzK0DPQ) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Ean Machi](https://open.spotify.com/album/7JPauQxNNTAYPLXnxSOZlx) | 3:37 | 2022-12-15 | 2023-02-07 |
 | [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 | 2022-10-10 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,567 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,589 likes - 108 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wazap](https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Wazap](https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On) | 3:19 |
 | 2 | [Mujer Ajena](https://open.spotify.com/track/4cfDy3twERwAsJ0tsyaZuA) | [Juan Fe Pulido](https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8) | [Mujer Ajena](https://open.spotify.com/album/4A1mQYXWcXunu97irugcVR) | 2:44 |
 | 3 | [Señales](https://open.spotify.com/track/7AHyJpRRigc9TuR1FZBC9l) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Señales](https://open.spotify.com/album/4BBheEnTjbfYg2RCEui3te) | 3:20 |
-| 4 | [Ay Bendito \- Remix](https://open.spotify.com/track/2kriYCrZYrlGjnbH8Y9bjz) | [AARON 21](https://open.spotify.com/artist/3MnIqSNBCoSHtfSZpVeh6r), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Jotaerre](https://open.spotify.com/artist/4aejCrdqDwsHowD7tEunC7), [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Ay Bendito \(Remix\)](https://open.spotify.com/album/21pREieU7RotUA1t4CGVo0) | 4:23 |
+| 4 | [Ay Bendito \- Remix](https://open.spotify.com/track/2kriYCrZYrlGjnbH8Y9bjz) | [AARON 21](https://open.spotify.com/artist/3MnIqSNBCoSHtfSZpVeh6r), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [Ay Bendito \(Remix\)](https://open.spotify.com/album/21pREieU7RotUA1t4CGVo0) | 4:23 |
 | 5 | [PIEL AL NATURAL](https://open.spotify.com/track/2cGOVxy7kk9JMjIFxSkRKS) | [JP\-I](https://open.spotify.com/artist/1r6f97D6f13dIpP1iefiQr), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [PIEL AL NATURAL](https://open.spotify.com/album/1b9AKcqkwQMTwUYOcFr41D) | 3:44 |
 | 6 | [Así Fue](https://open.spotify.com/track/0eZt1CTSHsRMKlsnT6w6Pb) | [Zaher](https://open.spotify.com/artist/2eQVRbvrui5o4HmFZfmdEA), [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [Así Fue](https://open.spotify.com/album/7Ce8eeeyPvazgjNzAHaRmu) | 3:50 |
 | 7 | [Amigos Verdes](https://open.spotify.com/track/2KFY4TZatZ8y55t1o98VPv) | [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr) | [Amigos Verdes](https://open.spotify.com/album/6tMBbaakn1TshtrIlMpB4T) | 2:16 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 107 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 | 108 | [Sabes](https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Karely Ruíz](https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC) | [Sabes](https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB) | 3:42 |
 
-Snapshot ID: `MCw3NDljZGIwNDA0YjAzMGZmOWVkMGE0YWYwOTAzYzE3ODhlNGIxY2Jj`
+Snapshot ID: `MCxjZjIwODE3NTk3ODQ3NmIyNjMwYjg0YWI1N2U4ZmIxMzJhMjZjNmU0`

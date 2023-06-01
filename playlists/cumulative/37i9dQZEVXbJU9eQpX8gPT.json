@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 189549,
       "name": "Ahlam",
       "url": "https://open.spotify.com/track/6cS2fCLwfLs7HueULbZUlJ"
@@ -6704,6 +6704,10 @@
         {
           "name": "Abduh",
           "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
       "date_added": "2023-05-27",
@@ -10416,7 +10420,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 176571,
       "name": "Lbaroud",
       "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"

@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-318 songs - 14 hr 17 min
+320 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,9 +191,10 @@
 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 | 2022-08-01 |  |
 | [One More Night](https://open.spotify.com/track/69eA5853TtnotRU59pm8mF) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Iris Ha](https://open.spotify.com/artist/6hmE3H5s4IZyTUmPGUc8Bb) | [One More Night](https://open.spotify.com/album/0UjXFozNddXEOnVnCC6hnL) | 2:17 | 2022-09-12 |  |
 | [one way](https://open.spotify.com/track/38pHgeuiazIxyBDOc3s1nG) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [pianissimo](https://open.spotify.com/album/1GHx7p4QbXjZL21OuirQ2l) | 2:44 | 2023-05-03 |  |
-| [Only If You Stay](https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [As Time Will Tell](https://open.spotify.com/album/1EobeAcIPLf9DCjVEaD2yH) | 2:34 | 2023-04-18 |  |
+| [Only If You Stay](https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [As Time Will Tell](https://open.spotify.com/album/1EobeAcIPLf9DCjVEaD2yH) | 2:34 | 2023-04-18 | 2023-06-01 |
 | [Only If You Stay](https://open.spotify.com/track/4EO6THQkcjTwCY59pQ6ZsN) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [In Our House](https://open.spotify.com/album/0BaNsKWBEfM8KhgdeTTCd5) | 2:34 | 2023-03-22 | 2023-04-27 |
 | [Only If You Stay](https://open.spotify.com/track/4P59lUGuSG7TMs6qTZlbrc) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Will You Come Back](https://open.spotify.com/album/41h7MBkq9jjiTUpQslaegJ) | 2:34 | 2023-03-14 | 2023-03-29 |
+| [Only If You Stay](https://open.spotify.com/track/5qTDBdXQbOMPXM3TFSBjbB) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Light From Your Eyes](https://open.spotify.com/album/0JgFVac8yutlbFSVp6aBrz) | 2:34 | 2023-05-09 |  |
 | [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 | 2023-02-14 | 2023-03-10 |
 | [Only If You Stay](https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Here By The Sea](https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ) | 2:34 | 2023-03-07 | 2023-03-22 |
 | [Our Call](https://open.spotify.com/track/0iMIWdUvO3QmoOwvpazgMW) | [Jonah Bjoern](https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp) | [Our Call](https://open.spotify.com/album/6FRFcy8VBTOBPDULVG7S7P) | 2:14 | 2023-01-31 |  |
@@ -226,8 +227,9 @@
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2022-08-01 |  |
 | [Sail to the Moon](https://open.spotify.com/track/0dx8e4V1h2Xus4dHNkxU5T) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Sail to the Moon](https://open.spotify.com/album/4EyvJlfrI2j9V1654Uwvcq) | 2:52 | 2022-10-04 |  |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2022-08-01 |  |
-| [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 | 2023-04-18 |  |
+| [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 | 2023-04-18 | 2023-06-01 |
 | [Sans fleurir](https://open.spotify.com/track/63myAMR7Vy54SvqpjwxG7V) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Sans fleurir](https://open.spotify.com/album/0c759BM7rHz7aHDOOBFC5u) | 2:24 | 2023-03-07 | 2023-03-23 |
+| [Sans fleurir](https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Éphémère](https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG) | 2:24 | 2023-05-09 |  |
 | [Sans fleurir](https://open.spotify.com/track/6CZct4mwXflH95xf38xDMG) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Une rose dans les ténèbres](https://open.spotify.com/album/0tLNp9dCdU3DJYYYfIjyxR) | 2:24 | 2023-03-22 | 2023-04-26 |
 | [Say My Name](https://open.spotify.com/track/2OrJ8SYAFfTHGzLKIurphr) | [Octane](https://open.spotify.com/artist/2KTIaiNCA1JqLtIeTLYzxp) | [Say My Name](https://open.spotify.com/album/2wCN4RpBcE9cWF0YBbpfW3) | 3:56 | 2022-11-14 | 2023-05-04 |
 | [Say Something](https://open.spotify.com/track/7mbVCa3RJ9fPAkssAkrQ2j) | [Lukas O' Kane](https://open.spotify.com/artist/72CucnBc9khzpqxeA6Npkp) | [Say Something](https://open.spotify.com/album/1sRnP9KSKkPAKGyaMTWNlA) | 3:47 | 2022-08-01 | 2022-12-06 |

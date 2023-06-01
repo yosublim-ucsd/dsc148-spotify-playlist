@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 146295,
+  "num_followers": 146520,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmIxYTNmNTIzYTUzNWZmMjA5ZjU3ODBlNjFhMmJlYTM2YTM1OThj",
+  "snapshot_id": "MCw2Njc4YjMzZjBjMzM2MzZiNjk2NGRkYTI0ZTA1NWY1MmFlNmExYTAx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Fences",
         "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 238040,
       "name": "Fences",
       "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "All at Once",
         "url": "https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Night in the Woods",
         "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 183000,
       "name": "Night in the Woods",
       "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Not Your Kind",
-        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
-      },
-      "artists": [
-        {
-          "name": "Hoity-Toity",
-          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
-        }
-      ],
-      "duration_ms": 274340,
-      "name": "Y'know",
-      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Not Your Kind",
+        "url": "https://open.spotify.com/album/2bINeWV1YXsi5QrPl28cnh"
+      },
+      "artists": [
+        {
+          "name": "Hoity-Toity",
+          "url": "https://open.spotify.com/artist/59C4CCO7zRyoXORgHPjDjp"
+        }
+      ],
+      "duration_ms": 274340,
+      "name": "Y'know",
+      "url": "https://open.spotify.com/track/2fEgApMmxqKwCYXqg3Y2YE"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Free Bleedin'",
         "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 197052,
       "name": "Tinder Girl",
       "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 182477,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Sorry, Mom",
+        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 369213,
+      "name": "Word Salad",
+      "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -935,22 +951,6 @@
       "duration_ms": 74437,
       "name": "I Saw Jesus Hanging on a Basketball Hoop",
       "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Sorry, Mom",
-        "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 369213,
-      "name": "Word Salad",
-      "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
+      },
+      "artists": [
+        {
+          "name": "LIINES",
+          "url": "https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f"
+        }
+      ],
+      "duration_ms": 144170,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Try to Be Hopeful",
         "url": "https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
       "artists": [
         {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
         }
       ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1271,22 +1287,6 @@
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     }
   ],
   "unique_name": "Queercore",

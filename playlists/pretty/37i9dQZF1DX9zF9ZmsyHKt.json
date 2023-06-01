@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 323451,
+  "num_followers": 323506,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTgwNGQ4MTkxOGQxM2I1YmJkNDA5OTExNWY4MGYxNmY4NGM2NTE2",
+  "snapshot_id": "MCwwMjIyNDRhNWQ2YWUxNDJlNWU3ZGJjNGJmNzkwYjE1MzhmNDM1Njky",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Admir\u00e1vel Chip Novo",
+        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 295106,
       "name": "Mania De Voc\u00ea",
       "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Admir\u00e1vel Chip Novo",
-        "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -759,6 +759,26 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Clich\u00ea",
+      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Elis Por Ela",
         "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Clich\u00ea",
-      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,26 +979,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sol e Mar, Vol. 2",
-        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        },
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "JBL",
-      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sol e Mar, Vol. 2",
+        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "JBL",
+      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rito de Pass\u00e1",
-        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
-      },
-      "artists": [
-        {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Rito de Pass\u00e1",
-      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Origem",
         "url": "https://open.spotify.com/album/2BPbMEyJZbHZ4Yre9s4AN8"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 281034,
       "name": "Feito Fuma\u00e7a",
       "url": "https://open.spotify.com/track/2WmQKaMmgbvVASSYNlcnd1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rito de Pass\u00e1",
+        "url": "https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm"
+      },
+      "artists": [
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Rito de Pass\u00e1",
+      "url": "https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Little Electric Chicken Heart",
+        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 220451,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 186206,
       "name": "n\u00f3s 2",
       "url": "https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Little Electric Chicken Heart",
-        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "LEXA",
         "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 232361,
+      "name": "Essa Vista",
+      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Sla Radical Dance Disco Club",
         "url": "https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
         }
       ],
-      "duration_ms": 232361,
-      "name": "Essa Vista",
-      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 Isso A\u00ed",
-        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
-      },
-      "artists": [
-        {
-          "name": "Paula Lima",
-          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "\u00c9 Isso A\u00ed",
-      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Iai\u00e1",
         "url": "https://open.spotify.com/album/0AsxslSEmzuqJhZPT1DVGA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "\u00c9 Isso A\u00ed",
+        "url": "https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U"
+      },
+      "artists": [
+        {
+          "name": "Paula Lima",
+          "url": "https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "\u00c9 Isso A\u00ed",
+      "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Acabou",
-        "url": "https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR"
-      },
-      "artists": [
-        {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
-        }
-      ],
-      "duration_ms": 179987,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Eletrocardiograma",
         "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 206192,
       "name": "Preta de Quebrada",
       "url": "https://open.spotify.com/track/0s0BuLqPzqSH1rrXB04bQf"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR"
+      },
+      "artists": [
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        }
+      ],
+      "duration_ms": 179987,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
     }
   ],
   "unique_name": "Escuta as Minas",

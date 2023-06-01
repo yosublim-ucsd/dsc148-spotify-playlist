@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  Johhny Orlando, Ali Gatie
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,991 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,047 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 89 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 |
 | 90 | [TRY](https://open.spotify.com/track/3iPDlqw1GoVtteiioGVg7d) | [Green](https://open.spotify.com/artist/5QZhUdqvTEGnKNLVBTbFSY), [THERAY](https://open.spotify.com/artist/1GwzIyvtDBIcWPtHKxfofd) | [TRY](https://open.spotify.com/album/4HV0D0lw4AzBIYxknQv2tF) | 3:34 |
 
-Snapshot ID: `MCwzNDg3ODc0N2YxNTdmZmRiMTA4ZmFlM2NlZGQ4Yjg1N2VkODNiNDQ5`
+Snapshot ID: `MCxmODE2NDQ5NzZjYjZkMzIzZGE2ZWI4MGY3MmQ5YjEzNDczNjhmNGM1`

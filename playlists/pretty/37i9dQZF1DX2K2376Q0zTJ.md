@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  ちゃんみな \(CHANMINA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,963 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,969 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Sour Heart](https://open.spotify.com/track/5mt3zQZrKbAwkeez64zS7j) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Sour Heart](https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4) | 3:37 |
 | 50 | [Illegal](https://open.spotify.com/track/698DmNlHSMoRsRu7TljpLX) | [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [Ayu](https://open.spotify.com/artist/7HF7JMvXXQFblGwMUYb8lP), [namichie](https://open.spotify.com/artist/3RtSsC1hY28YyW1UrYbA7V) | [Illegal](https://open.spotify.com/album/5GyV8gh1ptkAUOQHiIEXnd) | 4:08 |
 
-Snapshot ID: `MCxjMWY2ZjkxMGY4MTQ1N2M3NDk0ZTljMDI4NWIyMjI2YThkNjdmYzlj`
+Snapshot ID: `MCw5ZDhjNjYxZmNiMTM1YzBjM2ZiYTJmZTgwYTJhMmFjMTI4ZTM3ODA4`

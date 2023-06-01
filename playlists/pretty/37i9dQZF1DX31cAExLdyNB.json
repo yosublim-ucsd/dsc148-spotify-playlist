@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 61033,
+  "num_followers": 61082,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGQ4ZTMwNGYwZjI5MWIzNmFiOWYxMzRkNjg5ZDYxNDM0MDY2N2I4",
+  "snapshot_id": "MCxiZjkyN2JiOWVhZDkwNjMyYTg4NDU4ZGY0MDgyY2U5ZGU1YTQ4Njdi",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
-      },
-      "artists": [
-        {
-          "name": "Xavier Martinex",
-          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "6\u00ba",
         "url": "https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj"
       },
@@ -839,18 +823,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Xavier Martinex",
+          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
         }
       ],
-      "duration_ms": 255217,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
+      "duration_ms": 176120,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -871,6 +855,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 255217,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Las Vegas",
         "url": "https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 256109,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "El Muro",
-        "url": "https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8"
-      },
-      "artists": [
-        {
-          "name": "Inzul",
-          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
-        }
-      ],
-      "duration_ms": 223437,
-      "name": "El Muro",
-      "url": "https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -923,6 +907,22 @@
       "duration_ms": 285000,
       "name": "Invierno (Remix)",
       "url": "https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "El Muro",
+        "url": "https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8"
+      },
+      "artists": [
+        {
+          "name": "Inzul",
+          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
+        }
+      ],
+      "duration_ms": 223437,
+      "name": "El Muro",
+      "url": "https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Might Forgive You / Tkm",
         "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Drinkee (Radio Edit)",
-        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 191468,
-      "name": "Drinkee (Radio Edit)",
-      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 202177,
       "name": "Tears At Bae",
       "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Drinkee (Radio Edit)",
+        "url": "https://open.spotify.com/album/0JdrR2T6BFxVSyZlQxtYb7"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 191468,
+      "name": "Drinkee (Radio Edit)",
+      "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
     },
     {
       "added_at": "2023-03-10 05:01:00",

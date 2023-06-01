@@ -1,47 +1,15 @@
 {
   "description": "Four to the floor with your disco queens and kings. Cover: Sylvester",
-  "num_followers": 770674,
+  "num_followers": 770854,
   "original_name": "Disco Fever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDViNTBlYzkyYjZmMTliYTU3Mjk1ODEyYzhiODQ3ZDNhOWJhMDVl",
+  "snapshot_id": "MCxlYzFkYzEzZDM3Y2E5NDEwMjYzODI1NmNhNDY3MzlkMjg2Mzk1NDhi",
   "tracks": [
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 407053,
-      "name": "Hot Stuff - 12\" Version",
-      "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
@@ -57,7 +25,103 @@
       "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 407053,
+      "name": "Hot Stuff - 12\" Version",
+      "url": "https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Le Freak - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "The Essential Emotions - The Columbia Years",
         "url": "https://open.spotify.com/album/7xUJI5qVdt8SymEI39kKEQ"
@@ -77,87 +141,7 @@
       "url": "https://open.spotify.com/track/6Zlfef97wSpjcitqPXZWcj"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "I Will Survive (Rerecorded)",
-        "url": "https://open.spotify.com/album/0EvxRMIJySiL1ges38c753"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "I Will Survive - Rerecorded",
-      "url": "https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "More Monty",
-        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "Le Freak - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Ring My Bell",
-        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
-      },
-      "artists": [
-        {
-          "name": "Anita Ward",
-          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
-        }
-      ],
-      "duration_ms": 491933,
-      "name": "Ring My Bell",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "It's Raining Men",
         "url": "https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF"
@@ -173,39 +157,7 @@
       "url": "https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "The Trammps",
-        "url": "https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 218026,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
@@ -221,7 +173,55 @@
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "I Will Survive (Rerecorded)",
+        "url": "https://open.spotify.com/album/0EvxRMIJySiL1ges38c753"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "I Will Survive - Rerecorded",
+      "url": "https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "The Trammps",
+        "url": "https://open.spotify.com/album/0ul2B7WEJ43BP66ib1z9en"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 218026,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/7bET0DUAs59D6BsbdTqXuw"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
@@ -237,39 +237,7 @@
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 312354,
-      "name": "Car Wash",
-      "url": "https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Atlantic 60th: On The Dance Floor Vol. 2",
-        "url": "https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Cruisin'",
         "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
@@ -285,39 +253,23 @@
       "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+        "name": "Atlantic 60th: On The Dance Floor Vol. 2",
+        "url": "https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz"
       },
       "artists": [
         {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "A Night to Remember (Mixed By Tony Okungbowa & Jojoflores)",
-        "url": "https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4GmEpUaXxyJ9YhO8pzIa2V"
@@ -333,55 +285,39 @@
       "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL"
       },
       "artists": [
         {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 228533,
-      "name": "Got to Be Real - Single Version",
-      "url": "https://open.spotify.com/track/26FOglnpqOEWUyspcbNYq6"
+      "duration_ms": 312354,
+      "name": "Car Wash",
+      "url": "https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
-        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
+        "name": "A Night to Remember (Mixed By Tony Okungbowa & Jojoflores)",
+        "url": "https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE"
       },
       "artists": [
         {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
         }
       ],
-      "duration_ms": 247133,
-      "name": "Stomp! - Single Version",
-      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
+      "duration_ms": 252653,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
@@ -397,23 +333,7 @@
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "The Best Of The Emotions: Best Of My Love",
-        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
@@ -429,7 +349,23 @@
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
@@ -445,39 +381,39 @@
       "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "KC & the Sunshine Band, Pt. 3... and More",
-        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+        "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
+        "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
         }
       ],
-      "duration_ms": 242133,
-      "name": "I'm Your Boogie Man",
-      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+      "duration_ms": 247133,
+      "name": "Stomp! - Single Version",
+      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
         }
       ],
-      "duration_ms": 507000,
-      "name": "Everybody Dance - 12\" Mix",
-      "url": "https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v"
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Stars On 45",
         "url": "https://open.spotify.com/album/01fV4K8TiFQTsAn7P8ipWr"
@@ -493,55 +429,7 @@
       "url": "https://open.spotify.com/track/59BkBWQitTPgS1inzGfyI5"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Best Of Patti Labelle",
-        "url": "https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Future Bound",
-        "url": "https://open.spotify.com/album/0pqHRSv6OfxRSc0kLNDrUb"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "More Than A Woman",
-      "url": "https://open.spotify.com/track/0nz7eSSUtNM7wLkYE3x1Wl"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
@@ -557,7 +445,7 @@
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
@@ -577,7 +465,7 @@
       "url": "https://open.spotify.com/track/3PWRW1qah9497Zv68Tgxpl"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
@@ -593,23 +481,39 @@
       "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "AWB",
-        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
+        "name": "The Best Of The Emotions: Best Of My Love",
+        "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
       },
       "artists": [
         {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
         }
       ],
-      "duration_ms": 239908,
-      "name": "Pick Up the Pieces",
-      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
+      "duration_ms": 219933,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Best Of Patti Labelle",
+        "url": "https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Relight My Fire (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
@@ -625,7 +529,87 @@
       "url": "https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 507000,
+      "name": "Everybody Dance - 12\" Mix",
+      "url": "https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Got to Be Real - Single Version",
+      "url": "https://open.spotify.com/track/26FOglnpqOEWUyspcbNYq6"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "KC & the Sunshine Band, Pt. 3... and More",
+        "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "I'm Your Boogie Man",
+      "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "AWB",
+        "url": "https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 239908,
+      "name": "Pick Up the Pieces",
+      "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Future Bound",
+        "url": "https://open.spotify.com/album/0pqHRSv6OfxRSc0kLNDrUb"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "More Than A Woman",
+      "url": "https://open.spotify.com/track/0nz7eSSUtNM7wLkYE3x1Wl"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "3 - Supernature",
         "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
@@ -641,23 +625,23 @@
       "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
       "artists": [
         {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Brick House",
-      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/78YpZhGfrGxxYstCxFftaX"
@@ -673,23 +657,23 @@
       "url": "https://open.spotify.com/track/5xRaPHjgYoxOZjpwsDsbnp"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4"
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
       "artists": [
         {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 252306,
-      "name": "Burn Rubber On Me (Why You Wanna Hurt Me)",
-      "url": "https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA"
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "C'est Chic (2018 Remaster)",
         "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
@@ -705,55 +689,7 @@
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "Feels Like I'm in Love (2022 Remaster)",
-        "url": "https://open.spotify.com/album/2cmLplrGf2m2oxZbuYn5JK"
-      },
-      "artists": [
-        {
-          "name": "Kelly Marie",
-          "url": "https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy"
-        }
-      ],
-      "duration_ms": 256665,
-      "name": "Feels Like I'm in Love - 2022 Remaster",
-      "url": "https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "The 12\" Collection",
-        "url": "https://open.spotify.com/album/4pszojNDSBFpCwc7pqtxrM"
-      },
-      "artists": [
-        {
-          "name": "Divine",
-          "url": "https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz"
-        }
-      ],
-      "duration_ms": 368693,
-      "name": "Shake It Up",
-      "url": "https://open.spotify.com/track/03AAIrcRJgzazS7R3eek5N"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
-      "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "I Can Make You Feel Good",
-      "url": "https://open.spotify.com/track/6bIt8A7azEBA69eSSBM841"
-    },
-    {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Knights In White Satin",
         "url": "https://open.spotify.com/album/1L7szfPWc7Pspsv1DaCBvy"
@@ -769,7 +705,55 @@
       "url": "https://open.spotify.com/track/4n9WwRwD2WxBNWAukEtPlk"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Feels Like I'm in Love (2022 Remaster)",
+        "url": "https://open.spotify.com/album/2cmLplrGf2m2oxZbuYn5JK"
+      },
+      "artists": [
+        {
+          "name": "Kelly Marie",
+          "url": "https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy"
+        }
+      ],
+      "duration_ms": 256665,
+      "name": "Feels Like I'm in Love - 2022 Remaster",
+      "url": "https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Burn Rubber On Me (Why You Wanna Hurt Me)",
+      "url": "https://open.spotify.com/track/32YzjV133gteg9LMBGO2OA"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "The 12\" Collection",
+        "url": "https://open.spotify.com/album/4pszojNDSBFpCwc7pqtxrM"
+      },
+      "artists": [
+        {
+          "name": "Divine",
+          "url": "https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz"
+        }
+      ],
+      "duration_ms": 368693,
+      "name": "Shake It Up",
+      "url": "https://open.spotify.com/track/03AAIrcRJgzazS7R3eek5N"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Gloria Gaynor '90 (All New Versions)",
         "url": "https://open.spotify.com/album/3mn5uMVqqN1WPA2Jwd8lfk"
@@ -785,7 +769,23 @@
       "url": "https://open.spotify.com/track/4L9sdN5l6PvW3EZyP6sY7j"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
+      "album": {
+        "name": "Nightclubbing",
+        "url": "https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 281693,
+      "name": "Pull Up To The Bumper",
+      "url": "https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G"
+    },
+    {
+      "added_at": "2023-05-31 15:53:43",
       "album": {
         "name": "Diana Ross (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni"
     },
     {
-      "added_at": "2022-05-31 23:00:05",
+      "added_at": "2023-05-31 15:53:43",
       "album": {
-        "name": "Nightclubbing",
-        "url": "https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca"
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
         }
       ],
-      "duration_ms": 281693,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G"
+      "duration_ms": 256773,
+      "name": "I Can Make You Feel Good",
+      "url": "https://open.spotify.com/track/6bIt8A7azEBA69eSSBM841"
     }
   ],
   "unique_name": "Disco Fever",

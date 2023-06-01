@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,810 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,834 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 48 | [Gajaman Nona](https://open.spotify.com/track/23OqflDGsKLH6XtMAieuEH) | [Tehan Perera](https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Gajaman Nona](https://open.spotify.com/album/4ioPNbZVGmtOcqvp9O24lx) | 2:43 |
 | 49 | [Ahasama Ridawa](https://open.spotify.com/track/3y2D1m9SaL1itNDyHPHPUW) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Shihan Mihiranga](https://open.spotify.com/artist/0djxQZgKR9AcxtVjypEkwc), [Nirosha Virajini](https://open.spotify.com/artist/6wHi07ZWI3mgwehxRbd8x9) | [Ahasama Ridawa](https://open.spotify.com/album/3ch0Fu0GrJKTwGD8U5bcKh) | 2:41 |
 | 50 | [Adara Mal Wala](https://open.spotify.com/track/0SnQXsOTmbVGOjvXj9IkTB) | [Navarathna Gamage](https://open.spotify.com/artist/7ig9GO5GVADIGAxma4KnJO), [Kasun Kalhara](https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9), [Indrachapa Liyanage](https://open.spotify.com/artist/1Fn2KPtMKwFLpjrfCgR4kr) | [Navarathna Gamage: Classics Collection 02](https://open.spotify.com/album/67p2UEb2TQtIDpRPjeouKv) | 3:30 |
-| 51 | [Diurala Pawasanna](https://open.spotify.com/track/0wjno8lHmDep5uhLVowoSA) | [Centigradz](https://open.spotify.com/artist/28zBYEZiaeaXnTOhAHy1QQ) | [Sri Lankan Top Chart](https://open.spotify.com/album/29IsYWjeG37GwRB2VTZUOB) | 3:45 |
+| 51 | [Diurala Pawasanna](https://open.spotify.com/track/0wjno8lHmDep5uhLVowoSA) | [Centigradz](https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse) | [Sri Lankan Top Chart](https://open.spotify.com/album/29IsYWjeG37GwRB2VTZUOB) | 3:45 |
 | 52 | [Naadagam Geeya](https://open.spotify.com/track/2z1xxec9iMmanvQEYsuJUO) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Ridma Weerawardena](https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt) | 4:31 |
 | 53 | [Nena](https://open.spotify.com/track/0WFz48as786EyNex70sOy7) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx) | [Nena](https://open.spotify.com/album/6bA4ykfGp5wdDPYD40bzXw) | 2:56 |
 | 54 | [Sudu Gawuma](https://open.spotify.com/track/00JSed4i2Pt8s0MN8pUgvJ) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Gold](https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Priyawee](https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz) | [Piyath Rajapaksha](https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS) | [Priyawee \- Single](https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS) | 3:48 |
 | 100 | [Nurawee](https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t) | [Nurawee](https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs) | 3:51 |
 
-Snapshot ID: `MCwyNGM0ZDFhYmQxNTMzNjA4ZmE5OWYxNThiZGEzZGQ5ZGExNDcwYThi`
+Snapshot ID: `MCwyM2Y3MzBiNzQ3ZDkyN2NlMmYwNmMwYTliM2NhMTIwZGIxMTcxYzY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=frnSGsW8RRqy7NDLoYkR0w">Steffany Gretzinger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,848 likes - 101 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,977 likes - 101 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 100 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 101 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MCxhYjBiMmE3YjZkNTc1OGUwZWNkY2Y4NzI4NmViNzI5NzFkZDE2NTNh`
+Snapshot ID: `MCxjODBhY2M0NWEyNjVjMGM5ZDU3OTllNjE0ODQxZjc2OTg3NDdjNzRl`

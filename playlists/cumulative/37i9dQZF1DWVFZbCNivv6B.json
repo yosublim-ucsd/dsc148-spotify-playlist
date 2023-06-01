@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. MC Davo, TREN LOKOTE y Kodigo est\u00e1n en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX est\u00e1 en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 170000,
       "name": "Alto Voltaje",
       "url": "https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Gitana",
+        "url": "https://open.spotify.com/album/5lc9ECpBegUqzeJ1g5oaJZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127600,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/5Xj9P1E58HMj9I1Q1YBk4y"
+    },
+    {
+      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/3RAlPZVH8uch7g9LBnwWCz"
       },
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 150344,
       "name": "LA PIPA DE LA PAZ",
       "url": "https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy"
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 183374,
       "name": "Las Teclas del Piano",
       "url": "https://open.spotify.com/track/5nLVYMDn2Lnw9pSmNfG1bG"
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 179807,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4aCeS2az1PRHHKmac8v6bh"
@@ -7322,7 +7340,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 214981,
       "name": "Trankilikilon",
       "url": "https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT"
@@ -7866,7 +7884,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 218231,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"

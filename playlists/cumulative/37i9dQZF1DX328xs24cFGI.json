@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "KOINODHISUMAXTUCHIN",
+        "url": "https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU"
+      },
+      "artists": [
+        {
+          "name": "MOSHIMO",
+          "url": "https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "KOINODHISUMAXTUCHIN",
+      "url": "https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl"
+    },
+    {
+      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 168705,
       "name": "\u604b\u306e\u30c7\u30a3\u30b9\u30de\u30c3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/0Zciqrsv1JDOXWD5vYmY7F"

@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-261 songs - 23 hr 27 min
+262 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Sweet Smile](https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 5:27 | 2022-07-28 | 2022-08-12 |
 | [Sweet Smile](https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Sweet Smile](https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv) | 5:27 | 2022-02-18 | 2022-07-29 |
 | [Take Five](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:24 | 2020-03-31 | 2022-02-23 |
-| [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Bassic Instinct](https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf) | 3:40 | 2022-09-16 |  |
+| [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Bassic Instinct](https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf) | 3:40 | 2022-09-16 | 2023-06-01 |
 | [The End of a Bug Affair](https://open.spotify.com/track/1Jap4wnqf3Ykn7WEayPjss) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK), [Max Ionata](https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz) | [The End of a Bug Affair](https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ) | 5:25 | 2022-03-11 | 2023-04-14 |
 | [The Feeling of Jazz](https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [The Feeling of Jazz](https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1) | 4:52 | 2022-12-01 | 2023-05-16 |
 | [The Good Doctor](https://open.spotify.com/track/733Qlazejy9lhIcyTBwnjT) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 6:33 | 2020-03-31 |  |
@@ -251,6 +251,7 @@
 | [There Should Be](https://open.spotify.com/track/4OWELAW8bSXtGVdEm0atsP) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [There Should Be](https://open.spotify.com/album/5cj8BBEipY6So0TWG7TLJq) | 4:38 | 2022-08-30 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 | 2023-05-11 |  |
 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 | 2020-03-31 |  |
+| [There's Always A Way](https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [There's Always A Way](https://open.spotify.com/album/6i64NI6yiadQVZpDcljiqU) | 2:54 | 2023-05-25 |  |
 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 | 2022-02-18 | 2022-10-08 |
 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 | 2020-03-31 | 2022-04-21 |
 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2020-03-31 | 2022-05-18 |

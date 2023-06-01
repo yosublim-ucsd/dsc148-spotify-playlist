@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,192 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,294 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 50 | [Tan Solo Una Orden \(feat\. Alex Campos\) \- En Vivo](https://open.spotify.com/track/7DNHrOf6ON5QBj3vfo3SFo) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Thalles Acústico En Vivo En Colombia](https://open.spotify.com/album/0RGjDEyl6kD3YVhQ6NQdau) | 7:58 |
 | 51 | [Getsemaní](https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Getsemaní](https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q) | 4:08 |
 | 52 | [Soy Deudor](https://open.spotify.com/track/4y8zlxgE2TJsx3CnHW4NoR) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Soy Deudor](https://open.spotify.com/album/7CK2cxz889U7gjQV7qOqM3) | 5:35 |
-| 53 | [Alante Alante](https://open.spotify.com/track/1BFhZ6d45WF88zYgj6GpC4) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/12Zeqvk6kAz8ELKNKztD8e) | 2:48 |
+| 53 | [Alante Alante](https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1) | 2:48 |
 | 54 | [Mi Proceso \- \(Acústico\)](https://open.spotify.com/track/7kS9xabaX3a5qVsA5w5vQZ) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [Esto Es un Encuentro](https://open.spotify.com/album/4KYzmkZpH39uh2hHT42eQZ) | 4:52 |
 | 55 | [Estar contigo](https://open.spotify.com/track/4O7TLknCyDmUAiWOTLEhrG) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b), [Laura Melton](https://open.spotify.com/artist/3mKajcXbZH1wLKJUWn5YRI), [Rebeca Zamorano](https://open.spotify.com/artist/0VYpDFB2cAlvfacFCFvADL) | [Estar contigo](https://open.spotify.com/album/0QfwKy0Og6aXjQepLaAkLo) | 5:02 |
 | 56 | [Broken Places](https://open.spotify.com/track/7tHPM6axxrzgm5dlb6OSw0) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [There's a Rainbow Somewhere](https://open.spotify.com/album/5DRHqRTvpxyFN4cx79lQzA) | 4:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 69 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 |
 | 70 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 
-Snapshot ID: `MCw3NmU2ZjQ2NTA3MGEwZWZmMDRmNGVjNDkwNjQ4ZWNiMzM3ZjFlOTdj`
+Snapshot ID: `MCxhOTFmOWI0NmJlODk3OWU0NDU4YjJhN2I5NmNjNGZjZmE3OGIzOTk2`

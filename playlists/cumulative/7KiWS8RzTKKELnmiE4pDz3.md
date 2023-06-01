@@ -4,7 +4,7 @@
 
 > 
 
-451 songs - 20 hr 7 min
+455 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Freestyle 3](https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:22 | 2022-10-31 | 2023-05-09 |
 | [Freewave 4](https://open.spotify.com/track/45ENouhT5J97VgCcxQsxYu) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave](https://open.spotify.com/album/3GVblX9gjhR6bhP74EZQ3G) | 1:08 | 2022-12-24 | 2023-05-09 |
 | [Fresh As Fuck](https://open.spotify.com/track/1lpm9Nut3Lscr1I8qqrHmU) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:58 | 2023-02-05 |  |
+| [Fresh Prince Of Utah](https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:45 | 2023-05-31 |  |
 | [From A Mile](https://open.spotify.com/track/1YcW7OZBYQNhZ1Ub5IJRuJ) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [From A Mile](https://open.spotify.com/album/5nUViFewcaK9s4ej3aRU3u) | 2:00 | 2022-12-21 | 2023-03-21 |
 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 | 2022-10-14 | 2023-05-09 |
 | [Fuck Good Business](https://open.spotify.com/track/1VD6wUwdgSGlvRap1ygUA5) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Fuck Good Business](https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4) | 2:23 | 2023-01-11 | 2023-04-12 |
@@ -208,7 +209,7 @@
 | [Intro](https://open.spotify.com/track/22yTSaGkqjJj54MkiCNYOX) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o) | [Up the Score](https://open.spotify.com/album/0qVNSAy5oED9dQvIvIWZmG) | 2:16 | 2022-09-30 | 2023-05-09 |
 | [is it love, is it lies](https://open.spotify.com/track/2x6zJAm3O7HwHsX8KzWjFh) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 4:17 | 2023-04-04 | 2023-05-09 |
 | [It's Up](https://open.spotify.com/track/4ERg7RV7W0SWkel6mJBiHv) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 2:16 | 2023-01-07 | 2023-04-12 |
-| [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya tiji](https://open.spotify.com/artist/7F0aK74lu2WpGH9TV6dep2) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 | 2023-02-09 |  |
+| [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya Tiji](https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 | 2023-02-09 |  |
 | [JETLGGD](https://open.spotify.com/track/59U7bktlujuNRW7fBq1VDt) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 1:56 | 2022-08-14 | 2023-04-12 |
 | [Jew On The Canoe](https://open.spotify.com/track/694GED3o0OdFTsoS0aNpEs) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:09 | 2023-03-26 |  |
 | [Juice WRLD DID \(feat\. Juice WRLD\)](https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:27 | 2022-08-26 | 2023-04-12 |
@@ -257,6 +258,7 @@
 | [Mobb Love](https://open.spotify.com/track/6XgVRtmN6fiLjE4UGak7e0) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Mobb Love](https://open.spotify.com/album/53O7xgfmGg4ycqpmqbqwhS) | 2:35 | 2023-01-11 | 2023-04-12 |
 | [Molly](https://open.spotify.com/track/78voFwSSy0KLQw7BhHUAyn) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Molly](https://open.spotify.com/album/7pzfdgVTRRSaeXEESqjM6J) | 2:49 | 2022-04-20 |  |
 | [Money Twërk](https://open.spotify.com/track/29Z5qdYEYNFxly8n6Dt7kp) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:19 | 2022-08-26 |  |
+| [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 | 2023-05-31 |  |
 | [Mr.RipOff](https://open.spotify.com/track/1gsV6mdCveTaQ8c0POthMu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 1:52 | 2022-09-27 |  |
 | [Ms\. Alinda](https://open.spotify.com/track/1e8rowJQ4iFaoOkooAso3q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Dre Musiq](https://open.spotify.com/artist/2UyDjb0l77WcBcUltGCv0u) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 3:20 | 2022-12-23 | 2023-05-09 |
 | [Murda Talk](https://open.spotify.com/track/6v3Aiydqnab4A5PfC8Ecr4) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Murda Talk](https://open.spotify.com/album/1IY1X5qWqJV2DEpyJspTzH) | 2:07 | 2022-07-17 | 2023-05-09 |
@@ -407,6 +409,7 @@
 | [The Detox](https://open.spotify.com/track/1rWYoUOprzYyzlxL9so9jF) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:30 | 2023-01-27 | 2023-03-07 |
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 | 2023-05-09 |
 | [The LifeStyle!](https://open.spotify.com/track/5Umai3Zrbd80hOcvgAlBmw) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [SNOTTY WORLD](https://open.spotify.com/album/4WsroDqYcqI1DpRgRAwqF2) | 1:33 | 2022-10-26 | 2023-04-12 |
+| [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 | 2023-05-31 |  |
 | [The Remorse!](https://open.spotify.com/track/65sqEIYumzpGkUovLPmuiD) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 3:03 | 2023-01-20 |  |
 | [The world is yours](https://open.spotify.com/track/6NL85on1jpM2VuXR23Ix1P) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 1:20 | 2022-10-18 | 2023-05-09 |
 | [this is all too familiar ive seen this in a dream](https://open.spotify.com/track/5rW6ZGwODB5YiI0RnecJz9) | [Fulcrum](https://open.spotify.com/artist/6nbidWb6qovzknhOdeExt7) | [this is all too familiar ive seen this in a dream](https://open.spotify.com/album/5I1Je50iwcuXRi2w8yrl2y) | 2:13 | 2022-12-01 | 2023-05-09 |
@@ -423,6 +426,7 @@
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 |  |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2021-11-17 | 2023-05-09 |
+| [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 | 2023-05-31 |  |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 |  |
 | [Uncle Phil](https://open.spotify.com/track/0Lf4lhGWMan0D4kL66Insu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:37 | 2023-01-03 |  |
 | [Under Me](https://open.spotify.com/track/6ugMMzjEgL7xqNyrgwCCKh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:23 | 2022-07-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls?si=qVmqiUzbSemFtC4pV7oHLg">Jimi Cravity</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,436 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,560 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Can't Go So Wrong](https://open.spotify.com/track/2aaksCF6urZEIuMdwZ6FCj) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [Can't Go So Wrong](https://open.spotify.com/album/18MkTryujvbS702fRGqjoe) | 3:07 |
 | 100 | [Breaking Loose](https://open.spotify.com/track/4nPunXySonMS720E8qgvhA) | [JJ Weeks](https://open.spotify.com/artist/20hQkCKP8Zkhrotu3gy5pb) | [Breaking Loose](https://open.spotify.com/album/2IRyFobQynSPpnRF2Ul8mI) | 2:41 |
 
-Snapshot ID: `MCw1NjQ2OTM1NmQyNDdjOTg0NzBlNzZkNGVmNzY0MzUxMTQ4MzFhMzY1`
+Snapshot ID: `MCwxYTkzZDA1ZGY5ZmVmM2ZhYTEwMTJjOTYxNTE5ZTI2N2UzOWRlNDg0`

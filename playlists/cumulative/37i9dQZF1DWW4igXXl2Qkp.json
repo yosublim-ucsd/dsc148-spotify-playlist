@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Rory Fresco",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: That Mexican OT",
   "name": "Fresh Finds: Hip-Hop",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 104554,
       "name": "5 Star Chef",
       "url": "https://open.spotify.com/track/2wlYWh4BD7dcnvtD1bS4rz"
@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Choosin Me",
+        "url": "https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb"
+      },
+      "artists": [
+        {
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135322,
+      "name": "Choosin Me",
+      "url": "https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/5hXzqBYIxtsoBAAYaqxjGZ"
       },
@@ -4237,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "Edna (Capes)",
+        "url": "https://open.spotify.com/album/4vYaBCjcql0eewlAfLNNVP"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192364,
+      "name": "Edna (Capes)",
+      "url": "https://open.spotify.com/track/0u3rPAewRgSd5PVTdjBBgb"
+    },
+    {
+      "album": {
         "name": "El Nido",
         "url": "https://open.spotify.com/album/6ItPjJIBazYoNEag9gRIR7"
       },
@@ -4712,7 +4748,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 112920,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/3etouJKdaLH1CcXKiKo6zx"
@@ -6825,6 +6861,32 @@
     },
     {
       "album": {
+        "name": "Johnny Dang (with Paul Wall & DRODi)",
+        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
+      "album": {
         "name": "July!",
         "url": "https://open.spotify.com/album/28VPe39kQYOWGr1c69ixhu"
       },
@@ -7110,7 +7172,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 165517,
       "name": "Knocked Up",
       "url": "https://open.spotify.com/track/1CnTYUBeYKnwiWl2ljX6uI"
@@ -9960,7 +10022,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 135724,
       "name": "Papercuts",
       "url": "https://open.spotify.com/track/6AuqHJkNesmHfHK7AKxhR5"
@@ -11312,6 +11374,28 @@
       "duration_ms": 125016,
       "name": "RUN!",
       "url": "https://open.spotify.com/track/05lftM1vvY40FPDRlpunac"
+    },
+    {
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
+      },
+      "artists": [
+        {
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
+        },
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "S3 X",
+      "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
     },
     {
       "album": {

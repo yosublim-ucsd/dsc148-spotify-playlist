@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Land of Regrets",
+        "url": "https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx"
+      },
+      "artists": [
+        {
+          "name": "Alvah",
+          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204448,
+      "name": "Land of Regrets",
+      "url": "https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML"
+    },
+    {
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0"
       },
@@ -1042,6 +1060,28 @@
       "duration_ms": 189092,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW"
+    },
+    {
+      "album": {
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
     },
     {
       "album": {
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 173809,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
@@ -2044,7 +2084,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 172800,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn"

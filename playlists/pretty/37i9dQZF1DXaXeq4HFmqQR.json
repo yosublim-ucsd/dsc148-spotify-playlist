@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Catana. \nDales play, dales power.",
-  "num_followers": 11940,
+  "num_followers": 11939,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDVlNmZjM2Y0MDE1ZjNhNDkxZDAwODEyODUzMGZlZDIxMzU3ZjI4",
+  "snapshot_id": "MCw0NzBmYTJmY2EzZjFlMGI0YzE0OTdkNDA4MmExODI4MjhmMDVjOTM0",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -99,6 +99,26 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Porte",
+        "url": "https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 156024,
+      "name": "Porte",
+      "url": "https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "Faroles",
         "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
       },
@@ -127,26 +147,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Porte",
-        "url": "https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 156024,
-      "name": "Porte",
-      "url": "https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/5CuSM1UL5j2zySU8qsFZEf"
       },
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Maquiav\u00e9lica",
+        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Maquiav\u00e9lica",
+      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "MONA XINA",
         "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 152516,
       "name": "MONA XINA",
       "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Maquiav\u00e9lica",
-        "url": "https://open.spotify.com/album/5bFZOck3czgnJOIU1zvK2K"
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
       "artists": [
         {
-          "name": "VaniaJoplin",
-          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Maquiav\u00e9lica",
-      "url": "https://open.spotify.com/track/2M6nyjvK6IAR2s6QKUY4Rr"
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -271,6 +271,38 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 176525,
+      "name": "PERREO PA LAS NENAS",
+      "url": "https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193452,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "VATA",
         "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
       },
@@ -287,18 +319,70 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+        "name": "Eso Ta Perfecto",
+        "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
         }
       ],
-      "duration_ms": 176525,
-      "name": "PERREO PA LAS NENAS",
-      "url": "https://open.spotify.com/track/5nTIro0TwwOaUIiJ2t6Gmk"
+      "duration_ms": 137777,
+      "name": "Eso Ta Perfecto",
+      "url": "https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Soy una Gerla",
+        "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 116412,
+      "name": "Soy una Gerla",
+      "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "GATA PISTOLA",
+        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+        }
+      ],
+      "duration_ms": 126283,
+      "name": "To' Caro",
+      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -331,90 +415,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193452,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Eso Ta Perfecto",
-        "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 137777,
-      "name": "Eso Ta Perfecto",
-      "url": "https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Soy una Gerla",
-        "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 116412,
-      "name": "Soy una Gerla",
-      "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "GATA PISTOLA",
-        "url": "https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 126283,
-      "name": "To' Caro",
-      "url": "https://open.spotify.com/track/5L8dZ39OJpa4t0AGJX7FhJ"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 204490,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Back to Basics",
+        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 191857,
+      "name": "Siempre Nice",
+      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 177272,
       "name": "No Le Bajes",
       "url": "https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Back to Basics",
-        "url": "https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 191857,
-      "name": "Siempre Nice",
-      "url": "https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Br\u00edgida",
-        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
-      },
-      "artists": [
-        {
-          "name": "Vesta Lugg",
-          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
-        }
-      ],
-      "duration_ms": 162834,
-      "name": "Br\u00edgida",
-      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "No Ver\u00e1n",
         "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 205712,
       "name": "No Ver\u00e1n",
       "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Br\u00edgida",
+        "url": "https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp"
+      },
+      "artists": [
+        {
+          "name": "Vesta Lugg",
+          "url": "https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c"
+        }
+      ],
+      "duration_ms": 162834,
+      "name": "Br\u00edgida",
+      "url": "https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE"
     },
     {
       "added_at": "2023-05-03 03:00:00",

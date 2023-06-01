@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Arabic hits all in one place. Cover: Mahmoud Al Turky",
+  "description": "The biggest Arabic hits all in one place. Cover: Mohamed Ramadan",
   "name": "Yalla ",
   "tracks": [
     {
@@ -3928,6 +3928,24 @@
       "duration_ms": 210119,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/5XCmPcevC1eHbM8zfBYKRq"
+    },
+    {
+      "album": {
+        "name": "Seebk Enta",
+        "url": "https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Seebk Enta",
+      "url": "https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu"
     },
     {
       "album": {

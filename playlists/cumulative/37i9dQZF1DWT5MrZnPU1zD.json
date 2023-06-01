@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "BASE",
+        "url": "https://open.spotify.com/album/6bZ603gg1uZVONvzyCLA0d"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "BASE",
+      "url": "https://open.spotify.com/track/4MODrNdQupGkrWScijvQvU"
+    },
+    {
+      "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/2XtDT9YT729iLxWjuTMtrR"
       },
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 145210,
       "name": "Demon Party",
       "url": "https://open.spotify.com/track/1QhpHt9C42tIp9rdYQ4zWS"
@@ -10664,7 +10682,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
@@ -13632,7 +13650,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"

@@ -4,7 +4,7 @@
 
 > Aperitivo, lounge, chill: musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-252 songs - 16 hr 14 min
+253 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Milo's Breeze](https://open.spotify.com/track/2Iad2uYF42TsNJyPHRDAOJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milo's Journey](https://open.spotify.com/album/2HCniE0c6Gggdy1eW4DNdw) | 4:22 | 2021-08-05 | 2022-06-23 |
 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 | 2021-08-05 | 2023-05-31 |
 | [Mirage](https://open.spotify.com/track/4lPq7yzD0FW8HUWQ61Puvv) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Mirage](https://open.spotify.com/album/3638ZiUtBJSBzSTjNkXv5h) | 3:37 | 2021-08-05 | 2022-07-29 |
-| [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 | 2023-05-30 |  |
+| [Missing \- Todd Terry Remix](https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart \(Deluxe Edition\)](https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2) | 3:56 | 2023-05-30 | 2023-06-01 |
 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 | 2021-08-05 | 2023-05-31 |
 | [More, More, More \- Single Version](https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:00 | 2023-05-14 | 2023-05-30 |
 | [Morning Light](https://open.spotify.com/track/6ruy12YyfW9VOz1lyEygYg) | [Onda Norte](https://open.spotify.com/artist/1bQ3iOIv9mCNc5AZrMZe6E) | [Copacabana](https://open.spotify.com/album/4TZjs8vZVc5Y6NgdafcVH6) | 2:37 | 2021-08-05 | 2022-07-29 |
@@ -176,6 +176,7 @@
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2021-08-05 | 2022-10-10 |
 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2023-05-30 |  |
 | [Portofino](https://open.spotify.com/track/5pAdgRrEDtLAGU83fpkiD6) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 2:55 | 2023-05-14 | 2023-05-30 |
+| [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-30 |  |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-05-30 |  |
 | [Psicomagia](https://open.spotify.com/track/1BDfGMy4SK2OaZhX522zB6) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Psicomagia](https://open.spotify.com/album/0htTcwRP2A5J33zOqtkgNV) | 3:10 | 2023-05-14 | 2023-05-30 |
 | [Push It Up](https://open.spotify.com/track/5h5PYUY5NCeCPLvPixTgVl) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:24 | 2023-05-14 | 2023-05-30 |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-447 songs - 1 day 1 hr 4 min
+448 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [ANSWERS](https://open.spotify.com/track/6giF69se8doTga9JDiGAGp) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [3034](https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx) | 3:51 | 2022-11-03 | 2023-01-30 |
 | [ANTHEM](https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:00 | 2023-02-22 |  |
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |
+| [Aurora](https://open.spotify.com/track/5FEbMc1hZuQahbLv0KDTNI) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Aurora](https://open.spotify.com/album/0wsTnLWu8E6Ly8Jl84dG0O) | 7:08 | 2023-05-31 |  |
 | [aywhat + supasoaka](https://open.spotify.com/track/7bfUCyvnGwly51E5Qx1XE2) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVYELLOW](https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL) | 2:34 | 2022-04-18 | 2022-07-23 |
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-02 |  |
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-23 |  |

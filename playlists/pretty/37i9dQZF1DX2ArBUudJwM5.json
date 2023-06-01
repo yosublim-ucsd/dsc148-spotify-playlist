@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWZlM2EyYTJiM2E4NDkwY2JlZWVhYzMzNDVhNzgyMjk0Njc4NTlm",
+  "snapshot_id": "MCwyODYzYzViNTUyMjMzYzFhOWQ2ZGQ4MjI0MWVhMjRkNjdjZTY5M2E4",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
       },
@@ -107,18 +91,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Suerte",
-        "url": "https://open.spotify.com/album/392hK64cm39C8CDetPM6HC"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
       "artists": [
         {
-          "name": "Mora y los Metegoles",
-          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 77500,
-      "name": "Gran remera",
-      "url": "https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD"
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -135,6 +119,22 @@
       "duration_ms": 194470,
       "name": "Piedra del \u00c1guila",
       "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/392hK64cm39C8CDetPM6HC"
+      },
+      "artists": [
+        {
+          "name": "Mora y los Metegoles",
+          "url": "https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX"
+        }
+      ],
+      "duration_ms": 77500,
+      "name": "Gran remera",
+      "url": "https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "En la arena",
-        "url": "https://open.spotify.com/album/5K5WS0vFNNSHcSYZTmKma4"
+        "name": "M\u00e1gica Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
       "artists": [
         {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 289893,
-      "name": "En la arena",
-      "url": "https://open.spotify.com/track/3bjgeWGIREJFpCkSqr206N"
+      "duration_ms": 190393,
+      "name": "M\u00e1gica Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -395,18 +399,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Luz de perla",
-        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+        "name": "En la arena",
+        "url": "https://open.spotify.com/album/5K5WS0vFNNSHcSYZTmKma4"
       },
       "artists": [
         {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
         }
       ],
-      "duration_ms": 161173,
-      "name": "Pido 1 deseo",
-      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+      "duration_ms": 289893,
+      "name": "En la arena",
+      "url": "https://open.spotify.com/track/3bjgeWGIREJFpCkSqr206N"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "M\u00e1gica Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
       "artists": [
-        {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        },
         {
           "name": "Anyi",
           "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 190393,
-      "name": "M\u00e1gica Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
+      "duration_ms": 161173,
+      "name": "Pido 1 deseo",
+      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
+      },
+      "artists": [
+        {
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Otro Vals",
-        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Otro Vals",
-      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "La Casa De Tu Mam\u00e1",
         "url": "https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 193355,
       "name": "La Casa De Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Otro Vals",
+        "url": "https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Otro Vals",
+      "url": "https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Mirandesco",
-        "url": "https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh"
-      },
-      "artists": [
-        {
-          "name": "Amor Elefante",
-          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
-        }
-      ],
-      "duration_ms": 204939,
-      "name": "Mirandesco",
-      "url": "https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Pendeja",
         "url": "https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 211830,
       "name": "Manos",
       "url": "https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Mirandesco",
+        "url": "https://open.spotify.com/album/6Wz0DZ95DCDSKJxEiUEtNh"
+      },
+      "artists": [
+        {
+          "name": "Amor Elefante",
+          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
+        }
+      ],
+      "duration_ms": 204939,
+      "name": "Mirandesco",
+      "url": "https://open.spotify.com/track/48CheHoGPLRrFIBkm6vFsa"
     },
     {
       "added_at": "2023-05-03 03:00:00",

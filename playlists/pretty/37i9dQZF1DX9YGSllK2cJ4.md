@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,656 likes - 187 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,758 likes - 187 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 27 | [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 |
 | 28 | [Momentum](https://open.spotify.com/track/3yvKMfTf8vmUGm1tpJhl6k) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Momentum](https://open.spotify.com/album/5SlfPOZfk4Tc339US9TKOX) | 3:06 |
 | 29 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 |
-| 30 | [Sans fleurir](https://open.spotify.com/track/2e3hqbmp2aSE1EAG7PzEWw) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [L’éternel azur](https://open.spotify.com/album/6xArsSRZwYLiR1tOi6lvKa) | 2:24 |
+| 30 | [Sans fleurir](https://open.spotify.com/track/6BYUM69MpmpeqfOugH2yOo) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Éphémère](https://open.spotify.com/album/5Yi1okv4v6wokUG3C4BRAG) | 2:24 |
 | 31 | [Soleil De Printemps](https://open.spotify.com/track/2BbNiUr4ghymoRiLJfAB2c) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Soleil De Printemps](https://open.spotify.com/album/7HEBXPgrGgxWrDe4Eq1kPY) | 2:57 |
 | 32 | [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 |
 | 33 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 35 | [Bay Of Thoughts](https://open.spotify.com/track/3Q0B335WfWmGc1thG0HeTz) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Bay Of Thoughts](https://open.spotify.com/album/7MEaC9FXiVb9QpRH7qfORp) | 2:20 |
 | 36 | [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 |
 | 37 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 |
-| 38 | [Only If You Stay](https://open.spotify.com/track/3wm0sy150JqW6pKNzSJZjV) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [As Time Will Tell](https://open.spotify.com/album/1EobeAcIPLf9DCjVEaD2yH) | 2:34 |
+| 38 | [Only If You Stay](https://open.spotify.com/track/5qTDBdXQbOMPXM3TFSBjbB) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Light From Your Eyes](https://open.spotify.com/album/0JgFVac8yutlbFSVp6aBrz) | 2:34 |
 | 39 | [Unspoken](https://open.spotify.com/track/3Jo42tXGYy1CI7cxdKXJXE) | [Jaume Mitjà](https://open.spotify.com/artist/7pTrSZc1NwUjiBZ8PE5uyL) | [Unspoken](https://open.spotify.com/album/6z6b8ttpmDkUpJA74sBjn0) | 2:29 |
 | 40 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 |
 | 41 | [Cure Me](https://open.spotify.com/track/29bBm6109p8lSuPxk5DhIj) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Cure Me](https://open.spotify.com/album/4yErhA9EXftYt51OBRUk88) | 2:46 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 186 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 187 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw2OWM1MDRkY2M0NTNjMzk2NTI3ZjQ3YThmNWUyZGJhOGY2OTIxYTlk`
+Snapshot ID: `MCw1MDY3Y2RjMjQ5MzgyNTU3NGZkODUxMTE2NDZmZDQ3NzgyNWYwYTll`

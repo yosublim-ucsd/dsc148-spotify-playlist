@@ -2,7 +2,7 @@
 
 ### [This Is NCT](https://open.spotify.com/playlist/37i9dQZF1DX7bgKEb1LOV6)
 
-> NCTzens' go\-to place for all things NCT.
+> To the world, this is NCT!
 
 177 songs - 10 hr 21 min
 

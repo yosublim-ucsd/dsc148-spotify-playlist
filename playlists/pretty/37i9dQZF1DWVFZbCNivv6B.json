@@ -1,13 +1,29 @@
 {
-  "description": "Aqu\u00ed vive el hip-hop mexicano. MC Davo, TREN LOKOTE y Kodigo est\u00e1n en la casa. ",
-  "num_followers": 677225,
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX est\u00e1 en la casa. ",
+  "num_followers": 677380,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGQzNGVhMDRjOWUwMDA5ZGY0ZTUwZDZlNjg5OGM5MDYzODE1YzZm",
+  "snapshot_id": "MCwwYTg4ZjgwNzU1NTYxYzFiNzYzZjgwOGM0OTljNjNiY2VlNjhkN2M4",
   "tracks": [
+    {
+      "added_at": "2023-06-01 00:00:00",
+      "album": {
+        "name": "Gitana",
+        "url": "https://open.spotify.com/album/5lc9ECpBegUqzeJ1g5oaJZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Gitana",
+      "url": "https://open.spotify.com/track/5Xj9P1E58HMj9I1Q1YBk4y"
+    },
     {
       "added_at": "2023-05-26 06:15:08",
       "album": {
@@ -335,38 +351,6 @@
       "duration_ms": 196243,
       "name": "Mitolo G's",
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/7z3mdqI9Ivp6yAzNAGVT7Z"
-      },
-      "artists": [
-        {
-          "name": "Perro Zw",
-          "url": "https://open.spotify.com/artist/7CPuRgoqujB5wHULxqiIqv"
-        }
-      ],
-      "duration_ms": 179807,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/4aCeS2az1PRHHKmac8v6bh"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
-        "name": "Trankilikilon",
-        "url": "https://open.spotify.com/album/6JiEE9Gp2A4ltyUz43mHtn"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 214981,
-      "name": "Trankilikilon",
-      "url": "https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT"
     },
     {
       "added_at": "2023-05-26 06:15:08",
@@ -779,22 +763,6 @@
     {
       "added_at": "2023-05-26 06:15:08",
       "album": {
-        "name": "Las Teclas del Piano",
-        "url": "https://open.spotify.com/album/1S6vf8czPjIQvTdArSHHDb"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Las Teclas del Piano",
-      "url": "https://open.spotify.com/track/5nLVYMDn2Lnw9pSmNfG1bG"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -1027,30 +995,6 @@
       "duration_ms": 239000,
       "name": "Alzypher Vol. 8",
       "url": "https://open.spotify.com/track/2q5bIRmfQVowa6qhNVhvWI"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
-        "name": "Ya Ni Se",
-        "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 218231,
-      "name": "Ya Ni Se",
-      "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
     },
     {
       "added_at": "2023-05-26 06:15:08",
@@ -1951,22 +1895,6 @@
     {
       "added_at": "2023-05-26 06:15:08",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/1KDs7zf9avbajx2jtOTqOe"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Alto Voltaje",
-      "url": "https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
         "name": "Pyrena",
         "url": "https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B"
       },
@@ -1979,26 +1907,6 @@
       "duration_ms": 226214,
       "name": "Pyrena",
       "url": "https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2"
-    },
-    {
-      "added_at": "2023-05-26 06:15:08",
-      "album": {
-        "name": "LA PIPA DE LA PAZ",
-        "url": "https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "LA PIPA DE LA PAZ",
-      "url": "https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy"
     },
     {
       "added_at": "2023-05-26 06:15:08",

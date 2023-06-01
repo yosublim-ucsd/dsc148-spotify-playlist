@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 201653,
       "name": "Haul Away, Joe",
       "url": "https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC"
@@ -1692,6 +1692,24 @@
       "duration_ms": 253376,
       "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
       "url": "https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg"
+    },
+    {
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/24bp5VFAICVJ2ZXRuDUCJP"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253376,
+      "name": "These Times Have Got Me Drinking / Tripping Up The Stairs",
+      "url": "https://open.spotify.com/track/7IOrBMvRcXDg7cbYN925xk"
     },
     {
       "album": {

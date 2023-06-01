@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 313214,
+  "num_followers": 313308,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2NiNDQ3NTg5ZmQ4MDNlM2U1MmE2MTNlNWYxMjY4NjI4NTJjOTQ3",
+  "snapshot_id": "MCwwZDA1MTBkYWU5Yzk5NzE3ZTcxZDE2NWI2YmQwMTdlMDBlN2NlNTlh",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Boreal Kiss Pt. 1",
-      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Boreal Kiss Pt. 1",
+      "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Gelis",
-        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
-      },
-      "artists": [
-        {
-          "name": "Flako",
-          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Gelis",
-      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Reminisce",
@@ -483,6 +467,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Gelis",
+        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
+      },
+      "artists": [
+        {
+          "name": "Flako",
+          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Gelis",
+      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
       "added_at": "2022-09-30 02:45:34",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Waende",
         "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 232742,
       "name": "Waende",
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2022-10-14 04:40:55",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Angel's Flight",
-        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 352357,
-      "name": "Angel's Flight",
-      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
       "added_at": "2022-10-14 13:00:12",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
     },
     {
-      "added_at": "2023-02-14 16:06:07",
-      "album": {
-        "name": "Ventus",
-        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
-      },
-      "artists": [
-        {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
-        }
-      ],
-      "duration_ms": 304831,
-      "name": "Ventus",
-      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
@@ -821,20 +805,20 @@
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-02-14 16:06:07",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl"
+        "name": "Ventus",
+        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
         }
       ],
-      "duration_ms": 483594,
-      "name": "Sais",
-      "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
+      "duration_ms": 304831,
+      "name": "Ventus",
+      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -855,6 +839,22 @@
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 483594,
+      "name": "Sais",
+      "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
     }
   ],
   "unique_name": "Deep Listening",

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9492,
+  "num_followers": 9501,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjY3MjQ4YTMwODg3OTlkOWQ2ZjRhNGY5YjAwMDBhODE3MDg2ZGIy",
+  "snapshot_id": "MCwyNjFiYmVkOWI5ZGFjYjNiZWEyN2Q5MTdmZTU3MDc1MzY0NDIxMmI4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -95,6 +95,26 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Riding With the King",
+      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Can't Look Back",
         "url": "https://open.spotify.com/album/1SvTWXMHWM41KEQ3es4m0r"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 293400,
       "name": "Mojo Boogie - Remastered",
       "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Riding With the King",
-      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 295746,
-      "name": "Best in Town",
-      "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
+      "duration_ms": 220706,
+      "name": "Palace Of The King - Remastered",
+      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Palace Of The King - Remastered",
-      "url": "https://open.spotify.com/track/6u71ueCmdXNGjbbAX4bkOU"
+      "duration_ms": 295746,
+      "name": "Best in Town",
+      "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
-      },
-      "artists": [
-        {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 290160,
       "name": "Shakin' Shakin' Shakes",
       "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Girls With Guitars",
+        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
+      },
+      "artists": [
+        {
+          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
+          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Girls With Guitars",
-        "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
-      },
-      "artists": [
-        {
-          "name": "Cassie Taylor / Dani Wilde / Samantha Fish",
-          "url": "https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Mr. Loving Man",
-      "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Show Of Strength",
         "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
       },
@@ -847,6 +831,26 @@
       "duration_ms": 360146,
       "name": "Little Juke Joint",
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
+    },
+    {
+      "added_at": "2021-03-19 05:01:00",
+      "album": {
+        "name": "Spider in My Stew",
+        "url": "https://open.spotify.com/album/3ETwjRS1dAVbWVW39gm4ws"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 249234,
+      "name": "Big Mama's Soul Food",
+      "url": "https://open.spotify.com/track/2QWfbg05cUgoOBKHSZ5MeC"
     },
     {
       "added_at": "2021-05-21 04:01:00",

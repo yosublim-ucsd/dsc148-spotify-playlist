@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Mambolosco, Baby Gang, Ernia e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,366 likes - 97 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,405 likes - 97 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 64 | [JESUS](https://open.spotify.com/track/0EcgkKCqutCsLsHve6cd5n) | [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD), [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [JESUS](https://open.spotify.com/album/2awpbpUlfkePcspyrj0ysS) | 4:06 |
 | 65 | [Guardo la moon](https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [Guardo la moon](https://open.spotify.com/album/0S4ADNwKbyzj42x2IvSS2w) | 2:39 |
 | 66 | [PESANTE](https://open.spotify.com/track/6iAh2XHEjWPVCJmHyD42kz) | [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [PESANTE](https://open.spotify.com/album/6sFhaybkTtbQ0Gg9OX4NBv) | 2:10 |
-| 67 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [KERO](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
+| 67 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
 | 68 | [Airmax & Armani](https://open.spotify.com/track/03L5MOo7uokaC5WfFef55I) | [Track Ivoire](https://open.spotify.com/artist/1ilyd3IKaD38wSEMGGYNpm) | [Airmax & Armani](https://open.spotify.com/album/6R417YldgDUrXJ1YT666lp) | 3:21 |
 | 69 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 |
 | 70 | [Steppers \(feat\. Guè\)](https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Quarto di Bue](https://open.spotify.com/album/2KCiV7WqpsT4tZ8ZIEUmFm) | 2:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 96 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 |
 | 97 | [SACRIFICIO \(feat\. Kid Yugi\)](https://open.spotify.com/track/1ghLr2XLBgkTAInmmyuVnp) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:13 |
 
-Snapshot ID: `MCw5NjE4ZTdjZmQxOGM1OGI0NDk0MDk4Yjk2ZjUyZDJmZTc3ZjQzNmNi`
+Snapshot ID: `MCxmNDc5Yzc3NWNkN2JiMDJhY2I4ZDg0ZTU0MjFjNTA4YjQ3ZTNlZTRj`

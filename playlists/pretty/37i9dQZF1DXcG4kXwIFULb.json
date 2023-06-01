@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 122604,
+  "num_followers": 122745,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmY2NTI4Nzc4MTdlMTcyMTljZmI0MTFhNzAwMTI5N2YwOTM0NmJk",
+  "snapshot_id": "MCxjZTZkZjQ4ZGNkOGNiNjBmNTQ2MmRjODgzM2NlYTk2Y2NlYzNmNzBh",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Becoming X",
-        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "6 Underground",
-      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 293200,
       "name": "Wandering Star",
       "url": "https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Becoming X",
+        "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
+      },
+      "artists": [
+        {
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "6 Underground",
+      "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 235800,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 198026,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/6CDoP0pDTfnWUabFnZkjRF"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The 5th Exotic",
         "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 223013,
       "name": "Time Is the Enemy",
       "url": "https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -915,6 +899,22 @@
       "duration_ms": 533013,
       "name": "Lonely Soul",
       "url": "https://open.spotify.com/track/2LmFeLBe39IfY0XfqJ0vOi"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "H\u00f4tel Costes",
-        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
-      },
-      "artists": [
-        {
-          "name": "De-Phazz",
-          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "No jive",
-      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "H\u00f4tel Costes",
+        "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
+      },
+      "artists": [
+        {
+          "name": "De-Phazz",
+          "url": "https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "No jive",
+      "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Gran Hotel Buenos Aires",
-        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
-      },
-      "artists": [
-        {
-          "name": "Federico Aubele",
-          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Postales",
-      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Let's Get Killed",
         "url": "https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1"
       },
@@ -1083,38 +1067,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Angel Milk",
-        "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
+        "name": "Gran Hotel Buenos Aires",
+        "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
       },
       "artists": [
         {
-          "name": "T\u00e9l\u00e9popmusik",
-          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
-        },
-        {
-          "name": "Angela McCluskey",
-          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+          "name": "Federico Aubele",
+          "url": "https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq"
         }
       ],
-      "duration_ms": 230066,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
+      "duration_ms": 247040,
+      "name": "Postales",
+      "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1131,6 +1095,22 @@
       "duration_ms": 328265,
       "name": "Relaxin' with cherry",
       "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1163,6 +1143,26 @@
       "duration_ms": 278144,
       "name": "DUST",
       "url": "https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Angel Milk",
+        "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
+      "duration_ms": 292106,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1379,8 +1379,8 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 292106,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Electric Lazyland",
-        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Never, Never, Land",
         "url": "https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Walking Wounded (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
+        "name": "Electric Lazyland",
+        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
       },
       "artists": [
         {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
         }
       ],
-      "duration_ms": 257720,
-      "name": "Before Today - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1663,6 +1647,22 @@
       "duration_ms": 243426,
       "name": "Angels",
       "url": "https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Walking Wounded (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 257720,
+      "name": "Before Today - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
     },
     {
       "added_at": "2020-09-04 01:12:56",

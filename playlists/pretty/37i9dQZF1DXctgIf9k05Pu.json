@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 234027,
+  "num_followers": 234093,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGMyNGZiYTJhYjE5MzlkYmI2MjY3OWNiN2ViMjFkYTUxMjhmNTgx",
+  "snapshot_id": "MCxkNTI4MjE3OGZhY2U0MmE5ZGZjMWQzZjIwZTA3ZmVlOGFlMzg5MmE2",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gentle Boy",
-        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
-      },
-      "artists": [
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 122704,
-      "name": "this girl",
-      "url": "https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Gentle Boy",
+        "url": "https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 122704,
+      "name": "this girl",
+      "url": "https://open.spotify.com/track/3goHtgOLM6WsieEBgOJx4i"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
-      },
-      "artists": [
-        {
-          "name": "eery",
-          "url": "https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 102176,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
+      },
+      "artists": [
+        {
+          "name": "eery",
+          "url": "https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH"
+        }
+      ],
+      "duration_ms": 123219,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "osho",
-        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
-      },
-      "artists": [
-        {
-          "name": "Nohidea",
-          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
-        }
-      ],
-      "duration_ms": 139684,
-      "name": "sincerely, yours",
-      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Quickly Quickly, Vol. 1",
         "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 332173,
       "name": "Getsomerest/sleepwell",
       "url": "https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "osho",
+        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
+      },
+      "artists": [
+        {
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
+        }
+      ],
+      "duration_ms": 139684,
+      "name": "sincerely, yours",
+      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
+      },
+      "artists": [
+        {
+          "name": "DJ BYmoment",
+          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
+        }
+      ],
+      "duration_ms": 121477,
+      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "recreation",
         "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 158435,
       "name": "Aesthetic",
       "url": "https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Aesthetic Girl",
-        "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
-      },
-      "artists": [
-        {
-          "name": "Yusei",
-          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
-        }
-      ],
-      "duration_ms": 258144,
-      "name": "Aesthetic Girl",
-      "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
     }
   ],
   "unique_name": "Aesthetic Lofi",

@@ -730,7 +730,7 @@
     {
       "album": {
         "name": "BOLD (feat. reina)",
-        "url": "https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG"
+        "url": "https://open.spotify.com/album/014D3rCQX8K9Hqqj9dYEl6"
       },
       "artists": [
         {
@@ -745,6 +745,28 @@
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143649,
+      "name": "BOLD (feat. reina)",
+      "url": "https://open.spotify.com/track/3GJszdk6pDqqHN1XZJla8Z"
+    },
+    {
+      "album": {
+        "name": "BOLD (feat. reina)",
+        "url": "https://open.spotify.com/album/1usd1sCOenjgbcgpbyHwpG"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
       "duration_ms": 143649,
       "name": "BOLD - feat. reina",
       "url": "https://open.spotify.com/track/0ysitHytpmV4P83IKMxxdF"
@@ -851,7 +873,7 @@
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167586,
+      "duration_ms": 168000,
       "name": "Breathless (with Alina Baraz)",
       "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
@@ -4093,6 +4115,28 @@
     },
     {
       "album": {
+        "name": "NIGHT DANCER (BIG Naughty Remix)",
+        "url": "https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210451,
+      "name": "NIGHT DANCER - BIG Naughty Remix",
+      "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ"
       },
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"

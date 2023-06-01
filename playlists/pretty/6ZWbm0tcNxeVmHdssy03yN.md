@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,264 likes - 93 songs - 4 hr 36 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,279 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
 | 2 | [Terrified](https://open.spotify.com/track/4z9ypdntkvGCIKYnAeaIJA) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Terrified](https://open.spotify.com/album/5tg2L6H8SCiVC7sLebVqS6) | 5:20 |
-| 3 | [Doctors](https://open.spotify.com/track/2GRkE5E0Yvnao8vnaBA7Un) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [SB](https://open.spotify.com/artist/0aKoAwqRVhigYe3JlWJKg2), [Bluw](https://open.spotify.com/artist/6GKbgKHf3FNjdPnAvius6n) | [08701](https://open.spotify.com/album/0TH6e2x5LdNY1LOtYaIvFH) | 2:03 |
+| 3 | [Doctors](https://open.spotify.com/track/2GRkE5E0Yvnao8vnaBA7Un) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v), [SB Ricflair](https://open.spotify.com/artist/1Td4Hpppnv2kzQAYsKOBTS), [Bluw](https://open.spotify.com/artist/6GKbgKHf3FNjdPnAvius6n) | [08701](https://open.spotify.com/album/0TH6e2x5LdNY1LOtYaIvFH) | 2:03 |
 | 4 | [Illusion](https://open.spotify.com/track/5imJsl4MSkHooYYNOktRQ3) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [08701](https://open.spotify.com/album/0TH6e2x5LdNY1LOtYaIvFH) | 2:28 |
 | 5 | [Everyday Love](https://open.spotify.com/track/6wXRsCSsGwY1bfXK3BaZ7L) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Everyday Love](https://open.spotify.com/album/5YuQhH8F5KA5xqSZYbgZzp) | 3:53 |
 | 6 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 |

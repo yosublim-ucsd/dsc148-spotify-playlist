@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Hirune no Kuni",
+        "url": "https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Hirune no Kuni",
+      "url": "https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG"
+    },
+    {
+      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/1hqlSmgJUwG5tc60o33zwF"
       },
@@ -3277,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "kajitsukyoso",
+        "url": "https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30ca\u30ba\u30e0",
+          "url": "https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257409,
+      "name": "kajitsukyoso",
+      "url": "https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I"
+    },
+    {
+      "album": {
         "name": "Kakera",
         "url": "https://open.spotify.com/album/3ZhIsNXor713iNuq7Ge32v"
       },
@@ -3418,6 +3454,24 @@
       "duration_ms": 179000,
       "name": "Kodoku",
       "url": "https://open.spotify.com/track/74dY9HrENvoHvb1xLxyVqo"
+    },
+    {
+      "album": {
+        "name": "KOINODHISUMAXTUCHIN",
+        "url": "https://open.spotify.com/album/5B016jj6OpHB6GSSSXIAaU"
+      },
+      "artists": [
+        {
+          "name": "MOSHIMO",
+          "url": "https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168705,
+      "name": "KOINODHISUMAXTUCHIN",
+      "url": "https://open.spotify.com/track/7CvYzuttwz9Yn7Z5nBUzjl"
     },
     {
       "album": {
@@ -7700,24 +7754,6 @@
       "duration_ms": 142736,
       "name": "Whoopie is a Punkrocker",
       "url": "https://open.spotify.com/track/7f7ufnrborStLtDM0rP3rO"
-    },
-    {
-      "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP"
-      },
-      "artists": [
-        {
-          "name": "Gestalt Girl",
-          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
-        }
-      ],
-      "date_added": "2023-05-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256250,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv"
     },
     {
       "album": {
@@ -13538,7 +13574,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 257409,
       "name": "\u590f\u65e5\u72c2\u60f3",
       "url": "https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8"
@@ -14114,7 +14150,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 369253,
       "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
       "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"
@@ -14132,7 +14168,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 168705,
       "name": "\u604b\u306e\u30c7\u30a3\u30b9\u30de\u30c3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/0Zciqrsv1JDOXWD5vYmY7F"
@@ -15922,6 +15958,24 @@
       "duration_ms": 281367,
       "name": "\u7a7a\u84bc\u3044\u307e\u307e",
       "url": "https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB"
+    },
+    {
+      "album": {
+        "name": "\u7a93",
+        "url": "https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256250,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv"
     },
     {
       "album": {

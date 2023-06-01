@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-251 songs - 15 hr 8 min
+252 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alive](https://open.spotify.com/track/1V2sPZ1MLScV2EjYHGw5Aq) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Alive](https://open.spotify.com/album/1t5kB9h7TGKpyqZx1Llfvo) | 2:55 | 2022-09-09 |  |
 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-15 |  |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-09-09 |  |
-| [All the Time](https://open.spotify.com/track/19hkRoctnBAVQ7VnLYM6je) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2iTYwxJ3AuZcxMCHlAsFuF) | 3:52 | 2022-09-09 |  |
+| [All the Time](https://open.spotify.com/track/19hkRoctnBAVQ7VnLYM6je) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2iTYwxJ3AuZcxMCHlAsFuF) | 3:52 | 2022-09-09 | 2023-06-01 |
+| [All the Time](https://open.spotify.com/track/4NraPJT1UqJZG925x8JKs0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2x9gSrdY96RMCcg4N3QY3i) | 3:52 | 2023-05-25 |  |
 | [Am Ta](https://open.spotify.com/track/1kxD9cHzYspr92wMjTyUIu) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW) | [Am Ta EP](https://open.spotify.com/album/3jWRdeKMHeSFTBzYvxWV9K) | 4:30 | 2022-09-29 |  |
 | [Amazing](https://open.spotify.com/track/37Atk9zfwLjfdCfgNOwqEX) | [CASUAL](https://open.spotify.com/artist/2z28pJU1CDDelSqq2gFNgg) | [Amazing](https://open.spotify.com/album/5QgofZ3fgy3XQ4sWw9ZkuN) | 3:01 | 2022-09-09 |  |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-09-09 |  |

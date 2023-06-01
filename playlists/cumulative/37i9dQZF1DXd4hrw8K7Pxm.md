@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-87 songs - 5 hr 15 min
+88 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 | 2020-10-16 | 2022-07-29 |
 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 | 2020-10-16 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 | 2020-10-16 | 2022-11-13 |
-| [Never Surrender](https://open.spotify.com/track/7G3OpJf9H8QMQ4xjQn8bvm) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Never Surrender](https://open.spotify.com/album/6MQJgZUzgaUyihM4yWx2la) | 3:59 | 2020-10-16 |  |
+| [Never Surrender](https://open.spotify.com/track/59EKUdTy6K96Xode9LfI0H) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Never Surrender](https://open.spotify.com/album/17mzsBzgIIJo4iiHj5YywH) | 3:59 | 2020-10-16 |  |
+| [Never Surrender](https://open.spotify.com/track/7G3OpJf9H8QMQ4xjQn8bvm) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Never Surrender](https://open.spotify.com/album/6MQJgZUzgaUyihM4yWx2la) | 3:59 | 2020-10-16 | 2023-06-01 |
 | [One Republic Mash\-Up](https://open.spotify.com/track/0Qn7h2I9Fajtj7lgvkho8y) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Covers Part III](https://open.spotify.com/album/0I5Ex3qsCsSPEZ1wlgVsE7) | 2:37 | 2020-10-16 |  |
 | [Perfect](https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Perfect](https://open.spotify.com/album/3L87d5pBbyRyi5VYnC3Mk7) | 4:48 | 2020-10-16 |  |
 | [Radioactive \- Acoustic Version](https://open.spotify.com/track/3gpLCZcf7RTqvgQKZCEpOT) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Radioactive \(Acoustic Version\)](https://open.spotify.com/album/6bRyQvILVlQcFuqI9DDjUN) | 3:13 | 2020-10-16 |  |

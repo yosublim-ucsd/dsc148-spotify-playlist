@@ -390,7 +390,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
@@ -1244,6 +1244,32 @@
       "duration_ms": 212933,
       "name": "Relaxing",
       "url": "https://open.spotify.com/track/3w0aUsD1t1BLjS07tJkb79"
+    },
+    {
+      "album": {
+        "name": "Remembranzas",
+        "url": "https://open.spotify.com/album/1nGaQn6Vh2nneDYgTtMwxK"
+      },
+      "artists": [
+        {
+          "name": "Edgar Dorantes",
+          "url": "https://open.spotify.com/artist/14IDIXsaBbdaQygouydSgK"
+        },
+        {
+          "name": "Emiliano Coronel",
+          "url": "https://open.spotify.com/artist/3o9wZ9Jl3y7LQqUhYva7ZB"
+        },
+        {
+          "name": "Vladimir Coronel",
+          "url": "https://open.spotify.com/artist/1BjvkoxetuVsSBUQ3Y6CtK"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Remembranzas",
+      "url": "https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp"
     },
     {
       "album": {

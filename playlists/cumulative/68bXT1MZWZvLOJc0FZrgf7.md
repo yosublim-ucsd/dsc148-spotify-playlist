@@ -2,7 +2,7 @@
 
 ### [Dance For Days](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits\. Cover: Cash Cash
+> Press play and dance away to your favorite electronic hits\. Cover: Party Favor and Baauer
 
 369 songs - 19 hr 23 min
 
@@ -45,7 +45,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 | 2022-11-19 |
 | [Break The Same](https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Break The Same](https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ) | 3:16 | 2022-06-03 | 2023-02-05 |
 | [Breakout \(feat\. LaMeduza\)](https://open.spotify.com/track/1gyUWnRt5qvq0pqgvTzHKI) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Breakout](https://open.spotify.com/album/1xdx9pFQ67KSJ2fCpsF3qz) | 4:29 | 2022-06-03 |  |
-| [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:47 | 2023-05-19 |  |
+| [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 | 2023-05-19 |  |
 | [Bright Lights \(feat\. AR/CO\)](https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 3:23 | 2023-03-17 |  |
 | [Bringing Me Back \(feat\. Rosie Darling\)](https://open.spotify.com/track/0wj3Kfwb3AnYJ7Dc9YGIDY) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bringing Me Back \(feat\. Rosie Darling\)](https://open.spotify.com/album/7Hqvaswo0b3gVHavCpOaIu) | 2:59 | 2022-06-03 |  |
 | [Broken In All The Right Places](https://open.spotify.com/track/3iINQZKpmSMY2mkjLtlzYO) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [It's Not You, It's Me](https://open.spotify.com/album/4zsIydG84QRTBlDlXKn8dH) | 2:45 | 2022-06-03 | 2023-02-05 |

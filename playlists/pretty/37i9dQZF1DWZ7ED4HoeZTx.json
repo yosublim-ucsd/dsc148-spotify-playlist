@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 75744,
+  "num_followers": 75916,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzAzYzYzZmIxOWU0NDM1NjNkYTI5NTJkNjRmZjVjNTI5N2RhZGY4",
+  "snapshot_id": "MCw1N2VmZmZhYjk3MjRlMDEwMWRiNTcxYTdiYTA0NGJmMDIwY2Y4N2Zk",
   "tracks": [
     {
       "added_at": "2023-05-12 02:29:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-12 02:29:36",
       "album": {
-        "name": "MISSLIM",
-        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 191726,
-      "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
-      "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
-    },
-    {
-      "added_at": "2023-05-12 02:29:36",
-      "album": {
         "name": "Ghibli, Anime & Chill",
         "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 91725,
       "name": "The Girl Who Fell From The Sky (Laputa)",
       "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
+    },
+    {
+      "added_at": "2023-05-12 02:29:36",
+      "album": {
+        "name": "MISSLIM",
+        "url": "https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 191726,
+      "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
+      "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
     },
     {
       "added_at": "2023-05-12 02:29:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-12 02:29:36",
       "album": {
-        "name": "\u3072\u3053\u3046\u304d\u96f2",
-        "url": "https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS"
-      },
-      "artists": [
-        {
-          "name": "Yumi Arai",
-          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
-        }
-      ],
-      "duration_ms": 206164,
-      "name": "\u3072\u3053\u3046\u304d\u96f2",
-      "url": "https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM"
-    },
-    {
-      "added_at": "2023-05-12 02:29:36",
-      "album": {
         "name": "Howl's Moving Castle Theme",
         "url": "https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw"
       },
@@ -815,22 +799,6 @@
     {
       "added_at": "2023-05-12 02:29:36",
       "album": {
-        "name": "\u604b\u604b\u98a8\u6b4c",
-        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
-      },
-      "artists": [
-        {
-          "name": "Tsuji Ayano",
-          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
-    },
-    {
-      "added_at": "2023-05-12 02:29:36",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 266200,
       "name": "memories",
       "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"
+    },
+    {
+      "added_at": "2023-05-12 02:29:36",
+      "album": {
+        "name": "\u3072\u3053\u3046\u304d\u96f2",
+        "url": "https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "duration_ms": 206164,
+      "name": "\u3072\u3053\u3046\u304d\u96f2",
+      "url": "https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM"
+    },
+    {
+      "added_at": "2023-05-12 02:29:36",
+      "album": {
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
+      },
+      "artists": [
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
     },
     {
       "added_at": "2023-05-12 02:29:36",

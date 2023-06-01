@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,343 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,116 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 26 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 |
 | 27 | [Elle est trop](https://open.spotify.com/track/45Kl4j0f9Qq1eyKtAUiucg) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Elle est trop](https://open.spotify.com/album/2bHf4A342qt3ELZirMvpEb) | 2:26 |
 | 28 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
-| 29 | [BOMAYE](https://open.spotify.com/track/7qX2z2gQzlv8U2bpGvUj50) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [BOMAYE](https://open.spotify.com/album/4mBvGxJKpY0yc68Fiegfu1) | 2:42 |
+| 29 | [BOMAYE \- Pas chez moi](https://open.spotify.com/track/7qX2z2gQzlv8U2bpGvUj50) | [BOBYTO](https://open.spotify.com/artist/1dO89yKJPu6QSrAZzDQrbb) | [BOMAYE \(Pas chez moi\)](https://open.spotify.com/album/4mBvGxJKpY0yc68Fiegfu1) | 2:42 |
 | 30 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 |
 | 31 | [Tcheba](https://open.spotify.com/track/2J809vMntHAebkUfvRY7AK) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Plus Comme Avant](https://open.spotify.com/album/2vjkYEgkg9ybsJshADhiOr) | 2:22 |
 | 32 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Waka Waka](https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl) | [Wally B\. Seck](https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc) | [Waka Waka](https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi) | 2:28 |
 | 50 | [Rappelle\- Moi](https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Rappelle\- Moi](https://open.spotify.com/album/2TzaDzelgZzWHB68lqQUFR) | 2:47 |
 
-Snapshot ID: `MCw3NTdkZGNiNWI4MTk1ODUxMWU3YzlhYTAzMTY3MzNhYzE1NDMyOTRi`
+Snapshot ID: `MCxmMzdlNGI1OWJmOTg5OWQ2ZTY0YjJjZDQ1MzFiNGU4NmQ0N2U2NWM3`

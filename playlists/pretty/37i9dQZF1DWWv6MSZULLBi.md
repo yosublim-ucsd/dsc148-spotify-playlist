@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 98 | [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 |
 | 99 | [Everblue](https://open.spotify.com/track/6WTOYQ99emHjz4LsHQps8e) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Everblue](https://open.spotify.com/album/0YFbRMMa845hHkVPDZR5HC) | 3:00 |
 
-Snapshot ID: `MCwxMzNmYWUwZDRlZjkzYTFlZGUzYjk1NmU0MzAwN2NjNTBhYTRlODc4`
+Snapshot ID: `MCw5NDRiM2FlMjEyYTE4Y2FhYTI4MGM1ZGE2YThmNzkxM2U5MGE0MmI1`

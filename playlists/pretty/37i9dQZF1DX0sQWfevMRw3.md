@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,692 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,761 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/1VcviCNAPM1uzajsIVxtkH) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/7B75RXIeDKmyt2igFSoPpK) | 3:13 |
 | 100 | [Apotek](https://open.spotify.com/track/1S034rVtbrUceA5jGqc6iU) | [Kapten Krök](https://open.spotify.com/artist/2DBnFhrmrDXZdcLllncAUc) | [Apotek](https://open.spotify.com/album/1168b7nxYTIJXDAPDzEFvn) | 2:07 |
 
-Snapshot ID: `MCw4YWU5NjFlYmVhOTE4MTA1MmNkM2VkMzUwZDE0OWM2YjMyYzUyMzg4`
+Snapshot ID: `MCw2Y2M5ZmJmYTkxNzJlZDNlMTFjMTFiYjQ0YjdhNTQ2ZjFlNzUzMmQ1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Kim Dong Ryul(\uae40\ub3d9\ub960)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KyoungSeo(\uacbd\uc11c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 226666,
       "name": "0107",
       "url": "https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo"
+    },
+    {
+      "album": {
+        "name": "ONGOING",
+        "url": "https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "120BPM",
+      "url": "https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 206080,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
@@ -4577,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "Natural History Museum",
+        "url": "https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t"
+      },
+      "artists": [
+        {
+          "name": "The Electriceels",
+          "url": "https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Natural History Museum",
+      "url": "https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG"
+    },
+    {
+      "album": {
         "name": "[Dystopia : Road to Utopia]",
         "url": "https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG"
       },
@@ -7876,7 +7912,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 199360,
       "name": "Whale",
       "url": "https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz"

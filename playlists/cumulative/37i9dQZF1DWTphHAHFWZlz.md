@@ -4,7 +4,7 @@
 
 > Escuchá lo nuevo de C.R.O y las canciones que lo inspiraron.
 
-246 songs - 14 hr 31 min
+247 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Contale al Mundo](https://open.spotify.com/track/4O7e6tCSxIDQlX3I1Qe2en) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Días Nuestros](https://open.spotify.com/album/2ZL8Em4DCh1zvSKb06zxHx) | 2:57 | 2022-07-19 | 2023-05-20 |
 | [Conurbano](https://open.spotify.com/track/0c91olUhygofCW6JtQPl4w) | [Sexto Sentido Rock](https://open.spotify.com/artist/6QsyKzI4gNXrFQsYAsRCJh) | [Conurbano](https://open.spotify.com/album/2mSidQTTL3opF0UpyxwgOp) | 3:58 | 2022-06-29 | 2023-05-20 |
 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 | 2022-06-29 | 2023-05-20 |
-| [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2023-05-30 |  |
+| [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2023-05-30 | 2023-06-01 |
 | [Crisis](https://open.spotify.com/track/4OuHH9ENBgHBhDtINSFhPG) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Crisis](https://open.spotify.com/album/4CPJwXlJppxOlld9175oVA) | 2:46 | 2023-05-19 | 2023-05-31 |
 | [Cuando el Amor Se Fue](https://open.spotify.com/track/2FGeV4XfBDz9SD83TzdSLp) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Laura Chinelli](https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71) | [Cuando el Amor Se Fue](https://open.spotify.com/album/3jYFRzPjDRbR4xxeX5lBm9) | 3:43 | 2022-06-29 | 2022-07-20 |
 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 | 2022-07-19 | 2023-05-20 |
@@ -220,6 +220,7 @@
 | [Si Vienes](https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/1vZlWwBj4ptkA0tF0OOnrc) | 3:10 | 2022-07-22 | 2022-09-17 |
 | [Si Vienes](https://open.spotify.com/track/5ALrML18YCwXe9u4SwMKqS) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/5X2BAo2WXOz4pdacNwzK58) | 3:10 | 2022-06-29 | 2022-07-29 |
 | [Siguiendo la Huella No Llego a París](https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Siguiendo la Huella No Llego a París](https://open.spotify.com/album/3AcIAJ1kHSJAAyl0Cu9n3P) | 2:58 | 2022-06-29 | 2023-05-20 |
+| [Silencio](https://open.spotify.com/track/67xcvzrXQ3E6KC6xxU59vu) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Silencio](https://open.spotify.com/album/304ViHDChtOfPJJyS9HAEQ) | 2:52 | 2023-05-31 |  |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-06-29 | 2022-07-20 |
 | [Sirena Vampiro](https://open.spotify.com/track/08ZYFcWJw0NBXVvHejJZEY) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Brian Zditowski](https://open.spotify.com/artist/3diRPnhTiPtoGgjAq2cLPc) | [Chuy](https://open.spotify.com/album/0FNOzjf6biS4uvpyepPON9) | 2:54 | 2022-06-29 | 2022-07-20 |
 | [Something In The Way](https://open.spotify.com/track/1tlTFxB34VorrZnJNfRWcs) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:01 | 2023-05-30 |  |

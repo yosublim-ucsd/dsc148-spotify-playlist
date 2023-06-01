@@ -3739,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Oh Me Oh My",
+        "url": "https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Holley",
+          "url": "https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "Testing",
+      "url": "https://open.spotify.com/track/5Pnq7mIrqBkedxb59iyqv7"
+    },
+    {
+      "album": {
         "name": "Tha Carter II",
         "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
       },
@@ -4221,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Town Hall",
+        "url": "https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe"
+    },
+    {
+      "album": {
         "name": "Wakin On A Pretty Daze",
         "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
       },
@@ -4254,6 +4290,24 @@
       "duration_ms": 177000,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko"
+    },
+    {
+      "album": {
+        "name": "Walkman",
+        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Walkman",
+      "url": "https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T"
     },
     {
       "album": {

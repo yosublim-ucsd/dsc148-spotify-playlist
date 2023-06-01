@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp?si=4OR4mHSYQMmFchUZwc5Qgw"> Chidiya Ohiagu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 712 likes - 50 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 818 likes - 50 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 49 | [Heart of Worship](https://open.spotify.com/track/70QTy0Zm2sgthiCSTuZzvQ) | [D\. Israel Zayzay](https://open.spotify.com/artist/5qpELdUNQg3GfEExnVZZRi) | [Heart of Worship](https://open.spotify.com/album/5QSFZ3QGg06vwiTSuupbtb) | 4:30 |
 | 50 | [Steadfast Love](https://open.spotify.com/track/53KKXy5hUFyX5e6A2TEmrj) | [ELNAVES](https://open.spotify.com/artist/6hpcf8vS352DveXt886rGp), [Cedart](https://open.spotify.com/artist/3913fbVlXa5aoRL8NUjbFk) | [Steadfast Love](https://open.spotify.com/album/6s2TyaRf0jxIOACox1egjc) | 3:33 |
 
-Snapshot ID: `MCw4MGVlYTRmNDRjN2JjMTA1ODM3ZmNhOTUyOGNmYWI5YWQwYWUxYzc0`
+Snapshot ID: `MCxmZjlhNTYzNzBiZDAzZmMyNjliZDExMzYzZDc4ZWM2ODI2ODZhMTE0`

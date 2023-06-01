@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 62865,
+  "num_followers": 62909,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDcyYTM4MWE2ZjVkYTAxM2FjNTg1YTA1MmI1N2M0N2RmOTZkYzNk",
+  "snapshot_id": "MCw1MTI0NzI1MjEwMjgxOTgwZjEwODk1ODI2ZTVlMGIyNDkwZWNkY2Iz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
+      "duration_ms": 441442,
+      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 441442,
-      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En el Palacio de Bellas Artes",
-        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 144640,
-      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/7hvO4qnJDqT22k6NnPu3RR"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Un Canto de M\u00e9xico: Alejandro Fern\u00e1ndez en Vivo desde Bellas Artes",
         "url": "https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 214533,
       "name": "Un Mundo Raro",
       "url": "https://open.spotify.com/track/6prAkGQ86DXdjHksDQpvUD"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "En el Palacio de Bellas Artes",
+        "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 144640,
+      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7hvO4qnJDqT22k6NnPu3RR"
     },
     {
       "added_at": "2021-12-29 23:15:19",

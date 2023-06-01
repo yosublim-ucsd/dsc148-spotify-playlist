@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 
 > Best of Lata Mangeshkar, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,647 likes - 199 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,698 likes - 199 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOZlcP2WJM.md) - [plain]
 | 198 | [Gir Gaya Jhumka Girne Do \(From "Jugnu"\)](https://open.spotify.com/track/6GXfy68Lb9DjcrrsDAm1Pw) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 4:20 |
 | 199 | [Aaj Na Chodenge \- Reprise](https://open.spotify.com/track/6ULuZZaprXMB79riIxZZOb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 5:15 |
 
-Snapshot ID: `MCw2ZDhjNmFiOTE2NjkxOTBlZGJhMmRjMTdlNjAxZDdiOGE3YTIzMzZj`
+Snapshot ID: `MCw1MGQzZTg5YTZiZGM3NTQ3YWMzNjQ1YTkxMWRiMmVmZmQ0M2U2N2Ey`

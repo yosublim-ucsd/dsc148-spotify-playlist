@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0wsTnLWu8E6Ly8Jl84dG0O"
+      },
+      "artists": [
+        {
+          "name": "ZUSO",
+          "url": "https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428160,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5FEbMc1hZuQahbLv0KDTNI"
+    },
+    {
+      "album": {
         "name": "VVYELLOW",
         "url": "https://open.spotify.com/album/4s2XWWnnkZEF1BtVB5HrgL"
       },

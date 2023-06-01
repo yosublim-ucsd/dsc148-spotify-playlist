@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Slim & Eric Bellinger
 
-494 songs - 1 day 2 hr 6 min
+495 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [500 Degrees](https://open.spotify.com/track/2UpKuVhFAFvMKJ4LSkyNQx) | [Zayland](https://open.spotify.com/artist/5M9hQI5iiKLFHZ8JRaZafM), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [500 Degrees](https://open.spotify.com/album/1K33B1jiz3GaKL9wRk0FSG) | 2:37 | 2021-12-15 | 2022-04-21 |
 | [A B\*\*\*\*](https://open.spotify.com/track/2oPfGV1t4GfNk0M0h2yIFd) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Bakery Boys](https://open.spotify.com/artist/4VTN8Exuzb4RAohisazvfq), [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Ellis Quinn](https://open.spotify.com/artist/6UlvMXE1T4C1hy1V2Ug3rW), [Bka Trip](https://open.spotify.com/artist/6oxQcigyCWXBhENOxqW6l8) | [What Had Happened Was… \(Deluxe Edition\)](https://open.spotify.com/album/3zfBRt5rWmUm8ZCdZ4aDlD) | 4:02 | 2023-04-21 | 2023-04-29 |
 | [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 | 2022-08-05 | 2023-02-04 |
+| [About You](https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc) | [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [About You](https://open.spotify.com/album/4LLnPRmrfGfHRCkXzsWDJL) | 2:37 | 2022-11-18 |  |
 | [Access Denied](https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:45 | 2021-12-15 | 2022-07-02 |
 | [Addicted](https://open.spotify.com/track/1LefN4ngQU0F49QKq1GEe5) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Addicted](https://open.spotify.com/album/5mIOx6pq7N7kX5Nyl3WLqi) | 3:06 | 2022-02-18 | 2022-07-20 |
 | [Agua](https://open.spotify.com/track/3bZNQvIowjUMGdu6GHNGlK) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Agua](https://open.spotify.com/album/4PTIzpb2IafRrTYdUjgJTr) | 2:49 | 2022-06-17 | 2022-07-13 |
@@ -356,7 +357,7 @@
 | [Put You On](https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:46 | 2023-01-27 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-02 | 2023-05-13 |
 | [Recalling](https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ) | [PAULSN](https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV) | [Recalling](https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD) | 2:26 | 2023-04-28 | 2023-05-06 |
-| [recognize](https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 3:13 | 2022-10-14 |  |
+| [recognize](https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [More Than Friends](https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN) | 3:13 | 2022-10-14 | 2023-06-01 |
 | [RENT FREE](https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Prxd\. Jay](https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow) | [GROWING PAINS](https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS) | 3:45 | 2023-05-26 |  |
 | [Rich Girl](https://open.spotify.com/track/5BOzvUNdF15sLFeZkxXNuA) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Rich Girl](https://open.spotify.com/album/1wABNR02b7NuEYawiFquby) | 2:42 | 2022-12-09 | 2023-01-28 |
 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 | 2022-10-07 | 2023-05-20 |

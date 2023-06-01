@@ -1532,10 +1532,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 141333,
       "name": "Dope",
       "url": "https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA"
+    },
+    {
+      "album": {
+        "name": "Dope",
+        "url": "https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ"
+      },
+      "artists": [
+        {
+          "name": "ADK",
+          "url": "https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj"
+        },
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Dope",
+      "url": "https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k"
     },
     {
       "album": {

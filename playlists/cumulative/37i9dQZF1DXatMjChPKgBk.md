@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-509 songs - 1 day 7 hr 24 min
+510 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Hazard](https://open.spotify.com/track/1ntKYuqLlmV3sTZoNyeHhM) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Rush Street](https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F) | 5:17 | 2022-01-27 | 2023-04-20 |
 | [Headlights](https://open.spotify.com/track/6PLllSULxhWMcitreJ2isg) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [EVERYTHING&NOTHING](https://open.spotify.com/album/4euXrvF9jz7KK7nFyn90gC) | 2:46 | 2022-07-08 | 2023-04-20 |
 | [Headlights](https://open.spotify.com/track/6dyCbIxeynWnHjxNMe2B9M) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Everything&Nothing](https://open.spotify.com/album/0BtOID4IhQFeaiYTAwn3Gj) | 2:46 | 2022-01-27 | 2022-07-29 |
+| [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 | 2023-04-19 |  |
 | [Heart's On Fire](https://open.spotify.com/track/5sZYVQVC1B700dWe6bUA5x) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Whispers \(Deluxe\)](https://open.spotify.com/album/3WvSr7uc2MOaNgWDxNxLqJ) | 4:11 | 2022-01-27 | 2022-07-29 |
 | [Heart's on Fire](https://open.spotify.com/track/4oAu3hSqE2EpboB74jTZKr) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Whispers \(Deluxe\)](https://open.spotify.com/album/6hEJyyBGeuKvITh19MfC0n) | 4:13 | 2022-07-08 | 2023-01-17 |
 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 | 2022-12-02 | 2023-04-20 |
@@ -449,7 +450,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2022-01-27 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-08 | 2023-04-20 |
 | [The Time Has Come](https://open.spotify.com/track/688PTE0V0ccAzjjul4tSA0) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/4AlrgNM30QVSA8kaC4ZOT1) | 2:52 | 2022-01-27 | 2022-07-29 |
-| [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 | 2023-04-19 |  |
+| [The Way I Am](https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Girls And Boys](https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z) | 2:15 | 2023-04-19 | 2023-06-01 |
 | [These Streets](https://open.spotify.com/track/1Dk4gyzTFoCD3ThE7rs6IC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets \(Live in Concert\)](https://open.spotify.com/album/7Js1iGfrEPALxap0YvefRx) | 3:53 | 2022-01-27 | 2022-07-29 |
 | [These Streets](https://open.spotify.com/track/28esDV44p70LGwdPKxGZZ1) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:53 | 2022-07-08 | 2023-04-20 |
 | [Things You Can't Change](https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [In Between Minds](https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC) | 3:19 | 2022-01-27 | 2023-04-20 |

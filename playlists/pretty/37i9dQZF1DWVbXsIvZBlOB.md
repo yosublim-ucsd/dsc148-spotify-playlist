@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: אגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,521 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,532 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [גשם במדבר](https://open.spotify.com/track/75CdFwQQHGE2yrSRzpCi12) | [נוי גבאי](https://open.spotify.com/artist/4uJvt9gxGdEbqa8kL8Dych) | [גשם במדבר](https://open.spotify.com/album/4gutEoJhj1gPh4GjxJXIoS) | 3:03 |
 | 50 | [מרירה](https://open.spotify.com/track/6XXp57TnbPSKXHHPu0Xb2X) | [Galli Allon](https://open.spotify.com/artist/6cdi2T1MFqTyVDfvJpo8RJ) | [מרירה](https://open.spotify.com/album/2oWfB8Lgy5qTcSqnwMVqr5) | 3:42 |
 
-Snapshot ID: `MCw4N2I3NWIwMWE0NWRmZDY5M2ZjNjYxODQ1ZDI3MzJjOTUzMGU1Zjg5`
+Snapshot ID: `MCxjNmUwMDVhNWM4NmNiZmZmNzUwMWI4Nzk2YjcxYWI1M2I2M2Q0ZjZi`

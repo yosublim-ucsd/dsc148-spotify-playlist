@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Spectrum Vol.2",
+        "url": "https://open.spotify.com/album/7zEoD45UE887YCOIGKvA6m"
+      },
+      "artists": [
+        {
+          "name": "Safire",
+          "url": "https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366540,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0cPfUHZzcYDdk1L1iJ5Pza"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/5taOQUJucITY4aEJDQHT8d"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 366540,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/3baML5RbtecV8Q5yuzrslP"

@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 124842,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
@@ -5426,6 +5426,24 @@
       "duration_ms": 200341,
       "name": "Tigres",
       "url": "https://open.spotify.com/track/6IRylJFrx3UGGmOLxQ6Sh7"
+    },
+    {
+      "album": {
+        "name": "Lo Azul Sobre M\u00ed",
+        "url": "https://open.spotify.com/album/5FLtrjVRAXfcHlEYATjl59"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200341,
+      "name": "Tigres",
+      "url": "https://open.spotify.com/track/7A5cHcK7V569sIAWaAar5c"
     },
     {
       "album": {

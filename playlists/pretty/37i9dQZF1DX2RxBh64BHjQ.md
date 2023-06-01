@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:57n1OF36WvtOeATY6WQ6iw">Digga D</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,768,546 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,768,778 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Miracle](https://open.spotify.com/track/5agPQDlCLVyisDYEdeBMXQ) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Miracle](https://open.spotify.com/album/0GQyVB0UwYI2zZ0Ah3B5GN) | 3:24 |
 | 100 | [Lessons](https://open.spotify.com/track/5xyqfAbWfT6kLJ7WbtbQIJ) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Grails](https://open.spotify.com/album/0k3SQoikUmoeJYd6yxZlSt) | 3:09 |
 
-Snapshot ID: `MCw5YzNiM2E5NzI1N2ZlZDY0MDY2MjNjY2E4MDI5NWM3M2IyMzBmNTU3`
+Snapshot ID: `MCxlNzdhNDhmNTdjYTg3N2Q5MmE3NGIwNjU0ODhmZDYzMDUzZDI1NTlk`

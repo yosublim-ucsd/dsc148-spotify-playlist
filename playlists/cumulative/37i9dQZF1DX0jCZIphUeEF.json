@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "1, 2, 3, 4 (C\u00e9sar de Melero presents D.O.D.) (2022 Mixes)",
+        "url": "https://open.spotify.com/album/0qBJqWmx7BhsOauFoBH6Pv"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar de Melero",
+          "url": "https://open.spotify.com/artist/3Nc7eYpmZEfHG5l4KbsTcs"
+        },
+        {
+          "name": "D.O.D.",
+          "url": "https://open.spotify.com/artist/5QUHcvfFO0VHb7mgpEEIeH"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "1, 2, 3, 4 (David Penn Remix)",
+      "url": "https://open.spotify.com/track/6M0ap1gOyMx2grODnn0Vsr"
+    },
+    {
+      "album": {
         "name": "Acido / Whoop That!",
         "url": "https://open.spotify.com/album/0eH6mIbOLscxnGU887q6ii"
       },
@@ -265,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Break 4 Love",
+        "url": "https://open.spotify.com/album/1r5pf1BQgipzAfzR6x0hak"
+      },
+      "artists": [
+        {
+          "name": "Raze",
+          "url": "https://open.spotify.com/artist/1zZ0EgH5ZZ6ruxh0oViZc0"
+        },
+        {
+          "name": "Funk Rockers",
+          "url": "https://open.spotify.com/artist/50aSrPY6FIvrppkcQuKfGi"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422480,
+      "name": "Break 4 Love - Funk Rockers Remix",
+      "url": "https://open.spotify.com/track/1AJugMG5bzw4NhJusMYjZd"
+    },
+    {
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -482,6 +530,24 @@
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
+    },
+    {
+      "album": {
+        "name": "Deep Inside (Remixes)",
+        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217700,
+      "name": "Deep Inside - Edit",
+      "url": "https://open.spotify.com/track/1GHae878N0DGFm8XCpFBzy"
     },
     {
       "album": {
@@ -1045,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Man with Guitar",
+        "url": "https://open.spotify.com/album/1oOESBEBhi3uJ7jPyImkhY"
+      },
+      "artists": [
+        {
+          "name": "Man With Guitar",
+          "url": "https://open.spotify.com/artist/2kAN180iKI5DJbyksuTnE0"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358360,
+      "name": "Man with Guitar",
+      "url": "https://open.spotify.com/track/53p0TinwZZ3KGhmMRwJftz"
+    },
+    {
+      "album": {
         "name": "Mandem",
         "url": "https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF"
       },
@@ -1060,7 +1144,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 278095,
       "name": "Mandem",
       "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
@@ -1224,6 +1308,28 @@
       "duration_ms": 332000,
       "name": "Oyelo - Alt Control Remix",
       "url": "https://open.spotify.com/track/1MWbzEp4QuwPTw0jYtMg4c"
+    },
+    {
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/43K4COEdYbvCRGlJkjW1nK"
+      },
+      "artists": [
+        {
+          "name": "DJ Chus",
+          "url": "https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg"
+        },
+        {
+          "name": "Dean Mickoski",
+          "url": "https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/4AyLlInZOKim5wDqoW0f6L"
     },
     {
       "album": {

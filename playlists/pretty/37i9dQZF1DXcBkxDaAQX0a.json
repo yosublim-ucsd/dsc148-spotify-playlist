@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 324397,
+  "num_followers": 324455,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjA2MTVlZGZjMjExOTJiNjcyY2Y0Njk5OGZjYTMwZDc5YjI4NzFj",
+  "snapshot_id": "MCxiYjJjNDY1ZmMwOWNkOWQ5NTgyMjM1NTA0N2VkYjQwMjQ4MDVhNWZh",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Love and Loathing",
-        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "P\u00e2querette (Without Me)",
-      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "She's Quiet (Acoustic)",
         "url": "https://open.spotify.com/album/7Grtj3qLvoDzw8glKBPIfF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 200117,
       "name": "She's Quiet - Acoustic",
       "url": "https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Love and Loathing",
+        "url": "https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "P\u00e2querette (Without Me)",
+      "url": "https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Sunnyland",
-        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 234912,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Better Weather",
         "url": "https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Sunnyland",
+        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 234912,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Chasing Lonely",
-        "url": "https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ"
-      },
-      "artists": [
-        {
-          "name": "Boys of Fall",
-          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
-        }
-      ],
-      "duration_ms": 188608,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Voldemort",
         "url": "https://open.spotify.com/album/6LSkT8XStkOZG26hWGHZO7"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Chasing Lonely",
+        "url": "https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
         }
       ],
-      "duration_ms": 196307,
-      "name": "Drink To Drown",
-      "url": "https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH"
+      "duration_ms": 188608,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -699,6 +683,22 @@
       "duration_ms": 241714,
       "name": "Dammit (Acoustic)",
       "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196307,
+      "name": "Drink To Drown",
+      "url": "https://open.spotify.com/track/4oCGjSBibZ4vQDzxcvupBH"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Cruel Summer",
-        "url": "https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED"
-      },
-      "artists": [
-        {
-          "name": "Miss Fortune",
-          "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Blue in the Dark",
         "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 159553,
       "name": "Tide",
       "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED"
+      },
+      "artists": [
+        {
+          "name": "Miss Fortune",
+          "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -827,6 +827,22 @@
       "duration_ms": 225149,
       "name": "Patience",
       "url": "https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Dear Rose, I'm Haunted",
+        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
+      },
+      "artists": [
+        {
+          "name": "Drawn To The Sky",
+          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
+        }
+      ],
+      "duration_ms": 237631,
+      "name": "Dear Rose, I'm Haunted",
+      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -875,22 +891,6 @@
       "duration_ms": 113210,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Dear Rose, I'm Haunted",
-        "url": "https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7"
-      },
-      "artists": [
-        {
-          "name": "Drawn To The Sky",
-          "url": "https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02"
-        }
-      ],
-      "duration_ms": 237631,
-      "name": "Dear Rose, I'm Haunted",
-      "url": "https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
+        "name": "When the Dust Settles",
+        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 214275,
-      "name": "10 Am",
-      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
+      "duration_ms": 188093,
+      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
+      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Redux: The First 10 Years",
         "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
       },
       "artists": [
         {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
         }
       ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+      "duration_ms": 214275,
+      "name": "10 Am",
+      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1059,22 +1075,6 @@
       "duration_ms": 215979,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "When the Dust Settles",
-        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
-      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Pavement (Acoustic)",
+        "url": "https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 240428,
+      "name": "Pavement (Acoustic)",
+      "url": "https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/2b6OV22b3VFWeWyEcKNC2n"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 204253,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 156010,
-      "name": "Smokestack",
-      "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
     }
   ],
   "unique_name": "Punk Unplugged",

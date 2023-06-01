@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-1,359 songs - 3 day 0 hr 50 min
+1,360 songs - 3 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,8 @@
 | [Little Bit](https://open.spotify.com/track/6b5b7SZWYtgckAJyBUUDqO) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Little Bit](https://open.spotify.com/album/2pD3O8OxoEMsiNvD1LdppB) | 3:05 | 2022-05-13 | 2022-09-03 |
 | [Little Bit](https://open.spotify.com/track/026r3p9a0dt7RWZZU4SZKo) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party \(Deluxe\)](https://open.spotify.com/album/4kFbZ2kjG26kkUifzKfy7L) | 3:19 | 2023-02-10 | 2023-03-04 |
 | [Little Less Brokenhearted](https://open.spotify.com/track/51Hud0xoSRE2tUjQBHpBpk) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [Little Less Brokenhearted](https://open.spotify.com/album/4zTE0GZ22caWtWKpl2XQrz) | 3:07 | 2022-05-20 | 2022-08-13 |
-| [Little Man](https://open.spotify.com/track/2cvRVjFCjMnyf6zy1uTGF9) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Little Man](https://open.spotify.com/album/2mR1FqZrH3Fe3sqBO8ZBB7) | 2:57 | 2023-03-24 |  |
+| [Little Man](https://open.spotify.com/track/2cvRVjFCjMnyf6zy1uTGF9) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Little Man](https://open.spotify.com/album/2mR1FqZrH3Fe3sqBO8ZBB7) | 2:57 | 2023-03-24 | 2023-06-01 |
+| [Little Man](https://open.spotify.com/track/7HCySzu1s4FjhubhVperwv) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 2:57 | 2023-05-26 |  |
 | [Little Miss Saturday Night](https://open.spotify.com/track/5MF7WqDx40eGewUkrPiigs) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Little Miss Saturday Night](https://open.spotify.com/album/2vJcuEOjHFf1aKFMvhDj6j) | 3:20 | 2022-05-13 | 2022-08-13 |
 | [Little Tired](https://open.spotify.com/track/0ja9diRG0aLcDWXeTIO8ue) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Little Tired](https://open.spotify.com/album/7pT1pxIAziEL1IzdEZ1mxW) | 4:23 | 2021-12-31 | 2022-02-12 |
 | [Live It Down](https://open.spotify.com/track/0xmptSfCSTMyOggZl5UWLB) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Live It Down](https://open.spotify.com/album/6vtPdqdUgx2gtL4NZYWpgY) | 2:51 | 2022-02-11 | 2022-04-02 |

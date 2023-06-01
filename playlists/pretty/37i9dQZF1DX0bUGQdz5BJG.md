@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,668 likes - 212 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,791 likes - 212 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 109 | [Cali](https://open.spotify.com/track/4HImF9Ti5AjY4F3YkIGAXV) | [Tarrah](https://open.spotify.com/artist/7wAd2gJo5Hr8WUUgRiLu6l) | [Cali](https://open.spotify.com/album/7zOVXchqMxvPegINjkqg0z) | 4:07 |
 | 110 | [Angela](https://open.spotify.com/track/4sEojVU7y6f05BCZehv9Tt) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Angela](https://open.spotify.com/album/7DxAj4kh0QOMarpfc0z8TM) | 2:45 |
 | 111 | [Like It's His Job](https://open.spotify.com/track/05L9H4HP2pNhXYIunYk6zr) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [Like It's His Job](https://open.spotify.com/album/4X4SpT943uu7LdqO3e5XcI) | 3:29 |
-| 112 | [Little Man](https://open.spotify.com/track/2cvRVjFCjMnyf6zy1uTGF9) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Little Man](https://open.spotify.com/album/2mR1FqZrH3Fe3sqBO8ZBB7) | 2:57 |
+| 112 | [Little Man](https://open.spotify.com/track/7HCySzu1s4FjhubhVperwv) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 2:57 |
 | 113 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 |
 | 114 | [You Only](https://open.spotify.com/track/4IThCLqnjmxP835XHJjXIC) | [Caleb Mills](https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP) | [You Only \(EP\)](https://open.spotify.com/album/5PqUhUdryaLKb7JAIPLbaU) | 3:38 |
 | 115 | [No Tellin'](https://open.spotify.com/track/2AA15YjJYN07vp0avGn4oG) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [No Tellin'](https://open.spotify.com/album/1bQCdmYrKD0XOVmvM2RMFR) | 3:07 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 211 | [Dirt On It](https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Dirt On It](https://open.spotify.com/album/3xcAtkwoifb7H2XHQ7d0LC) | 2:34 |
 | 212 | [This Town Is A Ghost](https://open.spotify.com/track/1IXVqGFTcrAAriHrGrNxMq) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [This Town Is A Ghost](https://open.spotify.com/album/5YrxejmZDna1Kc0lRaFflF) | 3:44 |
 
-Snapshot ID: `MCxiMDQ0M2U5YmIwODE5OWVjNjk5Y2QyNzkzN2EzNDgwMjI0YmI3NzE4`
+Snapshot ID: `MCxhMzc3ZjU2MzEzYTIzMGQxMGJmZTJhZTI1ZWI0ZDkxOTgxN2EzYWFl`

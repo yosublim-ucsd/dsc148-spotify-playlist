@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODc1LDllM2Y0NzBkMDhjOGRkMmM2NTgyYTBmMTJkM2M2ZjNhNjMwMzZmMWI=",
+  "snapshot_id": "ODgyLGM1MWMzODdmNjc4YjMyZTE1NTdlYzNkY2Q4ZWU0OGQ2MGFkMzFkODY=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3603,6 +3603,54 @@
       "duration_ms": 50193,
       "name": "Dim North Star",
       "url": "https://open.spotify.com/track/5Wd0MQ6EwmQmUpuLs65jst"
+    },
+    {
+      "added_at": "2023-05-31 04:54:57",
+      "album": {
+        "name": "Oh Me Oh My",
+        "url": "https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Holley",
+          "url": "https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Testing",
+      "url": "https://open.spotify.com/track/5Pnq7mIrqBkedxb59iyqv7"
+    },
+    {
+      "added_at": "2023-06-01 02:32:03",
+      "album": {
+        "name": "Hollywood Town Hall",
+        "url": "https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe"
+    },
+    {
+      "added_at": "2023-06-01 02:48:43",
+      "album": {
+        "name": "Walkman",
+        "url": "https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Walkman",
+      "url": "https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 50665,
+  "num_followers": 50762,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDc2NDMzMjRiYmU2YWU0NmRlOWI0ZDVhZGZjODM2MDlhMTFjZmFh",
+  "snapshot_id": "MCwxOWMyMTVhYzlkNmNlYWI1NzVjZDAyNGZlODVjNWI3M2Y1ZDJmYWY4",
   "tracks": [
     {
       "added_at": "2023-04-17 14:05:23",
@@ -107,6 +107,22 @@
       "duration_ms": 154932,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/4p8Hbw6wPv0u0w7LFj8n78"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
       "added_at": "2023-05-22 07:20:56",
@@ -225,6 +241,22 @@
       "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
     },
     {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "INSECURE",
+        "url": "https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "INSECURE",
+      "url": "https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4"
+    },
+    {
       "added_at": "2023-04-12 07:52:33",
       "album": {
         "name": "AFTERPARTY",
@@ -239,6 +271,38 @@
       "duration_ms": 193469,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "L\u00dcCY",
+        "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
+      "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
+    },
+    {
+      "added_at": "2023-05-31 05:25:44",
+      "album": {
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -261,6 +325,26 @@
       "url": "https://open.spotify.com/track/11eM29CRUKqdlb6zHe13pP"
     },
     {
+      "added_at": "2023-05-31 05:25:44",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
+    },
+    {
       "added_at": "2023-05-08 07:50:27",
       "album": {
         "name": "Supernova",
@@ -275,26 +359,6 @@
       "duration_ms": 190909,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Something About You and Me",
-        "url": "https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG"
-      },
-      "artists": [
-        {
-          "name": "LilithQueenB",
-          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
-        },
-        {
-          "name": "JNYBeatz",
-          "url": "https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Something About You and Me",
-      "url": "https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -383,6 +447,26 @@
       "duration_ms": 210000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Something About You and Me",
+        "url": "https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG"
+      },
+      "artists": [
+        {
+          "name": "LilithQueenB",
+          "url": "https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m"
+        },
+        {
+          "name": "JNYBeatz",
+          "url": "https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Something About You and Me",
+      "url": "https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -647,22 +731,6 @@
       "duration_ms": 181389,
       "name": "error",
       "url": "https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
-      },
-      "artists": [
-        {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        }
-      ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -975,22 +1043,6 @@
       "duration_ms": 112694,
       "name": "Diss Na Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "INSECURE",
-        "url": "https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8"
-      },
-      "artists": [
-        {
-          "name": "Gordon Flanders",
-          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "INSECURE",
-      "url": "https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -1915,22 +1967,6 @@
       "duration_ms": 158083,
       "name": "Jack e Lacrime",
       "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "L\u00dcCY",
-        "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
-      },
-      "artists": [
-        {
-          "name": "L\u00dcCY",
-          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
-      "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
     },
     {
       "added_at": "2023-05-30 12:45:30",

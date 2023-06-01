@@ -1002,10 +1002,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 185142,
       "name": "Ether",
       "url": "https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS"
+    },
+    {
+      "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9"
+      },
+      "artists": [
+        {
+          "name": "xcst",
+          "url": "https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185108,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R"
     },
     {
       "album": {
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 200888,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi"
@@ -2826,6 +2844,24 @@
       "duration_ms": 200124,
       "name": "Take The Risk",
       "url": "https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c"
+    },
+    {
+      "album": {
+        "name": "Take The Risk",
+        "url": "https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x"
+      },
+      "artists": [
+        {
+          "name": "xcst",
+          "url": "https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200039,
+      "name": "Take The Risk",
+      "url": "https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE"
     },
     {
       "album": {

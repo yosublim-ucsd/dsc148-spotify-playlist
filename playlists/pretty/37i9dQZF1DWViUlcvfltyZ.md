@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. Maria Antonietta in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,028 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,037 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [TUTTA FORTUNA](https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [TUTTA FORTUNA](https://open.spotify.com/album/4b4BvXjdn59TkNl9n7lpyE) | 2:45 |
 | 55 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 |
 
-Snapshot ID: `MCw3ZTM4ZjliMzkwMWY2ODJmMDIyMjUxZjAwN2JiZjczNmVkZTk1YTAy`
+Snapshot ID: `MCw2OWEyMThlODE0YTljODJmZjA2MTZhODA5NjhmMjdmNzVjODVhYjVh`

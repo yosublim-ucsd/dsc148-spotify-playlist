@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "fuyu no milk (Rearrange)",
+        "url": "https://open.spotify.com/album/7kRzhYr1CB6qP51y4P0sAI"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282799,
+      "name": "fuyu no milk (Rearrange)",
+      "url": "https://open.spotify.com/track/5uj2fWrSqJIwpEnNEb3VQG"
+    },
+    {
+      "album": {
         "name": "Beware",
         "url": "https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5"
       },
@@ -9132,7 +9150,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-01",
       "duration_ms": 282799,
       "name": "\u51ac\u306e\u30df\u30eb\u30af (Rearrange)",
       "url": "https://open.spotify.com/track/7rKbvBzXFnvrDtDXXhe2XF"
