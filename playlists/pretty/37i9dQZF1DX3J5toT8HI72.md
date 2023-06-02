@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas para você curtir com seu amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,109 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,203 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 57 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 |
 | 58 | [Ainda Bem \- Ao Vivo](https://open.spotify.com/track/2hF5LOXCtxjF3WOG2GUAry) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Caixinha de Música \(Ao Vivo\)](https://open.spotify.com/album/2ppwsXjEr8ivDNpZdcZS5b) | 4:06 |
 | 59 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
-| 60 | [Não Há Nada Mais Lindo](https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Canções para o Inverno Passar Depressa](https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6) | 1:57 |
+| 60 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 |
 
-Snapshot ID: `MCwyYzRmMDYwYjZhYTgyZTU4YTNiMzY3MzYzZTFiZjQzMDZkZTY5ZWM2`
+Snapshot ID: `MCwxNzYzMGJlNjQwMTlkZDUxNGIyNDM4NTY5M2I1YzhmNDZhMDhmZGU1`

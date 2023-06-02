@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 19547,
+  "num_followers": 19554,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDE4NDc0NTU2MWIzYWM4YWE3ZTgyM2Q1MjA1NTk5ZDI0ZTZkMTA5",
+  "snapshot_id": "MCwxYWI0Y2M0NGUyYmUyZjllMGRkZDJiNmUwZTNiZWM0MjIxYjc0Mzlh",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -315,6 +315,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "STRAUSS, R.: Don Juan / Till Eulenspiegel / Death and Transfiguration",
+        "url": "https://open.spotify.com/album/0LsByeNYo64Xo65qpYpsvu"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Slovak Philharmonic",
+          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
+        },
+        {
+          "name": "Zden\u011bk Ko\u0161ler",
+          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
+        }
+      ],
+      "duration_ms": 1480000,
+      "name": "Tod und Verklarung (Death and Transfiguration), Op. 24, TrV 158",
+      "url": "https://open.spotify.com/track/0WRU1MhghbkLXVuEf1WnrY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 65706,
       "name": "5 Songs, Op. 21, Trv 160: 1. All mein' Gedanken",
       "url": "https://open.spotify.com/track/3zGDidjFezyu5zTmYjtCNd"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "STRAUSS, R.: Don Juan / Till Eulenspiegel / Death and Transfiguration",
-        "url": "https://open.spotify.com/album/0LsByeNYo64Xo65qpYpsvu"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Slovak Philharmonic",
-          "url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd"
-        },
-        {
-          "name": "Zden\u011bk Ko\u0161ler",
-          "url": "https://open.spotify.com/artist/2IpitDGspEKl8VaB3qd4ya"
-        }
-      ],
-      "duration_ms": 1480000,
-      "name": "Tod und Verklarung (Death and Transfiguration), Op. 24, TrV 158",
-      "url": "https://open.spotify.com/track/0WRU1MhghbkLXVuEf1WnrY"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -463,6 +463,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
+      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Martha Argerich - The Complete Sony Recordings",
         "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 1121000,
       "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
       "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
-      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -831,30 +831,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
-        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Weimar Staatskapelle",
-          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
-      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
         "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 348533,
       "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
       "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
+        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Weimar Staatskapelle",
+          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 364893,
+      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
+      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -903,34 +903,6 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1015,6 +987,34 @@
       "duration_ms": 681213,
       "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
       "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
+        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fritz Reiner",
+          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
+        }
+      ],
+      "duration_ms": 611146,
+      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
+      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Aus Italien / Die Liebe Der Danae",
         "url": "https://open.spotify.com/album/7oEbgL8cKAyskzkWWq4JAG"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 756000,
       "name": "Aus Italien, Op. 16, TrV 147: Am Strande von Sorrent (On the Beach at Sorrento)",
       "url": "https://open.spotify.com/track/2kxYSROtAaWvkzGQExdyrx"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
-        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Fritz Reiner",
-          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
-        }
-      ],
-      "duration_ms": 611146,
-      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
-      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
+        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1736520,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3OEr8l0Btve8mdFvjZoj6P"
       },
@@ -1359,30 +1383,6 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/433MQfeWscw5iOydbZjy5c"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
-        "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1736520,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
+        "url": "https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Sinfonia Domestica, Op. 53, TrV 209: Bewegt - Sehr lebhaft - Ruhig - Live",
+      "url": "https://open.spotify.com/track/5tZsipNneBbz32UhPdastj"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "\"Homage\" - The Age of the Diva",
         "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 291786,
       "name": "_: R. Strauss: Wie umgibst du mich mit Frieden [Die Liebe der Danae]",
       "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
-        "url": "https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Sinfonia Domestica, Op. 53, TrV 209: Bewegt - Sehr lebhaft - Ruhig - Live",
-      "url": "https://open.spotify.com/track/5tZsipNneBbz32UhPdastj"
     },
     {
       "added_at": "2022-06-20 09:55:21",

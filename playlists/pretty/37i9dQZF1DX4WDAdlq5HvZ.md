@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,923 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,961 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 16 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 |
 | 17 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 18 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
-| 19 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
-| 20 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 19 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
+| 20 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
 | 21 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 |
 | 22 | [Breathe](https://open.spotify.com/track/3hN8RetXNOyDVhxGdkFlqA) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/5MlpCzqsff1YEgoELbodZT) | 3:33 |
 | 23 | [He Knows My Name](https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 37 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
 | 38 | [Love Lifting Me](https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:19 |
 | 39 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
-| 40 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
-| 41 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
+| 40 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
+| 41 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
 | 42 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 43 | [Write Your Story](https://open.spotify.com/track/0wWDNsLRUuXFGRd4NcrdrR) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:23 |
 | 44 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 63 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
 | 64 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
 | 65 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
-| 66 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
-| 67 | [Growing Older](https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Growing Older](https://open.spotify.com/album/5Lo7IsaSNCaqnYsUGbhU60) | 3:31 |
+| 66 | [Growing Older](https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Growing Older](https://open.spotify.com/album/5Lo7IsaSNCaqnYsUGbhU60) | 3:31 |
+| 67 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
 | 68 | [Brave](https://open.spotify.com/track/32giMY83e2xbyBjwAQy3eb) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Brave](https://open.spotify.com/album/7r4A9DBkkirmHSfN7yAbCG) | 4:15 |
 | 69 | [Amen A sus Mamás](https://open.spotify.com/track/6ndM8lsNfBq7n9b5NcJNo5) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Amen A sus Mamás](https://open.spotify.com/album/0VBFC4sHoaCRQShU1c3YAg) | 2:48 |
 | 70 | [A Letter To My Mama](https://open.spotify.com/track/1LOqoF97FLdAPWVu9IRYy1) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Okie](https://open.spotify.com/album/74K88Q3Yroy6hTgpj1tXsw) | 3:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 84 | [One Heartbeat At A Time](https://open.spotify.com/track/26nITVQTFc1HtJZt5B1DMe) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment](https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM) | 4:04 |
 | 85 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
 
-Snapshot ID: `MCxlOWE0Y2I3MjEyYTFjMDYyM2E1M2MyM2JjZWY3M2YxOGEzMDA3MzQ5`
+Snapshot ID: `MCw0YjUwZGM5NDM1NmUwOWNmZjQ3NzE2YTJkMGQ0NzQyNGRmNWEwNGJl`

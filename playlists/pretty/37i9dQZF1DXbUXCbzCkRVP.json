@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 33006,
+  "num_followers": 33060,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzJmYmFhYmNlNjIwMDcxODNmMTBiMDdiMWYzYzU0ZDc2MjA4N2Q0",
+  "snapshot_id": "MCxmNDU4ZjBkNGYwZmZjZjAyZDhmYTRjMDAyNTgxNWI5ODNlNTc0NjAw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:38:03",
@@ -387,38 +387,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Stand Back!",
-        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cha Cha The Blues",
-      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Put It",
         "url": "https://open.spotify.com/album/7c09IE37N9Vh2WritMGyF5"
       },
@@ -435,6 +403,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Stand Back!",
+        "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cha Cha The Blues",
+      "url": "https://open.spotify.com/track/44759fbdnc1zfQZLZt8U0i"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 161479,
       "name": "Blue Guitar",
       "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 76339,
       "name": "The Grind",
       "url": "https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Roll Forward",
-        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
-      },
-      "artists": [
-        {
-          "name": "Ross Hammond",
-          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
-        }
-      ],
-      "duration_ms": 361689,
-      "name": "Easy Does It Blues",
-      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Roll Forward",
+        "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
+      },
+      "artists": [
+        {
+          "name": "Ross Hammond",
+          "url": "https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj"
+        }
+      ],
+      "duration_ms": 361689,
+      "name": "Easy Does It Blues",
+      "url": "https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 179440,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "Alone With Yourself",
-        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
-      },
-      "artists": [
-        {
-          "name": "Gary O'Slide",
-          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
-        }
-      ],
-      "duration_ms": 233382,
-      "name": "Alone With Yourself",
-      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "Alone With Yourself",
+        "url": "https://open.spotify.com/album/03LY4WQPQxaPkRLNa31JGH"
+      },
+      "artists": [
+        {
+          "name": "Gary O'Slide",
+          "url": "https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf"
+        }
+      ],
+      "duration_ms": 233382,
+      "name": "Alone With Yourself",
+      "url": "https://open.spotify.com/track/12k5GxCuUuhOYqknjtkDII"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "I Feel Like Goin' On",
         "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 509106,
       "name": "Blues For Otis Rush",
       "url": "https://open.spotify.com/track/67BXudHoNp6ReHBJcDXOgY"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
+        "name": "I Feel Like Goin' On",
+        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Little Johnny Lee",
+      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
         "name": "Room To Move 1969 - 1974",
         "url": "https://open.spotify.com/album/6YGnkpsMZTH3fMuvhdC3WL"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "I Feel Like Goin' On",
-        "url": "https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Little Johnny Lee",
-      "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
         "name": "Ain't That Lovin' You Baby",
         "url": "https://open.spotify.com/album/1mIbq48CsGpnutDy0WQgr6"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 153973,
       "name": "Boogie in the Dark",
       "url": "https://open.spotify.com/track/3ZoDX5gz2PHQCKqRhJ3mKR"
+    },
+    {
+      "added_at": "2023-04-28 16:38:03",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1271,22 +1287,6 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
-    },
-    {
-      "added_at": "2023-04-28 16:38:03",
-      "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2023-04-28 16:38:03",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-28 16:38:03",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "Broken Halo",
+        "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Tim \"Too Slim\" Langford",
+          "url": "https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy"
         }
       ],
-      "duration_ms": 132800,
-      "name": "Evans' Shuffle",
-      "url": "https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te"
+      "duration_ms": 178826,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
     }
   ],
   "unique_name": "Instrumental Blues",

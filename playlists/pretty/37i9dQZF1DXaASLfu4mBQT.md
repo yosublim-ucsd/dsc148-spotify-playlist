@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 
 > Mellow pop favorites from 2022\. Cover: Lauren Spencer Smith \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,721 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,717 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 | 36 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
 | 37 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 |
 | 38 | [Magnificent](https://open.spotify.com/track/1Zr7kxrJWpDT2Lx1VsbTvt) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 4:28 |
-| 39 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
+| 39 | [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 |
 | 40 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
 | 41 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
 | 42 | [Hurtless](https://open.spotify.com/track/7gcKyKP2O2RO9YwtPDgDSP) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 | 49 | [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 |
 | 50 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 
-Snapshot ID: `MCxkMDkyMTM2ZWRlYjNlMDQ3ZDAxYWNjMWQyOTNmNmQ1M2M2NjI4ZmU3`
+Snapshot ID: `MCw2ZTdhNjJjZGRkNTVmZDM5M2ZhM2U2ODNhZjA0OTRiOWZmNGNiYWIy`

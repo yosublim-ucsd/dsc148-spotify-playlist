@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 110051,
+  "num_followers": 110102,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjdkYjE2NmI1NDg2OTk4N2FlZDFiOWFiOGQ2ZDU4YjM4ZDUxMzk1",
+  "snapshot_id": "MCxmOGRiZWY4MjZhNTQ5ZDAzMjQxOWFiOGZlZTEwZDJhMWUyNzg5OTM0",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
-      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel : The Best of Handel",
         "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 223000,
       "name": "Serse (Xerxes), HWV 40: Larghetto from \"Xerxes\"",
       "url": "https://open.spotify.com/track/5ZARQmEMqdfgyyjHAN87cf"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -683,34 +683,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel : The Best of Handel",
-        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Jozef Cejka",
-          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Richard Edlinger",
-          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Oboe Concerto No. 3 in G Minor Largo",
-      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Ode for St. Cecilia's Day",
         "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
       },
@@ -743,6 +715,34 @@
       "duration_ms": 498200,
       "name": "Ode for St. Cecilia's Day, HWV 76: Air: What passion cannot Music raise",
       "url": "https://open.spotify.com/track/28Lhq1AbMJVtbSQbWjF8zl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel : The Best of Handel",
+        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Oboe Concerto No. 3 in G Minor Largo",
+      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
     },
     {
       "added_at": "2022-06-28 08:56:25",

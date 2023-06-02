@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,159 likes - 40 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,213 likes - 40 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 18 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
 | 19 | [Put It On The Altar](https://open.spotify.com/track/1no67NVun0BIparrhLtPM6) | [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [From The Heart](https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq) | 4:06 |
 | 20 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
-| 21 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
-| 22 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 21 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
+| 22 | [Your Great Name](https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw) | 6:19 |
 | 23 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 |
 | 24 | [You Are God Alone](https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Arise](https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc) | 7:14 |
 | 25 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
 | 40 | [Won't Let Go](https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 3:58 |
 
-Snapshot ID: `MCw3YzM2YWUyMDc0ZjM2OTgzZTEyODUxMmJlMmY0ZDFlMThmN2FhZjc0`
+Snapshot ID: `MCw1MWEzODc1ODI2ZGY4NzU5ZmJmOWUwMmM2MzU5YjkzNTA0NWZkOTg3`

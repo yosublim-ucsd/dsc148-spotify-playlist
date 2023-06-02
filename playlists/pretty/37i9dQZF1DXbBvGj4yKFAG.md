@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,553 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,702 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 |
 | 2 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 |
 | 3 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 |
-| 4 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
+| 4 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
 | 5 | [If Only It Was Warmth](https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [If Only It Was Warmth](https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB) | 3:17 |
 | 6 | [Lay Low](https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Lay Low](https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km) | 2:22 |
 | 7 | [Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 3:43 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 104 | [Bury Me](https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Small](https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp) | 2:27 |
 | 105 | [Burns Effect](https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Burns Effect](https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax) | 3:26 |
 
-Snapshot ID: `MCxhZWVhZDZkYmJmMTA5M2Q4Njc1ODVjN2RlMTczZGE3NjA4ZDIyNzZm`
+Snapshot ID: `MCxjNzE4YmY1NGQ1MjQ0MzQzZTA3Y2E1YzJmNTI1MGEwMzhhZTY0NzQy`

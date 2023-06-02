@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > We're here to provide some sonic solace for your grief.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,008 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,037 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 49 | [Small Bump](https://open.spotify.com/track/4z1O25cq9g2kuJemmUxc21) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:19 |
 | 50 | [Hold On \- Remastered 2010](https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 1:52 |
 
-Snapshot ID: `MCwxNDZmYTlhMjMzZTcxZmFiOGQxZTZmNjAxOWZlZWEwOGE4YjY5YTBi`
+Snapshot ID: `MCw5MTEzNjQ4YzliNDRhMWU2ZWIwNDBjNDQxNWE1NWNjNDY1OTFjNGNm`

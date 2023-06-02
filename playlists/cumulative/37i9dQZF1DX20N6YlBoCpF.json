@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6?si=AdaIRxyGQWaDv_DQYnjBjQ\">Marissa</a>",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe?si=6HholggeTlGOxkJ2lrHUEQ\">Tarryn Lamb</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 175071,
       "name": "Babel",
       "url": "https://open.spotify.com/track/1wCeEH5OsNOnj9MpmKBVR2"
@@ -446,6 +446,24 @@
       "duration_ms": 171500,
       "name": "Baljaar",
       "url": "https://open.spotify.com/track/09UStOTTT5ZYKoUuROS6Sa"
+    },
+    {
+      "album": {
+        "name": "Beheer",
+        "url": "https://open.spotify.com/album/0o3MrecbvqnfGMCdWKaBTf"
+      },
+      "artists": [
+        {
+          "name": "Julanie J",
+          "url": "https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182185,
+      "name": "Beheer",
+      "url": "https://open.spotify.com/track/07erHCnzQ5wDmyY6g9zaC2"
     },
     {
       "album": {
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 207725,
       "name": "Hey Zonnebloem",
       "url": "https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6"
@@ -2422,6 +2440,28 @@
       "duration_ms": 244125,
       "name": "Iemand Anders",
       "url": "https://open.spotify.com/track/1vjDxCSoNL7D8Eq8qUCekg"
+    },
+    {
+      "album": {
+        "name": "Illusie Revolusie",
+        "url": "https://open.spotify.com/album/0pyquZvWnAKutOkaBANyeV"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        },
+        {
+          "name": "Tristan Brown",
+          "url": "https://open.spotify.com/artist/4osHA13l9ZCsvuIEyjXWLK"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266521,
+      "name": "Illusie Revolusie",
+      "url": "https://open.spotify.com/track/2nDlYXVq5advI81WJ958vY"
     },
     {
       "album": {
@@ -3470,7 +3510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 239256,
       "name": "Liefdeskind",
       "url": "https://open.spotify.com/track/6m7LPmRFMhWjrU3Xgww3ob"
@@ -4107,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "Net Een Naam",
+        "url": "https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ"
+      },
+      "artists": [
+        {
+          "name": "Retief Burger",
+          "url": "https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Net Een Naam",
+      "url": "https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly"
+    },
+    {
+      "album": {
         "name": "Kanniedood",
         "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
       },
@@ -4596,7 +4654,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200669,
       "name": "Partytjie Slaap Herhaal",
       "url": "https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0"
@@ -5160,7 +5218,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 238586,
       "name": "Skryf",
       "url": "https://open.spotify.com/track/3oSjMeXqNsW8Mfhe4qxFHa"
@@ -5482,6 +5540,24 @@
       "duration_ms": 248685,
       "name": "Suiderkruis",
       "url": "https://open.spotify.com/track/2gpZFeb0JcmHvTdXVIilW5"
+    },
+    {
+      "album": {
+        "name": "Wille Ding",
+        "url": "https://open.spotify.com/album/6uKZ7ADIU92bN4L1krcbBM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Suikerbos",
+      "url": "https://open.spotify.com/track/5MENUK617o8avXcMM4TDpt"
     },
     {
       "album": {
@@ -6310,6 +6386,24 @@
       "duration_ms": 223103,
       "name": "Vyeboompiekniek (13 Jaar)",
       "url": "https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap"
+    },
+    {
+      "album": {
+        "name": "Wag Vir Jou",
+        "url": "https://open.spotify.com/album/5arVky3NiTxvgHNk1ADNUj"
+      },
+      "artists": [
+        {
+          "name": "Natasha van der Merwe",
+          "url": "https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208305,
+      "name": "Wag Vir Jou",
+      "url": "https://open.spotify.com/track/7c9imCnBN4kGmsdaEs1FsQ"
     },
     {
       "album": {

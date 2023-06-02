@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 162373,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 147829,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/6zntYa0B4LorAP7FB4ySTG"
@@ -1572,6 +1572,24 @@
       "duration_ms": 218823,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/5sTfEctUZjV3QrVztlPpVE"
+    },
+    {
+      "album": {
+        "name": "Falling in Love",
+        "url": "https://open.spotify.com/album/4pHUXRXJiI0B5vcLD8HsUB"
+      },
+      "artists": [
+        {
+          "name": "Morgan, G & Machines",
+          "url": "https://open.spotify.com/artist/1B3PvJlIgpMRmJxCqkv0oS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126417,
+      "name": "Falling in Love",
+      "url": "https://open.spotify.com/track/4YZdQqnGxSI7tShUxDJBau"
     },
     {
       "album": {
@@ -2089,6 +2107,32 @@
     },
     {
       "album": {
+        "name": "I Wish (feat. Libianca)",
+        "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "I Wish (feat. Libianca)",
+      "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -2344,7 +2388,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177116,
       "name": "Keeper (Trophy)",
       "url": "https://open.spotify.com/track/2CMQxHtMvOYxMQB0jcIeKL"
@@ -2550,7 +2594,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
@@ -2840,7 +2884,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 167142,
       "name": "LOCO (feat. Muz!)",
       "url": "https://open.spotify.com/track/5FuBh6ztXw5qf5wwgjpjEF"
@@ -3553,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "nwayi",
+        "url": "https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184942,
+      "name": "nwayi",
+      "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"
+    },
+    {
+      "album": {
         "name": "God's Timing\u2019s the Best",
         "url": "https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7"
       },
@@ -4258,7 +4320,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 160000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6foox9Ac3UrBD6oJgWiZiL"
@@ -4523,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "album": {
         "name": "From TAB, With Love.",
         "url": "https://open.spotify.com/album/7msf78vVyfOQOefVOmZXan"
       },
@@ -4546,6 +4626,32 @@
       "duration_ms": 197588,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0XSNlIcAIhy6vqQzxi4mdv"
+    },
+    {
+      "album": {
+        "name": "Soak Garri",
+        "url": "https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211807,
+      "name": "Soak Garri",
+      "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
     },
     {
       "album": {
@@ -4621,7 +4727,7 @@
     },
     {
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -4630,23 +4736,23 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
@@ -4834,7 +4940,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2"
@@ -5262,6 +5368,24 @@
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
+    },
+    {
+      "album": {
+        "name": "Try It",
+        "url": "https://open.spotify.com/album/18cyc8MVyDj8mRuFiIPtzg"
+      },
+      "artists": [
+        {
+          "name": "Space Afro",
+          "url": "https://open.spotify.com/artist/5H26aMZlvFZNqq1ecrDhbT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129112,
+      "name": "Try It",
+      "url": "https://open.spotify.com/track/2BMiRgQLs5ZqhiQdHElGft"
     },
     {
       "album": {
@@ -5842,6 +5966,24 @@
       "duration_ms": 168352,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa"
+    },
+    {
+      "album": {
+        "name": "YOLO",
+        "url": "https://open.spotify.com/album/32XuYqGbCUBVWZaiMlTWdd"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174837,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/5E6bsNA69z9SMXM6hOWqdU"
     },
     {
       "album": {

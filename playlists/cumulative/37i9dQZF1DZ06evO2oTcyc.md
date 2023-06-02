@@ -4,7 +4,7 @@
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 1 min
+79 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [COLORS \(feat\. Kodak Black\)](https://open.spotify.com/track/767iOXvMCZC0W8HcPJm1am) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:44 | 2023-01-21 | 2023-05-02 |
 | [Day for Day](https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:48 | 2023-02-24 |  |
 | [Demand My Respect](https://open.spotify.com/track/5EbLS4q2S21ROWsI1XcMZX) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:32 | 2022-10-31 | 2023-05-24 |
+| [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 | 2023-06-01 |  |
 | [Don't Wanna Breathe](https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:16 | 2022-10-28 |  |
 | [Dope Boy Magic](https://open.spotify.com/track/2pfVxwR1CfiQuqx6fMsXYs) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:17 | 2023-05-31 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2022-10-28 |  |
@@ -33,7 +34,7 @@
 | [hibachi \(feat\. Kodak Black & 21 Savage\)](https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:50 | 2022-10-28 |  |
 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 | 2022-10-28 | 2023-05-23 |
 | [how you did that \(feat\. Kodak Black\)](https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:40 | 2022-10-28 |  |
-| [I Can’t Sleep](https://open.spotify.com/track/1hHJaam6wi4WJPDTaiLNyP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:25 | 2022-10-30 |  |
+| [I Can’t Sleep](https://open.spotify.com/track/1hHJaam6wi4WJPDTaiLNyP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:25 | 2022-10-30 | 2023-06-02 |
 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 | 2023-03-26 |  |
 | [I Wish](https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 2:45 | 2022-10-28 |  |
 | [If I'm Lyin', I'm Flyin'](https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 2:10 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-113 songs - 8 hr 15 min
+114 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-04-13 |  |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2023-04-13 |  |
 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2023-04-13 |  |
+| [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-06-01 |  |
 | [Better By Your Side](https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm) | [Aeble](https://open.spotify.com/artist/1IqFYT4c7jv5jTNSNKi3ig), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0) | 5:19 | 2023-04-13 |  |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(loving arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2023-04-13 |  |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-05-11 |  |
@@ -75,7 +76,7 @@
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2023-05-11 |  |
 | [Lights Up \- Myd Remix](https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(Myd Remix\)](https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR) | 3:35 | 2023-04-13 |  |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2023-04-13 |  |
-| [Love Boat](https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Love Boat](https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG) | 2:57 | 2023-05-25 |  |
+| [Love Boat](https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Love Boat](https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG) | 2:57 | 2023-05-25 | 2023-06-02 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-04-13 |  |
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2023-04-13 |  |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2023-04-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,124 likes - 43 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,208 likes - 43 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 16 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 | 17 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 |
 | 18 | [Still Rolling Stones](https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:08 |
-| 19 | [First](https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:48 |
-| 20 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
+| 19 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 |
+| 20 | [First](https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:48 |
 | 21 | [Waiting](https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Waiting](https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt) | 3:11 |
 | 22 | [Remember](https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:58 |
-| 23 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 |
-| 24 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 |
+| 23 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 |
+| 24 | [I Am Yours](https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:58 |
 | 25 | [Valuable](https://open.spotify.com/track/1QhuCjLdpFL5E9it7GxDcW) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:29 |
 | 26 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 27 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 42 | [Almost Human \- from the Original Motion Picture Soundtrack Blade Runner 2049](https://open.spotify.com/track/1dVWjFxNtwdWf3IftD4fCH) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Almost Human \(from the Original Motion Picture Soundtrack Blade Runner 2049\)](https://open.spotify.com/album/1X5V3BzjJZ2tge9pWwNe5z) | 3:22 |
 | 43 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDAxNTEzNTU5ZGJmNDU3OTUyZTgxOGFkZmRmYjg0MDFhOQ==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDAyNDJiN2FhYTg5NzhlNTNhNmI0YWE4ZGVhNDU3OWVjMQ==`

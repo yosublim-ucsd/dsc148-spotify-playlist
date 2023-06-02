@@ -4,12 +4,12 @@
 
 > Indie soul that's highkey fire
 
-381 songs - 21 hr 15 min
+382 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 | 2023-05-04 |
-| [10,000 Hours](https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [10,000 Hours](https://open.spotify.com/album/2pccLnOW0FaYbSmWAkHrxA) | 2:43 | 2023-04-14 |  |
+| [10,000 Hours](https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [10,000 Hours](https://open.spotify.com/album/2pccLnOW0FaYbSmWAkHrxA) | 2:43 | 2023-04-14 | 2023-06-02 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-12-15 | 2022-04-08 |
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 |  |
 | [69 Camaro](https://open.spotify.com/track/50S52c98UbsIIiG0F1uyat) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 2:34 | 2022-09-29 | 2022-10-13 |
@@ -370,6 +370,7 @@
 | [Wasteland](https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Wasteland](https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc) | 3:03 | 2021-12-15 | 2022-04-07 |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-02-14 |  |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2022-02-11 | 2022-04-08 |
+| [Westside](https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [Westside](https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo) | 2:35 | 2023-05-19 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2023-01-27 |  |
 | [Where I'm From \(feat\. Mereba\)](https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:44 | 2022-08-10 |  |
 | [Where U At?](https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Who Wants to Be a Millionaire?](https://open.spotify.com/album/0EBV0eMmVkYopo5yLiy96r) | 2:52 | 2021-12-15 | 2022-07-29 |

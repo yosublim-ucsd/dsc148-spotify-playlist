@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
-  "num_followers": 54553,
+  "num_followers": 54583,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTVlYzExNmE0MmNmNzBlYzc2YWYxYzM0ODJjMjUzNjljNjcxZTM5",
+  "snapshot_id": "MCw5ZTkxNGNlOWExZmExNmRlZTQ1NDczMjAzNjJjNGI3ZjJlZDY2ZmQw",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "EBS",
-        "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 167344,
-      "name": "EBS",
-      "url": "https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS"
-    },
-    {
       "added_at": "2023-05-19 06:00:00",
       "album": {
         "name": "El Que Le Gusta Ayudar",
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+        "name": "EBS",
+        "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+      "duration_ms": 167344,
+      "name": "EBS",
+      "url": "https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Mi Dolor",
         "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
       },
@@ -867,38 +867,6 @@
       "duration_ms": 218250,
       "name": "Mi Dolor",
       "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 162037,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -919,6 +887,38 @@
       "duration_ms": 154338,
       "name": "Lujos Y Damitas",
       "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 162037,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Los Medios Suenan",
-        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
+        "name": "Sigo Avanzando",
+        "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
       },
       "artists": [
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "Noriel Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1M9Q34BeOyKykb5GZjC0JI"
         }
       ],
-      "duration_ms": 149549,
-      "name": "Los Medios Suenan",
-      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
+      "duration_ms": 131351,
+      "name": "Sigo Avanzando",
+      "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Sigo Avanzando",
-        "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
+        "name": "Los Medios Suenan",
+        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
       },
       "artists": [
         {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "Noriel Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1M9Q34BeOyKykb5GZjC0JI"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 131351,
-      "name": "Sigo Avanzando",
-      "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
+      "duration_ms": 149549,
+      "name": "Los Medios Suenan",
+      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Hija de mi Madre",
-        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
-      },
-      "artists": [
-        {
-          "name": "Gladys Ruiz",
-          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
-        }
-      ],
-      "duration_ms": 147408,
-      "name": "Hija de mi Madre",
-      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Con Tololoche y Charchetas (En Vivo)",
         "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 178150,
       "name": "Despu\u00e9s De Ella",
       "url": "https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Qui\u00e9n Te Entiende (En Vivo)",
+        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Qui\u00e9n Te Entiende - En Vivo",
+      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

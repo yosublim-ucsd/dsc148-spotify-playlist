@@ -1,12 +1,12 @@
 {
   "description": "Music for Imaginary Films",
-  "num_followers": 10219,
+  "num_followers": 10226,
   "original_name": "Nocturna Cinematica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmMzOGNjZjhiZWMzNzk3YmUzOWQ5N2I1ZWMyMzk4MGQ3NWZmZGRl",
+  "snapshot_id": "MCw5NmJjN2VhZmY3Y2FkN2E3Y2NmZDQ2Yzc5OTk2MDBjMDFlMzkwM2M5",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/1jsnIb8rHk5GgsN3oUNB6O"
     },
     {
+      "added_at": "2023-06-02 00:58:24",
+      "album": {
+        "name": "Dismantle",
+        "url": "https://open.spotify.com/album/0Urx0JytNiBlup4qFQEzJ3"
+      },
+      "artists": [
+        {
+          "name": "The Cromagnon Band",
+          "url": "https://open.spotify.com/artist/6ciUBm4vVIvDAI03LOaqwB"
+        }
+      ],
+      "duration_ms": 330565,
+      "name": "Thunder Perfect - Album Mix",
+      "url": "https://open.spotify.com/track/5Zvf7vZgafQ0P4DarGV4dp"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Promises",
@@ -157,22 +173,6 @@
       "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Shout Out! To Freedom...",
-        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
-    },
-    {
       "added_at": "2023-05-16 17:12:15",
       "album": {
         "name": "EIS O HOMEM",
@@ -187,6 +187,22 @@
       "duration_ms": 216892,
       "name": "EIS O HOMEM",
       "url": "https://open.spotify.com/track/684bq3L70SYnS4W7nJDEtF"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Shout Out! To Freedom...",
+        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -245,22 +261,6 @@
       "url": "https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz"
     },
     {
-      "added_at": "2023-03-23 20:07:50",
-      "album": {
-        "name": "Ready To Ball",
-        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
-      },
-      "artists": [
-        {
-          "name": "Kassa Overall",
-          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-        }
-      ],
-      "duration_ms": 207484,
-      "name": "Ready To Ball",
-      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
-    },
-    {
       "added_at": "2023-05-23 00:10:59",
       "album": {
         "name": "Do Make Say Think",
@@ -277,52 +277,20 @@
       "url": "https://open.spotify.com/track/1sTK6xF1WJVM2ERbyzGjJI"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2023-03-23 20:07:50",
       "album": {
-        "name": "Shadow Work",
-        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+        "name": "Ready To Ball",
+        "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
       },
       "artists": [
         {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
         }
       ],
-      "duration_ms": 307545,
-      "name": "Boreal Forest",
-      "url": "https://open.spotify.com/track/6rihywZn0l3Gc3ggHrmNis"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
-    },
-    {
-      "added_at": "2022-09-12 20:14:58",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 218233,
-      "name": "Iconoclasts",
-      "url": "https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK"
+      "duration_ms": 207484,
+      "name": "Ready To Ball",
+      "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -347,6 +315,54 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "Shadow Work",
+        "url": "https://open.spotify.com/album/62rUr720cpe9cWhfnC3gBc"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 307545,
+      "name": "Boreal Forest",
+      "url": "https://open.spotify.com/track/6rihywZn0l3Gc3ggHrmNis"
+    },
+    {
+      "added_at": "2022-09-12 20:14:58",
+      "album": {
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 218233,
+      "name": "Iconoclasts",
+      "url": "https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK"
+    },
+    {
+      "added_at": "2023-06-02 00:25:29",
+      "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "duration_ms": 483506,
+      "name": "L\u00e1grimas Del Mar",
+      "url": "https://open.spotify.com/track/7Hn2QzqGHoVe81bMFBwVSX"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Portico Quartet",
         "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
       },
@@ -359,6 +375,22 @@
       "duration_ms": 334040,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -393,20 +425,20 @@
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
-      "added_at": "2022-05-18 00:18:47",
+      "added_at": "2023-06-02 01:00:58",
       "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+        "name": "Bishara",
+        "url": "https://open.spotify.com/album/1Kn4DCMjt3WFZN6DDSEGhU"
       },
       "artists": [
         {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
         }
       ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+      "duration_ms": 337586,
+      "name": "Bishara",
+      "url": "https://open.spotify.com/track/3TuJn4bY8y4Dqdz22zWypG"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -423,6 +455,22 @@
       "duration_ms": 244773,
       "name": "The Last Retention",
       "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
+    },
+    {
+      "added_at": "2022-05-18 00:18:47",
+      "album": {
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+        }
+      ],
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
       "added_at": "2023-01-02 20:54:03",
@@ -459,22 +507,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Big Sun",
         "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
       },
@@ -491,6 +523,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "The Forgotten Edge",
         "url": "https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo"
       },
@@ -503,22 +551,6 @@
       "duration_ms": 179893,
       "name": "Balcony for Two",
       "url": "https://open.spotify.com/track/4uHzk0yedHAbFQhd32gvSJ"
-    },
-    {
-      "added_at": "2022-09-30 04:05:22",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -617,6 +649,22 @@
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
       "added_at": "2022-08-31 04:42:13",
       "album": {
         "name": "Education & Recreation",
@@ -693,22 +741,6 @@
       "url": "https://open.spotify.com/track/3nm4xjJMrrJWzmmorzFRIm"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
-    },
-    {
       "added_at": "2022-05-24 01:08:19",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -779,18 +811,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "11000 Dreams",
-        "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
       },
       "artists": [
         {
-          "name": "June11",
-          "url": "https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4"
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
         }
       ],
-      "duration_ms": 212712,
-      "name": "Who Is Still Dreaming?",
-      "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2022-09-03 04:35:48",
@@ -811,18 +843,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+        "name": "11000 Dreams",
+        "url": "https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8"
       },
       "artists": [
         {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+          "name": "June11",
+          "url": "https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4"
         }
       ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
+      "duration_ms": 212712,
+      "name": "Who Is Still Dreaming?",
+      "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1021,6 +1053,22 @@
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
+      "added_at": "2022-02-23 18:08:16",
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Marginalia #48",
+      "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
+    },
+    {
       "added_at": "2022-01-07 01:28:34",
       "album": {
         "name": "Entropy",
@@ -1051,22 +1099,6 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise - Instrumental",
       "url": "https://open.spotify.com/track/5QGMMjoliLdy9OTybrG6rV"
-    },
-    {
-      "added_at": "2022-02-25 04:13:05",
-      "album": {
-        "name": "Marrow",
-        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
-      },
-      "artists": [
-        {
-          "name": "Joyful Joyful",
-          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
-        }
-      ],
-      "duration_ms": 279464,
-      "name": "Marrow",
-      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
     },
     {
       "added_at": "2022-01-07 01:30:59",
@@ -1101,20 +1133,20 @@
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
     },
     {
-      "added_at": "2022-02-18 04:38:12",
+      "added_at": "2022-02-25 04:13:05",
       "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+        "name": "Marrow",
+        "url": "https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff"
       },
       "artists": [
         {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+          "name": "Joyful Joyful",
+          "url": "https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90"
         }
       ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+      "duration_ms": 279464,
+      "name": "Marrow",
+      "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -1137,20 +1169,20 @@
       "url": "https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov"
     },
     {
-      "added_at": "2022-02-23 18:08:16",
+      "added_at": "2022-02-18 04:38:12",
       "album": {
-        "name": "Marginalia III",
-        "url": "https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r"
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Marginalia #48",
-      "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1249,22 +1281,6 @@
       "url": "https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Mysteries",
-        "url": "https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
-        }
-      ],
-      "duration_ms": 183851,
-      "name": "Mysteries",
-      "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Archipelago",
@@ -1279,22 +1295,6 @@
       "duration_ms": 344640,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/1Fo7FIXNPw3Jn3WDcR8kdd"
-    },
-    {
-      "added_at": "2023-02-27 18:31:07",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
-      },
-      "artists": [
-        {
-          "name": "A. M.",
-          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Francis K.",
-      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
     }
   ],
   "unique_name": "Nocturna Cinematica",

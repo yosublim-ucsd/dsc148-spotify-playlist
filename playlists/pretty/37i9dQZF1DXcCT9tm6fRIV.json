@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 232939,
+  "num_followers": 232990,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDE1OTlmZDEyNjYxYmVhYjRlYWUxNmQ4YWY0ZTllODNlN2U4YWQ0",
+  "snapshot_id": "MCw5ZGRkNWM5ZmRhOGUyMGVlMTEyYzljZDc4NDI5NWQxY2U0YzhhYzNl",
   "tracks": [
     {
       "added_at": "2022-03-18 03:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Milonga de mis amores",
-        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
       },
       "artists": [
         {
-          "name": "SEXTETO VISCERAL",
-          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
-      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+      "duration_ms": 140360,
+      "name": "Anclao En Paris",
+      "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu"
+        "name": "Milonga de mis amores",
+        "url": "https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+          "name": "SEXTETO VISCERAL",
+          "url": "https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C"
         }
       ],
-      "duration_ms": 140360,
-      "name": "Anclao En Paris",
-      "url": "https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM"
+      "duration_ms": 142133,
+      "name": "Milonga de mis amores - Estilo Pedro Laurenz",
+      "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Mariposita - En Vivo",
-      "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "Canciones del Sur",
         "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 205546,
       "name": "El Coraz\u00f3n al Sur",
       "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 224746,
+      "name": "Mariposita - En Vivo",
+      "url": "https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Luz de un F\u00f3sforo - En Vivo",
+      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Luz de un F\u00f3sforo - En Vivo",
-      "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
         "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 231520,
       "name": "La Bicicleta Blanca",
       "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Oto\u00f1o Porte\u00f1o",
-        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
-      },
-      "artists": [
-        {
-          "name": "Ventarr\u00f3n",
-          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Oto\u00f1o porte\u00f1o",
-      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Barrio de Tango - En Vivo",
-      "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "De Criollos y Tangueros",
         "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
@@ -1259,6 +1223,42 @@
       "duration_ms": 191320,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Oto\u00f1o Porte\u00f1o",
+        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
+      },
+      "artists": [
+        {
+          "name": "Ventarr\u00f3n",
+          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Oto\u00f1o porte\u00f1o",
+      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "A los Cantores (En Vivo)",
+        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Barrio de Tango - En Vivo",
+      "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
     },
     {
       "added_at": "2022-03-18 03:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
-        }
-      ],
-      "duration_ms": 320922,
-      "name": "Fuimos - En Vivo",
-      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -1387,6 +1367,42 @@
     {
       "added_at": "2022-03-18 03:00:00",
       "album": {
+        "name": "Hoy Baile Hoy Vol. 1",
+        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
+      },
+      "artists": [
+        {
+          "name": "Raul Garello",
+          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
+        }
+      ],
+      "duration_ms": 206354,
+      "name": "Che Buenos Aires",
+      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 320922,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za"
+    },
+    {
+      "added_at": "2022-03-18 03:00:00",
+      "album": {
         "name": "La Tana Con Todo",
         "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 247026,
       "name": "El Abrojito",
       "url": "https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan"
-    },
-    {
-      "added_at": "2022-03-18 03:00:00",
-      "album": {
-        "name": "Hoy Baile Hoy Vol. 1",
-        "url": "https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh"
-      },
-      "artists": [
-        {
-          "name": "Raul Garello",
-          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
-        }
-      ],
-      "duration_ms": 206354,
-      "name": "Che Buenos Aires",
-      "url": "https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY"
     }
   ],
   "unique_name": "Tangos y Milongas",

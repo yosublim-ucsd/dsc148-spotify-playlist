@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,368 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,518 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 79 | [A Muse](https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:42 |
 | 80 | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa) | 4:30 |
 
-Snapshot ID: `MCw1ODJjODMzN2JiMTcyMTYwYTE4MDA4Y2E1NjVlZWQ1YjllN2RlNmM0`
+Snapshot ID: `MCxhZTk1YzZhY2FkNWU0OWJiMWY0Y2VkZDg4ZmMzNzVjOTUyMmQ2MzY2`

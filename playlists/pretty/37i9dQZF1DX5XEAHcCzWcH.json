@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 24867,
+  "num_followers": 24895,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTFjM2I2NTEzNmQ3MGIzYmJjMWY1MTZiNTJmMjY4OTI2OWM1NDll",
+  "snapshot_id": "MCxhN2ZjNDI4MzQ5MzdjN2NlOWJlOWU5MTkxNzAzOGJlMWU0MGIwY2I4",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Solo Ride",
-        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
-      },
-      "artists": [
-        {
-          "name": "Bruce Katz",
-          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
         "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 255506,
       "name": "Everytime I Get to Drinking",
       "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Solo Ride",
+        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
+      },
+      "artists": [
+        {
+          "name": "Bruce Katz",
+          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Presenting Blind Blake",
         "url": "https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 190400,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -795,18 +795,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blue Horizon Story (1965-1970)",
-        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+        "name": "Chicago Piano Volume 1",
+        "url": "https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC"
       },
       "artists": [
         {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        },
+        {
+          "name": "Mama Yancey",
+          "url": "https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu"
         }
       ],
-      "duration_ms": 170106,
-      "name": "Empty Arms",
-      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
+      "duration_ms": 274360,
+      "name": "Make Me a Pallet on the Floor",
+      "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -827,22 +831,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Chicago Piano Volume 1",
-        "url": "https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC"
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
       },
       "artists": [
         {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        },
-        {
-          "name": "Mama Yancey",
-          "url": "https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu"
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
         }
       ],
-      "duration_ms": 274360,
-      "name": "Make Me a Pallet on the Floor",
-      "url": "https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv"
+      "duration_ms": 170106,
+      "name": "Empty Arms",
+      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
     },
     {
       "added_at": "2022-05-13 10:49:08",

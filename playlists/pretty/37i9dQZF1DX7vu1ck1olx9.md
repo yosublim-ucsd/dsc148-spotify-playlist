@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,169 likes - 82 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,213 likes - 82 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 10 | [Smoking at Midnight](https://open.spotify.com/track/69r4VkTUiqOlcDN6ZbsblI) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:35 |
 | 11 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 |
 | 12 | [About You](https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu) | [xxyyxx](https://open.spotify.com/artist/1iqXhsjGeWi2Gje5q0mFYb) | [XXYYXX](https://open.spotify.com/album/7Lws9Z41rUQ9pnLgbNvxW0) | 4:07 |
-| 13 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 |
-| 14 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 |
+| 13 | [A World at Peace](https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg) | [Ibrahim](https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ) | [A World at Peace](https://open.spotify.com/album/3Z2Q8BNUFsZbUlUk2FhBbU) | 3:06 |
+| 14 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 |
 | 15 | [path of the wind](https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC) | [aekasora](https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa) | [Simple Things](https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz) | 3:35 |
 | 16 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 |
 | 17 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 32 | [Motor City 17](https://open.spotify.com/track/1AtiYbyttcLHmI9wJS51QG) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Motor City](https://open.spotify.com/album/7L7QkmT3PIgU37NKAO6xnQ) | 2:16 |
 | 33 | [3 Am](https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY) | [3 Am](https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm) | 2:04 |
 | 34 | [Spirited](https://open.spotify.com/track/1UcvLQLOEY12MLaTHigbfo) | [Ninjoi.](https://open.spotify.com/artist/5L2CHkxMyK5JxdWzjKcI6K) | [Benkyou](https://open.spotify.com/album/2RBCfGDmRd88hyRBwNBQ6c) | 2:19 |
-| 35 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 |
-| 36 | [Nightcrawler](https://open.spotify.com/track/2qjPTOzkXdR32LF9udVEdl) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/2RTAQzO3WCaMn5lcpiC7hP) | 3:45 |
+| 35 | [Nightcrawler](https://open.spotify.com/track/2qjPTOzkXdR32LF9udVEdl) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/2RTAQzO3WCaMn5lcpiC7hP) | 3:45 |
+| 36 | [belonging](https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [belonging](https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL) | 2:01 |
 | 37 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
 | 38 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 |
 | 39 | [Sun Will Rise](https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV), [Chinsaku](https://open.spotify.com/artist/0Y4zXpYaV5L4zDiUhmlV0i) | [Sun Will Rise](https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav) | 2:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 77 | [Tranquility Farm](https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Tranquility Farm](https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1) | 2:13 |
 | 78 | [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 |
 | 79 | [Soul Finding](https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH) | [Collabs, Vol 2](https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi) | 1:41 |
-| 80 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
-| 81 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
-| 82 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
+| 80 | [Sonar](https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Sonar](https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U) | 1:58 |
+| 81 | [Soul Sista](https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chasing Sunsets](https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi) | 2:00 |
+| 82 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 |
 
-Snapshot ID: `MCwxODhkYzVmZTRjNzRhNDU0ZGExZTRjYzdjODg0MWRiYWJjYzdhYmZj`
+Snapshot ID: `MCw3MjNhYzg3MDM1NjE1ZWM4OWE3NDM4ZTlhZmUyYmU0M2RjYzc0ZTNl`

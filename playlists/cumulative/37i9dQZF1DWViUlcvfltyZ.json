@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. Maria Antonietta in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. MILANOSPORT in cover!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "No Harmony",
+        "url": "https://open.spotify.com/album/1gyRigtJgj31N9ohUfn9I1"
+      },
+      "artists": [
+        {
+          "name": "Klidas",
+          "url": "https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309778,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz"
+    },
+    {
+      "album": {
         "name": "Citt\u00e0 foresta",
         "url": "https://open.spotify.com/album/7Mb7CHDVdLUflxd9pKX21w"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 194874,
       "name": "Equinox Fall",
       "url": "https://open.spotify.com/track/7idhTgLH1JA6n5rVwSCt9P"
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 173010,
       "name": "Favole (mi hai rotto il caxxo)",
       "url": "https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX"
@@ -3110,6 +3128,36 @@
       "duration_ms": 234280,
       "name": "Gun Powder",
       "url": "https://open.spotify.com/track/3ueHgeiKaOMAIAGLWoArCq"
+    },
+    {
+      "album": {
+        "name": "Haberdash",
+        "url": "https://open.spotify.com/album/5CsVJEpeVIsaJ8WgvrxW8G"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        },
+        {
+          "name": "Cathy Lucas",
+          "url": "https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249798,
+      "name": "Habadash",
+      "url": "https://open.spotify.com/track/36eksU9dcmYrFIifuZs4MU"
     },
     {
       "album": {
@@ -3978,6 +4026,24 @@
       "duration_ms": 184081,
       "name": "La fine dell'eternit\u00e0",
       "url": "https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe"
+    },
+    {
+      "album": {
+        "name": "La musica \u00e8 finita",
+        "url": "https://open.spotify.com/album/79iordJotLmxKPRHQTUU88"
+      },
+      "artists": [
+        {
+          "name": "Motta",
+          "url": "https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198670,
+      "name": "La musica \u00e8 finita",
+      "url": "https://open.spotify.com/track/3StEZwbxvR10edtOJoq2Ox"
     },
     {
       "album": {
@@ -4910,7 +4976,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 182738,
       "name": "Nero",
       "url": "https://open.spotify.com/track/3eFRoQ4iN8Jx9Te9TVkqBs"
@@ -5614,7 +5680,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 203253,
       "name": "Per sempre con me",
       "url": "https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p"
@@ -6276,6 +6342,24 @@
       "duration_ms": 137346,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/3Wuany26qQD9ymwpL2Iicl"
+    },
+    {
+      "album": {
+        "name": "Sbaglio peggiore",
+        "url": "https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG"
+      },
+      "artists": [
+        {
+          "name": "OMINI",
+          "url": "https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194192,
+      "name": "Sbaglio peggiore",
+      "url": "https://open.spotify.com/track/3496cFB078fy8zXdX108Gr"
     },
     {
       "album": {
@@ -7319,6 +7403,24 @@
     },
     {
       "album": {
+        "name": "The Menu",
+        "url": "https://open.spotify.com/album/3iFppTHtqUz3qKQDND1BkJ"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150978,
+      "name": "The Menu",
+      "url": "https://open.spotify.com/track/3dn5IQzv11KlKQsHWjP2i1"
+    },
+    {
+      "album": {
         "name": "Just Fade Away",
         "url": "https://open.spotify.com/album/63bqZkUPl7zD8FFyFE7lzh"
       },
@@ -7712,7 +7814,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165080,
       "name": "TUTTA FORTUNA",
       "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"

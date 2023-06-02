@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Tiago PZK & TINI",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Los del Espacio \ud83e\ude90",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 218538,
       "name": "An\u00edmate",
       "url": "https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU"
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Idealizar",
+        "url": "https://open.spotify.com/album/7Gpwv2ArJ7unBiWl0ED8Ak"
+      },
+      "artists": [
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161727,
+      "name": "Idealizar",
+      "url": "https://open.spotify.com/track/5StAfgJRRAOiOvkys7qgBs"
+    },
+    {
+      "album": {
         "name": "Incomprendida",
         "url": "https://open.spotify.com/album/426KJjrYqkw2UYhXO0JbPW"
       },
@@ -1069,6 +1087,52 @@
     },
     {
       "album": {
+        "name": "Los del Espacio",
+        "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Los del Espacio",
+      "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
+    },
+    {
+      "album": {
         "name": "Los Locos",
         "url": "https://open.spotify.com/album/1LZvwBNycdy9Mc3C4uMBI5"
       },
@@ -1200,7 +1264,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 188666,
       "name": "Mi una en 1M",
       "url": "https://open.spotify.com/track/6vkrrInEdRM4E490HVdMws"
@@ -1545,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "olvidARTE",
+        "url": "https://open.spotify.com/album/1Rxqvnq1CHHN6ixkLFBnEQ"
+      },
+      "artists": [
+        {
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        },
+        {
+          "name": "BAMBI",
+          "url": "https://open.spotify.com/artist/0nDw7H8W4oU0QPzL4LC9Aj"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147870,
+      "name": "olvidARTE",
+      "url": "https://open.spotify.com/track/5366g9zdp69bHlqJtkuEBu"
+    },
+    {
+      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn"
       },
@@ -1753,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/2aiC1DHkCfDeUClyKukRPm"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126958,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4cIM8wpHVqmPTtLgH4ehun"
+    },
+    {
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -1848,7 +1956,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
@@ -1888,7 +1996,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170000,
       "name": "Tenso",
       "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
@@ -2090,7 +2198,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 93280,
       "name": "Vamos Pal Espacio",
       "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
@@ -2130,6 +2238,28 @@
       "duration_ms": 180672,
       "name": "VISTA AL MAR",
       "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
     },
     {
       "album": {

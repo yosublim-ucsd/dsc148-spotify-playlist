@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-1,139 songs - 3 day 19 hr 10 min
+1,140 songs - 3 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -882,7 +882,8 @@
 | [Spunky](https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en) | [Conrad Schwenke Quartett](https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx) | [Spunky](https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh) | 5:51 | 2023-05-24 |  |
 | [Stainless Steel](https://open.spotify.com/track/59yM1QTkQSsRCz5dbLT8a0) | [J3](https://open.spotify.com/artist/6Siw7J2bDd4TXOvr872obC) | [Opus 1](https://open.spotify.com/album/2NoUqXx2Jzp5hoeFcz8D1u) | 4:31 | 2022-04-20 | 2022-05-19 |
 | [Stand Mixer](https://open.spotify.com/track/6LWeZexzNU6Br8HiqIAICj) | [Midwest Duplex](https://open.spotify.com/artist/5GTHNd9U0FynHuCzV5078L) | [Stand Mixer](https://open.spotify.com/album/0bJwyOTdQUTBDNz9jgNRsw) | 4:03 | 2022-06-01 | 2022-06-30 |
-| [Stank Face Patrol](https://open.spotify.com/track/2H4xUr4LK3EHNnXwOxCYW8) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/6ouVTP3LLQi5r1wvIuEqUQ) | 3:15 | 2023-05-10 |  |
+| [Stank Face Patrol](https://open.spotify.com/track/2H4xUr4LK3EHNnXwOxCYW8) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/6ouVTP3LLQi5r1wvIuEqUQ) | 3:15 | 2023-05-10 | 2023-06-02 |
+| [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 | 2023-05-10 |  |
 | [Star Crossing](https://open.spotify.com/track/2nvyck5lSFUiwtnpG7H8mX) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Star Crossing](https://open.spotify.com/album/2PVBkjfnPzaLnS4TcR5XN9) | 4:19 | 2022-06-01 | 2022-06-30 |
 | [Starshine](https://open.spotify.com/track/5QJ9hMbrRgy0bh2Rf6X2qH) | [STL Collective](https://open.spotify.com/artist/1BVPGx5V0loqZCjZsGyUHe), [Joanna Serenko](https://open.spotify.com/artist/1Kgono2MXcTfWH2AX2bbrO), [Tyler Dale](https://open.spotify.com/artist/77ZEWK0kppsHZbuCK0aOH8) | [Starshine](https://open.spotify.com/album/7m6wntXpuUnxWdLxY2pwwa) | 3:44 | 2022-07-27 | 2022-09-09 |
 | [Stealing Me](https://open.spotify.com/track/4mbNHMhvErsWF7pnsa4Qu9) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Stealing Me](https://open.spotify.com/album/48iEiXUl3N5g9FID6DVBcC) | 4:20 | 2022-08-03 | 2022-09-22 |

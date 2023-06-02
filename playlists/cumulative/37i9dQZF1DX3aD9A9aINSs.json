@@ -10972,7 +10972,7 @@
     {
       "album": {
         "name": "U\u00e7an Hal\u0131",
-        "url": "https://open.spotify.com/album/3Eojuhh7gd3wPOzt4zRtBd"
+        "url": "https://open.spotify.com/album/02w6vK4IXbQlMluG8JbK8y"
       },
       "artists": [
         {
@@ -10983,6 +10983,24 @@
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 159199,
+      "name": "U\u00e7an Hal\u0131",
+      "url": "https://open.spotify.com/track/5eVloLfmtZUxsN4k1iPpjy"
+    },
+    {
+      "album": {
+        "name": "U\u00e7an Hal\u0131",
+        "url": "https://open.spotify.com/album/3Eojuhh7gd3wPOzt4zRtBd"
+      },
+      "artists": [
+        {
+          "name": "Ezgi B",
+          "url": "https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
       "duration_ms": 159199,
       "name": "U\u00e7an Hal\u0131",
       "url": "https://open.spotify.com/track/760VQvW7RJwkrZtr7GCs8q"

@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7636,
+  "num_followers": 7650,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQzZjI0MmNiNWQwZTk4ZDQ2ZmEwZDI0NjZjZDU5MjRlYTQ0ODIx",
+  "snapshot_id": "MCw1ZDBmZWRjM2JlMTdjNjQ0ZWY0N2VlMDNlNTU5ODhiYjAwMjRiMDQw",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Funk from the Trunk",
-        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
-      },
-      "artists": [
-        {
-          "name": "Basement Freaks",
-          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "A Blues Thang",
-      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Playing the Angel",
         "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 221933,
       "name": "John the Revelator",
       "url": "https://open.spotify.com/track/4OKEETxdou0lR7LEVvEpaG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Funk from the Trunk",
+        "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
+      },
+      "artists": [
+        {
+          "name": "Basement Freaks",
+          "url": "https://open.spotify.com/artist/77OQMkKBvHUwYyRCv6ossJ"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "A Blues Thang",
+      "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
-      },
-      "artists": [
-        {
-          "name": "Mblue",
-          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Delta Disco",
@@ -815,6 +799,22 @@
       "duration_ms": 255840,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+      },
+      "artists": [
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     },
     {
       "added_at": "2020-12-01 05:01:00",

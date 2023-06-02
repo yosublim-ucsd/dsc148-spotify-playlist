@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Judith Owen",
+  "description": "The best jazz new releases. Cover: Kareen Guiock Thuram",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 272323,
       "name": "Brand New Life (feat. Mumu Fresh)",
       "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177157,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
@@ -2385,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Impressions of Ella",
+        "url": "https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257795,
+      "name": "I Won't Dance",
+      "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
+    },
+    {
+      "album": {
         "name": "Easy Sailing",
         "url": "https://open.spotify.com/album/10dBsEX8vh7ATq815EJEcb"
       },
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 167682,
       "name": "Il m'a vue nue",
       "url": "https://open.spotify.com/track/0aJdVn2GpPMiOa1xlOHDeP"
@@ -3451,6 +3473,32 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4walVbFcfH4QiqOJiZZ3Rx"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Greg Hutchinson",
+          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
+        },
+        {
+          "name": "Matt Penmann",
+          "url": "https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0KD6pNagSVwjpNaSjnuE7o"
+    },
+    {
+      "album": {
         "name": "Montsouris",
         "url": "https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW"
       },
@@ -3718,6 +3766,24 @@
       "duration_ms": 220333,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/3HKwb6ONXlvLwBEolbJGpG"
+    },
+    {
+      "album": {
+        "name": "Ole & Gard",
+        "url": "https://open.spotify.com/album/6LbRF2pLgAIl7prGqJjwvi"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393230,
+      "name": "Ole & Gard",
+      "url": "https://open.spotify.com/track/1Fv1UgZHUGgwB3bicHBrz8"
     },
     {
       "album": {
@@ -4324,6 +4390,28 @@
       "duration_ms": 279200,
       "name": "Running Game",
       "url": "https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC"
+    },
+    {
+      "album": {
+        "name": "Rust (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
     },
     {
       "album": {
@@ -5725,6 +5813,32 @@
     },
     {
       "album": {
+        "name": "Clear Water (feat. Deantoni Parks, Jeff Parker, Sanford Biggers)",
+        "url": "https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Vuma (feat. Thandiswa, Joel Ross)",
+      "url": "https://open.spotify.com/track/6e4zwnRMfwIbTZYDlz5A8A"
+    },
+    {
+      "album": {
         "name": "The 5th Dimension (feat. The HawtPlates)",
         "url": "https://open.spotify.com/album/2SQPJFfEPeX2wIIHpzFGci"
       },
@@ -5744,7 +5858,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/6tmaqOSEJHwviZVBeGhHZe"

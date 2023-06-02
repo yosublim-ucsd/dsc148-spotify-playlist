@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 129020,
+  "num_followers": 129079,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjkyMGQ2MmViZDc4N2E5NjBlOWI1Y2I0Y2ZiMTQ3NmYwZTJmMTM4",
+  "snapshot_id": "MCw3NzNjZTY4YTFmMTIxNzQ5M2MxMGRlMDAyNThhMDYyYTQwZTFkZTFi",
   "tracks": [
     {
       "added_at": "2022-12-30 18:53:16",
@@ -195,18 +195,22 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
         }
       ],
-      "duration_ms": 180511,
-      "name": "Veinticinco Rosas",
-      "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
+      "duration_ms": 188917,
+      "name": "Maracas",
+      "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -291,22 +295,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Maracas",
-      "url": "https://open.spotify.com/track/5Cf8MCD6NcYvy8RQL2khAS"
+      "duration_ms": 180511,
+      "name": "Veinticinco Rosas",
+      "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
       },
       "artists": [
         {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
         }
       ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Castillos en el aire",
         "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 198106,
       "name": "Castillos en el aire",
       "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
-      },
-      "artists": [
-        {
-          "name": "Los Pulpos",
-          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Lo Que Te Queda",
-      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "La Orquesta de Siempre: Volume 1",
         "url": "https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
+        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
+        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+      },
+      "artists": [
+        {
+          "name": "Los Pulpos",
+          "url": "https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Lo Que Te Queda",
+      "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "Mi Arbol Y Yo",
-        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Mi Arbol Y Yo",
-      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1639,6 +1623,22 @@
       "duration_ms": 215600,
       "name": "Todo Con \u00c9l",
       "url": "https://open.spotify.com/track/5satdAuywrowLyNn9bIvGj"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Mi Arbol Y Yo",
+        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Mi Arbol Y Yo",
+      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",

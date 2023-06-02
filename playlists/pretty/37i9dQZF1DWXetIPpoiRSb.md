@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: needanamebro
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,968 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,999 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
 | 2 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 |
-| 3 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and Her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
+| 3 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 4 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 5 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 |
 | 6 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 41 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 |
 | 42 | [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 |
 | 43 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 |
-| 44 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
+| 44 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
 | 45 | [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 |
 | 46 | [Heaven Knows](https://open.spotify.com/track/1rGtiJ6NtmHiEij4bf6hOh) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Heaven Knows](https://open.spotify.com/album/21rC1AhLo8aFP4zDbKVWSr) | 2:50 |
 | 47 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 74 | [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 |
 | 75 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
 | 76 | [this is what losing someone feels like](https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what losing someone feels like](https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF) | 2:52 |
-| 77 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
+| 77 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 78 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 79 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 | 80 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
 
-Snapshot ID: `MCxmMjk5Mjc2OThhZWQ4NDY3MTg3N2VkZWVlYWNlMjFlM2IwYTE0NTgx`
+Snapshot ID: `MCxmNTliZmIyMTE2NDFmYmQ3OWYxMWI4NjM0MDZlNjY1ZDI0MWYyZjE2`

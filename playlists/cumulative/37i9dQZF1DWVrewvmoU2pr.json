@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "\u4e09\u4eba\u5e8a",
+        "url": "https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL"
+      },
+      "artists": [
+        {
+          "name": "Zelos Wong \u9ec3\u51f1\u9038",
+          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u4e09\u4eba\u5e8a",
+      "url": "https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn"
+    },
+    {
+      "album": {
         "name": "Eman Lam",
         "url": "https://open.spotify.com/album/49A8kv0BJoXsX5Ay6JxW5w"
       },
@@ -1250,6 +1268,24 @@
       "duration_ms": 257953,
       "name": "\u541b\u306b\u5922\u4e2d",
       "url": "https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF"
+    },
+    {
+      "album": {
+        "name": "\u541f\u9234",
+        "url": "https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF"
+      },
+      "artists": [
+        {
+          "name": "Zelos Wong \u9ec3\u51f1\u9038",
+          "url": "https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178850,
+      "name": "\u541f\u9234",
+      "url": "https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h"
     },
     {
       "album": {
@@ -1520,6 +1556,24 @@
       "duration_ms": 297000,
       "name": "\u611b\u88e1\u6c92\u6709\u8a5b\u5492",
       "url": "https://open.spotify.com/track/2fTrrUb3Yl4zMt2ILLsLGJ"
+    },
+    {
+      "album": {
+        "name": "\u6200\u4eba\u7d6e\u8a9e",
+        "url": "https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220341,
+      "name": "\u6200\u4eba\u7d6e\u8a9e",
+      "url": "https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o"
     },
     {
       "album": {

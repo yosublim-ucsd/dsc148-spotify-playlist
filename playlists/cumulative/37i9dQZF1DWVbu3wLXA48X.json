@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Arlo Parks",
+  "description": "Current indie tunes from Asia and around the world. Cover:  grentperez",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 211206,
       "name": "3 Hours On",
       "url": "https://open.spotify.com/track/7IK7XCIBkD8x3a7MtCVA8F"
+    },
+    {
+      "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/4g1bzzlGodo2xL5xiAHOH0"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        },
+        {
+          "name": "Nartok",
+          "url": "https://open.spotify.com/artist/0AQRX7zjIcvx9wfT7PY8Q8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129091,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4gTUjnPThkkPkXRoStEIyH"
     },
     {
       "album": {
@@ -616,7 +638,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 196707,
       "name": "Alone in the Mountains",
       "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 265959,
       "name": "Cops and robbers",
       "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
@@ -3996,7 +4018,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184506,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/4QTHlDa9mWxjzBdD17XjUl"
@@ -4530,6 +4552,24 @@
       "duration_ms": 194221,
       "name": "Everysunrise",
       "url": "https://open.spotify.com/track/7FgIyU5i7Y2Eo8coZ1eeNW"
+    },
+    {
+      "album": {
+        "name": "Everything Unspoken",
+        "url": "https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229053,
+      "name": "Everything Unspoken",
+      "url": "https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH"
     },
     {
       "album": {
@@ -5136,7 +5176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
@@ -5786,7 +5826,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -6396,6 +6436,28 @@
       "duration_ms": 189882,
       "name": "healthy",
       "url": "https://open.spotify.com/track/1imOkV6736s6g2BPIt1SIW"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
       "album": {
@@ -7028,6 +7090,24 @@
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
+    },
+    {
+      "album": {
+        "name": "Stubborn Heart",
+        "url": "https://open.spotify.com/album/6YdSXl65Z5qcMxlCIvSEyo"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277565,
+      "name": "I Can Take It",
+      "url": "https://open.spotify.com/track/1h5eEcmlFO1nIOc56BSYB5"
     },
     {
       "album": {
@@ -8535,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "Lose My Head",
+        "url": "https://open.spotify.com/album/3q8cttdPEVNFCZwCxe47B5"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150791,
+      "name": "Lose My Head",
+      "url": "https://open.spotify.com/track/4KefSDm2uulCInC38hXKYj"
+    },
+    {
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -8820,7 +8918,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 228888,
       "name": "Loving And Letting Go",
       "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
@@ -9334,6 +9432,28 @@
       "duration_ms": 295341,
       "name": "midnight sun - reflects / acoustic version",
       "url": "https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k"
+    },
+    {
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
     },
     {
       "album": {
@@ -10408,7 +10528,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184284,
       "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
@@ -10437,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "NWYK",
+        "url": "https://open.spotify.com/album/6Qa9ljnHnMSJ7j4wTG7DMf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133384,
+      "name": "NWYK",
+      "url": "https://open.spotify.com/track/4KeGC0kxMnkKfVJTprS9nR"
+    },
+    {
+      "album": {
         "name": "NYE",
         "url": "https://open.spotify.com/album/0xIg9hAbN6BYXXoEVoMwqX"
       },
@@ -10448,7 +10586,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 190664,
       "name": "NYE",
       "url": "https://open.spotify.com/track/5VWtw1qkaq1lBsgY2lLhNo"
@@ -10938,7 +11076,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
@@ -12148,7 +12286,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
@@ -12988,7 +13126,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 287297,
       "name": "Silent",
       "url": "https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ"
@@ -13253,6 +13391,24 @@
     },
     {
       "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
+    },
+    {
+      "album": {
         "name": "Slow Dance",
         "url": "https://open.spotify.com/album/1qFwIewiyPab9oEBQUuWP9"
       },
@@ -13380,6 +13536,24 @@
       "duration_ms": 256124,
       "name": "Snow On The Beach (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
     },
     {
       "album": {
@@ -13695,6 +13869,24 @@
     },
     {
       "album": {
+        "name": "Spunky!",
+        "url": "https://open.spotify.com/album/50fMxlCKUEz8M4aRo0IHe7"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130173,
+      "name": "Spunky!",
+      "url": "https://open.spotify.com/track/2qyBRnUVfj227PJqLiynkg"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/79H8ASriYHc6JBmxm4vq6f"
       },
@@ -14004,6 +14196,24 @@
       "duration_ms": 153873,
       "name": "stuck in san antonio",
       "url": "https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY"
+    },
+    {
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "album": {
@@ -14846,7 +15056,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198416,
       "name": "The Redwing",
       "url": "https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU"
@@ -15264,7 +15474,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 285839,
       "name": "To Rage",
       "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
@@ -15788,7 +15998,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200039,
       "name": "Us Without Me",
       "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
@@ -16096,7 +16306,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 202945,
       "name": "water comes out of my eyes",
       "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
@@ -16194,7 +16404,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184024,
       "name": "We The Female!",
       "url": "https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP"

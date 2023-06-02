@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 287351,
+  "num_followers": 287544,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWQ2YWVhZDg4YTZlMTExODA5ZjY5Njk1YTlkYTc3Mjk2NGEwZTcw",
+  "snapshot_id": "MCwwNjc2M2IyZGY3ODQ0MmNhYjgyNDE0NzJkNjI5NjViMWEyNGY2OTVl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 319733,
-      "name": "I Am The Black Gold Of The Sun",
-      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 253173,
       "name": "Be Thankful (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 319733,
+      "name": "I Am The Black Gold Of The Sun",
+      "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
     },
     {
       "added_at": "2022-07-14 19:24:43",

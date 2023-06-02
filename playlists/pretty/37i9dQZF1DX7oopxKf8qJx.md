@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,382 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,473 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 8 | [Unchained Melody](https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Dancing In Wonderland \(Remastered\)](https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI) | 2:43 |
 | 9 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
 | 10 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
-| 11 | [Moon River \- From "Breakfast At Tiffanys"](https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [The Third Man \- Cinema Gala](https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn) | 2:40 |
+| 11 | [The Summer Knows \(From "Summer of '42"\)](https://open.spotify.com/track/4852V4r33kQtMIWscamrac) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [As Time Goes By](https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS) | 3:27 |
 | 12 | [Les papillons](https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [My Way Of Music](https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG) | 2:30 |
 | 13 | [The Green Leaves Of Summer](https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Best Of Nelson Riddle](https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl) | 2:24 |
 | 14 | [Poor Butterfly](https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:04 |
 | 15 | [I'm In The Mood For Love \- Remastered/1996](https://open.spotify.com/track/2Z93X6OdE8CAy960krXZF9) | [Jimmy McHugh](https://open.spotify.com/artist/7r1YNrUHsmDmcVCg8P4piG), [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [The Romantic Moods Of Jackie Gleason](https://open.spotify.com/album/02x5TcGeRKzveg5jUwS0Ly) | 3:30 |
-| 16 | [The Summer Knows \(From "Summer of '42"\)](https://open.spotify.com/track/4852V4r33kQtMIWscamrac) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [As Time Goes By](https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS) | 3:27 |
+| 16 | [Moon River \- From "Breakfast At Tiffanys"](https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [The Third Man \- Cinema Gala](https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn) | 2:40 |
 | 17 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
 | 18 | [Three O'Clock In The Morning](https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:33 |
 | 19 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 39 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 40 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
 | 41 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
-| 42 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
-| 43 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
+| 42 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
+| 43 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
 | 44 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
 | 45 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
 | 46 | [Jean](https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [The America Album](https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 74 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 |
 | 75 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
 
-Snapshot ID: `MCw2YTQwYzJiNzc4YjA0MmNkYjU3ZTM4NjMzZGUwNjUzNmEzYzk5YTVl`
+Snapshot ID: `MCw5YWYyYjQ0ZDJhZGZjZmU5NDdlNjEzMjYzZDkxOWEwYjIyMTU4NDg1`

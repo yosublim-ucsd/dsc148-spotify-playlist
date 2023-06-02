@@ -4837,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "C\u1eadu B\u00e9 M\u1ed9ng M\u01a1",
+        "url": "https://open.spotify.com/album/4q4VXjN8H0AAINJCmBXkJP"
+      },
+      "artists": [
+        {
+          "name": "Clow",
+          "url": "https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202842,
+      "name": "C\u1eadu B\u00e9 M\u1ed9ng M\u01a1",
+      "url": "https://open.spotify.com/track/1wEwCi4H573BUthmo0LSSw"
+    },
+    {
+      "album": {
         "name": "LOVE BUT CAN'T TOUCH YOUR FINGERS",
         "url": "https://open.spotify.com/album/6vd3OE1DOVarKP0R8Y3fbw"
       },
@@ -7805,7 +7823,7 @@
     },
     {
       "album": {
-        "name": "H\u1eadu Ph\u01b0\u01a1ng (C\u00e2n C\u1ea3 Th\u1ebf Gi\u1edbi ballad version)",
+        "name": "H\u1eadu Ph\u01b0\u01a1ng (C\u00e2n C\u1ea3 Th\u1ebf Gi\u1edbi Ballad Version)",
         "url": "https://open.spotify.com/album/4L4aqj0qMvUTsjDZVq1bbc"
       },
       "artists": [
@@ -8210,6 +8228,32 @@
       "duration_ms": 226363,
       "name": "Khi N\u00e0o Em C\u00f3 Th\u1ec3",
       "url": "https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG"
+    },
+    {
+      "album": {
+        "name": "Khi T\u00f4i 18",
+        "url": "https://open.spotify.com/album/78zandlIoqa8HOdbgBmIvD"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdc \u0110\u1eafc",
+          "url": "https://open.spotify.com/artist/7g4wZfZd0bVoz5by4WXE2M"
+        },
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        },
+        {
+          "name": "Rum",
+          "url": "https://open.spotify.com/artist/2FzQt1F2hU6M2h0w9AZ6kT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290526,
+      "name": "Khi T\u00f4i 18",
+      "url": "https://open.spotify.com/track/39Un13usiG104LzAezlkXG"
     },
     {
       "album": {
@@ -8696,7 +8740,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184000,
       "name": "Laiu",
       "url": "https://open.spotify.com/track/7E3S3dXVenWNVDWsXhoxlN"
@@ -12512,7 +12556,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 310475,
       "name": "N\u1ebfu Bi\u1ebft Tr\u01b0\u1edbc",
       "url": "https://open.spotify.com/track/5cb15uFR4p7y3odjaeXCyE"
@@ -12574,7 +12618,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 213582,
       "name": "N\u1ebfu N\u00f3i Ra L\u1eddi Y\u00eau \u1ea4y",
       "url": "https://open.spotify.com/track/6sWvHkMA8aCQwWlJnznqZn"
@@ -14126,6 +14170,28 @@
       "duration_ms": 131606,
       "name": "Scarf On My Head",
       "url": "https://open.spotify.com/track/60IDKlLsJGjXQjIOZ2rczU"
+    },
+    {
+      "album": {
+        "name": "LEFTOVER FLOWERS",
+        "url": "https://open.spotify.com/album/4PT5lZAhYNUAcC0OZBfrXm"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/3qUc9jd1knrpqhoO6wJCCR"
+        },
+        {
+          "name": "KADO.",
+          "url": "https://open.spotify.com/artist/3yJJKoIlf2LfUPdyv2YzQa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "SEENDERELLA",
+      "url": "https://open.spotify.com/track/6SY1ZB8y1ZPvBNVD3QvccV"
     },
     {
       "album": {
@@ -19472,6 +19538,36 @@
       "duration_ms": 198399,
       "name": "\u0110\u00f4ng M\u1edd Phai Tr\u00ean B\u1edd Vai",
       "url": "https://open.spotify.com/track/01Ta8m4osrCItbtunaqdhe"
+    },
+    {
+      "album": {
+        "name": "\u0111\u00f4ng nh\u1edb h\u1ea1",
+        "url": "https://open.spotify.com/album/3SzX9JjGvD9tq1PEPVFc3U"
+      },
+      "artists": [
+        {
+          "name": "th\u00e1i minh",
+          "url": "https://open.spotify.com/artist/10zHjyUcMfFBuN5JKNGbzl"
+        },
+        {
+          "name": "b\u00e1",
+          "url": "https://open.spotify.com/artist/6mSqwpyOI3Hbwg31bJubvj"
+        },
+        {
+          "name": "qu\u1ed1c",
+          "url": "https://open.spotify.com/artist/5IIDQIA5QbLu9mx5YKRqdF"
+        },
+        {
+          "name": "mai \u00e2n",
+          "url": "https://open.spotify.com/artist/79rwLpJ4Y6vNRv00MEROy2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323827,
+      "name": "\u0111\u00f4ng nh\u1edb h\u1ea1",
+      "url": "https://open.spotify.com/track/3f9hCy4y3pRYKCMcV4stAZ"
     },
     {
       "album": {

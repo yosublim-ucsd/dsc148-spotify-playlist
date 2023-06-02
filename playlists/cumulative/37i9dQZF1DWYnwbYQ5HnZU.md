@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Artist: Lady A
+> Spotify country fan favorites\. Cover: Darius Rucker
 
 210 songs - 12 hr 1 min
 

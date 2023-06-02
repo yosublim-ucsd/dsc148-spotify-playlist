@@ -4,7 +4,7 @@
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-268 songs - 16 hr 14 min
+269 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Agarrala](https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Reggaeton Hall of Fame, Vol\. 1](https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0) | 2:37 | 2021-12-09 | 2022-07-29 |
 | [Agárrala \- Remix](https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 2:32 | 2022-09-15 |  |
 | [Agárrale el Pantalón \(feat\. Zion & Lennox\)](https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:09 | 2021-12-09 | 2022-11-13 |
-| [Al Natural](https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:33 | 2023-05-25 |  |
+| [Al Natural](https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:33 | 2023-05-25 | 2023-06-02 |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2021-12-09 | 2023-04-13 |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-09-15 |  |
 | [Algo Musical](https://open.spotify.com/track/4oYN44rloSqxabqrSgIani) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Exitos](https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx) | 3:29 | 2021-12-09 | 2022-11-13 |
@@ -242,6 +242,7 @@
 | [Te He Querido, Te He Llorado](https://open.spotify.com/track/1NrKLroOjLcSXtlq8twPrc) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [e5](https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp) | 4:14 | 2021-12-09 | 2022-07-29 |
 | [Te Iré a Buscar](https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/5juo8FAhKpHZrXkKnKe5BQ) | 3:03 | 2021-12-09 | 2022-07-24 |
 | [Te Iré a Buscar](https://open.spotify.com/track/5MPSIqK8WmbQ9TkuJhmtyv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:03 | 2022-10-25 | 2022-11-13 |
+| [Te la Tiro Pa Que Bailes](https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Fatal Fantassy 3](https://open.spotify.com/album/1p94g5LjKqmbAyGXQMheub) | 2:47 | 2023-05-25 |  |
 | [Te Pintaron Pajaritos](https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4) | [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Pintaron Pajaritos](https://open.spotify.com/album/3ssXQwFXNc3NBc8r2aMS9E) | 2:52 | 2023-05-08 |  |
 | [Te Quiero](https://open.spotify.com/track/0yrvmIafnxkkMCMAIaDgiQ) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:18 | 2022-12-07 | 2023-05-09 |
 | [Te Quiero](https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD) | 3:19 | 2021-12-09 | 2022-12-02 |

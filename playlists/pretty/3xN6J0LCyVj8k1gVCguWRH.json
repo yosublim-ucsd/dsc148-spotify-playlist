@@ -1,13 +1,29 @@
 {
-  "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101437,
+  "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
+  "num_followers": 101467,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDY3OCwwZDM3MmQzMjFmYzBlNDYxNTc4NjUwMzA0MDI0ODEwZGIwYTIwYjdl",
+  "snapshot_id": "NDcwNSwwYmFjZThmODI4MmUyMGNiZTc0NzZiMWYzMGI3ZmM2OWNjMjczNzc4",
   "tracks": [
+    {
+      "added_at": "2023-06-01 20:35:17",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
     {
       "added_at": "2023-05-20 03:27:04",
       "album": {
@@ -89,10 +105,10 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-      "added_at": "2023-05-25 01:24:11",
+      "added_at": "2023-06-01 20:27:23",
       "album": {
         "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
@@ -100,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-05-31 13:50:48",
@@ -123,6 +139,62 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/79rDSeSX1tm97qaYDmPSnD"
+    },
+    {
+      "added_at": "2023-06-01 20:26:07",
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2023-06-01 20:23:08",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
+    },
+    {
+      "added_at": "2023-06-01 20:27:00",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Boy's a Liar",
+      "url": "https://open.spotify.com/track/3QUbaXCfksmF19lW32BQE0"
     },
     {
       "added_at": "2023-05-25 14:37:56",
@@ -159,6 +231,22 @@
       "duration_ms": 169351,
       "name": "3:00",
       "url": "https://open.spotify.com/track/2UlVZ1TOoPTU88vrh6axKe"
+    },
+    {
+      "added_at": "2023-06-01 20:23:30",
+      "album": {
+        "name": "Everyone's Crushed",
+        "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Everyone's Crushed",
+      "url": "https://open.spotify.com/track/4BxMHyOM33CNbExjurjAut"
     },
     {
       "added_at": "2023-05-29 13:52:53",
@@ -585,22 +673,6 @@
       "url": "https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF"
     },
     {
-      "added_at": "2023-05-14 14:01:27",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/0Rm8RveRoAMtJcxTQHsFwt"
-      },
-      "artists": [
-        {
-          "name": "Megan Britt",
-          "url": "https://open.spotify.com/artist/41G7vJN8lnQUx054VywKve"
-        }
-      ],
-      "duration_ms": 198272,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/3bSYAnvASjfOQbHjJ5AqU9"
-    },
-    {
       "added_at": "2023-05-16 13:10:44",
       "album": {
         "name": "A Feminist March",
@@ -983,6 +1055,158 @@
       "duration_ms": 298871,
       "name": "Better (feat. Shana Tucker & Eric Roberson)",
       "url": "https://open.spotify.com/track/0hihs6rrk3eL2iRS0xzmpX"
+    },
+    {
+      "added_at": "2023-06-02 00:07:36",
+      "album": {
+        "name": "Peach tree",
+        "url": "https://open.spotify.com/album/5Pa2aNyiDR6WtjeKoTTXr4"
+      },
+      "artists": [
+        {
+          "name": "Santa Chiara",
+          "url": "https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Peach tree",
+      "url": "https://open.spotify.com/track/628oi7AB8GI0j0Gr7gqgbH"
+    },
+    {
+      "added_at": "2023-06-02 00:08:23",
+      "album": {
+        "name": "Love Maria",
+        "url": "https://open.spotify.com/album/29xe3Ncz10zwqbnT22O2Dx"
+      },
+      "artists": [
+        {
+          "name": "Crazy Loop",
+          "url": "https://open.spotify.com/artist/3k8kts6tEChHVszMu5Xr9E"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Love Maria",
+      "url": "https://open.spotify.com/track/40r89orE6FCKWVwMhn74l4"
+    },
+    {
+      "added_at": "2023-06-02 00:09:56",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
+      },
+      "artists": [
+        {
+          "name": "Macedo",
+          "url": "https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG"
+        }
+      ],
+      "duration_ms": 232721,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0UR6lUDAW59mTVNJZY7PA4"
+    },
+    {
+      "added_at": "2023-06-02 00:10:30",
+      "album": {
+        "name": "Hostage (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/01LXhFeItNfECMwYPAyohz"
+      },
+      "artists": [
+        {
+          "name": "slowed nation",
+          "url": "https://open.spotify.com/artist/5MSy46F3V4DEVIldnkSish"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/3rIzlFSrRENuXrBvGkDbqD"
+        },
+        {
+          "name": "ghostly echoes",
+          "url": "https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw"
+        }
+      ],
+      "duration_ms": 246486,
+      "name": "Hostage - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/23dIj54913yTsIvkvgYMnI"
+    },
+    {
+      "added_at": "2023-06-02 00:08:55",
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/2u6sXR6PEHrYBolNahW4mY"
+      },
+      "artists": [
+        {
+          "name": "ellakate",
+          "url": "https://open.spotify.com/artist/0t5IrUFo0RQnOfVkhZplHd"
+        }
+      ],
+      "duration_ms": 220217,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/6Xk9Zucz7S2PPXOFeeeH8q"
+    },
+    {
+      "added_at": "2023-06-02 00:08:43",
+      "album": {
+        "name": "The Quiet",
+        "url": "https://open.spotify.com/album/1trDjCvQzDoCa0NnB91Z0I"
+      },
+      "artists": [
+        {
+          "name": "Alanna Vullo",
+          "url": "https://open.spotify.com/artist/4seJvDPvsICiDmtqNlmxTb"
+        }
+      ],
+      "duration_ms": 180632,
+      "name": "The Quiet",
+      "url": "https://open.spotify.com/track/0HuPlhmWFrp9mKajc3BiU7"
+    },
+    {
+      "added_at": "2023-06-02 00:08:12",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4M1Bxo2mLwKJ9vfrkAt8vD"
+      },
+      "artists": [
+        {
+          "name": "justjonnie",
+          "url": "https://open.spotify.com/artist/4XYBN28kcx4MmLU7bD3KvC"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7pWRgP7fu5mVG83ZslsIu1"
+    },
+    {
+      "added_at": "2023-06-02 00:07:26",
+      "album": {
+        "name": "send the rain",
+        "url": "https://open.spotify.com/album/7bXsuL2sdjVlJmlvatc4a9"
+      },
+      "artists": [
+        {
+          "name": "Nelleke",
+          "url": "https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "send the rain",
+      "url": "https://open.spotify.com/track/0N5x6Zgy5hKXbsKLOfpYY5"
+    },
+    {
+      "added_at": "2023-06-02 00:07:46",
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/2kEDPvGnlddZvs8dSoMSN0"
+      },
+      "artists": [
+        {
+          "name": "Soma",
+          "url": "https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa"
+        }
+      ],
+      "duration_ms": 125581,
+      "name": "MEDICINE",
+      "url": "https://open.spotify.com/track/0eTqMjkxXspn1gyoLVOGSi"
     },
     {
       "added_at": "2022-07-26 20:23:17",
@@ -1677,20 +1901,20 @@
       "url": "https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0"
     },
     {
-      "added_at": "2023-05-14 14:04:17",
+      "added_at": "2023-05-19 14:21:45",
       "album": {
-        "name": "imma do me",
-        "url": "https://open.spotify.com/album/1su357WOnuFCtNquC3yhzl"
+        "name": "Persuade Me",
+        "url": "https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57"
       },
       "artists": [
         {
-          "name": "inso",
-          "url": "https://open.spotify.com/artist/4rQ3CsoaPcAKfYJpKXKRyR"
+          "name": "Naesia",
+          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
         }
       ],
-      "duration_ms": 116000,
-      "name": "abbi's interlude",
-      "url": "https://open.spotify.com/track/52c1zWXAGIR4Uw8r5kexLF"
+      "duration_ms": 182680,
+      "name": "Persuade Me",
+      "url": "https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z"
     },
     {
       "added_at": "2023-05-25 20:35:49",
@@ -1745,22 +1969,6 @@
       "url": "https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu"
     },
     {
-      "added_at": "2023-05-19 14:21:45",
-      "album": {
-        "name": "Persuade Me",
-        "url": "https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57"
-      },
-      "artists": [
-        {
-          "name": "Naesia",
-          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Persuade Me",
-      "url": "https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z"
-    },
-    {
       "added_at": "2023-05-15 13:42:38",
       "album": {
         "name": "Pretty Wing (Demo)",
@@ -1777,22 +1985,6 @@
       "url": "https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb"
     },
     {
-      "added_at": "2023-05-14 13:46:08",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4Fb4hvBdgmtRVYfx8cMm4M"
-      },
-      "artists": [
-        {
-          "name": "Mike Bauer",
-          "url": "https://open.spotify.com/artist/6WVlhAlmeMEF5ItQOBijRC"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS"
-    },
-    {
       "added_at": "2023-05-16 13:47:23",
       "album": {
         "name": "Stuck On You",
@@ -1807,22 +1999,6 @@
       "duration_ms": 190344,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
-    },
-    {
-      "added_at": "2023-05-14 14:38:01",
-      "album": {
-        "name": "Addington Square",
-        "url": "https://open.spotify.com/album/6Rmnk0wps1l5AD5iX6VdrD"
-      },
-      "artists": [
-        {
-          "name": "Prismala",
-          "url": "https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Addington Square",
-      "url": "https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS"
     },
     {
       "added_at": "2023-05-26 00:05:43",

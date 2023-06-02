@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,362 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,503 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [The Riddle](https://open.spotify.com/track/0ZLhf4nmiS3bGvsq8kW90W) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Chris Gallery](https://open.spotify.com/artist/4PTPTcok71K1ZInDWQFL53) | [The Riddle](https://open.spotify.com/album/1Oypf1hT1igGaSZKEoOv9J) | 2:56 |
 | 60 | [LaLaLaLaLa \- 2023 Edit](https://open.spotify.com/track/0sxyqnu0FUVV6mPogaZlTi) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [LaLaLaLaLa \(2023 Edit\)](https://open.spotify.com/album/6WFIeGQ7534bMXAGeceWdr) | 3:02 |
 
-Snapshot ID: `MCxkYjA0ZjhlMGQ0NTk5YThmNDQ1ZTBhODY3NWE1NjQ1MjgxYjBlYTVl`
+Snapshot ID: `MCwxMzIxMDZjNzI0NzkxODRmZWVjMWExMjAxZmI0Njc4NzZiMWEyNTZl`

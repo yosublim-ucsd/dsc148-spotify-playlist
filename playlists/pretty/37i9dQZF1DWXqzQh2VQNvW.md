@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,100 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,094 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 60 | [This Is It](https://open.spotify.com/track/2p89C4cm3uO4aE0m3KpYRn) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Love Child Baby Dolphin](https://open.spotify.com/album/40ZhYzG43CUCoeOLEkOqof) | 2:24 |
 | 61 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 62 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 |
-| 63 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 63 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 64 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 65 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 66 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 98 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 99 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 
-Snapshot ID: `MCw1NTFmY2JhNDk3NDU1MjAxNjkzZWZiNDhhNjVlZWMyZDQwMzhhODZm`
+Snapshot ID: `MCxkMzhkZTgwNTRhYjNhNDE1NWUzODkwZjE1MWI3NTUyZGJjYjZiMmM3`

@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 47724,
+  "num_followers": 47801,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWQ1YmFmYzMxZGY0ZmM2MjY2YmZjMWIzM2ZlYTNhNWNhNDIxMjhi",
+  "snapshot_id": "MCwxOTAzZGE4MGE2ZGZiMmFkZTA0YWEwMjQxMDI5NDM5OTE4ZjY1Yjgx",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -767,6 +767,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 224061,
+      "name": "Love Like Ghosts",
+      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Kids In Love",
         "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 311000,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 224061,
-      "name": "Love Like Ghosts",
-      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "What Went Down",
-        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 300720,
-      "name": "What Went Down",
-      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Vallis Alps",
         "url": "https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "What Went Down",
+        "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 300720,
+      "name": "What Went Down",
+      "url": "https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 257426,
       "name": "White Blood",
       "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "If I Should Go Before You",
-        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Lover Come Back",
-      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1151,6 +1135,22 @@
       "duration_ms": 195984,
       "name": "Cutting My Fingers Off",
       "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "If I Should Go Before You",
+        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Lover Come Back",
+      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
-      },
-      "artists": [
-        {
-          "name": "Ryn Weaver",
-          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "OctaHate",
-      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Make Out",
         "url": "https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 231002,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
+      },
+      "artists": [
+        {
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "OctaHate",
+      "url": "https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Hold My Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "All This Could Be Yours",
-      "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Need Your Light",
         "url": "https://open.spotify.com/album/4U0hmoTGpAKJEOIrAnQJws"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 280333,
       "name": "Water (feat. Rostam)",
       "url": "https://open.spotify.com/track/1dr1B13MHzq77BC5d4zko9"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Hold My Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "All This Could Be Yours",
+      "url": "https://open.spotify.com/track/1bbcAQuGuAxKS1HM96B8uh"
     }
   ],
   "unique_name": "Best of Indie 2015",

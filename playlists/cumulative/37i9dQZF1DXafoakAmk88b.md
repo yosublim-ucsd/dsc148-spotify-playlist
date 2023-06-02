@@ -4,7 +4,7 @@
 
 > New Indie driving the current, every week.
 
-298 songs - 15 hr 44 min
+299 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 | 2022-02-18 | 2022-11-12 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2023-02-17 |  |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-18 | 2023-03-29 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-21 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-21 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-04-21 |  |
 | [Slide](https://open.spotify.com/track/1Z7zIkAvas6e3tKUSqDS4Z) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:17 | 2023-02-10 |  |
 | [SLOW DOWN](https://open.spotify.com/track/0qp9JIYzs7UpPMnIYAE8nY) | [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [WHIP MUSIC](https://open.spotify.com/album/0HXfQ9oBm3ZL4NcSUTzNOI) | 3:40 | 2022-02-18 | 2022-04-02 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2022-02-18 | 2022-03-05 |

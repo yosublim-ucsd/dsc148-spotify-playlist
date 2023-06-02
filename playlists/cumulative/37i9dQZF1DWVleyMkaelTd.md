@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-148 songs - 9 hr 28 min
+149 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cascata](https://open.spotify.com/track/38QZjaaJwTLwEpSjF5nVXY) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Samba Rio](https://open.spotify.com/album/4hivZfrUKVeLoNMKDTGfoG) | 3:40 | 2022-04-26 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-04-26 |  |
 | [Ceora](https://open.spotify.com/track/44PaZQ3GpcmSaxyaxXmSM9) | [Soho Quartet](https://open.spotify.com/artist/3aTm2ir7MmRflowueIXZqA) | [Moontrane](https://open.spotify.com/album/33qv9JCJspR9SXs9nUqClp) | 2:26 | 2022-04-26 |  |
+| [Cheek to cheek](https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Cheek to cheek](https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b) | 2:41 | 2023-06-01 |  |
 | [Clear Skies](https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 4:10 | 2023-03-22 |  |
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2022-04-26 |  |
 | [Coisa Linda \(Solo Guitar\)](https://open.spotify.com/track/5RIBurCH73RYHD9rbNPvN2) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Coisa Linda](https://open.spotify.com/album/0nSH16JFQkqaePBZyXvcgV) | 3:25 | 2022-04-26 |  |

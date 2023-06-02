@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,950 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,998 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 61 | [Warning Label](https://open.spotify.com/track/61kduNHapiZb81roxGaeYA) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Warning Label](https://open.spotify.com/album/11mQ0dkaWGpKoObMD4o5ne) | 3:09 |
 | 62 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 |
 | 63 | [Dirt Don't Bother Me](https://open.spotify.com/track/1HcneTxQk2XRAct7rs4ZCi) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [Dirt Don't Bother Me](https://open.spotify.com/album/6Ymqlj45BzkKZK2ESD83TG) | 3:39 |
-| 64 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 |
-| 65 | [Tennessee Drinkin'](https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Tennessee Drinkin'](https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY) | 3:02 |
+| 64 | [Tennessee Drinkin'](https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Tennessee Drinkin'](https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY) | 3:02 |
+| 65 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 |
 | 66 | [Rest Of My Life](https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Rest Of My Life](https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp) | 2:54 |
 | 67 | [Beautiful Morning](https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Down the Stairwell – Side A](https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO) | 2:58 |
-| 68 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
-| 69 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
+| 68 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
+| 69 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 70 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 |
 | 71 | [The Bar Guy](https://open.spotify.com/track/73PETz82LOgrKAlxtpCPu7) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 3:34 |
 | 72 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 76 | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/track/0v7T0g9Uh8LE1x2oOD7f9X) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp), [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That Drink \(feat\. Neal McCoy\)](https://open.spotify.com/album/5OCWOlwO7hO90izga4pj8F) | 2:52 |
 | 77 | [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 |
 | 78 | [Sunny and 72 \- Extended Album Cut](https://open.spotify.com/track/2kovTGOIJ5HIEsXpbk1A12) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Cheaper Than the Truth](https://open.spotify.com/album/17fxEpm9d1gPl8RLkShdrZ) | 4:44 |
-| 79 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
+| 79 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 |
 | 80 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 |
-| 81 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 |
+| 81 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 82 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
 | 83 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
 | 84 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 100 | [Hood of That Car](https://open.spotify.com/track/4THw6mc2Z76R9NeFU6zmr2) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Hood of That Car](https://open.spotify.com/album/0Ip1XC7pJBAjD36qikq1cZ) | 3:18 |
 
-Snapshot ID: `MCxhMTIxMjNhNTFmM2MwM2Y2NTQ0YzJlNWQ4NGExMTc1YTdiNWMyZDYw`
+Snapshot ID: `MCwxOWRmYTg1NTcxNGQ1ZDUwMTczM2U4Y2MwNzJiN2M4MjE0ZDJlMjM3`

@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-59 songs - 4 hr 4 min
+60 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 | 2019-02-26 | 2022-07-29 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0iSrfG3WOzSBE4eOsXHsrj) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [WEDDING CEREMONY MUSIC](https://open.spotify.com/album/3Rsf9NCUUALZNz6moKCrkM) | 3:54 | 2019-02-26 | 2022-08-01 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/1tyP720IpIJl4dxnMmlYis) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [70's Music \- I Grandi Successi](https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg) | 3:54 | 2019-02-26 | 2022-08-22 |
+| [Funkytown \- Single Version](https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [ドライブが楽しくなる洋楽ヒッツ!70年代 DISCO](https://open.spotify.com/album/47crNzkjCwR3zb6c5lFhLm) | 3:54 | 2019-02-26 |  |
 | [Funkytown \- Single Version](https://open.spotify.com/track/6al1jqUvx8DNy1LLlxiXCo) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Smile](https://open.spotify.com/album/3Ops0OHRGwjdQYgIRFRORt) | 3:54 | 2019-02-26 | 2022-11-13 |
-| [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2019-02-26 |  |
+| [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2019-02-26 | 2023-06-02 |
 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 | 2019-02-26 |  |
 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5MuNxNox3zTanAFIO5KcTl) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [Atlantic 60th: On The Dance Floor Vol\. 2](https://open.spotify.com/album/7liGswqymvHdcDREn3FQDz) | 6:15 | 2019-02-26 |  |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2019-02-26 |  |

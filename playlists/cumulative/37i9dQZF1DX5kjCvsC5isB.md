@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-304 songs - 15 hr 53 min
+305 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Baby Blackout](https://open.spotify.com/track/6hMjfF1z1DpkPVUWxbHp5Q) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Baby Blackout](https://open.spotify.com/album/5mEQH6RoSrubrXrRj4lKen) | 3:05 | 2022-04-01 |  |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-08-20 | 2022-02-05 |
 | [Backbeat](https://open.spotify.com/track/7a52OKapzlThn5sh110hs3) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Backbeat](https://open.spotify.com/album/1oDUvxx1eHUkDb75kFJzPv) | 3:45 | 2021-07-30 |  |
-| [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-22 |  |
+| [Backtrack](https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7) | 2:38 | 2022-12-22 |  |
+| [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-22 | 2023-06-02 |
 | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/album/5V3bFQnpSALvyDEyHsCHat) | 2:32 | 2021-07-30 | 2022-01-22 |
 | [Be Here](https://open.spotify.com/track/08lDLOthi06aL7stFvt6KL) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [Be Here](https://open.spotify.com/album/4o2PxZe9VzUqiFs99GYcGV) | 3:19 | 2021-07-30 | 2022-04-02 |
 | [BENT](https://open.spotify.com/track/164X7NqPOuDBeITAwRSnHz) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [BENT](https://open.spotify.com/album/5a0lACgPotfjTYBMj640Yu) | 2:21 | 2022-12-22 |  |

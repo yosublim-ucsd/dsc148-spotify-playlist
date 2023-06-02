@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dua Lipa, Lil Durk, Beyoncé & Kendrick Lamar, OneRepublic, Yeat & Young Thug and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,123,171 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,123,075 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Kilimanjaro \(with BEAM\)](https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:11 |
 | 100 | [Nah Sell Out \(feat\. Kabaka Pyramid\)](https://open.spotify.com/track/3by1DMS8EgOq32EiVERWa0) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Destiny](https://open.spotify.com/album/3FvgBUrZliVK0VEEbankhO) | 3:07 |
 
-Snapshot ID: `MCw5N2E2Njk3NTcxNWRmYmYyM2UxMjU1MGM5YjAzYTcwYWQwYzI0NTEx`
+Snapshot ID: `MCxmMzdkZGU4NDg1NDJjMmIxNjI0ZDBhNDE1OGVkZjE4YjJkM2RkM2Nm`

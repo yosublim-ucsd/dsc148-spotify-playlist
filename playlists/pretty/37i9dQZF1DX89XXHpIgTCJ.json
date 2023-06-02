@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 221261,
+  "num_followers": 221812,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDk2NmZhNDc3ZDNkNTQ4OTY3MDBlMzA5YzJjNDYxMmVjNzQ1Y2Ew",
+  "snapshot_id": "MCwxYjY1NTE2MTcxMGVlM2YyNDFmZjIwY2QxZjIzNDk3ZWI1MjU3NzM4",
   "tracks": [
     {
       "added_at": "2023-05-25 08:07:45",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
         "name": "Built From Scratch",
         "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 248266,
       "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
       "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
-        "name": "War & Peace Vol. 1 (The War Disc)",
-        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "Fuck Dying",
-      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
     },
     {
       "added_at": "2023-05-25 08:07:45",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-05-25 08:07:45",
       "album": {
-        "name": "Lemonade (with Denzel Curry)",
-        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 165685,
-      "name": "Lemonade (with Denzel Curry)",
-      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
-    },
-    {
-      "added_at": "2023-05-25 08:07:45",
-      "album": {
         "name": "Apocalypse 91\u2026 The Enemy Strikes Black",
         "url": "https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 250213,
       "name": "Unfuck The World",
       "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
+    },
+    {
+      "added_at": "2023-05-25 08:07:45",
+      "album": {
+        "name": "Lemonade (with Denzel Curry)",
+        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 165685,
+      "name": "Lemonade (with Denzel Curry)",
+      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
     },
     {
       "added_at": "2023-05-25 08:07:45",

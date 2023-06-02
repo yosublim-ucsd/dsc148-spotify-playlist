@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,495 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,539 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 65 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
 | 66 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 |
 | 67 | [La Marcha De La Bronca](https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 3:47 |
-| 68 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
-| 69 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
-| 70 | [Resistiré](https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c) | [Fiskales Ad\-Hok](https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5) | [Fiesta](https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv) | 2:08 |
+| 68 | [Resistiré](https://open.spotify.com/track/5wHu5Ht9C8tJ9L6HIxpb9c) | [Fiskales Ad\-Hok](https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5) | [Fiesta](https://open.spotify.com/album/5VGGdaFaGS8Yd3ZzlWHeGv) | 2:08 |
+| 69 | [Antifa Dance](https://open.spotify.com/track/3OfJ6ja2JtoQ7SDwNY4MTO) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Antifa Dance](https://open.spotify.com/album/5Ex8ADFhgsJVFkI5eHeQq1) | 2:35 |
+| 70 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 71 | [El Baile De Los Que Sobran](https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Ni Por La Razón, Ni Por La Fuerza \(Edición Especial\)](https://open.spotify.com/album/69Zs9jtNOpru1938K1odQi) | 5:42 |
 | 72 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 73 | [Rompan Todo](https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Su Madre Patria](https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Su Madre Patria](https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW) | 2:16 |
 | 100 | [Cinco Siglos Igual](https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 4:13 |
 
-Snapshot ID: `MCxmODA0NjQ4MmE3NTcwZGY5MjhhODcwZDNjNzE2OGZmZjE0MjYxOTIz`
+Snapshot ID: `MCw2YzFhMzlkNzMwZDEyMDlhNGRkMWZiNThhNWEyYTlhZmNiMTkxNjk5`

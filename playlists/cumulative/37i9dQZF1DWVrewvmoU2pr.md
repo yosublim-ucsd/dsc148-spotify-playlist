@@ -4,7 +4,7 @@
 
 > 愛本來就係自由嘅事！想愛就愛吧！
 
-123 songs - 7 hr 51 min
+126 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-04-07 | 2022-06-24 |
 | [XY](https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG) | [Zeno 顧定軒](https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK) | [XY](https://open.spotify.com/album/3UipNYaJ8PHiwlsvGRhhE9) | 3:29 | 2023-01-27 |  |
 | [一分鐘稀客一分鐘色誘](https://open.spotify.com/track/0Bw2tMHhLpVS416nfHWvSx) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [豔羨](https://open.spotify.com/album/5io1WPmed3j2hO6712p0pL) | 4:23 | 2022-06-23 | 2022-07-29 |
+| [三人床](https://open.spotify.com/track/6JQlVBfOTkF0yOTAnEB9Tn) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [三人床](https://open.spotify.com/album/0n60Y3MGspMfn4IygCnFyL) | 2:40 | 2023-06-01 |  |
 | [仙樂飄飄處處聞](https://open.spotify.com/track/6Yrocv0hTFHEbJAFQ9Zgr8) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [Eman Lam](https://open.spotify.com/album/49A8kv0BJoXsX5Ay6JxW5w) | 5:00 | 2022-06-23 | 2022-07-29 |
 | [你明日回來](https://open.spotify.com/track/4kwInhDFXmyi37NZTE4vat) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE) | [你明日回來](https://open.spotify.com/album/2o1dSDA7Um9YGUcF8Z9iI9) | 5:15 | 2022-06-23 | 2022-07-29 |
 | [兄兄我我](https://open.spotify.com/track/438FTqxtcW4SlUvgMu63Qw) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [兄兄我我](https://open.spotify.com/album/3DL0z3VVG7978R6vnON3my) | 3:30 | 2023-01-27 |  |
@@ -74,6 +75,7 @@
 | [共勉之](https://open.spotify.com/track/28SGHjFqN0dLbXO00FxIR8) | [Ella Koon](https://open.spotify.com/artist/3iwCTx6CrptnO8AuGlmbVU) | [共勉之](https://open.spotify.com/album/1xVkzZsxmbXBBv1Dqvbe32) | 3:14 | 2022-06-23 | 2022-07-29 |
 | [勞斯.萊斯](https://open.spotify.com/track/37JJeZrHX3fsk2sdCkdiMN) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:30 | 2023-01-27 |  |
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2022-04-07 | 2022-06-24 |
+| [吟鈴](https://open.spotify.com/track/27ytVYZJ0OWpMz3DxnOj2h) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [吟鈴](https://open.spotify.com/album/54iUsAIGzduKUSMwCMKYpF) | 2:58 | 2023-06-01 |  |
 | [命硬](https://open.spotify.com/track/47RgWWTJno746wCInL4gQz) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [From Justin Collection Of His First 3 Years](https://open.spotify.com/album/6pXr9g9r0p4Q32xJoBGKp1) | 3:37 | 2023-01-27 |  |
 | [因愛之罪名](https://open.spotify.com/track/4O8ZHulJzX2Xsbnk13Cf5Z) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 5:02 | 2022-04-07 | 2022-06-24 |
 | [女扮男生](https://open.spotify.com/track/7d9ZAKEgMVblPNtpLo3FVM) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:19 | 2023-01-27 |  |
@@ -89,6 +91,7 @@
 | [心靜自然涼](https://open.spotify.com/track/5CaDondxNl6hQ8BqMakHiR) | [Alex Lam](https://open.spotify.com/artist/6IgzrIQitd30QiPFSrIaAN) | [心靜自然涼](https://open.spotify.com/album/5h5YkqIqzNwhRSJSuFurWH) | 3:59 | 2022-06-23 | 2022-07-29 |
 | [忘記他是她](https://open.spotify.com/track/49nQLxouxKOMV9aZ99NQ4z) | [Shirley Kwan](https://open.spotify.com/artist/14hV8HTKYMZ5nzeaLdLp63) | [真經典 \- 關淑怡](https://open.spotify.com/album/5X5ylqnYZDkNqu58BKf8hl) | 6:19 | 2023-01-27 |  |
 | [愛裡沒有詛咒](https://open.spotify.com/track/2fTrrUb3Yl4zMt2ILLsLGJ) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [未知之知](https://open.spotify.com/album/7CkuTVTU8VfAVulHisPZDl) | 4:57 | 2023-01-27 |  |
+| [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-06-01 |  |
 | [我 The Hymn of Water Fairies](https://open.spotify.com/track/3owv9sjIEcVEmlzuqn2Ice) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 5:08 | 2023-01-27 |  |
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2023-01-27 |  |
 | [所多瑪城](https://open.spotify.com/track/5mZvhNrysYiVrPkyY4PA9y) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [I](https://open.spotify.com/album/6wpRUmSoeOH4Swnowg54ok) | 4:33 | 2023-01-27 |  |

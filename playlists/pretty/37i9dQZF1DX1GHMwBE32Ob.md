@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Naira Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,083 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,147 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 21 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 |
 | 22 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 |
 | 23 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 |
-| 24 | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 |
+| 24 | [I Salute](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 |
 | 25 | [Soapy](https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Soapy](https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3) | 2:54 |
 | 26 | [Mara pass Mara Beat](https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Mara pass Mara Beat](https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW) | 5:15 |
 | 27 | [Para Boi](https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Memory Card](https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI) | 2:37 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 30 | [Good Bad Boy](https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Good Bad Boy](https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E) | 2:43 |
 | 31 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 |
 | 32 | [Rara](https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:36 |
-| 33 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
-| 34 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
-| 35 | [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 |
+| 33 | [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 |
+| 34 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 |
+| 35 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
 | 36 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 |
 | 37 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 |
 | 38 | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS) | 2:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 40 | [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 |
 | 41 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 |
 | 42 | [Amala](https://open.spotify.com/track/7ldle0j4O3JdX4XVVYY2Vx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Amala](https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp) | 2:27 |
-| 43 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 |
-| 44 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 |
+| 43 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 |
+| 44 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 |
 | 45 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 |
 | 46 | [ZaZoo Zehh](https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ZaZoo Zehh](https://open.spotify.com/album/06y2KN7ZkZZ05vVxTTwCM8) | 3:34 |
 | 47 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 59 | [Double XL](https://open.spotify.com/track/19ppeor2G2v8Db8dvNZ7ot) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v) | [Double XL](https://open.spotify.com/album/4Ph5B4SriYVmiFCJVJr4oz) | 2:25 |
 | 60 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 |
 
-Snapshot ID: `MCw4YzE3NGZiYzAzYzU5ZjNlMjBlYWY0NWM3ZmU5NmQzOTM1YmJiZmM1`
+Snapshot ID: `MCw5ZjYxM2FiOTA4YmY0NWJjYWQxNGQ3NTY1MzdkOGFjMDIxMzczZTY5`

@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 413443,
+  "num_followers": 413601,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTViOWNmZGM3YzRmMzkxNjgxMDgwNTUwMDkzMWJiYWFiOWIyOWYz",
+  "snapshot_id": "MCxmOTJhYjYyZTViZWM1MTc3NjFjZmYyODZiMzM0NGU0MDUxOTRlNWI4",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Chillax (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Don Omar Presents MTO2: New Generation",
         "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 285333,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Chillax (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Ai Se Eu Te Pego (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 166439,
       "name": "Ai Se Eu Te Pego - Ao Vivo",
       "url": "https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
     },
     {
       "added_at": "2022-08-05 16:22:41",

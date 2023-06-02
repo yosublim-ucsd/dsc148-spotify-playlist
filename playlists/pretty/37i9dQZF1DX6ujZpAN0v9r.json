@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. my bloody valentine on cover",
-  "num_followers": 513586,
+  "num_followers": 513351,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWRmMWZkM2M4NTIxMjgyMWI4Y2MwMjBhYTdjYzY2YzFlNmU4ZTA3",
+  "snapshot_id": "MCw3ZGMyZjViN2E2ZDhkMGYyZTllMzhlNWQ2NzYyMTJmMDZhZDNlZDA3",
   "tracks": [
     {
       "added_at": "2021-06-03 02:39:04",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Psychocandy",
         "url": "https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 181746,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2023-01-11 15:25:58",
@@ -411,8 +411,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 255426,
-      "name": "Off Your Face",
-      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
+      "duration_ms": 418706,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -507,8 +507,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 418706,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/7ITRNB9OckYIp2SW2iXU8U"
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 233731,
-      "name": "What Lies Beneath",
-      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Pink",
         "url": "https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 453400,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 233731,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
-      },
-      "artists": [
-        {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Nothing Natural",
-      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Nothing Natural",
+      "url": "https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 314706,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Mouth By Mouth",
-        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
+        "name": "Chlorine Dream",
+        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
       },
       "artists": [
         {
-          "name": "His Name Is Alive",
-          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
+          "name": "Spirea X",
+          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Lip",
-      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
+      "duration_ms": 264533,
+      "name": "Chlorine Dream",
+      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Chlorine Dream",
-        "url": "https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1"
-      },
-      "artists": [
-        {
-          "name": "Spirea X",
-          "url": "https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Chlorine Dream",
-      "url": "https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Quique",
         "url": "https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 383826,
       "name": "Polyfusion",
       "url": "https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mouth By Mouth",
+        "url": "https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs"
+      },
+      "artists": [
+        {
+          "name": "His Name Is Alive",
+          "url": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Lip",
+      "url": "https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "We\u2019re Not Done (End Title)",
-      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Landing",
         "url": "https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 232333,
       "name": "Landing",
       "url": "https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "We\u2019re Not Done (End Title)",
+      "url": "https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "KIN",
-        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 383920,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Stereo Musicale",
         "url": "https://open.spotify.com/album/0EFJm468BAgpImJ3yJGQSP"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 250933,
       "name": "Regular Disease",
       "url": "https://open.spotify.com/track/4YAQckxDe7qBmoIpjisNNf"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "KIN",
+        "url": "https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 383920,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e"
     },
     {
       "added_at": "2021-06-03 02:39:04",

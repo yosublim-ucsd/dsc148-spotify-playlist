@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Leoni Torres",
-  "num_followers": 1830177,
+  "num_followers": 1830256,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmU5NDdhOWEzNTEzZmZiNDg0ODlmMmJlODdkNDMwMzVmM2Y2MjM4",
+  "snapshot_id": "MCw5YWVhZGQyMDI0ZDk4NWZkNzM2NjhkZDc0OTU4NTYyMGM4OTg4MDlj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 217547,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/1xFgOy3uLcPd3sy5BL5m9u"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 217547,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/1RzRFnWWzFMzJiouw2BnOy"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Loter\u00eda",
-        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 269231,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Loter\u00eda",
+        "url": "https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 309253,
       "name": "Cinco Noches",
       "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 291106,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY"
+      },
+      "artists": [
+        {
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Salsa",
+      "url": "https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "El Breve Espacio En Que No Est\u00e1 (80 Aniversario)",
         "url": "https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 285507,
       "name": "El Breve Espacio En Que No Est\u00e1 - 80 Aniversario",
       "url": "https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Salsa",
-      "url": "https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n"
     },
     {
       "added_at": "2023-05-26 04:01:00",

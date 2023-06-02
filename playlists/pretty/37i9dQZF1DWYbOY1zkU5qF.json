@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 133239,
+  "num_followers": 133324,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmE5ZTUwMmVhYjg5MzE1OTllMGJhYmVjZmJkMzFkNTUzNGIwZWJl",
+  "snapshot_id": "MCw0MWI0ZmRmMjcyYzM0MmQ3OGRlNTdjMzIwMDQ1MTQzYWEzNDU5NWUw",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -227,18 +227,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "No Hay Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h"
+        "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
+        "url": "https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q"
       },
       "artists": [
         {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
         }
       ],
-      "duration_ms": 165282,
-      "name": "No Hay Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns"
+      "duration_ms": 234437,
+      "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
+      "url": "https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
-        "url": "https://open.spotify.com/album/3tAognJvJ33ya4hsZts96q"
+        "name": "No Hay Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/7Bvu9Kgqsge6rS04CNbd3h"
       },
       "artists": [
         {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 234437,
-      "name": "En el \u00daltimo Trago (feat. Cyrille Aim\u00e9e)",
-      "url": "https://open.spotify.com/track/1bUBrrlsck74gistqPBpAp"
+      "duration_ms": 165282,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1oVak8wmp19KtBmsVbbdns"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -459,22 +459,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
       },
       "artists": [
         {
-          "name": "Miky Mendozza",
-          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
-        },
-        {
-          "name": "Diego Amoz",
-          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
         }
       ],
-      "duration_ms": 125354,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -499,22 +495,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -527,6 +507,42 @@
       "duration_ms": 243684,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
+      },
+      "artists": [
+        {
+          "name": "Miky Mendozza",
+          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
+        },
+        {
+          "name": "Diego Amoz",
+          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
+        }
+      ],
+      "duration_ms": 125354,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
-      },
-      "artists": [
-        {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -663,6 +663,38 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 149292,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Ya Me Enter\u00e9",
         "url": "https://open.spotify.com/album/4kG8FeoHeQzKN2HSllmYGg"
       },
@@ -695,38 +727,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 149292,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 172336,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 213000,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 172336,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -855,38 +855,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mis ojos lloran por ti",
-        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "Mis ojos lloran por ti",
-      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw"
       },
@@ -899,6 +867,22 @@
       "duration_ms": 177343,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis ojos lloran por ti",
+        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Mis ojos lloran por ti",
+      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Muerte En Hawaii",
         "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
+        "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
+      },
+      "artists": [
+        {
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Drume Negrita - En Vivo Desde Fonobox",
+      "url": "https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Felices los 4 (Acoustic Version)",
         "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
-        "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
+        "name": "La Noche De Anoche",
+        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
       },
       "artists": [
         {
-          "name": "Priscilla F\u00e9lix",
-          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+          "name": "Perdita Cazalla",
+          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Drume Negrita - En Vivo Desde Fonobox",
-      "url": "https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui"
+      "duration_ms": 173661,
+      "name": "La Noche De Anoche",
+      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 227088,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "La Noche De Anoche",
-        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
-      },
-      "artists": [
-        {
-          "name": "Perdita Cazalla",
-          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
-        }
-      ],
-      "duration_ms": 173661,
-      "name": "La Noche De Anoche",
-      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Pareja Del An\u0303o",
         "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 248028,
       "name": "Pareja Del An\u0303o",
       "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Nube Viajera",
         "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 230730,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 115003,
+  "num_followers": 115135,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTI5MGI2MjQ0NDY2M2YyMzUzZDdmN2NlMDhmMTkwYzE2ZDM5YmIz",
+  "snapshot_id": "MCw0MTY0ODQwNzQ3MmJkNTdiMDYzYjFmOTdhZTRiNWI0OWE3ZjVlYTdi",
   "tracks": [
     {
       "added_at": "2023-05-30 11:14:40",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 185666,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
-        "name": "Dinah! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
+        "name": "Dinah! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
         "name": "My Kinda Swing",
         "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 138986,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 110933,
-      "name": "It's A Big Wide Wonderful World",
-      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+      "duration_ms": 110933,
+      "name": "It's A Big Wide Wonderful World",
+      "url": "https://open.spotify.com/track/7viOK0TULHr1y8RU1K0R0s"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
-        "name": "The Modern Sound Of Betty Carter",
-        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 116320,
-      "name": "Jazz (Ain't Nothin' But Soul)",
-      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
         "name": "I Got Rhythm",
         "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
@@ -1039,22 +1023,6 @@
       "duration_ms": 249480,
       "name": "Stompin' At The Savoy - 1956 Version",
       "url": "https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -1075,6 +1043,38 @@
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
+        "name": "The Modern Sound Of Betty Carter",
+        "url": "https://open.spotify.com/album/3ohFY3QjkPqVCq1X1jDBgS"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 116320,
+      "name": "Jazz (Ain't Nothin' But Soul)",
+      "url": "https://open.spotify.com/track/5Q4JJ0pK8zEF0oWJxygGAm"
     },
     {
       "added_at": "2023-05-30 11:14:40",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-05-30 11:14:40",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
-    },
-    {
-      "added_at": "2023-05-30 11:14:40",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 219160,
       "name": "I've Told Ev'ry Little Star",
       "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
+    },
+    {
+      "added_at": "2023-05-30 11:14:40",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2023-05-30 11:14:40",

@@ -1,12 +1,12 @@
 {
   "description": "3, 2 , 1 girls wanna have fun  \u2764\ufe0f\u200d\ud83d\udd25 cover: Doja Cat",
-  "num_followers": 73617,
+  "num_followers": 73665,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWFmYTRlZmVhNjY0NjMwYjdmZmZkNmQzNDJhZDc0YjExYmJiMjhh",
+  "snapshot_id": "MCw1ZDk0YjBlNmM5YWIwMDhiNGQ0NjY0ZWY2NGFkYmY5NWM2OTcyM2Vi",
   "tracks": [
     {
       "added_at": "2023-05-29 12:04:56",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-05-29 12:04:56",
       "album": {
-        "name": "Kill Bill (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Kill Bill (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
-    },
-    {
-      "added_at": "2023-05-29 12:04:56",
-      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },
@@ -607,6 +587,22 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "added_at": "2023-05-29 12:04:56",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
       "added_at": "2023-05-29 12:04:56",
@@ -631,18 +627,22 @@
     {
       "added_at": "2023-05-29 12:04:56",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 198800,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "added_at": "2023-05-29 12:04:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-29 12:04:56",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-05-29 12:04:56",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2023-05-29 12:04:56",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-05-29 12:04:56",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-05-29 12:04:56",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
       },
       "artists": [
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
         }
       ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2023-05-29 12:04:56",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-05-29 12:04:56",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
+    },
+    {
+      "added_at": "2023-05-29 12:04:56",
+      "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
-    },
-    {
-      "added_at": "2023-05-29 12:04:56",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2023-05-29 12:04:56",

@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Pride](https://open.spotify.com/playlist/37i9dQZF1DXcaEXdyjLdxm)
 
-> LGBTQIA+ artists like you've never heard before\. Cover: G FLIP.
+> LGBTQIA+ artists like you've never heard before\. Cover: Joy Oladokun
 
 79 songs - 4 hr 52 min
 

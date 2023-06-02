@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,471 likes - 25 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,512 likes - 25 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 | 24 | [Ain't Nobody Home](https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:59 |
 | 25 | [Better Not Look Down](https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Take It Home](https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS) | 3:22 |
 
-Snapshot ID: `MCw0YTRlNTJlNWYyMmQyZDI1YTgyMTI5MjIwZmUwYTBkNWMwNmZlZTVj`
+Snapshot ID: `MCxkYzI5ZDJmN2RmOTFiOWJkYzY2MDlmYzJjOTUxOTliZGZiYTllYmRl`

@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Su凸ko D凹koi
 
-555 songs - 1 day 6 hr 9 min
+556 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 | 2022-05-19 |  |
 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 | 2022-05-17 | 2023-04-17 |
 | [Mist](https://open.spotify.com/track/0nBfNckN4Teg2ywZnLgAJX) | [S\-TALK](https://open.spotify.com/artist/4VnK7dpC4nOkUnHeBKh0ZH) | [SHOOOSE](https://open.spotify.com/album/6VZFsfNjfc1vJ3UhlDtkLo) | 3:12 | 2022-05-31 | 2022-07-19 |
+| [MMN](https://open.spotify.com/track/5YlljMMpNqa0fFjWbtriSw) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [doggie](https://open.spotify.com/artist/2bu2m51bYmzl0Y7Dzfwbdt) | [MMN](https://open.spotify.com/album/44mxUgwetKmtJoyB4IUZyA) | 2:12 | 2023-06-01 |  |
 | [Monster](https://open.spotify.com/track/0QtJSgoQYAtBzwCMKVC5Ru) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [MONSTER STREET](https://open.spotify.com/album/0QGswv6J6zbymBzgkbMR8z) | 2:47 | 2022-05-12 | 2022-08-19 |
 | [MONSTER TREE](https://open.spotify.com/track/7whBaAagxotxdtRmRN3N4l) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/0cbwaXoUB2JBBZFdMrGSTw) | 4:23 | 2022-05-19 | 2022-07-27 |
 | [MONT BLANC](https://open.spotify.com/track/1KWxLXuvKWJz3klz4951rX) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [MONT BLANC](https://open.spotify.com/album/52sbvSi8y5iveztFV88bG6) | 3:23 | 2022-05-12 | 2022-07-29 |
@@ -382,7 +383,7 @@
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 |  |
 | [W.O.W](https://open.spotify.com/track/2rIIZBDtTY52jQybxMOB0q) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [W.O.W](https://open.spotify.com/album/3FKeP5r7PxebHqyrrL8Of1) | 3:07 | 2022-05-12 | 2022-07-17 |
-| [WAITING](https://open.spotify.com/track/0UQugALECC271HnqLBDckC) | [NOTCH](https://open.spotify.com/artist/5cI87UgyxVRsJ1AsXxDB1c) | [DO OR DO NOT](https://open.spotify.com/album/7oFo7WyG2GdbVRnDeIMJEQ) | 2:58 | 2023-01-05 |  |
+| [WAITING](https://open.spotify.com/track/0UQugALECC271HnqLBDckC) | [NOTCH](https://open.spotify.com/artist/5cI87UgyxVRsJ1AsXxDB1c) | [DO OR DO NOT](https://open.spotify.com/album/7oFo7WyG2GdbVRnDeIMJEQ) | 2:58 | 2023-01-05 | 2023-06-02 |
 | [wake up! wake up!](https://open.spotify.com/track/3lEXSVcunWsoDvb4A1KQ90) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [Hello! Mr.latecomer](https://open.spotify.com/album/4qZyWJo3epGLT7Y09RVeEV) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 | 2022-05-12 |  |
 | [Walk This Way](https://open.spotify.com/track/537qw1IuzBAUOTbS6aww5u) | [Your Last Diary](https://open.spotify.com/artist/3naxNIZotcqCdf2Q50oxgV) | [Zero Division Vol.02 \- Single](https://open.spotify.com/album/79a338u2eyram2On4ALARx) | 3:04 | 2022-05-12 | 2022-07-24 |

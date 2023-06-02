@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-109 songs - 6 hr 22 min
+110 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 | 2021-12-15 |  |
 | [Alcancía](https://open.spotify.com/track/020womZSqTEXnoDptWI6mL) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Alcancía](https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o) | 3:18 | 2022-02-08 | 2022-03-21 |
 | [Alguien Más](https://open.spotify.com/track/5mROvpdGeu1vSbZhZoay5O) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Alguien Más](https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG) | 2:57 | 2021-12-15 |  |
+| [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2023-06-02 |  |
 | [Amiga](https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:45 | 2023-05-05 |  |
 | [Bubalu](https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Bubalu](https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q) | 3:48 | 2021-12-15 |  |
 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 | 2021-12-15 |  |

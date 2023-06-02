@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,183 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,010 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 47 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
 | 48 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
 | 49 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 |
-| 50 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
+| 50 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 
-Snapshot ID: `MCw5NmYwNDcwYmE5MTIyZTMyZTZiNmE1MWYwZTlhYjJjNDZkZGU0Y2E1`
+Snapshot ID: `MCw2YzEwYWEzNjk4NmQxOGI2MDZjZjYzY2E2YjgxOWQ0OGFjN2U4MTdh`

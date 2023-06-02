@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,093 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,195 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 40 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 |
 | 41 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
 | 42 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 |
-| 43 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
+| 43 | [El 24 \- Corrido](https://open.spotify.com/track/5hzC1I87w3pkTJxqnflci1) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Matones, Mi Compa](https://open.spotify.com/album/4TQ0YQZ43WkhY8vuqeWpJy) | 1:47 |
 | 44 | [Amigos ¿De Quién?](https://open.spotify.com/track/472RYrDoNry11jkmJIWeat) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amigos ¿De Quién?](https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL) | 2:45 |
 | 45 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
 | 46 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
 | 47 | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 |
 | 48 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 |
 | 49 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 |
-| 50 | [El 24 \- Corrido](https://open.spotify.com/track/5hzC1I87w3pkTJxqnflci1) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Matones, Mi Compa](https://open.spotify.com/album/4TQ0YQZ43WkhY8vuqeWpJy) | 1:47 |
+| 50 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
 | 51 | [Más Caro, que ayer](https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk) | 2:27 |
 | 52 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
 | 53 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
 | 75 | [La Tambora Va A Sonar](https://open.spotify.com/track/1dnZe0c1EVwHHiEvZy0XFO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Tambora Va A Sonar](https://open.spotify.com/album/5DVeFfpAKt6S9op3tkiaYg) | 2:40 |
 
-Snapshot ID: `MCwyNTVkZmE4M2Y1YmEwY2M0NWRlM2UzMjVhNzMwNjI4MTk4NTUwNDdk`
+Snapshot ID: `MCwwMzMyOTA1OGM2MGQyY2NkM2NjZDRmYTE0NGJkZWZiOTMxZTMxNDRi`

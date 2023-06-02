@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,711 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,735 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 48 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 |
 | 49 | [Toxic Valentine](https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Toxic Valentine](https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ) | 2:52 |
 
-Snapshot ID: `MjgwOTIyOTAsMDAwMDAwMDAzZDVhN2JlNmIxYjdjYWQzNjAyZjMzNDZhYzEyNDQ2MQ==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDBlMTMzMjkyMWIwMWI5NTE1NzI2ODc5ZTBkN2FiNjZhMA==`

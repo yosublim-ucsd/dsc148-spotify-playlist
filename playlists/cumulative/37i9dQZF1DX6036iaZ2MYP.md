@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Victor Thompson
 
-153 songs - 7 hr 46 min
+154 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amina](https://open.spotify.com/track/0oLiV7JRGac0z4oVyen8cE) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Man Like Maz](https://open.spotify.com/artist/2W40n1Ft9S6yMtBRPaKywG), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Laso](https://open.spotify.com/album/4kPltVu8CgPZqtDxUuF2GQ) | 2:39 | 2022-12-08 | 2023-05-13 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-07-13 | 2022-12-15 |
 | [Are You](https://open.spotify.com/track/6pe39thx4HeFncnNASbqWE) | [Henry X](https://open.spotify.com/artist/7IqCBWPW8KoYk9ZBJsATSA), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Smeez](https://open.spotify.com/artist/0mNkY84ZAQz0n72YKF2mWC), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ), [Bollar](https://open.spotify.com/artist/143cqNsgoeJWiUbBCtXJow) | [Are You](https://open.spotify.com/album/4VyX0V7R86XZiTerIAdeKi) | 6:33 | 2023-03-23 |  |
-| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-12-01 |  |
+| [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-12-01 | 2023-06-02 |
 | [Available](https://open.spotify.com/track/4uiRiqikEZfxIvHwvelAow) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Available](https://open.spotify.com/album/0HCWgbuPWiiujRB4qhDUoJ) | 2:21 | 2022-10-27 | 2023-04-13 |
 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-02 |  |
 | [B.I.L \(Body in love\)](https://open.spotify.com/track/1KSwUiF1A9sTFLVQtcIY9d) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [B.I.L \(Body in love\)](https://open.spotify.com/album/60FRPT9oqCukPEIpVBP32W) | 2:55 | 2023-03-02 | 2023-03-16 |
@@ -89,6 +89,7 @@
 | [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 | 2022-09-01 | 2022-09-15 |
 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 | 2022-09-08 | 2023-03-10 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-07-13 | 2023-03-01 |
+| [LOVERMAN](https://open.spotify.com/track/4WP0sJCCOZFRvuXSuZvhrf) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [LOVERMAN](https://open.spotify.com/album/68tRTrQb6AYO5nA70oVED3) | 2:42 | 2023-06-01 |  |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-17 | 2023-05-19 |
 | [Make You Say](https://open.spotify.com/track/6RTwIBYKDxNhEG8V2dV5FQ) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Make You Say](https://open.spotify.com/album/3oq0l9uJ2ZZPQnRy367TZM) | 2:46 | 2022-10-27 | 2023-05-27 |
 | [Malika](https://open.spotify.com/track/7cjlYSoUqWIE9GNStrqrNM) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Malika](https://open.spotify.com/album/1WccS7k1oGP1CMt5ULw1fj) | 2:45 | 2022-07-14 | 2023-03-01 |

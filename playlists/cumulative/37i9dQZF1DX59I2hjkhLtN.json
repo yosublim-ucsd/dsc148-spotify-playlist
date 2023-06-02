@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 175500,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/49tNfvmbVcQUjUuy1kEzKd"
@@ -1112,6 +1112,24 @@
       "duration_ms": 192697,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/6t2UFFBLs8LC3zOh5zlnc6"
+    },
+    {
+      "album": {
+        "name": "BELLERIN",
+        "url": "https://open.spotify.com/album/5AfFxkiPNe2mEwx4C44vnK"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188405,
+      "name": "BELLERIN",
+      "url": "https://open.spotify.com/track/7yDbLm7sMjrC4w7a7whmq6"
     },
     {
       "album": {
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 285957,
       "name": "CypherFocus #1",
       "url": "https://open.spotify.com/track/7fTaiCz7Jc2HKENi3niycX"
@@ -2911,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/3cd5IbATAW69skHyjv2Q0C"
+      },
+      "artists": [
+        {
+          "name": "Grim",
+          "url": "https://open.spotify.com/artist/4nXLUshLUKukOV71CIsrGh"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157860,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/2h8Mr0d6EDhUT4PVAz4Ee1"
+    },
+    {
+      "album": {
         "name": "Fazer Diferente",
         "url": "https://open.spotify.com/album/3ShdufgU5jvhkIi6yBsA4G"
       },
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 160000,
       "name": "Freelancer",
       "url": "https://open.spotify.com/track/3eTNYdzxrmeoxwtMnpEkkT"
@@ -4283,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Kilates",
+        "url": "https://open.spotify.com/album/6ooY2zQ2dlYcmdjPzD85cp"
+      },
+      "artists": [
+        {
+          "name": "L-Ali",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Kilates",
+      "url": "https://open.spotify.com/track/50aFCOTvcZvsRYyVlomizt"
+    },
+    {
+      "album": {
         "name": "KIWI",
         "url": "https://open.spotify.com/album/6vpxyaBE5Fbt26igJAvxt3"
       },
@@ -4456,7 +4510,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 160370,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/4v5nIFE2CuAMSO9Ziig6y6"
@@ -4510,7 +4564,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170434,
       "name": "LML",
       "url": "https://open.spotify.com/track/3wMn9rcUFLnZXWEFZPlFJq"
@@ -4978,7 +5032,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198300,
       "name": "Mereces",
       "url": "https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK"
@@ -5532,7 +5586,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 226192,
       "name": "Namorada",
       "url": "https://open.spotify.com/track/3yEbvMet6d26Bj1C48w9Il"
@@ -5988,6 +6042,32 @@
       "duration_ms": 171467,
       "name": "Nuvem",
       "url": "https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o",
+        "url": "https://open.spotify.com/album/0CQndJCnOQY8SjVqesEmQX"
+      },
+      "artists": [
+        {
+          "name": "Rafaas",
+          "url": "https://open.spotify.com/artist/3aVvgyhhANZe76ZvcX9Z9X"
+        },
+        {
+          "name": "MEM",
+          "url": "https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy"
+        },
+        {
+          "name": "AET",
+          "url": "https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122399,
+      "name": "N\u00e3o",
+      "url": "https://open.spotify.com/track/6IOa31blrtF9od5UzGILZZ"
     },
     {
       "album": {
@@ -6477,6 +6557,28 @@
     },
     {
       "album": {
+        "name": "P.D.G (Produto Di Gheto)",
+        "url": "https://open.spotify.com/album/4MVHcc7cRuhUbHnwOcnqnf"
+      },
+      "artists": [
+        {
+          "name": "Real GUNS",
+          "url": "https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT"
+        },
+        {
+          "name": "MIKELPOTTER",
+          "url": "https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "P.D.G (Produto Di Gheto)",
+      "url": "https://open.spotify.com/track/001eUI62MFBLJVUiRlOO9B"
+    },
+    {
+      "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY"
       },
@@ -6908,7 +7010,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 197312,
       "name": "PO\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/6BqHzkNqVSygx9aAFojT2K"
@@ -8182,7 +8284,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 204444,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/11OtPiFmqLBLzTx0jyprCG"
@@ -8584,6 +8686,24 @@
       "duration_ms": 210124,
       "name": "S\u00f3 Quer Conversa",
       "url": "https://open.spotify.com/track/1BSjPJ7X1yyoyjOhKrcoFf"
+    },
+    {
+      "album": {
+        "name": "T.O.C",
+        "url": "https://open.spotify.com/album/26OaKzYifR3jHKS0mZUnPe"
+      },
+      "artists": [
+        {
+          "name": "Vizzy 1910",
+          "url": "https://open.spotify.com/artist/0P0n0S4JIpef6HOwuvbER6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119329,
+      "name": "T.O.C",
+      "url": "https://open.spotify.com/track/3pXR4L7N6E6Ae72lYBpc0g"
     },
     {
       "album": {
@@ -9688,6 +9808,28 @@
       "duration_ms": 194579,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/4t19vRfZFy4wHU0xSHuiQb"
+    },
+    {
+      "album": {
+        "name": "\u00c0s Vezes",
+        "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
+      },
+      "artists": [
+        {
+          "name": "Sien Flamuri",
+          "url": "https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD"
+        },
+        {
+          "name": "mizt",
+          "url": "https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163061,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
     },
     {
       "album": {

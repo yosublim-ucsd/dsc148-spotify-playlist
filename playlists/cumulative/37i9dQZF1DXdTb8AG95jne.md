@@ -2,14 +2,15 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Glen Check\(글렌체크\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Yebit\(예빛\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-578 songs - 1 day 11 hr 25 min
+579 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-10 | 2023-01-26 |
 | [\#with\_you](https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag) | [D'avant](https://open.spotify.com/artist/4KIzyH8RDYbO94Qs7tfGRg) | [\#with\_you](https://open.spotify.com/album/764n0TwmT7M4xW9BaOy1cZ) | 2:58 | 2021-12-21 | 2022-07-12 |
+| [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 |  |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
 | [2022/02/22](https://open.spotify.com/track/1FUXYmjl2GMjqqWckYHhcm) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [2022/02/22](https://open.spotify.com/album/1WRZivz4Et1oExafBKnlCq) | 2:14 | 2022-02-16 | 2022-04-18 |
@@ -77,7 +78,7 @@
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2023-01-11 |
 | [Cactus, Cactus](https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Cactus, Cactus](https://open.spotify.com/album/3hfUaz21ZhJQ7Fa9amwMhZ) | 2:25 | 2023-04-04 | 2023-04-19 |
-| [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 |  |
+| [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherry](https://open.spotify.com/track/5rQc2ZxLeXRcmusUrHDcVI) | [YOONCELL](https://open.spotify.com/artist/1JvaT2Ln0KyD2BH7apsQIT) | [Cherry](https://open.spotify.com/album/3SHy98pHEZyPAgfOEFRVIn) | 3:45 | 2021-12-21 | 2022-05-10 |
 | [CHERRY SHINE](https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [CHERRY SHINE](https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8) | 3:06 | 2022-03-21 | 2022-06-06 |

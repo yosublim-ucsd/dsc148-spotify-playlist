@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-378 songs - 22 hr 29 min
+379 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [It's Its Own Heart](https://open.spotify.com/track/0a5ekAz2dYv0mKTNPfNWae) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [It's Its Own Heart](https://open.spotify.com/album/0lJOmZQeDqP10muCJra8tF) | 2:53 | 2020-10-10\* | 2021-02-25 |
 | [Jack](https://open.spotify.com/track/7jdhSMmLhuDgUamYxerPvR) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Jack](https://open.spotify.com/album/73qstoPswN2IsFHoYFKLv5) | 3:24 | 2022-10-14 |  |
 | [Jetlag](https://open.spotify.com/track/0AruFQCxgou0FaVFzdVMjO) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Jetlag](https://open.spotify.com/album/03VgPuslq0glCtWuLUqqRT) | 3:16 | 2023-03-13 |  |
+| [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-02 |  |
 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 | 2020-10-10\* | 2022-03-18 |
 | [Kids On Cassette](https://open.spotify.com/track/63KalZfD4ZPbzHK9ABFE3v) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Kids on Cassette](https://open.spotify.com/album/5VoiqgwCQqpnMB55nIMGni) | 3:29 | 2021-07-31 |  |
 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-22 |  |

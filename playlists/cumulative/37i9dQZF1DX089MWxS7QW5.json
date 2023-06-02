@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Morning Coffee",
+        "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
+      },
+      "artists": [
+        {
+          "name": "Odett",
+          "url": "https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ"
       },
@@ -2683,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "Purple Love (Feat. Leellamarz)",
+        "url": "https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9"
+      },
+      "artists": [
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196074,
+      "name": "Purple Love (Feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az"
+    },
+    {
+      "album": {
         "name": "New Edition 49",
         "url": "https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP"
       },
@@ -3054,6 +3090,24 @@
       "duration_ms": 238306,
       "name": "Talk 2 Me Nice",
       "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
+    },
+    {
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd"
+      },
+      "artists": [
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
     },
     {
       "album": {

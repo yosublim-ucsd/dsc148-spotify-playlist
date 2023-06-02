@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Dirty Nil
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,415 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,472 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [I've Got the Secret](https://open.spotify.com/track/3vmrs8krg22Mb4wQnbUXid) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [I've Got the Secret](https://open.spotify.com/album/1VBLok9ijl1npYpG2NKUVE) | 3:05 |
 | 100 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 
-Snapshot ID: `MCwzODdmYTM3MjBlODFmNGY4NDhmNmU0MDNhN2Q2ZTU1ZmRhNjVlZmU3`
+Snapshot ID: `MCxkYWE1OWUyYTYxMWVhODYyNzgwMDlmZDYzYjg1MGUyNDJkZTAyNjZi`

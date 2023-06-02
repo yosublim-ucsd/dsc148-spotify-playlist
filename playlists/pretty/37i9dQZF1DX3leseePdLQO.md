@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 
 > Pop para refrescarte los días, featuring Sofía Reyes & Danna Paola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,557 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,586 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,30 +43,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3leseePdLQO.md) - [plain]
 | 33 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 |
 | 34 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
 | 35 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 |
-| 36 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
-| 37 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
+| 36 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 |
+| 37 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 38 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 |
 | 39 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 |
 | 40 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
-| 41 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 |
-| 42 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 |
-| 43 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
-| 44 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 |
+| 41 | [Muero](https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Muero](https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc) | 3:00 |
+| 42 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
+| 43 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 |
+| 44 | [TV](https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 2:45 |
 | 45 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
-| 46 | [TV](https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma +](https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX) | 2:45 |
-| 47 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 |
-| 48 | [Me Da Bastante Miedo](https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Me Da Bastante Miedo](https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK) | 3:06 |
-| 49 | [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 |
+| 46 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 |
+| 47 | [Me Da Bastante Miedo](https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Me Da Bastante Miedo](https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK) | 3:06 |
+| 48 | [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 |
+| 49 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 |
 | 50 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
 | 51 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 |
 | 52 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 53 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 |
 | 54 | [NUNCA PASARÁ](https://open.spotify.com/track/7uaaAiwOEwhPKpq7R5wUbS) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:53 |
 | 55 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 |
-| 56 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
-| 57 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
-| 58 | [Ibiza](https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Ibiza](https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX) | 2:59 |
+| 56 | [Ibiza](https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Ibiza](https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX) | 2:59 |
+| 57 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
+| 58 | [TURISMO](https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:26 |
 | 59 | [Se Siente Así](https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:29 |
 | 60 | [Devuélveme a Mi Chica](https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 3:22 |
 
-Snapshot ID: `MCw4ZTJiODg2ZDc1NGQ5YTgwYTNhNjU1Y2U1NDFlOTgxODJjNjE3ODA0`
+Snapshot ID: `MCw0MjIyMzdlZDU0YzUwNmEwOGI2NzBjZjJlYjY0YjY5NDFlMDE5M2E2`

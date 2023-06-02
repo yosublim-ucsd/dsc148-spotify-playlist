@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,295 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,926 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 35 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 |
 | 36 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 |
 | 37 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 |
-| 38 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
+| 38 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
 | 39 | [Ohio](https://open.spotify.com/track/0GgYACtOE5GNVjwAZmBr1p) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [Ohio](https://open.spotify.com/album/4ZGtU7OLGX2SwD7QxcGwLI) | 2:50 |
 | 40 | [Only Girl](https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Only Girl](https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl) | 2:39 |
 | 41 | [Green](https://open.spotify.com/track/0LHB4Y0QoyirTM1TdcnWNM) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Green](https://open.spotify.com/album/1iNlLjCj7U27ImeLnzJQjj) | 3:05 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 62 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 | 63 | [I should call my mom](https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [I should call my mom](https://open.spotify.com/album/7qVlcmFyBzxCU1dzOIN3cS) | 3:00 |
 | 64 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 |
-| 65 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
+| 65 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 66 | [make believe](https://open.spotify.com/track/0G4FFtEp1LtyE1D3MS1h2r) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [make believe](https://open.spotify.com/album/3W4InDICGxnOGY0tJTloUC) | 2:59 |
 | 67 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 |
 | 68 | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 86 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
 | 87 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 |
 
-Snapshot ID: `MCw2MjRjMTNlOThhMDY0YzMzMzRkMTRjMGRmOWY5MTU4N2FmZWFlZGEz`
+Snapshot ID: `MCxiN2E5ODgxOWMxZmE1NjY5NWRmMDkxMDIyZDFlNjQxZjQ4NjJhOTIw`

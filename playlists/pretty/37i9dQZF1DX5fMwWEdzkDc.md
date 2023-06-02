@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,407 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,430 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 14 | [Sunset Glow](https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:24 |
 | 15 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 |
 | 16 | [8282](https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Davichi In Wonderland](https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo) | 3:39 |
-| 17 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
-| 18 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
+| 17 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
+| 18 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
 | 19 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 |
 | 20 | [I Guess I Loved You](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
 | 21 | [Tears](https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V) | [So Chan\-Whee](https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI) | [DJ Chully's Handsome Vol.1](https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH) | 3:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 94 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
 | 95 | [대화가 필요해](https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [Change Yourself](https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj) | 4:00 |
 | 96 | [Tell Me One More Time](https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv), [장한나](https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V) | [Tell Me One More Time](https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO) | 3:15 |
-| 97 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 |
+| 97 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
 | 98 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 |
-| 99 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
+| 99 | [그녀가 웃잖아....](https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [그녀가 웃잖아](https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi) | 4:29 |
 | 100 | [널 사랑하겠어](https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:35 |
 
-Snapshot ID: `MCxlOTcwYWFhODA4NDM4OWU0MzI4YTU1ODkwOGZkOWFmMDczNmJmZWMw`
+Snapshot ID: `MCxlZDgwYmM5NmYyN2RkOTUwNDhlZGEwOTYxMTk3ZGMzYTIwMjNlMTY0`

@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Lauren Spencer Smith
 
-3,193 songs - 6 day 14 hr 59 min
+3,194 songs - 6 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,7 +747,8 @@
 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 | 2022-12-16 | 2023-01-14 |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-11 | 2022-03-05 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-07-01 | 2022-07-16 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-26 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 | 2022-02-11 | 2022-03-05 |
 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 | 2023-04-14 | 2023-05-06 |
 | [Don't Go Wasting Time](https://open.spotify.com/track/7whiCi6fX2awaY0p2qYzzG) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Don't Go Wasting Time](https://open.spotify.com/album/50gR4jNJ7uAyR26sHwYine) | 3:27 | 2023-01-27 | 2023-02-11 |

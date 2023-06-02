@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,344 likes - 105 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,348 likes - 105 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 84 | [Dodem](https://open.spotify.com/track/6WVvlRjBgIkpK29xDRm9VG) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [Bekka Ma'iingan](https://open.spotify.com/album/0JC5axi71h7X6SOciEFuKD) | 5:18 |
 | 85 | [Bad Actor](https://open.spotify.com/track/5SM5gBWs6VCChdtDUR8Prr) | [Winona Forever](https://open.spotify.com/artist/3ZwhWiGw3XTJThOjEmuFAT) | [Acrobat](https://open.spotify.com/album/5HFe1H0Zd8Rw9eRw3b0qZQ) | 3:02 |
 | 86 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
-| 87 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 87 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 88 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 |
 | 89 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
 | 90 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 104 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
 | 105 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
 
-Snapshot ID: `MCxkNDE5YThhNjc0NDk0MTAyMDJlY2Q1YmVhYWVjNWFlOGY0MWM0MjA3`
+Snapshot ID: `MCw4OTIxZjU0NDhlYWQ1YzJhNTQ3ZTgwNDIxNWQzY2I3NjRmN2FiMzU5`

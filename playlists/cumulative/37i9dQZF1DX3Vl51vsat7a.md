@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-200 songs - 10 hr 52 min
+201 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 | 2023-03-23 |  |
 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 | 2022-09-08 |  |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 | 2022-10-28 |
+| [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 |  |
 | [Fluss](https://open.spotify.com/track/2QuyGidLrET8KlD8fN2bPc) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Fluss](https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx) | 3:17 | 2021-12-16 | 2022-02-25 |
 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 | 2022-01-06 | 2022-06-03 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-04-07 | 2022-05-06 |
@@ -175,7 +176,7 @@
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |
-| [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-04-13 |  |
+| [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 | 2023-04-13 | 2023-06-02 |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |

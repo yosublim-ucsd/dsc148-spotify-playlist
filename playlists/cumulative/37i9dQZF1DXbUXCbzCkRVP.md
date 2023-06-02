@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-105 songs - 6 hr 50 min
+106 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-24 |  |
 | [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 | 2022-05-25 |  |
 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 | 2022-12-02 |  |
-| [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 | 2022-11-24 |  |
+| [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 | 2022-11-24 | 2023-06-02 |
 | [Extra Jimmies](https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [What's The Word?](https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD) | 2:38 | 2022-05-25 |  |
 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 | 2022-05-25 |  |
 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 | 2023-01-27 |  |
@@ -61,6 +61,7 @@
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 1:34 | 2022-07-29 |  |
 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 | 2022-05-25 |  |
 | [Jukebox Shuffle](https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Music For Mad Men \- Robust Blues](https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg) | 2:19 | 2022-11-24 |  |
+| [La Llorona](https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn) | [Tim "Too Slim" Langford](https://open.spotify.com/artist/2kx2O6JbEPkAS2bfaVXswy) | [Broken Halo](https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S) | 2:58 | 2023-04-28 |  |
 | [Little Johnny Lee](https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 6:33 | 2022-11-24 |  |
 | [Little Johnny Lee](https://open.spotify.com/track/5xYNNVevngzChjz5l8vZsj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 6:33 | 2022-05-25 | 2022-07-29 |
 | [Long gone](https://open.spotify.com/track/6iC677ZnjXAa2ixQ3hIf6z) | [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR) | [Mellow Blues](https://open.spotify.com/album/3mua4DgKG2jJi1WiHHiAqq) | 5:44 | 2022-05-25 | 2023-03-07 |

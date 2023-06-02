@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,217 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,390 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 7 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
 | 8 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
 | 9 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 |
-| 10 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 |
+| 10 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 |
 | 11 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 |
 | 12 | [Brivido](https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Pensando a te Rap Italiano Game Over](https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm) | 3:47 |
 | 13 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 59 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 60 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 
-Snapshot ID: `MCwxZDczMWQ3NWE2ZmRhNDc4YzkxZWE2MDdkZjQ0ODAwM2UxMTMzNDVj`
+Snapshot ID: `MCxiOGE3NWE1MmNkNGUzNzUwZWEwNzQ1MzEyMjBmYmEyYzk2NGM5Mzkw`

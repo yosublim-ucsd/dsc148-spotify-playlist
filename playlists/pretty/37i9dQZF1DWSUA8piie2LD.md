@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,976 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,110 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 22 | [Blue Water](https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [Just Around The Corner](https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b) | 4:10 |
 | 23 | [After Midnight](https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [From The Heart](https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW) | 5:13 |
 | 24 | [Lip Service](https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:35 |
-| 25 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
-| 26 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
+| 25 | [Who's That Lady](https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Glow](https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif) | 4:30 |
+| 26 | [Waiting](https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 5:26 |
 | 27 | [Still Lovin' You](https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV) | [Freddie Fox](https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr) | [Feelin' It](https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l) | 4:13 |
 | 28 | [Sneak a Peek](https://open.spotify.com/track/2uc5qiIZZPPFpNaQn3M54w) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 5:04 |
 | 29 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 57 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
 | 58 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
 | 59 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
-| 60 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
-| 61 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
+| 60 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
+| 61 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
 | 62 | [The Last Kiss](https://open.spotify.com/track/3nzFxR6SXAMnAnrRv37GvP) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 3:42 |
 | 63 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
 | 64 | [Get Here](https://open.spotify.com/track/6ojF0t5M1HSB0nsMqPKRya) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 99 | [Let's Get Close](https://open.spotify.com/track/2obxF2oBpRKwlzx8FQOpaP) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:32 |
 | 100 | [Fiona's Song](https://open.spotify.com/track/3u3nv5xPUKAkaP6ERwNZuQ) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:30 |
 
-Snapshot ID: `MCw1YmZkNThkMWRmOTA5MWZiNTVmODkwZmM5NjQ4MzQ3Y2QzNTU0MjA5`
+Snapshot ID: `MCwwNzNiZmFkMzg3Mzc2NzFkMjYwMWY0ZGZhMmE2ZTc1YjhkYWMzZWIy`

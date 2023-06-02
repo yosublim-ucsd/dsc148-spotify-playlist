@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,334 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,345 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 |
-| 2 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 |
-| 3 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 |
-| 4 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 |
+| 2 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 |
+| 3 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 |
+| 4 | [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 |
 | 5 | [Lemonade](https://open.spotify.com/track/1dH4rjcOt0AZ948RDnEFoc) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Lemonade](https://open.spotify.com/album/2Me4REF5L047CVTl7KrjuI) | 3:39 |
 | 6 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 |
 | 7 | [Zerrissen](https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Zerrissen](https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur) | 3:24 |
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 27 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 |
 | 28 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 |
 | 29 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 |
-| 30 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 |
-| 31 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 |
-| 32 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
-| 33 | [Time \(is a healer\)](https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Time \(is a healer\)](https://open.spotify.com/album/1QEkyXwkvhixkw92ndXONV) | 3:48 |
+| 30 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 |
+| 31 | [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 |
+| 32 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 |
+| 33 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 34 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 |
 | 35 | [error](https://open.spotify.com/track/067WOHMcvXQujRm2wAFrbT) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [error](https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7) | 3:01 |
 | 36 | [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 58 | [Tut mir nicht leid](https://open.spotify.com/track/3Z0vdZfMKPRgPrVlpj18oQ) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [M \(Extended\)](https://open.spotify.com/album/1AnZRh08V385fqDx1qw979) | 3:02 |
 | 59 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 
-Snapshot ID: `MCw4NTY4ODNhZmQ1YTk5MDNiOWI4ZDFlZWZkNzIyN2U1MGVjMWZhOTk5`
+Snapshot ID: `MCxkNzQ1MDkzNzJiMWIxYzYzNDQ1Zjc5Y2M5OTdmYjUwZmYxYThmMWZk`

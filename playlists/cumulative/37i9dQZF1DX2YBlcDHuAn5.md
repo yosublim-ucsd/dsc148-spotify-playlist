@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-73 songs - 4 hr 20 min
+74 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 |  |
 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 | 2023-02-23 |  |
 | [Burning Down the Prairie](https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Burning Down the Prairie](https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb) | 3:01 | 2023-02-23 |  |
-| [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 | 2023-04-27 |  |
+| [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 | 2023-04-27 | 2023-06-02 |
 | [C'mon Baby, Cry](https://open.spotify.com/track/67swXHVknS142T5tIcNFkl) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:30 | 2023-02-23 |  |
 | [California](https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [California](https://open.spotify.com/album/4R2ALa4EonxEMxi0yDhcGj) | 3:58 | 2023-03-30 | 2023-04-28 |
 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 | 2023-02-23 | 2023-04-28 |
@@ -34,6 +34,7 @@
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2023-05-19 |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-05-12 |
+| [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 |  |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 |  |
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |
 | [Holding On](https://open.spotify.com/track/4Q5KEZORwgsmQfP9H4Z2M6) | [Mick Stender](https://open.spotify.com/artist/4iRkCYOHNpZ4QKzRQ1GahA) | [Holding On](https://open.spotify.com/album/3m9FmFnqFgKJ1XWgZSHUBE) | 3:06 | 2023-05-31 |  |

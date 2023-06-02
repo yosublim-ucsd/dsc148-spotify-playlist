@@ -4493,6 +4493,28 @@
     },
     {
       "album": {
+        "name": "Koppla Av",
+        "url": "https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173877,
+      "name": "Koppla Av",
+      "url": "https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S"
+    },
+    {
+      "album": {
         "name": "Ein\u00e1r",
         "url": "https://open.spotify.com/album/1LJeZmd25DaFGgjYDZzfVy"
       },
@@ -4660,7 +4682,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
@@ -5686,7 +5708,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 171000,
       "name": "N\u00e4tterna i G\u00f6teborg",
       "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
@@ -5708,6 +5730,28 @@
       "duration_ms": 213473,
       "name": "N\u00e5t i vattnet",
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "album": {
+        "name": "Occhi D\u2019Amore",
+        "url": "https://open.spotify.com/album/0MBYnWVqa6trbDCCKuP1QB"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194898,
+      "name": "Occhi D\u2019Amore",
+      "url": "https://open.spotify.com/track/1Tx7TwXLu2BQIAz0SRzf2k"
     },
     {
       "album": {
@@ -5780,7 +5824,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 171562,
       "name": "Other Side of the Moon",
       "url": "https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez"
@@ -8151,6 +8195,28 @@
     },
     {
       "album": {
+        "name": "Triple A (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Triple A (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf"
+    },
+    {
+      "album": {
         "name": "Tror du att jag bryr mig",
         "url": "https://open.spotify.com/album/2pY1J0B58xa7ZcLWiFLIqD"
       },
@@ -8706,7 +8772,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166216,
       "name": "WAKA WAKA",
       "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"

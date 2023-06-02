@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-305 songs - 18 hr 28 min
+306 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Burn Down Babylon](https://open.spotify.com/track/6ZvpzgvhPocKMWLB4cNGgs) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Peanut](https://open.spotify.com/album/0M1L4UtFZreB5vKQfQ2WXe) | 4:29 | 2023-03-30 | 2023-04-21 |
 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 | 2022-12-15 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 | 2023-03-01 |
-| [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-11-08 | 2023-06-01 |
+| [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 | 2022-11-08 |  |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-03-07 | 2023-05-05 |
 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 | 2023-04-25 | 2023-05-19 |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2023-04-04 |  |
@@ -72,7 +72,8 @@
 | [Deep Routed](https://open.spotify.com/track/1SHekIQ0GuWgnFBJ8d615m) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Deep Routed](https://open.spotify.com/album/6XebnDlCOM72VXtzJl0ePD) | 3:46 | 2023-02-14 | 2023-03-01 |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-11-08 | 2022-11-23 |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 | 2023-06-02 |
 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 | 2023-05-18 |  |
 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 | 2023-05-04 |  |
 | [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-11-08 | 2022-11-12 |
@@ -113,7 +114,7 @@
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-28 | 2023-05-05 |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-07 | 2023-03-15 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-10-20 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-02-24 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-02-24 | 2023-06-02 |
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2022-10-20 | 2023-02-01 |
 | [Hi Lo](https://open.spotify.com/track/2PsZC2AKstvrAVa3VMWzWX) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Hi Lo](https://open.spotify.com/album/0MNs4f1YYFWLHJn47GYqUQ) | 2:50 | 2022-10-20 | 2022-12-07 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 | 2023-03-19 |

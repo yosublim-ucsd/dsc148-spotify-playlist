@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 
 > Come on, man\. Just smile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,071 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,170 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 31 | [I Got You](https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [From Here To Now To You](https://open.spotify.com/album/61427AKV7p3p30uvrniI4L) | 2:59 |
 | 32 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 33 | [Hey Now Now](https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Yell Fire!](https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF) | 5:36 |
-| 34 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
-| 35 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
+| 34 | [It Must Be True Love](https://open.spotify.com/track/7HwXZSIKEqVEkVRarpUELt) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Trojan Lovers Collection](https://open.spotify.com/album/5EuOQL9gsUcmO3khx4JSCG) | 3:24 |
+| 35 | [Thy Will](https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Thy Will](https://open.spotify.com/album/6fni7JqR3wJqmz75SEeHI6) | 2:55 |
 | 36 | [Funky Kingston](https://open.spotify.com/track/0bJ4nQojefjNpeuZNkiLrX) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 4:50 |
 | 37 | [Feeling Irie](https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw) | [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [Feeling Irie](https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH) | 3:11 |
 | 38 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVu0D7Y8cYcs.md) - [plain]
 | 49 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
 | 50 | [Woii](https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:28 |
 
-Snapshot ID: `MCw0NGJhN2JiOTI2YjMzNmVhNDJlZjRlNGJjZTc4NDFhNmNiYTRmM2Fj`
+Snapshot ID: `MCwyZTQ2ZjA0ZDc0MDY4MTE2NGJmMWFlNzg4ZGY2OWRlMGRjMGE5MGI1`

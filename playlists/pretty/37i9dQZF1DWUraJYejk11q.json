@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 453604,
+  "num_followers": 453659,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI3MWU5ZDdhM2YxMWEwNTZhNzAwYzBlOTc2ZDZkMDI2MzdmYjhm",
+  "snapshot_id": "MCwzMjU4NjJhZjM0M2Q5Mzc3YzQ5MDBjZWYyODk3N2MzYjdmNzNhMzFm",
   "tracks": [
     {
       "added_at": "2023-05-09 02:39:29",
@@ -71,6 +71,22 @@
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2023-06-01 23:13:49",
+      "album": {
+        "name": "Circuitous",
+        "url": "https://open.spotify.com/album/2zjSQpLovbXE8bUemBiOby"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Sciences",
+          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
+        }
+      ],
+      "duration_ms": 334798,
+      "name": "Circuitous",
+      "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
     },
     {
       "added_at": "2023-03-03 04:23:33",
@@ -175,22 +191,6 @@
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
-    },
-    {
-      "added_at": "2023-01-24 20:42:42",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Arcadian Daze",
-      "url": "https://open.spotify.com/track/6NXrZnDylt1iZd2qU8ssK3"
     },
     {
       "added_at": "2022-12-07 00:43:07",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
-      "added_at": "2023-01-07 03:51:32",
+      "added_at": "2022-08-03 02:49:15",
       "album": {
-        "name": "Crass",
-        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
+        "name": "Shallots",
+        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
       },
       "artists": [
         {
-          "name": "96 Back",
-          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+          "name": "Frequent",
+          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
         }
       ],
-      "duration_ms": 357131,
-      "name": "Hoss It",
-      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
+      "duration_ms": 221298,
+      "name": "Shallots",
+      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -431,22 +431,6 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2022-08-03 02:49:15",
-      "album": {
-        "name": "Shallots",
-        "url": "https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw"
-      },
-      "artists": [
-        {
-          "name": "Frequent",
-          "url": "https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Shallots",
-      "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -481,6 +465,22 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2023-01-07 03:51:32",
+      "album": {
+        "name": "Crass",
+        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
+    },
+    {
       "added_at": "2022-07-15 18:13:54",
       "album": {
         "name": "Eden Portal",
@@ -495,6 +495,30 @@
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Hondo (Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 321210,
+      "name": "Hondo (Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -527,30 +551,6 @@
       "duration_ms": 279816,
       "name": "NPCs have feelings too",
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
-    },
-    {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Hondo (Remix)",
-        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 321210,
-      "name": "Hondo (Remix)",
-      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -649,10 +649,10 @@
       "url": "https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
+      "added_at": "2022-01-19 22:44:25",
       "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
         }
       ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2023-03-03 04:19:45",
@@ -801,10 +801,10 @@
       "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
+      "added_at": "2022-03-30 05:10:26",
       "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2021-10-15 03:56:52",

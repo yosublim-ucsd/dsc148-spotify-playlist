@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > despacito que no llevamos prisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,482 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,521 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 73 | [Tu Postura \- Versión Acústica](https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Postura \(Versión Acústica\)](https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS) | 4:35 |
 | 74 | [Un Hombre Normal](https://open.spotify.com/track/2Tf6RcTHD2biAjefUbKrsS) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 5:03 |
 | 75 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/2lXeKjwaIYARsOmUXoVZIi) | [Octubre Doce](https://open.spotify.com/artist/5xp0m6dRz284in9nArK60v) | [Somos Octubre Doce](https://open.spotify.com/album/1yGO0EmEGeblTWrQZsNZIk) | 4:07 |
-| 76 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
-| 77 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 76 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
+| 77 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
 | 78 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 79 | [Será](https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 3:32 |
 | 80 | [Simplemente Gracias](https://open.spotify.com/track/24ZUoUcNqEZ9enmLEFLxzd) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/0fJ40JHtpQP8mZE2qFwYZh) | 3:04 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 89 | [Ya Acabo](https://open.spotify.com/track/07NnD0MqN5lesPhy3faZkj) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Ya Acabo](https://open.spotify.com/album/7abRhsrO4FslXCpVvayDPi) | 2:54 |
 | 90 | [El Triste](https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Triste](https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM) | 4:12 |
 | 91 | [Lo Siento Mucho \- Versión Mariachi](https://open.spotify.com/track/1KWN7OGF1KqyLjD9EuWY6z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Lo Siento Mucho \(Versión Mariachi\)](https://open.spotify.com/album/53NlCXfNNhgP7F0LS2Z7yT) | 3:18 |
-| 92 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
-| 93 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
-| 94 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
-| 95 | [Me La Avente](https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Me La Avente](https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ) | 2:36 |
+| 92 | [Me La Avente](https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Me La Avente](https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ) | 2:36 |
+| 93 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Un Rinconcito En El Cielo](https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0) | 4:11 |
+| 94 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
+| 95 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Si Te Pudiera Mentir](https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW) | 4:49 |
 | 96 | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Yo Ya No Vuelvo Contigo](https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7) | 3:52 |
 | 97 | [No Te Olvido](https://open.spotify.com/track/15YxLf1k3l1YPka7At7o6b) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 | 98 | [La Mejor Versión De Mi](https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Mis Versiones Vol\. 9](https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0) | 3:35 |
 | 99 | [Me Vas A Extrañar](https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc) | [Los Vestidos Negros](https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3) | [Me Vas A Extrañar](https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4) | 2:36 |
-| 100 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 |
+| 100 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
 
-Snapshot ID: `MCwwZjA2ZTMzNjBlZWY1MjJlMTQ2NjZhYTg2YThjZGYzYWI3OWE2ZGI5`
+Snapshot ID: `MCw2MDA3Y2UxOGQ4MDY1YmQxOTQ4ZmZkZjEyNGM0MWZlOTlkYzFmODM1`

@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8404,
+  "num_followers": 8406,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Njc4MDhmZDUzOTdhYjdiM2VlODI1Mjc1NmRjZTYwZWFiMDk4YjQ0",
+  "snapshot_id": "MCwwOWUxNzdmMDA5MTI2MTBlNTYzYzdjZTI1OGRlMjUxZTgwNjM0NDll",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -155,22 +155,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Danse sociale",
-        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
-      },
-      "artists": [
-        {
-          "name": "Captaine R\u00e9volte",
-          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "J'ai oubli\u00e9",
-      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "L'acad\u00e9mie du massacre",
         "url": "https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176893,
       "name": "Les patates",
       "url": "https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Danse sociale",
+        "url": "https://open.spotify.com/album/43HrZpsHePmMfgN69PTnFR"
+      },
+      "artists": [
+        {
+          "name": "Captaine R\u00e9volte",
+          "url": "https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "J'ai oubli\u00e9",
+      "url": "https://open.spotify.com/track/0fxyIaAHcZg6uBlFSHYyJM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le Chihuahua",
-        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
-      },
-      "artists": [
-        {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "Le teint de Linda",
-      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Sur quelle plan\u00e8te",
         "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le Chihuahua",
+        "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
+      },
+      "artists": [
+        {
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Le teint de Linda",
+      "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
-      },
-      "artists": [
-        {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Fuck'n'shit baby love!",
         "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 127600,
       "name": "Fuck'n'shit baby love!",
       "url": "https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "El Motor",
-        "url": "https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef"
-      },
-      "artists": [
-        {
-          "name": "El Motor",
-          "url": "https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alin\u00e9a",
-      "url": "https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -799,6 +767,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "El Motor",
+        "url": "https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef"
+      },
+      "artists": [
+        {
+          "name": "El Motor",
+          "url": "https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Alin\u00e9a",
+      "url": "https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "De la nature des foules",
         "url": "https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 244986,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Corpo-Trash-Vidange",
+        "url": "https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d"
+      },
+      "artists": [
+        {
+          "name": "Band de Garage",
+          "url": "https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "La ch\u00e8vre",
+      "url": "https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi"
     }
   ],
   "unique_name": "Je me souviens: alternatif",

@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Carin Leon & Camilo",
-  "num_followers": 22298,
+  "num_followers": 22343,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTg1ZmI4MGUxZWM1ZjZlM2Q1N2QyYWFlZjljOTk3MmEwZmRhOGYz",
+  "snapshot_id": "MCw1MTA4YzljYTYyOGQyNjc3OWM0NDQ5NDRiNDc1YjNhMjg4ZDRhNjFj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -307,26 +307,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "La Siguiente",
-        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 202176,
-      "name": "La Siguiente",
-      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "La Siguiente",
+        "url": "https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 202176,
+      "name": "La Siguiente",
+      "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -367,8 +367,8 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Por las Noches (Remix)",
-        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
       },
       "artists": [
         {
@@ -376,13 +376,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 222551,
-      "name": "Por las Noches - Remix",
-      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Y Ahora",
-        "url": "https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        }
-      ],
-      "duration_ms": 161660,
-      "name": "Y Ahora",
-      "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
@@ -547,8 +527,28 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+        "name": "Y Ahora",
+        "url": "https://open.spotify.com/album/1MZT7MnJFA2ECV68CMdR0U"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "duration_ms": 161660,
+      "name": "Y Ahora",
+      "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Por las Noches (Remix)",
+        "url": "https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG"
       },
       "artists": [
         {
@@ -556,13 +556,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+      "duration_ms": 222551,
+      "name": "Por las Noches - Remix",
+      "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Me Met\u00ed en el Ruedo (Remix)",
         "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 233533,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -819,22 +819,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Que Triste",
-        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
+        "name": "\u00bfQui\u00e9n Te Crees?",
+        "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 226339,
-      "name": "Que Triste",
-      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
+      "duration_ms": 185493,
+      "name": "\u00bfQui\u00e9n Te Crees?",
+      "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -859,22 +859,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Te Crees?",
-        "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
+        "name": "Que Triste",
+        "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 185493,
-      "name": "\u00bfQui\u00e9n Te Crees?",
-      "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
+      "duration_ms": 226339,
+      "name": "Que Triste",
+      "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
     },
     {
       "added_at": "2023-05-26 04:00:00",

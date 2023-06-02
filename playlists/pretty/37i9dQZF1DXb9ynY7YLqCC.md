@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,098 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,157 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 79 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
 | 80 | [Muévelo](https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:21 |
 
-Snapshot ID: `MCw5Mjg1YTIyM2ZhMmZiNDIyNzc1N2FiZGYzMzAwNmI5MGY1NTU0OGIx`
+Snapshot ID: `MCwwZTY0MGRjMGVhNmEwMjJjNmQ1Yjg3YjdjZjQ2MDQ0ZTg2ZDk0ZjUz`

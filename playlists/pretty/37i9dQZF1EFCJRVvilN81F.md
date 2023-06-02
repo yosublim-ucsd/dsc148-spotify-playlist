@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,149 likes - 111 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,151 likes - 111 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 44 | [BREAKDANCE LESSON N.1](https://open.spotify.com/track/0CDNPfbyPY75OL87xbCRO2) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:28 |
 | 45 | [Lavender](https://open.spotify.com/track/4nSc3L3mCE4E6uPH8gweQ8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [IV](https://open.spotify.com/album/5Dgfrxiz3M0SLosVnVoLEu) | 3:20 |
 | 46 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
-| 47 | [Hilarity Duff](https://open.spotify.com/track/50q8m7zsvnLubl86RQOL1f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/6VD74xHxGq77aSCaTSMDIw) | 4:17 |
-| 48 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
+| 47 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
+| 48 | [Hilarity Duff](https://open.spotify.com/track/50q8m7zsvnLubl86RQOL1f) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/6VD74xHxGq77aSCaTSMDIw) | 4:17 |
 | 49 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 |
 | 50 | [Sober Thoughts](https://open.spotify.com/track/2eMB5uoWzRml3ofK9ZYlWR) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Sober Thoughts](https://open.spotify.com/album/4nAAga3XPvVDvmhUZL4E0r) | 3:19 |
 | 51 | [Have You Seen That Girl?](https://open.spotify.com/track/0H57lJQoHSzP4nE7EvTJPP) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:42 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 92 | [My Crew \(Woooo\)](https://open.spotify.com/track/76fyjZT556J5tydoOTbwUA) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/4Yx4gbcfNWPYOtNc1cKFP7) | 3:13 |
 | 93 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
 | 94 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
-| 95 | [I Know It](https://open.spotify.com/track/5kduduW8Olk6uGC62Bclux) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/1Qsju0bafv0Hz3magn1fQN) | 2:32 |
-| 96 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
+| 95 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
+| 96 | [I Know It](https://open.spotify.com/track/5kduduW8Olk6uGC62Bclux) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/1Qsju0bafv0Hz3magn1fQN) | 2:32 |
 | 97 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
 | 98 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 99 | [SMILING](https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:49 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 110 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 111 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `MjgwOTMxNDAsMDAwMDAwMDA3MjdjNmRjYWFhZTUxYWQyMmNhZjg1NDhlZTNkZjk1Yw==`
+Snapshot ID: `MjgwOTQ1MjAsMDAwMDAwMDBlNGU2NDM4MmU0MGQ3ZDkzMjE3YzJhMTQ0ZmVkNWY5Nw==`

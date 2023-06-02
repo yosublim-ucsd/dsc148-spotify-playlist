@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,193 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,361 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 27 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:54 |
 | 28 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 |
 | 29 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 |
-| 30 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
+| 30 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
 | 31 | [El Colmo](https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC) | 2:40 |
-| 32 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 |
+| 32 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 |
 | 33 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 34 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 |
 | 35 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 89 | [La Locomotora \- MTV Unplugged](https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 4:01 |
 | 90 | [Cuando No Estoy Contigo](https://open.spotify.com/track/2919sjFdazH79snBQfS7jZ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:40 |
 | 91 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
-| 92 | [Tengo un mes con el mismo pantalón](https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv) | [Ricky Luis](https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb) | [Absolutamente Lo Mejor](https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq) | 3:16 |
-| 93 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
+| 92 | [En la Ciudad de la Furia](https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Tropiplop](https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG) | 4:24 |
+| 93 | [Tengo un mes con el mismo pantalón](https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv) | [Ricky Luis](https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb) | [Absolutamente Lo Mejor](https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq) | 3:16 |
 | 94 | [Vivo \- Pastel \- En Vivo](https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Pastel \(En Vivo\)](https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu) | 5:11 |
 | 95 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
 | 96 | [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 |
 | 97 | [Dias Peligrosos](https://open.spotify.com/track/0ZLFtOZ5jWUDidCxKwFkGJ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Hombrecito Del Mar / Ineditos](https://open.spotify.com/album/42jlzxU3Q4DwMOMG9zzp2n) | 4:15 |
-| 98 | [Fuego y Dinamita](https://open.spotify.com/track/4lRuT1p6PgZTOrx4E96lzB) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Fuego y Dinamita](https://open.spotify.com/album/6SihKlRRUhQriO0IBPDHSh) | 3:40 |
-| 99 | [Gato](https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Gato](https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd) | 2:44 |
-| 100 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 |
+| 98 | [Gato](https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Gato](https://open.spotify.com/album/2HcRhz4R3wDDsZ0hmGLbxd) | 2:44 |
+| 99 | [Fuego y Dinamita](https://open.spotify.com/track/4lRuT1p6PgZTOrx4E96lzB) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Fuego y Dinamita](https://open.spotify.com/album/6SihKlRRUhQriO0IBPDHSh) | 3:40 |
+| 100 | [Pasiflorine](https://open.spotify.com/track/6BjpEAvPczBv9UIu9TBGZb) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Pasiflorine](https://open.spotify.com/album/0x6dgvn0ntIdb8K4WjzPjI) | 4:11 |
 
-Snapshot ID: `MCwwOWZiN2Y3NDViY2RjZTc0MDI0ZjgwYWNhZGMxNjhmMGM3YjQ4ZjA4`
+Snapshot ID: `MCxhYTc5ZjBkNjA2MGI3NjI1NjY3YWU0YTY4ZDIwY2IyMTFhOGIzOWU3`

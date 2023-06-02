@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 212512,
+  "num_followers": 212655,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTE1ODZiNDc2ZjMzZDlhZmFkZGU4ODkzZGRjYzA4YWI5NjYxYWE3",
+  "snapshot_id": "MCw4ZmNmOWEwZDViMzNmNjM1OGFkZmFlMWY1NWJiMDM3OTdkYWYwNGFl",
   "tracks": [
     {
       "added_at": "2023-05-26 13:00:00",
@@ -303,22 +303,18 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
       },
       "artists": [
         {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         }
       ],
-      "duration_ms": 178908,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
       },
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 176548,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 176548,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Overdrive EP",
         "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 254836,
       "name": "Overdrive - Edit",
       "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
         "name": "All The Girls",
         "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 197254,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 169658,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2023-05-26 13:00:00",
+      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -1523,22 +1543,22 @@
     {
       "added_at": "2023-05-26 13:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
+        "name": "Counting",
+        "url": "https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi"
       },
       "artists": [
         {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         },
         {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
         }
       ],
-      "duration_ms": 169658,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+      "duration_ms": 232468,
+      "name": "Counting",
+      "url": "https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78"
     },
     {
       "added_at": "2023-05-26 13:00:00",
@@ -1599,22 +1619,6 @@
       "duration_ms": 247404,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj"
-    },
-    {
-      "added_at": "2023-05-26 13:00:00",
-      "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     }
   ],
   "unique_name": "Bangers",

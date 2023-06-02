@@ -130,7 +130,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Net Een Naam",
+        "url": "https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ"
+      },
+      "artists": [
+        {
+          "name": "Retief Burger",
+          "url": "https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Net Een Naam",
+      "url": "https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly"
+    },
+    {
+      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 415133,
       "name": "Never Would Have Made It",
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
@@ -1046,6 +1064,24 @@
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
+    },
+    {
+      "album": {
+        "name": "10 Years of Tasha",
+        "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418804,
+      "name": "No Longer Slaves - 2023 Short Edit / Live",
+      "url": "https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX"
     },
     {
       "album": {
@@ -1534,6 +1570,50 @@
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "album": {
+        "name": "To The One",
+        "url": "https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG"
+      },
+      "artists": [
+        {
+          "name": "Nqubeko Mbatha",
+          "url": "https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594782,
+      "name": "To The One",
+      "url": "https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr"
+    },
+    {
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "album": {

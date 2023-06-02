@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Stereo Wall",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Nadhif Basalamah",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -1654,6 +1654,28 @@
       "duration_ms": 169122,
       "name": "MR.MARIPOSA (feat. Kinder Bloomen)",
       "url": "https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx"
+    },
+    {
+      "album": {
+        "name": "Never Let You Go (From \"Mozachiko\")",
+        "url": "https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Laze",
+          "url": "https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206739,
+      "name": "Never Let You Go - From \"Mozachiko\"",
+      "url": "https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr"
     },
     {
       "album": {

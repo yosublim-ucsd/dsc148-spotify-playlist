@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Alusp\u00fckse",
       "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
@@ -6470,7 +6470,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
@@ -11522,7 +11522,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 121411,
       "name": "Kommunikatsiooni Probleem",
       "url": "https://open.spotify.com/track/7JDPjTzXu2rIbWjoAmKPLq"
@@ -13454,6 +13454,24 @@
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
+    },
+    {
+      "album": {
+        "name": "Zanaka",
+        "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
     },
     {
       "album": {
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"

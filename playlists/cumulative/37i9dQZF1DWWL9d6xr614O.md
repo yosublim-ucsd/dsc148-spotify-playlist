@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-114 songs - 8 hr 53 min
+116 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [I Will Trust You](https://open.spotify.com/track/4KFJJ4Yem7vQQi9W8JlcMK) | [Fatima Soriano](https://open.spotify.com/artist/4kAGu0OFEMwgWAZYF3KITq) | [Lord of My Life](https://open.spotify.com/album/3VZHfSoZQBzSqTcuZa6pM1) | 5:25 | 2022-04-15 |  |
 | [Ihip ng Trumpeta, Awit ng Papuri](https://open.spotify.com/track/728ZiVcGHHxpTPzgDZYyXR) | [Darren Sanchez](https://open.spotify.com/artist/6u3QwegLEwu8RLoxSp5frv) | [Ihip ng Trumpeta, Awit ng Papuri](https://open.spotify.com/album/4WRKKj9dhvuxe7gNF8Cz0N) | 4:32 | 2022-04-15 |  |
 | [Ikaw Ang Pag\-ibig](https://open.spotify.com/track/1wUSsvDFhZwwbtpiUeYl2h) | [KDR Music House](https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0), [Reynen Nueva](https://open.spotify.com/artist/78I7nq1txl16GLWwhohOkN) | [Ikaw Ang Pag\-ibig](https://open.spotify.com/album/2JUq5w3bUz1EoVYsg5W0GI) | 4:25 | 2023-03-29 |  |
-| [Ililigtas Ka Niya](https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey) | 4:38 | 2022-04-15 |  |
+| [Ililigtas Ka Niya](https://open.spotify.com/track/00LHqyWw8CoUcqk3jgCUUb) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/1eSVR8lo6sErkXaqrQPpah) | 4:38 | 2023-05-05 |  |
+| [Ililigtas Ka Niya](https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey) | 4:38 | 2022-04-15 | 2023-06-02 |
 | [Incredible](https://open.spotify.com/track/4irfvqovhqNcmZ6fMfDVCS) | [Liveloud Worship](https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY) | [Make Room](https://open.spotify.com/album/78tYA5dpbLsaD3GYiLZT4U) | 4:13 | 2022-04-15 |  |
 | [KARANGALAN NAMIN](https://open.spotify.com/track/3nVI3y69ibD4DfgAT30dUv) | [Poleane Carmen](https://open.spotify.com/artist/7sIrJsdICtBotqfN5KioK2), [Keyl Mizpah](https://open.spotify.com/artist/1ie4vlw7U4P9vtxCbTYvWW) | [KARANGALAN NAMIN](https://open.spotify.com/album/20zRwgyneQvI8ZXHyKvIZM) | 4:26 | 2023-03-29 |  |
 | [Kay Buti Buti Mo Panginoon](https://open.spotify.com/track/4USpxYHu8IgXAEfDbz4he5) | [Oswald PH](https://open.spotify.com/artist/753ZE0RrSAhNLNlJfUvi9N) | [Kay Buti Buti Mo Panginoon](https://open.spotify.com/album/0DJsbDzh4VWj3A8diEbRVe) | 3:00 | 2023-03-31 |  |
@@ -96,7 +97,8 @@
 | [SEARCH ME \- WATERWALK Sessions Version](https://open.spotify.com/track/3EVZnYSGzDsdLdUNiPLJ6V) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [SEARCH ME \(WATERWALK Sessions Version\)](https://open.spotify.com/album/7khKImIC1jZozSxHyj0Qwh) | 4:00 | 2022-11-03 |  |
 | [Seek First](https://open.spotify.com/track/4o6pshGnOos2RCypsDJ3VW) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY) | [Seek First](https://open.spotify.com/album/4nkKfOpZO7HwEqMFxMakXg) | 4:02 | 2023-05-05 |  |
 | [Showers of Love](https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3) | [Zid Yarcia](https://open.spotify.com/artist/2jOoGnvtJSkXrK0Ffcfcu0) | [Showers of Love](https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne) | 4:13 | 2023-03-29 |  |
-| [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 | 2022-04-15 |  |
+| [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 | 2022-04-15 | 2023-06-02 |
+| [Sigaw Ng Puso](https://open.spotify.com/track/5MhOky7jQ564pwCf6QbZrC) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/2flD7DmaCDO7JAlWRBZakP) | 6:42 | 2023-05-05 |  |
 | [Sinasamba Kita](https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Sinasamba Kita](https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM) | 4:16 | 2022-04-15 |  |
 | [Song of Freedom](https://open.spotify.com/track/3KuxuZqks50WAxMivImeBq) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Ann Castro](https://open.spotify.com/artist/72DpgjafpMYZ3Wu1FYMPYE) | [Song of Freedom](https://open.spotify.com/album/1XPhZB0bje8woprQRWUcU0) | 4:25 | 2022-04-15 |  |
 | [SUMASALANGIT](https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ) | [Judah Vibar](https://open.spotify.com/artist/027cRwJWoGBJ54pT7yMZ9Q) | [SUMASALANGIT](https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o) | 5:27 | 2023-03-31 |  |

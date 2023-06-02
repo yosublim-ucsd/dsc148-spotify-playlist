@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 1943145,
+  "num_followers": 1943644,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQzOTM0ZWQ5MTk0MmYxZjE4NTJlYWViNGNjOWRjZjMxMDNhMGQ4",
+  "snapshot_id": "MCw5NjZmNGZiODhkZjQ3MmFmOTQ4OWU2ZmZjYzliMmUyYjg5Y2ZhYWJl",
   "tracks": [
     {
       "added_at": "2023-05-26 10:56:10",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
-        "name": "Who is Nardo Wick?? (Deluxe)",
-        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 151776,
-      "name": "Dah Dah DahDah",
-      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -887,6 +871,22 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Dance Now (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
         "name": "GREECE (feat. Drake)",
         "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 218901,
       "name": "GREECE (feat. Drake)",
       "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 240800,
       "name": "Poppin' Them Thangs",
       "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
-        "name": "Ambition For Cash",
-        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 231240,
       "name": "Break Ya Neck",
       "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
+        "name": "Ambition For Cash",
+        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Ambition For Cash",
+      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
-        "name": "Port Of Miami",
-        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "Hustlin'",
-      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 236186,
       "name": "I'M ON ONE (feat. Drake)",
       "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "added_at": "2023-05-26 10:56:10",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-05-26 10:56:10",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2023-05-26 10:56:10",
+      "album": {
         "name": "Beam Me Up Scotty",
         "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 339506,
       "name": "Seeing Green (with Drake & Lil Wayne)",
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
-    },
-    {
-      "added_at": "2023-05-26 10:56:10",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2023-05-26 10:56:10",

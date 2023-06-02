@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 19336,
+  "num_followers": 19377,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzZiN2FkODQ5NjllOWQ3YTQ3ZGI1Y2Q5MDNlNzZhNDExYmEyYTBl",
+  "snapshot_id": "MCwzYWY4NTY0ZGE2YTk1ZTgzOGZiYjBjNzU3OGZjYWE5NWMzMWIwODFl",
   "tracks": [
     {
       "added_at": "2023-05-26 09:49:07",
@@ -60,7 +60,7 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 187274,
+      "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
         "name": "Peru (Acoustic)",
         "url": "https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 172256,
       "name": "Peru - Acoustic",
       "url": "https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "added_at": "2023-05-26 09:49:07",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
         "name": "No Dey Form",
         "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
+      "duration_ms": 172000,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
     },
     {
       "added_at": "2023-05-26 09:49:07",
@@ -595,50 +595,6 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
-      },
-      "artists": [
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 194819,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
         "name": "Peace of Mind (Remix)",
         "url": "https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk"
       },
@@ -663,6 +619,26 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
         "name": "Jejely",
         "url": "https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 181250,
       "name": "Jejely",
       "url": "https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/0IzpcaxNAkTbXMCjKce63a"
     },
     {
       "added_at": "2023-05-26 09:49:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
-        "name": "Taking Things For Granted",
-        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 216167,
-      "name": "Taking Things For Granted",
-      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 164557,
       "name": "For Days",
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
     },
     {
       "added_at": "2023-05-26 09:49:07",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-05-26 09:49:07",
       "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": "2023-05-26 09:49:07",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2023-05-26 09:49:07",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     }
   ],
   "unique_name": "Sound Semester ",

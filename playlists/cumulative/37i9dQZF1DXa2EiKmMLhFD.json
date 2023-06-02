@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Hits terpanas dari Miley Cyrus, Mahalini serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
+  "description": "Hits terpanas dari Alan Walker, Anggi Marito serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
   "name": "Hot Hits Indonesia",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234200,
       "name": "Pilihan Yang Terbaik",
       "url": "https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo"
@@ -1262,6 +1280,28 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9"
+      },
+      "artists": [
+        {
+          "name": "Elsya",
+          "url": "https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p"
+        },
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218073,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6"
     },
     {
       "album": {

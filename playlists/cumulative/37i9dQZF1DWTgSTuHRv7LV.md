@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-542 songs - 1 day 6 hr 47 min
+543 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-19 | 2022-10-08 |
 | [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 | 2022-12-09 |  |
 | [X Ley](https://open.spotify.com/track/5ym3peRbw8U3v2SOZ9HtBi) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [X Ley](https://open.spotify.com/album/6Xp1BnOqHLIyXo0VDetv3u) | 3:09 | 2022-10-07 | 2022-12-10 |
-| [X5](https://open.spotify.com/track/6GiPJ61pvbekGilrzztD7n) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [X5](https://open.spotify.com/album/2UiSyDkAPpBudc6NVwNkJb) | 3:15 | 2022-10-07 |  |
+| [X5](https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [X5](https://open.spotify.com/album/1R8bJ89ssIjfaf2nojNyXf) | 3:15 | 2023-05-26 |  |
+| [X5](https://open.spotify.com/track/6GiPJ61pvbekGilrzztD7n) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [X5](https://open.spotify.com/album/2UiSyDkAPpBudc6NVwNkJb) | 3:15 | 2022-10-07 | 2023-06-02 |
 | [XKITTLEZ \(with Arcangel\)](https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 3:53 | 2022-01-19 | 2023-03-23 |
 | [Ya Ni Se](https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Ya Ni Se](https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO) | 3:38 | 2022-05-13 |  |
 | [Ya No Te Pude Ver](https://open.spotify.com/track/4qSqnCaVelsI9bvwrxJjty) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:41 | 2022-01-06 | 2022-10-08 |

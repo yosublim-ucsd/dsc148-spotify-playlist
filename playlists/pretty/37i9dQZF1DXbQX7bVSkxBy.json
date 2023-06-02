@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=IeiGBgm0S9qGYCVhYILkeQ\">Jimmy D Psalmist</a>",
-  "num_followers": 3954,
+  "num_followers": 3996,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2Q5YjJmZjViZmI5YzY1ZDc2NmI5ZTQ2Nzg5N2FhZWQ4Mzg4Zjg0",
+  "snapshot_id": "MCxjOTY0ZjM4NDBhNGY4MTVlNWJiMGRiZTcyN2ZkYTVlYWJkOGE2ZGUz",
   "tracks": [
     {
       "added_at": "2023-05-26 00:01:00",
@@ -609,6 +609,34 @@
       "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
     },
     {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "HEAVEN HAS COME",
+        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Grace Omosebi",
+          "url": "https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "duration_ms": 379207,
+      "name": "He Fights For Me",
+      "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
+    },
+    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "Man Of Galilee",
@@ -643,6 +671,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 464306,
+      "name": "Yeshua Hamashiach",
+      "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Daddy Wey Dey Pamper (Special Version)",
         "url": "https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2"
       },
@@ -659,50 +703,6 @@
       "duration_ms": 287739,
       "name": "Daddy Wey Dey Pamper - Special Version",
       "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 464306,
-      "name": "Yeshua Hamashiach",
-      "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
-    },
-    {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "HEAVEN HAS COME",
-        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        },
-        {
-          "name": "Tomi Favored",
-          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
-        },
-        {
-          "name": "Grace Omosebi",
-          "url": "https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ"
-        },
-        {
-          "name": "121SELAH",
-          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
-        }
-      ],
-      "duration_ms": 379207,
-      "name": "He Fights For Me",
-      "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 531375,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
-    },
-    {
       "added_at": "2023-05-26 00:01:00",
       "album": {
         "name": "B'Ola (Honour)",
@@ -771,6 +755,22 @@
       "duration_ms": 324703,
       "name": "B'Ola - Honour",
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
-      "added_at": "2023-05-19 00:01:00",
-      "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
-      },
-      "artists": [
-        {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        }
-      ],
-      "duration_ms": 193708,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
-    },
-    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "The Glory Experience (Live In Houston)",
@@ -835,6 +819,22 @@
       "duration_ms": 142600,
       "name": "Never Let Me Go - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY"
+    },
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
+      },
+      "artists": [
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
     },
     {
       "added_at": "2023-04-20 23:59:00",

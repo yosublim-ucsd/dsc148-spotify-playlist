@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,202 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,269 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 |
 | 50 | [Do Your Ting](https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD) | 3:12 |
 
-Snapshot ID: `MCwxZjU0ZDI0NGFlY2UwMTc2ZTNmNGQ3NTlkY2M1Y2I1YTZiMGMwOTcx`
+Snapshot ID: `MCxmNTVhNWRjMjBlMTE0ZjY1YTUxOWZkMjM2YmYxYjk5ZTUyNmQ3MWZk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  David Guetta &amp; MORTEN",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  EDX x Frey",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -152,6 +152,24 @@
       "duration_ms": 157142,
       "name": "5th Symphony",
       "url": "https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe"
+    },
+    {
+      "album": {
+        "name": "5th Symphony phonk",
+        "url": "https://open.spotify.com/album/7lBBGOJdkwEHEHNbBCh1Rf"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112258,
+      "name": "5th Symphony phonk",
+      "url": "https://open.spotify.com/track/7Ie4OaaUqbUTWh4EHz9hQQ"
     },
     {
       "album": {
@@ -2149,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Del Mar",
+        "url": "https://open.spotify.com/album/4lwXF6u716TTBpWWN8uzut"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Caf\u00e9 Del Mar",
+      "url": "https://open.spotify.com/track/4QhrNJ1nmVUaQhINsAiFOX"
+    },
+    {
+      "album": {
         "name": "Call Me Crazy",
         "url": "https://open.spotify.com/album/0xDjG0HyU8cBswL78MbA6t"
       },
@@ -2344,7 +2380,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 176264,
       "name": "Careful What You Wish For (feat. Alida)",
       "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 171428,
       "name": "Catchin' Fire",
       "url": "https://open.spotify.com/track/05bAjwIoHLUiIBpjpQVCkq"
@@ -2645,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6VVAKHegwAI6j3N3AViHxu"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Never Sleep",
+          "url": "https://open.spotify.com/artist/2Aq4LjvI5svvSjk8fv6BXT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0HIPQfEKpjURE7zH0hpnTY"
+    },
+    {
+      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/0JERqErfZosNVy4N9TBOVH"
       },
@@ -2682,6 +2740,32 @@
       "duration_ms": 133593,
       "name": "Club Sound",
       "url": "https://open.spotify.com/track/5qMFUrAHnU59d025ULDjZU"
+    },
+    {
+      "album": {
+        "name": "Coconut",
+        "url": "https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "GRY",
+          "url": "https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q"
     },
     {
       "album": {
@@ -4090,7 +4174,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 199570,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/3VMsldQUJxPrpWcCy0vt7K"
@@ -4230,7 +4314,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 152812,
       "name": "Energy (feat. Bay-C)",
       "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
@@ -5122,10 +5206,32 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 131586,
       "name": "Flush It (feat. STRIO)",
       "url": "https://open.spotify.com/track/2yncSYtY7mmlyWtI4CwQMf"
+    },
+    {
+      "album": {
+        "name": "Flush It (feat. STRIO) [Club Mix]",
+        "url": "https://open.spotify.com/album/7rabZ2Gc3qNXkQGm1yuPwW"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "STRIO",
+          "url": "https://open.spotify.com/artist/52RIKNLQfoH4VPBQR6RJKd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180827,
+      "name": "Flush It (feat. STRIO) [Club Mix]",
+      "url": "https://open.spotify.com/track/0obNtI60tvfDD5dL5TFRS3"
     },
     {
       "album": {
@@ -5705,6 +5811,28 @@
     },
     {
       "album": {
+        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140190,
+      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
+    },
+    {
+      "album": {
         "name": "Goodbye (feat. Xillions) [Crude Intentions & Dr. Rude Remix]",
         "url": "https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq"
       },
@@ -6152,7 +6280,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 209107,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3hYiekjevN8BfmCV5vvtZL"
@@ -7171,6 +7299,24 @@
     },
     {
       "album": {
+        "name": "Ill Behavior",
+        "url": "https://open.spotify.com/album/3KlaD2BwnsqyEBZfa7pd8m"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Ill Behavior",
+      "url": "https://open.spotify.com/track/0rLWyaC6vkht17t0EjO71Y"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/5gyDLfJrVi5VPLHk1vatKS"
       },
@@ -8123,6 +8269,28 @@
     },
     {
       "album": {
+        "name": "L.S.D",
+        "url": "https://open.spotify.com/album/1hPJDSLWXOUlzkvmJxr54M"
+      },
+      "artists": [
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt"
+        },
+        {
+          "name": "SLY.",
+          "url": "https://open.spotify.com/artist/5Btk5DDiCMFIBmX7oHPZb1"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "L.S.D",
+      "url": "https://open.spotify.com/track/14uVQ9HVZl2cmFKqsv4v7N"
+    },
+    {
+      "album": {
         "name": "La Danse",
         "url": "https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl"
       },
@@ -8777,6 +8945,28 @@
     },
     {
       "album": {
+        "name": "Live Is Life",
+        "url": "https://open.spotify.com/album/02xGsQl2qAGOqXYTyW1lZC"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "ATI\u00d8PE",
+          "url": "https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163671,
+      "name": "Live Is Life",
+      "url": "https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi"
+    },
+    {
+      "album": {
         "name": "Livin Without Maybes (feat. Gor Sujyan)",
         "url": "https://open.spotify.com/album/77k0fkGfzltD42kZrWROIA"
       },
@@ -8836,7 +9026,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 232615,
       "name": "Living On Video (feat. DTale) - VIP Mix",
       "url": "https://open.spotify.com/track/4fGDafAD9cwH90n1ipJwP1"
@@ -9078,7 +9268,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 174192,
       "name": "Lost Your Love - Sped Up",
       "url": "https://open.spotify.com/track/1BHXHikOFSaaGiEeBh2vGI"
@@ -9144,7 +9334,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 195238,
       "name": "Love For Love (Illyus & Barrientos Remix)",
       "url": "https://open.spotify.com/track/0IhYZKeVNAxWJzxs0pAGrg"
@@ -9512,7 +9702,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 143225,
       "name": "Lucky Hugs",
       "url": "https://open.spotify.com/track/3A9v1KbEkUKJlSL1vLkD3g"
@@ -9707,6 +9897,24 @@
     },
     {
       "album": {
+        "name": "MAIA",
+        "url": "https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188016,
+      "name": "MAIA",
+      "url": "https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ"
+    },
+    {
+      "album": {
         "name": "Major Lazer",
         "url": "https://open.spotify.com/album/0lvEoELFjNxivRwSoSBLb3"
       },
@@ -9872,7 +10080,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 175341,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/29ZGQEhZM8Je7AqoKiwKtr"
@@ -11008,7 +11216,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 164307,
       "name": "Need You Tonight (SUB-X Remix)",
       "url": "https://open.spotify.com/track/4BLO7R7CWeiJ8Q2TIaTYs5"
@@ -11817,6 +12025,28 @@
     },
     {
       "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/18ZbDpZU7YUMgBCMokC4uL"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Esox",
+          "url": "https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/7qWQTqvKsiJiSDNPlH49Xg"
+    },
+    {
+      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/3dEgnqIAPwT1YsChpnzWV3"
       },
@@ -12056,7 +12286,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 196535,
       "name": "Out Tonight",
       "url": "https://open.spotify.com/track/7f3g4QVgRQVRwQxleHO1GK"
@@ -12086,6 +12316,24 @@
       "duration_ms": 190952,
       "name": "Outlines - Tita Lau Remix",
       "url": "https://open.spotify.com/track/0g21zlqQ7w7axnIDPfmAD5"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/49EemIWqDMa3KdtOmFVQ6V"
+      },
+      "artists": [
+        {
+          "name": "JayJay",
+          "url": "https://open.spotify.com/artist/0Er9HtStu9pbSThPMRjOEC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1vfuTsXHo4IjThgs4CtOwa"
     },
     {
       "album": {
@@ -12546,7 +12794,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 230194,
       "name": "Pieces (Acoustic Version)",
       "url": "https://open.spotify.com/track/71Jj8XItBthCRvls73F7lm"
@@ -12708,7 +12956,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170352,
       "name": "Praise Me (feat. Stefi Novo) [Andrew Mathers Remix]",
       "url": "https://open.spotify.com/track/2JuyIzF2w2rZcwJa0pcO6G"
@@ -13068,6 +13316,28 @@
       "duration_ms": 139218,
       "name": "Rave People",
       "url": "https://open.spotify.com/track/4cmCtS8h63NMCqCIcRoRMm"
+    },
+    {
+      "album": {
+        "name": "Ravers & Parties",
+        "url": "https://open.spotify.com/album/0HUJlmVoC9mSrucvjWNY1X"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Esox",
+          "url": "https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Ravers & Parties",
+      "url": "https://open.spotify.com/track/6xl0GYsdMjT07BibzDmbSV"
     },
     {
       "album": {
@@ -15016,7 +15286,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
@@ -15078,7 +15348,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 149706,
       "name": "SYMPHONY",
       "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
@@ -15338,7 +15608,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177230,
       "name": "Tarantella (feat. Sooshi Mango)",
       "url": "https://open.spotify.com/track/30sWradYj7bNPtq3PQVd7B"
@@ -15817,6 +16087,28 @@
     },
     {
       "album": {
+        "name": "The Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/2qx8uJhPIKaLGKNdELsmKc"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Frey",
+          "url": "https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191340,
+      "name": "The Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/4uSYnEpAWsSEmN23TlXSH2"
+    },
+    {
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/51hFBSQlIqazmmWCbTTo9y"
       },
@@ -16022,7 +16314,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 264761,
       "name": "Think It's Just Enough",
       "url": "https://open.spotify.com/track/5lia1eBt1OvZRFngvsga6g"

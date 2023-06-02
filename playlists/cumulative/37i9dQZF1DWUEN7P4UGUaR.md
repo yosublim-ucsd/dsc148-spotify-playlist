@@ -4,11 +4,11 @@
 
 > Fresh gospel music from Ghana\. Cover: Louis Pascal
 
-57 songs - 5 hr 16 min
+58 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 | 2023-04-06 |  |
+| [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 | 2023-04-06 | 2023-06-02 |
 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 | 2023-04-06 | 2023-05-27 |
 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 | 2023-04-06 |  |
 | [Agbebolo](https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [NHYIRABA GIDEON](https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl) | [Agbebolo](https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh) | 5:32 | 2023-04-06 |  |
@@ -25,6 +25,7 @@
 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 | 2023-04-06 |  |
 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 | 2023-04-06 |  |
 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 | 2023-04-06 |  |
+| [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 | 2023-06-01 |  |
 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 | 2023-04-06 |  |
 | [Gyae Su](https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj) | [Solomon King](https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT) | [Gyae Su](https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB) | 4:18 | 2023-04-06 |  |
 | [Gye Wayeyi](https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Gye Wayeyi](https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy) | 8:05 | 2023-04-06 |  |

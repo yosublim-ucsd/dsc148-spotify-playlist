@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "album": {
         "name": "Colorblind (WhoMadeWho Remix)",
         "url": "https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon"
       },
@@ -852,7 +874,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
@@ -960,7 +982,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 158859,
       "name": "Hey Papi - Edit",
       "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 254608,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/0QWfkVxD0iy0a8vRhQWm3s"
@@ -1110,6 +1132,28 @@
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
+    },
+    {
+      "album": {
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
     },
     {
       "album": {
@@ -1676,6 +1720,28 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+    },
+    {
+      "album": {
+        "name": "Not Worthy",
+        "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Not Worthy",
+      "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
     },
     {
       "album": {

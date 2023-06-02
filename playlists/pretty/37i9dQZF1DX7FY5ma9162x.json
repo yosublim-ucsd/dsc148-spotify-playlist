@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: PARTYNEXTDOOR",
-  "num_followers": 213103,
+  "num_followers": 213263,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjA0NzZkODg5NTdiN2YzZTI3OWE0MjBhNTA5NGU2ZTUyZjcyZmFi",
+  "snapshot_id": "MCw2NDg0NjlkNTAwMWJjNWYyYTU2ZGFhOGRiMzUxMTNhMGY5Y2FlMTQ4",
   "tracks": [
     {
       "added_at": "2023-05-31 21:43:02",
@@ -1175,22 +1175,26 @@
     {
       "added_at": "2023-05-31 21:43:02",
       "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
     },
     {
       "added_at": "2023-05-31 21:43:02",
@@ -1215,26 +1219,22 @@
     {
       "added_at": "2023-05-31 21:43:02",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 329295,
-      "name": "Purple Hearts",
-      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2023-05-31 21:43:02",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-05-31 21:43:02",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2023-05-31 21:43:02",
-      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+    },
+    {
+      "added_at": "2023-05-31 21:43:02",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-05-31 21:43:02",
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2023-05-31 21:43:02",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+        "name": "A N N I V E R S A R Y (Deluxe)",
+        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 169127,
-      "name": "At My Worst (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+      "duration_ms": 188293,
+      "name": "7:00",
+      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
     }
   ],
   "unique_name": "R&B Favourites",

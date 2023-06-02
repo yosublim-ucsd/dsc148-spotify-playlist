@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Maisie Peters
 
-512 songs - 1 day 4 hr 22 min
+513 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,8 @@
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-12-17 |
-| [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-31 |  |
-| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and Her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 |  |
+| [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-31 | 2023-06-02 |
+| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 |  |
 | [Born With A Broken Heart](https://open.spotify.com/track/1GTcBwVrpxpTLeJXtceeb8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Born With A Broken Heart](https://open.spotify.com/album/7y3ET5fbEgCohTwHOkM6zh) | 3:38 | 2023-04-07 | 2023-05-01 |
 | [Bottle of Advil](https://open.spotify.com/track/5BTOOI9Cesm2UungR9HiWj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 3:08 | 2021-12-17 | 2021-12-24 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-20 | 2022-10-01 |
@@ -112,7 +112,8 @@
 | [Difficult](https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Difficult](https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8) | 4:17 | 2022-10-07 | 2023-02-18 |
 | [disaster](https://open.spotify.com/track/0l39wZwdO1xqIbw3DgGRxk) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [disaster](https://open.spotify.com/album/2Pa1RmoFk68sGWNYzbaBid) | 2:28 | 2022-05-06 | 2022-07-29 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2023-04-06 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-12-16 |  |
 | [don't you have to go?](https://open.spotify.com/track/28ePWE3Y4yd9cmSjLLmycI) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [don't you have to go?](https://open.spotify.com/album/0SQbywgSzeLanGJs1qAcxT) | 4:27 | 2022-02-11 | 2022-03-09 |
@@ -247,7 +248,7 @@
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-07-18 | 2022-10-01 |
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 | 2022-12-17 |
 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 | 2023-05-19 |  |
-| [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 | 2023-05-30 |
+| [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 |  |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 |  |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2021-12-17 | 2022-05-20 |
 | [If You Were Mine](https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [If You Were Mine](https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw) | 3:38 | 2023-03-17 | 2023-04-03 |

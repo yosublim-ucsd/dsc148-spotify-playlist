@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -544,6 +544,28 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
+    {
+      "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "album": {
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
@@ -1691,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148173,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh"
+    },
+    {
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
       },
@@ -1918,7 +1958,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166021,
       "name": "on the pisces moon",
       "url": "https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ"
@@ -1972,7 +2012,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD"
@@ -2030,7 +2070,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170097,
       "name": "Passionate (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw"
@@ -2713,6 +2753,32 @@
     },
     {
       "album": {
+        "name": "A Kid From Yerevan",
+        "url": "https://open.spotify.com/album/15faNhkthd1ph8RFvsuB2o"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Lola Vialet",
+          "url": "https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD"
+        },
+        {
+          "name": "UHMEER",
+          "url": "https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317647,
+      "name": "Text Me When You Get Home",
+      "url": "https://open.spotify.com/track/3smoRPTQLhVoKbSX9kX5Y2"
+    },
+    {
+      "album": {
         "name": "The Gym",
         "url": "https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks"
       },
@@ -3076,6 +3142,28 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "album": {
+        "name": "white dress",
+        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "white dress",
+      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "album": {

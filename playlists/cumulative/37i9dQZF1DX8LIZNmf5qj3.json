@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Summer Walker",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Marshmello x Brent Faiyaz",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -444,6 +444,28 @@
       "duration_ms": 214053,
       "name": "Come Through (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4dmNBu6IEQahPJDlQQOY69"
+    },
+    {
+      "album": {
+        "name": "Conflicted",
+        "url": "https://open.spotify.com/album/023XKPdnotxl7hpt5U9eFv"
+      },
+      "artists": [
+        {
+          "name": "ZYA",
+          "url": "https://open.spotify.com/artist/47jxHbc1ZT6mCQ2c5N7DYm"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268838,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/00lBoVt4v5hRyQrzyViPAM"
     },
     {
       "album": {
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 164867,
       "name": "more!",
       "url": "https://open.spotify.com/track/6S8CRJN0f8a2mYlokZmsZQ"
@@ -2004,6 +2026,28 @@
       "duration_ms": 156073,
       "name": "Pray It Away",
       "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
+    },
+    {
+      "album": {
+        "name": "Private Party (feat. Siaira Shawn)",
+        "url": "https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV"
+      },
+      "artists": [
+        {
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+        },
+        {
+          "name": "Siaira Shawn",
+          "url": "https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213697,
+      "name": "Private Party (feat. Siaira Shawn)",
+      "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
     },
     {
       "album": {
@@ -2492,7 +2536,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 211040,
       "name": "The Idea",
       "url": "https://open.spotify.com/track/2o4eax2msyhbpijcWKtbOS"
@@ -2572,6 +2616,24 @@
       "duration_ms": 258023,
       "name": "Through The Night (feat. Free Nationals)",
       "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
+    },
+    {
+      "album": {
+        "name": "Troubling",
+        "url": "https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm"
     },
     {
       "album": {
@@ -2795,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "who knew?",
+        "url": "https://open.spotify.com/album/5nQYmSXYZUEs3r8wbqvt9Z"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "who knew?",
+      "url": "https://open.spotify.com/track/7JO4ejqLodwfdLp1NDNLbi"
+    },
+    {
+      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/7MfesF2IgQtb2dUefA9MH6"
       },
@@ -2922,7 +3002,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169516,
       "name": "Young Boy Problems",
       "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"

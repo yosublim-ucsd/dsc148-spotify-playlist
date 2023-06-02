@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Kungs & Carlita
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,015,292 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,015,108 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 |
 | 75 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 |
 
-Snapshot ID: `MCw4YTc4NGY0MzNmYzhiMTE0YmI0YmE0MjVhYjAxYmE4NmQ3YjA3OWNi`
+Snapshot ID: `MCxiOTc1ODU1OTMwNmVhNDc5NjhiYjI2MGI2MGE3ZTAwOTc3NzQ5N2Q0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Benjamin Jephta Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,875 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,950 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 61 | [Off Grid](https://open.spotify.com/track/5Gk7boQO9K8W1H5PcihMCv) | [Mitchum Yacoub](https://open.spotify.com/artist/3uygmQ0jFF1Ck4TlU67UXr) | [Off Grid](https://open.spotify.com/album/3fOPwWW5utf84jllgGDZWU) | 4:37 |
 | 62 | [Osmosis Chapter Ii](https://open.spotify.com/track/3hIlZwM1hQ3vK840qjxNr2) | [Arthur Liory](https://open.spotify.com/artist/3tmfnaMiCdg2mTvs2RozxK) | [Osmosis Chapter Ii](https://open.spotify.com/album/0yDJyNCGV05aqK4zHHLbK0) | 3:00 |
 | 63 | [Glass Prism](https://open.spotify.com/track/6iRtb1c4RfkXsKZxxn9EIR) | [BZ3 Organ Trio](https://open.spotify.com/artist/29ff6FFH474l5fJyepuOLr) | [Glass Prism](https://open.spotify.com/album/02WW1Jg6qkgmybkMWVuGyy) | 5:17 |
-| 64 | [Stank Face Patrol](https://open.spotify.com/track/2H4xUr4LK3EHNnXwOxCYW8) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/6ouVTP3LLQi5r1wvIuEqUQ) | 3:15 |
+| 64 | [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 |
 | 65 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 |
 | 66 | [Mi Sol Samba](https://open.spotify.com/track/0Pk6qipJuyBjwv1kmRJYUj) | [Chema Peñalver](https://open.spotify.com/artist/6F2A0R5yDv8xMO7exiqUeY) | [Mi Sol Samba](https://open.spotify.com/album/7LRuw9pK5n4GAVEATFU0Cj) | 5:25 |
 | 67 | [The Fact of Rain](https://open.spotify.com/track/70kMaKVSf7H4hBbPoZBj5a) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [The Fact of Rain](https://open.spotify.com/album/1d6IBvyJDHnGLJFQP7VFjg) | 4:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Bakeren](https://open.spotify.com/track/1tl99aJBxyHmTomw8WHhCY) | [Espen Horne](https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW), [Faye Houston](https://open.spotify.com/artist/5062CWWnt9yuyESJ5uKrIB) | [Bakeren](https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv) | 4:53 |
 | 75 | [Spooki \- Ash Walker Dub](https://open.spotify.com/track/5agzILYRN43kgVHhGzIftY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Ugh \(Bonus Edition\)](https://open.spotify.com/album/0jVCHki8NXJ2nK22ZDGDhO) | 3:22 |
 
-Snapshot ID: `MCxiMGNkNTVjYjQ5Y2JjOTUxNmM1ZGQ0MmIyNWQ0OGY5NTQ0YTRmOGM1`
+Snapshot ID: `MCw5OGJhZWIwYTU1OGQxYmVjMzM4NjE4YzUxMWQzMmI5ZGE4MzZlZmJj`

@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 221404,
+  "num_followers": 221668,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2MxZjZiZWRhYjUyN2Y1MWFhYTFiN2U1Mjc2ZmU0NTdhOTExMTNl",
+  "snapshot_id": "MCw1ZDA4N2QzYmVlZmQzZmRjYzJlMDZmODExODg1ZWZjMmVlZmNlYmE5",
   "tracks": [
     {
       "added_at": "2023-04-10 22:18:06",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 183813,
       "name": "A Mis Enemigos",
       "url": "https://open.spotify.com/track/0rRxqhX6w0IWTFSzzRFSOo"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -523,6 +503,22 @@
       "duration_ms": 138466,
       "name": "Me Gusta Estar Contigo",
       "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -759,34 +759,18 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "No Eres Tu Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
       "artists": [
         {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 154566,
-      "name": "No Eres Tu Soy Yo",
-      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -807,18 +791,34 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "No Eres Tu Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "No Eres Tu Soy Yo",
+      "url": "https://open.spotify.com/track/3pv9FKoXObVTMcS8gpLof4"
     },
     {
       "added_at": "2023-04-10 22:18:06",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-10 22:18:06",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2023-04-10 22:18:06",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "added_at": "2023-04-10 22:18:06",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2023-04-10 22:18:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,471 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,501 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 51 | [The Champ](https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [A New Sound \- A New Star, Vol\. 2](https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k) | 8:39 |
 | 52 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
 | 53 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
-| 54 | [Hush \- 2006 Digital Remaster](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |
-| 55 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
+| 54 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
+| 55 | [Hush \- 2006 Digital Remaster](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |
 | 56 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
 | 57 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
 | 58 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
-| 59 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
-| 60 | [The Changing Scene \- 1997 Remastered](https://open.spotify.com/track/6KVSsjymKbqcM1ejHfpKj9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 5:49 |
+| 59 | [The Changing Scene \- 1997 Remastered](https://open.spotify.com/track/6KVSsjymKbqcM1ejHfpKj9) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 5:49 |
+| 60 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
 | 61 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
 | 62 | [Say You're Mine \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:19 |
-| 63 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
+| 63 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
 | 64 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 65 | [Sundu \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 4:54 |
 | 66 | [Melanie \- Digital Remaster/2007](https://open.spotify.com/track/3UeixuVuezSNFGlN33AMc9) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Shades Of Redd \(Remastered\)](https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF) | 5:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 | 75 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 
-Snapshot ID: `MCw2MTZjMGE1YmVhZTViMTBlNjJhZjJjYzhiNGFmODJmNTg1NmNiOWYz`
+Snapshot ID: `MCw1YjNlNDU1OWY2OGRlOTZmY2M1ZTk1NDY3YTZhYThmZDIwYzVlNGY4`

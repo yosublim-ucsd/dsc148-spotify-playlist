@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,593 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,620 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 30 | [Throwed](https://open.spotify.com/track/2b3ys7QrXvrivhd9BbV3ae) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Throwed](https://open.spotify.com/album/3i9GWnZvyu5d8QZoh3ZEE3) | 3:14 |
 | 31 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 |
 | 32 | [Confetti](https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg) | 2:03 |
-| 33 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 |
-| 34 | [Hood](https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:09 |
+| 33 | [Hood](https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Must Be The Country](https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6) | 3:09 |
+| 34 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 |
 | 35 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 |
 | 36 | [We All Country \(feat\. Colt Ford, Sarah Ross & Charlie Farley\)](https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Calicountry](https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv) | 4:22 |
 | 37 | [If She Ain't Country \- Remix](https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [If She Ain't Country \(Remix\)](https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr) | 2:56 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 |
 | 74 | [Rodeo](https://open.spotify.com/track/66il80iAlMZqtGDRaHkg1n) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v) | [Rodeo](https://open.spotify.com/album/3bG0CVdUftTND8ovcRNRty) | 2:55 |
 
-Snapshot ID: `MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5`
+Snapshot ID: `MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx`

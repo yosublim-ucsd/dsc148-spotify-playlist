@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-105 songs - 7 hr 30 min
+106 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dissolve Me](https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:59 | 2023-05-17 |  |
 | [Don't Call It Love \- 12" Version](https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [On My Own](https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0) | 6:25 | 2023-05-17 |  |
 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 | 2023-05-17 |  |
+| [Down the Line \- It Takes a Number](https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Meditations on Afrocentrism](https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv) | 4:14 | 2023-05-17 |  |
 | [Easy Fraction](https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 1:15 | 2023-05-17 |  |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2023-05-17 |  |
 | [Feel Like I Do](https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Moog For Love](https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT) | 3:15 | 2023-05-17 |  |
@@ -88,7 +89,7 @@
 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 | 2023-05-17 |  |
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2023-05-17 |  |
 | [Psychic City \- Classixx Remix](https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [See Mystery Lights: Remixes & B\-Sides](https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb) | 4:11 | 2023-05-17 |  |
-| [Psylla](https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Glass Animals](https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU) | 3:31 | 2023-05-17 |  |
+| [Psylla](https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Glass Animals](https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU) | 3:31 | 2023-05-17 | 2023-06-02 |
 | [Recovery](https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Odyssey / Sonne](https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp) | 4:50 | 2023-05-17 |  |
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2023-05-17 |  |
 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 | 2023-05-17 |  |

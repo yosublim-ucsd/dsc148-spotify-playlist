@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,023 likes - 66 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,182 likes - 66 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 65 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 |
 | 66 | [Señal de Fuego](https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt) | 3:45 |
 
-Snapshot ID: `MCwzYTRmMTBhOGM1YWY4OTA5MzE5NDdmMTYyNzZkMWQyYWQwMGQ2OTgx`
+Snapshot ID: `MCxkOTVhOWFhYjE0MjRkZGU0OWZjYzI5MTZjMzFhMWQ4MjkyZjlmMzM2`

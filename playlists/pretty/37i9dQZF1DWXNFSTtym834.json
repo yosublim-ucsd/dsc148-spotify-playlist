@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1048808,
+  "num_followers": 1050064,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjk5OGVlZDEwZWE0OTA4ZjI3MTEwNDliMGIzMmI5ZjkwMGIwMmRh",
+  "snapshot_id": "MCxmZjFlN2YyZDViNWQzMmUwMGNjMWU4ZDE3YzhmY2Q1ZmFjZWE4MTA3",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Crimson Thunder",
         "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
-      },
-      "artists": [
-        {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "Rock The Rebel / Metal The Devil",
         "url": "https://open.spotify.com/album/14MqYITYLVQ8LJcWwvJEcy"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Primitive (Special Edition)",
-        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
       },
       "artists": [
         {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
         }
       ],
-      "duration_ms": 311986,
-      "name": "Jumpdafuckup",
-      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1243,6 +1227,22 @@
       "duration_ms": 234880,
       "name": "Are You Dead Yet?",
       "url": "https://open.spotify.com/track/52s05aBQd2LVc6EWIQCQI1"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Primitive (Special Edition)",
+        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Jumpdafuckup",
+      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1275,6 +1275,22 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "The Strength / The Sound / The Songs",
+        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "I Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1339,22 +1355,6 @@
       "duration_ms": 233520,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
-        "name": "The Strength / The Sound / The Songs",
-        "url": "https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "I Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
       "added_at": "2023-02-08 17:32:03",

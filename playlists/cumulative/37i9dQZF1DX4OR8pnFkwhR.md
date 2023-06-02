@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: れん
 
-872 songs - 2 day 5 hr 48 min
+873 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -789,7 +789,7 @@
 | [未来時代](https://open.spotify.com/track/6V9HXGJiFDFMGwM3UbvJfI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ハンサムなDANCE](https://open.spotify.com/album/50kLpT94afTKSgNHFOjinD) | 4:40 | 2022-07-12 | 2022-07-29 |
 | [本日の正体](https://open.spotify.com/track/6s4lNOLv2RGsDUFuqYRbDT) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [本日の正体](https://open.spotify.com/album/5GU5DbCBCYHmqSgKdWwJWn) | 3:25 | 2022-09-27 | 2022-09-29 |
 | [杞憂に終わる](https://open.spotify.com/track/2axjzLzEPS1josrCv6Fvaz) | [poor man's rose](https://open.spotify.com/artist/63OLmcaJaxBiEEq9JRl7E1) | [杞憂に終わる](https://open.spotify.com/album/3hzwmQWL89F5zgzzG2hnPB) | 3:24 | 2023-02-21 | 2023-03-29 |
-| [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 | 2023-04-27 |  |
+| [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 | 2023-04-27 | 2023-06-02 |
 | [東京](https://open.spotify.com/track/6B62diobHkpM87FTc3c8IW) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [東京](https://open.spotify.com/album/14EEv1uiqgqNTeLHl7eJOi) | 4:32 | 2022-05-17 | 2022-06-29 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-02-17 | 2022-06-15 |
 | [東京宣言](https://open.spotify.com/track/4UJ6oEkjMSHNXaN3HHnQis) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [東京宣言](https://open.spotify.com/album/25FZu1HO24irASqorZEyB6) | 3:02 | 2022-11-01 | 2022-12-14 |
@@ -848,6 +848,7 @@
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-03 | 2022-08-05 |
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-02-17 | 2022-03-23 |
 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 | 2022-10-13 | 2022-11-16 |
+| [花も咲かない束の間に](https://open.spotify.com/track/4ddWp9Fwhl1lUpnjWF6e4f) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [花も咲かない束の間に](https://open.spotify.com/album/0WOkn4kM1h2Cc0o5EaulNa) | 5:12 | 2023-06-01 |  |
 | [花を買って帰ろう](https://open.spotify.com/track/78QrIwpDlEELqk36mGjUqT) | [大聖堂](https://open.spotify.com/artist/26BY4teUzebcr1nzowaP1n) | [花を買って帰ろう](https://open.spotify.com/album/5ZkZNEOeklYCad6sOMB4iL) | 4:14 | 2022-08-02 | 2022-08-24 |
 | [花瓶](https://open.spotify.com/track/3S5obhtZyw30dJ2lfCualn) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:27 | 2022-06-18 | 2022-07-29 |
 | [花瓶](https://open.spotify.com/track/6P1utj8gYatYEPYLS0rPAp) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花瓶](https://open.spotify.com/album/7lo3NwZ7X29kF9GffDGVB0) | 3:27 | 2022-04-27 | 2022-06-01 |

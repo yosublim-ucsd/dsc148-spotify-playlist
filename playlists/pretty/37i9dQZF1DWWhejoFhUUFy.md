@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,082 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,320 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 17 | [Iktara \(From "Wake Up Sid"\)](https://open.spotify.com/track/0bmp0lE3ArELHqda9PBMVG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [I Love You...Forever](https://open.spotify.com/album/3v8bVKuoU4pdMhMx0hStRN) | 4:13 |
 | 18 | [Khaabon Ke Parinday](https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx) | [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 4:11 |
 | 19 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
-| 20 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
-| 21 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
+| 20 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
+| 21 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 |
 | 22 | [Shauq](https://open.spotify.com/track/2I0MIQhICYnKHvaxUHYH49) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Qala \(Music From The Netflix Film\)](https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW) | 4:16 |
 | 23 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 24 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 66 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 |
 | 67 | [Yeah Yeah](https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Yeah Yeah](https://open.spotify.com/album/6fikjsCSauJ6iiz0mqXdwm) | 2:41 |
 | 68 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 |
-| 69 | [Sham \- Sunset Edition By Nikhil Dsouza](https://open.spotify.com/track/6C6pDXNyAUTVkM1us9jApO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Sham \(Sunset Edition By Nikhil Dsouza\)](https://open.spotify.com/album/3v24ZyDKEepP51BboVRMLd) | 1:10 |
-| 70 | [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 |
+| 69 | [Tu Jo Paas](https://open.spotify.com/track/3QAxGU5rQVhTsPYVuRBpIM) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas](https://open.spotify.com/album/7mGFMYF0Mth00afB1mlgsR) | 3:32 |
+| 70 | [Sham \- Sunset Edition By Nikhil Dsouza](https://open.spotify.com/track/6C6pDXNyAUTVkM1us9jApO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Sham \(Sunset Edition By Nikhil Dsouza\)](https://open.spotify.com/album/3v24ZyDKEepP51BboVRMLd) | 1:10 |
 | 71 | [Sooha Saaha](https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt) | [Zeb](https://open.spotify.com/artist/1Gw0Q0Oyi46o9Qd5oOQuv9), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Highway](https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI) | 4:59 |
 | 72 | [Zaroori Nahi](https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Dhun](https://open.spotify.com/album/4WogXQVX9nOrjbaTzFXnGN) | 2:19 |
 | 73 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
 | 74 | [Tere Jaisa](https://open.spotify.com/track/5se0sLcaUymYKRUm0lCBgt) | [Vaibhav Bundhoo](https://open.spotify.com/artist/2qV4ArHDzLVSdX6GWy5R1z), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Kota Factory: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/4Zp0BZ2ttqNsB92BjMJddM) | 5:12 |
 | 75 | [Ye Teri Meri Kahani](https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Sumedha Karmahe](https://open.spotify.com/artist/4MEdY6uFLSNWHq4kKrDx4j) | [Ye Teri Meri Kahani](https://open.spotify.com/album/0iW00NWqfNMXBxfAfJ9TDg) | 3:21 |
 
-Snapshot ID: `MCwxOWEzNWM4NTA1NmE5NDU2ZDgyYzVhNmY1ZmRhNmU0NzFiZmM2YzI2`
+Snapshot ID: `MCw3ZjMzZWQzMzBhN2U1M2Y4MzMyNzg5YWI1MzUzNmZiNjFlNzU2NzIz`

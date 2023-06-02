@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Inderpal Moga & Channi Nattan
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,606 likes - 76 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,648 likes - 76 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:20 |
 | 10 | [Muchh \(From " Yaaran Da Rutbaa\)](https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Muchh \(From " Yaaran Da Rutbaa\)](https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq) | 2:28 |
 | 11 | [Case](https://open.spotify.com/track/2fRHKT0pS5NyKW32fhLIUb) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Case](https://open.spotify.com/album/3U4DrXSmQRhFQGU7NYvaBs) | 2:04 |
-| 12 | [Vaardaat](https://open.spotify.com/track/2AxJy6T57H1eJnxZ2sb9Ir) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Dusk N Dawn](https://open.spotify.com/album/2GB5XPYMcM9ezM5g47mtKo) | 2:27 |
+| 12 | [Vaardaat](https://open.spotify.com/track/2AxJy6T57H1eJnxZ2sb9Ir) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Dusk N Dawn](https://open.spotify.com/album/2GB5XPYMcM9ezM5g47mtKo) | 2:27 |
 | 13 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 |
 | 14 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 |
 | 15 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 75 | [Shartan](https://open.spotify.com/track/6eMG3Ofah1FiO6N8L4Y3Cp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz) | [Shartan](https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV) | 2:40 |
 | 76 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 |
 
-Snapshot ID: `MCwxN2RkMDNlZGNmNzgzYWRmMjRlM2Y1MGJlOGI5MTY2MDcwOGM4NTQ0`
+Snapshot ID: `MCwzYTZiMGI2MWQ0NWYwMDIyZmU5MWEwZjhmNjIwZDg0YjhlODZjYzhh`

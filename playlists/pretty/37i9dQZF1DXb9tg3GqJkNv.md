@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,804 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,872 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 56 | [WOO!](https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [HOOD AVANT\-GARDE \(Deluxe\)](https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k) | 2:48 |
 | 57 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 |
 | 58 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 |
-| 59 | [• RIGHT NOW](https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:22 |
+| 59 | [NightmareZ](https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c) | 1:49 |
 | 60 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
-| 61 | [NightmareZ](https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c) | 1:49 |
+| 61 | [• RIGHT NOW](https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:22 |
 | 62 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 |
 | 63 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
 | 64 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [401](https://open.spotify.com/track/3mej8S2elvgSBwZMoWzMjr) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [401](https://open.spotify.com/album/7GayrcbuLwu1t9VE0CMd6Z) | 2:42 |
 | 75 | [Sleep Like A Baby](https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS) | 2:46 |
 
-Snapshot ID: `MCxiYmY3MmIwZTY2YTJiYjI4OTlmY2EzYzdhNTE1ZjI4OWMxNGNmZDUx`
+Snapshot ID: `MCwyYmE3YTg4ZjViZDNiZTkwNzViM2MzODJkODdkOGE5MzU3Nzg5OGU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,134 likes - 59 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,142 likes - 59 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 36 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
 | 37 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 |
 | 38 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 |
-| 39 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
-| 40 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
+| 39 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
+| 40 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 41 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
 | 42 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
 | 43 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 52 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
 | 53 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
 | 54 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
-| 55 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
-| 56 | [How to build an automaton](https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc) | 3:51 |
-| 57 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
+| 55 | [How to build an automaton](https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7) | [Lucy Liyou](https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1) | [Welfare / Practice](https://open.spotify.com/album/1O05SuJmpU1j9PtraWRaXc) | 3:51 |
+| 56 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
+| 57 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
 | 58 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 | 59 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
 
-Snapshot ID: `MCw1ZGI4YzNiZjU5MTE4MWUyOWQxYmRlNGMzY2M2NjkwYjMxOTljMTYx`
+Snapshot ID: `MCxhNWNjZmYwNjYyMDIxZjQyNjhlMmE5NjljODIzOTJlY2U0OWQ5NGEw`

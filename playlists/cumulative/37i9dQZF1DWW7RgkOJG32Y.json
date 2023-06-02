@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Warren Zeiders",
+  "description": "Top trending country tracks from the last few months. Cover: Mickey Guyton",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 196890,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz"
@@ -2106,6 +2106,28 @@
       "duration_ms": 213733,
       "name": "I Hate Alabama",
       "url": "https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78"
+    },
+    {
+      "album": {
+        "name": "I Still Love You",
+        "url": "https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224149,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
     },
     {
       "album": {
@@ -3939,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+    },
+    {
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -4184,7 +4224,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 162841,
       "name": "Sundown Somewhere",
       "url": "https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A"

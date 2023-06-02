@@ -1,12 +1,12 @@
 {
   "description": "Up tempo jazz classics.",
-  "num_followers": 5297,
+  "num_followers": 5378,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjUzNjAyM2U0ZDZkZmNmNGQ5ZjYwOGQzZWMwMmZlZWRlZjhkOTIz",
+  "snapshot_id": "MCxkMjVlYTdlZDI4ZWJlOTU4YzM5MjViNTZkNTZjMjliOGYzN2Y4YjVl",
   "tracks": [
     {
       "added_at": "2023-05-31 07:42:33",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-31 07:42:33",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Limehouse Blues",
-      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
-    },
-    {
-      "added_at": "2023-05-31 07:42:33",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 323773,
       "name": "Minority",
       "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
+    },
+    {
+      "added_at": "2023-05-31 07:42:33",
+      "album": {
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Limehouse Blues",
+      "url": "https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i"
     },
     {
       "added_at": "2023-05-31 07:42:33",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-05-31 07:42:33",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 417720,
-      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
     },
     {
       "added_at": "2023-05-31 07:42:33",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-05-31 07:42:33",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
+      "duration_ms": 417720,
+      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
     },
     {
       "added_at": "2023-05-31 07:42:33",

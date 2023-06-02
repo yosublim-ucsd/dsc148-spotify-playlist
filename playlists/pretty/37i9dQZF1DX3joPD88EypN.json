@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 26866,
+  "num_followers": 26898,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2FiOGViMDcxODFjMTJiNDJjOTI3ZmJjMzUzOGVhODU2YjE4NWI1",
+  "snapshot_id": "MCxhN2UyM2U3ZWExZWZiZTkzNTE3NGQwMmUxYjlmODU0YWVhMmI4MGU2",
   "tracks": [
     {
       "added_at": "2023-05-31 08:13:40",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 278680,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "2021",
-        "url": "https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 128813,
-      "name": "2021",
-      "url": "https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "Khmer",
         "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 301026,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "2021",
+        "url": "https://open.spotify.com/album/6m2Lew9fzZPIXJfjsHKsQG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 128813,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/2dgbGjFtZzUMq6iyDC39a6"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
         "name": "Dwell Time",
         "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
       },
@@ -471,6 +487,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
+        "name": "Changing Places",
+        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 496693,
+      "name": "Song Of Yearning",
+      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
         "name": "Summerwind",
         "url": "https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 233040,
       "name": "Un Vestido y un Amor",
       "url": "https://open.spotify.com/track/74uViEHEh4ZLAixYHOjR9Q"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
-        "name": "Changing Places",
-        "url": "https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 496693,
-      "name": "Song Of Yearning",
-      "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/4cAg6MR7qwKMTnEERZNb1K"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 222762,
-      "name": "Honey in Your Head",
-      "url": "https://open.spotify.com/track/5BXqXJxV5qqCQ7SzAzGDVn"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 307356,
       "name": "Winx",
       "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/4cAg6MR7qwKMTnEERZNb1K"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 222762,
+      "name": "Honey in Your Head",
+      "url": "https://open.spotify.com/track/5BXqXJxV5qqCQ7SzAzGDVn"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
         "name": "V\u00e5g",
         "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
       },
@@ -711,26 +727,6 @@
       "duration_ms": 311450,
       "name": "V\u00e5g",
       "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
-        "name": "Vinterm\u00f8rke",
-        "url": "https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF"
-      },
-      "artists": [
-        {
-          "name": "Espen Berg Trio",
-          "url": "https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk"
-        },
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 438573,
-      "name": "Vinterm\u00f8rke",
-      "url": "https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+        "name": "Vinterm\u00f8rke",
+        "url": "https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Espen Berg Trio",
+          "url": "https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk"
+        },
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
         }
       ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+      "duration_ms": 438573,
+      "name": "Vinterm\u00f8rke",
+      "url": "https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Cirklar",
-        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Vulkanen",
-      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "A Year From Easter",
         "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 204800,
       "name": "Eliasong",
       "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Cirklar",
+        "url": "https://open.spotify.com/album/5TIo91wP9nusWE2LJTKzPM"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Vulkanen",
+      "url": "https://open.spotify.com/track/7nTTRAinXFN70lO4CIDEqC"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 411640,
-      "name": "Polska Of Despair (1)",
-      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "tide",
         "url": "https://open.spotify.com/album/2PI9rOUfbuuN7FoQWlAuzG"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 242840,
       "name": "tide",
       "url": "https://open.spotify.com/track/3oL0879uE3RmjqrUNJzae8"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 411640,
+      "name": "Polska Of Despair (1)",
+      "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -1311,6 +1295,22 @@
       "duration_ms": 380306,
       "name": "The Pondering",
       "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
-      },
-      "artists": [
-        {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
-        }
-      ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2023-05-31 08:13:40",
       "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
         "name": "No City, No Tree, No Lake",
         "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 155000,
       "name": "Almost Romance",
       "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
-    },
-    {
-      "added_at": "2023-05-31 08:13:40",
-      "album": {
-        "name": "Ancient Land, New Territory",
-        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
-      },
-      "artists": [
-        {
-          "name": "Jonas Sj\u00f8vaag",
-          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
-        },
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        }
-      ],
-      "duration_ms": 459000,
-      "name": "Sacred Rituals",
-      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
     },
     {
       "added_at": "2023-05-31 08:13:40",
@@ -1663,6 +1643,26 @@
       "duration_ms": 263137,
       "name": "Height of the Reeds in the Wetlands",
       "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
+    },
+    {
+      "added_at": "2023-05-31 08:13:40",
+      "album": {
+        "name": "Ancient Land, New Territory",
+        "url": "https://open.spotify.com/album/6IefZoNhUs1R1QONYERDRe"
+      },
+      "artists": [
+        {
+          "name": "Jonas Sj\u00f8vaag",
+          "url": "https://open.spotify.com/artist/544mcLr8VsXi1swrijY3fT"
+        },
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        }
+      ],
+      "duration_ms": 459000,
+      "name": "Sacred Rituals",
+      "url": "https://open.spotify.com/track/4fibLzZCLwcyvsO4Y2MFel"
     },
     {
       "added_at": "2023-05-31 08:13:40",

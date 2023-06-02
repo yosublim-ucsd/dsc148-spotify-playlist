@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 ### [Partyhymnen](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
 
-> Feiern mit den größten aktuellen Partyhits.
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,648 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,758 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 27 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 |
 | 28 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 |
 | 29 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
-| 30 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
-| 31 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
+| 30 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
+| 31 | [Auf die Party](https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Auf die Party](https://open.spotify.com/album/57Mo2UNrJR14lhdZU5WXbt) | 2:44 |
 | 32 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 33 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
 | 34 | [ONLY 4 LIFE \- Remix](https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG) | [ONLY 4 LIFE \(Remix\)](https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [Another Love](https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Another Love](https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt) | 2:25 |
 | 50 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
 
-Snapshot ID: `MCxhYWM0N2UwYWQxYjdjNzVlMDliOWJjZWY2M2NhYjMwN2MxYmZjYzQ4`
+Snapshot ID: `MCxmNDZkMmRhM2EwZDkwZWZkMjZhZDE3MjExZGIxZTk4ODdhYzAyNzI0`

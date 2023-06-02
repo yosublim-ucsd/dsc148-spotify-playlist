@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 38289,
+  "num_followers": 38327,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWQ1OWYwOGM3Njg0YTIzNWI2NWI3MTgxOWQ1MGI0NTJmMzg0YzI4",
+  "snapshot_id": "MCxlMjZhZTg0MzY1NmMwYzJkNzFmODdkZWE2NmE0ZmY2OTkwYjgxNjYz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 288595,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 288595,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 137600,
       "name": "Sunflower (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53KFMdxzi8IJDewiql1Qo3"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
     },
     {
       "added_at": "2022-09-16 04:53:36",

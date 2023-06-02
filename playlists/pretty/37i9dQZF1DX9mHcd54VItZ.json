@@ -1,13 +1,29 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=wuOtEBzWToCasefmfKZ4MA\">Francois van Coke</a> & <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=SCgiaHbeSkaolPvPmCrHMA\">Zaan Sonnekus</a> ",
-  "num_followers": 13189,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW?si=4twYCzxJR8O5Ue4aF3qqnw\">BCUC</a> ",
+  "num_followers": 13201,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzA3NjQ2OWNmYmE5ZGY3ZDkxYjE1YWE0ZmIzYTZkMWJhYWMwMjgx",
+  "snapshot_id": "MCxiZWNlYWRkZWU1NGU4YjFiMzUyODgzZmRiN2M0Y2I5NDIxZjBjMzM2",
   "tracks": [
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "Millions of Us",
+        "url": "https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 314679,
+      "name": "Millions of Us - Part 2",
+      "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
+    },
     {
       "added_at": "2023-05-25 21:59:00",
       "album": {
@@ -93,20 +109,20 @@
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
+      "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Caravan In The Mist",
-        "url": "https://open.spotify.com/album/63n0zHzpn8Ov5yNoSUoRnE"
+        "name": "Pink Codeine",
+        "url": "https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe"
       },
       "artists": [
         {
-          "name": "Mann Friday",
-          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
         }
       ],
-      "duration_ms": 206772,
-      "name": "Caravan In The Mist",
-      "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
+      "duration_ms": 209140,
+      "name": "Pink Codeine",
+      "url": "https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -127,6 +143,22 @@
       "duration_ms": 280248,
       "name": "Hoer In Beton",
       "url": "https://open.spotify.com/track/7wCIoRoxOnYx7DTUUfbOYy"
+    },
+    {
+      "added_at": "2023-02-16 21:59:00",
+      "album": {
+        "name": "Caravan In The Mist",
+        "url": "https://open.spotify.com/album/63n0zHzpn8Ov5yNoSUoRnE"
+      },
+      "artists": [
+        {
+          "name": "Mann Friday",
+          "url": "https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "Caravan In The Mist",
+      "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
     },
     {
       "added_at": "2023-04-20 21:59:00",
@@ -229,20 +261,20 @@
       "url": "https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j"
     },
     {
-      "added_at": "2023-05-18 21:59:00",
+      "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg"
+        "name": "Eating Dirt",
+        "url": "https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO"
       },
       "artists": [
         {
-          "name": "Hunter Kennedy",
-          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+          "name": "Drumfish",
+          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
         }
       ],
-      "duration_ms": 171254,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj"
+      "duration_ms": 196118,
+      "name": "Greetings from The Room",
+      "url": "https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE"
     },
     {
       "added_at": "2023-05-05 04:14:59",
@@ -295,6 +327,22 @@
       "duration_ms": 213706,
       "name": "Redgrave",
       "url": "https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "BEAUTIFUL LIES",
+        "url": "https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "BEAUTIFUL LIES",
+      "url": "https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI"
     },
     {
       "added_at": "2023-05-05 04:14:59",
@@ -393,42 +441,6 @@
       "url": "https://open.spotify.com/track/4EZKWCPXpE1Oj8vI1U845y"
     },
     {
-      "added_at": "2023-05-05 04:14:59",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF"
-      },
-      "artists": [
-        {
-          "name": "Fortunes Fool",
-          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
-        }
-      ],
-      "duration_ms": 262682,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/1NXO41gIxIzpBVc3JIO00v"
-    },
-    {
-      "added_at": "2023-05-11 21:59:00",
-      "album": {
-        "name": "The Catch",
-        "url": "https://open.spotify.com/album/6wnE6Z6tjC6vqB4tmXuLc5"
-      },
-      "artists": [
-        {
-          "name": "I'm With The Singer",
-          "url": "https://open.spotify.com/artist/0btcQ5EaeZzyVMuNZgNu3D"
-        },
-        {
-          "name": "Sannie Fox",
-          "url": "https://open.spotify.com/artist/7D5bb69WMeC1jB8yP1uXnI"
-        }
-      ],
-      "duration_ms": 228462,
-      "name": "The Catch",
-      "url": "https://open.spotify.com/track/0VB56GzZ6iyMcj16dwqM2h"
-    },
-    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Shopping Bags",
@@ -493,22 +505,6 @@
       "url": "https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI"
     },
     {
-      "added_at": "2023-04-20 21:59:00",
-      "album": {
-        "name": "Ntuthwane",
-        "url": "https://open.spotify.com/album/6H3Afy1rryTXuENzc6JQhy"
-      },
-      "artists": [
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        }
-      ],
-      "duration_ms": 125116,
-      "name": "Ntuthwane",
-      "url": "https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9"
-    },
-    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Melissa",
@@ -523,6 +519,22 @@
       "duration_ms": 205920,
       "name": "Melissa",
       "url": "https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4"
+    },
+    {
+      "added_at": "2023-06-01 21:59:00",
+      "album": {
+        "name": "She's Heavenly",
+        "url": "https://open.spotify.com/album/3BvK4KOrQSqfbI99e8oQXl"
+      },
+      "artists": [
+        {
+          "name": "The Incidentals",
+          "url": "https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS"
+        }
+      ],
+      "duration_ms": 210486,
+      "name": "She's Heavenly",
+      "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -577,20 +589,20 @@
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
-      "added_at": "2023-04-20 21:59:00",
+      "added_at": "2023-06-01 21:59:00",
       "album": {
-        "name": "Hawema",
-        "url": "https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89"
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm"
       },
       "artists": [
         {
-          "name": "Hawema",
-          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
+          "name": "Naranjo",
+          "url": "https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R"
         }
       ],
-      "duration_ms": 287425,
-      "name": "Wabaleka",
-      "url": "https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF"
+      "duration_ms": 291529,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -721,6 +733,22 @@
       "url": "https://open.spotify.com/track/5byP45prtT0kxbXDWM4S0n"
     },
     {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg"
+      },
+      "artists": [
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        }
+      ],
+      "duration_ms": 171254,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj"
+    },
+    {
       "added_at": "2023-04-14 03:54:26",
       "album": {
         "name": "ek voel ek droom",
@@ -735,38 +763,6 @@
       "duration_ms": 141633,
       "name": "ek voel ek droom",
       "url": "https://open.spotify.com/track/7HuYCgwSa2bizw72pSXwvn"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Crazy Meisie",
-        "url": "https://open.spotify.com/album/4ArWlcEJMCqRt5CIWNX8hU"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Crazy Meisie",
-      "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
-    },
-    {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7dH1gsdcvGYlURx0XWzbiR"
-      },
-      "artists": [
-        {
-          "name": "Jonny and the Fellow Revellers",
-          "url": "https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8"
-        }
-      ],
-      "duration_ms": 216450,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu"
     },
     {
       "added_at": "2023-03-09 21:59:00",

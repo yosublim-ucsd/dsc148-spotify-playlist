@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,427 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,516 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 31 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 32 | [If Only You Knew](https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 5:09 |
 | 33 | [Open Your Eyes](https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Sketches Of A Man](https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH) | 3:21 |
-| 34 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
-| 35 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 34 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
+| 35 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/4fw9tzAk23Os1aeHVfvPeE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions](https://open.spotify.com/album/4SciWnD9PHmrHe2dnw916K) | 4:41 |
 
-Snapshot ID: `MCw3NTkzMzY3YzU0YWJkYjkwMWRiNGYxZjdlNzNmYTBiMmJkMTc5ODZl`
+Snapshot ID: `MCw1N2RmZjgwZTI5MjA2NWJiOWM5NmYzY2IxMTAzOTIzNmIwZTNmMzQ1`

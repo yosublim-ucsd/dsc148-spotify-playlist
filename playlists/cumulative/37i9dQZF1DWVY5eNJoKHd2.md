@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-323 songs - 20 hr 28 min
+324 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 | 2023-03-17 | 2023-03-29 |
 | [Lavish Lullaby](https://open.spotify.com/track/4dulFGnSzdNW3iNdxxzgy7) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 3:17 | 2021-12-29 | 2022-04-14 |
 | [Let Go](https://open.spotify.com/track/1NCWXbUyF88ee30OMAe7dO) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/429Bd8x5qNmBK9z6lyOXr6) | 2:56 | 2021-12-16 | 2022-06-08 |
+| [Let Go](https://open.spotify.com/track/07mdQUH1Cy5j4mTpyG6IOe) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/2jyHYK0byP7L61nlSJf4Wn) | 4:08 | 2023-05-19 |  |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2023-03-29 | 2023-05-05 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-04-12 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 | 2023-05-20 |
@@ -253,7 +254,7 @@
 | [Siren Song](https://open.spotify.com/track/3Wnnci3vKfzcdHRRohWOU0) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Angel Deradoorian](https://open.spotify.com/artist/7a9GnOsFaJizxiUVLpcwcC) | [You're Dead!](https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj) | 2:37 | 2021-12-16 | 2022-04-21 |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2021-12-16 | 2022-07-20 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-27 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 | 2022-05-24 | 2022-06-15 |
 | [Slip Away](https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:45 | 2022-04-11 | 2022-04-14 |
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-20 |  |

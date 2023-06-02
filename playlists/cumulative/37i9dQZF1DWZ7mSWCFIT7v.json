@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+      },
+      "artists": [
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
+    },
+    {
+      "album": {
         "name": "Conga Album",
         "url": "https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX"
       },
@@ -2890,7 +2908,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 340590,
       "name": "Los muertos no lloran",
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
@@ -5346,7 +5364,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
@@ -5808,6 +5826,24 @@
       "duration_ms": 58906,
       "name": "Whatcomesup96 - Mixed",
       "url": "https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5"
+    },
+    {
+      "album": {
+        "name": "Journey into Mr Re",
+        "url": "https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Sciences",
+          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411886,
+      "name": "Whipping Spree",
+      "url": "https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-197 songs - 12 hr 38 min
+198 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 | 2021-10-29 |  |
 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 | 2021-10-29 |  |
 | [By Night](https://open.spotify.com/track/2avzCVT0Zo4dgkp2vBgHOJ) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/7wOI4ZyLe9oNEdfa5AHgsg) | 3:38 | 2021-10-29 | 2022-07-28 |
-| [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
+| [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 | 2023-06-02 |
 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 | 2021-10-29 |  |
 | [Carry You](https://open.spotify.com/track/1MwdkGVOmlOEj13DBQHPuJ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Carry You](https://open.spotify.com/album/33XfLlgdcBspajzKFuTQcb) | 4:33 | 2021-10-29 | 2022-07-29 |
 | [Coastline](https://open.spotify.com/track/2R9nJvZx7oL9eLDXjvRece) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Coastline](https://open.spotify.com/album/4stUCU94caBHJFOXjD2xg5) | 3:53 | 2021-10-29 | 2022-07-29 |
@@ -63,6 +63,7 @@
 | [El Búho](https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Colder Heavens EP](https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ) | 3:51 | 2021-10-29 |  |
 | [Elk Grove](https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Elk Grove](https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I) | 3:35 | 2023-03-17 |  |
 | [Farm](https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK) | 4:43 | 2021-10-29 |  |
+| [Filthy Rich](https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Filthy Rich](https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg) | 2:01 | 2023-05-19 |  |
 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 | 2021-10-29 | 2022-07-29 |
 | [Forest Fires](https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9) | 3:30 | 2021-10-29 |  |
 | [Forever Means](https://open.spotify.com/track/2OGXIpzLiNf1aKvoEjnNRR) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Forever Means](https://open.spotify.com/album/6VHVjHm8c0RVdeGL6qzU87) | 3:27 | 2023-04-14 |  |

@@ -4277,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
+    },
+    {
+      "album": {
         "name": "Room 156",
         "url": "https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr"
       },
@@ -4670,7 +4688,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 222544,
       "name": "Song About Love",
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"

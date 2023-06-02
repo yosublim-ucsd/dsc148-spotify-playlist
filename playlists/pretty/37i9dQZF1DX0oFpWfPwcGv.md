@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,962 likes - 75 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,009 likes - 75 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 36 | [Keep On Jumpin'](https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF) | [Musique](https://open.spotify.com/artist/5JO0fCMUiEJtUQjyOXyaCl) | [Keep On Jumpin'](https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW) | 5:39 |
 | 37 | [Dance \(Disco Heat\)](https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo) | 5:55 |
 | 38 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 |
-| 39 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
-| 40 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 39 | [Stand on the Word \(Studio Version\)](https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR) | [The Joubert Singers](https://open.spotify.com/artist/2uGpuH0yo0iKx6rBqfgiA9) | [Stand on the Word](https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M) | 5:03 |
+| 40 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 |
 | 41 | [Automatic \- 12" Special Remix](https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 6:06 |
 | 42 | [Thinking of You \- Dimitri from Paris Remix; 2018 Remaster](https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Dimitri From Paris Presents Le CHIC Remix](https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg) | 6:29 |
 | 43 | [MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise](https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 17:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 55 | [Love Is in Control \(Finger on the Trigger\) \[2014 Remaster\]](https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer \(Re\-Mastered & Expanded\)](https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z) | 4:22 |
 | 56 | [Found a Cure \- 12" Disco Mix](https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw) | [Ashford & Simpson](https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi) | [Hits, Remixes and Rarities: The Warner Brothers Years](https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY) | 7:03 |
 | 57 | [Let No Man Put Asunder \- Shep Pettibone 12" Mix](https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Shep Pettibone](https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 8:01 |
-| 58 | [Casanova \- Extended Version](https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 6:11 |
-| 59 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
+| 58 | [A Night in New York \- Remastered](https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2) | [Elbow Bones And The Racketeers](https://open.spotify.com/artist/3ybGU1QPtfQ5QJHmaPjqmj) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:21 |
+| 59 | [Casanova \- Extended Version](https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 6:11 |
 | 60 | [Love Is You \- A Tom Moulton Mix](https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | ['Lectric Lady](https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB) | 7:53 |
 | 61 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
 | 62 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 | 75 | [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 |
 
-Snapshot ID: `MCxmZWYwMjUxMTQ0OGQ3N2M1ZjJmOGE0NDMzYmIyNmZmZjYzNGRiY2I1`
+Snapshot ID: `MCw3MzA1NmJkNjIyMDdlNWY5YThmZDQxNDljYTU3ZjJhZDQ1MTA2ZjAz`

@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 309767,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5xOmruHbdLlhpDG1DZEyj7"
@@ -344,10 +344,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 366540,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/0cPfUHZzcYDdk1L1iJ5Pza"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3TQJC7ExA4az1Xtv3niT4D"
+      },
+      "artists": [
+        {
+          "name": "Safire",
+          "url": "https://open.spotify.com/artist/0RUdbVM6eQL5oCoh6VHTDB"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366540,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1okj0LECQjsWMu20HA9Ici"
     },
     {
       "album": {
@@ -523,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229028,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/44WJ9lfLRsyQk7NjkGh8Sy"
       },
@@ -636,7 +672,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 284137,
       "name": "Fight You",
       "url": "https://open.spotify.com/track/5gv7MLLwa8Bqk2ototHmfI"
@@ -734,7 +770,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 217931,
       "name": "Giants",
       "url": "https://open.spotify.com/track/6YZfLjsFTrRS8EtGLDY24Y"
@@ -763,6 +799,24 @@
     },
     {
       "album": {
+        "name": "GOTTA GET THRU THIS (Cover)",
+        "url": "https://open.spotify.com/album/2uQFYWvVDvDSjBnIM526DM"
+      },
+      "artists": [
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172752,
+      "name": "GOTTA GET THRU THIS",
+      "url": "https://open.spotify.com/track/0btCtiRbKxfoSeXweQMcHr"
+    },
+    {
+      "album": {
         "name": "gutter",
         "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
       },
@@ -774,7 +828,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 127180,
       "name": "gutter",
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
@@ -832,7 +886,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 241061,
       "name": "Hero Of My Youth",
       "url": "https://open.spotify.com/track/37tXsgk0HpjY2cu8xImIK8"
@@ -1151,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Night Rides",
+        "url": "https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG"
+      },
+      "artists": [
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "Night Rides",
+      "url": "https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO"
+    },
+    {
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT"
       },
@@ -1374,7 +1446,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 260000,
       "name": "Running Blind",
       "url": "https://open.spotify.com/track/1haDtHJoXaxhDVgEyS2Qwg"
@@ -1582,7 +1654,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 183529,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/4fLJwiVRfyMkYf0c1n5EaP"
@@ -1710,7 +1782,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 248275,
       "name": "Take What You Want",
       "url": "https://open.spotify.com/track/4kVHvoi8OOQFp1ZV5kYNwd"

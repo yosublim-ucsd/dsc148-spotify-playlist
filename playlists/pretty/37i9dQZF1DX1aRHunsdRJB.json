@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9341,
+  "num_followers": 9353,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjI4MTQ5MDMwN2M4YTMxYTgyYWNhN2NjMjBkOTBiZTZmZjgzYTk5",
+  "snapshot_id": "MCxiY2ZjNTM5Zjc3YmUzMjIwYzQ5YjMwNmY4YWZlN2I4NmFhYWIyZWE2",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Sick Jab Riddim (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
+      },
+      "artists": [
+        {
+          "name": "Kisha",
+          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "The People Man (T.P.M.)",
+      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Sick Jab Riddim (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj"
-      },
-      "artists": [
-        {
-          "name": "Kisha",
-          "url": "https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ"
-        }
-      ],
-      "duration_ms": 135941,
-      "name": "The People Man (T.P.M.)",
-      "url": "https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T"
     },
     {
       "added_at": "2022-02-24 18:00:00",

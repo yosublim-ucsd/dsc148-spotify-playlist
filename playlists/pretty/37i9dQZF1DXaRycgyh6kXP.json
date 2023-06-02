@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 177703,
+  "num_followers": 177831,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDIxZTA4ZjkyMjk2ZTg0YTU2YzI4MWRlZDNlNzNmZTk2OWI0ZDYx",
+  "snapshot_id": "MCwxYTllYmYwZjBkMTMwMDQ0OTE2YWZmMGQ0NTE0ZmRhZTMwMTgzZmRl",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 299448,
+      "name": "Way Ur Touchin Me",
+      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
         "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 299448,
-      "name": "Way Ur Touchin Me",
-      "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Crooks & Lovers",
-        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 250338,
-      "name": "Before I Move Off",
-      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Appeayl 2 U",
         "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 236703,
       "name": "Appeayl 2 U part 1",
       "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Crooks & Lovers",
+        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 250338,
+      "name": "Before I Move Off",
+      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 340276,
-      "name": "As Much as Possible",
-      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Bright Serpent",
         "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 340276,
+      "name": "As Much as Possible",
+      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 246706,
-      "name": "Kodomotachi",
-      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Come To Canada You Will Like It",
         "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 245510,
       "name": "Fine Match",
       "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 246706,
+      "name": "Kodomotachi",
+      "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Natura Sophia",
         "url": "https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 243414,
       "name": "Natura Sophia",
       "url": "https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
         }
       ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "L.O.S.S.",
-        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
       },
       "artists": [
         {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 267250,
-      "name": "Nobody New Around You",
-      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     },
     {
       "added_at": "2022-02-03 02:43:26",

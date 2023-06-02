@@ -2158,10 +2158,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 270453,
       "name": "Sembrando Amor",
       "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
+    },
+    {
+      "album": {
+        "name": "Vagamundo",
+        "url": "https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270453,
+      "name": "Sembrando Amor",
+      "url": "https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p"
     },
     {
       "album": {

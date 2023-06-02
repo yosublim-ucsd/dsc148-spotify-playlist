@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "JAG HAR ALDRIG BRYTT MIG OM DITT NAMN!!",
+  "description": "VAD H\u00c4NDER YRAN??",
   "name": "30 km/h",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 178875,
       "name": "ALFASTUK",
       "url": "https://open.spotify.com/track/5lORPzX2alrR779aRECIV1"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 168000,
       "name": "Banan Melon Kiwi & Citron",
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165203,
       "name": "CHEVROLET",
       "url": "https://open.spotify.com/track/7v5nviw6wkfclIbXKsRQ1S"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 142376,
       "name": "DANS",
       "url": "https://open.spotify.com/track/7eFhEOgNajLPQKlKW4SDep"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 153431,
       "name": "DET ENDA JAG VILL G\u00d6RA",
       "url": "https://open.spotify.com/track/2k8B6UYGcLWwqyKWxcPbUU"
@@ -2050,6 +2050,28 @@
       "duration_ms": 203785,
       "name": "Det flammar till - J.O.X EPA Remix",
       "url": "https://open.spotify.com/track/6m4RkZuqJQ1irePbIe77pe"
+    },
+    {
+      "album": {
+        "name": "Det m\u00e5ste g\u00e5 att dansa till (DJ Grillvante Remix)",
+        "url": "https://open.spotify.com/album/3Ta0osPh96KlH3cNUkEF2n"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        },
+        {
+          "name": "DJ Grillvante",
+          "url": "https://open.spotify.com/artist/4dvpapP7dm2oCP7fUdiO5g"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223877,
+      "name": "Det m\u00e5ste g\u00e5 att dansa till - DJ Grillvante Remix",
+      "url": "https://open.spotify.com/track/3WUoV6fI33KDshGlMIXKXd"
     },
     {
       "album": {
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 97163,
       "name": "Du kan inte f\u00e5 min \u00f6l - Sped Up Version",
       "url": "https://open.spotify.com/track/0rEY6TqIyDopF45BJDsHeq"
@@ -2528,7 +2550,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 129817,
       "name": "Dubbel D",
       "url": "https://open.spotify.com/track/2jAGW5r4OfOJ8gj8qGUWVL"
@@ -4124,7 +4146,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 125422,
       "name": "Fuffens",
       "url": "https://open.spotify.com/track/7onPLbjRe07eKYEMQOK3Ma"
@@ -5133,6 +5155,24 @@
     },
     {
       "album": {
+        "name": "HATAR DIG",
+        "url": "https://open.spotify.com/album/5vX26nV3QDxfJC9yQofQmB"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "HATAR DIG",
+      "url": "https://open.spotify.com/track/1ntGXeiRPChdQ8xYU6cOB1"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/3Z79S5Lzes0y0LNxjzRwic"
       },
@@ -5270,7 +5310,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 119124,
       "name": "HELA HAVET STORMAR",
       "url": "https://open.spotify.com/track/6QXkg9SKEx4XqOKONfriOC"
@@ -5550,6 +5590,24 @@
       "duration_ms": 128690,
       "name": "Hon kan inte banka pl\u00e5t",
       "url": "https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9"
+    },
+    {
+      "album": {
+        "name": "Hon vill ha mig",
+        "url": "https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq"
+      },
+      "artists": [
+        {
+          "name": "TUAI",
+          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139116,
+      "name": "Hon vill ha mig",
+      "url": "https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD"
     },
     {
       "album": {
@@ -6948,6 +7006,32 @@
       "duration_ms": 144079,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
+    },
+    {
+      "album": {
+        "name": "KRYPA HEM",
+        "url": "https://open.spotify.com/album/5IJQOKSFI1Ek9ngyhuzPIF"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "JeppsoN",
+          "url": "https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122606,
+      "name": "KRYPA HEM",
+      "url": "https://open.spotify.com/track/1GCybsrQ3fiP1Ux4cSPs1f"
     },
     {
       "album": {
@@ -8533,6 +8617,24 @@
     },
     {
       "album": {
+        "name": "NU VILL JAG HA EN",
+        "url": "https://open.spotify.com/album/4YmBIeAOwKtQ6xl0IK7zx1"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150562,
+      "name": "NU VILL JAG HA EN",
+      "url": "https://open.spotify.com/track/5oLmpCYC1pDdvdeBBOocSK"
+    },
+    {
+      "album": {
         "name": "NU \u00c4R JAG DIN BUKIS",
         "url": "https://open.spotify.com/album/3GSAc5Gjtz0RwmQsGpy3gq"
       },
@@ -8892,6 +8994,28 @@
       "duration_ms": 173333,
       "name": "Overload",
       "url": "https://open.spotify.com/track/7BFfobG0V0WN8yqvorXj7y"
+    },
+    {
+      "album": {
+        "name": "PANK",
+        "url": "https://open.spotify.com/album/6sxwaVvf9lzWQfTgSB02VT"
+      },
+      "artists": [
+        {
+          "name": "Lia Larsson",
+          "url": "https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD"
+        },
+        {
+          "name": "Mr DUNK",
+          "url": "https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "PANK",
+      "url": "https://open.spotify.com/track/149KUEM0nDKeoagQ1doAbu"
     },
     {
       "album": {
@@ -10173,6 +10297,24 @@
     },
     {
       "album": {
+        "name": "Rulla",
+        "url": "https://open.spotify.com/album/672USVdBweEKR4wLRcmKzM"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131056,
+      "name": "Rulla",
+      "url": "https://open.spotify.com/track/348CX6i7lx7OQ5CQRwabQz"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2jGilBxBmfAiXeMqypCpH6"
       },
@@ -10508,6 +10650,24 @@
       "duration_ms": 128384,
       "name": "SEX MED MIN L\u00c4RARE",
       "url": "https://open.spotify.com/track/2jgF2xVUfNaXDf4w09GyKm"
+    },
+    {
+      "album": {
+        "name": "SEXA J\u00c4GER",
+        "url": "https://open.spotify.com/album/5KC25kQk6g0g5M6VVZ9PSD"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126375,
+      "name": "SEXA J\u00c4GER",
+      "url": "https://open.spotify.com/track/6mxteJyEcyzPZa5G2i23yM"
     },
     {
       "album": {
@@ -12685,6 +12845,24 @@
     },
     {
       "album": {
+        "name": "TRUBBEL I PARADISET",
+        "url": "https://open.spotify.com/album/5IIWueA0W4nBEQjGWZftKw"
+      },
+      "artists": [
+        {
+          "name": "TRIPPEL TRUBBEL",
+          "url": "https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149436,
+      "name": "TRUBBEL I PARADISET",
+      "url": "https://open.spotify.com/track/1SSAfAPISBN2js4ZnxwmnP"
+    },
+    {
+      "album": {
         "name": "Turn The Lights Down Low (with R3HAB)",
         "url": "https://open.spotify.com/album/1usPxiJgVaGlHimpLVMgox"
       },
@@ -12978,7 +13156,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 162729,
       "name": "Vandraren - J.O.X Remix",
       "url": "https://open.spotify.com/track/4EPLmKrfVWBUZZH13fZhuW"
@@ -13846,6 +14024,28 @@
       "duration_ms": 147340,
       "name": "\u00d6NSKAR MIG EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/1zUtKOYFyH3Tbob1UDROX9"
+    },
+    {
+      "album": {
+        "name": "\u00d6SA",
+        "url": "https://open.spotify.com/album/78htlgOgxTA9BJSlR3lOKe"
+      },
+      "artists": [
+        {
+          "name": "Laser Inc.",
+          "url": "https://open.spotify.com/artist/1vEiuT8jPb6PAbvO5ibyWA"
+        },
+        {
+          "name": "Raaban",
+          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "\u00d6SA",
+      "url": "https://open.spotify.com/track/0nmM284m5bIuZL10Pp106Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3"

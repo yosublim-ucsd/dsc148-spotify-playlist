@@ -7295,6 +7295,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G"
+      },
+      "artists": [
+        {
+          "name": "Keichan",
+          "url": "https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30f3\u30fb\u30bf\u30f3\u30bf\u30ab\u30bf\u30f3\u30bf\u30f3\u30bf\u30f3\u30bf\u30f3\u30e1\u30f3",
         "url": "https://open.spotify.com/album/7BQxLXf2g9sv9GGLjB7hCY"
       },

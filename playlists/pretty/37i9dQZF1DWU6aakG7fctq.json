@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Loyal Lobos",
-  "num_followers": 511004,
+  "num_followers": 511019,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2Y0MTRkMGI3MGEyYTA5NDRhNDMxN2M2NjM2NDhhZjE5MTJhY2M4",
+  "snapshot_id": "MCw0ZDZkY2MyYjE2ZTViMjc3NjlmZmQ3Zjk5YzQ2OWI1ZDkwYzMxZjIx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
       "artists": [
         {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 145481,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3"
       },
       "artists": [
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
+      "duration_ms": 145481,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "A Mi Cama",
+        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "A Mi Cama",
+      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "A Mi Cama",
-        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "A Mi Cama",
-      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Cabras",
         "url": "https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 221831,
       "name": "Cabras",
       "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Laguna",
         "url": "https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 222666,
       "name": "Laguna",
       "url": "https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Verte Otra Vez",
+        "url": "https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 229260,
+      "name": "Verte Otra Vez",
+      "url": "https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Astra",
         "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 313198,
       "name": "Sin Freno",
       "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Verte Otra Vez",
-        "url": "https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 229260,
-      "name": "Verte Otra Vez",
-      "url": "https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
       "artists": [
         {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1399,6 +1403,22 @@
       "duration_ms": 153593,
       "name": "Ms. Moon",
       "url": "https://open.spotify.com/track/3HFDfyuMD3UU51G0AIfeTa"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1435,26 +1455,6 @@
       "duration_ms": 197179,
       "name": "LA RUTA NATURAL",
       "url": "https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Si Fui Yo",
-        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Si Fui Yo",
-      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Aquel Bolero",
         "url": "https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 172200,
       "name": "Aquel Bolero",
       "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Waterproof",
-        "url": "https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka"
-      },
-      "artists": [
-        {
-          "name": "Camila Orantes",
-          "url": "https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv"
-        },
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Waterproof",
-      "url": "https://open.spotify.com/track/3n9kLQTgbU3JIBEe44QyKm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1599,6 +1579,26 @@
       "duration_ms": 219642,
       "name": "Pensar en Ti",
       "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Waterproof",
+        "url": "https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka"
+      },
+      "artists": [
+        {
+          "name": "Camila Orantes",
+          "url": "https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Waterproof",
+      "url": "https://open.spotify.com/track/3n9kLQTgbU3JIBEe44QyKm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Salida",
-        "url": "https://open.spotify.com/album/7o8sUWRJmHRPR87vqkQ8vX"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Salida",
-      "url": "https://open.spotify.com/track/3eo777LQagkdPF3iLHUvNm"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/7o8sUWRJmHRPR87vqkQ8vX"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Salida",
+      "url": "https://open.spotify.com/track/3eo777LQagkdPF3iLHUvNm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "En Un Instante",
+        "url": "https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "En Un Instante",
+      "url": "https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "M\u00fasica Para Adultos",
         "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
       },
@@ -1739,26 +1755,6 @@
       "duration_ms": 166246,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
-        "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
-      },
-      "artists": [
-        {
-          "name": "Tu Otra Bonita",
-          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
-        },
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185841,
-      "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
-      "url": "https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb"
     }
   ],
   "unique_name": "el nuevo indie",

@@ -28,7 +28,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Caring Is Creepy - 2021 Remaster",
       "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 203733,
       "name": "Crooked Teeth",
       "url": "https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 246173,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 221804,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 328293,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF"
@@ -2564,7 +2564,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 190469,
       "name": "Lancaster Nights",
       "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190866,
       "name": "Luna",
       "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 285613,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA"
@@ -3744,6 +3744,24 @@
       "duration_ms": 190061,
       "name": "Potions",
       "url": "https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C"
+    },
+    {
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "Pressure To Party",
+      "url": "https://open.spotify.com/track/480rD34KfGbMaT0L6zjeIu"
     },
     {
       "album": {
@@ -4566,7 +4584,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
@@ -5078,7 +5096,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 246213,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
@@ -5204,7 +5222,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 232133,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 229226,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 193277,
       "name": "Wild",
       "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"

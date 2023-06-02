@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234000,
       "name": "Bijuteria",
       "url": "https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw"
@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Cattiveiro Freestyle",
+        "url": "https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t"
+      },
+      "artists": [
+        {
+          "name": "Il-Brutto",
+          "url": "https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7"
+        },
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214814,
+      "name": "Cattiveiro Freestyle",
+      "url": "https://open.spotify.com/track/1jEDmLfUSOAhFEvNaJToIL"
+    },
+    {
+      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -1248,6 +1270,24 @@
       "duration_ms": 247200,
       "name": "Conto Bafiento",
       "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
+    },
+    {
+      "album": {
+        "name": "CONVALLARIA",
+        "url": "https://open.spotify.com/album/2LK8xqNsywlhQj3xRbLXe7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Virtus",
+          "url": "https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214734,
+      "name": "CONVALLARIA",
+      "url": "https://open.spotify.com/track/24D8TQh8S6x3AOCwnL6zI1"
     },
     {
       "album": {
@@ -1637,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Drunk in Love",
+        "url": "https://open.spotify.com/album/69P2QzizEduJz9I5GQhmvB"
+      },
+      "artists": [
+        {
+          "name": "Jvst Fly",
+          "url": "https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7"
+    },
+    {
+      "album": {
         "name": "MINA D'OURO",
         "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
       },
@@ -1666,7 +1724,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 238603,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn"
@@ -3032,7 +3090,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 162057,
       "name": "Maria",
       "url": "https://open.spotify.com/track/2YFwHixO0VL3V0iNNeXUac"
@@ -3430,6 +3488,28 @@
       "duration_ms": 187826,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf"
+    },
+    {
+      "album": {
+        "name": "Nha Primero Amor",
+        "url": "https://open.spotify.com/album/4IxGXXvpUhv94oKwl5ddj0"
+      },
+      "artists": [
+        {
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213593,
+      "name": "Nha Primero Amor",
+      "url": "https://open.spotify.com/track/3GCHMMMA3vFtqqlFp2skQk"
     },
     {
       "album": {
@@ -4608,7 +4688,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 158468,
       "name": "SEXTOU",
       "url": "https://open.spotify.com/track/4U7ucVkz1f1XrNMw2bXe1e"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=wuOtEBzWToCasefmfKZ4MA\">Francois van Coke</a> & <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=SCgiaHbeSkaolPvPmCrHMA\">Zaan Sonnekus</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW?si=4twYCzxJR8O5Ue4aF3qqnw\">BCUC</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -384,6 +384,24 @@
       "duration_ms": 157733,
       "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa"
+    },
+    {
+      "album": {
+        "name": "BEAUTIFUL LIES",
+        "url": "https://open.spotify.com/album/1S4TfRej2A4nZ8u42vtWml"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "BEAUTIFUL LIES",
+      "url": "https://open.spotify.com/track/1IHmRnrOb9S0URi8bbMRrI"
     },
     {
       "album": {
@@ -842,7 +860,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 180533,
       "name": "Crazy Meisie",
       "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
@@ -1765,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Eating Dirt",
+        "url": "https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO"
+      },
+      "artists": [
+        {
+          "name": "Drumfish",
+          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196118,
+      "name": "Greetings from The Room",
+      "url": "https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE"
+    },
+    {
+      "album": {
         "name": "H.F.A.Y. (How Fake Are You)",
         "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
       },
@@ -1900,7 +1936,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 216450,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu"
@@ -2673,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Millions of Us",
+        "url": "https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314679,
+      "name": "Millions of Us - Part 2",
+      "url": "https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS"
+    },
+    {
+      "album": {
         "name": "Kanniedood",
         "url": "https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh"
       },
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 125116,
       "name": "Ntuthwane",
       "url": "https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9"
@@ -2976,7 +3030,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 262682,
       "name": "ONE",
       "url": "https://open.spotify.com/track/1NXO41gIxIzpBVc3JIO00v"
@@ -3182,6 +3236,24 @@
       "duration_ms": 219640,
       "name": "Partners in Crime",
       "url": "https://open.spotify.com/track/0nwyYEJoZAhx1lkj0C95Qs"
+    },
+    {
+      "album": {
+        "name": "Pink Codeine",
+        "url": "https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209140,
+      "name": "Pink Codeine",
+      "url": "https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp"
     },
     {
       "album": {
@@ -3624,6 +3696,24 @@
       "duration_ms": 189250,
       "name": "She's Got Soul",
       "url": "https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg"
+    },
+    {
+      "album": {
+        "name": "She's Heavenly",
+        "url": "https://open.spotify.com/album/3BvK4KOrQSqfbI99e8oQXl"
+      },
+      "artists": [
+        {
+          "name": "The Incidentals",
+          "url": "https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210486,
+      "name": "She's Heavenly",
+      "url": "https://open.spotify.com/track/2AHhIcPVeEkjsZ5PWzRchd"
     },
     {
       "album": {
@@ -4240,7 +4330,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 228462,
       "name": "The Catch",
       "url": "https://open.spotify.com/track/0VB56GzZ6iyMcj16dwqM2h"
@@ -4541,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Unbroken",
+        "url": "https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm"
+      },
+      "artists": [
+        {
+          "name": "Naranjo",
+          "url": "https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291529,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA"
+    },
+    {
+      "album": {
         "name": "Undone (Elephant in the room)",
         "url": "https://open.spotify.com/album/4CifqZXckC4tX4J8rP0DN7"
       },
@@ -4678,7 +4786,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 287425,
       "name": "Wabaleka",
       "url": "https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,168 likes - 32 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,182 likes - 32 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 26 | [Quisiera Ser Como Tú](https://open.spotify.com/track/6rjlsRmIKcb6YDNLpoPERj) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:48 |
 | 27 | [Chao Contigo](https://open.spotify.com/track/5P3qMFkwljuv7WzIap2Hdx) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños De Colombia](https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q) | 5:37 |
 | 28 | [Te Quiero Mas](https://open.spotify.com/track/63txzgrUTqOb6yWJQfUpKF) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos Por El Mundo](https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1) | 3:52 |
-| 29 | [Dí Que Si](https://open.spotify.com/track/53AITagQlfL2GyCTH6TMPQ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver A Triunfar](https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am) | 4:14 |
+| 29 | [Mejor No Somos Nada](https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:17 |
 | 30 | [Vete](https://open.spotify.com/track/66TGTBRnnWmYtIvWIMPfSs) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:45 |
-| 31 | [Mejor No Somos Nada](https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:17 |
+| 31 | [Dí Que Si](https://open.spotify.com/track/53AITagQlfL2GyCTH6TMPQ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver A Triunfar](https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am) | 4:14 |
 | 32 | [Un Millón De Besos](https://open.spotify.com/track/4wN0Yti0gkHq7hQ10r0EOU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 4:35 |
 
-Snapshot ID: `MjgwOTIyOTAsMDAwMDAwMDBhZDQxYjNlNWMzYjE4MWQ4YmM3MTBhMWMwOTA1ZDQ4MA==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDAzZTQzNTQ1Y2ZlMGE2YjczZGQyZjE2OGFjNDQyMzg4Nw==`

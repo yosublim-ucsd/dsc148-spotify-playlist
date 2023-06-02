@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 27 songs - 41 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 27 songs - 41 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 16 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
 | 17 | [10 Years Later](https://open.spotify.com/track/0WpxG6AEs9QXBqw6NGDsN5) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 0:53 |
 | 18 | [I Need You](https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:27 |
-| 19 | [Masks And Mirrors](https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:27 |
+| 19 | [Meatball Monkey](https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:01 |
 | 20 | [La Ultima Mirada](https://open.spotify.com/track/7pBrGQmZxzXbsg8qfuIYAD) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:55 |
 | 21 | [The Legend of Parapata](https://open.spotify.com/track/569vYZTpACpMVlirXmfo4U) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 0:55 |
 | 22 | [Antonio's Voice](https://open.spotify.com/track/3iYknzsuP2M4ggDyCthGTg) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:14 |
-| 23 | [Meatball Monkey](https://open.spotify.com/track/4aH08aVsg9gRx8r5rU4nVN) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:01 |
+| 23 | [Masks And Mirrors](https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:27 |
 | 24 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
-| 25 | [And You Are Not Going](https://open.spotify.com/track/54udISeAGguLtkCncTE6Y4) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:51 |
+| 25 | [Dora the Explorer Theme Song](https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:39 |
 | 26 | [Dan and Sammy](https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 0:44 |
 | 27 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDAwNTBkYTA1ZGE1NGM1NmViYzAyMWVlMjhjZTdhNmUwZA==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDA1NDA4MmJkNGZhN2U1MGI2YTE3OTQ2ZTI0OTYxMTE2ZA==`

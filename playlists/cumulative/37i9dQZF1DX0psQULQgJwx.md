@@ -2,7 +2,7 @@
 
 ### [SPA Lounge](https://open.spotify.com/playlist/37i9dQZF1DX0psQULQgJwx)
 
-> Lounge sounds for SPA.
+> Lounge sounds for SPA
 
 115 songs - 6 hr 50 min
 

@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KyoungSeo\(경서\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-477 songs - 1 day 5 hr 21 min
+479 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 | 2022-09-30 | 2022-10-19 |
 | [beautiful farewell](https://open.spotify.com/track/4R16iPDSmo0uQdifs7S7Pv) | [Adios Audio](https://open.spotify.com/artist/5A5DAxEQJ5F7HA4wVVHV8a) | [beautiful farewell](https://open.spotify.com/album/41x5xlwIDw05W5aWqLBECv) | 2:58 | 2022-05-24 | 2022-06-26 |
 | [Beautiful Jeopardy](https://open.spotify.com/track/6Qcz3rdpgYiH66eJLDVI2R) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Moments in between](https://open.spotify.com/album/5KVVc9JfjVCz3U52XxUqSj) | 6:31 | 2022-04-22 | 2022-07-26 |
+| [Beautiful Life](https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 3:07 | 2023-06-01 |  |
 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-04 | 2022-08-13 |
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
@@ -135,7 +136,7 @@
 | [From You](https://open.spotify.com/track/34qvU10EU2RsoBRX5qYlpb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Alice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1pmEVARxxmA6polrjOqREk) | 3:47 | 2022-04-22 | 2022-07-16 |
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-22 | 2022-07-09 |
-| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 |  |
+| [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2023-06-02 |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
@@ -338,7 +339,7 @@
 | [Screen](https://open.spotify.com/track/1wLv73icHBnWJ8LgxMx5WN) | [Goat](https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd) | [Fade out](https://open.spotify.com/album/08bVdRiFhfs9yzaNZwOYax) | 3:47 | 2022-04-22 | 2022-07-27 |
 | [sensitive flower](https://open.spotify.com/track/5mAir6o7gS8l66Bojwnxkx) | [DICKPUNKS](https://open.spotify.com/artist/2g1DmQlx7A9z1ctK0dNlen) | [sensitive flower](https://open.spotify.com/album/7jIBfI4yc5Lk86pnARbF2J) | 3:52 | 2022-04-22 | 2022-04-29 |
 | [Shame On You](https://open.spotify.com/track/48bL0ze0DotIcUS2rQuEyS) | [DOCHI](https://open.spotify.com/artist/71fBNalGQfpvEttt414EIV) | [Shame On You](https://open.spotify.com/album/2SGMfisblO95lG7rMywqz0) | 3:09 | 2022-08-12 | 2022-08-19 |
-| [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 |  |
+| [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2022-04-22 | 2023-06-02 |
 | [She's In The Rain](https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/2rKkvzVCh5GD3yh5BYBJ4a) | 3:57 | 2022-04-12 | 2022-07-29 |
 | [She's In The Rain](https://open.spotify.com/track/2I0LNCqlQpAPJlwOEWaefE) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/0YZ0m6Z8xUurgzV9lXvflS) | 3:57 | 2022-07-22 | 2023-01-04 |
 | [She's In The Rain](https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV) | 3:57 | 2023-01-06 |  |
@@ -399,6 +400,7 @@
 | [The boy of June](https://open.spotify.com/track/3ayELZnkl36t100LdVnF20) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb) | [The boy of June](https://open.spotify.com/album/2nU6gOokfzK3iXpJm7m4Ny) | 3:35 | 2022-07-04 | 2022-07-09 |
 | [The Moment, To You](https://open.spotify.com/track/2ytFb5XXbbSX4oEgNDsceJ) | [Yoo Jungmok](https://open.spotify.com/artist/2KdO1rsQPujhuEF7eNclr9) | [The Vernal Equinox Vol.2](https://open.spotify.com/album/2dO4RUT8D9aPae0DawhmBW) | 4:07 | 2022-05-03 | 2022-05-12 |
 | [The Nation](https://open.spotify.com/track/2ZU9mOK47wo2BLXmvZ9lV4) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI) | [The Nation](https://open.spotify.com/album/1RRisKTmM1K9pKXMKNSyYF) | 3:27 | 2022-04-22 | 2022-07-08 |
+| [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 | 2023-06-01 |  |
 | [The Piper](https://open.spotify.com/track/4bkXHH5lvTFY8ijhrl0UXA) | [BUT 벗](https://open.spotify.com/artist/0S5UlGMSHfr2MH6xYlC3UB) | [Better Unique Travel](https://open.spotify.com/album/2xnxgQlR6bhGP79eDrh5U7) | 4:42 | 2022-04-12 | 2022-04-21 |
 | [The Queen](https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [CLEANING UP \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG) | 3:28 | 2022-07-08 | 2022-07-23 |
 | [The Wave 파도](https://open.spotify.com/track/5uIsBpHUamPdpEkiVeKIyT) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [The Wave 파도](https://open.spotify.com/album/25MHFHuE0XqzgCYncmiFIE) | 4:42 | 2022-04-12 | 2022-04-21 |

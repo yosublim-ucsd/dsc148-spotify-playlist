@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 ### [HOT NOW \- VGLY](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
-> ¡No busques más! La música del momento está aquí.
+> 
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,291 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,480 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 49 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
 | 50 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
 
-Snapshot ID: `MCwzY2NkMjZlNDA1MGNhMDljYzI5MTAzMzAxMjgzNjIyMWJkODdhMjI0`
+Snapshot ID: `MCxlNTgxMzhjY2RiOTYxYjUyZTJmNTBhNTY4ODhkZmRmMzExZDgxZTMx`

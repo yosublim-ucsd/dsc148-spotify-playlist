@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170454,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/3irsuLLfnMmJaDY4eu4AR1"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 119817,
       "name": "Dreamscape",
       "url": "https://open.spotify.com/track/1TaXDE147M938gcgrjMzhm"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 136097,
       "name": "Float",
       "url": "https://open.spotify.com/track/0Qr5eChpaSU4ozVze6cRef"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 141333,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/0uhAmpy7XNbshBNnRXDXAS"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 142346,
       "name": "Imber",
       "url": "https://open.spotify.com/track/6kWn7r94SfctU3TdqV4xeE"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 126896,
       "name": "Mystic Brew",
       "url": "https://open.spotify.com/track/42tgXaJnZPi0golENGqu0m"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 125600,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3iT6bEadJKPuGhc01xKGLF"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 135250,
       "name": "Since You Left",
       "url": "https://open.spotify.com/track/7r1uMfJMIWJoOF2DyywGwk"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 153000,
       "name": "Sisu",
       "url": "https://open.spotify.com/track/3uQ33vLHvYhUC5EJvd4RuK"
@@ -574,10 +574,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 147477,
       "name": "Soulplan",
       "url": "https://open.spotify.com/track/6PLc3M2Zh3nQlHmoTkoKBX"
+    },
+    {
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/54eFjcggdyiZjUh4rrTSJY"
+      },
+      "artists": [
+        {
+          "name": "Dan Ceder",
+          "url": "https://open.spotify.com/artist/1wpW3MXgayftZxS5ML16Kg"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126160,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/73ebDyoIHxBZEWR7Bhd5ob"
     },
     {
       "album": {
@@ -596,7 +614,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 128000,
       "name": "Summer Haze",
       "url": "https://open.spotify.com/track/1hMWQOLyTCRo6U7aZD73Jq"

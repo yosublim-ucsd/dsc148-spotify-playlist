@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Viva Suecia.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -82,10 +82,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 230513,
       "name": "A Dios",
       "url": "https://open.spotify.com/track/6M5XPLlWAFUAPX6wG5dmSR"
+    },
+    {
+      "album": {
+        "name": "A la luz de las farolas / Tren a Marte",
+        "url": "https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "A la luz de las farolas",
+      "url": "https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs"
     },
     {
       "album": {
@@ -502,10 +520,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184881,
       "name": "ARR\u00c1NCAME EL ALMA",
       "url": "https://open.spotify.com/track/2rGbtFJsnWtY0jKl868YYx"
+    },
+    {
+      "album": {
+        "name": "Aullando en el desierto",
+        "url": "https://open.spotify.com/album/32aN325jALV3HzwipqtBP7"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Aullando en el desierto",
+      "url": "https://open.spotify.com/track/41AWQymPR0w55FSm7BXHY6"
     },
     {
       "album": {
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 228208,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/75EtQp5j0rwRQXq0pgEkR7"
@@ -1828,6 +1864,24 @@
       "duration_ms": 214302,
       "name": "El Estrangulador",
       "url": "https://open.spotify.com/track/0eA1FutcU4VBueauwruErF"
+    },
+    {
+      "album": {
+        "name": "El Gran Almac\u00e9n",
+        "url": "https://open.spotify.com/album/6EDGmpTizX4BXrdZCB6JIW"
+      },
+      "artists": [
+        {
+          "name": "Kike Jambalaya",
+          "url": "https://open.spotify.com/artist/5TknYICOG7yd700QbBGVfq"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170225,
+      "name": "El Gran Almac\u00e9n",
+      "url": "https://open.spotify.com/track/4KylRhBLaADfRK1hvckASR"
     },
     {
       "album": {
@@ -2548,7 +2602,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 161024,
       "name": "Imperio",
       "url": "https://open.spotify.com/track/0ZPnSxKCl1rJkbRmFnPoK0"
@@ -2682,7 +2736,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 269023,
       "name": "Joven",
       "url": "https://open.spotify.com/track/3QcL0vp9kKOB2Gy8C7Kx14"
@@ -3422,7 +3476,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 155328,
       "name": "Mi Madre Me Lo Dijo",
       "url": "https://open.spotify.com/track/45EACTzy62c5oy6ztZjW7q"
@@ -3538,6 +3592,28 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "album": {
+        "name": "Nelly",
+        "url": "https://open.spotify.com/album/1KKvE3lYoNvPoqaAt9tm5v"
+      },
+      "artists": [
+        {
+          "name": "Alex O'Dogherty",
+          "url": "https://open.spotify.com/artist/09L2UUFvhk6xuHoIbwNL4y"
+        },
+        {
+          "name": "La Bizarrer\u00eda",
+          "url": "https://open.spotify.com/artist/55c0gSmang0nLowAlPfh45"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Nelly",
+      "url": "https://open.spotify.com/track/6E0pZMYmvV68vfmZhQiSSB"
     },
     {
       "album": {
@@ -4064,7 +4140,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
@@ -4169,6 +4245,24 @@
     },
     {
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/7JXnwZ4MoBrDB0RHeGi9cp"
+      },
+      "artists": [
+        {
+          "name": "Tres Caladas",
+          "url": "https://open.spotify.com/artist/5vJHQhuW7TKYzEavWb6V3l"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/70FKk6lWEZ86laY9qm3Rxg"
+    },
+    {
+      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -4238,6 +4332,24 @@
       "duration_ms": 225530,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/3suezOyQvBNkgZPbgAtIJu"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n turra (En directo Razzmatazz)",
+        "url": "https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196517,
+      "name": "Revoluci\u00f3n turra - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa"
     },
     {
       "album": {
@@ -4390,7 +4502,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 208519,
       "name": "Ruido Blanco",
       "url": "https://open.spotify.com/track/5QNS6ozG3BwrcPPMSBq81h"

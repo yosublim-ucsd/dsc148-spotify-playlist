@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,885 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,938 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Quando a Onda Bater](https://open.spotify.com/track/1YwvT983g3Br5dDY1agT6U) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Quando a Onda Bater](https://open.spotify.com/album/53JD3XpyaAjTtQvlZb3Gev) | 2:36 |
 | 50 | [Fiz Minha Unha](https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Fiz Minha Unha](https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn) | 2:26 |
 
-Snapshot ID: `MCxiMDBkZWMzNDE5YTZhY2FmOTRmMjYxZWQyNGFmZGM2NTI4ZjZkOTEx`
+Snapshot ID: `MCxhZmE1MWEwZDc3OGM1NTE2NTg0YjRkOTc2MjdmNWQxYmI4ZWJmMGZl`

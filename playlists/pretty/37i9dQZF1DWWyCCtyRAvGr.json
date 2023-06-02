@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 151222,
+  "num_followers": 151310,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY0MDU4ZWFhNDllYjY2M2MzYThhOWRiOTFlOGIyOTNmZDEyMGVi",
+  "snapshot_id": "MCwxOWU0MmU0YzIxNTg0ZDg1MzNhODY1ZDVhN2Q0NzFhNWQwZjU2NmJi",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Freedom Flight",
         "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Papa Ain't Salty",
-      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -423,6 +407,22 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Papa Ain't Salty",
+      "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -667,38 +683,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Colin James And The Little Big Band",
-        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Three Hours Past Midnight",
-      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Riding With The King",
         "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Colin James And The Little Big Band",
+        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Three Hours Past Midnight",
+      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 280453,
+      "name": "Ten Long Years",
+      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 266013,
       "name": "Bubba Jones",
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 280453,
-      "name": "Ten Long Years",
-      "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Heavy Load Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "You Know My Love",
-      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Outta' Season",
         "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 202627,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "You Know My Love",
+      "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
+        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "(I'm Your) Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
-        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "(I'm Your) Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Contemporary",
-        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 278560,
       "name": "I Hate These Doggone Blues",
       "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Contemporary",
+        "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Chinook Blues",
-        "url": "https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5"
+        "name": "Horrifying Deatheating Bloodspider",
+        "url": "https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs"
       },
       "artists": [
         {
-          "name": "Alice Di Micele",
-          "url": "https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 309614,
-      "name": "Chinook Blues",
-      "url": "https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR"
+      "duration_ms": 168253,
+      "name": "Lovedog",
+      "url": "https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O"
     }
   ],
   "unique_name": "Blues on the Rocks",

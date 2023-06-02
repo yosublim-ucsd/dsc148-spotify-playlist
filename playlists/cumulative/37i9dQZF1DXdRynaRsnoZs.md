@@ -2,7 +2,7 @@
 
 ### [Christmas Lullabies](https://open.spotify.com/playlist/37i9dQZF1DXdRynaRsnoZs)
 
-> 
+> Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
 91 songs - 3 hr 35 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 125115,
+  "num_followers": 125210,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTg0NmU2Y2ViOTg4ZjEyMGY5NDcyZTZlNThmM2IyMWM1MTFkMTI5",
+  "snapshot_id": "MCw4NTdmMmRiYzVlMmUyNTI4NTkxY2M3YTdiOTEyNTQ0MjdhNGI2MTY1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -515,22 +515,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -551,18 +547,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Primrose",
-        "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
-      },
-      "artists": [
-        {
-          "name": "Jordyn Shellhart",
-          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Maybe Someday You\u2019ll Have A Daughter",
-      "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Prayed For You (Wedding Version)",
         "url": "https://open.spotify.com/album/3vgVNPJsnHUqaLVrNpHSdO"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205306,
       "name": "Prayed For You - Wedding Version",
       "url": "https://open.spotify.com/track/3nxrXt836ZmhwhOj3bwtNX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Primrose",
+        "url": "https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Maybe Someday You\u2019ll Have A Daughter",
+      "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+        "name": "Love Like I Drink",
+        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Carter Winter",
+          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
+        },
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Take My Name - Wedding Version",
-      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+      "duration_ms": 195309,
+      "name": "Love Like I Drink",
+      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love Like I Drink",
-        "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
       "artists": [
         {
-          "name": "Carter Winter",
-          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
-        },
-        {
-          "name": "Allie Colleen",
-          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 195309,
-      "name": "Love Like I Drink",
-      "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+      "duration_ms": 174133,
+      "name": "Take My Name - Wedding Version",
+      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Wrong Side of a Sunrise (Demo)",
-        "url": "https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm"
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 201876,
-      "name": "Wrong Side of a Sunrise - Demo",
-      "url": "https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD"
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Studio 900 Sessions",
-        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 185847,
-      "name": "Waiting For You - Acoustic",
-      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1287,8 +1271,24 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+        "name": "Studio 900 Sessions",
+        "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 185847,
+      "name": "Waiting For You - Acoustic",
+      "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Wrong Side of a Sunrise (Demo)",
+        "url": "https://open.spotify.com/album/3IRuv1ruKwhOABEVjJDIkm"
       },
       "artists": [
         {
@@ -1296,41 +1296,9 @@
           "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+      "duration_ms": 201876,
+      "name": "Wrong Side of a Sunrise - Demo",
+      "url": "https://open.spotify.com/track/4Wc6scPPCOoR7aA6frfzoD"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1351,6 +1319,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Made (Wedding Version)",
+        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "duration_ms": 215227,
+      "name": "Made (Wedding Version)",
+      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Long Live Cowgirls (Me and a Fiddle)",
-        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Long Live Cowgirls - Me and a Fiddle",
-      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Long Live Cowgirls (Me and a Fiddle)",
+        "url": "https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 180997,
+      "name": "Long Live Cowgirls - Me and a Fiddle",
+      "url": "https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV"
     },
     {
       "added_at": "2023-05-19 04:00:00",

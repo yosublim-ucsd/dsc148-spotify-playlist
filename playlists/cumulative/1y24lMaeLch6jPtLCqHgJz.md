@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-136 songs - 7 hr 5 min
+137 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Survivors](https://open.spotify.com/track/1Ip9YT9kPBC0rl7qCm3skS) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Philipp](https://open.spotify.com/artist/2P6LX2s7jHzyg6b8qL1R6Y), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Survivors](https://open.spotify.com/album/0O3ZeuYT26a0DY8fUvRVE1) | 3:16 | 2022-07-29 | 2022-12-03 |
 | [Sweet Escape](https://open.spotify.com/track/0vnE0t35MhE3xsrlh2fzKz) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Slake Slagger](https://open.spotify.com/artist/72tp31XqMIjIopAqxgD9H2), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sweet Escape](https://open.spotify.com/album/6lK6ilzbP802Ohuycny92o) | 3:04 | 2022-07-29 |  |
 | [Sweet Mistake](https://open.spotify.com/track/1VYHeY9ulPnsMHKvXPyG5H) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Sweet Mistake](https://open.spotify.com/album/35I9B0MgtuaTmkOCunJp0L) | 3:33 | 2022-07-29 |  |
+| [Sweet Symphony](https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Sweet Symphony](https://open.spotify.com/album/5ICeZU3A6DtzBKTmjTwLY3) | 2:22 | 2023-06-01 |  |
 | [Take Off](https://open.spotify.com/track/2wzwONRFtlmZRphlK9izyC) | [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Kamish](https://open.spotify.com/artist/0ug6E8PwKNjLAm4QNABTJF), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Take Off](https://open.spotify.com/album/2MS0WDP9ydUtoQkEPokkmr) | 3:16 | 2022-07-29 |  |
 | [That I Know](https://open.spotify.com/track/4zWQ4iwYNZRauECeHhMs0b) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [That I Know](https://open.spotify.com/album/6cUfXHNCqDE16ckQ1vLB9S) | 2:53 | 2022-07-29 |  |
 | [The Awakening](https://open.spotify.com/track/7576QEEGENWbga7Y6tsz6v) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Awakening](https://open.spotify.com/album/1PADBFxzO1PmZk8OQK0AOx) | 3:28 | 2022-07-29 |  |

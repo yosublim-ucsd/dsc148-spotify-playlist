@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3VBPvCalDAaE5MJHkMAuDk">Ophelia Lia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,946 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,953 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Carletto](https://open.spotify.com/track/1QeT4Wmjtwm47zsZcqXB8C) | [Tuma](https://open.spotify.com/artist/3HpTFbgF36sfAlVqebZ8as) | [Carletto](https://open.spotify.com/album/5m3CTz59GuWl5UOAJf59nb) | 3:28 |
 | 50 | [Quanto è semplice](https://open.spotify.com/track/3G9vyuzdUliB1jMbwDeCM6) | [Ventidue](https://open.spotify.com/artist/5OGi0t3oH4M8GDNYDxK4Eh) | [Quanto è semplice](https://open.spotify.com/album/2GKZuu9lhHTD2DwgSRYw8L) | 2:55 |
 
-Snapshot ID: `MCxhMmJlYmJmMTM0YzIyYjAwMDFiOTg0ZTBkM2M0ZWY1YzQ0ZmE3NWVk`
+Snapshot ID: `MCw1ZWE2MTc2NTczNTI1OGY0N2E2OWE1NTVlYzkyOGM0ODFjZGZlNWZk`

@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 42295,
+  "num_followers": 42345,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGU2NDI4NTIzNDAzOTg0NzdlYzQ3YzI4OTkzZTdhMTRhZTAyNDhm",
+  "snapshot_id": "MCw0MWRiZjlhNThjYmVkM2IyYWU4OWYwNTJkZDE2NDU1M2I1MGI3MDJm",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 136888,
+      "name": "El Camino De La Vida",
+      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Una Flor En La Laguna",
         "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 290426,
       "name": "Una Flor En La Laguna",
       "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "El Camino De La Vida",
-      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Bolero Mientras Tanto",
         "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179000,
       "name": "Bolero Mientras Tanto",
       "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Me La Avente",
+        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Un Rinconcito En El Cielo",
         "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 289565,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Me La Avente",
-        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Morenno",
-          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
-      },
-      "artists": [
-        {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 165569,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+      },
+      "artists": [
+        {
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Con Tus Besos",
-        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
-      },
-      "artists": [
-        {
-          "name": "Palladinos",
-          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "El Paciente",
         "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 212000,
       "name": "El Paciente",
       "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Con Tus Besos",
+        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
+      },
+      "artists": [
+        {
+          "name": "Palladinos",
+          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Chacra",
+        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Paz",
+          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
+        }
+      ],
+      "duration_ms": 127068,
+      "name": "Brisas",
+      "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Exitos de Juan Zaizar",
         "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
@@ -1727,34 +1743,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv"
       },
       "artists": [
         {
-          "name": "Mariachi Arco Iris",
-          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
+          "name": "Arturo Jimenes",
+          "url": "https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr"
         }
       ],
-      "duration_ms": 202849,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Chacra",
-        "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Paz",
-          "url": "https://open.spotify.com/artist/6lQrKlh4MrZ0XeTfFAt4Ik"
-        }
-      ],
-      "duration_ms": 127068,
-      "name": "Brisas",
-      "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+      "duration_ms": 243500,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

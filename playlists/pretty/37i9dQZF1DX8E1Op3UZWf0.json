@@ -1,12 +1,12 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 236263,
+  "num_followers": 236326,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTA3NWJiMjEwZTU1MmI5ZWU0N2ZjMDhlYTQwZTM3M2E1ODdiYTE2",
+  "snapshot_id": "MCwwZTA0NjQ3ZWM5YWQ3MzFjZmMxMzEyNTA5MjcxYzRkNDg2OWEzMzUz",
   "tracks": [
     {
       "added_at": "2023-05-17 13:35:23",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-01-03 14:46:25",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
-    },
-    {
-      "added_at": "2023-01-03 14:46:25",
-      "album": {
         "name": "Delirium (Deluxe)",
         "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 252534,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2023-01-03 14:46:25",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
     },
     {
       "added_at": "2023-01-03 14:46:25",

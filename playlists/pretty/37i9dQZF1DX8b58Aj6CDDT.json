@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 2247,
+  "num_followers": 2254,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmQ0ODQ3YThkNjQwZTFjNmU4YzQ4MTJkZjlhNmVmMmU2ZGJmMTBi",
+  "snapshot_id": "MCxiYTQ2MGQ2YjdmZjJhY2YxYTgyZWNlOWI0ZDYzM2E1YjMwOWNmMThk",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 214161,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 255660,
       "name": "TRASCENDER",
       "url": "https://open.spotify.com/track/5xZq4873FHfXsT3gGhYY6K"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 214161,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 159254,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Bolero Triste",
         "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 240326,
       "name": "Bolero Triste",
       "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2022-11-30 14:18:55",

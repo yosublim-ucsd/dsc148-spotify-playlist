@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Johnny Orlando & Ali Gatie, Dua Lipa, Lil Durk and Nonso Amadi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,710 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,717 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 53 | [It's Crazy](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 54 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
 | 55 | [Goodbye’s Kickin’ In](https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Goodbye's Kickin' In](https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G) | 3:21 |
-| 56 | [Blame](https://open.spotify.com/track/2YZg9qfFFNuA2x6qjpLm56) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq), [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Blame](https://open.spotify.com/album/7KNoa8eKSyz5PMrxyZKjM9) | 3:07 |
+| 56 | [Blame](https://open.spotify.com/track/2YZg9qfFFNuA2x6qjpLm56) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Blame](https://open.spotify.com/album/7KNoa8eKSyz5PMrxyZKjM9) | 3:07 |
 | 57 | [Cocaine Avenue](https://open.spotify.com/track/4Vp6Sj3gMtgqL29NKQvv3R) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Cocaine Avenue](https://open.spotify.com/album/0Drafr45xqUAQLhIkJ8VZ8) | 3:04 |
 | 58 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 |
 | 59 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
 | 60 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 |
 | 61 | [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 |
 | 62 | [Freak Like Me](https://open.spotify.com/track/2kCEz5SnL22qQhJeOjgNQW) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW) | [Freak Like Me](https://open.spotify.com/album/63ihuSuuU6Ih6PWjNoPeZW) | 2:51 |
-| 63 | [Mango](https://open.spotify.com/track/6MrL4huJTR6g3sUr3fM5rd) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC), [Sak Pase](https://open.spotify.com/artist/7GD22Qdlv6ZqMGlj4Vhuso) | [Mango](https://open.spotify.com/album/74A3wReBLDHbTC03w76gcW) | 2:28 |
+| 63 | [Mango](https://open.spotify.com/track/6MrL4huJTR6g3sUr3fM5rd) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC), [SAK PASE](https://open.spotify.com/artist/3XmoV7DZj1XxUulBFTv7tc) | [Mango](https://open.spotify.com/album/74A3wReBLDHbTC03w76gcW) | 2:28 |
 | 64 | [Goddess \(feat\. Flo Milli\)](https://open.spotify.com/track/415nBazKdZWwejNCNhkoqQ) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:28 |
 | 65 | [Blowing Up Things in the Woods](https://open.spotify.com/track/3DGpBvI8IIhBnNqLyVnxf4) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Free Rein to Passions](https://open.spotify.com/album/6wtP1fcntyDMN5N7hDlKi3) | 3:04 |
 | 66 | [it doesn't get any better than this](https://open.spotify.com/track/4oHipBv2ATIdYtgRgVvy9Q) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [it doesn't get any better than this](https://open.spotify.com/album/6E1nEdbPAxQSSZgOhcswwf) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Delicate People](https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Delicate People](https://open.spotify.com/album/5TPEdVSMdIG6aiatkrVtZp) | 4:14 |
 | 100 | [Nothing Feels Special Anymore](https://open.spotify.com/track/3Hm1uXL6q6jMFFfIkOARez) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Nothing Feels Special Anymore](https://open.spotify.com/album/4vLKRMbc4eIH5mipZm7Fu8) | 3:11 |
 
-Snapshot ID: `MCw3ZjNjZjg5YWQ0MWE5ZGJmMWYxMDAwMzEyOTE0NTlkN2RlMDQ2M2My`
+Snapshot ID: `MCwwNTM2NTk0MmE1NWVjMTIwMDE1ZWI1ZjlhMWNjODJkOTA2YTgyZDll`

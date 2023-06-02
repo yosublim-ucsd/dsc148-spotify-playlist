@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,075 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,226 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 42 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 | 43 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
 | 44 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
-| 45 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
-| 46 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
+| 45 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
+| 46 | [UUUU](https://open.spotify.com/track/46OIVHWlExMXlqYRCpkEYd) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/38dO16oDq91phqKFXIW1VP) | 6:29 |
 | 47 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 | 48 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 49 | [My Heart Still Leans On You](https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [My Heart Still Leans On You](https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8) | 4:47 |
 | 50 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 |
 
-Snapshot ID: `MCwxYzYxOTg1N2ZhODUzZTU2ZTk4ZGRlOGU5MTZhODU5MDcxZmNjOWFh`
+Snapshot ID: `MCwzMjJhMzgyNzY4NmMwNmJhZmVjOGE0MDIzYmE1ZWI0OWUzMTNkMTdk`

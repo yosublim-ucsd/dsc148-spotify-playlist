@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-145 songs - 17 hr 47 min
+146 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2022-09-19 | 2023-02-01 |
 | [Covenant Keeper](https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 3:52 | 2022-10-14 | 2022-11-05 |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
+| [Dadi](https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Dadi](https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2) | 2:57 | 2023-05-26 |  |
 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 | 2022-06-09 |  |
 | [Edin No \(The Name\) \- Live](https://open.spotify.com/track/2fH4PJrAYlT5kgjSLNZOlf) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Final Say \(Live\)](https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY) | 6:32 | 2023-02-16 | 2023-03-18 |
 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 | 2022-10-14 | 2022-11-05 |
@@ -87,7 +88,7 @@
 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 | 2022-06-09 |  |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-02-03 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-02-25 |
-| [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 | 2022-06-09 |  |
+| [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 | 2022-06-09 | 2023-06-02 |
 | [Nara Testimony](https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 6:55 | 2022-06-09 | 2023-02-21 |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 |  |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-09 | 2023-05-23 |

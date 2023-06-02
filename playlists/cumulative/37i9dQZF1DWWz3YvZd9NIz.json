@@ -670,7 +670,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 108705,
-      "name": "Dark Horse - Hardstyle",
+      "name": "Dark Horse (Hardstyle)",
       "url": "https://open.spotify.com/track/5aJT7dU40Ry4zz1zI34845"
     },
     {
@@ -914,6 +914,32 @@
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/3tFbOsLArvDC4rStTFSoQ3"
+      },
+      "artists": [
+        {
+          "name": "MELON",
+          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
+        },
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        },
+        {
+          "name": "Hardstyle Fruits Music",
+          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130838,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/57DABWKwZDGqx7KrDafvqq"
     },
     {
       "album": {
@@ -1662,7 +1688,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 116117,
-      "name": "Mirrors - Hardstyle",
+      "name": "Mirrors (Hardstyle)",
       "url": "https://open.spotify.com/track/512iVeSpSMzPWsorQgYopk"
     },
     {
@@ -1744,7 +1770,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 160812,
       "name": "Never See Me Again",
       "url": "https://open.spotify.com/track/7KQchwvb5bBeGbkQ8E0A1N"

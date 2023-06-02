@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,074 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 39 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
 | 40 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 | 41 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
-| 42 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
+| 42 | [Beautiful Exchange \- Live](https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 10:43 |
 | 43 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
-| 44 | [Beautiful Exchange \- Live](https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 10:43 |
+| 44 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
 | 45 | [O, the Blood \- Live](https://open.spotify.com/track/3ERd26mAJIOgdCGzKe1Q7U) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [God Be Praised \(Live\)](https://open.spotify.com/album/4ZU3Ago2HLOzRPTmg8TX2C) | 5:28 |
 | 46 | [Mercy \- Live](https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Your Grace Finds Me \(Live\)](https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU) | 5:34 |
 | 47 | [Mighty Cross](https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:16 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 53 | [Alive In You \- Studio Version](https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Alive In You \(Studio Version\)](https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH) | 3:59 |
 | 54 | [Because He Lives \(Amen\)](https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Because He Lives \(Amen\)](https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H) | 3:20 |
 | 55 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
-| 56 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
-| 57 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
+| 56 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
+| 57 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
 | 58 | [My Savior My God \- Live](https://open.spotify.com/track/0TZk1K9QUBvYbKvyOlDd91) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made a Way \(Live\)](https://open.spotify.com/album/1lvkViacXRWI7hoMoIjKnJ) | 5:04 |
 | 59 | [Thief](https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:24 |
 | 60 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 |
 | 75 | [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 |
 
-Snapshot ID: `MCxhNTg0OWY4NmJmNDAwYWNiMGNkODU5NWQyYTNhNGM4MzQ0NjA5MDg3`
+Snapshot ID: `MCwzNmQ2ZGE1ZjdhYmIwYzllOTVmMTNmNDg5OWViZjdlYTE0MmZhZDMw`

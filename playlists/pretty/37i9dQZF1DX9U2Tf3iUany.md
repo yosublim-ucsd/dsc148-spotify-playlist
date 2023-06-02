@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,826 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,945 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 49 | [Marijuana](https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:20 |
 | 50 | [All I Ever Wanted](https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:02 |
 
-Snapshot ID: `MCwyY2YxMWVjYmU5NzI5MjgxNTllNjE1MDY3NmFlMTIzMmIzMzMzNGRi`
+Snapshot ID: `MCxlZTQzMDljM2IxZDhkNTRhODE2MjZjNTQ2MzAyYjQ5ODIzMjM4MWEw`

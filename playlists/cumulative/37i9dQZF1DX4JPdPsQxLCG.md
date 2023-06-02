@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-322 songs - 21 hr 19 min
+323 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 | 2022-09-10 | 2022-09-15 |
 | [Josie](https://open.spotify.com/track/2Raz3qhlFGMQWscZhWkNCV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/1YExkEfG8yevSjaWg5Z8xv) | 3:39 | 2022-05-02 | 2022-07-29 |
 | [Just Between You and Me](https://open.spotify.com/track/4ubP3X72lADwGkwivA0bIw) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The Nature of the Beast](https://open.spotify.com/album/7yH5n5t6OUaTnNwf2rrmbX) | 3:53 | 2022-05-02 | 2022-07-29 |
+| [Just Between You And Me](https://open.spotify.com/track/2Xa2C6ftMdcg3j7YSot8dY) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/1efEmTdyntOZvQgtaPdWcU) | 3:55 | 2023-05-19 |  |
 | [Just Between You And Me](https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6) | 3:55 | 2022-05-02 | 2023-05-13 |
 | [Knocking At The Door](https://open.spotify.com/track/3Is6K1wTqmJVYaAY8hIb6Y) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe Edition\)](https://open.spotify.com/album/1UM7iFcI1HXhDQo27U6lWl) | 3:42 | 2022-09-10 | 2022-09-15 |
 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 | 2022-05-02 | 2023-05-19 |
@@ -164,7 +165,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2023-05-18 |  |
 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 | 2022-05-02 | 2022-07-28 |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 | 2022-09-10 | 2022-09-15 |
-| [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 |  |
+| [Money City Maniacs](https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Navy Blues](https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6) | 3:53 | 2022-05-02 | 2023-06-02 |
 | [Monkey Bars](https://open.spotify.com/track/3hkXBT0vqoXzxmLRzBYAZl) | [Coney Hatch](https://open.spotify.com/artist/7gvIFmjP5KZ9ifQt599A6B) | [Best Of Three](https://open.spotify.com/album/5kbhLIHfnbBP4cZDGfNJ32) | 4:16 | 2022-05-02 | 2022-07-28 |
 | [Monster Hospital](https://open.spotify.com/track/3cFumR9mKXUyQutmdLELqb) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Live It Out](https://open.spotify.com/album/5HxOvmgzLJJfN3B6ecuYSi) | 3:30 | 2023-05-18 |  |
 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 | 2022-09-10 | 2022-09-15 |

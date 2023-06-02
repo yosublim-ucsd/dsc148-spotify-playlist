@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: 10cm) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 258617,
+  "num_followers": 258769,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjRhYWZmZDE2ZmIwZjdhMmUxYWQ0OGJmMWI2ZGJkN2QzNGU1MDJh",
+  "snapshot_id": "MCw2Nzk5Njk4MmJjOWI3MzJjYTM4MDMyOWJiMzYxYzVhNTAxOTM1M2E4",
   "tracks": [
     {
       "added_at": "2023-05-15 04:51:05",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
-      },
-      "artists": [
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "Tomorrow - SM STATION",
+        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "O_ne",
-        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 263453,
-      "name": "How's your night",
-      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -827,34 +827,18 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+        "name": "O_ne",
+        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
       },
       "artists": [
         {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
+      "duration_ms": 263453,
+      "name": "How's your night",
+      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -871,6 +855,22 @@
       "duration_ms": 234893,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "The 3rd EP",
+        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Yesterday You Left Me",
+      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
     },
     {
       "added_at": "2023-05-15 04:51:05",

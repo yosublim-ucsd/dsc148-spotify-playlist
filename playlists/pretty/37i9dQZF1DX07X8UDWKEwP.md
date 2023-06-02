@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Vicente García
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,668 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,714 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 21 | [Sin Fin](https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 |
 | 22 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 |
 | 23 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
-| 24 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 |
-| 25 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 |
+| 24 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 |
+| 25 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 |
 | 26 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
 | 27 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 28 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 35 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
 | 36 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 |
 | 37 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
-| 38 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
-| 39 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
-| 40 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
-| 41 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
-| 42 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
+| 38 | [La Noche Perfecta](https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [La Noche Perfecta](https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa) | 2:45 |
+| 39 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
+| 40 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
+| 41 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
+| 42 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
 | 43 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
 | 44 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 |
 | 45 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 49 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 50 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 
-Snapshot ID: `MCxlYmRkNjRiNmY2MDkwMTBjOTJiNmU4NmM5NzJkMzRlNWYzOTk1ZDM0`
+Snapshot ID: `MCwzY2Q1YmY0ZTRhYjRkNzNkZjI0OTZmNTMzNWVjYjE2NmFlZjU3NDRi`

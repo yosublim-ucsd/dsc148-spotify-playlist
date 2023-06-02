@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-749 songs - 1 day 16 hr 50 min
+750 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [By My Side](https://open.spotify.com/track/00QctTgvparNNWBckHPy6b) | [Aekae](https://open.spotify.com/artist/2YXVRXrYHVJrC5P1eTGYSu) | [By My Side](https://open.spotify.com/album/0QCWRcBWvAqXjAHh0tFQkP) | 3:18 | 2022-06-02 | 2023-02-22 |
 | [By Now](https://open.spotify.com/track/5L20XOA5QMyxxzbzll57xG) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [Apogee](https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH) | 3:21 | 2022-01-14 | 2022-02-17 |
 | [By Your Side](https://open.spotify.com/track/0dT1GtOA53003l85upQasN) | [Ericovich](https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI), [IAN SIZE](https://open.spotify.com/artist/5xIYTb3LUDOlTOnZ2CQlEW), [Ariadna Ruiz](https://open.spotify.com/artist/4A33dXzPLFqLFr5o1skF6T) | [By Your Side](https://open.spotify.com/album/3LWfqVquCf9LVP1uYfV8bc) | 2:53 | 2022-01-24 | 2022-02-26 |
+| [CAI PRA TRETA](https://open.spotify.com/track/3nHwiGg59nwrXiCYYswFyK) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [CAI PRA TRETA](https://open.spotify.com/album/4PGqvsA3ZzRwLqiUCWNunD) | 1:45 | 2023-06-01 |  |
 | [Call For Liberty](https://open.spotify.com/track/0cdXb2pnXT6H4Sjl8clMjJ) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:53 | 2022-08-18 | 2023-02-22 |
 | [Calling Out](https://open.spotify.com/track/42STSlHq3VMQcll52TwxtD) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 4:00 | 2022-01-14 | 2022-02-17 |
 | [Can't Do This Much Longer](https://open.spotify.com/track/4S7cygJWIauwYcyXG4h5fI) | [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Can't Do This Much Longer](https://open.spotify.com/album/2qB1XAKwCFxZTRR1agtHQx) | 2:38 | 2022-06-17 | 2022-07-29 |

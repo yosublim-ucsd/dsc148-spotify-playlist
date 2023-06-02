@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 339763,
+  "num_followers": 340004,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjdlMTQzOGMzMTNkMmYwYTNhNzZlYmU4ZTFlMTM2MDJjZWFjNjZm",
+  "snapshot_id": "MCwyYTNjMzRlYzNiYmQ5MDgyMmIxNzM0ZjZmNGEyMzZkZmE4ZWRiMjE4",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 170485,
       "name": "You're The One That I Want - Remastered 2022",
       "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Funkytown - Single Version",
-      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Along Came Jones",
         "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -827,22 +827,6 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -977,22 +961,6 @@
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Love Really Hurts Without You",
-      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Take The Heat Off Me",
@@ -1007,6 +975,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Love Really Hurts Without You",
+      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1505,20 +1489,20 @@
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
+      "added_at": "2023-05-23 07:27:41",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+        "name": "Tom Jones Sings She's A Lady",
+        "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
         }
       ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+      "duration_ms": 174146,
+      "name": "She's A Lady",
+      "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1537,20 +1521,20 @@
       "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
-      "added_at": "2023-05-23 07:27:41",
+      "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Tom Jones Sings She's A Lady",
-        "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 174146,
-      "name": "She's A Lady",
-      "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1571,22 +1555,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1599,6 +1567,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4MQXUCdpFPqi1jsM4N8aSR"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/2ozTcQyZQmm9tSmc4VZfwU"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Frankie Valli...Is The Word",
         "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
       },
@@ -1647,6 +1615,22 @@
       "duration_ms": 207306,
       "name": "Grease - 2007 Remaster",
       "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2115,22 +2099,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Les Annees Petula",
         "url": "https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR"
       },
@@ -2143,6 +2111,22 @@
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2179,22 +2163,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Oh! Carol",
-      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Greatest Hits / Tequila",
         "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
@@ -2223,6 +2191,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Oh! Carol",
+      "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
-        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Hot Stuff - Single Version",
-      "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -2403,18 +2387,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+      "duration_ms": 225666,
+      "name": "Hot Stuff - Single Version",
+      "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2431,6 +2415,22 @@
       "duration_ms": 287440,
       "name": "Lost in Music - 1995 Remaster",
       "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     }
   ],
   "unique_name": "Feel Good Classics",

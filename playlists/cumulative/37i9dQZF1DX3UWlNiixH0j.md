@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Tempalay
 
-497 songs - 1 day 7 hr 15 min
+499 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-03-30 | 2023-04-29 |
 | [a \(hey\)](https://open.spotify.com/track/1sGH32pmXnEhI5myHYhYi1) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [a \(hey\)](https://open.spotify.com/album/2SwEji0M37BGWE7nDKMUOG) | 3:09 | 2023-05-23 |  |
 | [A Bit On The Side](https://open.spotify.com/track/1f9nwOMTtMSLYvVreTnSyg) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [EP](https://open.spotify.com/album/2nFumk9wFMFhKU6FgiVcLL) | 2:02 | 2023-04-25 | 2023-05-24 |
-| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 |  |
+| [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-02 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 |  |
 | [Afraid??](https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Afraid??](https://open.spotify.com/album/0AwUv4QlEg7y7oZGSGtfW8) | 3:16 | 2023-01-12 | 2023-01-25 |
 | [Afterglows](https://open.spotify.com/track/7l5PXeGa7zA8uHGVmnEZk0) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Afterglows](https://open.spotify.com/album/4rITnQeJvDzwZ4nhvFeCtv) | 5:27 | 2023-01-17 | 2023-03-18 |
@@ -224,6 +224,7 @@
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-23 | 2023-05-31 |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 | 2023-02-24 |
 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 | 2023-03-30 |  |
+| [Passione](https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Passione](https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF) | 3:52 | 2023-06-01 |  |
 | [Pentatonic 物語](https://open.spotify.com/track/7f1ZL67EshqrNwoqBvFlWl) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [Marty Holoubek](https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF) | [Songbook6](https://open.spotify.com/album/3asyCHxLTPhQu11NlRCqWh) | 3:04 | 2023-03-07 | 2023-05-18 |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-04-20 |  |
 | [Pluto](https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Pluto](https://open.spotify.com/album/0jedCYvpwYIdVKq180Elh5) | 3:49 | 2023-01-12 | 2023-01-27 |
@@ -342,6 +343,7 @@
 | [いけしゃあしゃあ](https://open.spotify.com/track/4TonR0Lu99AkpVEUXLdNRy) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [いけしゃあしゃあ](https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp) | 4:14 | 2023-01-12 | 2023-02-01 |
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 |  |
 | [おまえも](https://open.spotify.com/track/3IdphYtjWRvJCaNsnyGqKP) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [ファンタジア](https://open.spotify.com/album/1GHSCT2NBD3Lcc6dFvv19x) | 4:26 | 2023-03-30 |  |
+| [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 |  |
 | [およげ!たいやきくん](https://open.spotify.com/track/7qUzvGiFT39l0hDbC8ExA2) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [およげ!たいやきくん](https://open.spotify.com/album/1VDndF2p3DrYHdGgfSPES1) | 4:03 | 2023-05-18 |  |
 | [きみのようになれるかな](https://open.spotify.com/track/0Ytmq9kI83vgqdwvBA9uNd) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あこがれ](https://open.spotify.com/album/39AFfvD3CUjQR0QHK7ETWg) | 4:08 | 2023-02-07 | 2023-03-01 |
 | [こわれるまで](https://open.spotify.com/track/4ToeANq3ZvWWyvI3Cg4iTc) | [カワサキケイ](https://open.spotify.com/artist/0zTen6WNnlPtho3KUkwOTX) | [こわれるまで](https://open.spotify.com/album/7CUWx3VkcxoEu8NRqfWVkZ) | 5:15 | 2023-01-12 | 2023-01-20 |
@@ -369,7 +371,7 @@
 | [ゆう5時](https://open.spotify.com/track/2mADSGp41V9kN2AmM4HRbY) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [xiangyu](https://open.spotify.com/artist/4YHFvbGOXo06pcFXOQszkB) | [symphil](https://open.spotify.com/album/7nLTJVDS7ovhfswVOa9S4X) | 2:54 | 2023-03-21 | 2023-04-24 |
 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 | 2023-05-09 | 2023-05-24 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
-| [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 |  |
+| [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 |  |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 |  |
 | [シエスタ](https://open.spotify.com/track/0cRRJ7O7fEC0mohyTrM3R1) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [シエスタ](https://open.spotify.com/album/0JqjF7QJ6758cXozWthn98) | 3:11 | 2023-04-25 | 2023-04-27 |

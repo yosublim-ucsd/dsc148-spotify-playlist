@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Eddy Herrera",
-  "num_followers": 381840,
+  "num_followers": 381882,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdkZGY1YTdiOTc4ZTAyYzI0MmE4NzgwOWIzZjc3N2I2YThmMDA2",
+  "snapshot_id": "MCwxYWMzMjI5YmZjOGUyMjQ1ZGFlYzM0NGVkMGI0MzUxZDk1OTMwOTcz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 231906,
       "name": "Merengue Electronico (Rompe Consola)",
       "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Soltemos al Mundo",
-        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
+        "name": "La Makina... A Mil",
+        "url": "https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "La Makina",
+          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
         }
       ],
-      "duration_ms": 213255,
-      "name": "Soltemos al Mundo",
-      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
+      "duration_ms": 250893,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Makina... A Mil",
-        "url": "https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn"
+        "name": "Soltemos al Mundo",
+        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
       },
       "artists": [
         {
-          "name": "La Makina",
-          "url": "https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX"
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 250893,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax"
+      "duration_ms": 213255,
+      "name": "Soltemos al Mundo",
+      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 300426,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 288866,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 300426,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
-      },
-      "artists": [
-        {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Mereng\u00f3n",
         "url": "https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 238915,
       "name": "Mereng\u00f3n",
       "url": "https://open.spotify.com/track/2XmVB1FSy1elvi2O2d8tBj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+      },
+      "artists": [
+        {
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
     },
     {
       "added_at": "2023-05-19 04:00:00",

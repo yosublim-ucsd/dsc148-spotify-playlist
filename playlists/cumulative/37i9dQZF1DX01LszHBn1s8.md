@@ -4,7 +4,7 @@
 
 > my beige flag is not putting my phone on silent during the night because i'm scared my alarm might not go off
 
-1,104 songs - 2 day 9 hr 56 min
+1,107 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,8 @@
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-16 |  |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-03-17 |  |
 | [Her Way \(Sped Up\)](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-01-25 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-05 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-30 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-05 | 2023-06-02 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-19 |  |
 | [High Enough](https://open.spotify.com/track/1D9HQactbJoUudf9B119Y5) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:51 | 2022-05-19 |  |
 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 | 2023-05-27 |  |
@@ -533,7 +534,8 @@
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-19 |  |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 |  |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2022-05-19 | 2023-01-13 |
-| [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-24 |  |
+| [Late to the Party](https://open.spotify.com/track/2eQsKNvDuggHAaiGRSd64S) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/0gFXVvBJnACHRy1A3CXBEE) | 2:57 | 2023-05-30 |  |
+| [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-24 | 2023-06-02 |
 | [Left Outside Alone](https://open.spotify.com/track/3xl7PsO7Hzuig6To9FgDm6) | [Anastacia](https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH) | [Anastacia](https://open.spotify.com/album/032ovDTHUzM5tWZeFqPPEA) | 4:17 | 2022-05-19 |  |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-21 |  |
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2022-05-19 | 2022-10-29 |
@@ -1085,7 +1087,8 @@
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-19 | 2022-07-29 |
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-03-23 |  |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-22 | 2023-04-16 |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-30 |  |
 | [Would I Lie To You? \- Album Edit](https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You?](https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR) | 3:43 | 2023-04-25 |  |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-05-19 |  |
 | [Ya Lili \- AHR Remix](https://open.spotify.com/track/0hmZNJCjnSfhekl0TwqbIu) | [Adam H Rohit](https://open.spotify.com/artist/0DhZkQdLvZsmzhQDBneTts), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Lili \(AHR Remix\)](https://open.spotify.com/album/4Rz3QBsei57qVSroQT89Lj) | 3:20 | 2022-05-19 | 2023-01-06 |

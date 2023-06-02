@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 146860,
       "name": "<3",
       "url": "https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 141048,
       "name": "calling for you",
       "url": "https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do"
@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Evergreen (feat. KLOE)",
+        "url": "https://open.spotify.com/album/0aL9igwFm3G63OPAH9DagN"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "KLOE",
+          "url": "https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Evergreen (feat. KLOE)",
+      "url": "https://open.spotify.com/track/4Jvsedk3KnknusOF8RDC5C"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
       },
@@ -552,7 +574,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184856,
       "name": "follow you",
       "url": "https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw"
@@ -592,6 +614,50 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "album": {
+        "name": "ghost (feat. HUMAN)",
+        "url": "https://open.spotify.com/album/3wIh99BbkbZ5DGOGxJ2bPR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "HUMAN",
+          "url": "https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236428,
+      "name": "ghost (feat. HUMAN)",
+      "url": "https://open.spotify.com/track/1FBe5ufpstCna9qm0Y6q9U"
+    },
+    {
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Haj",
+          "url": "https://open.spotify.com/artist/05WNscDcYnsCEMH42h1ehL"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268077,
+      "name": "Gipsy",
+      "url": "https://open.spotify.com/track/7mA03cPnG3UkLgf1ed87fI"
     },
     {
       "album": {
@@ -953,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "Looking Down From Space",
+        "url": "https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248955,
+      "name": "Looking Down From Space",
+      "url": "https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV"
+    },
+    {
+      "album": {
         "name": "Lose It",
         "url": "https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom"
       },
@@ -964,7 +1052,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 291818,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N"
@@ -1260,6 +1348,32 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Kezano",
+          "url": "https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136097,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas"
     },
     {
       "album": {
@@ -1711,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "rakkaus",
+        "url": "https://open.spotify.com/album/1YgHQC8MHFGfoBXTkiSOFV"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189350,
+      "name": "something we would dance to",
+      "url": "https://open.spotify.com/track/3SCxgfMHjQsyQ7fSHw5c9K"
+    },
+    {
+      "album": {
         "name": "Patchouli",
         "url": "https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU"
       },
@@ -1740,7 +1872,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 173906,
       "name": "TAKE ME HIGHER",
       "url": "https://open.spotify.com/track/10CW1gteP9joEzoxfpL3Zd"
@@ -1762,6 +1894,28 @@
       "duration_ms": 190281,
       "name": "talk",
       "url": "https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/4GAXTvUhu1NvcP3cM5G3Kj"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        },
+        {
+          "name": "Jonas LR",
+          "url": "https://open.spotify.com/artist/7qN5EMGrVqdjmYWdNJgbNO"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/0w5ebrPN1s8eLSVfA63L20"
     },
     {
       "album": {
@@ -1860,7 +2014,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 267096,
       "name": "Tw\u0113nty Minut\u0113s in th\u0113 Futur\u0113",
       "url": "https://open.spotify.com/track/1Xx5u7h6xIuMKDCnSeJSve"
@@ -1980,7 +2134,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"

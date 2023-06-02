@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Lil Durk
 
-319 songs - 16 hr 35 min
+320 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 | 2022-07-29 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-01 |  |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-05-13 | 2022-07-28 |
-| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-02 |  |
+| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-02 | 2023-06-02 |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2023-03-10 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-22 | 2022-08-31 |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 | 2023-05-26 |
@@ -213,6 +213,7 @@
 | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \- Remix](https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \[Remix\]](https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK) | 4:02 | 2022-10-14 |  |
 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-06 |  |
 | [Pablo](https://open.spotify.com/track/7HyP8FDHHTe5dQvpBYeQDz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Pablo](https://open.spotify.com/album/1SkU9AI6JwGiyYEYBFoRqr) | 1:48 | 2022-07-15 | 2022-07-29 |
+| [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Pain Talk \(feat\. Lil Tjay\)](https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ) | 2:36 | 2023-05-30 |  |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-02-21 | 2023-05-26 |
 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 | 2022-07-13 | 2022-12-01 |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-10-07 | 2022-10-22 |

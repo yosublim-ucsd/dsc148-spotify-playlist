@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 
 > The Latin soundtrack of the 90s! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,211 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,327 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 56 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 57 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
 | 58 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
-| 59 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
-| 60 | [Estrechez De Corazón](https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 6:23 |
+| 59 | [Estrechez De Corazón](https://open.spotify.com/track/3NJRgHeqBfHW8EI7ZYpg0z) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Corazones](https://open.spotify.com/album/1XqzXn8a7Z15Z5tBSouXcH) | 6:23 |
+| 60 | [La Tierra del Olvido](https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Tierra del Olvido](https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y) | 4:25 |
 | 61 | [Angel](https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Jon Secada](https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL) | 4:35 |
 | 62 | [Como Te Deseo](https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:29 |
 | 63 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 89 | [Llegar A Ti](https://open.spotify.com/track/6FuFhivTRqTtK5RYQavPTa) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Llegar A Ti](https://open.spotify.com/album/3t3IgcB1FoWX2X4Jca5eCw) | 4:32 |
 | 90 | [Ya Me Voy para Siempre](https://open.spotify.com/track/4316Ntihofu3zTa7b5OeGT) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [En Concierto, Vol\. 2](https://open.spotify.com/album/3LPGevFYVZeBWHbcik2qgu) | 4:13 |
 | 91 | [Turn the Beat Around](https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Hold Me, Thrill Me, Kiss Me](https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij) | 3:53 |
-| 92 | [Sopa de Caracol](https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Sopa de Caracol, Golden Hits \- Exitos de Siempre](https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ) | 4:48 |
-| 93 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 |
-| 94 | [Vida](https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:26 |
+| 92 | [Vida](https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:26 |
+| 93 | [Sopa de Caracol](https://open.spotify.com/track/3ralpk3PMxEPoFKO0hiJMv) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Sopa de Caracol, Golden Hits \- Exitos de Siempre](https://open.spotify.com/album/01naNJTQzXeef1d5oYd7AQ) | 4:48 |
+| 94 | [Pelo Suelto](https://open.spotify.com/track/3ZbIfOTLykp21uW9C6Qjjt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/37g1a9T6uyQu0Pwoz6ZkOA) | 3:27 |
 | 95 | [Pero Qué Necesidad](https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor De Los Tres Grandes](https://open.spotify.com/album/3Z5BcHC31NUFParR4uostL) | 5:51 |
 | 96 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2gcnNWEv9x0g6FhEeWtYuV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 5:03 |
 | 97 | [Rhythm Divine](https://open.spotify.com/track/067sYyLu6IdRP5bCubdSfl) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g1k3dwPPvk.md) - [plain]
 | 99 | [Decir Adios](https://open.spotify.com/track/6reBDUywHDqzG83LVQHscL) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Carlos Ponce](https://open.spotify.com/album/3pZKMylMWkwow7VbOQB6z2) | 4:29 |
 | 100 | [Rico Suave](https://open.spotify.com/track/6FfdQJ9HJcJAvsPVIyoGZ5) | [Gerardo](https://open.spotify.com/artist/1dqCEoBppk9X0WmOTJe993) | [Mo' Ritmo](https://open.spotify.com/album/1XtHtO1xVuCH53X1Vp3Fgc) | 4:51 |
 
-Snapshot ID: `MCw5ZTUxZGQ4YmNmYzk2ZjkxZGJlMTRmNTYwYzZjYzUwYzM1NzNmZDcy`
+Snapshot ID: `MCwxNzFkNzA3YmE3OTlkMjEzZjc2YjNjYTVlOGRlZjEwZTc4OWFjMGI1`

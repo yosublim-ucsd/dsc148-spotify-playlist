@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-642 songs - 1 day 12 hr 32 min
+643 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2eKY4TBKeXnUXMtSLj4R0n) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2cfDV7HO5hy7Gw4nHY3igS) | 2:31 | 2021-08-07 | 2021-08-16 |
+| [+ Q LA XUXA](https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [+ Q LA XUXA](https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN) | 2:40 | 2023-06-01 |  |
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2021-05-30 | 2021-05-31 |
 | [120](https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:31 | 2021-10-03 | 2021-12-31 |
 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 | 2023-02-04 | 2023-03-12 |
@@ -311,7 +312,7 @@
 | [Llamame Bebe](https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Llamame Bebe](https://open.spotify.com/album/1OoaNonXii9fD0tPpxBfKy) | 4:18 | 2022-12-25 | 2023-04-28 |
 | [Llorando Ausencia](https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r) | [Maihuen de los Angeles](https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR) | [Los Chamantos de Mi Chile](https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0) | 2:11 | 2022-09-17 | 2022-09-22 |
 | [Llorando en un Ferrari](https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:13 | 2021-11-28 | 2021-11-30 |
-| [Lo Malo](https://open.spotify.com/track/5VrETFmY5dw5qNMYcwPNKo) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Lo Malo](https://open.spotify.com/album/1upYZZXv8Uhq7yz5LnTpwi) | 3:48 | 2023-05-30 |  |
+| [Lo Malo](https://open.spotify.com/track/5VrETFmY5dw5qNMYcwPNKo) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Lo Malo](https://open.spotify.com/album/1upYZZXv8Uhq7yz5LnTpwi) | 3:48 | 2023-05-30 | 2023-06-02 |
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2021-10-07 | 2022-08-18 |
 | [LOCATION](https://open.spotify.com/track/478g4LSkyMB1PMkVOVmIaE) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 4:23 | 2021-03-27 | 2021-05-11 |
 | [LOCATION](https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LOCATION](https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR) | 4:25 | 2021-03-27\* | 2021-03-27 |

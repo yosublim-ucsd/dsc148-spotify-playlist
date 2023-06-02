@@ -488,10 +488,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 214520,
       "name": "Condor Ave",
       "url": "https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
     },
     {
       "album": {

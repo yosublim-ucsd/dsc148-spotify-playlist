@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gia Margaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,016 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,118 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Slow Motion](https://open.spotify.com/track/6M1FsPZO46XxOrG6wHa9NP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Slow Motion](https://open.spotify.com/album/1CoSmqgRXyhy5vvI5hrDld) | 2:57 |
 | 150 | [Path of Least Resistance](https://open.spotify.com/track/54nZbMoe196usom085LA0X) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Path of Least Resistance](https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2) | 2:50 |
 
-Snapshot ID: `MCxjYTI0NjYzNTkwNjkwNDkxNzE4NjhhMjA5N2ZlNzJjYzNjNDU3NmQy`
+Snapshot ID: `MCxmYTJlY2Q5N2MyNzU3ODg1NDM4MGEzY2NlYjNkOTg0ZjQ3OWQ1NzNl`

@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: needanamebro
 
-1,054 songs - 2 day 5 hr 4 min
+1,056 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Body Talk](https://open.spotify.com/track/61oWHTaFkijOZuyJEVYP6j) | [Andrea](https://open.spotify.com/artist/616WpPUg9RHskfwi4iGscv) | [Body Talk](https://open.spotify.com/album/4jnIySWZeshVzLH0Obs1Oi) | 2:46 | 2021-10-30 | 2022-02-19 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-14 | 2022-07-02 |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 |  |
-| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and Her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-12 |  |
+| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-12 |  |
 | [Bottled Up](https://open.spotify.com/track/62OhbVFaFnxYDhz07TdTnV) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Bottled Up](https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT) | 3:09 | 2021-01-23 | 2021-03-14 |
 | [Boy Next Door](https://open.spotify.com/track/0M7T57A2ZdNSkzjIs7Yp2h) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Boy Next Door](https://open.spotify.com/album/7kl8zBNtKkeAE61yr3d4QM) | 2:22 | 2021-05-14 | 2021-06-26 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-01-06 | 2023-03-18 |
@@ -260,7 +260,8 @@
 | [Don't Call Me A Friend](https://open.spotify.com/track/42CbU4IOINfy3jqXJa2BUQ) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Don't Call Me A Friend](https://open.spotify.com/album/0nqRDLcgNPQyuDHaFWH4EX) | 2:36 | 2022-02-25 | 2022-04-29 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-27 | 2022-10-01 |
 | [Don't Deserve This](https://open.spotify.com/track/1rh2CkzgCba4p8o7BldVuk) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Don't Deserve This](https://open.spotify.com/album/6la5gP1N1B6gIipTa7AwIG) | 2:49 | 2021-03-06 | 2021-04-10 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-26 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 | 2021-08-07 | 2021-10-16 |
 | [Don't Hate Me](https://open.spotify.com/track/740fSe2KremXUF2V6e4KnG) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Don’t Hate Me](https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq) | 2:42 | 2023-02-24 | 2023-04-29 |
 | [don't say you love me](https://open.spotify.com/track/1pzS6vBjEv8LJTX7A86bfJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't say you love me](https://open.spotify.com/album/37DhYqcRhaq4fuAlt3u4C9) | 2:44 | 2021-06-05 | 2021-07-10 |
@@ -809,7 +810,8 @@
 | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2021-09-10 | 2021-12-11 |
 | [Skin](https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skin](https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf) | 2:57 | 2021-01-23 | 2021-03-19 |
 | [Skinny Dipping](https://open.spotify.com/track/7u6HtmuMeuiVdwwFul5xHi) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Skinny Dipping](https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49) | 2:57 | 2021-09-10 | 2021-10-08 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-26 |  |
 | [sleeping on the floor](https://open.spotify.com/track/2SaMMF3gwdwTjWuR44LETg) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [sleeping on the floor](https://open.spotify.com/album/4MQRdmpYmA0GZx8XoUJLYi) | 2:33 | 2022-03-04 | 2022-05-14 |
 | [Sleepover](https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sleepover](https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx) | 2:48 | 2021-06-26 | 2021-09-10 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-05-18 | 2022-09-17 |

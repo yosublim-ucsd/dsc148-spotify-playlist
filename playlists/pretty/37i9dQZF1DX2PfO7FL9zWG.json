@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 50327,
+  "num_followers": 50362,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWNiYWU2MmEzMzk1YjFhNGIxMzY3MmExNGRkYWZjMDQ1NTRmYzJm",
+  "snapshot_id": "MCxiYzkzMGM0NjRmYzI2YmMyYzUwNGI4OGM5N2RmNjFiZWJkYWZlNGFk",
   "tracks": [
     {
       "added_at": "2023-04-21 14:07:22",
@@ -171,8 +171,8 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 198600,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -251,8 +251,8 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 240171,
       "name": "Walk Above the City",
       "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 360106,
-      "name": "The Girl",
-      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Bring Me Your Love (Special Edition)",
+        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 360106,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "To Live a Life",
-      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "To Live a Life",
+      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
     },
     {
       "added_at": "2023-04-21 14:07:22",

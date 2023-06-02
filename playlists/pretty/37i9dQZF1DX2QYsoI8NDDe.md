@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,004 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,005 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 20 | [Dije](https://open.spotify.com/track/2iaa3qdsbNieKVdcQRNb1P) | [Natalia Corona](https://open.spotify.com/artist/7G79nlCDum3JjrXUIVvxDa) | [Dije](https://open.spotify.com/album/7p720aufoYrD4YoC0oh6m3) | 2:48 |
 | 21 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 |
 | 22 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
-| 23 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
-| 24 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
+| 23 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
+| 24 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 25 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 26 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
 | 27 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 50 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 51 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
 | 52 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
-| 53 | [El Chico Aquel](https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [El Chico Aquel](https://open.spotify.com/album/2qcqsiuYR9K2JVfPfpkcgd) | 2:40 |
-| 54 | [8\-MER](https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [8\-MER](https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh) | 2:47 |
-| 55 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
+| 53 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
+| 54 | [El Chico Aquel](https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [El Chico Aquel](https://open.spotify.com/album/2qcqsiuYR9K2JVfPfpkcgd) | 2:40 |
+| 55 | [8\-MER](https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [8\-MER](https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh) | 2:47 |
 | 56 | [Muy Buena o Estúpida](https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Pa' Nosotras 8M](https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01) | 3:00 |
 | 57 | [Por Confiar En El Amor](https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Por Confiar En El Amor](https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6) | 2:46 |
 | 58 | [Sexo Débil \(TNMDQH\)](https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Soy Mala](https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe) | 2:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 65 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
 
-Snapshot ID: `MCwxYjIzNTk4Mzk0ZTUyZTcxY2UyYzVkNDNiYmFkMGJiYzA1ZWQxOGY0`
+Snapshot ID: `MCxhNjFlN2E0MTg4NTM5YTdhOTU2Y2NhMThmNTY4ODk1NmMxMGQ3MjE4`

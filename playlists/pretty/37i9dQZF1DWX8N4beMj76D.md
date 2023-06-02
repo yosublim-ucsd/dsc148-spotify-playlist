@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,024 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,027 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 3 | [Hallelujah](https://open.spotify.com/track/5S0pF13mOsTnYweFwFy4D0) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 5:08 |
 | 4 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
 | 5 | [Save the Last Dance for Me \- Live in Dublin](https://open.spotify.com/track/4gF4435jcJGLXvQe7hovtp) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In Dublin](https://open.spotify.com/album/4CKs4nbhva7asiYqsZpMOi) | 4:09 |
-| 6 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
-| 7 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 |
+| 6 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 |
+| 7 | [One of Us Cannot Be Wrong](https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:55 |
 | 8 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 9 | [If It Be Your Will \(feat\. Leonard Cohen\) \- Live in London](https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 5:22 |
 | 10 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 | 40 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 
-Snapshot ID: `MCwyMzYyOGU4MmQwYzBiNWZhZGZiNWExODA1ZTA4MzQxMDViODA5OWU4`
+Snapshot ID: `MCxiYmRlYzcyMjA3NmY5NTI3NGY3NGNiNzllYjAxYTU2OTA2NzNlYTJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Luis R Conriquez & Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,725 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,924 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 50 | [Seguimos Bateando \- En Vivo](https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Seguimos Bateando \(En Vivo\)](https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv) | 2:24 |
 | 51 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 |
 
-Snapshot ID: `MCw3MDNkZjAxYjQyYjAzMTQ3YWE5NWZmY2ZmNGNmYzcxN2RlYTkxMWQz`
+Snapshot ID: `MCxhZDZmMTM2MTY3ZWZhZGE3NjRlNTMxNjVkOGY0MjJhMzY4YWRlNjA4`

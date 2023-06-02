@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWQ0NGQzZGExZDM4MzIzZTA2ODJhZTcyZGIyYTBhY2E2NmM3ODUy",
+  "snapshot_id": "MCw3NGUzYzZiOWY5NmU2ZmM4ZDg0ODAzYjMyOTdmM2Y1MmJkYTY3MGI1",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "I'm Not Making out With You",
-      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "I'm Not Making out With You",
+      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
     },
     {
       "added_at": "2021-04-09 06:19:31",

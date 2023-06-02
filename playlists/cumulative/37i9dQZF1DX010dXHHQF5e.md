@@ -2,7 +2,7 @@
 
 ### [Duerme con Jazz](https://open.spotify.com/playlist/37i9dQZF1DX010dXHHQF5e)
 
-> Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
+> 
 
 236 songs - 12 hr 40 min
 

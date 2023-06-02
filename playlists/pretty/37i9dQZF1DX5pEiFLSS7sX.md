@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,857 likes - 100 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,943 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 31 | [Be Enthroned \- Live](https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Have It All \(Live\)](https://open.spotify.com/album/1Jwe1Xa8cuTizhE5EGozP2) | 8:05 |
 | 32 | [Pursue / All I Need Is You \- Medley/Live](https://open.spotify.com/track/58TKUOfACHyUpWE5DisSVF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 7:44 |
 | 33 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
-| 34 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
-| 35 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
+| 34 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
+| 35 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
 | 36 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 |
 | 37 | [Your Promises](https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Wake Up The Wonder](https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob) | 4:58 |
 | 38 | [Love Changes Everything \(Live\)](https://open.spotify.com/track/05OrXppgIcMhLaiNthwiMk) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 5:58 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 87 | [You Deserve It All](https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 6:02 |
 | 88 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 | 89 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
-| 90 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
-| 91 | [Never Going Back \(Live\) \[feat\. Brock Human\]](https://open.spotify.com/track/4DmEUh51ANACrLZOzNHR5C) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brock Human](https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 9:03 |
-| 92 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
-| 93 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
+| 90 | [Never Going Back \(Live\) \[feat\. Brock Human\]](https://open.spotify.com/track/4DmEUh51ANACrLZOzNHR5C) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brock Human](https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 9:03 |
+| 91 | [Tethered](https://open.spotify.com/track/2qeDQupafKL2K5mEVfEvCP) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:42 |
+| 92 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
+| 93 | [Sing My Way Back](https://open.spotify.com/track/6h5pFZKZMvobTx6UVceeyX) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 3:47 |
 | 94 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
 | 95 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 96 | [Not Afraid \- Live](https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 7:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [Beautiful Jesus](https://open.spotify.com/track/1We7RiH1lhfmPX8NeTcNwI) | [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Beautiful Surrender](https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd) | 6:31 |
 | 100 | [My All in All](https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:49 |
 
-Snapshot ID: `MCxhNjIxZTIwMWE2ZDM3ZGMyZDk2OGU3OGQ3M2NmZjQwMDVhODY2MWFl`
+Snapshot ID: `MCxiMzA1ZmFkM2MwMTk4ODNhMDI1M2MzODU5ZTRlMjBkNzczM2U0Y2E3`

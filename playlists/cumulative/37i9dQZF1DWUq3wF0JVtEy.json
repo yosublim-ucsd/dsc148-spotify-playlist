@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
@@ -5036,7 +5036,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
@@ -5280,6 +5280,24 @@
       "duration_ms": 146893,
       "name": "Release Me (feat. Kalhaader)",
       "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "album": {
@@ -6278,6 +6296,28 @@
       "duration_ms": 155238,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb"
+    },
+    {
+      "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
     },
     {
       "album": {

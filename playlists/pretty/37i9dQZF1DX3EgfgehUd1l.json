@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 149950,
+  "num_followers": 149988,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzIzMDBkOTk3ZTRlMWM5YWQ4MjE1ZDUzZWM4OWUxYTUwODY4MGFl",
+  "snapshot_id": "MCxlZTdmMGEyZGU3ZDlmYzAyYTk3ZGQ2Zjg2NzhjMjUwMjMzYzY0OWIx",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -891,6 +891,30 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "The Essential Perry Como",
+        "url": "https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
+      "url": "https://open.spotify.com/track/165n9dxHacuguzneup0HXQ"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "What Do You Want to Make Those Eyes At Me For?",
         "url": "https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 155880,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "The Essential Perry Como",
-        "url": "https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Mitchell Ayres & His Orchestra",
-          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
-        },
-        {
-          "name": "The Ray Charles Singers",
-          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
-      "url": "https://open.spotify.com/track/165n9dxHacuguzneup0HXQ"
     },
     {
       "added_at": "2020-07-08 17:36:08",

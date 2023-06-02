@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,484 likes - 60 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,568 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 2 | [Aconcagua](https://open.spotify.com/track/10wIWe1nfH6zwVslqX3Xoy) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv) | [Aconcagua](https://open.spotify.com/album/5r9UhYM9Qlu6MgGpsxW291) | 1:59 |
 | 3 | [Samui Sunrise](https://open.spotify.com/track/1D9DJXFwwB91MBatZ7wnSv) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Samui Sunrise](https://open.spotify.com/album/11SEX74GX3RCdRtrle8dKv) | 3:24 |
 | 4 | [Afrokech](https://open.spotify.com/track/3pPvIIHgfuAPgn9nJ5xW23) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Afrokech](https://open.spotify.com/album/4lXI38vVvwwbmiFB2vEB5o) | 2:18 |
-| 5 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
-| 6 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
+| 5 | [Deserted Tree](https://open.spotify.com/track/3qhJ26BGjhOLOFfdNtFOgd) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Deserted Tree](https://open.spotify.com/album/5fr2qkbIr8nqvexltrf1E1) | 2:45 |
+| 6 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
 | 7 | [Anata](https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:19 |
 | 8 | [Chill in Lydda](https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Chill in Lydda](https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu) | 2:36 |
 | 9 | [Heliolingus](https://open.spotify.com/track/27Z1479QzFOWOaSRbWpgEu) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Heliolingus](https://open.spotify.com/album/2lLzW831DY8i0fHoDeSAF0) | 2:52 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 45 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
 | 46 | [Eshkol](https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Eshkol](https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV) | 1:58 |
 | 47 | [If You Show Me Love](https://open.spotify.com/track/60xIJpG6Iah0i5IQxyRlXK) | [Sereen](https://open.spotify.com/artist/7rB1y5WUwQqiiCmNxFzunH) | [If You Show Me Love](https://open.spotify.com/album/6O0f7boDgPl6KhA1YIAR2i) | 1:30 |
-| 48 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
-| 49 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
+| 48 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
+| 49 | [100=1](https://open.spotify.com/track/77cwNBtWc0sC5R1XAJ703p) | [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 4:37 |
 | 50 | [Wie im Traum \- Instrumental](https://open.spotify.com/track/2XlOrYMsqtvxFTtO3ktDhQ) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:24 |
 | 51 | [Qahwah Con Leche](https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24) | [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk) | [Qahwah Con Leche](https://open.spotify.com/album/4qhILwo49DJUZLXEaaM0fF) | 3:32 |
-| 52 | [yoyogi park](https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [tv\-guides \. \(mini\-tape\)](https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi) | 1:19 |
-| 53 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
+| 52 | [Emot](https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs) | [TheeAgris](https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB) | [Emot](https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7) | 2:26 |
+| 53 | [yoyogi park](https://open.spotify.com/track/2ZR0mEea2xskfYAuWlhV81) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [tv\-guides \. \(mini\-tape\)](https://open.spotify.com/album/5PVs5XNLertK5QGHzoZmGi) | 1:19 |
 | 54 | [Mawj](https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou) | [Moseqar](https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH) | [Mawj](https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W) | 3:27 |
 | 55 | [Daydream in Green](https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Daydream in Green](https://open.spotify.com/album/3nkRVQuQNbFm3sid5OPCOR) | 3:40 |
 | 56 | [Dini Maak](https://open.spotify.com/track/5q8EKTjlWkcMjoMWCdHeHb) | [El 3ou](https://open.spotify.com/artist/38h3VqFpjD1n62bnLXq6B9) | [Dini Maak](https://open.spotify.com/album/3wwQ2C251PhaWMg4HOJKNg) | 1:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 59 | [Instant Knafeh](https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec) | [Kawakb](https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp) | [Instant Knafeh](https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz) | 3:12 |
 | 60 | [Xvibe](https://open.spotify.com/track/0jDRb7fzYpHLHodknLCmBt) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 0:52 |
 
-Snapshot ID: `MCw4Zjc2Zjk1OTk3YzlhY2NlZDQ1MjU4ZmI3NGVlNTdhM2FkMTExYjMx`
+Snapshot ID: `MCxhZjBlZjI2NDZmOWZkMGM2N2QzYmE1ZmVhZTljYzJhYzFhZDcwNmI3`

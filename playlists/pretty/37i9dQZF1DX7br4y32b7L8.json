@@ -1,12 +1,12 @@
 {
   "description": "lekker op vakantie met Anne-Fleur! Cover: Roxy Dekker\n",
-  "num_followers": 12864,
+  "num_followers": 12913,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmNlY2E0MGRiMGZlMTNkZDlhZTRkN2QzMDE1MjA3ZjcxYTkwZDNl",
+  "snapshot_id": "MCxmZWJkNjAwZjc1MGYyNDQ3NjI2ZDliMTRmNjRlZTNkZWUxNzhhZDg2",
   "tracks": [
     {
       "added_at": "2023-05-31 13:05:39",
@@ -743,7 +743,7 @@
     {
       "added_at": "2023-05-31 13:05:39",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -752,20 +752,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

@@ -306,10 +306,28 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 183848,
       "name": "Honey Dip",
       "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
+    },
+    {
+      "album": {
+        "name": "Shake the Bass 4",
+        "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183848,
+      "name": "Honey Dip",
+      "url": "https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Veigh e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "DENNIS, MC Kevin o Chris e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 180504,
       "name": "Assunto Delicado - Ao Vivo",
       "url": "https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O"
@@ -1853,6 +1853,74 @@
     },
     {
       "album": {
+        "name": "Ela Voltou de Perna Bamba",
+        "url": "https://open.spotify.com/album/0yqNgSv3rV1saE5YfUVSUs"
+      },
+      "artists": [
+        {
+          "name": "MC Guh SR",
+          "url": "https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR"
+        },
+        {
+          "name": "Dj Pikeno Mpc",
+          "url": "https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+        },
+        {
+          "name": "MC P\u00ea Original",
+          "url": "https://open.spotify.com/artist/1DqzXlcCmklnLECrUuo1DC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Ela Voltou de Perna Bamba",
+      "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188497,
+      "name": "Engana Dizendo Que Ama",
+      "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
+    },
+    {
+      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -2881,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Manda um Oi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166490,
+      "name": "Manda um Oi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh"
+    },
+    {
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -3726,7 +3816,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177551,
       "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
       "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
@@ -5308,7 +5398,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"

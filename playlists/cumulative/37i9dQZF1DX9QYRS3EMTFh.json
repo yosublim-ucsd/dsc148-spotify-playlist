@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Bamby",
+  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 167640,
       "name": "CHAUD PATATE",
       "url": "https://open.spotify.com/track/0Q2rHoed5X9tlqFEu3fwra"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 193170,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 146000,
       "name": "KIMPEMBE",
       "url": "https://open.spotify.com/track/6qNqMw6bXD4Y8zNMe4epob"
@@ -2700,6 +2700,32 @@
       "duration_ms": 137845,
       "name": "Koussi Koussa (feat. Jahyanai)",
       "url": "https://open.spotify.com/track/7q3HHz30BuCvxrvJbAnZBW"
+    },
+    {
+      "album": {
+        "name": "HUSTLER",
+        "url": "https://open.spotify.com/album/7JCTRhSMh0Twq7yUfY0CyW"
+      },
+      "artists": [
+        {
+          "name": "CRAAZY",
+          "url": "https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd"
+        },
+        {
+          "name": "WAH WAAH",
+          "url": "https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114569,
+      "name": "KOZ\u00c9 CHO",
+      "url": "https://open.spotify.com/track/708xBnPh7gOyMz1pjqH7rL"
     },
     {
       "album": {
@@ -4349,6 +4375,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/53BFWmG4NcwJNxpN0EuM4g"
+      },
+      "artists": [
+        {
+          "name": "Panik-J",
+          "url": "https://open.spotify.com/artist/5OULVkt7rCbD6NQIrxuaYP"
+        },
+        {
+          "name": "Terrell Elymoor",
+          "url": "https://open.spotify.com/artist/4Tg0FbE5HDr1VPf2TjMmD5"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121488,
+      "name": "Shatta Mood",
+      "url": "https://open.spotify.com/track/5SJdzs81BfCgAHXmlM4xyg"
+    },
+    {
+      "album": {
         "name": "Shatta Twist",
         "url": "https://open.spotify.com/album/6CqrWIfIYv8gI8aGLlBTP8"
       },
@@ -4580,7 +4628,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165981,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o"
@@ -4887,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "Mad Ting 3",
+        "url": "https://open.spotify.com/album/6FX5PeWBmj7XAUsOkqi34i"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135651,
+      "name": "Tikitak",
+      "url": "https://open.spotify.com/track/6z2pL9JslKLIWbsm68s1V4"
+    },
+    {
+      "album": {
         "name": "Titi (feat. Meiitod)",
         "url": "https://open.spotify.com/album/31wKQE67ZPg45Zy1AV9gfW"
       },
@@ -5038,7 +5108,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 131538,
       "name": "Tun Up",
       "url": "https://open.spotify.com/track/4b1vWqoVyMlB3nPVMicTF9"
@@ -5068,6 +5138,28 @@
       "duration_ms": 212352,
       "name": "Turn It up Hard",
       "url": "https://open.spotify.com/track/74r7MXeF0CtyuPOTJmpwTl"
+    },
+    {
+      "album": {
+        "name": "Turn Me On (with Jada Kingdom)",
+        "url": "https://open.spotify.com/album/3jPUbEDcV2Q0dSpXXOw84i"
+      },
+      "artists": [
+        {
+          "name": "The 9ine",
+          "url": "https://open.spotify.com/artist/25f1NjILSP7owhgqIQNOPg"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168583,
+      "name": "Turn Me On (with Jada Kingdom)",
+      "url": "https://open.spotify.com/track/3RN7OlUay6Atp5cFjrbkPe"
     },
     {
       "album": {
@@ -5112,6 +5204,28 @@
       "duration_ms": 178181,
       "name": "Up Deh",
       "url": "https://open.spotify.com/track/6rf927WwNAaaBKSIE6iUU1"
+    },
+    {
+      "album": {
+        "name": "Fluide+",
+        "url": "https://open.spotify.com/album/3IaE3CdbwJa2gFuRtX7ql6"
+      },
+      "artists": [
+        {
+          "name": "Yelsha",
+          "url": "https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo"
+        },
+        {
+          "name": "GO GO GO",
+          "url": "https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155053,
+      "name": "Updown",
+      "url": "https://open.spotify.com/track/5YpUq5yJ9VXeEEkGPoQYsU"
     },
     {
       "album": {

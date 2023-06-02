@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Con te vi en un planetario, en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,924 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,949 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 47 | [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 |
 | 48 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
 | 49 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 |
-| 50 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 |
+| 50 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
 
-Snapshot ID: `MCwxYjBjYTFiOWQyNzNjNTQ2NGZmN2VmZTZjYjRkZWI0MWFjMWE4MjMw`
+Snapshot ID: `MCxkODMzZmI1ODYwNDhjNWNkZTk5YTRjNmZhMTUxMzM3MzAyZGEyNTVl`

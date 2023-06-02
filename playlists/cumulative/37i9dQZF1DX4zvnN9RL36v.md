@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-109 songs - 7 hr 11 min
+110 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 | 2022-03-07 |  |
 | [Dumb](https://open.spotify.com/track/07VS16GjEAzfWYWYUL3kFT) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 6:09 | 2022-03-07 | 2022-07-29 |
 | [Dumb](https://open.spotify.com/track/6EkQWlX49yLrjFzN805uth) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/0lEZh2kcmj5rDvoL81yqRX) | 6:09 | 2022-06-09 | 2022-08-19 |
+| [Eul](https://open.spotify.com/track/1q8CLlYUpJizfQHBhUPBLg) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [SONYEON TAPE](https://open.spotify.com/album/7ppnwkw3qShf71UVAa7Ffg) | 3:23 | 2023-05-02 |  |
 | [Eul \(feat\. Gyeong Je Hwan\)](https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes, Pt\. 6](https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote) | 3:23 | 2022-06-09 | 2023-01-26 |
 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 | 2022-03-07 |  |
 | [Greeting](https://open.spotify.com/track/0CTBmhehdUdUEPem5CkONV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate,Pt.6\(Original Television Soundtrack\)](https://open.spotify.com/album/4EnCGhf9SF7fcJHldfWdqc) | 3:25 | 2022-03-07 | 2022-07-29 |
@@ -47,7 +48,7 @@
 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 | 2022-03-07 |  |
 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 | 2022-06-09 |  |
 | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/track/36OfOb4vcMDpnCp08CkAoZ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\) 좋아해 \(bye\)](https://open.spotify.com/album/6cUZKyRcIN505hk8MxDm2v) | 3:39 | 2022-03-07 | 2022-07-29 |
-| [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 |  |
+| [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-25 | 2023-06-02 |
 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 | 2022-03-07 |  |
 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 | 2022-03-07 |  |
 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2022-03-07 |  |

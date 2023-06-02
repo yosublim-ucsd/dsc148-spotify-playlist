@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,434,609 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434,812 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 |
 | 150 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
 
-Snapshot ID: `MCwzMGFhNzU1M2FkMzBkYTYyNGM2N2QwN2ZmYjE0NzhkMTNiNGQ0MGNh`
+Snapshot ID: `MCxkZGExN2U0NTBkYjM1Y2U0NjZlNDA5ZTk2MmIyMzc2NTYxZGU1OTI0`

@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 195428,
       "name": "Addo Staje",
       "url": "https://open.spotify.com/track/3AE8w0nzeosiLXfXRVQOXg"
@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "CREATUR",
+        "url": "https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4"
+      },
+      "artists": [
+        {
+          "name": "Pit",
+          "url": "https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157093,
+      "name": "CREATUR",
+      "url": "https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh"
+    },
+    {
+      "album": {
         "name": "Cuore",
         "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
       },
@@ -1232,6 +1250,32 @@
       "duration_ms": 145257,
       "name": "GAS",
       "url": "https://open.spotify.com/track/6351T1EhGpm7IAnsmXplnn"
+    },
+    {
+      "album": {
+        "name": "Genny e Mattia",
+        "url": "https://open.spotify.com/album/2VB3t5nVljtzj0qJwePSIj"
+      },
+      "artists": [
+        {
+          "name": "Kepa",
+          "url": "https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg"
+        },
+        {
+          "name": "Manuel Erry",
+          "url": "https://open.spotify.com/artist/3EuxW7IEIQFkxTKHSq8ETH"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194197,
+      "name": "Genny e Mattia",
+      "url": "https://open.spotify.com/track/0Ok5OqNJtBwU6iROg4M5cA"
     },
     {
       "album": {
@@ -3260,7 +3304,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177288,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/21kRy3Z2XAL80IOabWrOnx"

@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Boucan d'enfer",
+        "url": "https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263666,
+      "name": "Docteur Renaud, Mister Renard",
+      "url": "https://open.spotify.com/track/7MEvMhZkzGDZJEQGr4JBdb"
+    },
+    {
+      "album": {
         "name": "Bruxelles",
         "url": "https://open.spotify.com/album/5znqZbAnfZtufdkJEyMcNN"
       },
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 240200,
       "name": "Nos c\u00e9l\u00e9brations - Edit",
       "url": "https://open.spotify.com/track/50TIALxJW2k7XntjaVzrt1"

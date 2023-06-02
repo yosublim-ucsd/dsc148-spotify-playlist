@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Let these happy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,456 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,049 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 12 | [I Feel Good](https://open.spotify.com/track/09sq0BHe85uV2ADUx1gaiA) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Anjaana Anjaani](https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9) | 5:17 |
 | 13 | [Mileya Mileya](https://open.spotify.com/track/2IarWd16hKAvXU8vnEunVb) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Happy Ending \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tkBjsDswNuXjfVertqYPV) | 4:26 |
 | 14 | [Tu Mileya](https://open.spotify.com/track/7glqjOAauUoPmOXp2Ovpcf) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tu Mileya](https://open.spotify.com/album/21wYDuEQeG7jvdeMe7S73r) | 3:13 |
-| 15 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\)](https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Single](https://open.spotify.com/album/4GEXGGOjUBuSHR4KgaSngh) | 3:09 |
+| 15 | [Tere Vaaste](https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Zara Hatke Zara Bachke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Yb13Od1beXcshjO6vSskt) | 3:09 |
 | 16 | [Mere Liye Tum Kaafi Ho](https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Shubh Mangal Zyada Saavdhan](https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU) | 2:12 |
 | 17 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 |
 | 18 | [Dildaara \(Stand By Me\)](https://open.spotify.com/track/6ZoCBDOB308GqUdt2AJrV2) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 |
 | 50 | [Offo](https://open.spotify.com/track/3f26GAn3yOXfoclLyN8AdD) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [2 States](https://open.spotify.com/album/4PmYasI57t8uJJAOt0zKud) | 3:33 |
 
-Snapshot ID: `MCwxZDdhYzMxOGUwNDM5MGU5MzY1OWEyN2Y0YWFmMDMxMTM5Yzg2ZDg5`
+Snapshot ID: `MCxhODczMGE5MTlkNzhkMWM2NDZjZjU4NDQ0Yzg2MDNmZmUyNWI5ZWU5`

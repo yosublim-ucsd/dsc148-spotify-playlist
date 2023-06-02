@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 4267,
+  "num_followers": 4275,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjE5NmZiMjFlNDM4MDRmNjkzMGNiMGZkN2YzMjI1MGRhZDE1NzIw",
+  "snapshot_id": "MCw2ZjcwMzdiMjk1NWMwZjdmNzBjN2I4YzliMTJhY2JmMTQzMWIwNGU4",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
+        "name": "Drop the Bomb",
+        "url": "https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU"
+      },
+      "artists": [
+        {
+          "name": "Trouble Funk",
+          "url": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
+        }
+      ],
+      "duration_ms": 415746,
+      "name": "Search and Destroy - Arcade Funk A",
+      "url": "https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
         "name": "Sticky Situation (Expanded)",
         "url": "https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Rare Preludes, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
-      },
-      "artists": [
-        {
-          "name": "Wuf Ticket",
-          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
-        }
-      ],
-      "duration_ms": 402760,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Lost in Space",
         "url": "https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 383541,
       "name": "We are the Jonzun Crew",
       "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Rare Preludes, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
+      },
+      "artists": [
+        {
+          "name": "Wuf Ticket",
+          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
+        }
+      ],
+      "duration_ms": 402760,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -703,22 +719,6 @@
       "duration_ms": 421520,
       "name": "Love So Deep",
       "url": "https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
-        "name": "Drop the Bomb",
-        "url": "https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU"
-      },
-      "artists": [
-        {
-          "name": "Trouble Funk",
-          "url": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
-        }
-      ],
-      "duration_ms": 415746,
-      "name": "Search and Destroy - Arcade Funk A",
-      "url": "https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7"
     },
     {
       "added_at": "2020-08-28 18:46:05",

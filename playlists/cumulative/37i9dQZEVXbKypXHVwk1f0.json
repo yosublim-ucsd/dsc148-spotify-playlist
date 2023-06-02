@@ -5372,7 +5372,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
@@ -7158,6 +7158,36 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "album": {
+        "name": "La Ruta",
+        "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221100,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
     },
     {
       "album": {

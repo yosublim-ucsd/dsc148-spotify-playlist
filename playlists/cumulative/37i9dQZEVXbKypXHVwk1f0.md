@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-773 songs - 1 day 20 hr 6 min
+774 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-25 | 2022-10-08 |
 | [Fulanito](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Fulanito](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2021-07-27 | 2021-09-05 |
 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 | 2021-12-05 | 2021-12-06 |
-| [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2022-12-24 |  |
+| [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2022-12-24 | 2023-06-02 |
 | [GATÚBELA](https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:28 | 2023-02-25 | 2023-03-19 |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-08-27 | 2023-02-26 |
 | [Giga](https://open.spotify.com/track/1UIVqQ8pqlvoSlPy9esKd6) | [Miguelito](https://open.spotify.com/artist/4gwgJqemp17xhiPm7pEAqu) | [Giga](https://open.spotify.com/album/6aXyh9hv7Z91eD1LZwp8sd) | 2:37 | 2022-08-21 | 2022-09-24 |
@@ -350,6 +350,7 @@
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-03-27\* | 2022-03-04 |
 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 | 2021-04-11 | 2021-07-04 |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2021-03-27\* | 2021-04-11 |
+| [La Ruta](https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [La Ruta](https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn) | 3:41 | 2023-06-01 |  |
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2022-02-05 | 2022-11-26 |
 | [La Sesión \#47](https://open.spotify.com/track/3X8NRejOXJ0gKzDC6qVzn6) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa), [Alberto Sandino](https://open.spotify.com/artist/1g7k0SBYc922yRdRPmFg47), [Directed by Karma](https://open.spotify.com/artist/5bgxAPHQ7LSyVnnxsEKxQR) | [La Sesión \#47](https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm) | 3:03 | 2021-12-31 | 2022-06-01 |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2021-03-27\* | 2021-05-05 |

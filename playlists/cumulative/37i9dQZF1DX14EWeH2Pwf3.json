@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Ernia, Bresh, Fabri Fibra",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: AVA, ANNA, Capo Plaza",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 208323,
       "name": "CENERE",
       "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 179863,
       "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
@@ -2563,6 +2563,28 @@
     },
     {
       "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+    },
+    {
+      "album": {
         "name": "HOE + HARD (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
       },
@@ -3583,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/3myPe2jZvDbPoNXY7v2TU0"
+    },
+    {
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/4hPNVvtU3MXV6Oefi11Zx3"
       },
@@ -3602,6 +3642,28 @@
       "duration_ms": 166796,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/7d7xucQmFY7PoESyJm2V9J"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231296,
+      "name": "Mancanze Affettive (feat. Geolier)",
+      "url": "https://open.spotify.com/track/3UWQoiOrlvHalgvyznur78"
     },
     {
       "album": {
@@ -4212,7 +4274,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 161853,
       "name": "NO LOVE (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/55PcknO9mJhaB4eAuXW0Ch"
@@ -4786,7 +4848,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 148997,
       "name": "PENSAVA",
       "url": "https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X"
@@ -5134,6 +5196,36 @@
       "duration_ms": 155087,
       "name": "Possessivo",
       "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
+    },
+    {
+      "album": {
+        "name": "Profesora (feat. VillaBanks, Vegas Jones, Smeia)",
+        "url": "https://open.spotify.com/album/5Cw9gda7GFI6YyY92ZEIW1"
+      },
+      "artists": [
+        {
+          "name": "Rossella Essence",
+          "url": "https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        },
+        {
+          "name": "Smeia",
+          "url": "https://open.spotify.com/artist/1Fnb8NPRp4aj406R8J9bsw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179625,
+      "name": "Profesora (feat. VillaBanks, Vegas Jones, Smeia)",
+      "url": "https://open.spotify.com/track/3ljFwkTwDnXgDGr53FTSIV"
     },
     {
       "album": {
@@ -5856,7 +5948,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 151579,
       "name": "Sintetico (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45"
@@ -5962,7 +6054,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 173408,
       "name": "SON FATTO COS\u00cc",
       "url": "https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX"
@@ -6070,6 +6162,28 @@
       "duration_ms": 237632,
       "name": "STURDY",
       "url": "https://open.spotify.com/track/5KYHtcY0dtXkSxZwtVMjgp"
+    },
+    {
+      "album": {
+        "name": "Stylist (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/51AjDPkrqMcW3WnXUiWJX5"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139571,
+      "name": "Stylist (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT"
     },
     {
       "album": {
@@ -6478,6 +6592,28 @@
       "duration_ms": 169714,
       "name": "Vodka (feat. ANNA)",
       "url": "https://open.spotify.com/track/5PenP8v9fJ3ccElGKOKT9s"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148367,
+      "name": "Volgare (feat. Lazza)",
+      "url": "https://open.spotify.com/track/708IwQiqAhZMMpLQr41YkD"
     },
     {
       "album": {

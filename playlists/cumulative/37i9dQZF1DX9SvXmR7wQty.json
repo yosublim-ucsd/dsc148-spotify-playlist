@@ -12833,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192859,
+      "name": "Halla",
+      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
+    },
+    {
+      "album": {
         "name": "Handle Me (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
       },
@@ -15414,6 +15432,24 @@
       "duration_ms": 189773,
       "name": "Je ne te dirai pas",
       "url": "https://open.spotify.com/track/7EJQIs8SgCykgdn3XehEmC"
+    },
+    {
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa"
     },
     {
       "album": {
@@ -18142,7 +18178,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177282,
       "name": "Le blanc des yeux",
       "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
@@ -20968,7 +21004,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 133822,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"

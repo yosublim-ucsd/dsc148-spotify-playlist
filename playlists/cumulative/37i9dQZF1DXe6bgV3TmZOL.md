@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-383 songs - 1 day 0 hr 11 min
+384 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Coming Undone](https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 3:19 | 2022-11-02 |  |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-11-02 |  |
 | [Cross Off](https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Cross Off](https://open.spotify.com/album/4ePpOl2GPiJuZ75RSdN1FB) | 4:13 | 2021-11-12 | 2023-05-15 |
+| [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 | 2023-05-25 |  |
 | [Crossfire](https://open.spotify.com/track/1e0AQPT1PJSM15eeVBOIET) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Defy](https://open.spotify.com/album/1QED6mADLZLJnGPbjp1A2a) | 3:40 | 2022-11-02 | 2022-11-13 |
 | [Crossfire](https://open.spotify.com/track/3zXXm2D9Vh4jven3HNcDW8) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Defy](https://open.spotify.com/album/6osYhx2pWasj2CXdC2BMqt) | 3:40 | 2021-11-12 | 2022-07-29 |
 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 | 2021-11-12 |  |
@@ -170,7 +171,7 @@
 | [Hexagram](https://open.spotify.com/track/2xgvuJvwjnaJHFHb66E3nq) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:10 | 2022-11-02 | 2023-02-02 |
 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 | 2021-11-12 |  |
 | [I Am Above](https://open.spotify.com/track/6RbSpgqV4oDW0x6NxeHlqn) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I Am Above](https://open.spotify.com/album/2gocWkA7KIxe4DN7CqKuJQ) | 3:49 | 2021-11-12 | 2022-07-29 |
-| [I Am Above](https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, The Mask](https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks) | 3:49 | 2023-05-25 |  |
+| [I Am Above](https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, The Mask](https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks) | 3:49 | 2023-05-25 | 2023-06-02 |
 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 | 2021-11-12 | 2022-08-06 |
 | [I'm Not Right](https://open.spotify.com/track/6WjD2x0UB9p9dgoZmRsh0o) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/48e7WM5EplXyxwcpya1jhm) | 3:47 | 2021-11-12 | 2022-07-29 |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2022-07-13 | 2022-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring pluko",
-  "num_followers": 753165,
+  "num_followers": 753215,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDllMTg0OWI4ZTRiNGJlYWZjMjM5YjFkMmY3ZjMyY2FkOTIzMjBi",
+  "snapshot_id": "MCwxYjVmN2QyODQ2YjM2ZmJhNGFmM2MwZDFiNjM3MDg1ZDAzMDRjMWIx",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Down The Line",
+        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Down The Line",
+      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Down The Line",
-        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Down The Line",
-      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "IDFLU",
         "url": "https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "PLASTIC",
         "url": "https://open.spotify.com/album/0la5wm4k6MJJylzdxo3exf"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 164545,
       "name": "PLASTIC",
       "url": "https://open.spotify.com/track/5InVD4HUCVlE7hDXm7xqL6"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
-      },
-      "artists": [
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -1539,18 +1519,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
       },
       "artists": [
         {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
         }
       ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 282000,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 183445,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Spirals",
-        "url": "https://open.spotify.com/album/2P85EE9RpHbfE6AGGH50L9"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 239111,
-      "name": "Spirals",
-      "url": "https://open.spotify.com/track/33uVSLMUG25NciH00AIRnT"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "David Blaine",
         "url": "https://open.spotify.com/album/0v2LdD40ZuNY63LEmRsbrV"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 128571,
       "name": "April (Eyes)",
       "url": "https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Spirals",
+        "url": "https://open.spotify.com/album/2P85EE9RpHbfE6AGGH50L9"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 239111,
+      "name": "Spirals",
+      "url": "https://open.spotify.com/track/33uVSLMUG25NciH00AIRnT"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "UNITY",
+        "url": "https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        }
+      ],
+      "duration_ms": 273939,
+      "name": "Free Range",
+      "url": "https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "BART SIMPSON",
         "url": "https://open.spotify.com/album/1Iz7rzKWbyqpYka6vUXnFP"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 227507,
       "name": "BART SIMPSON",
       "url": "https://open.spotify.com/track/6Lnn80jSi8L5bMSUMcGG2V"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "UNITY",
-        "url": "https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        }
-      ],
-      "duration_ms": 273939,
-      "name": "Free Range",
-      "url": "https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3"
     },
     {
       "added_at": "2023-05-26 04:00:00",

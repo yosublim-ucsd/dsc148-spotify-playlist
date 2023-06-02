@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Don Omar y Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,761 likes - 73 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,769 likes - 73 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 34 | [Dios \#1](https://open.spotify.com/track/5xP4rmVm5frtwOPwbmZNQw) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:20 |
 | 35 | [LA CURA](https://open.spotify.com/track/4IgDrfUsMZopLdSNMPgsGX) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [LA CURA](https://open.spotify.com/album/7q1qtrcdBu4s7ePK6JGTz4) | 3:56 |
 | 36 | [MI MOMENTO](https://open.spotify.com/track/6r9gMaEWEp2w9bgRVh0G3t) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Mvros](https://open.spotify.com/artist/7Hq2bkukC2suXG1mB287BW), [J.Prados](https://open.spotify.com/artist/6Uq8yH3yjNc06rSB6ws0EX) | [El Príncipe del Barrio](https://open.spotify.com/album/67irLZsuerysAEzsQXReE7) | 2:45 |
-| 37 | [Culo](https://open.spotify.com/track/0eWps9Cwm2xT2S9W4C5Vxp) | [En$o](https://open.spotify.com/artist/6GBM5RyMucHRaat0Fd2KLv), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Sibilino](https://open.spotify.com/artist/1cbWPmU7bbRuA0V3rqAeuE) | [Culo](https://open.spotify.com/album/4lsUlpX0OKU2nGPL4E4lCA) | 4:05 |
+| 37 | [Culo](https://open.spotify.com/track/0eWps9Cwm2xT2S9W4C5Vxp) | [En$o](https://open.spotify.com/artist/6GBM5RyMucHRaat0Fd2KLv), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Sibilino](https://open.spotify.com/artist/1cbWPmU7bbRuA0V3rqAeuE), [Faker](https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL) | [Culo](https://open.spotify.com/album/4lsUlpX0OKU2nGPL4E4lCA) | 4:05 |
 | 38 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
 | 39 | [México Máxico](https://open.spotify.com/track/6boL4NwK8v6n2JFXOhxPjO) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [México Máxico](https://open.spotify.com/album/2hS6iPoJyOp8xQxGiV2jBZ) | 4:08 |
 | 40 | [Muchacha](https://open.spotify.com/track/2fKTCzpuxcvW8l4cP5J85F) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Muchacha](https://open.spotify.com/album/1m4htGCBmlM2TzVk3IonWP) | 3:31 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Sereia Me Perdoa](https://open.spotify.com/track/1xw0BToTM3XnVnqXSPRByZ) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Sereia Me Perdoa](https://open.spotify.com/album/4G5meE8QB35IdXh7CP7yjv) | 7:37 |
 | 73 | [Sai Da Frente](https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Sai Da Frente](https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5) | 2:47 |
 
-Snapshot ID: `MCwwMDc0NDdlNWQzYjg0NGYzMTg0MjdmYzhmZTZjYTZmOGFkMmU2ZGRi`
+Snapshot ID: `MCwxYTZkNDQ5NjI2NGVjN2MyYjQ1M2IxYjVkNjQwMzg0ZjMzNTI4MzEz`

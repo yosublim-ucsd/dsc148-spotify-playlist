@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "CRYSTALS (Remixes)",
+        "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
+      },
+      "artists": [
+        {
+          "name": "PR1SVX",
+          "url": "https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75833,
+      "name": "CRYSTALS (Slowed)",
+      "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
+    },
+    {
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
       },
@@ -822,7 +840,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 120009,
       "name": "Desolation - Slowed",
       "url": "https://open.spotify.com/track/1AjVuojxTZXTdea148KbHJ"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -1512,6 +1530,32 @@
       "duration_ms": 187068,
       "name": "green to blue - slowed + reverbed",
       "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "album": {
+        "name": "Hands up! (Slowed)",
+        "url": "https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158857,
+      "name": "Hands up! - Slowed",
+      "url": "https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ"
     },
     {
       "album": {
@@ -2007,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Living Life, In The Night (slowed)",
+        "url": "https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        },
+        {
+          "name": "Sierra Kidd",
+          "url": "https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Living Life, In The Night - slowed",
+      "url": "https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ"
+    },
+    {
+      "album": {
         "name": "Li\u1ec1u Thu\u1ed1c Cho Tr\u00e1i Tim (Slowed)",
         "url": "https://open.spotify.com/album/29SYgoZKbaqbgx8kHGzkiT"
       },
@@ -2176,6 +2242,24 @@
       "duration_ms": 106867,
       "name": "Meh (Banakula) - Slowed",
       "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172219,
+      "name": "METAMORPHOSIS - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"
     },
     {
       "album": {
@@ -3276,7 +3360,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
@@ -3294,7 +3378,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 279750,
       "name": "Use Me (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb"

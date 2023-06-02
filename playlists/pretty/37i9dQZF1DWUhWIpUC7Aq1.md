@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,035 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,206 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 50 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:43 |
 | 51 | [Casimir Pulaski Day](https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:53 |
 | 52 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 |
-| 53 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
-| 54 | [The Start of Something](https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos) | [Voxtrot](https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW) | [Early Music](https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH) | 4:32 |
+| 53 | [The Start of Something](https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos) | [Voxtrot](https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW) | [Early Music](https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH) | 4:32 |
+| 54 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
 | 55 | [Somebody That I Used To Know](https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:09 |
 | 56 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
-| 57 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 1:52 |
-| 58 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
-| 59 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
+| 57 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
+| 58 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/1oA0tDRFjY5xoNDXuMBGGA) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 1:52 |
+| 59 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 60 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 61 | [Atop a Cake](https://open.spotify.com/track/6LC4cyrlOPeg2WXijaYrgj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:19 |
 | 62 | [Title and Registration](https://open.spotify.com/track/0COWVvFfJ7sPNI8CIS6TU7) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 3:39 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 88 | [Nothing to Be Done](https://open.spotify.com/track/4iNVdv8dp78FqTR6Wn8WHf) | [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [Truckload of Trouble](https://open.spotify.com/album/7DwNWxtAIKRuMEbR9TYwRd) | 3:52 |
 | 89 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
 | 90 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
-| 91 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
-| 92 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
+| 91 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
+| 92 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
 | 93 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
 | 94 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 95 | [Here We Go](https://open.spotify.com/track/2sZPDd14bOTQ31FomTeSsF) | [Punch\-Drunk Love](https://open.spotify.com/artist/42knKQiZRoKODmuki73xnB) | [Punch\-Drunk Love \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ) | 4:46 |
-| 96 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
-| 97 | [Cinnamon](https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm) | 4:12 |
+| 96 | [Cinnamon](https://open.spotify.com/track/3UtqjZ1PbzEXMGFIFxd3b9) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/5TLh7wdbeB8m6ZL5tf8IHm) | 4:12 |
+| 97 | [I Was Never Young](https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 3:30 |
 | 98 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 99 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/4B1cHpLjzKUSm7LYGmxInZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:50 |
 | 100 | [Hallways](https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox) | [Islands](https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n) | [A Sleep & A Forgetting](https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90) | 2:53 |
 
-Snapshot ID: `MCwwNWFhYmRkMWFjNzg0OTQwNjkxYzBlM2RiNGY5MTM0ZWNkZWE4YTZk`
+Snapshot ID: `MCwxOTVjYmIwNGRkNjQ0ZWExYWUxZGJiYTUyYWQxNTE4OTNiZDVjZTU4`

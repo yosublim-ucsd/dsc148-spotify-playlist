@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Chappell Roan
 
-1,652 songs - 3 day 12 hr 2 min
+1,653 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Bones](https://open.spotify.com/track/5ewQDE9GQ9voYXRdqqwcyj) | [Petticoat](https://open.spotify.com/artist/4B9XnPfyVGBIL2cBS17OoX) | [Bones](https://open.spotify.com/album/4haAdjKcNg0QGqxNOesety) | 3:24 | 2021-04-11 | 2021-11-09 |
 | [boomerang](https://open.spotify.com/track/4EHeLkvI4zxD0lcsM2s4b6) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [boomerang](https://open.spotify.com/album/5DnLDwP5lhDCUfAltfua3o) | 2:20 | 2022-04-01 | 2022-07-29 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-15 | 2022-07-16 |
-| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and Her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 |  |
+| [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2023-05-26 |  |
 | [Bowie](https://open.spotify.com/track/5qH4Pfu4TDSfQij1rkmlxj) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 4:41 | 2022-01-14 | 2022-10-29 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-10-08 | 2022-07-29 |
 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-10 |  |
@@ -546,7 +546,7 @@
 | [Gimme](https://open.spotify.com/track/6mFOjnwU4Naf5dphwwhbqx) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Gimme](https://open.spotify.com/album/5iIlBzTfYxXIMM7rhTSsSO) | 3:05 | 2022-11-25 | 2022-12-24 |
 | [Girl](https://open.spotify.com/track/69kAcS8DhobvRRPnqosUIC) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Girl](https://open.spotify.com/album/0vtO2fobzGsMZ8F7XrR4vL) | 3:09 | 2019-12-08 | 2020-04-14 |
 | [Girl Like Me](https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Girl Like Me](https://open.spotify.com/album/5ieBMOA3cYk5kofLMCSnMv) | 2:29 | 2022-12-09 |  |
-| [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 | 2023-06-01 |
+| [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-15 |  |
 | [girl ur so pretty](https://open.spotify.com/track/2U55cNHErmbpOxq9TTrjSG) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [girl ur so pretty](https://open.spotify.com/album/2laKIsp6nPOKXjlGYro4e4) | 3:08 | 2022-05-13 | 2022-06-25 |
 | [Girl Who Does Both](https://open.spotify.com/track/1ewA2ju9VPzBSxG991vQHi) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Getting Better](https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz) | 2:50 | 2022-06-17 | 2022-10-28 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-12-23 | 2023-01-28 |
@@ -833,7 +833,7 @@
 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 | 2022-11-11 | 2022-12-24 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-26 | 2022-10-29 |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2021-10-25 | 2023-01-13 |
-| [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-23 |  |
+| [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-23 | 2023-06-02 |
 | [lately](https://open.spotify.com/track/5Ot7KPYnWYSy3u71BrgxtQ) | [Sophia Bromberg](https://open.spotify.com/artist/2dH1lqvS9haqMj0OLacGz4) | [lately](https://open.spotify.com/album/4Lvg6nLMnBKNbws4fmfLiq) | 3:17 | 2022-01-07 | 2022-03-26 |
 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 | 2023-01-27 | 2023-04-23 |
 | [Laugh It Off](https://open.spotify.com/track/2ZBwNo9Adshmp8gffSubLS) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Laugh It Off](https://open.spotify.com/album/6ZdYt0zvA9XOAeiQ7TkgfD) | 4:13 | 2019-05-26\* | 2019-08-13 |
@@ -1642,7 +1642,8 @@
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2023-03-03 |  |
 | [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-09-09 |  |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-13 | 2022-09-13 |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-05 |  |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-09 |
 | [X's](https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 2:34 | 2022-09-23 | 2022-10-29 |
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-03 | 2021-11-19 |

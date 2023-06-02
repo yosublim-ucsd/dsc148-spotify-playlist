@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-281 songs - 14 hr 10 min
+282 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [No Rival](https://open.spotify.com/track/1Q9IvR1mzz2qzElvcARuXF) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V) | 3:18 | 2022-04-29 |  |
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 | 2023-04-28 |
 | [Nobody](https://open.spotify.com/track/2wsH9mYlpO698u3NOsD6Xw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody](https://open.spotify.com/album/5CyvFcv9b2H2dRpQ3EzI2M) | 3:10 | 2022-07-07 | 2023-04-28 |
+| [Not A Thing](https://open.spotify.com/track/3Oig2rxkxppvPnGOhes1Mk) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Not A Thing](https://open.spotify.com/album/1NsqgAY3C6FTwtJO5pvMwq) | 2:50 | 2023-06-01 |  |
 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 | 2022-07-26 | 2023-04-28 |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 | 2023-04-28 |
 | [numbers](https://open.spotify.com/track/4qF8OCdowrImJ8To54Xfzo) | [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [numbers](https://open.spotify.com/album/04MxkL5HrdLkF7SXqtxW2D) | 2:35 | 2023-03-10 |  |

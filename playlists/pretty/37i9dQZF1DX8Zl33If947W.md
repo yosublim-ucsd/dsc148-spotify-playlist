@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,146 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,255 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 12 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 13 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 |
 | 14 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 |
-| 15 | [Endorphine](https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K) | [TheDoDo](https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO) | [Endorphine](https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S) | 2:52 |
-| 16 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 15 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 16 | [Endorphine](https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K) | [TheDoDo](https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO) | [Endorphine](https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S) | 2:52 |
 | 17 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 18 | [Du](https://open.spotify.com/track/27iPwB996qUnv5oVq6QyjN) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop](https://open.spotify.com/album/5CvpkMTpc2wVdDdB9JSGWV) | 2:54 |
 | 19 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 38 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
 | 39 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
 | 40 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
-| 41 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
-| 42 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 |
+| 41 | [Unique](https://open.spotify.com/track/2fnYyTYapdfVLhVdwUwEat) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Unique](https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6) | 2:42 |
+| 42 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
 | 43 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
-| 44 | [Wenn ich wein](https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wenn ich wein](https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj) | 2:14 |
-| 45 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
+| 44 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
+| 45 | [Wenn ich wein](https://open.spotify.com/track/4Wuu6qS3D0Veevv2ZtbbrD) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wenn ich wein](https://open.spotify.com/album/7GE8qNQsl1t8SaEpFnvLuj) | 2:14 |
 | 46 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 |
 | 47 | [Vom selben Stern \- Radio Edit](https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL) | [Ich + Ich](https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId) | [Vom selben Stern \(Exklusive Version\)](https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn) | 3:48 |
 | 48 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 |
 | 49 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 50 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 
-Snapshot ID: `MCxiYmQzM2U4MTM2M2ZmMDgyNzIyYTgzODNkNTQ5OTBiODkyMmUwZmVi`
+Snapshot ID: `MCxlNGUxNGU3YjkzZTY2MDc1MjJmMTlhNTdlODg4YjJiOWZkZGZhOWM0`

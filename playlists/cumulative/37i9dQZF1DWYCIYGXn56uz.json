@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: wax",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Aaron",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 174545,
       "name": "BELLU GUAGLIONE",
       "url": "https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI"
+    },
+    {
+      "album": {
+        "name": "Universale",
+        "url": "https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "Bianco luna",
+      "url": "https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge"
     },
     {
       "album": {
@@ -1395,6 +1413,46 @@
     },
     {
       "album": {
+        "name": "CHIAMO",
+        "url": "https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44"
+      },
+      "artists": [
+        {
+          "name": "Lortex",
+          "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "LEI \u00c8",
+      "url": "https://open.spotify.com/track/1WMq8hzihEHUzXbvHqNWVt"
+    },
+    {
+      "album": {
+        "name": "Lentiggini",
+        "url": "https://open.spotify.com/album/2dE1ZqDY6kZWVbPEoQyfaf"
+      },
+      "artists": [
+        {
+          "name": "CITRIESTE",
+          "url": "https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2"
+        },
+        {
+          "name": "G Ferrari",
+          "url": "https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Lentiggini",
+      "url": "https://open.spotify.com/track/0xhmDNqppAu9RINKppTci8"
+    },
+    {
+      "album": {
         "name": "LIBERATEMI",
         "url": "https://open.spotify.com/album/783m7OtnMt3fv1PcFjPSXw"
       },
@@ -1862,6 +1920,24 @@
       "duration_ms": 150205,
       "name": "Non Mi Mancherai",
       "url": "https://open.spotify.com/track/272acVPVqwmcNyHi0J2pmv"
+    },
+    {
+      "album": {
+        "name": "Non Mi Va",
+        "url": "https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc"
+      },
+      "artists": [
+        {
+          "name": "NIVEO",
+          "url": "https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179710,
+      "name": "Non Mi Va",
+      "url": "https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib"
     },
     {
       "album": {
@@ -2494,6 +2570,32 @@
       "duration_ms": 178423,
       "name": "SETIAMO",
       "url": "https://open.spotify.com/track/1HlY2VHpOYAn0zeBcWcW4s"
+    },
+    {
+      "album": {
+        "name": "SOGNO",
+        "url": "https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7"
+      },
+      "artists": [
+        {
+          "name": "Lil Zeff",
+          "url": "https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0"
+        },
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SOGNO",
+      "url": "https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Plus que 3 semaines avant l'\u00e9t\u00e9 ! \ud83c\udf66",
-  "num_followers": 263605,
+  "num_followers": 263782,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTczNTA2MjRmMmEzNDc0NGQ5NjJiNWM3MTAxZmJjZmM3OGUyNGIw",
+  "snapshot_id": "MCw1N2UwYTk3ZTA3ZjRhOGY1Zjc5MmZlMzRjYzQ0YTgxOTNiNjRkNjc3",
   "tracks": [
     {
       "added_at": "2023-05-31 08:00:00",
@@ -283,7 +283,7 @@
     {
       "added_at": "2023-05-31 08:00:00",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -292,20 +292,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

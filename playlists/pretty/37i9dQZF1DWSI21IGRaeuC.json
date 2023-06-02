@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 20350,
+  "num_followers": 20396,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGQ5NGY2NTE3NTE5NjNkY2VkODA0YzA2MGUyMDg2NjhkMTBhOWQ0",
+  "snapshot_id": "MCxkMjk1Yzg3NjliNTlkMzE1Y2NhYzM5ZGQ3MzRjMGRlNzI5MTczOGQ3",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
       },
       "artists": [
         {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
         }
       ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -671,6 +671,22 @@
       "duration_ms": 204384,
       "name": "Gozar",
       "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -727,22 +743,6 @@
       "duration_ms": 364099,
       "name": "Alley Rave",
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Picante EP",
         "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 344000,
       "name": "Picante",
       "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Diri",
+        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
+      },
+      "artists": [
+        {
+          "name": "Lexa Hill",
+          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
+        }
+      ],
+      "duration_ms": 342790,
+      "name": "Diri",
+      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Zigazigahhhh",
         "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Diri",
-        "url": "https://open.spotify.com/album/77DE5zgJssda21fouB6LYD"
-      },
-      "artists": [
-        {
-          "name": "Lexa Hill",
-          "url": "https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "Diri",
-      "url": "https://open.spotify.com/track/1pnL7xVKYb7S5XR18xUbU1"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Stutter EP",
+        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
+        "name": "spring '23",
+        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
       },
       "artists": [
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+      "duration_ms": 364916,
+      "name": "can't stop the swing.",
+      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 350125,
       "name": "No Bueno",
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "spring '23",
-        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 364916,
-      "name": "can't stop the swing.",
-      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Eso",
-        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
-      },
-      "artists": [
-        {
-          "name": "Heider",
-          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Eso",
-      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Hydroponic EP",
         "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
       },
@@ -1259,22 +1243,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 370000,
       "name": "buss it.",
       "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Eso",
+        "url": "https://open.spotify.com/album/6dVepLKGxmtQiVKSrculQE"
+      },
+      "artists": [
+        {
+          "name": "Heider",
+          "url": "https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-05-26 04:01:00",

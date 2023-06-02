@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 69510,
+  "num_followers": 69523,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2NhMDcxM2NkZmI3YmYzODVhMDU2MDk0ZmE5YzQwYjFiMTJiNTg1",
+  "snapshot_id": "MCwxOTY2YzlhNGUzNzU1Y2QwMTFjMDBlMGJmYmYwODFmZTBlYWI5NGU3",
   "tracks": [
     {
       "added_at": "2023-05-23 13:45:39",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 324040,
       "name": "Biggest Part of Me",
       "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Supernatural Thing",
         "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 251560,
       "name": "Supernatural Thing, Pt. 1",
       "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/2GVEs1sn5Q1jB1976vQoAX"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "One Heartbeat",
         "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 247000,
       "name": "One Heartbeat",
       "url": "https://open.spotify.com/track/74mogflQPJsYtZWZQ9mFmM"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "Lookin' For Love Again",
-        "url": "https://open.spotify.com/album/4zU06SFlMCMMuvbIOZVV8r"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "You're Messing Up A Good Thing",
-      "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "Beach Diggin', Vol. 3",
         "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 186617,
       "name": "I Want to Make It with You",
       "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "Lookin' For Love Again",
+        "url": "https://open.spotify.com/album/4zU06SFlMCMMuvbIOZVV8r"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "You're Messing Up A Good Thing",
+      "url": "https://open.spotify.com/track/3SxBXDg4cJFwa3uwjpoxCU"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3375,22 +3375,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "No Easy Way Down: Rare Soul Sides",
-        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
-      },
-      "artists": [
-        {
-          "name": "Na Allen",
-          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "No Easy Way Down",
-      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "My Melody (Expanded)",
         "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
       },
@@ -3403,6 +3387,22 @@
       "duration_ms": 275946,
       "name": "Silly - Single Version",
       "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "No Easy Way Down: Rare Soul Sides",
+        "url": "https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa"
+      },
+      "artists": [
+        {
+          "name": "Na Allen",
+          "url": "https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "No Easy Way Down",
+      "url": "https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG"
     },
     {
       "added_at": "2023-05-23 13:45:39",
@@ -3423,22 +3423,6 @@
     {
       "added_at": "2023-05-23 13:45:39",
       "album": {
-        "name": "70s Classic Love Songs",
-        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Pure Love (Single Version)",
-      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
-    },
-    {
-      "added_at": "2023-05-23 13:45:39",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -3451,6 +3435,22 @@
       "duration_ms": 285666,
       "name": "After You Love Me, Why Do You Leave Me",
       "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+    },
+    {
+      "added_at": "2023-05-23 13:45:39",
+      "album": {
+        "name": "70s Classic Love Songs",
+        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Pure Love (Single Version)",
+      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
     },
     {
       "added_at": "2023-05-23 13:45:39",

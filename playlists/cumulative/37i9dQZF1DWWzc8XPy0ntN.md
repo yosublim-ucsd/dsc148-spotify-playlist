@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-137 songs - 10 hr 47 min
+138 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Limon Pelado](https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Fuego Nuevo](https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh) | 4:58 | 2022-05-06 | 2023-03-23 |
 | [Lord Zemel](https://open.spotify.com/track/5TbsXoXGeJZcEdB48XPYhY) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [Lechuga Zafiro](https://open.spotify.com/artist/59CKhQjneZAPQKYcylrsVd) | [Seguridad](https://open.spotify.com/album/5Jww8BxBhFWAxo49lvAh3Q) | 2:56 | 2022-05-06 | 2022-07-17 |
 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 | 2023-03-22 |  |
-| [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 | 2022-05-06 |  |
+| [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 | 2022-05-06 | 2023-06-02 |
 | [Maelstrom](https://open.spotify.com/track/1xBqxKhj35tVGNmq4NpQ4e) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Catatonique](https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q) | [Maelstrom](https://open.spotify.com/album/1hefknIQ0TMrdyr6HT1qtI) | 5:42 | 2022-05-06 |  |
 | [Maelstrom](https://open.spotify.com/track/7xqTcViOxPCmdY4MvBBBtw) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [Catatonique](https://open.spotify.com/artist/2MYL2t7eQ5DTL4HBQ7dL9q) | [Maelstrom](https://open.spotify.com/album/3hz19p4gdA275WYJ98Milp) | 5:42 | 2022-05-06 | 2022-07-26 |
 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 | 2022-05-06 |  |
@@ -117,6 +117,7 @@
 | [Resistencia](https://open.spotify.com/track/57JZk6IzsVOdSx7U3iAX58) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resistencia](https://open.spotify.com/album/3TG0EIcV4lRzXY6NQEZD1O) | 4:25 | 2022-05-06 | 2022-12-20 |
 | [Sacramento](https://open.spotify.com/track/7syzXHQ9GaIImQU79WMkyO) | [No Boy](https://open.spotify.com/artist/601Yt9L0MMqmp8l9XEiCB7) | [Redención](https://open.spotify.com/album/13JiZy2pEcupsiqpP26qsR) | 3:24 | 2022-05-06 | 2022-07-29 |
 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 | 2022-05-06 |  |
+| [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/1X78wCysuO6Rfc0mbUzZd0) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/6mWTRpXzfz1rUTqj9G7kI0) | 3:23 | 2022-08-18 |  |
 | [Selva, Op\. 2: No\. 3](https://open.spotify.com/track/3UojaSlo1EsQ597F17yEqA) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Opus 2](https://open.spotify.com/album/0X2SieY5N8UXmPYyuhws83) | 3:23 | 2022-05-06 | 2022-07-28 |
 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 | 2022-05-06 |  |
 | [Sin control](https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:46 | 2022-08-18 |  |

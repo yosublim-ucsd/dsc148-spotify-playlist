@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave
 
-299 songs - 18 hr 28 min
+300 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hallelujah Anyway](https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Whosoever](https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ) | 3:45 | 2022-08-26 |  |
 | [Hallelujah’s Song \(Psalm 103\)](https://open.spotify.com/track/0qlY9YtOvmzELxlIgSNlDU) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th) | [Hallelujah’s Song \(Psalm 103\)](https://open.spotify.com/album/70fBBmxlzWSXHmriUUmgO9) | 4:00 | 2022-02-25 | 2022-04-23 |
 | [Hands \- Radio Version](https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hands](https://open.spotify.com/album/0JOUuH5fijrKnSCitCg4xR) | 3:43 | 2022-08-26 | 2023-05-15 |
+| [Hard Times](https://open.spotify.com/track/1z3P4RqfupgB2Pn4uPjzL4) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 2:57 | 2023-03-10 |  |
 | [Hard Times](https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Hard Times](https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse) | 2:57 | 2022-05-28 | 2023-03-11 |
 | [Has It Been You](https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [Has It Been You](https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP) | 3:20 | 2022-02-25 | 2023-02-23 |
 | [He Is Not Worried](https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [He Is Not Worried](https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st) | 4:29 | 2022-02-25 | 2022-04-23 |
@@ -293,7 +294,7 @@
 | [Wide Awake](https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Wide Awake](https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk) | 3:31 | 2022-04-29 | 2022-10-02 |
 | [Without Your Love](https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Without Your Love](https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI) | 2:42 | 2022-02-25 | 2022-06-11 |
 | [Won't Let Me Go](https://open.spotify.com/track/4FNan8GUauT5ZdZONLCzdq) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Won't Let Me Go](https://open.spotify.com/album/1XIHJlUQDa7CFghiCQw1Nt) | 3:35 | 2022-04-22 | 2022-10-02 |
-| [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 | 2022-10-01 |  |
+| [Won't Let Me Go](https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Won't Let Me Go](https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw) | 3:35 | 2022-10-01 | 2023-06-02 |
 | [Wonder](https://open.spotify.com/track/5JTUzRWxGBR8GgkAyqjfvR) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Wonder](https://open.spotify.com/album/00xTOJwRmfTABsNNQCZkHA) | 4:07 | 2022-02-25 | 2023-03-11 |
 | [Wonderful Life](https://open.spotify.com/track/346GYD2oczDYEzUCVxd9zl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Wonderful Life](https://open.spotify.com/album/4iNhPj8ULyXqKAS13Zeuht) | 3:47 | 2022-04-22 | 2022-08-27 |
 | [Worry](https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Worry](https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2) | 3:29 | 2022-04-22 | 2023-03-11 |

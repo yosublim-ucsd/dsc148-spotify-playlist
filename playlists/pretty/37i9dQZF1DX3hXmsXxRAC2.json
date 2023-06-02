@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 313852,
+  "num_followers": 313885,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODk4MGY0NTliNmUxY2UxZjQ0ZjMxMDJjZGVlNjFiYTllZWRlYzA4",
+  "snapshot_id": "MCw2MzkzMWVkYTM3M2U3Yjc3MDMwMDgxNWVlMjNmNjBkMzAzY2ViMDVk",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Con Amor Eterno",
+        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
+      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 229469,
       "name": "Perd\u00f3name, Olv\u00eddalo",
       "url": "https://open.spotify.com/track/77lUx4Z36ydmIOFK67qfR3"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Con Amor Eterno",
-        "url": "https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Nadie Baila Como T\u00fa/El Noa Noa - Medley",
-      "url": "https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Eres tan distinta a todas",
         "url": "https://open.spotify.com/album/3QknZDnuTXX6aHs6lpvgCb"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 328018,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/1ftjkFH9RUzPjPTM9tJbWa"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Non-Stop: Mexico to Jamaica",
-        "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
-      },
-      "artists": [
-        {
-          "name": "Ozomatli",
-          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "El Noa Noa",
-      "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "De\u0301jame Vivir",
         "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 250880,
       "name": "De\u0301jame Vivir",
       "url": "https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Non-Stop: Mexico to Jamaica",
+        "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
+      },
+      "artists": [
+        {
+          "name": "Ozomatli",
+          "url": "https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "El Noa Noa",
+      "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
     },
     {
       "added_at": "2023-05-05 18:26:22",

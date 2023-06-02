@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-216 songs - 11 hr 31 min
+217 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 | 2023-02-17 |  |
 | [Kanaa](https://open.spotify.com/track/6J2pC3j9WF4tVJo4mEHZdn) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [2jaym](https://open.spotify.com/artist/1JydyoYCEY3j5NSeagX44i), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kanaa](https://open.spotify.com/album/1SVZ3tkWEkyE7gY1wRkN7F) | 4:17 | 2021-11-26 | 2022-05-19 |
 | [Kya Hai Tu](https://open.spotify.com/track/37jRP4BxoLNvtYsTI1YFJv) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Ratri](https://open.spotify.com/artist/2uZIepJ8Gjj8CwSi42JClr) | [Kya Hai Tu](https://open.spotify.com/album/3dC0Lt4ypDURm45UQjRVVB) | 3:49 | 2021-11-26 | 2022-05-19 |
+| [Kyun](https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Kyun](https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM) | 2:26 | 2023-06-01 |  |
 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 | 2023-03-01 | 2023-05-26 |
 | [Leave A Little Love](https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/6XLHU3z6eInpudfIe5rq0r) | 3:07 | 2021-11-26 | 2022-05-19 |
 | [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-02-17 |  |

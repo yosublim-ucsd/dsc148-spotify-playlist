@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-607 songs - 1 day 7 hr 10 min
+608 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Away](https://open.spotify.com/track/3oNycDho9rJAMHma0XC6kT) | [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Away](https://open.spotify.com/album/7aGnO45kEvux1ShpP7Lh76) | 2:14 | 2022-11-18 |  |
 | [Baby](https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baby](https://open.spotify.com/album/73S00PIhiseZOiQpgol0fK) | 2:40 | 2022-01-14 | 2022-04-21 |
 | [Backyard Stories](https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Backyard Stories — Summer Forever](https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES) | 3:06 | 2022-04-01 | 2022-07-29 |
+| [Bad Obsession](https://open.spotify.com/track/7mRzehs3auawQpljt3VeEj) | [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Lili Ana](https://open.spotify.com/artist/5bfoSoK5eksUCmoDrsNlQs) | [Bad Obsession](https://open.spotify.com/album/6zWJKxOpGWRnLkr916ZaM6) | 2:33 | 2023-05-26 |  |
 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2022-01-14 | 2022-04-23 |
 | [Bali Dreams](https://open.spotify.com/track/1iPDwEQL3X0hdtCt1Z8Sy4) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Bali Dreams](https://open.spotify.com/album/6wNYexuk3ahfSbPgsGf1vS) | 2:29 | 2022-12-23 |  |
 | [Be My Lover](https://open.spotify.com/track/1aajQbw23khpQMme1AeKI6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Alex Schulz](https://open.spotify.com/artist/5OReTeTBZ578sj07hDS0x7) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 3:00 | 2022-01-14 | 2022-04-21 |
@@ -473,7 +474,7 @@
 | [Shakin'](https://open.spotify.com/track/4w7FCJ8IpOIaQl6EQROMRx) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Shakin'](https://open.spotify.com/album/2PaKysj7IvH3q7TplsxqWi) | 3:01 | 2022-06-17 | 2023-01-10 |
 | [She Told Me](https://open.spotify.com/track/1BIoRbf6n3h2Rk7BpRGIQX) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [She Told Me](https://open.spotify.com/album/0v3ecJO3wgYWoHEg0sjdsj) | 2:41 | 2022-10-07 |  |
 | [She's the One](https://open.spotify.com/track/556P6w24JljQnqoCnWLtRW) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [She's the One](https://open.spotify.com/album/3lqTmcDnS935qAjOPTcYJP) | 2:31 | 2022-01-14 | 2023-04-16 |
-| [Show Me](https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX) | [YVO](https://open.spotify.com/artist/7a0a89o7fM8Qz6DK1PQNFM) | [Show Me](https://open.spotify.com/album/1BUODyl5YARStGJg6tg5y0) | 2:02 | 2022-06-10 |  |
+| [Show Me](https://open.spotify.com/track/3USDDlXk3S0u4xFnv3NeaX) | [YVO](https://open.spotify.com/artist/7a0a89o7fM8Qz6DK1PQNFM) | [Show Me](https://open.spotify.com/album/1BUODyl5YARStGJg6tg5y0) | 2:02 | 2022-06-10 | 2023-06-02 |
 | [Show Me Love \- EDX Remix / Radio Edit](https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Show Me Love \(Remixes 2\)](https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb) | 3:00 | 2022-01-14 | 2022-09-24 |
 | [Silverskin](https://open.spotify.com/track/2DMqiPZ8uLE2AtwHLInHOI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Dillon Dixon](https://open.spotify.com/artist/4pRRDuDd9Lk624swvgKWOI) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:31 | 2022-01-14 | 2022-07-29 |
 | [Silverskin \(feat\. Dillon Dixon\)](https://open.spotify.com/track/5uSrc15udTtdHXj9QWhfHD) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Dillon Dixon](https://open.spotify.com/artist/4pRRDuDd9Lk624swvgKWOI) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:31 | 2022-12-09 | 2022-12-24 |

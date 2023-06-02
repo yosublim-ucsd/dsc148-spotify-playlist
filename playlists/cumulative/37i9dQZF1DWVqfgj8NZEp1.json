@@ -4401,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "So They Say",
+        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237659,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
+    },
+    {
+      "album": {
         "name": "Red Orange and Blue",
         "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
       },

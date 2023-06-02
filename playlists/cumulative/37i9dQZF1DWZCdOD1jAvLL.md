@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-478 songs - 1 day 2 hr 31 min
+479 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-10-07 | 2022-10-29 |
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2022-01-14 | 2022-02-26 |
 | [Come Back to Me](https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Come Back to Me](https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5) | 3:37 | 2022-12-09 | 2023-05-13 |
+| [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 |  |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 | 2023-02-11 |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 | 2022-08-06 |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-04-29 |
@@ -471,7 +472,7 @@
 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 | 2023-04-28 |  |
 | [Who I Am](https://open.spotify.com/track/4mr00M5jfoSwK4oCUzCISj) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Who I Am](https://open.spotify.com/album/544B3hUGZ39KuHoZXeWWD1) | 3:48 | 2022-01-14 | 2022-01-22 |
 | [Who U With](https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f), [rrotik](https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd), [Killa Kela](https://open.spotify.com/artist/6xus0aGb1MipQik7XcSX82) | [Who U With](https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no) | 2:41 | 2022-06-03 | 2022-10-01 |
-| [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 |  |
+| [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 | 2023-06-02 |
 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 | 2023-05-19 |  |
 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 | 2022-09-16 | 2022-12-17 |
 | [WTF](https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [WTF](https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E) | 2:18 | 2022-06-24 | 2022-09-24 |

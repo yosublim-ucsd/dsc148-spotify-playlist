@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2288092,
+  "num_followers": 2288724,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDY4YTY1OGIyMDIzY2JhNTBiNmZiYTAwOTllMTBkYTc2YTk1YTgz",
+  "snapshot_id": "MCw1MDI0NTIwZTFmYjJlNzFhZTdiOWNmMzQ3ZWE1ZmRiMDAyMmVlNjQ3",
   "tracks": [
     {
       "added_at": "2023-05-15 09:05:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 210240,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "In Your Honor",
         "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "Eliminator",
         "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 258026,
       "name": "Sharp Dressed Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2023-05-15 09:05:51",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-15 09:05:51",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2023-05-15 09:05:51",
-      "album": {
         "name": "The Gift Of Game",
         "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 252493,
       "name": "Rock You Like A Hurricane",
       "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "added_at": "2023-05-15 09:05:51",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2023-05-15 09:05:51",

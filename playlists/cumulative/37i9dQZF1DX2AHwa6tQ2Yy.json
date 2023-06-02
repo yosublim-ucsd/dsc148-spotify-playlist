@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "4EVA",
+        "url": "https://open.spotify.com/album/5VK922NbC81kfS2tCnDAM0"
+      },
+      "artists": [
+        {
+          "name": "thndo",
+          "url": "https://open.spotify.com/artist/4NKTT4ovD0uyL6YssNGF2n"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159431,
+      "name": "4EVA",
+      "url": "https://open.spotify.com/track/2LftHOFPfXdPtPK6yCnZXj"
+    },
+    {
+      "album": {
         "name": "6 AM",
         "url": "https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL"
       },
@@ -168,6 +186,24 @@
       "duration_ms": 228473,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy"
+    },
+    {
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Wiley",
+          "url": "https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214069,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt"
     },
     {
       "album": {
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
@@ -2232,7 +2268,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 203000,
       "name": "Outright Attached",
       "url": "https://open.spotify.com/track/2nptVrm7B91RAFXg32YLhS"

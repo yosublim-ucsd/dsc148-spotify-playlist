@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Barnaba & Otile Brown",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 178387,
       "name": "Melody",
       "url": "https://open.spotify.com/track/4SU8d5EyTg6fM4AUkrWmCg"
@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "Nani Remix (feat. Innoss' B)",
+        "url": "https://open.spotify.com/album/3fS6ed9PRxoyEKdC1HmUtZ"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Nani Remix (feat. Innoss' B)",
+      "url": "https://open.spotify.com/track/70NCsnLU0EuY0HGqS27Tnr"
+    },
+    {
+      "album": {
         "name": "V the Album",
         "url": "https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy"
       },
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 168946,
       "name": "Nileweshe",
       "url": "https://open.spotify.com/track/0JPI0mOwmryRq3UB1uQGyr"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-544 songs - 1 day 5 hr 22 min
+545 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [3 de La Mañana](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 | 2021-06-27 | 2021-07-11 |
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2021-04-26 | 2021-09-12 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-29 |  |
+| [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 | 2023-06-01 |  |
 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 | 2021-03-27\* | 2021-04-17 |
 | [911](https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:35 | 2021-04-17 | 2021-07-18 |
 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2021-07-17 | 2021-10-23 |
@@ -487,7 +488,7 @@
 | [Travesuras \- Remix](https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Travesuras \(Remix\)](https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa) | 5:24 | 2021-03-27 | 2021-05-23 |
 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-10-14 | 2023-03-29 |
 | [Tu Nombre](https://open.spotify.com/track/5DberPEjKBTY8WTzLgr0zZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:21 | 2022-03-12 | 2022-03-14 |
-| [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-07-12 |  |
+| [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-07-12 | 2023-06-02 |
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-04-05 |
 | [Tumbao](https://open.spotify.com/track/1vgh1s6f4qtY9TDKK8EfyJ) | [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Tumbao](https://open.spotify.com/album/63OxWc0DZN46HDFieqieOl) | 2:53 | 2023-02-13 | 2023-03-23 |
 | [Turraka \(Remix\)](https://open.spotify.com/track/4aXicRG47bBEcKXlDaSRwW) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Turraka \(Remix\)](https://open.spotify.com/album/2l4E2PFQzA8ucLufP6O2Cm) | 2:02 | 2021-08-03 | 2021-12-16 |

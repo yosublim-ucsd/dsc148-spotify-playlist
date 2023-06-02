@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,713 likes - 94 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,756 likes - 94 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 52 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 53 | [Just Get Here \(feat\. Wale & VanJess\)](https://open.spotify.com/track/5cHdOuER9BztlOcbUNBmrQ) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Moments Spent Loving You](https://open.spotify.com/album/2m8sIT1YP8YBQm2MAliBAH) | 5:29 |
 | 54 | [Care for You](https://open.spotify.com/track/3cW7ETAXGDAM2aNN45DuNq) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:32 |
-| 55 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
-| 56 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
+| 55 | [I Don't Think We Should Wait](https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI) | [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [Let The Morning Come](https://open.spotify.com/album/64BdSNPkLVXReRgCVNe29H) | 5:00 |
+| 56 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 |
 | 57 | [Queen Tings \- Santi Remix](https://open.spotify.com/track/4EOVChDG9c5HX5jrNdBDd6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Queen Tings \(Santi Remix\)](https://open.spotify.com/album/3ywbciCdfP9GZ1inddiz6a) | 3:31 |
 | 58 | [You](https://open.spotify.com/track/0LWo1USV7wlguM1Y3RePOM) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:24 |
 | 59 | [Don't Pretend](https://open.spotify.com/track/78P2cNBhbdjXWIRYuEXkV6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Pretend](https://open.spotify.com/album/5eKt7MxCNDB7XFqdJBPaJS) | 2:45 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 83 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
 | 84 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
 | 85 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
-| 86 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
-| 87 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
-| 88 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 86 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 87 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
+| 88 | [Land of Regrets](https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [Land of Regrets](https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx) | 3:24 |
 | 89 | [Sleep On It](https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:36 |
-| 90 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
+| 90 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
 | 91 | [Tuesday](https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Tuesday](https://open.spotify.com/album/576ztM6ojdD8gFAlM8CXQo) | 2:52 |
-| 92 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
-| 93 | [Land of Regrets](https://open.spotify.com/track/66J4ACFaeUT284gYKPaJML) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [Land of Regrets](https://open.spotify.com/album/4IygmWeVz0tP7MMWoYEWKx) | 3:24 |
+| 92 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
+| 93 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 94 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
 
-Snapshot ID: `MCwzNjY3YmVhOGEzYzQzYzk4ZjlhMzY2OGE4N2JiMDdiNzYxNGM3Y2I5`
+Snapshot ID: `MCw0Zjg4ZWE0NDQwNDc2NDhlZjcwNzg5M2E2ZTM3NTRkOTYzODkwNzI2`

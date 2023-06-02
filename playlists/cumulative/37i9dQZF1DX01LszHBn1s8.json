@@ -7359,6 +7359,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -7370,7 +7388,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -9951,6 +9969,24 @@
     },
     {
       "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/0gFXVvBJnACHRy1A3CXBEE"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/2eQsKNvDuggHAaiGRSd64S"
+    },
+    {
+      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok"
       },
@@ -9962,7 +9998,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn"
@@ -20578,10 +20614,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
     },
     {
       "album": {

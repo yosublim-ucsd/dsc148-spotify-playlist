@@ -1,12 +1,12 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Ed Sheeran",
-  "num_followers": 1475438,
+  "num_followers": 1475002,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzhjOGEwNGRlMGNhMjRiMzgwZDMxMDU1NmRlODViY2YwNDJmMDEx",
+  "snapshot_id": "MCxkODFiY2Y0MTNiODZiMGU2NWZmM2YxYTljYzAzMTVmYzM0MDk5ZTMz",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "1.22.03 Acoustic",
+        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 276786,
+      "name": "She Will Be Loved - Acoustic",
+      "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "1.22.03 Acoustic",
-        "url": "https://open.spotify.com/album/0BCjGDBIymcwf4etd4KBgu"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 276786,
-      "name": "She Will Be Loved - Acoustic",
-      "url": "https://open.spotify.com/track/2sLS4tVaEoMYrNS67PVz0V"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Until You",
         "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 213920,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "You Sigh",
-      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 285866,
       "name": "Let It Go - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "You Sigh",
+      "url": "https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Most Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 178173,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Most Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Too Much To Ask (Acoustic)",
+        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 221598,
+      "name": "Too Much To Ask - Acoustic",
+      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Too Much To Ask (Acoustic)",
-        "url": "https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 221598,
-      "name": "Too Much To Ask - Acoustic",
-      "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
     }
   ],
   "unique_name": "Acoustic Hits",

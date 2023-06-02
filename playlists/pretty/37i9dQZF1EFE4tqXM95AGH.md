@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 923 likes - 146 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 925 likes - 146 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 27 | [LOST BOY](https://open.spotify.com/track/3KV9J5y3HDHKTOtjJtHwqi) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:43 |
 | 28 | [Seventeen](https://open.spotify.com/track/7iyKbBjb2fmTnTfCjCh7ER) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:38 |
 | 29 | [What A Heavenly Way To Die](https://open.spotify.com/track/1Dfzjb9aFxgSFM0vnNTDPr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:07 |
-| 30 | [Animal](https://open.spotify.com/track/6iBPeFlk4DLJ4HfRfZ2J7H) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:25 |
-| 31 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
+| 30 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
+| 31 | [Animal](https://open.spotify.com/track/6iBPeFlk4DLJ4HfRfZ2J7H) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:25 |
 | 32 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
 | 33 | [Paper Love](https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:16 |
 | 34 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 111 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
 | 112 | [Middle of Love](https://open.spotify.com/track/4JjjhFFQ3Spgnl2BrXfKtN) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:15 |
 | 113 | [The Phone Call](https://open.spotify.com/track/6j4IgCOt3BfxkTf5KKreml) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:29 |
-| 114 | [Sweet Life](https://open.spotify.com/track/2RgQe6vRrjuaAG2MPPzNDd) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Leland](https://open.spotify.com/artist/3Jd0EP1mzaP2Gn2bzyd6Ug) | [Transatlantic](https://open.spotify.com/album/4bG1aFuQ4674YWGpfRTzUI) | 3:21 |
-| 115 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
+| 114 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
+| 115 | [Sweet Life](https://open.spotify.com/track/2RgQe6vRrjuaAG2MPPzNDd) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Leland](https://open.spotify.com/artist/3Jd0EP1mzaP2Gn2bzyd6Ug) | [Transatlantic](https://open.spotify.com/album/4bG1aFuQ4674YWGpfRTzUI) | 3:21 |
 | 116 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
 | 117 | [miss america](https://open.spotify.com/track/1KnPoungklUoDF0I2uNA1R) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [miss america](https://open.spotify.com/album/4aqHiEdSSgOgjmxFUuV5v9) | 3:51 |
 | 118 | [Quarter Life Crisis](https://open.spotify.com/track/2tanvkYElTbqn48K3uawne) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [Yesterday's Tomorrow Night](https://open.spotify.com/album/0YUEyU02GWdY3xRs55DfzE) | 3:12 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 145 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 146 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `MjgwOTMwOTAsMDAwMDAwMDAwMTlhZWE0NTIxZjk5OThjODExMGEyYmY3YTFkOWE4Ng==`
+Snapshot ID: `MjgwOTQ1MzAsMDAwMDAwMDBiNjQ1OWY5YWY3ZjJlNTNjYTkzZTgwMThjM2I5ZGU4MQ==`

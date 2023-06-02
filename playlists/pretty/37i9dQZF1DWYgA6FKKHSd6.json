@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212628,
+  "num_followers": 212650,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0",
+  "snapshot_id": "MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
-      },
-      "artists": [
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Align",
         "url": "https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv"
       },
@@ -557,36 +541,20 @@
       "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
+      "duration_ms": 301853,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -611,6 +579,38 @@
       "duration_ms": 230696,
       "name": "Soul City",
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Can't Stop Now",
@@ -737,22 +753,6 @@
       "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "30",
@@ -767,26 +767,6 @@
       "duration_ms": 245989,
       "name": "Chill AF",
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
-      },
-      "artists": [
-        {
-          "name": "The Rippingtons",
-          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Wild Tales (feat. Russ Freeman)",
-      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -807,6 +787,26 @@
       "duration_ms": 303046,
       "name": "Tender - Remix",
       "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
+      },
+      "artists": [
+        {
+          "name": "The Rippingtons",
+          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Wild Tales (feat. Russ Freeman)",
+      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 312800,
       "name": "Lasting Impression",
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
+      },
+      "artists": [
+        {
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
+        }
+      ],
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Smooth Jazz SAX Showcase",
@@ -1123,6 +1107,22 @@
       "duration_ms": 296475,
       "name": "Got To Be Real",
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
         }
       ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1507,26 +1507,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
       "artists": [
         {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
-        },
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Philippe Saisse",
-          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
         }
       ],
-      "duration_ms": 264151,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+      "duration_ms": 243986,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1551,18 +1543,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
       },
       "artists": [
         {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
         }
       ],
-      "duration_ms": 243986,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+      "duration_ms": 264151,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
     },
     {
       "added_at": "2021-07-12 18:09:21",

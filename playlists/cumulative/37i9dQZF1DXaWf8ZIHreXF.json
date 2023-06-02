@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 203133,
       "name": "Peanut Butter Jelly",
       "url": "https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH"

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta de tu velada en la sedosa compa\u00f1\u00eda de las 88 teclas del piano.",
-  "num_followers": 21719,
+  "num_followers": 21735,
   "original_name": "Cena con Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGZhNTZhM2Y2NDcyNTM3MTg5ZjRjNmYyYmY3YTJlMzlmZjQ1ZmM3",
+  "snapshot_id": "MCw1M2ZmMTU3NWYyZmQzMTc1MjY0MTViYzVmMzAwNWZkYTE0ZTE5ZDBk",
   "tracks": [
     {
       "added_at": "2021-01-18 15:57:14",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "This Is The Time",
-        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
-      },
-      "artists": [
-        {
-          "name": "Aimee Fleur",
-          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
-        }
-      ],
-      "duration_ms": 159599,
-      "name": "This Is The Time",
-      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Clear Blue Skies",
         "url": "https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 268500,
       "name": "Ode To Sunshine",
       "url": "https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "This Is The Time",
+        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+      },
+      "artists": [
+        {
+          "name": "Aimee Fleur",
+          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+        }
+      ],
+      "duration_ms": 159599,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2021-01-18 15:57:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-01-18 15:57:14",
       "album": {
-        "name": "Boleros Inolvidables, Vol. 1",
-        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
-      },
-      "artists": [
-        {
-          "name": "Piano Magico",
-          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Palabras De Mujer-Hojas Secas",
-      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
-    },
-    {
-      "added_at": "2021-01-18 15:57:14",
-      "album": {
         "name": "Gran Pilastro",
         "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 65000,
       "name": "Gran Pilastro",
       "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
+    },
+    {
+      "added_at": "2021-01-18 15:57:14",
+      "album": {
+        "name": "Boleros Inolvidables, Vol. 1",
+        "url": "https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O"
+      },
+      "artists": [
+        {
+          "name": "Piano Magico",
+          "url": "https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Palabras De Mujer-Hojas Secas",
+      "url": "https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN"
     },
     {
       "added_at": "2021-01-18 15:57:14",

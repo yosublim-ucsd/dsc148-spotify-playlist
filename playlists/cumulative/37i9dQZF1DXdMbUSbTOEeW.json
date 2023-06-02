@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146430,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
+    },
+    {
+      "album": {
         "name": "Lavender Haze (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV"
       },

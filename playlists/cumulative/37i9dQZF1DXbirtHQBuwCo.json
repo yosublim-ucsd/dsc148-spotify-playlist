@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/70djbLtJZMX8tOviF3LqW6"
+      },
+      "artists": [
+        {
+          "name": "blienty",
+          "url": "https://open.spotify.com/artist/0WXbuQdVdZWapK6SbQCO7A"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163163,
+      "name": "24K (feat. Kvsh, DUT2)",
+      "url": "https://open.spotify.com/track/2wFBG0ZqKrsHAtPms5s1zU"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/12wO8A8Udq8D2ilFSQsZB5"
       },
@@ -3080,7 +3106,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 184908,
       "name": "DO (Feat. LeeHi)",
       "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
@@ -5274,7 +5300,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 199672,
       "name": "Irene",
       "url": "https://open.spotify.com/track/3TaUP2qulb5m6gKDdPqV3k"
@@ -6865,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "Morning Coffee",
+        "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
+      },
+      "artists": [
+        {
+          "name": "Odett",
+          "url": "https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI"
+    },
+    {
+      "album": {
         "name": "Sweet Sorrow of Mother",
         "url": "https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ"
       },
@@ -7218,7 +7262,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 209411,
       "name": "NIGHT DANCER - Korean Ver.",
       "url": "https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA"
@@ -8466,6 +8510,24 @@
       "duration_ms": 206595,
       "name": "Prescription",
       "url": "https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY"
+    },
+    {
+      "album": {
+        "name": "Purple Love (Feat. Leellamarz)",
+        "url": "https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9"
+      },
+      "artists": [
+        {
+          "name": "INJAE",
+          "url": "https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196074,
+      "name": "Purple Love (Feat. Leellamarz)",
+      "url": "https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az"
     },
     {
       "album": {
@@ -9957,6 +10019,24 @@
     },
     {
       "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd"
+      },
+      "artists": [
+        {
+          "name": "Nieah",
+          "url": "https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
+    },
+    {
+      "album": {
         "name": "Kinda fool",
         "url": "https://open.spotify.com/album/6Jb38a6XC1akktIp3DJleC"
       },
@@ -10762,7 +10842,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 185400,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo"

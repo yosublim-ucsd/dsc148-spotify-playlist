@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 497403,
+  "num_followers": 497592,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjBkNDExNDE3NmViMzgwNjMwNGNhY2RjMzk0YWJmOTkwZDdkNTVh",
+  "snapshot_id": "MCxkOWQxNDQyMTg1ODg2YmRlMDE4MTFmYmQ0MzcyMzU2NzRmMzY2YzU0",
   "tracks": [
     {
       "added_at": "2023-05-26 06:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Amapolas",
-        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 205716,
-      "name": "Amapolas",
-      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+        "name": "Amapolas",
+        "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+      "duration_ms": 205716,
+      "name": "Amapolas",
+      "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "Los Tragos",
         "url": "https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -783,22 +783,18 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Amigos (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Lo Que Ten\u00edas Conmigo",
         "url": "https://open.spotify.com/album/2KjUNxCfZw6xJGxEuEGACb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 233813,
       "name": "Lo Que Ten\u00edas Conmigo",
       "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2023-05-26 06:00:00",

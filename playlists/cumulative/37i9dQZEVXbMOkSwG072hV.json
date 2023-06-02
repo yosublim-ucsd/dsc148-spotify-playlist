@@ -8452,7 +8452,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 178811,
       "name": "Erro Gostoso - Ao Vivo",
       "url": "https://open.spotify.com/track/51pxwIxDVCbFHW8oyJFQXD"
@@ -11902,7 +11902,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 253173,
       "name": "I Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
@@ -13452,7 +13452,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 316746,
       "name": "Let's Stay Together - 2015 Remaster",
       "url": "https://open.spotify.com/track/19DVNifOaTnuP0iq1kTqgW"
@@ -21024,7 +21024,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 327400,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
@@ -21386,7 +21386,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 136672,
       "name": "QUE EU VOU TE BOTAR",
       "url": "https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW"
@@ -23674,6 +23674,24 @@
       "duration_ms": 379745,
       "name": "Simplesmente Nada",
       "url": "https://open.spotify.com/track/1V3OaZEXqIcHuY4EAy8vu3"
+    },
+    {
+      "album": {
+        "name": "Seresta pra Pared\u00e3o 3.0",
+        "url": "https://open.spotify.com/album/6sUJC3KNTJzXAy42Tdo314"
+      },
+      "artists": [
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233038,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/3fkLH5wAzni4mcXl4c6cAC"
     },
     {
       "album": {
@@ -27245,6 +27263,24 @@
     },
     {
       "album": {
+        "name": "VAMO FODER A NOITE TODA",
+        "url": "https://open.spotify.com/album/4dRkRyDClHzm3DH7STEqO9"
+      },
+      "artists": [
+        {
+          "name": "Dj Js da Bl",
+          "url": "https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "VAMO FODER A NOITE TODA",
+      "url": "https://open.spotify.com/track/3vUNenCjejROnA0RPNyaUB"
+    },
+    {
+      "album": {
         "name": "Vampiro",
         "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
       },
@@ -28390,7 +28426,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"

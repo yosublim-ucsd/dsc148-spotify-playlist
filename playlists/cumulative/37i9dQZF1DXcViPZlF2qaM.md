@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-225 songs - 14 hr 6 min
+226 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 | 2021-10-16 | 2022-07-29 |
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2021-10-16 | 2022-07-29 |
 | [Cuando Los Malandros Lloran](https://open.spotify.com/track/2Hz67xjPicg9Xdq7K8FfDG) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Cuando Los Malandros Lloran](https://open.spotify.com/album/1BOErcw8iZR9VkUyeF7flO) | 2:23 | 2021-11-24 | 2022-07-29 |
+| [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2021-10-16 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2021-10-16 | 2022-07-27 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2021-10-16 | 2023-03-16 |
 | [Cumbia Picaflor](https://open.spotify.com/track/4a9RaQAeibPpoznLBInePW) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Picaflor](https://open.spotify.com/album/6hqHri7SavECH7FTczDDzt) | 3:57 | 2021-10-16 | 2022-07-28 |
@@ -207,7 +208,7 @@
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2022-01-13 | 2022-07-28 |
 | [Sueño de Amapola](https://open.spotify.com/track/1CI1O4oGcZG2lSLgQHSwQG) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:45 | 2023-05-12 | 2023-05-26 |
 | [Sueños De Libertad](https://open.spotify.com/track/13wni7XVGxszlUbQ9tByJK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:33 | 2022-03-30 | 2022-07-21 |
-| [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 | 2022-01-21 |  |
+| [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 | 2022-01-21 | 2023-06-02 |
 | [Tabaibas](https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Tabaibas](https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3) | 3:52 | 2021-10-16 | 2022-07-28 |
 | [Te Venero](https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:07 | 2022-02-17 |  |
 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 | 2021-10-16 | 2023-03-26 |

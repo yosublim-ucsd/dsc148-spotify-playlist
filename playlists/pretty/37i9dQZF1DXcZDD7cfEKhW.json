@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ava Max",
-  "num_followers": 3411667,
+  "num_followers": 3411396,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzE0OTg1NjZjODE4ZGM3ZjZjZmUwNmJkMzZiNzQ4ODMxNmQzNmRl",
+  "snapshot_id": "MCw0NDU3ZmExZDUyNjVmZGYxYzI4YzY1ZGY4MTMyMDMzNTBkNTVhY2Yz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        }
-      ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "My Feelings For You (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 256092,
       "name": "Bones - twocolors Remix",
       "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
-      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Million Dollar Baby (Nathan Dawe Remix)",
         "url": "https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 185864,
       "name": "Million Dollar Baby - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
+        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 152672,
+      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
+      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Original Sin (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/77FbpXGyS9pbEaiHymovlP"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
-        "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 152672,
-      "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
-      "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1723,6 +1723,30 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 217766,
+      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Freaky Deaky (R3HAB Remix)",
         "url": "https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp"
       },
@@ -1787,30 +1811,6 @@
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
-        "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 217766,
-      "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
-      "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1883,30 +1883,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
-        "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        },
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        }
-      ],
-      "duration_ms": 176540,
-      "name": "IT'S YOU - ARMNHMR Remix",
-      "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "10:35 (feat. Tate McRae) [The Remixes]",
         "url": "https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo"
       },
@@ -1927,6 +1903,30 @@
       "duration_ms": 181442,
       "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "IT'S YOU (feat. keshi) [ARMNHMR Remix]",
+        "url": "https://open.spotify.com/album/4K87GTtvuKzOZYXFjt7Baw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 176540,
+      "name": "IT'S YOU - ARMNHMR Remix",
+      "url": "https://open.spotify.com/track/6EmRDtmAq556gtaj0rOjsW"
     },
     {
       "added_at": "2023-05-19 04:01:00",

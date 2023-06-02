@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,337 likes - 51 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,358 likes - 51 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 51 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
 
-Snapshot ID: `MCw3MDZhNzZkZDVhZTMyZGM2MWZlNzkyYjg2Y2JkNzY0MDAzNTY5NjRk`
+Snapshot ID: `MCw2ODBkNjgwZjA1MDI4ZTJjMGFlOGRjY2NkY2ZkMTRjOWRlODAyNGU5`

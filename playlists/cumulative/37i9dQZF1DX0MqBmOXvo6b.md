@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-534 songs - 22 hr 51 min
+535 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Transitions](https://open.spotify.com/track/2G2Be7WBq744i4aBamHv8o) | [Amélie Doret](https://open.spotify.com/artist/06pZeDECUky6aiFA6GjYg0) | [Transitions](https://open.spotify.com/album/7gaX1sOn0G412TvHVdZBtX) | 2:40 | 2022-06-07 | 2022-12-24 |
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-06-07 |  |
 | [Tree Angels](https://open.spotify.com/track/7hzvYJMRKjJas7foTUrO1J) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 2:50 | 2022-06-07 |  |
-| [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-06-07 |  |
+| [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-06-07 | 2023-06-02 |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-06-07 |  |
 | [Tuesday Clearing](https://open.spotify.com/track/4yMveNJje6wu6YUgf62DE1) | [Abby Silverman](https://open.spotify.com/artist/5P86oREbUnuT7USO63Qk4Y) | [Stairs in the Clouds](https://open.spotify.com/album/4ecAKYMye8B9N6fbjE77UI) | 2:50 | 2022-06-07 | 2022-09-24 |
 | [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 | 2022-06-07 | 2023-04-26 |
@@ -503,6 +503,7 @@
 | [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2022-06-07 | 2023-04-09 |
 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 | 2022-06-07 |  |
 | [Vivid Patterns](https://open.spotify.com/track/0g7477jVToOCDZ61AvZYB2) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Vivid Patterns](https://open.spotify.com/album/7oQkaqNpzBzPU5gQHvGuOz) | 3:03 | 2022-06-07 | 2022-07-29 |
+| [Vivid Patterns](https://open.spotify.com/track/1g2dWuT1zoS6bn2Oe9mQpV) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Vivid Patterns](https://open.spotify.com/album/6c6dVrEgEmZKXGVXs3B635) | 3:03 | 2023-05-19 |  |
 | [Vivid Patterns](https://open.spotify.com/track/66p8t05FIuV6lmU39Lek1k) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Vivid Patterns](https://open.spotify.com/album/1We8EWituq9rLx0F1SFAwN) | 3:03 | 2022-07-19 | 2022-09-24 |
 | [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-06-07 | 2022-07-29 |
 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-19 | 2022-09-15 |

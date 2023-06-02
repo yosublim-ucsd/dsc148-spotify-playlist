@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,344 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,455 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 57 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
 | 58 | [Hoy Quiero Verte](https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Hoy Quiero Verte](https://open.spotify.com/album/19AtwODbc5YtbcUYQcRsRX) | 3:19 |
 | 59 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 |
-| 60 | [Pega la Vuelta](https://open.spotify.com/track/51seuwibGTQsUod6oScKtR) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:49 |
+| 60 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
 | 61 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
-| 62 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 |
+| 62 | [Pega la Vuelta](https://open.spotify.com/track/51seuwibGTQsUod6oScKtR) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:49 |
 | 63 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 |
 | 64 | [SOMOS NOSOTROS](https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SOMOS NOSOTROS](https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD) | 2:02 |
 | 65 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 86 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 |
 | 87 | [Agüita](https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Megamix](https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS) | 3:33 |
 | 88 | [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 |
-| 89 | [Mil Lágrimas](https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Corazón Pecador](https://open.spotify.com/album/6YUSZgWOHLPfsEe92kTCu9) | 3:23 |
+| 89 | [Lloraras mas de diez veces](https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \- Ahora juega en primera](https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM) | 3:29 |
 | 90 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 |
-| 91 | [Lloraras mas de diez veces](https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \- Ahora juega en primera](https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM) | 3:29 |
+| 91 | [Mil Lágrimas](https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Corazón Pecador](https://open.spotify.com/album/6YUSZgWOHLPfsEe92kTCu9) | 3:23 |
 | 92 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 |
 | 93 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 |
 | 94 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
-| 95 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 |
-| 96 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
+| 95 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
+| 96 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 |
 | 97 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 |
 | 98 | [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 |
 | 99 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 100 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 
-Snapshot ID: `MCxmMTM5NThmMDhkYjgwOTk4MjQyYjU4YzYzYWYxMDA5OGFmZmU4NTA3`
+Snapshot ID: `MCwwN2Q0Yzk2MDQ5NjdhOTUyNDM4YTExZmNlODhkMjdiMzY3ZDAwNTQw`

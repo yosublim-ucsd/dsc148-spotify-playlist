@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 283106,
       "name": "Aj keby...",
       "url": "https://open.spotify.com/track/3tCHEKnMgnSPU7vLz1fciR"
@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "bad b1tch",
+        "url": "https://open.spotify.com/album/5BChRyQ7qRqIubVXOntbMo"
+      },
+      "artists": [
+        {
+          "name": "ph1l",
+          "url": "https://open.spotify.com/artist/51NUKivUxb1C2i5BjUqNPc"
+        },
+        {
+          "name": "Sugoi Kimono",
+          "url": "https://open.spotify.com/artist/2jg1OB0HRi3UnMrpymIOsw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180043,
+      "name": "bad b1tch",
+      "url": "https://open.spotify.com/track/1mgotEZbr4OQIDXHUlZAFL"
+    },
+    {
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -1868,7 +1890,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
@@ -4020,7 +4042,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 145200,
       "name": "Cupid \u2013 Twin Ver. (FIFTY FIFTY) \u2013 Sped Up Version",
       "url": "https://open.spotify.com/track/3B228N0GxfUCwPyfNcJxps"
@@ -4670,7 +4692,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 270053,
       "name": "Doba papierov\u00e1",
       "url": "https://open.spotify.com/track/141LLCGZXUwXQjrhLsPCA0"
@@ -6658,6 +6680,24 @@
       "duration_ms": 143102,
       "name": "Give It To Me - Sped Up",
       "url": "https://open.spotify.com/track/5Vv8EsGGg7jROU6KdM9znW"
+    },
+    {
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "album": {
@@ -8804,7 +8844,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 442305,
       "name": "Jamaican - Original Mix",
       "url": "https://open.spotify.com/track/4AXQk4OdQAONDQyjKYxrxz"
@@ -8920,7 +8960,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 120836,
       "name": "Jedn\u00e9ho r\u00e1na",
       "url": "https://open.spotify.com/track/5qLB1H7ioczPPT0LE1rOp1"
@@ -14762,7 +14802,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 327400,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
@@ -16718,7 +16758,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf"
@@ -17758,7 +17798,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 236133,
       "name": "Svedkovia covidovi",
       "url": "https://open.spotify.com/track/0484tpwbaVDzcnzRFyIc7W"
@@ -19548,7 +19588,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
@@ -20282,7 +20322,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 230240,
       "name": "What's Love Got to Do with It - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz"
@@ -20816,7 +20856,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
@@ -21306,7 +21346,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 246558,
       "name": "\u010cosi \u00dasmevn\u00e9",
       "url": "https://open.spotify.com/track/2bsLwiIame0BWLC1uBLJ2H"

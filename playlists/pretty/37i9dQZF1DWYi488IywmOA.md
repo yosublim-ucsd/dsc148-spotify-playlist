@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,298 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,297 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Here I'm Is](https://open.spotify.com/track/6qXE9eEx24VsgKf0sCQouH) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [They Called It Rhythm & Blues](https://open.spotify.com/album/2Iv8pnhLaHJUf4KBNjaxU6) | 2:27 |
 | 75 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 |
 
-Snapshot ID: `MCxmZmNmMGQ1NjI0MTU5ZDlmZTYyZTM0MTJjOWEwYzliYzdmZjg3N2Rk`
+Snapshot ID: `MCwyODgwMzcxNGJhODI0YjA4OTc4OTkxODExNTI3ZjhhODc5OGYxODZk`

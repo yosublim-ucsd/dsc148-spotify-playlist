@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-84 songs - 4 hr 10 min
+85 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 |  |
 | [The Caring](https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6) | 3:06 | 2023-04-27 |  |
 | [The Girl and the Time Machine](https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9) | [Asa Quana](https://open.spotify.com/artist/5bZxKABYkYmtKIh1f3us7m) | [The Girl and the Time Machine](https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF) | 1:37 | 2023-03-30 | 2023-05-19 |
-| [The Second Kind](https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF) | 4:26 | 2023-05-05 |  |
+| [The Second Kind](https://open.spotify.com/track/0PPEYinIOgCi4sdyoUIwXj) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/76WNrCVTDtgoocY9kw821z) | 4:26 | 2023-05-05 |  |
+| [The Second Kind](https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF) | 4:26 | 2023-05-05 | 2023-06-02 |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-03-30 | 2023-04-07 |
 | [Time In Our Lives](https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Time In Our Lives](https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK) | 2:38 | 2023-03-30 |  |
 | [Tonite](https://open.spotify.com/track/2l0iRvUpFZjuFybv0qSb6A) | [VOLDY](https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Solplay Tape, Vol\. 1 \(Mixtape\)](https://open.spotify.com/album/6JFEHmgU0rNKOnEjoy0Lhg) | 2:10 | 2023-03-30 | 2023-05-12 |

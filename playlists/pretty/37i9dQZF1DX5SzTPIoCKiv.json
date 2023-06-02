@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 580196,
+  "num_followers": 580289,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWMyY2ZiY2M5MzAyNTkxODRhNzNlOTQ1NDJiZWJlMDNkMmQ4OWJi",
+  "snapshot_id": "MCxhNWJmNjY4ZTI0N2QyZGRlMjRiOTJkOGE3MWVhMGJjOWZlZTNiZWJh",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Devil Is A Liar",
-        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 174438,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Let the Ground Rest",
         "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Devil Is A Liar",
+        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 174438,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Rivers in the Wasteland",
-        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Rivers in the Wasteland",
+        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Peace Be Still",
         "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "I Will Fear No More",
-      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "I Will Fear No More",
+      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
     },
     {
       "added_at": "2023-02-18 03:22:25",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
         "name": "Made to Fly",
         "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 224910,
       "name": "Made to Fly",
       "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": "2023-02-18 03:22:25",

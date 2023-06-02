@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8?si=4UlzmnO8SV6ekf-46yZQJQ\"> Kouz1</a> and  <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Eql56LT9RqmI67MoyKXW2w\"> L.A.X</a>  ",
-  "num_followers": 18098,
+  "num_followers": 18215,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWY1OWY2Y2UwNDFkYzg5YTVhZTY5ZTEwM2ZjNjVmNzYxYTRiNDNj",
+  "snapshot_id": "MCw1MGI5ZDQxZjZiYzgyMzZlMzE2ZGU0NDEyZDNkOWNhNDQ5NGIwYTc2",
   "tracks": [
     {
       "added_at": "2023-05-26 00:00:00",
@@ -351,7 +351,7 @@
     {
       "added_at": "2023-05-26 00:00:00",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -360,20 +360,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1093424,
+  "num_followers": 1094007,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDljZGFhZGUxODAwMTMwNWU4ZTZhMGQ5YWQ2ZmUwYjE0ZTQ4NTIy",
+  "snapshot_id": "MCwyZjY5ZWM5NjdiYThmZmRjMGVmNDVlNzQ1ZWM3NzhiZWY2YzdiMWY4",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Getting Ready... (World)",
@@ -467,6 +451,22 @@
       "duration_ms": 253333,
       "name": "I'm Tore Down",
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173040,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2018-03-29 19:44:07",

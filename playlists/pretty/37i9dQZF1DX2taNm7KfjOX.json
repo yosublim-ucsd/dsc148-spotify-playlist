@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Leith Ross",
-  "num_followers": 793632,
+  "num_followers": 793727,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzEzMDBhODFiNmJlNGIxNTNiZmE1Y2JmNmIzYzIxZDRkODBmN2Zh",
+  "snapshot_id": "MCw3YjEyM2VjOTFjOGNmNzk0OGUwMjJmNjc3YjE4NWM5MzRmMzgxYTIz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Pacific",
-        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 368493,
-      "name": "There's A Place",
-      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 368493,
+      "name": "There's A Place",
+      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1851,26 +1871,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I Know You Know Me (With Matt Berninger)",
-        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 199123,
-      "name": "I Know You Know Me (With Matt Berninger)",
-      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Bird's Eye View",
         "url": "https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie"
       },
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hidden Hollow, Vol. One - Singles",
-        "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
-      },
-      "artists": [
-        {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
-        }
-      ],
-      "duration_ms": 248385,
-      "name": "The Missing Road",
-      "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 298013,
       "name": "If I Told",
       "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Hidden Hollow, Vol. One - Singles",
+        "url": "https://open.spotify.com/album/5g87k21hmJs58l0iRfUwoq"
+      },
+      "artists": [
+        {
+          "name": "Radical Face",
+          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+        }
+      ],
+      "duration_ms": 248385,
+      "name": "The Missing Road",
+      "url": "https://open.spotify.com/track/1RBEBRUKdXKFKILSHkbQFa"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2175,6 +2175,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 371976,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
@@ -2207,18 +2239,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
         }
       ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2255,18 +2287,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
       "artists": [
         {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 371976,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2283,22 +2315,6 @@
       "duration_ms": 231066,
       "name": "Nice and Quiet",
       "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2331,22 +2347,6 @@
       "duration_ms": 206995,
       "name": "Strange Overtones",
       "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 240954,
-      "name": "Masterpiece - solo",
-      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
       },
@@ -2463,18 +2447,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 206103,
-      "name": "God Above",
-      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+      "duration_ms": 240954,
+      "name": "Masterpiece - solo",
+      "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2491,6 +2475,22 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206103,
+      "name": "God Above",
+      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",

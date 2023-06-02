@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 213766,
       "name": "blue",
       "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
@@ -4284,6 +4284,24 @@
       "duration_ms": 183360,
       "name": "Make It Out (feat. Maisie Peters)",
       "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Mary Jane & Chardonnay",
+      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
     },
     {
       "album": {

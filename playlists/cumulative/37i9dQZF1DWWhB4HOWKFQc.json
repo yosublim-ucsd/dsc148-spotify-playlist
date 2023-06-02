@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Coldplay",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Panji Sakti",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Closed Doors (Speed Up Version)",
+        "url": "https://open.spotify.com/album/1DX0ZYI420F49n0Ch99U71"
+      },
+      "artists": [
+        {
+          "name": "Ismail",
+          "url": "https://open.spotify.com/artist/2J4dGyHPTwmLlZAyzDXvdN"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "Closed Doors - Speed Up Version",
+      "url": "https://open.spotify.com/track/6VufmhdIxivf0Jv3jhci1h"
+    },
+    {
+      "album": {
         "name": "Cnv Sound Volums (Kion Studio One Shots)",
         "url": "https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3"
       },
@@ -516,6 +534,24 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
     },
     {
       "album": {
@@ -975,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -1008,6 +1062,24 @@
       "duration_ms": 283900,
       "name": "Hilang Tanpa Bilang",
       "url": "https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE"
+    },
+    {
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
     },
     {
       "album": {
@@ -1106,6 +1178,24 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "album": {
+        "name": "in the stars",
+        "url": "https://open.spotify.com/album/0mPY19kYRyEMP1IOk06k5j"
+      },
+      "artists": [
+        {
+          "name": "Sami Rose",
+          "url": "https://open.spotify.com/artist/2NLhDrmuSI9K1SHfwmqNXL"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "in the stars",
+      "url": "https://open.spotify.com/track/798s1KJWQglhZoKLUF9p7D"
     },
     {
       "album": {
@@ -1388,6 +1478,24 @@
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
+    },
+    {
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "album": {
@@ -1909,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
+    },
+    {
+      "album": {
         "name": "Rahmatun Lil'Alameen",
         "url": "https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K"
       },
@@ -2201,6 +2327,28 @@
     },
     {
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+    },
+    {
+      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU"
       },
@@ -2408,6 +2556,24 @@
       "duration_ms": 184248,
       "name": "Tally",
       "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
+    },
+    {
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "album": {

@@ -219,6 +219,42 @@
     },
     {
       "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "album": {
+        "name": "UglyDolls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176408,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/3YMpQVEIJiq1gBY4PsUVwk"
+    },
+    {
+      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -338,6 +374,28 @@
       "duration_ms": 178026,
       "name": "Go Shine (Song for Elm)",
       "url": "https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk"
+    },
+    {
+      "album": {
+        "name": "House Of Memories",
+        "url": "https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "House of Memories - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb"
     },
     {
       "album": {
@@ -1004,6 +1062,28 @@
       "duration_ms": 149893,
       "name": "Two Mommies",
       "url": "https://open.spotify.com/track/5lPbdlNyrYHlkncyBMHogk"
+    },
+    {
+      "album": {
+        "name": "UglyDolls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/0Mi9oDxTwC7u9X6nxSQGN6"
     },
     {
       "album": {

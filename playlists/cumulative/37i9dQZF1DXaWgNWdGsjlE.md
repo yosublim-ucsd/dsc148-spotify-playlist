@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-180 songs - 9 hr 53 min
+181 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Fuck You](https://open.spotify.com/track/6gkqY0rDnrzGwGpFyTugi9) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L) | 3:03 | 2022-07-01 |  |
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2022-04-08 |  |
 | [GASLIGHT!](https://open.spotify.com/track/4sqsaID1vck0Sxis6EPzci) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [GASLIGHT!](https://open.spotify.com/album/4HA7sK0N3OHC2GzTvfa9RL) | 2:28 | 2022-04-08 | 2023-03-25 |
-| [GauzeValley](https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/7e5VVmMGYiLnmX6Me2LLPC) | 2:30 | 2022-07-01 |  |
+| [GauzeValley](https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/7e5VVmMGYiLnmX6Me2LLPC) | 2:30 | 2022-07-01 | 2023-06-02 |
+| [GauzeValley](https://open.spotify.com/track/5o0bG13lRrsVGSaeZU6NAl) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/3tzOxmJbLNcBMeNvlxmY8T) | 2:30 | 2023-05-19 |  |
 | [Gravedigger](https://open.spotify.com/track/4zo6O0UO5Kz6ZT0CpTCCb3) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/2vw2ISNEkyFtG6f2XGthyr) | 3:30 | 2022-04-08 | 2022-10-13 |
 | [Gravedigger](https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/6QawVhtF8UkiA78NUbVFGr) | 3:30 | 2022-09-30 |  |
 | [Gravedigger](https://open.spotify.com/track/7BVjEyP3YVzOzfVBWC4IrN) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [We Are: the Guard, Vol\. 2](https://open.spotify.com/album/0Rs9PSrI1xLSQpWr04TWGV) | 3:30 | 2022-11-08 | 2022-11-13 |

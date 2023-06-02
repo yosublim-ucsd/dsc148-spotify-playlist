@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Robert Robert",
-  "num_followers": 36827,
+  "num_followers": 36834,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGQyMTEwOWM0NTg2NzE2YTU5YzVlYjAwNmViNDUxZWIyNWVkZDdm",
+  "snapshot_id": "MCxhYzZjNmUyNWI3NjkyZWNiM2E0OGFlMTllOTEwOTlhZTFmZGYyNDI4",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -427,18 +427,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
+        "name": "21",
+        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
       },
       "artists": [
         {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+          "name": "Mig",
+          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
-      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
+      "duration_ms": 193381,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm"
+        "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+        "url": "https://open.spotify.com/album/25E06yKmotTBzGMPgLiUbU"
       },
       "artists": [
         {
-          "name": "Mig",
-          "url": "https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
         }
       ],
-      "duration_ms": 193381,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH"
+      "duration_ms": 144000,
+      "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
+      "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Addictocrate",
+        "url": "https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "duration_ms": 158506,
+      "name": "Addictocrate",
+      "url": "https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Prends \u00e7a",
         "url": "https://open.spotify.com/album/5mbn5HLQFzfnluNW4f5GUh"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 165981,
       "name": "Prends \u00e7a",
       "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Addictocrate",
-        "url": "https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
-        }
-      ],
-      "duration_ms": 158506,
-      "name": "Addictocrate",
-      "url": "https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Ann\u00e9es Sauvages",
+        "url": "https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW"
+      },
+      "artists": [
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        }
+      ],
+      "duration_ms": 119692,
+      "name": "Avant l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Ann\u00e9es Sauvages",
-        "url": "https://open.spotify.com/album/6O9VlKASBVMGQqR7n6ELtW"
-      },
-      "artists": [
-        {
-          "name": "Georgio",
-          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
-        }
-      ],
-      "duration_ms": 119692,
-      "name": "Avant l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/2tSQmf09N55t8ia3yMdo3Z"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Paris-Hawa\u00ef",
         "url": "https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 303000,
       "name": "Leila",
       "url": "https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Ce soir (j'suis dans ma t\u00eate)",
+        "url": "https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Ce soir - j'suis dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -775,18 +791,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Ce soir (j'suis dans ma t\u00eate)",
-        "url": "https://open.spotify.com/album/5Uiy5vNgCfejYNl3yosE9e"
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
       },
       "artists": [
         {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 140649,
-      "name": "Ce soir - j'suis dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
+      "duration_ms": 192859,
+      "name": "Halla",
+      "url": "https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -839,6 +855,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/3enLAJnxNXQXcA4kqKYFq0"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Je partirai",
+      "url": "https://open.spotify.com/track/3iku3rkYAUlFqhd72eOvJa"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Amn\u00e9sia",
         "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 220840,
       "name": "Amn\u00e9sia",
       "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Le blanc des yeux",
-        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 177282,
-      "name": "Le blanc des yeux",
-      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Make It Alright",
-        "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 133822,
-      "name": "Make It Alright",
-      "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

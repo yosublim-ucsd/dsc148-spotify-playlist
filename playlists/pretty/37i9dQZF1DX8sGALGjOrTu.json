@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 401061,
+  "num_followers": 401388,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjkyNGMxZjIwYjg5OTFjY2JkZTUwMWU1OWMzMGMxODAwOTY0YjM5",
+  "snapshot_id": "MCxlZTIyYzg3NTY1Y2RiMmFhODhiMDU5ZjE5MzZkNTI2OTNlNDZhZDkx",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Lead Sails Paper Anchor",
         "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220600,
       "name": "Becoming the Bull",
       "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Relativity",
-        "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "The Past Should Stay Dead",
-      "url": "https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Scary Kids Scaring Kids",
         "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 261240,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 273653,
+      "name": "The Past Should Stay Dead",
+      "url": "https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Emarosa",
         "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 228986,
       "name": "A Toast to the future kids!",
       "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2023-03-20 09:14:23",

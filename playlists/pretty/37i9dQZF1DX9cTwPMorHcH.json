@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 65935,
+  "num_followers": 66007,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzUyNzkzMjI5NmRkZjJkYjRkZTQ1OGI4OGU2YjI4MGM5NWNjN2Yz",
+  "snapshot_id": "MCxjM2Y1NjNkYjU0Y2M2MWIwYjY2MDhlY2NmMDNkMTA2ZWIwYWY2MmRj",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "War In My Mind",
-        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Play Loud",
@@ -1079,6 +1063,22 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "War In My Mind",
+        "url": "https://open.spotify.com/album/2Eo7sjkI3fKanrJY4rtena"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 215911,
+      "name": "Bad Woman Blues",
+      "url": "https://open.spotify.com/track/0rOzFVPfQiJShjum8zpfu9"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264240,
+      "name": "Riding With the King",
+      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Bloomfield-A Retrospective",
         "url": "https://open.spotify.com/album/5ZkaY6CcFUidEuWc41o9b2"
       },
@@ -1143,22 +1163,6 @@
       "duration_ms": 216200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 210493,
       "name": "Ain't Got Nobody",
       "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Riding With The King",
-        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Riding With the King",
-      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
     },
     {
       "added_at": "2021-07-23 04:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "I'm Glad Trouble Don't Last Always",
         "url": "https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 257586,
       "name": "I'm Glad Trouble Don't Last Always",
       "url": "https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Signs, High Times",
-      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Kill Or Be Kind",
@@ -1461,6 +1445,22 @@
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
     },
     {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Signs, High Times",
+      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
+    },
+    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Keb' Mo'",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
       },
       "artists": [
         {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Essential Sonny Boy Williamson",
-        "url": "https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Cry No More",
         "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
       },
@@ -1623,22 +1607,38 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "TajMo",
-        "url": "https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX"
+        "name": "The Essential Sonny Boy Williamson",
+        "url": "https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Don't Leave Me Here",
-      "url": "https://open.spotify.com/track/1pDwZmpFoPyPTApIgCLwHS"
+      "duration_ms": 188240,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Catfish",
+        "url": "https://open.spotify.com/album/0UHFzxUW8gPhFwjIj7y6E0"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Catfish",
+      "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
     }
   ],
   "unique_name": "Blues Drive",

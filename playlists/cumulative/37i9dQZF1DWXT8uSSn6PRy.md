@@ -4,7 +4,7 @@
 
 > The hottest tracks in the North\. Cover: Jack Harlow
 
-464 songs - 1 day 0 hr 12 min
+465 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-03-25 | 2023-05-06 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-31 | 2023-04-01 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-03-03 | 2023-05-06 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-20 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-20 | 2023-06-02 |
 | [Hey Now \(Iko Iko\)](https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb), [Altur Santos](https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR) | [Hey Now \(Iko Iko\)](https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u) | 2:49 | 2021-12-31 | 2022-02-05 |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-05-13 | 2022-07-30 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-05-14 |

@@ -7316,7 +7316,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 176666,
       "name": "orange",
       "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
@@ -7498,6 +7498,24 @@
       "duration_ms": 213397,
       "name": "paradigm",
       "url": "https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE"
+    },
+    {
+      "album": {
+        "name": "Passione",
+        "url": "https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232202,
+      "name": "Passione",
+      "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
     },
     {
       "album": {

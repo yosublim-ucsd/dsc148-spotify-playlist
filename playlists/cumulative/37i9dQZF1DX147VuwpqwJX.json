@@ -255,6 +255,42 @@
     },
     {
       "album": {
+        "name": "c u in me",
+        "url": "https://open.spotify.com/album/56VldJig1Tq1v5m88MbrRE"
+      },
+      "artists": [
+        {
+          "name": "Divinecowgurl",
+          "url": "https://open.spotify.com/artist/0nWzNAwYw3ZGhvW3uhyM2p"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158162,
+      "name": "c u in me",
+      "url": "https://open.spotify.com/track/5f0Y7zvpZjAvUp2mPAJ8UI"
+    },
+    {
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1sz87xjywU1sDO618R1YJK"
+      },
+      "artists": [
+        {
+          "name": "Thee Emperor Smith",
+          "url": "https://open.spotify.com/artist/0kvrve4FH1KbKFg6luJPV6"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200096,
+      "name": "CHIC",
+      "url": "https://open.spotify.com/track/4R8jnfHxBJHO0ILuCbf5iq"
+    },
+    {
+      "album": {
         "name": "Children (MikeQ and 2LIVE Remix)",
         "url": "https://open.spotify.com/album/62ZJgdQsB2x1OOgZ94XUQ2"
       },
@@ -502,6 +538,32 @@
       "duration_ms": 260000,
       "name": "Dope Dick Dealer",
       "url": "https://open.spotify.com/track/1qXfYFkZ6nfBml7WWJqCwq"
+    },
+    {
+      "album": {
+        "name": "Elements of Vogue",
+        "url": "https://open.spotify.com/album/0n0xRDZi1aevgwwziZDEZU"
+      },
+      "artists": [
+        {
+          "name": "David Ian Xtravaganza",
+          "url": "https://open.spotify.com/artist/6gbWKnQAgYskO6K73DfpZj"
+        },
+        {
+          "name": "Johnny Dynell",
+          "url": "https://open.spotify.com/artist/0XymYIHmLsD5hqPChqR39b"
+        },
+        {
+          "name": "David Depino",
+          "url": "https://open.spotify.com/artist/0JXWTnBz77ZovPqVzv9Q8o"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455832,
+      "name": "Elements of Vogue (David Depino 1989 Original Mix)",
+      "url": "https://open.spotify.com/track/5jruQE2mhCGgFHQKYvunzr"
     },
     {
       "album": {
@@ -1444,6 +1506,32 @@
       "duration_ms": 130903,
       "name": "PINKROOM",
       "url": "https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0"
+    },
+    {
+      "album": {
+        "name": "POC",
+        "url": "https://open.spotify.com/album/3Rf6Coo8PdnTeLm68H9RMp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Mar",
+          "url": "https://open.spotify.com/artist/7tMtZSKTF28bqfqZWmbZSA"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "POC",
+      "url": "https://open.spotify.com/track/22PMhCJsxuF1nJTESwunxg"
     },
     {
       "album": {

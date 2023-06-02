@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 
 > Our editorial picks for the best pop songs of 2022! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,170 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,167 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 | 59 | [Cyclone](https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cyclone](https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy) | 3:36 |
 | 60 | [Fat Funny Friend](https://open.spotify.com/track/7z3NjKBqjv3d1ykXCFQxaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/5NMKRqxbne8L5LerDnpGjk) | 3:19 |
 | 61 | [GORGEOUS](https://open.spotify.com/track/2SQKabLAU744O8pb8IZPSv) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/47eqxClUnF2Rv7R67eICnF) | 2:53 |
-| 62 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 62 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 63 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 |
 | 64 | [The Loneliest Time \(feat\. Rufus Wainwright\)](https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:34 |
 | 65 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dpn9ROb26T.md) - [plain]
 | 74 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |
 | 75 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 |
 
-Snapshot ID: `MCw3NzVhMTdhNDE4MmM3YTUyODUwOGFjZWQ2NWQ1NTQ4N2M4NzRkMWY2`
+Snapshot ID: `MCw2NTBmMTg5MGRhOTc1Njk4MWZiMzJjNjhiYjEyOWM5NzEwZmIxYzFk`

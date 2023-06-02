@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > ¡Manuel Turizo nos presenta sus favoritas colombianas de los 2000 y alrededores!
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,462 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,563 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 99 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 100 | [Mocca \- Remix](https://open.spotify.com/track/1usoXi4f0BnMART4uActEA) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Mocca \(Remix\)](https://open.spotify.com/album/5e17MvJeEUfTQJ2Ygu6acn) | 3:22 |
 
-Snapshot ID: `MCxlMGQzMDA2ZTdkZGE2MTNiMjU3YTY0ZDk4MTI1NTNlOTU2ZWE2M2Iz`
+Snapshot ID: `MCxkNDBiZGViOGNiNzBlZDEzZWZkYjkzOTgxY2I0N2VmY2QwZTM4YmZk`

@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 3836,
+  "num_followers": 3851,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmFhMTdhMWM1OTI0M2IxODlmZWU1NGM0ZTgwMjcxMmQ3NWNhZTNi",
+  "snapshot_id": "MCwzN2U3NGNjNzk0MDI2MzY0MjdkMGFjZjhkMTA1NTg1MDQ4YTlmZjk0",
   "tracks": [
     {
       "added_at": "2023-05-22 15:10:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Virgins",
-        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 157369,
-      "name": "Live Room Out",
-      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "S\u00f3laris",
         "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 335165,
       "name": "Simulacra I",
       "url": "https://open.spotify.com/track/3jKFYmkiSh8gvll1mlzuFo"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Virgins",
+        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 157369,
+      "name": "Live Room Out",
+      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Ravedeath, 1972",
-        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Analog Paralysis, 1978",
-      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 453700,
       "name": "A Field of Night",
       "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Ravedeath, 1972",
+        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Analog Paralysis, 1978",
+      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 298697,
-      "name": "Chonchos",
-      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Balsams",
         "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 298697,
+      "name": "Chonchos",
+      "url": "https://open.spotify.com/track/58B9gtBLbeQG55l8whZz2R"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 212839,
       "name": "LUX 1.4",
       "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 362609,
-      "name": "To All It",
-      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
       "artists": [
         {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
         }
       ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+      "duration_ms": 362609,
+      "name": "To All It",
+      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Loom Dream",
-        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
-      },
-      "artists": [
-        {
-          "name": "Leif",
-          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
-        }
-      ],
-      "duration_ms": 455925,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Loom Dream",
+        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
+      },
+      "artists": [
+        {
+          "name": "Leif",
+          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
+        }
+      ],
+      "duration_ms": 455925,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "The Last of Our Time Together",
-        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
-      },
-      "artists": [
-        {
-          "name": "Hakobune",
-          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
-        }
-      ],
-      "duration_ms": 962000,
-      "name": "The Last of Our Time Together",
-      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Music For Installations",
         "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 483566,
       "name": "Kites I",
       "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "The Last of Our Time Together",
+        "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
+      },
+      "artists": [
+        {
+          "name": "Hakobune",
+          "url": "https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161"
+        }
+      ],
+      "duration_ms": 962000,
+      "name": "The Last of Our Time Together",
+      "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "Fire Light",
-        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
-      },
-      "artists": [
-        {
-          "name": "Darshan Ambient",
-          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 205186,
       "name": "Second Lens",
       "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "Fire Light",
+        "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
+      },
+      "artists": [
+        {
+          "name": "Darshan Ambient",
+          "url": "https://open.spotify.com/artist/711EaFigHKV5CTbjIYWswu"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3kZKCUgtVv8NuzgobobYk9"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
-        "name": "The Best Driving Music in the World Ever",
-        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
-      },
-      "artists": [
-        {
-          "name": "Sean Curtis Patrick",
-          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Simon & Anna",
-      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
         "name": "Xen",
         "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 129553,
       "name": "Wound",
       "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Simon & Anna",
+      "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
     },
     {
       "added_at": "2023-05-22 15:10:39",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-05-22 15:10:39",
       "album": {
+        "name": "Make Me Know You Sweet",
+        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
+      },
+      "artists": [
+        {
+          "name": "Pendant",
+          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
+        }
+      ],
+      "duration_ms": 445241,
+      "name": "AAE-KZT",
+      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
+    },
+    {
+      "added_at": "2023-05-22 15:10:39",
+      "album": {
         "name": "Collected Dust",
         "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 222226,
       "name": "This Is Not My City",
       "url": "https://open.spotify.com/track/2992b6Uyw7LjfYyV2gvaFB"
-    },
-    {
-      "added_at": "2023-05-22 15:10:39",
-      "album": {
-        "name": "Make Me Know You Sweet",
-        "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
-      },
-      "artists": [
-        {
-          "name": "Pendant",
-          "url": "https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas"
-        }
-      ],
-      "duration_ms": 445241,
-      "name": "AAE-KZT",
-      "url": "https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop"
     },
     {
       "added_at": "2023-05-22 15:10:39",

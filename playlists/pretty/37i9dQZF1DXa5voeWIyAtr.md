@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,129 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,333 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 | 74 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 | 75 | [Que Sepas \- En Vivo](https://open.spotify.com/track/6mSf8TimkWgrcpoLiBTN7C) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [De Polo A Polo \(En Vivo\)](https://open.spotify.com/album/4LEcvjJNAYcYG5AzfX7Bke) | 3:37 |
 
-Snapshot ID: `MCxhZWNhNjAwMjNiMjQ2NjQ3OWQ2MzBhZDA1NGI3MjU5NDM2MGUzZDAw`
+Snapshot ID: `MCwyYWE3NzhmODgxM2I1MTRhNTkzNTQyZjIzY2VlMGJkM2E3YzRiZGI1`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-487 songs - 1 day 4 hr 24 min
+488 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
 | [Fine Lines](https://open.spotify.com/track/5Qasc8YPxKDGyUtYmdlTTW) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 4:05 | 2022-11-25 | 2023-02-22 |
 | [Fire](https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Elevate](https://open.spotify.com/album/11FB4HqkYVcitO6sD6MjlV) | 3:06 | 2021-12-07 | 2022-03-12 |
-| [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 |  |
+| [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 | 2023-06-02 |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
 | [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 |  |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 |  |
@@ -344,6 +344,7 @@
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |
 | [Pursuit of Violence](https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Pursuit of Violence](https://open.spotify.com/album/4wFX3JgcI39B2i6TcdYvfL) | 3:53 | 2023-03-14 |  |
 | [Quantum Level](https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Prismatic](https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl) | [Quantum Level](https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE) | 3:38 | 2023-05-08 |  |
+| [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-01 |  |
 | [RAD](https://open.spotify.com/track/6OOKfkImPzQ60wK5ElkAKu) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [RAD](https://open.spotify.com/album/3NOLC3FyPcACcSmmGwCUbZ) | 4:00 | 2022-10-03 | 2022-12-04 |
 | [Rainbow Rave Parade](https://open.spotify.com/track/0hsD0hitwYa7SbFrpniYuS) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Rainbow Rave Parade](https://open.spotify.com/album/7D4xvOL1vzaKhLM2JIRkWz) | 3:32 | 2022-02-28 | 2022-05-11 |
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |

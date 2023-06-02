@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Feet Up",
+        "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179831,
+      "name": "Feet Up",
+      "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
+    },
+    {
+      "album": {
         "name": "Fluss",
         "url": "https://open.spotify.com/album/4TEfhnre2612yM3UCM93Bx"
       },
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 228064,
       "name": "Time (is a healer)",
       "url": "https://open.spotify.com/track/5YhHGpCRsvIx4ytZKKlkf8"

@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 179657,
+  "num_followers": 179781,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTMwZThhMDQwMTA1MzUzMTYxMmIwYzNlYTY4N2I1N2EzNTFkNDkz",
+  "snapshot_id": "MCwzZmY1ZjNjNDAzNWRkMzJjOGI0MGU3MzBkYjZmZjE1MzZlOGJkMThl",
   "tracks": [
     {
       "added_at": "2023-03-06 09:14:27",
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
     },
     {
-      "added_at": "2023-06-01 01:29:31",
+      "added_at": "2023-06-02 01:50:34",
       "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Dark Love EP",
-        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 230922,
       "name": "CRUDELIA - I nervi",
       "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Soldi in Nero - feat. Sfera Ebbasta",
-      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Mowgli",
         "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 171375,
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Soldi in Nero - feat. Sfera Ebbasta",
+      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1307,6 +1307,34 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "Vita Vera Mixtape",
+        "url": "https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 252991,
+      "name": "Polvere (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1347,34 +1375,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Vita Vera Mixtape",
-        "url": "https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Chris Nolan",
-          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
-        },
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 252991,
-      "name": "Polvere (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1484,12 +1484,12 @@
           "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         },
         {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/2ZzD0TCGxLFpmXd78o1tBR"
         }
       ],
       "duration_ms": 169683,
-      "name": "Rompo (feat. Boro Boro)",
+      "name": "Rompo (feat. Boro)",
       "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
     },
     {

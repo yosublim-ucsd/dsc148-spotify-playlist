@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-310 songs - 21 hr 9 min
+311 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(There Is\) No Greater Love](https://open.spotify.com/track/3U9WzMwu5kpby0r4200j7J) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank & Back To Black](https://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6) | 2:08 | 2022-01-20 | 2022-07-29 |
 | [\(There Is\) No Greater Love](https://open.spotify.com/track/4VbqUDBWyK15pTal9THtFu) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(US Clean e\-Version\)](https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ) | 2:08 | 2022-07-14 |  |
 | [\(They Long to Be\) Close to You](https://open.spotify.com/track/6Ohs3mAuItU9fOcmH27m6u) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [\(They Long to Be\) Close to You](https://open.spotify.com/album/4iEUjWQbUSNpppXTA04K3L) | 3:30 | 2022-01-20 | 2023-06-01 |
+| [\(They Long To Be\) Close To You](https://open.spotify.com/track/6boRdnu3ZEIKBPTwq8USHM) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Carpenters Avenue](https://open.spotify.com/album/6E8p3t02QrkpFDkzfJmGV9) | 3:31 | 2023-05-30 |  |
 | [12th Avenue](https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [12th Avenue](https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd) | 4:37 | 2022-01-20 |  |
 | [A Certain Someone](https://open.spotify.com/track/25yMnwMO9d5urUdVtPyWee) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [A Certain Someone](https://open.spotify.com/album/5UPRQVPIXbuOwOuEcnjif1) | 4:12 | 2022-01-20 |  |
 | [A Hundred Years From Today](https://open.spotify.com/track/4H0rc7WdW9GBldPq0hGPxC) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 3:00 | 2022-05-24 | 2022-09-10 |
@@ -277,7 +278,7 @@
 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 | 2022-01-20 |  |
 | [The Sweetest Moments](https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [The Jazz Mavericks](https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH) | [The Sweetest Moments](https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF) | 4:38 | 2022-10-11 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/1W0we35aHpMp7AkOYyh76Q) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 4:54 | 2022-01-20 |  |
-| [The Thrill is Gone \- Unplugged](https://open.spotify.com/track/0PWF5mmUbzOp9A2u51c7HA) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Anton Forsberg](https://open.spotify.com/artist/0e4t8iTZskOYkqOKBtPkw0), [Erik Elvkull](https://open.spotify.com/artist/3bsBded54svm997jww5znD) | [The Thrill is Gone \(Unplugged\)](https://open.spotify.com/album/0uOcT2YRlzcKMG1oQwfnXt) | 4:05 | 2023-05-30 |  |
+| [The Thrill is Gone \- Unplugged](https://open.spotify.com/track/0PWF5mmUbzOp9A2u51c7HA) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Anton Forsberg](https://open.spotify.com/artist/0e4t8iTZskOYkqOKBtPkw0), [Erik Elvkull](https://open.spotify.com/artist/3bsBded54svm997jww5znD) | [The Thrill is Gone \(Unplugged\)](https://open.spotify.com/album/0uOcT2YRlzcKMG1oQwfnXt) | 4:05 | 2023-05-30 | 2023-06-02 |
 | [The Very Thought of You](https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:19 | 2022-01-20 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 | 2022-02-18 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 | 2022-01-20 |  |

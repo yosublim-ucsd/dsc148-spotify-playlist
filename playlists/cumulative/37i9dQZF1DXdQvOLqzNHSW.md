@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-558 songs - 1 day 10 hr 39 min
+560 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Fantasy](https://open.spotify.com/track/3wMKWnMhw5EL1uPU0sW2S4) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Fantasy](https://open.spotify.com/album/2ajZ0vbI4VAjamEGJRl5QP) | 2:59 | 2023-05-25 | 2023-05-27 |
 | [Fantasy Theme](https://open.spotify.com/track/1FyzE4vVOskFfLfaFi7aSs) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Changes](https://open.spotify.com/album/3ksQTW71aNeTDp1gElATSf) | 3:58 | 2023-05-25 | 2023-05-27 |
 | [Fantasy Theme](https://open.spotify.com/track/2Gw3KDvyrWTuunaEI9fQYm) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Changes](https://open.spotify.com/album/5wSSU81wBT3t1j4w0sOfmu) | 3:58 | 2020-12-21 | 2022-07-29 |
+| [favourite girl](https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [favourite girl](https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS) | 2:34 | 2023-06-01 |  |
 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-05-27 |
 | [feelings are fatal](https://open.spotify.com/track/0izLJHtbbiReWZxn4Qi1kp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1KHgVqga6vV89zAQ2X9MMg) | 2:04 | 2020-12-21 | 2022-04-16 |
 | [Feels](https://open.spotify.com/track/3FyrfBILgcFz1V5IAKvCep) | [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Feels](https://open.spotify.com/album/3tYNW9THoCkpZlelX4Kne7) | 3:25 | 2020-12-21 | 2022-04-17 |
@@ -198,7 +199,7 @@
 | [For You](https://open.spotify.com/track/4vAVMBO7U116c9nsQ3fOoj) | [Tusks](https://open.spotify.com/artist/2JexLbBGkh1FnSWF1uoehP) | [False](https://open.spotify.com/album/45mVqbAnwaUy8zqqAOiF6n) | 3:50 | 2020-12-21 | 2022-04-18 |
 | [Forbidden Art](https://open.spotify.com/track/4R0l2Qj2mCKnbxqkVc1BjI) | [Zan Fiskum](https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054) | [Forbidden Art](https://open.spotify.com/album/0uVPlGD1pPfgQSPKloQ0SI) | 4:09 | 2023-05-25 | 2023-05-27 |
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-07-01 | 2022-07-13 |
-| [Forget About Life](https://open.spotify.com/track/2bjxKyGCrBv8JFXvo6Qdrk) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 2:42 | 2022-10-28 |  |
+| [Forget About Life](https://open.spotify.com/track/2bjxKyGCrBv8JFXvo6Qdrk) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 2:42 | 2022-10-28 | 2023-06-02 |
 | [Forget About Life](https://open.spotify.com/track/4eKo4tRNkK9WQXjrlP07eU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 2:42 | 2020-12-21 | 2022-07-28 |
 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 | 2023-04-25 |  |
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-31 | 2023-04-30 |
@@ -263,7 +264,7 @@
 | [I'll Be Around](https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fade](https://open.spotify.com/album/7cReNgYN2wNYsj78NB67ut) | 4:47 | 2020-12-21 | 2022-04-19 |
 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 | 2020-12-21 |  |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-05-06 |  |
-| [im fallin](https://open.spotify.com/track/1sx0jOmWzasYKH1ckmepvj) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [im fallin](https://open.spotify.com/album/2nYLLpgRfg7Pen4y49rhMf) | 1:44 | 2023-05-26 |  |
+| [im fallin](https://open.spotify.com/track/1sx0jOmWzasYKH1ckmepvj) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [im fallin](https://open.spotify.com/album/2nYLLpgRfg7Pen4y49rhMf) | 1:44 | 2023-05-26 | 2023-06-02 |
 | [In / Out \- Baardsen Remix](https://open.spotify.com/track/2D68vwpabaYmUoyphL54ny) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21), [Andrew Baardsen](https://open.spotify.com/artist/6xwIyd7KPncA3dQcIoPFc4) | [In / Out](https://open.spotify.com/album/7sh1sVkeAsbg4LuGZkKfZZ) | 3:43 | 2023-05-25 | 2023-05-27 |
 | [In Between](https://open.spotify.com/track/11KftsB7VRHkwGnw0TTgqW) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [In Between](https://open.spotify.com/album/2XQPhThxS500AxWzGjXkNl) | 4:49 | 2023-05-25 | 2023-05-27 |
 | [In Between](https://open.spotify.com/track/5V0w30Wz3i675RGU5RVQZk) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [In Between](https://open.spotify.com/album/4exfxM2q4YIXPfIH6x4uE1) | 4:49 | 2020-12-21 | 2022-04-14 |
@@ -453,6 +454,7 @@
 | [Someone To Stay](https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Someone To Stay](https://open.spotify.com/album/0JT94KA15duapEYHVQkq1l) | 4:14 | 2020-12-21 | 2022-04-19 |
 | [Sometimes I Don't](https://open.spotify.com/track/3sgacAzOpMt2IfwDv7BZwe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Sometimes I Don't](https://open.spotify.com/album/6sY0SxEXmu9JEYDxKAiCMb) | 2:30 | 2020-12-21 | 2022-04-18 |
 | [Soon Soon](https://open.spotify.com/track/2vHMsgLQaxDYqHvkLrPw65) | [Praything](https://open.spotify.com/artist/7pidPnHnMa0lzlF0rElbMW) | [Soon Soon](https://open.spotify.com/album/5P4BaJ5km2xDv96ZfkULSU) | 4:41 | 2020-12-21 | 2022-04-19 |
+| [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 | 2023-06-01 |  |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-05-01 | 2023-05-27 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-07-22 |  |
 | [Souvenir](https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:32 | 2020-12-21 | 2022-04-04 |

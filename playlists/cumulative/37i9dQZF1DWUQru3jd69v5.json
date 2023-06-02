@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Digital Astro in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Kuremino in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 170214,
       "name": "115 (feat. Low-Red, PRACI, Cage.488, Luchetto, ilovethisbeat & Prisoner)",
       "url": "https://open.spotify.com/track/6GW0GZzwCN3iWIIPmkrzCL"
@@ -1532,6 +1532,24 @@
       "duration_ms": 154633,
       "name": "Bilancino (feat. Kira)",
       "url": "https://open.spotify.com/track/57IFK0uO6gM3Dz0LLNlIrU"
+    },
+    {
+      "album": {
+        "name": "Bimba",
+        "url": "https://open.spotify.com/album/1CcFA7IhlmVv9OwyfzKHbg"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148384,
+      "name": "Bimba",
+      "url": "https://open.spotify.com/track/6O0URMZLhNyS2d6Ip1jOTC"
     },
     {
       "album": {
@@ -2991,6 +3009,32 @@
     },
     {
       "album": {
+        "name": "CREME DE LA CREME",
+        "url": "https://open.spotify.com/album/5dlf92nPLOto9dcb9gKGKe"
+      },
+      "artists": [
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        },
+        {
+          "name": "Vuem",
+          "url": "https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK"
+        },
+        {
+          "name": "Amin Ossy",
+          "url": "https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "CREME DE LA CREME",
+      "url": "https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn"
+    },
+    {
+      "album": {
         "name": "SUL RADAR",
         "url": "https://open.spotify.com/album/5zutyRN7Mia7iC6Zq2Du6L"
       },
@@ -4386,7 +4430,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 177313,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ"
@@ -4404,7 +4448,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166725,
       "name": "Fumando mary",
       "url": "https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku"
@@ -4798,7 +4842,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 138321,
       "name": "GI\u00d9",
       "url": "https://open.spotify.com/track/1j8ilJHqTxKlQ3DKetEJ2N"
@@ -5418,6 +5462,28 @@
       "duration_ms": 219333,
       "name": "Immigrato",
       "url": "https://open.spotify.com/track/322fNeq8hTL7PXlB5XL3tv"
+    },
+    {
+      "album": {
+        "name": "Imo & Ino",
+        "url": "https://open.spotify.com/album/4f3dEwsqGtBbPrgZWCK4WP"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "4997",
+          "url": "https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155769,
+      "name": "Imo & Ino",
+      "url": "https://open.spotify.com/track/06GYyg8rI65wt2Cwiu3iiF"
     },
     {
       "album": {
@@ -6504,7 +6570,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 140650,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/6tagNTDNYAiuYEGgoS2Oaa"
@@ -6664,7 +6730,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169600,
       "name": "Malocchio",
       "url": "https://open.spotify.com/track/376OdDXazc3256d9hK9nDR"
@@ -7390,7 +7456,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181374,
       "name": "Monte Fuji",
       "url": "https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL"
@@ -7608,6 +7674,28 @@
       "duration_ms": 185488,
       "name": "MVP",
       "url": "https://open.spotify.com/track/3XS0SjkmOL6jVoIx48Rfv7"
+    },
+    {
+      "album": {
+        "name": "MxxxVE IT",
+        "url": "https://open.spotify.com/album/6K0qxWHEBhbrQP0wxHiOBV"
+      },
+      "artists": [
+        {
+          "name": "Mando",
+          "url": "https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc"
+        },
+        {
+          "name": "Gemelier",
+          "url": "https://open.spotify.com/artist/45r6mQFEI3iQqAvxcDp7zA"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "MxxxVE IT",
+      "url": "https://open.spotify.com/track/2EDNuQ1AVzKuXNrRmrgyUj"
     },
     {
       "album": {
@@ -8291,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/4iiGDZ7xs1MgkNoEXscZfi"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126573,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6IQoJUnGjHF0LOZ81cJjhl"
+    },
+    {
+      "album": {
         "name": "PAPAJERSEY",
         "url": "https://open.spotify.com/album/6GvztqFAleXlYXRj9Tse7Z"
       },
@@ -8426,6 +8532,24 @@
       "duration_ms": 144000,
       "name": "Parenti",
       "url": "https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV"
+    },
+    {
+      "album": {
+        "name": "Passaggi Di Mano",
+        "url": "https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Passaggi Di Mano",
+      "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
     },
     {
       "album": {
@@ -8769,6 +8893,24 @@
     },
     {
       "album": {
+        "name": "Porto Milano",
+        "url": "https://open.spotify.com/album/6M2wTpJqAVnWgn5SDRT75v"
+      },
+      "artists": [
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Porto Milano",
+      "url": "https://open.spotify.com/track/1vat8RefP5Zr4fFNpWflnV"
+    },
+    {
+      "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
       },
@@ -8872,6 +9014,40 @@
       "duration_ms": 200045,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/60MMYnrqdgrDBhzNdRLRJv"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Love Sardinia (feat. Razer.Rah, Sgribaz, Low-Red, Rico Pmf, Enomoney & ilovethisbeat)",
+        "url": "https://open.spotify.com/album/5RXYg3SPqwOFyf8mPN13Wl"
+      },
+      "artists": [
+        {
+          "name": "NUOVA SARDEGNA",
+          "url": "https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG"
+        },
+        {
+          "name": "Razer.Rah",
+          "url": "https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb"
+        },
+        {
+          "name": "Sgribaz",
+          "url": "https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Rico Pmf",
+          "url": "https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145247,
+      "name": "Pretty Girls Love Sardinia (feat. Razer.Rah, Sgribaz, Low-Red, Rico Pmf, Enomoney & ilovethisbeat)",
+      "url": "https://open.spotify.com/track/3W22nVl8gT3JD9IPVw3uOP"
     },
     {
       "album": {
@@ -8996,7 +9172,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 150006,
       "name": "Progressi (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662"
@@ -9352,7 +9528,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 149201,
       "name": "Rame",
       "url": "https://open.spotify.com/track/1BVOgvigFRjWvmo1MIYEDa"
@@ -9934,6 +10110,24 @@
       "duration_ms": 197333,
       "name": "Scappa da me",
       "url": "https://open.spotify.com/track/7sMe3toUFxmHvDpwmuVQJH"
+    },
+    {
+      "album": {
+        "name": "SCEICCO",
+        "url": "https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154948,
+      "name": "SCEICCO",
+      "url": "https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln"
     },
     {
       "album": {
@@ -10670,7 +10864,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 131830,
       "name": "STEPPIN' ON BITCHES",
       "url": "https://open.spotify.com/track/5LAb5zRgvQ26sc6wO0SCJu"
@@ -10907,6 +11101,28 @@
     },
     {
       "album": {
+        "name": "DRILLSTAR",
+        "url": "https://open.spotify.com/album/0hYqjJdQO5twl5Mh8Hc2q5"
+      },
+      "artists": [
+        {
+          "name": "Astro Centauri",
+          "url": "https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E"
+        },
+        {
+          "name": "Mothz",
+          "url": "https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128598,
+      "name": "SUV NERO",
+      "url": "https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H"
+    },
+    {
+      "album": {
         "name": "SWAG! (Drip Margiela)",
         "url": "https://open.spotify.com/album/0GFSvxiK8TUQCkiFHmHFo6"
       },
@@ -10926,6 +11142,28 @@
       "duration_ms": 157631,
       "name": "SWAG! (Drip Margiela)",
       "url": "https://open.spotify.com/track/4iaC4nwpOz6WXOKcuGzhWr"
+    },
+    {
+      "album": {
+        "name": "S\u00ec S\u00ec",
+        "url": "https://open.spotify.com/album/5aeBCUPq3T13jTwSTeQMSr"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        },
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "S\u00ec S\u00ec",
+      "url": "https://open.spotify.com/track/1T4VXH94y9aKcg8NzaUhQ1"
     },
     {
       "album": {
@@ -12318,7 +12556,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 140588,
       "name": "Z4 (don't play)",
       "url": "https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858"

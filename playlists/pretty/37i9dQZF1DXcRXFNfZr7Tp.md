@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Anne\-Marie & Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,795,771 likes - 102 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,795,936 likes - 102 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 101 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 102 | [With All My Heart](https://open.spotify.com/track/1ENQZlb9iVUnCoN2QtI77e) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [With All My Heart](https://open.spotify.com/album/7t2qYxQeNwbMVdc5wwaSNa) | 2:57 |
 
-Snapshot ID: `MCw1M2NkYTUwODI2OTg5OTA5NjBhMTE3ZDRhZjcyODMwYTVmM2ZkOGY1`
+Snapshot ID: `MCw0MDQ0ZTkwN2ExZDFjZDk3ZTZlZGM1YmU4MjNlZDljZGU4YmU1MjQx`

@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
-  "num_followers": 149315,
+  "num_followers": 149679,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWE4ZGJjZGNhZjJlNWE0ZWRiZDg3YmUxYjk1OTdhN2Y5NTgyZmM0",
+  "snapshot_id": "MCxlY2U4ZjM4YmE2MGNiNGFhZTBhZDFiZTcwMjZmMjYxYjU3NGFkMGJm",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Poverty",
-        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
-      },
-      "artists": [
-        {
-          "name": "Motorama",
-          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Heavy Wave",
-      "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 190525,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Poverty",
+        "url": "https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb"
+      },
+      "artists": [
+        {
+          "name": "Motorama",
+          "url": "https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Heavy Wave",
+      "url": "https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Remastered",
         "url": "https://open.spotify.com/album/5x2CauBdy2DH8NZ46nWvjV"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 233853,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u0433\u0440\u0443\u0441\u0442\u043d\u044b\u0439",
       "url": "https://open.spotify.com/track/3bUB37EbTWCFWkehLo52jB"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Allude",
+        "url": "https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+        }
+      ],
+      "duration_ms": 351878,
+      "name": "Allude",
+      "url": "https://open.spotify.com/track/39GNrhMrtompGnn05genwA"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "505",
         "url": "https://open.spotify.com/album/1Gd5xQXl0i7qN5Zt4u4bIz"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 218181,
       "name": "\u041c\u0451\u0440\u0442\u0432 \u0432\u043d\u0443\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Allude",
-        "url": "https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi"
-      },
-      "artists": [
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
-        }
-      ],
-      "duration_ms": 351878,
-      "name": "Allude",
-      "url": "https://open.spotify.com/track/39GNrhMrtompGnn05genwA"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Night Vision",
-        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Skryvaj",
         "url": "https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 176100,
       "name": "Biessenso\u016dnas\u0107",
       "url": "https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "B-Sides: Vol. 1",
         "url": "https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 286153,
       "name": "That House",
       "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Belirdi Gece",
-        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
-      },
-      "artists": [
-        {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
-        }
-      ],
-      "duration_ms": 296060,
-      "name": "Rituel",
-      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "66 MHz",
         "url": "https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 234066,
       "name": "66 MHz",
       "url": "https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Belirdi Gece",
+        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "duration_ms": 296060,
+      "name": "Rituel",
+      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9"
-      },
-      "artists": [
-        {
-          "name": "Jasper De Ceuster",
-          "url": "https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb"
-        }
-      ],
-      "duration_ms": 292312,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Audiotool Day 2016",
         "url": "https://open.spotify.com/album/5flSmZT9JHd4qQUmAnetPj"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 240000,
       "name": "Audiotool Day 2016",
       "url": "https://open.spotify.com/track/0j0BYhRSoVbYDvDlVoSP4a"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4w2s1OoJMVJ6Ute1V4sue9"
+      },
+      "artists": [
+        {
+          "name": "Jasper De Ceuster",
+          "url": "https://open.spotify.com/artist/4E653XDFNhfX7sIlJWCiwb"
+        }
+      ],
+      "duration_ms": 292312,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/38PAyLYynfJ8Mk4lEjSHSd"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw"
-      },
-      "artists": [
-        {
-          "name": "Flawless Issues",
-          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
-        }
-      ],
-      "duration_ms": 180793,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Redline",
         "url": "https://open.spotify.com/album/0A9H0uAwdTCWNofsksO2fX"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw"
       },
       "artists": [
         {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
+      "duration_ms": 180793,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 257341,
       "name": "Dust + Stars",
       "url": "https://open.spotify.com/track/3wtiqIopwLEsyE7i33ZhEg"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Tocsin",
+        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+      },
+      "artists": [
+        {
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Incubus Succubus II",
+      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
     },
     {
       "added_at": "2023-04-28 06:00:00",

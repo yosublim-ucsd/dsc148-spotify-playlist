@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDBkYjc5YTZjYTZlYWYyZWE2OGY2MDE0MTE1ZDJiNmNlMw==",
+  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDBhMGJlZDYyODVlNzZiM2JkNWQ2N2E0ZmVlNmY2YmUzZg==",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "See You in Hell",
-        "url": "https://open.spotify.com/album/1MLlHkKFeF8NBi7PXuCf3x"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 183521,
-      "name": "See You in Hell",
-      "url": "https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Live At The Piano",
         "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
       },
@@ -76,25 +60,9 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 398872,
-      "name": "Dreaming Of (Live At The Piano)",
-      "url": "https://open.spotify.com/track/0gAtSlwCrh4RZJQDG2S7V0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Snooze",
-        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 219860,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
+      "duration_ms": 426325,
+      "name": "Switch (Live At The Piano)",
+      "url": "https://open.spotify.com/track/0JqtB65gmHKE8MjI7050ij"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -135,26 +103,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Philip Glass: Dodecagon",
-        "url": "https://open.spotify.com/album/4V6gHUYVTb3SNfGeLKlcYK"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Arturo Stalteri",
-          "url": "https://open.spotify.com/artist/3tvkOjUFHZ1zCRzGi1XVkJ"
-        }
-      ],
-      "duration_ms": 474837,
-      "name": "Metamorphosis Two",
-      "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Bad Mama Jama",
         "url": "https://open.spotify.com/album/2vpoyaacngWLJMLcJx1oTf"
       },
@@ -187,6 +135,42 @@
       "duration_ms": 179085,
       "name": "TOUT SE TRANSFORME. - Bande originale du film \u00ab Transformers : Rise of the Beasts \u00bb",
       "url": "https://open.spotify.com/track/1gK32g6j6pjlGT6DLtsod4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Philip Glass: Dodecagon",
+        "url": "https://open.spotify.com/album/4V6gHUYVTb3SNfGeLKlcYK"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Arturo Stalteri",
+          "url": "https://open.spotify.com/artist/3tvkOjUFHZ1zCRzGi1XVkJ"
+        }
+      ],
+      "duration_ms": 474837,
+      "name": "Metamorphosis Two",
+      "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 219860,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -231,6 +215,22 @@
       "duration_ms": 293960,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "See You in Hell",
+        "url": "https://open.spotify.com/album/1MLlHkKFeF8NBi7PXuCf3x"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 183521,
+      "name": "See You in Hell",
+      "url": "https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
         }
       ],
-      "duration_ms": 220706,
-      "name": "Kill You",
-      "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
+      "duration_ms": 257226,
+      "name": "Hatredy",
+      "url": "https://open.spotify.com/track/6oIrwYOF2QFXIQRgRPhXbo"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Relax (Metal Version)",
-        "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 203872,
-      "name": "Relax (Metal Version)",
-      "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Amanipilade",
         "url": "https://open.spotify.com/album/3m1TH3S38uq4Fevp948NiH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 175655,
       "name": "Amanipilade",
       "url": "https://open.spotify.com/track/1pWFvaCra0SryxJbM2NyZ5"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Relax (Metal Version)",
+        "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "Relax (Metal Version)",
+      "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -495,26 +495,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "MOTHERLESS",
-        "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 213927,
-      "name": "MOTHERLESS - Single Version",
-      "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Lipstick Lover",
         "url": "https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T"
       },
@@ -527,26 +507,6 @@
       "duration_ms": 169386,
       "name": "Lipstick Lover",
       "url": "https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "We Love Spicemas Riddim",
-        "url": "https://open.spotify.com/album/15FVMNiIyHhYP8elS9nL7G"
-      },
-      "artists": [
-        {
-          "name": "Terrific",
-          "url": "https://open.spotify.com/artist/2yw9DAK8ozjGNPs4sFtb3q"
-        },
-        {
-          "name": "Nana g",
-          "url": "https://open.spotify.com/artist/12kMeY89gNurupAkWHoRWd"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Touch me",
-      "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -571,24 +531,28 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Purple Tiger",
-        "url": "https://open.spotify.com/album/7wI4txswFFMkA94AH9Ft1w"
+        "name": "We Love Spicemas Riddim",
+        "url": "https://open.spotify.com/album/15FVMNiIyHhYP8elS9nL7G"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Terrific",
+          "url": "https://open.spotify.com/artist/2yw9DAK8ozjGNPs4sFtb3q"
+        },
+        {
+          "name": "Saggaboy",
+          "url": "https://open.spotify.com/artist/4BxhrOg7JHw6f5Wv5fckGq"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Purple Tiger",
-      "url": "https://open.spotify.com/track/75bItf96J41yL66knK2N5L"
+      "duration_ms": 156000,
+      "name": "Soca Music",
+      "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+        "url": "https://open.spotify.com/album/6QDwI3PVyKahJbYF6fZekd"
       },
       "artists": [
         {
@@ -602,7 +566,39 @@
       ],
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+      "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
+        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Ytse Jam - Instrumental Demo",
+      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "hotline (edit)",
+        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 60719,
+      "name": "hotline (edit)",
+      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -627,50 +623,38 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "hotline (edit)",
-        "url": "https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP"
+        "name": "MOTHERLESS",
+        "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 60719,
-      "name": "hotline (edit)",
-      "url": "https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H"
+      "duration_ms": 213927,
+      "name": "MOTHERLESS - Single Version",
+      "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
     },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
-        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
+        "name": "Purple Tiger",
+        "url": "https://open.spotify.com/album/7wI4txswFFMkA94AH9Ft1w"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 354240,
-      "name": "Ytse Jam - Instrumental Demo",
-      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "A Small Light: Episodes 1 & 2 (Songs from the Limited Series)",
-        "url": "https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 323106,
-      "name": "Cheryl - From \"A Small Light: Episode 2\"",
-      "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
+      "duration_ms": 163626,
+      "name": "Purple Tiger",
+      "url": "https://open.spotify.com/track/75bItf96J41yL66knK2N5L"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 206792,
       "name": "I'm Not Sure",
       "url": "https://open.spotify.com/track/59lQeQ9psRs8sSGg9x9GjK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "A Small Light: Episodes 1 & 2 (Songs from the Limited Series)",
+        "url": "https://open.spotify.com/album/4eyOODroEAOa4fzO8oQ8Ha"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 323106,
+      "name": "Cheryl - From \"A Small Light: Episode 2\"",
+      "url": "https://open.spotify.com/track/07XRSCOruiB0cV7Byi9Ktk"
     },
     {
       "added_at": "2023-05-26 04:00:00",

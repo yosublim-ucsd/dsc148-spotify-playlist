@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Laufey
 
-1,268 songs - 2 day 19 hr 48 min
+1,269 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [goodluck](https://open.spotify.com/track/21yJyPtVRgZSRsfMdypfFV) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me \(deluxe\)](https://open.spotify.com/album/2l7cVRzbe6YJ76WQcF9gsw) | 3:26 | 2020-08-07 | 2020-09-04 |
 | [Green Book](https://open.spotify.com/track/2NcKWbWXShSy60ruFNqu3K) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Green Book](https://open.spotify.com/album/0mQrvULsNc3shwhYuv2Uej) | 3:03 | 2022-01-07 | 2022-02-05 |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2020-04-26\* | 2020-07-31 |
-| [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 | 2022-05-20 |  |
+| [Grow as We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 | 2022-05-20 |  |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-14 | 2023-02-18 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-26 | 2023-02-18 |
 | [Hailey](https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:13 | 2021-10-09 | 2022-01-08 |
@@ -475,7 +475,8 @@
 | [Here for You](https://open.spotify.com/track/3DmK9CjTb6DMgnveSK5Sr5) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Here for You](https://open.spotify.com/album/1YTiPHTwIJ3I2TdJ0S9Bcs) | 2:47 | 2020-09-18 | 2021-01-15 |
 | [Here Now](https://open.spotify.com/track/4DNJQD26B6pzHPFEssGiom) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD) | [Whatever You Want](https://open.spotify.com/album/5zzVQgRaQKhp2nmIbM5sc9) | 3:14 | 2020-10-16 | 2020-10-30 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-05 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-05 | 2023-06-02 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-05-15 | 2021-08-07 |
 | [Herringbone](https://open.spotify.com/track/3H8LDeOmHo0Z1CCRy56zm8) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Herringbone](https://open.spotify.com/album/7gEom42NatFoQyC4wMu3TW) | 3:36 | 2023-03-17 |  |
 | [Hesitate](https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [side by side we lie awake](https://open.spotify.com/album/6h5zcRHaGnOWGH35d47Ep4) | 2:40 | 2022-03-25 | 2022-04-02 |

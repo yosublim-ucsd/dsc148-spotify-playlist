@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,218 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,307 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
 | 70 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 
-Snapshot ID: `MCw1ZDYxMzE3NTMwNzQzNzU1MjJjM2YzYjQ5NTkxNDUzNDJhNTFlZTM1`
+Snapshot ID: `MCxjYTI4MjRjMTE1OWRhNDMwZjAwN2M2Y2NjMTNmYWJlZWYxNDhkZGZm`

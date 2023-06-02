@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Los Caligaris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,759 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,857 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 33 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 | 34 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
 | 35 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
-| 36 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
-| 37 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
+| 36 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
+| 37 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 38 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 39 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 40 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 64 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
 | 65 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
 | 66 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
-| 67 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 68 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
+| 67 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
+| 68 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
 | 69 | [Qué Vas a Hacer Conmigo](https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Supersonico](https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz) | 3:26 |
-| 70 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
-| 71 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
+| 70 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
+| 71 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 | 72 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 |
 | 73 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
 | 74 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 100 | [Pánico](https://open.spotify.com/track/7Kc2F4G4fuYUdDFqrKPqqj) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Kung Fu Monkeys](https://open.spotify.com/artist/15Yhd7Hu91iZ1pfb9gegDf) | [A2í 5uena!, Vol 1](https://open.spotify.com/album/32IXwoxYqeTDQSZd2H9PIS) | 4:05 |
 
-Snapshot ID: `MCw3YmI2N2MyNmQ3YzJmZTgyOTFkOTdlMzQ3MzlkM2U2MWRhMThjMGFl`
+Snapshot ID: `MCw2MDgxNTRhYmY3OTI5Y2MzYWNkYjczNjM4Y2FjYzVmZjFhNWEwMWVh`

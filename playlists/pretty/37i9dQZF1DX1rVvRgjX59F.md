@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 
 > These songs rocked the 90s\. Cover: Nirvana
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,200,917 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,201,309 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 | 99 | [High](https://open.spotify.com/track/136biHnnfSnXsp9Bi2hZ4f) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Polythene](https://open.spotify.com/album/44Ey0omZSf2M9pVyrfaw1p) | 4:33 |
 | 100 | [Nowhere](https://open.spotify.com/track/368RLF0YBCX8FyB4RGkaVq) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Troublegum](https://open.spotify.com/album/6ub0GyzfrkFZahy42i7pfR) | 2:26 |
 
-Snapshot ID: `MCxmYjkwZTQyYTRkZjU2ZjJhNzUxOTRiOWE2Y2EzZTljZTk5NWI2MGU5`
+Snapshot ID: `MCwxNzM3YTg4ZWUyZDRmMDVkNDAxMDNhMjg4MDljMjI1MjUzY2ZjOWQz`

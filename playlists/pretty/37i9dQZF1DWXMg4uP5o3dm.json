@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: NOISY",
-  "num_followers": 448618,
+  "num_followers": 448687,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTcwZTRhZmY3MjRkNGU3NWUzY2Y0NjU4MjQ5M2E0YjZiYTBlZTkw",
+  "snapshot_id": "MCxmM2MwODBlZjYwMWQxNTMyOGNlZDVhZGU5MDJmMDNhN2M1YzVhNWVh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "GAY 4 ME (feat. Lauren Sanderson)",
         "url": "https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 174739,
       "name": "GAY 4 ME (feat. Lauren Sanderson)",
       "url": "https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "WICKED",
-        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll to~love to~hate to~learn Too~plot to~play to~be to~feel to~breed to~sweat to~dream to~hide to~live to~die to~GO TO",
         "url": "https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 313344,
       "name": "\u00bf (feat. Halsey)",
       "url": "https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "WICKED",
+        "url": "https://open.spotify.com/album/3F6tIMetVWEymoC9GskqmA"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Death Of A Fantasy",
-        "url": "https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic"
-      },
-      "artists": [
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "THERAPY!",
-      "url": "https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Failed at Math(s)",
         "url": "https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/6PypMXsV8zmifuFPMnWE4W"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "NAILS (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "NAILS (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
         "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 171587,
       "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
       "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "NAILS (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/250tsczCTKdauTN2QJgak4"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "NAILS (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/318MngwqDyMYOzhDcZkUoq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
-      },
-      "artists": [
-        {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
-        }
-      ],
-      "duration_ms": 187059,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 203651,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     },
     {
       "added_at": "2023-04-28 04:00:00",

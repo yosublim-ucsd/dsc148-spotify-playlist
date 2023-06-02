@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "C'est si bon",
+        "url": "https://open.spotify.com/album/5ujMTwU4XSRV224f4OIaYW"
+      },
+      "artists": [
+        {
+          "name": "Chansons d\u00b4Accordeon",
+          "url": "https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/0iLzFD9kW3EDfLfBexDhov"
+    },
+    {
+      "album": {
         "name": "France And French Cafe Accordion Music",
         "url": "https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi"
       },

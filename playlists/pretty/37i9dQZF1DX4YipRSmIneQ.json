@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 56075,
+  "num_followers": 56200,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmI1YmIyMDEzMWQ1ZTdhZTMzZjIxMTc3ZTQ3MzFjMzFkNjg2ZDAz",
+  "snapshot_id": "MCxhMzU1N2E5ZWFjZjRkZmYwNGY3NzA2ODBlYzg5NzllZWRmMjdlOThh",
   "tracks": [
     {
       "added_at": "2023-04-04 13:57:02",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "The Pom-Poms",
+        "url": "https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj"
+      },
+      "artists": [
+        {
+          "name": "The Pom-Poms",
+          "url": "https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC"
+        }
+      ],
+      "duration_ms": 176181,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Hott Boyz",
         "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 190476,
       "name": "Guud Gurls",
       "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "The Pom-Poms",
-        "url": "https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj"
-      },
-      "artists": [
-        {
-          "name": "The Pom-Poms",
-          "url": "https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC"
-        }
-      ],
-      "duration_ms": 176181,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
+    },
+    {
+      "added_at": "2023-04-04 13:57:02",
+      "album": {
         "name": "Let It All Out EP",
         "url": "https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 143833,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ"
-    },
-    {
-      "added_at": "2023-04-04 13:57:02",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
     },
     {
       "added_at": "2023-04-04 13:57:02",
@@ -915,22 +915,26 @@
     {
       "added_at": "2023-04-04 13:57:02",
       "album": {
-        "name": "High Tide (Doss Remix)",
-        "url": "https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4"
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
       },
       "artists": [
         {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
         },
         {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 223384,
-      "name": "High Tide - Doss Remix",
-      "url": "https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa"
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     }
   ],
   "unique_name": "Sweat.",

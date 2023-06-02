@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,325 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,344 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 13 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
 | 14 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 |
 | 15 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
-| 16 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
-| 17 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
+| 16 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
+| 17 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
 | 18 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
 | 19 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
 | 20 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 40 | [Change](https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG) | [Adzmilli](https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk) | [Change](https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL) | 3:18 |
 | 41 | [Stuck In My Ways](https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl) | 1:51 |
 | 42 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
-| 43 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
-| 44 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
+| 43 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
+| 44 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
 | 45 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 |
 | 46 | [18+](https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb) | 2:08 |
 | 47 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 77 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 78 | [High On Love](https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:01 |
 | 79 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
-| 80 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
-| 81 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 80 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
+| 81 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 82 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 83 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
 | 84 | [Losing Interest](https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp) | [Kstan](https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i), [WiTTZ SG](https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx) | [Losing Interest](https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq) | 2:39 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 88 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 89 | [One Mic](https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [One Mic](https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw) | 2:01 |
 | 90 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
-| 91 | [Too Much](https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8) | [KS](https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU) | [Better Than Me](https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp) | 2:26 |
-| 92 | [Ether](https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Ether](https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9) | 3:05 |
+| 91 | [Take The Risk](https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Take The Risk](https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x) | 3:20 |
+| 92 | [Too Much](https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8) | [KS](https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU) | [Better Than Me](https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp) | 2:26 |
 | 93 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
-| 94 | [Take The Risk](https://open.spotify.com/track/1MMXEAS4szGoA0LrgockiE) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Take The Risk](https://open.spotify.com/album/32QhYt2qBS1LT52KdIbF7x) | 3:20 |
+| 94 | [Ether](https://open.spotify.com/track/5IMCBMwxhxXN5EGZJV4G0R) | [xcst](https://open.spotify.com/artist/1Q4exmTa4FfDry6ZQMO5oo) | [Ether](https://open.spotify.com/album/6d5fIJS9Bpx8Y8VCA2j2y9) | 3:05 |
 | 95 | [Drowning](https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/5geYrrlo5OEZ4ImHAgcHd5) | 2:13 |
 | 96 | [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 |
 | 97 | [Married To Music](https://open.spotify.com/track/4gvrwEE8pDAlgb9rjnvcEA) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Married To Music](https://open.spotify.com/album/03qB1vrxjtdKWIMstmF6MK) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCw1ZGZlZTBmMzdjY2JiN2VkNGNkMjllMTA1MGMxNGVlNjA3MDExZjcy`
+Snapshot ID: `MCwxMWIxNTBhNmJjYzQ4NzYxOTZkZTE4YWZjMmNmMzc4ZjM4M2E2NDQ4`

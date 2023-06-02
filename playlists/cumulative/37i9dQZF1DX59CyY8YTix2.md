@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Chilli Beans.
 
-940 songs - 2 day 11 hr 25 min
+942 songs - 2 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [ひらいて](https://open.spotify.com/track/61OVJeMtYlJ6rbdN2hzlWt) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [ひらいて](https://open.spotify.com/album/5S7hAsUSF61UTreK80j5Ze) | 5:03 | 2022-07-07 | 2022-07-10 |
 | [ひらりとパーキー](https://open.spotify.com/track/5qz2T8QVgHyYOAyWnTfSJb) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [かけがえなくなりたい](https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd) | 4:03 | 2022-06-14 | 2022-07-18 |
 | [ぴょ](https://open.spotify.com/track/07n9Gl4XQ6OweHu0VCdwZL) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ぴょ](https://open.spotify.com/album/2QJZYDqbKcBW9yg7xWpleZ) | 3:35 | 2022-06-30 | 2022-07-18 |
+| [ふたりのうた](https://open.spotify.com/track/36uzSw2FQAG1OIUVVVPXaC) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [ふたりのうた](https://open.spotify.com/album/3DOebI5yNbIdfUGREOUtEL) | 4:29 | 2023-06-01 |  |
 | [ふたりの傷跡](https://open.spotify.com/track/1hu5dJ6w20i7N8z4o6himl) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ふたりの傷跡](https://open.spotify.com/album/2Op0O3DZ1OAyjenq6eNF3M) | 5:04 | 2022-12-20 | 2023-01-25 |
 | [ふたり基地](https://open.spotify.com/track/6Imamh1pz1S2yoZ0ChzO0w) | [ハク。](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふたり基地](https://open.spotify.com/album/2lvDW3J1FIpBf0fpPxi8oK) | 4:19 | 2022-05-31 | 2022-06-23 |
 | [ふつうの暮らし](https://open.spotify.com/track/5hiYas9Nouj4MeHyglZC7O) | [竹上久美子](https://open.spotify.com/artist/3LlXafpRjWvlXdllY1ySJ5) | [ふつうの暮らし](https://open.spotify.com/album/2F0GqRqkM7Pjy3aL1TXKP7) | 3:29 | 2023-05-09 | 2023-05-24 |
@@ -609,7 +610,7 @@
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
 | [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 | 2023-03-08 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
-| [ナイター](https://open.spotify.com/track/1FgOb6Qz6AbI43y7AGEh7M) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [ナイター](https://open.spotify.com/album/4xs45xcNyDl8Vnhwh6sBcF) | 3:44 | 2023-04-11 |  |
+| [ナイター](https://open.spotify.com/track/1FgOb6Qz6AbI43y7AGEh7M) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [ナイター](https://open.spotify.com/album/4xs45xcNyDl8Vnhwh6sBcF) | 3:44 | 2023-04-11 | 2023-06-02 |
 | [ナリ](https://open.spotify.com/track/2iYVaNmdk2ILYqQMhFG6VH) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [ナリ](https://open.spotify.com/album/3Hz8WKenuIV2aXz1AFCaES) | 3:57 | 2022-11-24 | 2022-12-02 |
 | [ニャロメ!](https://open.spotify.com/track/2BcDomfKRKB7ykMMLTiSlw) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [ニャロメ!](https://open.spotify.com/album/05WpStScuVguyaSn4AGHhn) | 5:08 | 2022-06-16 | 2022-07-21 |
 | [ニンゲンムシ \- \~One Night STAND Live\~](https://open.spotify.com/track/3zrnGTSfg1li3vRKHJP6Ku) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/album/60fCG4LsMmddJlnc5lUxWw) | 4:16 | 2022-05-31 | 2022-06-01 |
@@ -631,7 +632,7 @@
 | [ハルノイデア](https://open.spotify.com/track/5taXM8Qw7JsuRGEHrYqadB) | [the blue hour](https://open.spotify.com/artist/7n1YSR5QaTKJ1kOQZuWCpP) | [annulus](https://open.spotify.com/album/1MGtkzzZQy6RDyjJkjAYAS) | 4:07 | 2022-06-07 | 2022-06-13 |
 | [ハートにティーン](https://open.spotify.com/track/06pArvncZpFTtja75xD8pG) | [Lady Flash](https://open.spotify.com/artist/0qCQsJMletua7H8PGqrZbR) | [どこにもいけないドア](https://open.spotify.com/album/7zzjaKRuiTXhlLKS1miIz9) | 3:06 | 2023-01-10 | 2023-01-25 |
 | [ハートのSEASON](https://open.spotify.com/track/4ECsu2hg43OGpgafFRuIhe) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [Voice of Angel](https://open.spotify.com/album/4bxxHa7fJ7HWKbNFcUPgZK) | 3:34 | 2022-06-16 | 2022-06-24 |
-| [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-04-20 |  |
+| [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-04-20 | 2023-06-02 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-06-07 | 2022-06-15 |
 | [バニラスカイ](https://open.spotify.com/track/0G9WOJLLelRF0LKCCSlhNl) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [バニラスカイ](https://open.spotify.com/album/7p6la6qa9NvYoMSw0AMTy9) | 3:47 | 2022-07-05 | 2022-07-07 |
 | [バニラビーンズ](https://open.spotify.com/track/5EGp0BlpEHdbcbYjNRCDpG) | [紺野メイ](https://open.spotify.com/artist/2k2RWLOvlAhvXtakjRlIWt) | [バニラビーンズ](https://open.spotify.com/album/0QpijT4MHcD7x0vsR784pa) | 3:43 | 2022-06-21 | 2022-07-18 |
@@ -717,6 +718,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-02-01 |
 | [催眠療法](https://open.spotify.com/track/0qEiZAZaX9eHpgrXWeVSBz) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [三千世界](https://open.spotify.com/album/0W16rcuyNyyCvWbkGnplRL) | 3:24 | 2022-06-02 | 2022-07-05 |
 | [僕らじゃなきゃだめになって](https://open.spotify.com/track/6KIYsdABQFGyNOjYBLNvfJ) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃだめになって](https://open.spotify.com/album/2CGM51cwVTnhPPtbgkr97p) | 4:50 | 2023-05-30 |  |
+| [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-06-01 |  |
 | [光](https://open.spotify.com/track/5rniqV2tMcxsALCC1zjhm2) | [スケアクロウ](https://open.spotify.com/artist/1TK3Aemi6UBQdIqok1hZNo) | [光](https://open.spotify.com/album/2GfXOS4GmpO4Cnjt1i2y1d) | 5:53 | 2022-06-02 | 2022-06-04 |
 | [光るとき](https://open.spotify.com/track/1370nNwq6I8TxBIZcDId8w) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [OOPARTS](https://open.spotify.com/album/0JVNFe0D5yp5QP28yoCCxb) | 5:51 | 2022-05-26 | 2022-07-29 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-26 | 2022-07-27 |

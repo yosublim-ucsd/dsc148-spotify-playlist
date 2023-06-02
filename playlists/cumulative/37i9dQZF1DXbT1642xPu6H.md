@@ -4,7 +4,7 @@
 
 > 
 
-283 songs - 15 hr 3 min
+284 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-03-25 | 2022-04-19 |
 | [Guadalajara](https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Guadalajara](https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow) | 3:49 | 2022-08-19 | 2022-09-21 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-21 | 2023-04-12 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-23 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-03-23 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-23 | 2023-06-02 |
 | [Hipernova](https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Hipernova](https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR) | 3:28 | 2022-11-25 | 2022-12-30 |
 | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD) | 3:14 | 2022-01-14 | 2022-07-29 |
 | [Hurricanes](https://open.spotify.com/track/4XH87UjBYFtVYar8CNmoTJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:22 | 2022-10-04 | 2022-11-09 |

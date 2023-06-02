@@ -1,12 +1,12 @@
 {
   "description": "Game time.",
-  "num_followers": 67697,
+  "num_followers": 67969,
   "original_name": "Laced Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTlmYzRhYTQ2Njg1YzEzNDMxYzhjNDY1ZTY5OGE0NTQyNDc0Nzkw",
+  "snapshot_id": "MCxmZDllYzAwMGE3MDcxMTE4NWZiMmI1OTE0Y2YxNWYyZmQzNGUyYjEy",
   "tracks": [
     {
       "added_at": "2023-03-21 17:44:49",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-03-21 17:44:49",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2023-03-21 17:44:49",
-      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "added_at": "2023-03-21 17:44:49",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2023-03-21 17:44:49",

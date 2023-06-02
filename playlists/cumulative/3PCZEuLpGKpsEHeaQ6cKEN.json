@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Adeya",
+        "url": "https://open.spotify.com/album/4lMPUKhnqpTAWErS5sVVPm"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162621,
+      "name": "Adeya",
+      "url": "https://open.spotify.com/track/36fEaJH2IJYy6MkUSmjrJa"
+    },
+    {
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -552,10 +570,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 138013,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
+    },
+    {
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138013,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5sDJRYoOf7ltUg9WvUWKD6"
     },
     {
       "album": {
@@ -712,10 +748,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/5Eo4zzpYBQRFqXaVpl3GFV"
     },
     {
       "album": {
@@ -947,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1ARKDFr2A8DVybtHdqEZfa"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -962,7 +1042,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
@@ -1306,6 +1386,28 @@
       "duration_ms": 259933,
       "name": "Carry On - Adana Twins Remix",
       "url": "https://open.spotify.com/track/5XCDpDTrqxCcHOzSJ99Z2y"
+    },
+    {
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/4CChAwOQD9hlKkwV2pjvR1"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201016,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/080nzaT9PWCqMfFSpjRDHK"
     },
     {
       "album": {
@@ -3555,6 +3657,28 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/34kdxNspBMkr2iTkOttsNR"
+    },
+    {
+      "album": {
         "name": "Good Feeling (VIP Mix)",
         "url": "https://open.spotify.com/album/2b4oXCRRTy4wXNALmQdhSv"
       },
@@ -3570,7 +3694,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169440,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/66U7ONHIJtYcvctBuc6yCe"
@@ -3892,6 +4016,24 @@
       "duration_ms": 245879,
       "name": "Green Washer - Tony Romera Remix",
       "url": "https://open.spotify.com/track/5MqiekxmqgbBOCR68YRA4w"
+    },
+    {
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/3UZvDyYG5NyIVnKEgeb0SX"
+      },
+      "artists": [
+        {
+          "name": "Dense & Pika",
+          "url": "https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/09ZCjVxr4bWru9H6N13yzO"
     },
     {
       "album": {
@@ -5400,6 +5542,28 @@
       "duration_ms": 179017,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/2iVNnBKIRIvl7VtA5iAZhr"
+    },
+    {
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/1EZogjxmesbePlL8Ap6Rjc"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "LUISAH",
+          "url": "https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212306,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5W0DBnF4KbWbyrKiioUP41"
     },
     {
       "album": {
@@ -9797,6 +9961,36 @@
     },
     {
       "album": {
+        "name": "Armada Music - 20 Years",
+        "url": "https://open.spotify.com/album/7wdcl45O0fWwzdm3qM481m"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149487,
+      "name": "Summer Thing",
+      "url": "https://open.spotify.com/track/0zO0zvaek81waWdutlSbUm"
+    },
+    {
+      "album": {
         "name": "Summer Thing",
         "url": "https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j"
       },
@@ -9820,7 +10014,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 149487,
       "name": "Summer Thing",
       "url": "https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc"
@@ -11956,6 +12150,28 @@
       "duration_ms": 200200,
       "name": "When I'm Alone",
       "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
+    },
+    {
+      "album": {
+        "name": "When We Are Alone",
+        "url": "https://open.spotify.com/album/3wG9wTJdjChcGZ9JrjMBV2"
+      },
+      "artists": [
+        {
+          "name": "Leossa",
+          "url": "https://open.spotify.com/artist/1DxrLM2jS3lshF3s8BPHQs"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237680,
+      "name": "When We Are Alone",
+      "url": "https://open.spotify.com/track/6TVOP7ceJ1AewsLkmHESjR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall Robinson",
-  "num_followers": 1567,
+  "num_followers": 1576,
   "original_name": "Radar Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTE3MGJhMTAzZTEyZjc4ZGE0NDkyNDkwOGMzMjlkN2QwMzIzOWVm",
+  "snapshot_id": "MCxhZWQzNjE1NzI3M2E4ZTg4NTg3ZDc5NjA5ZjA2YTBkZmEzYjU4YjNm",
   "tracks": [
     {
       "added_at": "2023-04-14 07:22:27",
@@ -67,22 +67,6 @@
       "duration_ms": 253714,
       "name": "Office Anthem",
       "url": "https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL"
-    },
-    {
-      "added_at": "2023-03-21 11:18:48",
-      "album": {
-        "name": "Commercial Paatu",
-        "url": "https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt"
-      },
-      "artists": [
-        {
-          "name": "Urban Thozha",
-          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Commercial Paatu",
-      "url": "https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd"
     },
     {
       "added_at": "2023-03-21 11:18:48",
@@ -183,6 +167,26 @@
       "duration_ms": 231428,
       "name": "Jinukku Jikka",
       "url": "https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV"
+    },
+    {
+      "added_at": "2023-06-01 12:41:07",
+      "album": {
+        "name": "Aaliya",
+        "url": "https://open.spotify.com/album/2OhQ5NpYv7boswa6YAskaZ"
+      },
+      "artists": [
+        {
+          "name": "S.K.Balachandran",
+          "url": "https://open.spotify.com/artist/5Sg5NOQHE0eFSKxrVqIT4l"
+        },
+        {
+          "name": "Abid Anwar",
+          "url": "https://open.spotify.com/artist/4HGW8d0cAwj7Ouk3l6wpZI"
+        }
+      ],
+      "duration_ms": 248540,
+      "name": "Minnal Mugilosai",
+      "url": "https://open.spotify.com/track/5lIDmWduOGKEZZm3RpkjOx"
     },
     {
       "added_at": "2023-03-21 11:18:48",

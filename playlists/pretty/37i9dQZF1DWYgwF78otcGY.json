@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26063,
+  "num_followers": 26073,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFmNWZkNmNlZDIwNWNjNmFjYzJhZTMyOTdmM2NiNGQ5NjJhZTRl",
+  "snapshot_id": "MCxmNjFkNWZmZmRmYjRlODRmNzE2ODBiNjllY2RhNGIzZTNjMzA0ODJk",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 184319,
-      "name": "Jag ljuger s\u00e5 bra",
-      "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Blue Virgin Isles",
         "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 257586,
       "name": "Satellit",
       "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 184319,
+      "name": "Jag ljuger s\u00e5 bra",
+      "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Diggiloo Diggiley",
-        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
-      },
-      "artists": [
-        {
-          "name": "Herreys",
-          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Diggiloo Diggiley",
-      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Diggiloo Diggiley",
+        "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
+      },
+      "artists": [
+        {
+          "name": "Herreys",
+          "url": "https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Diggiloo Diggiley",
+      "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Greatest of the Best",
         "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175453,
       "name": "Hon Kommer Med Solsken",
       "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "La voix du nord",
-        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
       },
       "artists": [
         {
-          "name": "Malena Ernman",
-          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
-        },
-        {
-          "name": "Fredrik Kempe",
-          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
+          "name": "After Dark",
+          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
         }
       ],
-      "duration_ms": 177013,
-      "name": "La Voix",
-      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
+      "duration_ms": 180800,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/7rELI4gV9vdWKbSDF7Jsmi"
+        "name": "La voix du nord",
+        "url": "https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml"
       },
       "artists": [
         {
-          "name": "After Dark",
-          "url": "https://open.spotify.com/artist/6IsSP3qzKVJziwtHkmKuRl"
+          "name": "Malena Ernman",
+          "url": "https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo"
+        },
+        {
+          "name": "Fredrik Kempe",
+          "url": "https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7"
         }
       ],
-      "duration_ms": 180800,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/1b5yFVBwIbjKI2TULxtDoC"
+      "duration_ms": 177013,
+      "name": "La Voix",
+      "url": "https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV"
     }
   ],
   "unique_name": "Schlagerfest",

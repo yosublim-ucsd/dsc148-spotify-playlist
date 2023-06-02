@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,573 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,576 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 23 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 |
 | 24 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 |
 | 25 | [When We Disco \(Duet with SUNMI\)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 |
-| 26 | [Morning \- Remastered](https://open.spotify.com/track/5aVVQgZ3Xf0uMVj4uqx6p8) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:25 |
+| 26 | [Morning \- 2021 remastered](https://open.spotify.com/track/69PfI6lOYHk5rq3QKdrmW0) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/2FxCjnASIOcL0mtBCpIFSF) | 4:25 |
 | 27 | [Summer by myself](https://open.spotify.com/track/2fHfVTa76vV6DDy20M082T) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 2:54 |
 | 28 | [Thank U Soooo Much](https://open.spotify.com/track/6wVwEeHvV4B1V7UE5sByva) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:44 |
 | 29 | [Oldschool Love \(feat\. Boi B of Rhythme Power\)](https://open.spotify.com/track/4hGTtaIIk7op5eH4I3hlcP) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [그대여 이제 With Me](https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3) | 4:40 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCw1ODkzMzljYTgzOTk0MzAxNjlhNDdmYzVmZTgyMDdkYjBkOGExMjg4`
+Snapshot ID: `MCw0ODZhZmZhN2E0N2FlNGFjNDJlYTQyMWVkNWVlNzE2ZTIxNzRhN2Rh`

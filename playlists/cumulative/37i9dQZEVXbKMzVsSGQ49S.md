@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,330 songs - 3 day 0 hr 56 min
+1,331 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Að morgni til](https://open.spotify.com/track/5DW3I3yjh2v8CXWCAz357s) | [Auður](https://open.spotify.com/artist/21SqAOtuXFpwygK1GNxjTm) | [Venus](https://open.spotify.com/album/5Q0aWHu3M6alND61tb9N7i) | 4:29 | 2021-04-04 | 2021-05-16 |
 | [Aðeins nær](https://open.spotify.com/track/5h23vDKwQdcIT1zTDk42Nm) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t) | [Dætur](https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o) | 2:50 | 2022-01-29 | 2022-02-11 |
 | [Aðfangadagskvöld](https://open.spotify.com/track/1RRNaQPmkG6QWramSWxCl9) | [Þú og ég](https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5), [Ég](https://open.spotify.com/artist/7K2jFqHFUKjYTH8rKyZK8s) | [100 íslensk jólalög](https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y) | 3:41 | 2021-11-30 | 2022-12-14 |
+| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-06-01 |  |
 | [Back Door \(feat\. Quavo & Kodak Black\)](https://open.spotify.com/track/6f84PrgxSWSv4EBRweHXZJ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 4:03 | 2021-07-18 | 2021-07-19 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-18 |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-17 | 2022-11-24 |
@@ -1256,7 +1257,7 @@
 | [WUSYANAME \(feat\. Youngboy Never Broke Again & Ty Dolla $ign\)](https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:01 | 2021-06-27 | 2021-07-04 |
 | [WÁ](https://open.spotify.com/track/2lW3cXCN4f9wm5jfQ9wWtH) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [ANDI, LÍF, HJARTA, SÁL](https://open.spotify.com/album/7z3kzUHg0g0UuSsjAvog0m) | 2:40 | 2021-06-27 | 2021-07-11 |
 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 | 2021-04-11 | 2021-04-16 |
-| [YEAAA](https://open.spotify.com/track/5mV2Xpbf812LHpSIvWWcds) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [600](https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d) | 2:00 | 2023-03-25 |  |
+| [YEAAA](https://open.spotify.com/track/5mV2Xpbf812LHpSIvWWcds) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [600](https://open.spotify.com/album/7a0DRJSPe93FoF4GkxrN8d) | 2:00 | 2023-03-25 | 2023-06-02 |
 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 | 2021-09-05 | 2021-09-06 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-25 | 2022-08-31 |
 | [Yfir fannhvíta jörð](https://open.spotify.com/track/0jse5Xyee8KhfsZYsib0WM) | [Pálmi Gunnarsson](https://open.spotify.com/artist/2tGETO39QXKpmeQMSzr5I6) | [100 íslensk jólalög](https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y) | 3:10 | 2021-11-28 | 2021-12-27 |

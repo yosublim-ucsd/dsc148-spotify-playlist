@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa Queens in their music bag",
+  "description": "",
   "name": "Malkia",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 205659,
       "name": "Boom Party",
       "url": "https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F"
+    },
+    {
+      "album": {
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
     },
     {
       "album": {
@@ -370,7 +388,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 239177,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/6d8TFhchDxGs6SppX2AXOo"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 115973,
       "name": "Love",
       "url": "https://open.spotify.com/track/2QW4o0BaprzMjgqO4xsTBX"
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Love Art Lust",
+        "url": "https://open.spotify.com/album/69sV0GeXbVxcEnEGewksb8"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Sina Bae",
+      "url": "https://open.spotify.com/track/6lW5Bt2zFGbCOovCXlC1ZI"
+    },
+    {
+      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/5YOqPJBwr15Z9RZOca5K1H"
       },
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 178793,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6PtSPngdTdpXCirFEyEGHG"

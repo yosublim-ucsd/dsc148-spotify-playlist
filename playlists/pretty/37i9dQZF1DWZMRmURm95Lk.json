@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca in cover.",
-  "num_followers": 32744,
+  "num_followers": 32770,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjA3NTdkYjBmMmI3YTk3ZGI0ZTIyODYwNWQ5MzJhOTNjOGM0OTEy",
+  "snapshot_id": "MCwzZmE1OTZiNmY0MjkwYmIxODBhOTRkZjU3YjgxOWJlMmNkM2YwMWY4",
   "tracks": [
     {
       "added_at": "2023-05-25 22:01:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -891,6 +891,30 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
+        }
+      ],
+      "duration_ms": 233786,
+      "name": "Bolo By Night",
+      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Mondo Marcio (2022 Remastered)",
         "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 168409,
       "name": "Africa Twin (feat. Don Joe)",
       "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night",
-      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "Blocknotes",
+        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
+      },
+      "artists": [
+        {
+          "name": "Stokka & Madbuddy",
+          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Quando un giorno tornerai",
+      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Signor prefetto",
         "url": "https://open.spotify.com/album/2AODYSqwEVR0mtHL9DazZc"
       },
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Blocknotes",
-        "url": "https://open.spotify.com/album/3F57zSmT6EyCVv3kWmqi4p"
-      },
-      "artists": [
-        {
-          "name": "Stokka & Madbuddy",
-          "url": "https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z"
-        }
-      ],
-      "duration_ms": 247600,
-      "name": "Quando un giorno tornerai",
-      "url": "https://open.spotify.com/track/2OwDaBDgiW6E6r1JguSbi9"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 163750,
       "name": "Narciso (feat. Murubutu)",
       "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Schiena Contro Schiena",
         "url": "https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff"
       },
@@ -1251,6 +1235,38 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "LACRIME DI COCCODRILLO :'=8)",
+        "url": "https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "LACRIME DI COCCODRILLO :'=8)",
+      "url": "https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1307,62 +1323,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "LACRIME DI COCCODRILLO :'=8)",
-        "url": "https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253913,
-      "name": "LACRIME DI COCCODRILLO :'=8)",
-      "url": "https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
-        "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
-      },
-      "artists": [
-        {
-          "name": "Lovegang126",
-          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        },
-        {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
-        },
-        {
-          "name": "Pretty Solero",
-          "url": "https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0"
-        },
-        {
-          "name": "Lil Kvneki",
-          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
-        },
-        {
-          "name": "Drone126",
-          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
-        },
-        {
-          "name": "Nino Brown",
-          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
-        }
-      ],
-      "duration_ms": 197227,
-      "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
-      "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1407,6 +1367,46 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
+        "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
+      },
+      "artists": [
+        {
+          "name": "Lovegang126",
+          "url": "https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+        },
+        {
+          "name": "Pretty Solero",
+          "url": "https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0"
+        },
+        {
+          "name": "Lil Kvneki",
+          "url": "https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn"
+        },
+        {
+          "name": "Drone126",
+          "url": "https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg"
+        },
+        {
+          "name": "Nino Brown",
+          "url": "https://open.spotify.com/artist/6Vhlft027tAZsPuFuXCLZo"
+        }
+      ],
+      "duration_ms": 197227,
+      "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
+      "url": "https://open.spotify.com/track/3knYKrDUrIv8F271A7cmEm"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 143892,
       "name": "Caramelle da uno sconosciuto",
       "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Palingenesi",
-        "url": "https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A"
-      },
-      "artists": [
-        {
-          "name": "Romanderground",
-          "url": "https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "La Forma Dell'Acqua",
-      "url": "https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1951,38 +1931,22 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+        "name": "Palingenesi",
+        "url": "https://open.spotify.com/album/3eBEUyfjSzdNBe15zfUC4A"
       },
       "artists": [
         {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2023-05-25 22:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+          "name": "Romanderground",
+          "url": "https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1"
         },
         {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
         }
       ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
+      "duration_ms": 280346,
+      "name": "La Forma Dell'Acqua",
+      "url": "https://open.spotify.com/track/6RgA5HE1zt1NUWXXMuF7Nn"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -2007,6 +1971,22 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
         "name": "Ad occhi chiusi",
         "url": "https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 225584,
       "name": "Ad occhi chiusi",
       "url": "https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH"
+    },
+    {
+      "added_at": "2023-05-25 22:01:00",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2023-05-25 22:01:00",
@@ -2071,22 +2071,26 @@
     {
       "added_at": "2023-05-25 22:01:00",
       "album": {
-        "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
-        "url": "https://open.spotify.com/album/6z1wbb6ssO42mq3Qy5OEwz"
+        "name": "Scacchiera surrealista",
+        "url": "https://open.spotify.com/album/2QPf5PSu1b03MWHMoyE25g"
       },
       "artists": [
         {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
         },
         {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Dj Kamo",
+          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
         }
       ],
-      "duration_ms": 207600,
-      "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
-      "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"
+      "duration_ms": 197142,
+      "name": "Scacchiera surrealista",
+      "url": "https://open.spotify.com/track/5c8wf4geF6QoWgiz5Uzkfj"
     }
   ],
   "unique_name": "Radici Hip-Hop",

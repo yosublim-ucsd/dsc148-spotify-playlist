@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 257186,
+  "num_followers": 257367,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTVkMWM1YmI4YmUyYmFkOGRlYjhmNDczMzdmMjEzNjFkYTNmMzEw",
+  "snapshot_id": "MCxlYjMxMjdkYmNiZWQyMmE4YjdiNGQ3Y2MwOTIyNmMxYjkwNjgzMTZl",
   "tracks": [
     {
       "added_at": "2023-05-12 19:27:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Tamiditine",
+      "url": "https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
         "name": "Natt",
         "url": "https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 266123,
       "name": "Arrabi al Arabe",
       "url": "https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Tamiditine",
-      "url": "https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+    },
+    {
+      "added_at": "2023-05-12 19:27:00",
+      "album": {
         "name": "Zerzura (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
       },
       "artists": [
         {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 298969,
-      "name": "Chismiten",
-      "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
       "artists": [
         {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -595,22 +611,6 @@
       "duration_ms": 202253,
       "name": "Haiyu",
       "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
-    },
-    {
-      "added_at": "2023-05-12 19:27:00",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Nour",
-        "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
       "artists": [
         {
-          "name": "Malouma",
-          "url": "https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5"
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
         }
       ],
-      "duration_ms": 305320,
-      "name": "Yarab",
-      "url": "https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX"
+      "duration_ms": 228933,
+      "name": "Imuhar",
+      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
     },
     {
       "added_at": "2023-05-12 19:27:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-05-12 19:27:00",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+        "name": "Nour",
+        "url": "https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3"
       },
       "artists": [
         {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+          "name": "Malouma",
+          "url": "https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5"
         }
       ],
-      "duration_ms": 228933,
-      "name": "Imuhar",
-      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
+      "duration_ms": 305320,
+      "name": "Yarab",
+      "url": "https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX"
     },
     {
       "added_at": "2023-05-12 19:27:00",

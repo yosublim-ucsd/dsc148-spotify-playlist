@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 773,
+  "num_followers": 781,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmIzMzcxZjU3M2ExNGJlMTQ3OGNiZDNjMmI2Zjg0Y2IwNGJmNjhk",
+  "snapshot_id": "MCxkMzI3MWYwYmI4ZWViZTg0ZDU1NzhjODkxMjYzNmZlNjFmODNlZTJh",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+        }
+      ],
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Kirathimo",
         "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 223160,
       "name": "Kirathimo",
       "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 291657,
-      "name": "Tasted Of Your Power",
-      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+      "duration_ms": 291657,
+      "name": "Tasted Of Your Power",
+      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Mfalme Wa Amani",
         "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 472477,
       "name": "Mfalme Wa Amani",
       "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Yahwe Uhimidiwe",
+        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Uliniumba Nikuabudu",
+      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
       "added_at": "2023-04-06 20:59:00",

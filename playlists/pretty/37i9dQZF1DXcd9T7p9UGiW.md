@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8?si=4UlzmnO8SV6ekf\-46yZQJQ"> Kouz1</a> and  <a href="https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Eql56LT9RqmI67MoyKXW2w"> L.A.X</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,098 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,215 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 14 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 |
 | 15 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 |
 | 16 | [Folelé](https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:48 |
-| 17 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Don Toliver, Rema, and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
+| 17 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 18 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 19 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 20 | [Konibaje \- Remix](https://open.spotify.com/track/51T3vyCmSNunHK8kf5uHFe) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Konibaje \(Remix\)](https://open.spotify.com/album/0CtAbID8kHqbVgUsGabffI) | 2:48 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 78 | [Not Worthy](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
 | 79 | [Ready](https://open.spotify.com/track/2K7OithioYbX8IGwwJHzF4) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz), [RJ The DJ](https://open.spotify.com/artist/1kqmfXPnR9e8mTtwDupLy3) | [The Homeland](https://open.spotify.com/album/1s9T9zrh2T1AV1fkxO7EZH) | 4:09 |
 
-Snapshot ID: `MCxlYWY1OWY2Y2UwNDFkYzg5YTVhZTY5ZTEwM2ZjNjVmNzYxYTRiNDNj`
+Snapshot ID: `MCw1MGI5ZDQxZjZiYzgyMzZlMzE2ZGU0NDEyZDNkOWNhNDQ5NGIwYTc2`

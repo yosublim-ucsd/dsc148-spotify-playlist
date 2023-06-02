@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 291962,
+  "num_followers": 292152,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjBhZjY2MmE1OWU3ODY5NTBlNGE4NjIwMmZiNTU1OTdhYzA0ZTli",
+  "snapshot_id": "MCxmYWY5ZGVmZjI4YWUzYTZlY2I3YWUzZTI5ZDdiMjk1OTE1YjQxMWVk",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
         }
       ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
+      "duration_ms": 208801,
+      "name": "Thank God For Sunday Morning",
+      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Running Home",
-        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
       },
       "artists": [
         {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 208801,
-      "name": "Thank God For Sunday Morning",
-      "url": "https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH"
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 168011,
+      "name": "PRAISES",
+      "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 168011,
-      "name": "PRAISES",
-      "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Love Of Jesus",
-        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "The Love Of Jesus",
-      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 166988,
       "name": "Things That I'm Afraid Of",
       "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "The Love Of Jesus",
+        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "The Love Of Jesus",
+      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Grace In The Wilderness",
         "url": "https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 166788,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "This I Know (Jesus Loves Me)",
         "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 176099,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Morning By Morning (I Will Trust)",
-        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 221084,
-      "name": "Morning By Morning (I Will Trust) - Radio Version",
-      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Phenomena (DA DA) [Remixes]",
         "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Morning By Morning (I Will Trust)",
+        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 221084,
+      "name": "Morning By Morning (I Will Trust) - Radio Version",
+      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Won't Let Me Go",
-        "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 215213,
-      "name": "Won't Let Me Go",
-      "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
+      "duration_ms": 177603,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/1z3P4RqfupgB2Pn4uPjzL4"
     }
   ],
   "unique_name": "Top Christian Contemporary",

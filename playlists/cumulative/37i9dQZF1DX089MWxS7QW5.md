@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Padi\)
 
-198 songs - 11 hr 17 min
+201 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 |  |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2023-01-21 |
+| [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 |  |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-05-28 | 2022-07-05 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-14 | 2022-10-05 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-13 |  |
@@ -143,6 +144,7 @@
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |
+| [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 |  |
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 | 2023-04-28 |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |
@@ -162,6 +164,7 @@
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 |  |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
+| [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 |  |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
 | [The One I Love](https://open.spotify.com/track/6C1e3Fl3BHzlRNZk6ubm6C) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU) | [The One I Love](https://open.spotify.com/album/7IWphRN26CJeRDB6BjnYBl) | 2:56 | 2022-08-18 | 2022-12-16 |
 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-07 | 2022-11-15 |

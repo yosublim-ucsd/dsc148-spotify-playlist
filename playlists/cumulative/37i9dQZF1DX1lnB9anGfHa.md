@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-191 songs - 12 hr 49 min
+193 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bites on My Neck](https://open.spotify.com/track/3c8QXE2NQBVrtMSTXAofor) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 4:48 | 2022-02-18 | 2022-11-04 |
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 |  |
 | [Blue Pale Darling](https://open.spotify.com/track/1bLdmy4TCk58RVJFTE6t59) | [Autumn Fruit](https://open.spotify.com/artist/6TvLaOyXRJy71sVpEdppX7) | [Blue Pale Darling](https://open.spotify.com/album/2eKlf2blGRGDcHhYTzeV9j) | 3:37 | 2021-09-24 | 2023-01-07 |
-| [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 | 2023-03-31 |  |
+| [Bu Izdırabın Panzehiri](https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:24 | 2023-03-31 | 2023-06-02 |
 | [Cabalga la bestia](https://open.spotify.com/track/4BmomxixYAtRPTTrnbFxed) | [CRUHDA](https://open.spotify.com/artist/6T1169XWol7CRqVS1cUjBe) | [Lux Ahena](https://open.spotify.com/album/5pUekWfj7hPbdz0yyaA2Vq) | 5:34 | 2022-09-27 | 2023-04-01 |
 | [Carme](https://open.spotify.com/track/7MHXBGx57HGguI8xcMzuB7) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 5:14 | 2023-04-15 |  |
 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 | 2020-10-20 |  |
@@ -96,6 +96,7 @@
 | [Leilani](https://open.spotify.com/track/5PMFcvLm1IA4lVAQW8FIXY) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Leilani](https://open.spotify.com/album/2YvWLUA9liTFn0a1Y4kGPg) | 2:17 | 2021-07-09 | 2022-11-26 |
 | [Loba](https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Loba](https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J) | 3:41 | 2022-11-03 |  |
 | [Los ojos](https://open.spotify.com/track/7myGZGiVdiN0LH5Oa0k3Bg) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Los ojos](https://open.spotify.com/album/2YwK74FkaMLpLA3Ql8cFkk) | 3:34 | 2023-03-03 | 2023-05-19 |
+| [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-02 |  |
 | [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 | 2023-01-14 |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 | 2023-04-01 |
 | [Mojik \(Your Waves\)](https://open.spotify.com/track/5NRrq5DuIlpnkei9mJw0P5) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/2ASUNe0PUFtSKPcIiz9BMv) | 3:13 | 2023-03-03 | 2023-04-01 |
@@ -136,7 +137,7 @@
 | [Roseate](https://open.spotify.com/track/0p3fIhPglJvPJrzUtTkW7k) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Last Boy Picked](https://open.spotify.com/album/2O1M61Nk4QpY2CMMq5JyLC) | 5:14 | 2022-02-18 | 2023-03-25 |
 | [Salt & Copper](https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd) | [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Salt & Copper](https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB) | 4:32 | 2022-09-27 | 2023-04-01 |
 | [Salv Goes To Hollywood](https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 3:02 | 2020-10-20 |  |
-| [Sangkakala](https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [Puxxximaxxx](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed) | 1:48 | 2020-10-20 |  |
+| [Sangkakala](https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n) | [Gabber Modus Operandi](https://open.spotify.com/artist/4z8y2MjTFwLa73dABYP1io) | [Puxxximaxxx](https://open.spotify.com/album/2culL9pTUbpoVNWDdS3Xed) | 1:48 | 2020-10-20 | 2023-06-02 |
 | [See Her](https://open.spotify.com/track/1VZyMJPlZ8dUvT8pzgjyXm) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [See Her](https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho) | 3:00 | 2022-08-31 | 2023-04-01 |
 | [Shake well before use](https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY) | [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj) | [Sway](https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN) | 5:40 | 2020-10-20 |  |
 | [Shivers](https://open.spotify.com/track/5ifWjwfK1QclwoqC8axwmQ) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [The Dog and the Future](https://open.spotify.com/album/1S5GLfv8Lmn4vmRMImheVu) | 6:18 | 2020-11-20 | 2023-03-04 |
@@ -149,6 +150,7 @@
 | [The Fall](https://open.spotify.com/track/47Zqh2WwmeDs9BK4FlK6tb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 2:18 | 2021-07-18 | 2023-03-03 |
 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 | 2021-01-22 | 2023-05-23 |
 | [The House That Agnes Built](https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 2:56 | 2023-03-03 | 2023-04-18 |
+| [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 | 2023-06-02 |  |
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 |  |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |

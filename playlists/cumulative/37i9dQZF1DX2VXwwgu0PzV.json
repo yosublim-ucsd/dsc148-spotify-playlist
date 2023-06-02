@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 216058,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02"
@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "Asiwaju",
+        "url": "https://open.spotify.com/album/4vkBSzI4bAEfU5wF3PA97B"
+      },
+      "artists": [
+        {
+          "name": "DJ D'mo",
+          "url": "https://open.spotify.com/artist/1vTeSzVCEXpzFQMj7R6npQ"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154514,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/1tbTHTUi3sXr39HQLDfuaR"
+    },
+    {
+      "album": {
         "name": "Beautified By Grace",
         "url": "https://open.spotify.com/album/3kaoKeOySP5NZCs73hqqt5"
       },
@@ -232,7 +254,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 260872,
       "name": "Awone",
       "url": "https://open.spotify.com/track/2k9uirP3C2iqhzmJqX194z"
@@ -302,6 +324,28 @@
       "duration_ms": 191213,
       "name": "Better",
       "url": "https://open.spotify.com/track/0MCYvRShR4Q2FGArAoqKf3"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1Dzyn3q1FPDHMafFv3Slq9"
+      },
+      "artists": [
+        {
+          "name": "Sammy Hart",
+          "url": "https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183868,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4sLFPCfuwUNk5sBpDCkfdo"
     },
     {
       "album": {
@@ -378,7 +422,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 190376,
       "name": "Breaking News (UFO)",
       "url": "https://open.spotify.com/track/3EGSXoXoeMjiTfKBbCKOxT"
@@ -562,7 +606,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169285,
       "name": "Dey Play",
       "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
@@ -900,7 +944,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 145771,
       "name": "Faraway",
       "url": "https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh"
@@ -999,6 +1043,28 @@
     },
     {
       "album": {
+        "name": "Follow (Remix)",
+        "url": "https://open.spotify.com/album/2czsZtZaUyPXnLTwCmW9Y3"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Follow - Remix",
+      "url": "https://open.spotify.com/track/3gSkKzZ7eCZn6xOjUBbGTx"
+    },
+    {
+      "album": {
         "name": "For Me",
         "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
       },
@@ -1062,7 +1128,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 153469,
       "name": "For my mind",
       "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
@@ -1154,6 +1220,28 @@
       "duration_ms": 131369,
       "name": "God Dey My Side",
       "url": "https://open.spotify.com/track/3hOSKIDn7IMHmZ6931TFxh"
+    },
+    {
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
+      },
+      "artists": [
+        {
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203189,
+      "name": "GOD NEVER FAILS",
+      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
     },
     {
       "album": {
@@ -1642,7 +1730,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 408894,
       "name": "I Na Eme",
       "url": "https://open.spotify.com/track/3Vrw4tCYlx7Gk5cdQ38shX"
@@ -2202,7 +2290,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 186827,
       "name": "Mercy - Spirit",
       "url": "https://open.spotify.com/track/4nMEKXVNJNOhj9ttQPiK3G"

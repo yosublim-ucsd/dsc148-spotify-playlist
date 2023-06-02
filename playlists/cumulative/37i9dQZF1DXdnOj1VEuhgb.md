@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Motive x Jefe x Uğur Öztürk
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Summer Cem x Geenaro & Ghana Beats x Ezhel
 
-126 songs - 5 hr 32 min
+128 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,12 +68,14 @@
 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 | 2023-01-10 |  |
 | [Kalite](https://open.spotify.com/track/6MHB3t0exyn1Ru5Xc3MSWJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/1fRw3jb22U6mI286bNCQ9X) | 2:08 | 2023-01-10 | 2023-01-27 |
 | [Kayıp Yıllarım](https://open.spotify.com/track/1Sfh7w7AYCUWw7Y3tET2MV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Kayıp Yıllarım](https://open.spotify.com/album/61l1uwaODkP7TMtMuD1x29) | 3:16 | 2023-01-12 | 2023-02-03 |
+| [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-06-01 |  |
 | [KONTROL](https://open.spotify.com/track/6aWMgtj4rlhKjMqxYzxexi) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [KONTROL](https://open.spotify.com/album/7j5qktQGYK2f6cAQNsqB7e) | 3:06 | 2023-01-10 | 2023-03-31 |
 | [Korkma](https://open.spotify.com/track/4PHNtKeSSLIaT2sl36pGfH) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kanguru & Korkma](https://open.spotify.com/album/4gE93TmnTMHh2dUqLdHnWC) | 3:02 | 2023-05-04 | 2023-05-26 |
 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 | 2023-04-09 |  |
 | [Kuğulu Park](https://open.spotify.com/track/4BeGu2WQNlpiREpmWGHD8U) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kuğulu Park](https://open.spotify.com/album/49AzrOfIeUI1fFQsqAiHPt) | 3:31 | 2023-01-26 | 2023-05-05 |
 | [KYOTO/GEISHA](https://open.spotify.com/track/3YbEPt5omnMtMvvfIWllPd) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8), [Emrah Turken](https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe) | [KYOTO/GEISHA](https://open.spotify.com/album/7xFfe4vRZ1xLcrRoTgit1W) | 3:10 | 2023-05-15 |  |
 | [Lvbel C5 x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/7sb0Cm7Rn6lp90N6PFVfLc) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Lvbel C5 x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/7l2fW5tJiQwQgTRUrmykT2) | 1:47 | 2023-05-25 |  |
+| [Maganda](https://open.spotify.com/track/3bAgUE5CHWkTwdQS9WuemI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Maganda](https://open.spotify.com/album/5wDBhrXiPniSnYFDU9kej3) | 1:38 | 2023-06-01 |  |
 | [MARS](https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [MARS](https://open.spotify.com/album/4zdB94jhyyJoaG1iyylZvq) | 2:12 | 2023-01-26 | 2023-02-24 |
 | [Mavi Chivas](https://open.spotify.com/track/4Q55vNJjN2mfmwFxhA6aPk) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Mavi Chivas](https://open.spotify.com/album/70Uk9tVc3UL8K9zOeizE8I) | 2:57 | 2023-04-20 |  |
 | [MERVE \- Masada Chivas](https://open.spotify.com/track/1QR6XjncDYLxeYCmxPb2Ab) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/6Q21JmmA4ohsWT4GcZfq2z) | 2:39 | 2023-03-13 | 2023-03-23 |
@@ -95,7 +97,7 @@
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-16 |  |
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
 | [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 | 2023-05-06 |
-| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 |  |
+| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 | 2023-06-02 |
 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 | 2023-03-10 |
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 |  |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 | 2023-04-28 |
@@ -127,7 +129,7 @@
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2023-01-10 |  |
 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-27 |  |
 | [yok muydu vaktin bana?](https://open.spotify.com/track/1noP6QHaeHTFZfLcEQAtqm) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [yok muydu vaktin bana?](https://open.spotify.com/album/5AVm3TD7AFqJLdtwAtgGgC) | 3:07 | 2023-02-02 | 2023-05-05 |
-| [Yolum Açık](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Yolum Açık](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-04-27 |  |
+| [Yolum Açık](https://open.spotify.com/track/5jsqqmZ8wyYQzAmaZRI4I6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Yolum Açık](https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu) | 2:41 | 2023-04-27 | 2023-06-02 |
 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 | 2023-05-04 |  |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 | 2023-03-03 |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2023-01-10 |  |

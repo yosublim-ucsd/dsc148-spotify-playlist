@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX"
+      },
+      "artists": [
+        {
+          "name": "Darksidevinyl",
+          "url": "https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0"
+        },
+        {
+          "name": "Ucha",
+          "url": "https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429279,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP"
+    },
+    {
+      "album": {
         "name": "Borealis",
         "url": "https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM"
       },
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169180,
       "name": "Dare Your Move",
       "url": "https://open.spotify.com/track/1rakaaEKMNAvqBjRJwRnx9"
@@ -4104,6 +4126,28 @@
       "duration_ms": 432692,
       "name": "Vazda",
       "url": "https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy"
+    },
+    {
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/0IGMuacSlufINDCHLNBNNa"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Philip Tabane",
+          "url": "https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164606,
+      "name": "Vha Vhenda (THEMBA's Herd Mix)",
+      "url": "https://open.spotify.com/track/23xHKVpe8QA9Nv0yoBQQ0P"
     },
     {
       "album": {

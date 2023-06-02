@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: number girl(\u30ca\u30f3\u30d0\u30fc\u30ac\u30fc\u30eb)",
-  "num_followers": 257954,
+  "num_followers": 258011,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTE3MzA0OTliYzVkY2MxZTQ4ZjdlMWJiZGNjNDRjM2RmN2I4NDUx",
+  "snapshot_id": "MCw2ZTc3NDNlYmIxY2IwYWJjZjcxYWM3ZWU2OWZmZDQ2YWE2MGI5OWUw",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -631,18 +631,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Baby's Alright",
-        "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
+        "name": "ANGRY ANGRY",
+        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
         }
       ],
-      "duration_ms": 163466,
-      "name": "Baby's Alright",
-      "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
+      "duration_ms": 136866,
+      "name": "ANGRY ANGRY",
+      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "ANGRY ANGRY",
-        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
+        "name": "Baby's Alright",
+        "url": "https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy"
       },
       "artists": [
         {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Jaguar Jonze",
-          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 136866,
-      "name": "ANGRY ANGRY",
-      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+      "duration_ms": 163466,
+      "name": "Baby's Alright",
+      "url": "https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO"
     },
     {
       "added_at": "2023-05-30 15:00:00",

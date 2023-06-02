@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,259 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,270 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 35 | [Into My Heart](https://open.spotify.com/track/4gSZJTRH0LVTiKxBhv5JzH) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Encounter \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EdqGtWrqmibmi7bjxbI0u) | 3:19 |
 | 36 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 37 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
-| 38 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
-| 39 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 38 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
+| 39 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
 | 40 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
 | 41 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 |
 | 42 | [The Hardest Part](https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [The Hardest Part](https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Close My Eyes](https://open.spotify.com/track/0uhRzFqvR7gR4WIAPf1CsC) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [Strangers Again, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/6N8MuFv8LwKBQ3dIDqqdoa) | 4:13 |
 | 50 | [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 |
 
-Snapshot ID: `MCxiMjc2ZjI3NDU5MWYwYjIzNmE5YTE4MDQ2NTQyMzQyM2MzZTE0OTk2`
+Snapshot ID: `MCw4MGQ2NmM0YWZlZGVhNjgwZDg4ODFlMmE4NDkzNzIxYjI2NjMxMTQ2`

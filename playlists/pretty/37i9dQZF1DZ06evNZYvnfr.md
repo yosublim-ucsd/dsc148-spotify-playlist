@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896 likes - 31 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 903 likes - 31 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 6 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
 | 7 | [AMEN](https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 2:55 |
 | 8 | [People Like Us](https://open.spotify.com/track/39pQLthr7p9e4CQsN5fP18) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/2ZNuPqF1V2zlqdM1qh7dyJ) | 3:45 |
-| 9 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 |
+| 9 | [What Mercy Did for Me \(feat\. Crystal Yates, Micah Tyler & Joshua Sherman\)](https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Crystal Yates](https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Joshua Sherman](https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR) | [The Emerging Sound, Vol\. 3](https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP) | 4:08 |
 | 10 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
 | 11 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 |
-| 12 | [What Mercy Did for Me \(feat\. Crystal Yates, Micah Tyler & Joshua Sherman\)](https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Crystal Yates](https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Joshua Sherman](https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR) | [The Emerging Sound, Vol\. 3](https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP) | 4:08 |
+| 12 | [In Case You Didn't Know](https://open.spotify.com/track/5DDUU71ftcKjUgfEeGPnxO) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:04 |
 | 13 | [Come Thou Fount](https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Bless the Broken Road](https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu) | 2:12 |
 | 14 | [Comeback Song](https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:05 |
 | 15 | [What Mercy Did For Me \(feat\. Maranda Curtis & Jason Crabb\)](https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:43 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 30 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
 | 31 | [It's Raining, It's Pouring](https://open.spotify.com/track/5xhWkwmAEnpucMLb6lULpR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 4:06 |
 
-Snapshot ID: `MjgwOTIyOTAsMDAwMDAwMDA0OThiNjIxMjgyMDNkMjJlMTBhODFjYWQyYjlhNDM2Ng==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDAyODI5YWU5NWE0OTJlYzQ3MjAyYTM3YWQwMGU0YTQ3ZA==`

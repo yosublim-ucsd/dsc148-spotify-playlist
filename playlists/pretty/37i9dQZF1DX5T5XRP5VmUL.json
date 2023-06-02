@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 134275,
+  "num_followers": 134266,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzlmZWRkMjk1YTVkYjU4ZGZhZjYxZTlkNDJiNzZmOTMwNDc0YThm",
+  "snapshot_id": "MCw0MDNmMDg2ODc1ZTAxMGEwNGQ2YWUzYzAwNmE4ZGFjYTg1NzVhMzA3",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Songs for Christmas",
-        "url": "https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 206509,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Driving Home for Christmas (feat. Corey Hart)",
         "url": "https://open.spotify.com/album/0uhfBwTtiMVQQh8kxNsdCl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 232166,
       "name": "Driving Home for Christmas (feat. Corey Hart)",
       "url": "https://open.spotify.com/track/5Xctmz7qfaICpNlaF78OjN"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Songs for Christmas",
+        "url": "https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 206509,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -931,22 +931,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas at Home",
-        "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
+        "name": "Dream You Home",
+        "url": "https://open.spotify.com/album/69E17KNMwKzhFSPRHKNHQU"
       },
       "artists": [
         {
-          "name": "Madison Olds",
-          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
-        },
-        {
-          "name": "Nearly York",
-          "url": "https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p"
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
         }
       ],
-      "duration_ms": 206421,
-      "name": "Christmas at Home",
-      "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
+      "duration_ms": 232973,
+      "name": "Dream You Home",
+      "url": "https://open.spotify.com/track/6eKruzLDxLMJ8h15JSPsGs"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -967,6 +963,26 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Christmas at Home",
+        "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
+      },
+      "artists": [
+        {
+          "name": "Madison Olds",
+          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+        },
+        {
+          "name": "Nearly York",
+          "url": "https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p"
+        }
+      ],
+      "duration_ms": 206421,
+      "name": "Christmas at Home",
+      "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 176788,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Dream You Home",
-        "url": "https://open.spotify.com/album/69E17KNMwKzhFSPRHKNHQU"
-      },
-      "artists": [
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Dream You Home",
-      "url": "https://open.spotify.com/track/6eKruzLDxLMJ8h15JSPsGs"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "O Little Town",
-        "url": "https://open.spotify.com/album/2THpJsaA0Zy9mfy99xVrTY"
-      },
-      "artists": [
-        {
-          "name": "Wild Strawberries",
-          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
-        }
-      ],
-      "duration_ms": 149873,
-      "name": "O Little Town",
-      "url": "https://open.spotify.com/track/4QXRhWSVeU3Vmwtj38Curv"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Spirit Of Christmas",
-        "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 134360,
-      "name": "Little Toy Trains",
-      "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "GIFT 2 U",
         "url": "https://open.spotify.com/album/3GnfAwrmllpK00Uxfd1SAE"
       },
@@ -1327,22 +1295,6 @@
       "duration_ms": 191030,
       "name": "GIFT 2 U",
       "url": "https://open.spotify.com/track/4c4KfwFafduTVOAJwkq5bw"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Bring Me Cheer",
-        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Bring Me Cheer",
-      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1363,18 +1315,50 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "They Don\u2019t Make Them Like That Anymore",
-        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
+        "name": "Bring Me Cheer",
+        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
       },
       "artists": [
         {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
         }
       ],
-      "duration_ms": 216320,
-      "name": "It Came Upon a Midnight Clear",
-      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
+      "duration_ms": 145973,
+      "name": "Bring Me Cheer",
+      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Spirit Of Christmas",
+        "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 134360,
+      "name": "Little Toy Trains",
+      "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "O Little Town",
+        "url": "https://open.spotify.com/album/2THpJsaA0Zy9mfy99xVrTY"
+      },
+      "artists": [
+        {
+          "name": "Wild Strawberries",
+          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+        }
+      ],
+      "duration_ms": 149873,
+      "name": "O Little Town",
+      "url": "https://open.spotify.com/track/4QXRhWSVeU3Vmwtj38Curv"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+        "name": "They Don\u2019t Make Them Like That Anymore",
+        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
       },
       "artists": [
         {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 162749,
-      "name": "One More Day of Christmas",
-      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
+      "duration_ms": 216320,
+      "name": "It Came Upon a Midnight Clear",
+      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1423,6 +1407,22 @@
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Don't Hang The Mistletoe",
-        "url": "https://open.spotify.com/album/6zV0d09NsO7mGzIQAfiG4l"
-      },
-      "artists": [
-        {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
-        }
-      ],
-      "duration_ms": 197167,
-      "name": "Don't Hang The Mistletoe",
-      "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Slide On Christmas",
         "url": "https://open.spotify.com/album/3A2ZgopwrWy9AKNKZcdkeZ"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Darling, It's Cold Out",
-        "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
+        "name": "Snow Place Like Home",
+        "url": "https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8"
       },
       "artists": [
         {
-          "name": "Cassi\u00f8peia",
-          "url": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S"
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
         }
       ],
-      "duration_ms": 180237,
-      "name": "Darling, It's Cold Out",
-      "url": "https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN"
+      "duration_ms": 200998,
+      "name": "Snow Place Like Home",
+      "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1595,6 +1579,22 @@
       "duration_ms": 232666,
       "name": "This is Christmas",
       "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Darling, It's Cold Out",
+        "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
+      },
+      "artists": [
+        {
+          "name": "Cassi\u00f8peia",
+          "url": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S"
+        }
+      ],
+      "duration_ms": 180237,
+      "name": "Darling, It's Cold Out",
+      "url": "https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Snow Place Like Home",
-        "url": "https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8"
+        "name": "Merry Christmas, Happy New Year",
+        "url": "https://open.spotify.com/album/1TRyUUDjB1rKdtGN60dwhl"
       },
       "artists": [
         {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+          "name": "Moonalice",
+          "url": "https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e"
         }
       ],
-      "duration_ms": 200998,
-      "name": "Snow Place Like Home",
-      "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
+      "duration_ms": 248426,
+      "name": "Merry Christmas, Happy New Year",
+      "url": "https://open.spotify.com/track/5rvi6rttNhcEfEpCQqFKLE"
     }
   ],
   "unique_name": "Christmas in Canada",

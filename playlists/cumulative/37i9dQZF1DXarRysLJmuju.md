@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Dua Lipa
 
-945 songs - 2 day 0 hr 5 min
+946 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Do U Really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 | 2023-04-01 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-03-19 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-27 | 2022-10-01 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-26 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Let The Light Go Out](https://open.spotify.com/track/2lCyQnftM6ptqC3vk7qeao) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Don’t Let The Light Go Out](https://open.spotify.com/album/12sVYYyzqFcgA6o3yqCx5i) | 3:49 | 2022-08-19 | 2022-09-03 |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2022-06-17 | 2022-10-29 |
 | [Don’t Break \(My Soul\)](https://open.spotify.com/track/39ZSr9sYegoaqybVsWT4QC) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Don’t Break \(My Soul\)](https://open.spotify.com/album/37PXVz180JQFCsOPhlvBk8) | 3:19 | 2022-01-23 | 2022-02-26 |

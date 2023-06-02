@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 235360,
       "name": "Battle Is the Lord's",
       "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
@@ -1114,6 +1114,24 @@
       "duration_ms": 242432,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
+    },
+    {
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
     },
     {
       "album": {

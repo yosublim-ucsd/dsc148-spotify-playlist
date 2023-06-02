@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,968 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,046 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 5 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 | 6 | [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 |
 | 7 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
-| 8 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 8 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 9 | [Sidetracked Soundtrack \- Unreleased Demo](https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 4:19 |
 | 10 | [Wish We Could Be Friends](https://open.spotify.com/track/70f0GBfQ0y6DZvC3jytr5R) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/1SS5zZzp492w5EhFuYzVVl) | 2:31 |
 | 11 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [For You](https://open.spotify.com/track/5lJOWTcuCJm34M2y9G04zK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [For You](https://open.spotify.com/album/1RDbdhWq1OiU2x1Tco0Vpw) | 3:48 |
 | 100 | [Edith from the Third Floor \(Central AC\)](https://open.spotify.com/track/27UkJ04rO64RPgxY9PgRNq) | [Austin Weber](https://open.spotify.com/artist/05bnFEwruBiBgJH8uW4vo6) | [Slacker Poetry](https://open.spotify.com/album/08xIsmuAlxYO1rEESgJAvJ) | 3:46 |
 
-Snapshot ID: `MCw1YmIyMzdlZTUyMjNhNzkyMzIxYjQyODJkZjM0YmNjY2I1OTM2MzAx`
+Snapshot ID: `MCw4N2Y1NGVkZWRkYzU5ZTJlNDcxMDBiZGY1ZTE0NzkyNGQ5Zjg1Yjg0`

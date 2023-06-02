@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,364 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,861 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 39 | [Never Go Back To Sleep](https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Never Go Back To Sleep](https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5) | 4:00 |
 | 40 | [Injection \- Original Mix](https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Injection \(Original Mix\)](https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr) | 7:01 |
 | 41 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
-| 42 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
-| 43 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
-| 44 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
+| 42 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
+| 43 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
+| 44 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
 | 45 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
 | 46 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 |
 | 47 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 |
 | 50 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
 
-Snapshot ID: `MCwxZWQ0OWYyOGQzMmM0OTk1YTdiMTk2OWM0ZDdjYmJkMjZiOGI4YjA4`
+Snapshot ID: `MCxjYThlMzMzNzE2YmM1M2YyMTIwNWYwZTA1MzVkYjMzMzk0MjUzZDFj`

@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 42005,
+  "num_followers": 42038,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDMyMmFiNWU5N2Y3ODc2ODM1ZWEyNmIyYWM3OWI2MWI2NDAxMGFl",
+  "snapshot_id": "MCwyYWIyZDQ4MzMyZTVjMWE4MGNhMTVlZDdiZDEwMTAzZGEzZWMxYzRj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -511,6 +511,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 880186,
+      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
+      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler, G.: Symphony No. 4",
         "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 564213,
       "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
       "url": "https://open.spotify.com/track/1RQAkvir0B5eCxY1cavyfp"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 1",
-        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 880186,
-      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
-      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -635,34 +635,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler - Vol. 1",
-        "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lucia Popp",
-          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
-        },
-        {
-          "name": "Royal Concertgebouw Orchestra",
-          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
-        },
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        }
-      ],
-      "duration_ms": 509000,
-      "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
-      "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler, G.: Symphony No. 4",
         "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
       },
@@ -691,8 +663,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 9",
-        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+        "name": "Mahler - Vol. 1",
+        "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
       },
       "artists": [
         {
@@ -700,17 +672,21 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
         },
         {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
         }
       ],
-      "duration_ms": 757713,
-      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
-      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
+      "duration_ms": 509000,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
+      "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -743,6 +719,30 @@
       "duration_ms": 570586,
       "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
       "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        }
+      ],
+      "duration_ms": 757713,
+      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -867,6 +867,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
+        "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Vladimir Jurowski",
+          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
+        }
+      ],
+      "duration_ms": 1352400,
+      "name": "Totenfeier",
+      "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Brahms, Schumann & Mahler: Lieder",
         "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
       },
@@ -895,8 +919,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
-        "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
       },
       "artists": [
         {
@@ -904,17 +928,45 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         },
         {
-          "name": "Vladimir Jurowski",
-          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
         }
       ],
-      "duration_ms": 1352400,
-      "name": "Totenfeier",
-      "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
+      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -983,58 +1035,6 @@
       "duration_ms": 84213,
       "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Veni, Creator Spiritus -",
       "url": "https://open.spotify.com/track/2RGtWy0QKjMeAYQhbjUNGu"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
-      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "I. Allegro maestoso",
-      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1135,30 +1135,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 579986,
-      "name": "Symphony No. 7 in E Minor: III. Scherzo: Schattenhaft",
-      "url": "https://open.spotify.com/track/6donFiaElbTnuklM7XkPdp"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 225720,
       "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
       "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 579986,
+      "name": "Symphony No. 7 in E Minor: III. Scherzo: Schattenhaft",
+      "url": "https://open.spotify.com/track/6donFiaElbTnuklM7XkPdp"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 1297293,
-      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
-      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
         "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 627306,
       "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
       "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 1297293,
+      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
+      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
+      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: The Symphonies",
         "url": "https://open.spotify.com/album/2l3IspQ4ayL9bLIsY9oEKG"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 309186,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/1MVQZ6IHffWxf5y2Yf3SVw"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "David Zinman Conducts Mahler Symphonies",
-        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 610386,
-      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
-      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
     },
     {
       "added_at": "2022-06-27 09:16:34",

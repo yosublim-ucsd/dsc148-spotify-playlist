@@ -4,7 +4,7 @@
 
 > 
 
-186 songs - 10 hr 35 min
+187 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Olsun İstemezdim](https://open.spotify.com/track/4zhGxMXrSa1p5mfGPZMiCl) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo), [Mei Wu](https://open.spotify.com/artist/6OxZ4gujZ3zGJwCIR60Td9) | [SON](https://open.spotify.com/album/6mtl5HTLK6lK9V5Jzu4g1b) | 3:55 | 2021-12-12 |  |
 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 | 2021-11-20 |  |
 | [ON TOP](https://open.spotify.com/track/72j1jY006wieT3AdwLdLFl) | [The Girl Next Door](https://open.spotify.com/artist/08BukEzAIBpuXFfEzb7o9U), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [ON TOP](https://open.spotify.com/album/3cZtV6uATITYcFMAtgNpzB) | 2:11 | 2021-07-02 |  |
+| [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 | 2023-06-01 |  |
 | [Perverted](https://open.spotify.com/track/0L7Gl1yCKKEkKNxvCOlwij) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sick Girl](https://open.spotify.com/album/2OAKDrIMeYUDGj6LxIEu4O) | 3:08 | 2021-12-18 |  |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2022-09-07 |  |
 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 | 2020-11-24 |  |

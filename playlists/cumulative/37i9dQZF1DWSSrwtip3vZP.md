@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-165 songs - 8 hr 48 min
+166 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-19 | 2022-11-02 |
 | [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 | 2022-04-19 |  |
 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2022-04-19 | 2023-03-04 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-16 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-03-26 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-16 | 2023-06-02 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2022-04-19 | 2023-01-25 |
 | [Hold Me Like You Used To \- Spotify Singles](https://open.spotify.com/track/5HZtgJapw0QgPUZzy6ql12) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:09 | 2022-04-19 | 2022-09-13 |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-04-19 |  |

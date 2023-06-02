@@ -16693,6 +16693,24 @@
     },
     {
       "album": {
+        "name": "Need to Know",
+        "url": "https://open.spotify.com/album/24g7N7cApVwd0XRffVa6to"
+      },
+      "artists": [
+        {
+          "name": "Jonny Channels",
+          "url": "https://open.spotify.com/artist/6tm9f2abcM0liY1mZGeTVX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156533,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/6Vty4QyVDWmO5xraSbdb9i"
+    },
+    {
+      "album": {
         "name": "Need You Like",
         "url": "https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47"
       },

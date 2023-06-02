@@ -1,12 +1,12 @@
 {
   "description": "Keeping the party going w/ Yellow Party NYC",
-  "num_followers": 425182,
+  "num_followers": 425215,
   "original_name": "House Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzdmYjRkOTExNjczNTZiYTA2Nzg4ZGYxODRhODAyMjg2ZGQwMTU1",
+  "snapshot_id": "MCw2NTQ2NGExMDc0ODViNjQ1NzhlZDFlNGJlYTFkM2VlMjM2MzQxMDAw",
   "tracks": [
     {
       "added_at": "2023-05-18 16:12:18",
@@ -511,7 +511,7 @@
     {
       "added_at": "2023-05-18 16:12:18",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -520,20 +520,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

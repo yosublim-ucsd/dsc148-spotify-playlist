@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148593,
+  "num_followers": 148620,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QzZWVmMGIwNGZmOWU2MzRiMzk2YjViYmM2MTJmOWZiMWI4ZmE5",
+  "snapshot_id": "MCwxZGQ4ZmQyNjkzMjZhM2M3ODZhMDUzZmI4Mzc1MTAxNDMxYTBkMWIx",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
-      },
-      "artists": [
-        {
-          "name": "J. Hartley",
-          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
-        }
-      ],
-      "duration_ms": 158685,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Must Be The Country",
         "url": "https://open.spotify.com/album/5Tlc1AB7MVD2fDcI9P5im6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 189837,
       "name": "Hood",
       "url": "https://open.spotify.com/track/01kkybO28KUiJN4meC9S7c"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY"
+      },
+      "artists": [
+        {
+          "name": "J. Hartley",
+          "url": "https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT"
+        }
+      ],
+      "duration_ms": 158685,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe"
     },
     {
       "added_at": "2023-05-19 04:00:00",

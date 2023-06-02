@@ -4,7 +4,7 @@
 
 > Les meilleurs airs d'autoroute.
 
-91 songs - 5 hr 22 min
+92 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Coco Câline](https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:45 | 2022-12-07 |  |
 | [Coup de soleil](https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Coup de soleil](https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK) | 2:42 | 2022-12-07 | 2023-04-02 |
 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 | 2022-12-07 |  |
+| [Docteur Renaud, Mister Renard](https://open.spotify.com/track/7MEvMhZkzGDZJEQGr4JBdb) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Boucan d'enfer](https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG) | 4:23 | 2023-05-23 |  |
 | [Emmène\-moi](https://open.spotify.com/track/2Ji7vtyxrzN3ZlxDzm3MX4) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Bruxelles](https://open.spotify.com/album/5znqZbAnfZtufdkJEyMcNN) | 3:18 | 2022-12-07 |  |
 | [Encore et encore \- Remastered](https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Photos de voyages \(Remastered\)](https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR) | 4:33 | 2022-12-07 |  |
 | [Encore un soir](https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Encore un soir \(Deluxe Edition\)](https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R) | 4:23 | 2022-12-07 |  |
@@ -68,7 +69,7 @@
 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 | 2023-01-12 |  |
 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 | 2022-12-07 |  |
 | [Non non rien n'a changé](https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m) | [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Les Annees Barclay](https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm) | 3:09 | 2022-12-07 |  |
-| [Nos célébrations \- Edit](https://open.spotify.com/track/50TIALxJW2k7XntjaVzrt1) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Nos célébrations](https://open.spotify.com/album/7KvQlSvxXWsxKnEhOdWP6N) | 4:00 | 2022-12-07 |  |
+| [Nos célébrations \- Edit](https://open.spotify.com/track/50TIALxJW2k7XntjaVzrt1) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Nos célébrations](https://open.spotify.com/album/7KvQlSvxXWsxKnEhOdWP6N) | 4:00 | 2022-12-07 | 2023-06-02 |
 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 | 2022-12-07 |  |
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2022-12-07 |  |
 | [On](https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [On](https://open.spotify.com/album/4DDG0gVgUTgGRZBxQ6zscl) | 3:42 | 2023-01-12 |  |

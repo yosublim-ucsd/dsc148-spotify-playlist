@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 59293,
+  "num_followers": 59341,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yzk0ZmNlNzQyYzVlNGRhYTA1ODM0YTZiM2VkNTUzNWExYmFmZWYw",
+  "snapshot_id": "MCw5MDRkNTcwNTgzZWMyMDUwOThmZGEzZGNmZTMwNGFjODU3ZTFkMzEx",
   "tracks": [
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Aboogi",
-        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Assossam",
-      "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 294032,
       "name": "Walking My Troubles Away",
       "url": "https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Aboogi",
+        "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Assossam",
+      "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "That's All Right (Mama) - the Fire Sessions",
-        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
-      },
-      "artists": [
-        {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Mean Old 'Frisco Blues",
-      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "I Be Trying",
         "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
+        "name": "That's All Right (Mama) - the Fire Sessions",
+        "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Mean Old 'Frisco Blues",
+      "url": "https://open.spotify.com/track/1LqS5Vz8yCTejrVc1Qo7eP"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
         "name": "Boomer's Story",
         "url": "https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 253066,
       "name": "Cherry Ball Blues",
       "url": "https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1343,22 +1359,6 @@
       "duration_ms": 305160,
       "name": "For The Last Time - Alternate Take 1",
       "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Between Midnight And Day",
         "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 160213,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "The Moon Is Rising",
-      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "The Moon Is Rising",
+      "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
     },
     {
       "added_at": "2023-05-26 13:39:55",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-05-26 13:39:55",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "The World Keep on Turning",
-      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
-    },
-    {
-      "added_at": "2023-05-26 13:39:55",
-      "album": {
         "name": "Good, Good Man",
         "url": "https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 236720,
       "name": "Good, Good Man",
       "url": "https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31"
+    },
+    {
+      "added_at": "2023-05-26 13:39:55",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "The World Keep on Turning",
+      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
     },
     {
       "added_at": "2023-05-26 13:39:55",

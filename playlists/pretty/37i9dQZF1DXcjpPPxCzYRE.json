@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 366228,
+  "num_followers": 366296,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGE5ZDFjYTk3MjhjNjM3ZmY5MTI4ZTFlOGQ0YTBlZWQ5MGYzYWM5",
+  "snapshot_id": "MCw2MmNkYzk1YTI3ZmVlZmYyNWRjNzgxOGRmOTA0YTk4OTFmY2ViMzUw",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Qu\u00e9 Bueno!",
+        "url": "https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO"
+      },
+      "artists": [
+        {
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Chukky",
+          "url": "https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL"
+        }
+      ],
+      "duration_ms": 222391,
+      "name": "Qu\u00e9 Bueno!",
+      "url": "https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Qu\u00e9 Bueno!",
-        "url": "https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Chukky",
-          "url": "https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Qu\u00e9 Bueno!",
-      "url": "https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
     }
   ],
   "unique_name": "Relax en casa",

@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229028,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt"
+    },
+    {
+      "album": {
         "name": "Sounds Of The Street II",
         "url": "https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG"
       },
@@ -558,6 +576,28 @@
       "duration_ms": 196173,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn"
+    },
+    {
+      "album": {
+        "name": "Factions (Protostar Remix)",
+        "url": "https://open.spotify.com/album/5jmbuKF5FOa716i7slx7uB"
+      },
+      "artists": [
+        {
+          "name": "Synova",
+          "url": "https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd"
+        },
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249512,
+      "name": "Factions - Protostar Remix",
+      "url": "https://open.spotify.com/track/7mXomNGE9DWPp071zTL2xI"
     },
     {
       "album": {
@@ -914,7 +954,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 113294,
       "name": "HARDCORE",
       "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
@@ -1590,7 +1630,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 246000,
       "name": "Reviver - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5"

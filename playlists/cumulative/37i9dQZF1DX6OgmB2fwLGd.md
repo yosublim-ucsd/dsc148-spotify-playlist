@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Lil Mabu
 
-680 songs - 1 day 3 hr 55 min
+681 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [Phoenix](https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Phoenix](https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa) | 2:13 | 2022-04-29 | 2022-09-22 |
 | [piccolo](https://open.spotify.com/track/0b7C1NzdU4gz5CaNzBtuuk) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/7mwlACYa6uAssuCnKPxHId) | 2:00 | 2022-06-17 | 2022-10-08 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-08-21 |
+| [Pistachio](https://open.spotify.com/track/24gNOagTwbIoTzUd6FCUU6) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Pistachio](https://open.spotify.com/album/4OIYHFhmlT5clpfIJpi720) | 2:56 | 2023-06-01 |  |
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2022-05-13 | 2022-07-08 |
 | [Plastic Girls](https://open.spotify.com/track/6DulwWv42sYCMcCrs3one7) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Plastic Girls](https://open.spotify.com/album/3mgenfgpKNOWkVMS1ASa9T) | 2:12 | 2022-06-24 | 2022-08-13 |
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-02 | 2022-07-02 |
@@ -600,7 +601,7 @@
 | [Swiper Of The Year](https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7) | [Teejayx6](https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y) | [Swiper Of The Year](https://open.spotify.com/album/4O7rwsxAeJE4jjNIoEIFYI) | 1:28 | 2022-01-07 | 2022-01-13 |
 | [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 | 2022-09-23 | 2022-11-23 |
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 |  |
-| [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-25 |  |
+| [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-25 | 2023-06-02 |
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-05-06 |
 | [Tantrum \(Pace Yourself\)](https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tantrum \(Pace Yourself\)](https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt) | 2:03 | 2022-12-16 | 2023-02-15 |
 | [TBTF](https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [TBTF](https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg) | 2:52 | 2022-01-21 | 2022-02-05 |

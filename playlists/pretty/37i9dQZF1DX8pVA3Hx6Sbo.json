@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 906243,
+  "num_followers": 906586,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGExODE2MTk1YzI1NTFmYWY3NDg0ZTM2NDljNDQ0ODhjYTE0OGQ3",
+  "snapshot_id": "MCxjYTQ3NmJhZDgwMTQxY2RhZWY3MjcyMWZiNDJkNjMwM2Y3NzU0M2Vh",
   "tracks": [
     {
       "added_at": "2023-05-02 17:44:11",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
+        "name": "Palabra De Rey",
+        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Tu Camino y el M\u00edo",
+      "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
         "name": "Mis Duetos",
         "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 214213,
       "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
-        "name": "Palabra De Rey",
-        "url": "https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Tu Camino y el M\u00edo",
-      "url": "https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso"
     },
     {
       "added_at": "2023-05-02 17:44:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL?si=cWR\_tC2BQmWNvhPwHwyT5w"> Rebecca Garton</a>  and <a href="https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=l0hmhiOZQpiwKspg3SkMWQ"> Tay Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,007 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,013 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Hope Alive](https://open.spotify.com/track/4e7ews9UGAlxHA4rV06KoY) | [Mulla Rae](https://open.spotify.com/artist/2A2cmFmFbDZIVYIpVmR813) | [Wavy Sound](https://open.spotify.com/album/78HIwKoPbr9FmAiNs0Shx4) | 2:44 |
 | 80 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
 
-Snapshot ID: `MCw2MzIxZGFlMzY3N2QwM2JmMWU2YmJjMDAxNDkwMTg5MjFiODk5YzFm`
+Snapshot ID: `MCw2MWIyZjRjNDhkYjg1YjlmMzFiNzJmYmU0ZDYwOGI4YWJmYjRiYWI1`

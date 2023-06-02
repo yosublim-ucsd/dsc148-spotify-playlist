@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 83379,
+  "num_followers": 83395,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWQyZmQ0YWQ0MzdkY2ViNWQxNzFlM2NlMmRmY2VhM2U0MjMzOWE1",
+  "snapshot_id": "MCwyM2UyMzMxMTgwZGM5NmI0MGY0OGMzNTY4MTU4NjEyNDk4ZTZlZjE4",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "N\u00f3mada",
         "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 203592,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
+      },
+      "artists": [
+        {
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Yumbotop\u00eda",
-        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
-      },
-      "artists": [
-        {
-          "name": "Las Yumbe\u00f1as",
-          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
-        }
-      ],
-      "duration_ms": 173621,
-      "name": "El Tema de Amor Que Esperabas",
-      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
@@ -759,22 +743,34 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Perro Come Perro",
-        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
+        "name": "Yumbotop\u00eda",
+        "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
       "artists": [
         {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+          "name": "Las Yumbe\u00f1as",
+          "url": "https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh"
         }
       ],
-      "duration_ms": 197334,
-      "name": "Perro Come Perro",
-      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
+      "duration_ms": 173621,
+      "name": "El Tema de Amor Que Esperabas",
+      "url": "https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Pnmt Corrosion",
+        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+      },
+      "artists": [
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Izquierdo",
+      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Pnmt Corrosion",
-        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+        "name": "Perro Come Perro",
+        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
       "artists": [
         {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Izquierdo",
-      "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
+      "duration_ms": 197334,
+      "name": "Perro Come Perro",
+      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -891,6 +891,42 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
+        "name": "Neum\u00e1ticos",
+        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
+      },
+      "artists": [
+        {
+          "name": "Rev\u00f3lver Plateado",
+          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
+        }
+      ],
+      "duration_ms": 225456,
+      "name": "Neum\u00e1ticos",
+      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq"
       },
@@ -919,42 +955,6 @@
       "duration_ms": 213146,
       "name": "Voy a olvidarme de mi",
       "url": "https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
-        "name": "Neum\u00e1ticos",
-        "url": "https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx"
-      },
-      "artists": [
-        {
-          "name": "Rev\u00f3lver Plateado",
-          "url": "https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO"
-        }
-      ],
-      "duration_ms": 225456,
-      "name": "Neum\u00e1ticos",
-      "url": "https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM"
     },
     {
       "added_at": "2023-04-14 06:55:00",

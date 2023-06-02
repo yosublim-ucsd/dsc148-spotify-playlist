@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,296 likes - 65 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,805 likes - 65 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 31 | [Aana Nahi](https://open.spotify.com/track/3nvJWarZv8kNyusyXfdu44) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aana Nahi](https://open.spotify.com/album/6KUEDNzv39oXcvuxklZoxn) | 3:01 |
 | 32 | [Mere Paas Tum Raho](https://open.spotify.com/track/4KesmOv91PmUtzTC4ltGhB) | [Sumedh Mudgalkar](https://open.spotify.com/artist/4MjnXdCTzppLKxnfNv1G7h), [Bharat Kamal](https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ), [Mohit Lalwani](https://open.spotify.com/artist/5Nfs3z1NSsrI3wxInUl6v8), [Ambika Devi](https://open.spotify.com/artist/00uMWk0Zgw5qUziwylo2b3), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Mere Paas Tum Raho](https://open.spotify.com/album/3I0bHAfRH2tUA6OWNX5nEG) | 3:29 |
 | 33 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
-| 34 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 |
-| 35 | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/track/50Emj7dvfU5NTCQsS7ECJ7) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/album/0qHOnEEAja3oeBJQDp7zGY) | 5:25 |
+| 34 | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/track/50Emj7dvfU5NTCQsS7ECJ7) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/album/0qHOnEEAja3oeBJQDp7zGY) | 5:25 |
+| 35 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 |
 | 36 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 |
 | 37 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 |
 | 38 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 58 | [Maahi Mera](https://open.spotify.com/track/5nQghGvvTCO5QddWAI7cqy) | [Akashdeep Singh](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Maahi Mera](https://open.spotify.com/album/6l02cl7Igp5PnMlF8ho5kn) | 4:15 |
 | 59 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 60 | [Kitna Tha Roka](https://open.spotify.com/track/5P6xN9gXr14GLfxr3F4Rua) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kitna Tha Roka](https://open.spotify.com/album/4ZW08VKjCR3P3Z3ENLMLm8) | 3:17 |
-| 61 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 |
-| 62 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 |
+| 61 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 |
+| 62 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 |
 | 63 | [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 |
 | 64 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 |
 | 65 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 
-Snapshot ID: `MCw2ZDA2MDRmMGU3MjNmNWRlMDMwMzFiNDZkYmIxZTAxMmM0YjZlMmE5`
+Snapshot ID: `MCw2NDc4ZTg3NWI3MmZlOWY5NjE0NzFiZjYxMGE2NTg2OTlkMTkyNGY0`

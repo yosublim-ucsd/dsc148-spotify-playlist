@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 637402,
+  "num_followers": 637738,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzIwZTkwMjk1ZjBkMWQ2YzAyNmY5MzQ1YWZjZTM4N2M0OTQzMWI1",
+  "snapshot_id": "MCw0MDc4ODMwM2Q5ZGI2MzVlMTQ3ZmJjNzc4ZGQwNDE1MDY2YTVmYzk4",
   "tracks": [
     {
       "added_at": "2023-05-22 17:44:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "SIN SE\u00d1AL",
-        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
+        "name": "23 Preguntas",
+        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 185084,
-      "name": "SIN SE\u00d1AL",
-      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
+      "duration_ms": 251221,
+      "name": "23 Preguntas",
+      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "23 Preguntas",
-        "url": "https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56"
+        "name": "SIN SE\u00d1AL",
+        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 251221,
-      "name": "23 Preguntas",
-      "url": "https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v"
+      "duration_ms": 185084,
+      "name": "SIN SE\u00d1AL",
+      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "En Tu Cuerpo (Remix)",
         "url": "https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 310860,
       "name": "En Tu Cuerpo - Remix",
       "url": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "Me Fije",
+        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Me Fije",
+      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1647,26 +1667,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Me Fije",
-        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Me Fije",
-      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "Respuesta Cero",
         "url": "https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
         "name": "Uno De Eses Gatos",
         "url": "https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 165350,
       "name": "Uno De Eses Gatos",
       "url": "https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 195769,
       "name": "COSITAS",
       "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
     },
     {
       "added_at": "2023-05-22 17:44:46",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2023-05-22 17:44:46",
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Beb\u00e9 Que Bien Te Ves",
+      "url": "https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem"
+    },
+    {
+      "added_at": "2023-05-22 17:44:46",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 216000,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
-    },
-    {
-      "added_at": "2023-05-22 17:44:46",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Beb\u00e9 Que Bien Te Ves",
-      "url": "https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem"
     }
   ],
   "unique_name": "suave",

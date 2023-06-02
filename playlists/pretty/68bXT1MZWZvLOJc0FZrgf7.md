@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Party Favor and Baauer
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,792 likes - 173 songs - 9 hr 7 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,790 likes - 173 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945 likes - 165 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 946 likes - 165 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 61 | [Egoísta](https://open.spotify.com/track/4X3CV9rXo3hQrkb0fzRAux) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 4:07 |
 | 62 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
 | 63 | [Yeezy](https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:21 |
-| 64 | [Me Gusta](https://open.spotify.com/track/1N3rf6ZFzb8NPYeLCmgzj7) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:17 |
-| 65 | [Tú No Lo Amas](https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:34 |
+| 64 | [Tú No Lo Amas](https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:34 |
+| 65 | [Me Gusta](https://open.spotify.com/track/1N3rf6ZFzb8NPYeLCmgzj7) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:17 |
 | 66 | [Pensando en Ti](https://open.spotify.com/track/33Xd0gRmLMzStrrWccKwuH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 2:59 |
 | 67 | [Bandolera](https://open.spotify.com/track/6zw6EBrOdGTbKzC0djTOlD) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:10 |
 | 68 | [Supuestamente](https://open.spotify.com/track/1ZBU5DSoYQwaZVgep6pfn2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:18 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 149 | [DALE BANDA](https://open.spotify.com/track/3uvI3MwIB42qk0QEGtQpgT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:55 |
 | 150 | [Que Importa](https://open.spotify.com/track/5xpaelrvdOBxwnxIO1FOQv) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:42 |
 | 151 | [YA NO ME MUERDO](https://open.spotify.com/track/5SXKLCnq8mv5CHpfT4GPlU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:41 |
-| 152 | [PARTY DB](https://open.spotify.com/track/7iYClgHtw1gcmc0SN4YcAW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:57 |
-| 153 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 152 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 153 | [PARTY DB](https://open.spotify.com/track/7iYClgHtw1gcmc0SN4YcAW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:57 |
 | 154 | [SE CANSÓ](https://open.spotify.com/track/1uEnlU7c5dNlM4K1YlFxaG) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:46 |
 | 155 | [Tanto Que Me Gusta](https://open.spotify.com/track/4BUzGwNWP8ZI1r7i1IWEpK) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tanto Que Me Gusta](https://open.spotify.com/album/3lOtFDx1YT75eZQB21l3ki) | 3:43 |
 | 156 | [Volao](https://open.spotify.com/track/2TmsUnvvMAzmrpZQbMrUcn) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 164 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 165 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 
-Snapshot ID: `MjgwOTMxNDEsMDAwMDAwMDAyZGUxZDI0ZDgyNzU0OTUxNmE5NDdmYjFkNDIxYzYzYg==`
+Snapshot ID: `MjgwOTQ1MjAsMDAwMDAwMDBkM2NjZTk4ZTNiMmE5YTZjYTFiOGI2NzZiYTE4NDJhMA==`

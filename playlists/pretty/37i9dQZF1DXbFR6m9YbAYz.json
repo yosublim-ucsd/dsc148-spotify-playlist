@@ -1,15 +1,15 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 42284,
+  "num_followers": 42416,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDExNTZjZmFmYjRhNWU0OTBjNDMyYzZjNmNlNDk4ZTFkNTA1MDhl",
+  "snapshot_id": "MCw3MTQ0NTAyNzhlNDdhMWQ1Y2UwNGJhYjg1ZTBmZmQ5MmY2OWIyZjMx",
   "tracks": [
     {
-      "added_at": "2023-06-01 02:56:44",
+      "added_at": "2023-06-02 02:34:32",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
     },
     {
+      "added_at": "2023-06-02 02:34:32",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Tailgates & Tanlines",
@@ -255,22 +271,6 @@
       "duration_ms": 225560,
       "name": "Country Girl (Shake It For Me)",
       "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2023-06-01 02:56:44",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Imaginary Appalachia",
         "url": "https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 192480,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-01-13 05:00:00",

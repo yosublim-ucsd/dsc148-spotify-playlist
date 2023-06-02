@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,684 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,751 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 86 | [Muchachita Loca](https://open.spotify.com/track/3sc5V807LrB6laUneVyu52) | [The Latin Dance Machine](https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK) | [Latin Dance Series \- Bachata](https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o) | 4:01 |
 | 87 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 88 | [Corazón Culpable](https://open.spotify.com/track/198HWHhymECcoWD5udzWzH) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Aqui Esta La Bachata, Vol\. 2: Con Sus Interpretes Originales](https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9) | 6:01 |
-| 89 | [Como Hojas al Viento](https://open.spotify.com/track/3756GphlCRBe0fM5Mfj7uV) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Como Hojas al Viento](https://open.spotify.com/album/6FFkKgYpG13raPbcY1D9uG) | 3:10 |
+| 89 | [Decidí](https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Decidí](https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs) | 3:14 |
 | 90 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
 | 91 | [Busca un Confidente](https://open.spotify.com/track/29Va4e6LzlehfNZtN3hhtZ) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 3:55 |
 | 92 | [Traicionera](https://open.spotify.com/track/4dlO6SdyflPGww0GCShmgh) | [Luis Segura](https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp) | [Como Yo](https://open.spotify.com/album/71dYjwPdkThUSdajTtKoXz) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Dame Un Chance](https://open.spotify.com/track/1tiKYmk7ATZrbONySWFQ4L) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Dame Un Chance](https://open.spotify.com/album/3X0hdnr8zM30Pl89zPr5cs) | 3:27 |
 | 100 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 |
 
-Snapshot ID: `MCwwMzI5ZjA4NWFjZDFiY2Y5YmZhNDRhYmU0NTAwMjY1NDAyNjI4NzYw`
+Snapshot ID: `MCxkMTAwMmMwZTVhNGRhMThhYzJiYzNkYjIyNjUyZDY1ZGQ3YjRlMjQ2`

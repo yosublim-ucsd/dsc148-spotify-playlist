@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-245 songs - 15 hr 21 min
+246 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2021-11-19 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-06-16 |  |
 | [July](https://open.spotify.com/track/1427G7uMk181vGCr9CkYyn) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Simping Songs](https://open.spotify.com/album/0fViaME7X1KzQ18dIJEenz) | 2:32 | 2022-10-17 | 2022-11-13 |
-| [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 | 2021-11-19 |  |
+| [Kahit Maputi Na Ang Buhok ko](https://open.spotify.com/track/4rKbm8TTrhTLissRuSFo3Z) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [The Hows Of Us](https://open.spotify.com/album/6UydX4NwFXFHeBXO2Ah0vL) | 3:39 | 2022-10-17 |  |
+| [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 | 2021-11-19 | 2023-06-02 |
 | [Kaise Hua](https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:54 | 2021-11-19 | 2022-06-17 |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-11-19 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2021-11-19 |  |

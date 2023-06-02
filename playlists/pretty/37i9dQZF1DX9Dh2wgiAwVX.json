@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tu dosis de energ\u00eda para alegrarte el d\u00eda!",
-  "num_followers": 1647021,
+  "num_followers": 1647281,
   "original_name": "Hits Alegres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGZmNGE2YmQxYTQ1NTAwOTM5YjY0OGM0ODc3NDkwOGI1M2EzMDky",
+  "snapshot_id": "MCwzOTk0YjM0N2RiMGI3ZWYyMzE4NDg0NGIwNzZmOTI3NTFjNDYxM2Jk",
   "tracks": [
     {
       "added_at": "2023-04-25 09:24:32",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-25 09:24:32",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
-    },
-    {
-      "added_at": "2023-04-25 09:24:32",
-      "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2023-04-25 09:24:32",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2023-04-25 09:24:32",

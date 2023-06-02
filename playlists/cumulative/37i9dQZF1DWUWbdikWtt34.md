@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Ucie Sucita, Sule
+> Dendang Dangdut teratas\. Cover: Ndarboy Genk
 
-96 songs - 7 hr 22 min
+97 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2021-08-23 |  |
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 |  |
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
+| [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 |  |
 | [Siapa Benar Siapa Salah](https://open.spotify.com/track/5tvW2B5gk0H5boGqVuHFLL) | [Gita Youbi](https://open.spotify.com/artist/1tjEjf3iIYPMTo0bOSZjcU) | [Siapa Benar Siapa Salah](https://open.spotify.com/album/59OrcFyOttYw7F3fZ1aT91) | 4:33 | 2021-08-23 |  |
 | [Simpati Cinta](https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Simpati Cinta](https://open.spotify.com/album/3dBT1zmQ9QOqx4PtLF9TPw) | 5:56 | 2023-04-28 |  |
 | [Singget](https://open.spotify.com/track/1s69jZHwfpgPopf2pGYEoS) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Album, Vol\. 3](https://open.spotify.com/album/2NzestN2ZSOAOIxn9EfHlm) | 4:45 | 2023-03-30 |  |

@@ -314,7 +314,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 232500,
       "name": "Battle",
       "url": "https://open.spotify.com/track/3dhO7ixs6lgQZ1fgbI1IDd"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "Battle",
       "url": "https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 229013,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6bCNGjPmshojCDkWCmIJeL"
@@ -1502,10 +1502,28 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229013,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0"
+    },
+    {
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/1PIz8lTokG306w5BdjSIYt"
+      },
+      "artists": [
+        {
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/0Rh8r2UXibzTGMMEcT4Of7"
     },
     {
       "album": {
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169500,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195023,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 195023,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6XjjJdyY0zS25nsqzXeMAl"

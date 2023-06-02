@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,199 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,296 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 7 | [Shallow](https://open.spotify.com/track/6uVZdMo4b4bHXgOOd3xJBa) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Covers \(Vol\. 1\)](https://open.spotify.com/album/3SxDqwIDZusXnAdybQD3mP) | 3:57 |
 | 8 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 9 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
-| 10 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 10 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 11 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 |
 | 12 | [Men On The Moon](https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Men On The Moon](https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr) | 3:40 |
 | 13 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 69 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
 | 70 | [Place In Me](https://open.spotify.com/track/5uRv6CmkhdNoirnHEhqLPU) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Place In Me](https://open.spotify.com/album/4nscHAsqchZ2XqV4YWbFBG) | 3:07 |
 
-Snapshot ID: `MCwzYzY0NTBhZDZlZDM3MGU1MTQ5YWQyMzZiYjVjODU5ZmFiZDdlODIz`
+Snapshot ID: `MCxhYjkxMWRmM2UwZDliOWNiOGJiMGFhNmEzNTQ4NmQwOWE1ZDIwNThi`

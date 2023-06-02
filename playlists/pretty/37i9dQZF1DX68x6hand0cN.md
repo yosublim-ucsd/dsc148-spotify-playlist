@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,233 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,377 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Europa](https://open.spotify.com/track/67KWWEkbl4RmmhLUd4drKH) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Europa](https://open.spotify.com/album/04WETNvpvGGwXYku6oLPME) | 4:35 |
-| 2 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Don Toliver, Rema, and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
+| 2 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 3 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
 | 4 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 |
 | 5 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 69 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
 | 70 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 |
 
-Snapshot ID: `MCxhOGUyYTNiMWNjNzg5ZWVhMzZhNGMwMzhkY2YyZGYwN2ZhZTVhNDIz`
+Snapshot ID: `MCw2NDI2NDczYmUwYTZiMzE3NjljMzgzMWIwNjIwNzQ2NGU1NzNiZjhi`

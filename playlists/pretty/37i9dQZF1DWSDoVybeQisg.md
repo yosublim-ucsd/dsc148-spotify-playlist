@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,364 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,646 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 56 | [Citadel \- Remastered 2017 / Stereo](https://open.spotify.com/track/4GOpMcPnnF9mtHNYgUPep6) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request \(50th Anniversary Special Edition / Remastered\)](https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC) | 2:50 |
 | 57 | [The Red Telephone \- 2015 Remaster](https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 4:44 |
 | 58 | [Terrapin](https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt) | [Syd Barrett](https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R) | [The Madcap Laughs](https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r) | 5:02 |
-| 59 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
-| 60 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 59 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 60 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
 | 61 | [Rainy Day Mushroom Pillow](https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 3:04 |
 | 62 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
 | 63 | [The Sky Children](https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Tangerine Dream](https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z) | 8:00 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 66 | [Bass Strings](https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 5:03 |
 | 67 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
 | 68 | [We Love You \- Single Version/Mono](https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 4:36 |
-| 69 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
-| 70 | [San Francisco Girls \(Return Of The Native\)](https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6) | [Fever Tree](https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc) | [Fever Tree](https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6) | 4:02 |
+| 69 | [San Francisco Girls \(Return Of The Native\)](https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6) | [Fever Tree](https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc) | [Fever Tree](https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6) | 4:02 |
+| 70 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
 | 71 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
 | 72 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
 | 73 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
 | 74 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 | 75 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [The Mojo Men](https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
 
-Snapshot ID: `MCxjZTdjNTkxZDJhZTJhYjYwOWM3NDA3NTYzMGQzMWMwNzIxMzE1YWMx`
+Snapshot ID: `MCxhZTBkNWQ4NDllOGU4NTg4OWQ1MGQ0MmVlNmI4NDFlNzY0MzAyYmU2`

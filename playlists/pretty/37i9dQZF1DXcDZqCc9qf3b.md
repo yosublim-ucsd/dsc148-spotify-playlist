@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,312 likes - 83 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,393 likes - 83 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 23 | [On My Way](https://open.spotify.com/track/7e6FePRWR5WXUxjf5SaKGi) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Mitchells vs The Machines \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gGPKURfX0FxDL0tgJsas1) | 3:05 |
 | 24 | [Ada Twist, Scientist Theme Song \(From "Ada Twist, Scientist"\)](https://open.spotify.com/track/5fvMWOLISgdDbvm8EYuJMU) | [Ada Twist, Scientist Cast](https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK), [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Ada Twist, Scientist \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D) | 0:47 |
 | 25 | [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 |
-| 26 | [Freezie Day](https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0) | 2:37 |
+| 26 | [Freezie Day \(from the Netflix Special "Waffles + Mochi: Holiday Feast"\)](https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special "Waffles + Mochi: Holiday Feast"\)](https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0) | 2:37 |
 | 27 | [Beautiful Ugly \(feat\. Evie Irie\) \- from "Back to the Outback" soundtrack](https://open.spotify.com/track/5SIqvVcGc16MsnsVIw83aD) | [Tim Minchin](https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2), [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Beautiful Ugly \(feat\. Evie Irie\) \[from "Back to the Outback" soundtrack\]](https://open.spotify.com/album/6MWqVsBTfAcJ0WvzhPSvPw) | 2:44 |
 | 28 | [Bartleby Finnegan](https://open.spotify.com/track/05iojOqYgGy4SU89O5paby) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [True Tunes](https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ) | 2:26 |
 | 29 | [Welcome To Karma's World](https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [Welcome To Karma's World](https://open.spotify.com/album/6afrouyfY9xZUlrSavHY57) | 2:45 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 82 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 |
 | 83 | [Grand Finale](https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Bryan Tyree Henry](https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K), [Aneesa Folds](https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P), [Bri Holland](https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol), [Alana de Fonseca](https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R), [Zoe Saldana](https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:06 |
 
-Snapshot ID: `MCxmMzk2ZmE3YjRlNWQwMGIyZGFiMzZlNTk4YzEwZDU1NDQ5MWZiYWJm`
+Snapshot ID: `MCxkMTZkZDgxNjU4MTJhYTU5NjE0NWVmNzFlOGVjNGRkMzgxMTVlNTI4`

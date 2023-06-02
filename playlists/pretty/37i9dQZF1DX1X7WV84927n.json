@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Extreme",
-  "num_followers": 318861,
+  "num_followers": 319017,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Q5NGNmMTc4MjI4NTg5ZjBjNjFhMGNmNTFlN2QxM2NmOTNjOWEy",
+  "snapshot_id": "MCxkMTk2YmU2ZTM0ZWMxYjQxMjM1Y2NkNWU4MTlhNGI1YjU0NjI1NWIx",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 187699,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Welcome to the Chaos",
         "url": "https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 208979,
       "name": "Welcome to the Chaos (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "MORE",
-        "url": "https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 187699,
-      "name": "MORE",
-      "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
     },
     {
       "added_at": "2023-05-12 04:00:00",

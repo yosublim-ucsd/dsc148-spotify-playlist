@@ -2356,6 +2356,24 @@
     {
       "album": {
         "name": "Nature Of The Beast",
+        "url": "https://open.spotify.com/album/1efEmTdyntOZvQgtaPdWcU"
+      },
+      "artists": [
+        {
+          "name": "April Wine",
+          "url": "https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Just Between You And Me",
+      "url": "https://open.spotify.com/track/2Xa2C6ftMdcg3j7YSot8dY"
+    },
+    {
+      "album": {
+        "name": "Nature Of The Beast",
         "url": "https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6"
       },
       "artists": [
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"

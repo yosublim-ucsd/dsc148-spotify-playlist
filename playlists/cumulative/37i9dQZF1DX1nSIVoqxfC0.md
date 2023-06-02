@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-329 songs - 23 hr 1 min
+330 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [WOW](https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH) | 2:28 | 2022-07-28 |  |
 | [WOW](https://open.spotify.com/track/4gxukDJiwApNEgVIh4pHgT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/4I2qcrUxk37AoJOMjiOCvu) | 2:28 | 2020-10-20\* | 2022-07-29 |
 | [Written In Reverse](https://open.spotify.com/track/3awfuEyFxNCnCAhklyu4kU) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:28 | 2020-10-20\* | 2023-04-20 |
+| [Yesterday](https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB) | 2:20 | 2023-06-01 |  |
 | [You Are My Diamond](https://open.spotify.com/track/1BcjAMuC8aAFfatLiUui4E) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kianna](https://open.spotify.com/artist/1C5Y99fp28eLQAcUGxz7gT) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 4:10 | 2020-10-20\* | 2022-07-29 |
 | [You Are My Diamond \(feat\. Kianna\)](https://open.spotify.com/track/5ShBJltvnNpMSnNXx72Eq9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kianna Alarid](https://open.spotify.com/artist/3ymLZfMyndgHhoPC00ORvN) | [Kaleidoscope](https://open.spotify.com/album/3rvn7wF66FUs1nleptM1ys) | 4:09 | 2022-11-10 | 2022-11-13 |
 | [You Are My Diamond \(feat\. Kianna\)](https://open.spotify.com/track/1kRMRe3mPfreybOCkdRGWb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kianna Alarid](https://open.spotify.com/artist/3ymLZfMyndgHhoPC00ORvN) | [Kaleidoscope](https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv) | 4:10 | 2022-07-28 | 2023-04-20 |

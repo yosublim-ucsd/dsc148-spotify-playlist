@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Warren Zeiders
+> Top trending country tracks from the last few months\. Cover: Mickey Guyton
 
-299 songs - 15 hr 52 min
+301 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Drink Had Me](https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:36 | 2021-12-17 | 2022-05-28 |
 | [Drinkin' It Wrong](https://open.spotify.com/track/4DSVCVCTwLElQGgS1fr3ix) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Drinkin' It Wrong](https://open.spotify.com/album/53mdg0kzOIHfb2ez48NEUY) | 3:24 | 2022-02-11 | 2022-05-14 |
 | [Drinking to the Broken Hearts](https://open.spotify.com/track/58FFAwPYDGarcBP2hNHzUK) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Drinking to the Broken Hearts](https://open.spotify.com/album/1wGzChizEpSj0gZG2S5lRs) | 3:30 | 2022-02-04 | 2022-12-03 |
-| [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-07-07 |  |
+| [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-07-07 | 2023-06-02 |
 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 | 2022-05-06 | 2022-12-17 |
 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 | 2022-06-17 | 2022-10-02 |
 | [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 | 2022-02-04 | 2022-10-08 |
@@ -122,6 +122,7 @@
 | [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-02-18 | 2022-07-23 |
 | [I Found You](https://open.spotify.com/track/5XSwZlJnAceZ0Gb057vbol) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Found You](https://open.spotify.com/album/1Jjv7LOTu05PDBTWufIi81) | 3:26 | 2022-09-30 | 2023-05-06 |
 | [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2022-03-11 | 2022-09-17 |
+| [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 | 2023-06-01 |  |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-03-04 | 2023-02-25 |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-07-22 | 2022-12-03 |
 | [I'm Gonna Let Her](https://open.spotify.com/track/0ypM45MRlc73Uttz1ddn9o) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [I'm Gonna Let Her](https://open.spotify.com/album/2Ief9TGkBjEaOD1soie5NC) | 2:56 | 2022-02-18 | 2022-04-16 |
@@ -221,6 +222,7 @@
 | [Solo](https://open.spotify.com/track/1XsUBzfpNsho6etkFNLcpR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 2:48 | 2021-12-31 | 2022-03-18 |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-03-18 | 2022-12-17 |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-03-05 |
+| [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2023-06-01 |  |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-05-01 | 2022-10-08 |
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-03-18 |
 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 | 2022-03-04 | 2022-06-18 |
@@ -234,7 +236,7 @@
 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-08-05 | 2023-02-25 |
 | [Summer On Your Lips](https://open.spotify.com/track/7HJ54S8MPYQsC7cT6HffOX) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Summer On Your Lips](https://open.spotify.com/album/0UaUgPC7Ei0A21sG3LrDL1) | 3:30 | 2022-07-22 | 2022-12-17 |
 | [Sun to Me](https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:43 | 2022-10-28 |  |
-| [Sundown Somewhere](https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Sundown Somewhere](https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e) | 2:42 | 2022-12-16 |  |
+| [Sundown Somewhere](https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Sundown Somewhere](https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e) | 2:42 | 2022-12-16 | 2023-06-02 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-02-05 |
 | [T\-Shirt](https://open.spotify.com/track/7xtgdNm04XHg4UphNBpLQx) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [backstory](https://open.spotify.com/album/5Ao4kczlRWv1zeEuwCy8M9) | 2:41 | 2021-12-17 | 2022-01-01 |
 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 | 2021-12-24 | 2022-06-04 |

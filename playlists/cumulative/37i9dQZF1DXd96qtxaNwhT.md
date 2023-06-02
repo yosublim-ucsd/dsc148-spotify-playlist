@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-491 songs - 1 day 3 hr 29 min
+492 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [For Now](https://open.spotify.com/track/5wV2TAUTKHcKgaEB6XnWDI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [For Now](https://open.spotify.com/album/6OvECyR3eoMORZcXc2sptA) | 3:31 | 2020-12-11 | 2022-01-14 |
 | [Forgot About Us](https://open.spotify.com/track/5WJtuMqSdxcbuNvouacT37) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Forgot About Us](https://open.spotify.com/album/414LRtMnUY3SguBTwr0duS) | 3:33 | 2022-04-28 |  |
 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 | 2019-09-13 | 2020-06-19 |
+| [Frozen Lake](https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Frozen Lake](https://open.spotify.com/album/7bjfCfZ6Cf5K2bS1kLLMrd) | 3:36 | 2023-06-01 |  |
 | [Future Kids](https://open.spotify.com/track/5Cy20icxvxt8EnB2pIdVxf) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Future Kids](https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl) | 3:11 | 2021-02-12 | 2021-11-10 |
 | [Getting Over You](https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Getting Over You](https://open.spotify.com/album/0JxpmNUNXqfXFDpZgaJ4My) | 2:10 | 2022-07-14 |  |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-10-27 | 2022-09-29 |

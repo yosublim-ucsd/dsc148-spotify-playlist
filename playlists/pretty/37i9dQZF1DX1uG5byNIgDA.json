@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 221876,
+  "num_followers": 221896,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTllMjc0YzE0ODE4NWQ1OTBmNGQ0MGU1NjJiMzI5OWQxMzQyOWEz",
+  "snapshot_id": "MCw4ODBiNzExYTQ0NWJjNDU1NTAwZGEwMDMyZjNhZDQzMzZjMWQ4ZmU2",
   "tracks": [
     {
       "added_at": "2023-05-23 14:14:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-05-23 14:14:00",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
     },
     {
       "added_at": "2023-05-23 14:14:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-05-23 14:14:00",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 172373,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2023-05-23 14:14:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-23 14:14:00",
       "album": {
-        "name": "strawberry moon",
-        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "strawberry moon",
-      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
-    },
-    {
-      "added_at": "2023-05-23 14:14:00",
-      "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
+    },
+    {
+      "added_at": "2023-05-23 14:14:00",
+      "album": {
+        "name": "strawberry moon",
+        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "strawberry moon",
+      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
     },
     {
       "added_at": "2023-05-23 14:14:00",

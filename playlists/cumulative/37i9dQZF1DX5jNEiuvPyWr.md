@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Zamdane
+> Le meilleur du rap français version cloud\. Photo : DTF
 
-216 songs - 10 hr 57 min
+218 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,8 @@
 | [Boulevard des Belges](https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Boulevard des Belges](https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM) | 3:06 | 2023-03-02 | 2023-04-21 |
 | [Boyka](https://open.spotify.com/track/5sEaPVHq9bCxFaz0W2poeC) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Boyka](https://open.spotify.com/album/652TTQxvvWs3BIOUGY5q4d) | 3:41 | 2022-07-14 | 2022-09-23 |
 | [Brûle avec](https://open.spotify.com/track/5K1qIXNbh07XHaQbiZEZK3) | [Ekoms](https://open.spotify.com/artist/6bgeoMw6N8eRZWql5rWBql) | [Brûle avec](https://open.spotify.com/album/1DJxIkQJ4suush17TdX6Om) | 2:48 | 2022-11-03 | 2022-12-16 |
+| [BUGUER](https://open.spotify.com/track/7pJSEsKNRDdUolUPTBds49) | [Dehmo](https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal) | [FLEGMATIQUE](https://open.spotify.com/album/5BNAAWsmUR6IVpeIkx2leL) | 3:25 | 2023-06-01 |  |
+| [Bélier](https://open.spotify.com/track/63nw2IGs22mY0j12wrTiCd) | [Don Milli](https://open.spotify.com/artist/5sqFLj2cvQ7ZaD1Kpl4nFH) | [Le prix d'une vie](https://open.spotify.com/album/1J0oOhZtBR13n0Q2QuIhyr) | 3:09 | 2023-06-01 |  |
 | [C'EST MORT](https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [C'EST MORT](https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI) | 2:36 | 2023-05-11 |  |
 | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/track/6Rze4VVS34G8jyume7rIgj) | [Chinwvr](https://open.spotify.com/artist/0FO41jGlT3izLX7oULFUlr) | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/album/4Frq8x9BsYMkWmYi2sPSKO) | 3:39 | 2022-07-14 | 2022-09-30 |
 | [Cactus](https://open.spotify.com/track/1EZ6b1JPvNbccq8BkVgdhO) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv), [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Les galeries](https://open.spotify.com/album/6vTDqKqhQt7TFKW6gIWHGk) | 4:01 | 2023-05-25 |  |
@@ -65,7 +67,7 @@
 | [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 | 2022-11-18 |
 | [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
 | [EAU DE ROSE](https://open.spotify.com/track/1Ko8VSowhXSS6jUMvckDB3) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [EAU DE ROSE](https://open.spotify.com/album/6KLapdI76CDnRYUwpwwwrY) | 2:22 | 2023-01-19 | 2023-04-07 |
-| [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 | 2023-04-27 |  |
+| [En bas](https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu) | [Djiggy](https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa) | [En bas](https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo) | 2:19 | 2023-04-27 | 2023-06-02 |
 | [En bas de chez moi](https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Sous l'averse](https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy) | 2:42 | 2023-03-23 | 2023-05-19 |
 | [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 | 2022-10-14 |
 | [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 | 2022-07-29 |
@@ -147,7 +149,7 @@
 | [Mémoire d'un presque rien](https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Mémoire d'un presque rien](https://open.spotify.com/album/589cZ1HYzFumBTBeFcK2pj) | 3:33 | 2023-01-19 | 2023-04-21 |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 | 2022-12-16 |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
-| [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 |  |
+| [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 | 2023-06-02 |
 | [Noir](https://open.spotify.com/track/6xMcRSrzPJJMpH5oYDHiJk) | [ONZ](https://open.spotify.com/artist/2cHLzuB7J9TfkwTMFmTe5E), [yung g](https://open.spotify.com/artist/4Uyc1gUVun2PXGfzLGghh7) | [OPAQUE](https://open.spotify.com/album/4Nkl8GoDDewl9lcvuyVqdk) | 2:46 | 2022-12-01 | 2023-03-18 |
 | [nou](https://open.spotify.com/track/7tOYFGZkgFJXRXvAq8GK4f) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe) | [nou](https://open.spotify.com/album/60CokyVmIeNhWiiwI8VvIZ) | 2:06 | 2022-12-15 |  |
 | [Nouveau chapitre](https://open.spotify.com/track/03qW1EfTMxq4f3S2VUh6QV) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Enfant2LaRue Vol.3](https://open.spotify.com/album/35rQ31nB2TM6sZLDvfIvtH) | 3:14 | 2022-08-25 | 2023-03-18 |

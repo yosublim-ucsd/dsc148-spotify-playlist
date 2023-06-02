@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: needanamebro
+> Discover your new favourite artists from UK&IE\. Cover: No Guidnce
 
-207 songs - 11 hr 22 min
+208 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [In My Head](https://open.spotify.com/track/4ibewEf7KkzWHTKcdOvFQS) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 4:18 | 2023-05-18 |  |
 | [Into You](https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Into You](https://open.spotify.com/album/5k9tVBLPmASFALptyHgbhW) | 2:48 | 2022-02-18 |  |
 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 | 2022-02-18 |  |
+| [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 | 2023-06-01 |  |
 | [Isolate](https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv) | 4:03 | 2022-03-18 | 2022-07-29 |
 | [Isolate](https://open.spotify.com/track/4kbB92kKusaCvb5Mw3HLnL) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/6o5P0rxdduLU4qpB1E71pJ) | 4:03 | 2022-07-28 |  |
 | [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 | 2023-03-17 |  |

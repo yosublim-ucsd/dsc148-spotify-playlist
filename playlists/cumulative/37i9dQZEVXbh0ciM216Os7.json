@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 398872,
       "name": "Dreaming Of (Live At The Piano)",
       "url": "https://open.spotify.com/track/0gAtSlwCrh4RZJQDG2S7V0"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
@@ -2646,7 +2646,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
@@ -2716,6 +2716,24 @@
       "duration_ms": 194272,
       "name": "Gugle",
       "url": "https://open.spotify.com/track/2Nf1D46vyEZYNbuCx0Y4iD"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257226,
+      "name": "Hatredy",
+      "url": "https://open.spotify.com/track/6oIrwYOF2QFXIQRgRPhXbo"
     },
     {
       "album": {
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 220706,
       "name": "Kill You",
       "url": "https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx"
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Soca Music",
       "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
@@ -5866,6 +5884,24 @@
       "duration_ms": 217808,
       "name": "Sweet Southern Comfort",
       "url": "https://open.spotify.com/track/7JSaBwtAXtQ91vE4HLVrqL"
+    },
+    {
+      "album": {
+        "name": "Live At The Piano",
+        "url": "https://open.spotify.com/album/1rEhlthgNKj0Nv6Ld0EPOe"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426325,
+      "name": "Switch (Live At The Piano)",
+      "url": "https://open.spotify.com/track/0JqtB65gmHKE8MjI7050ij"
     },
     {
       "album": {
@@ -6464,7 +6500,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 156000,
       "name": "Touch me",
       "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"

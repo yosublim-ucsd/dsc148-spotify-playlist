@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 148027,
+  "num_followers": 148053,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1",
+  "snapshot_id": "MCxjYWEwNzIxM2I1ZDljZmM0ODU1NmIxNTgxNGQzOWRjYTY2NjBlZWYx",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -319,30 +319,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Sou F\u00e3",
-        "url": "https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7"
-      },
-      "artists": [
-        {
-          "name": "Italo Melo",
-          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        }
-      ],
-      "duration_ms": 224233,
-      "name": "Sou F\u00e3",
-      "url": "https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3zN35UYe30M8hMpeWWn4y6"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 238763,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Sou F\u00e3",
+        "url": "https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7"
+      },
+      "artists": [
+        {
+          "name": "Italo Melo",
+          "url": "https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "duration_ms": 224233,
+      "name": "Sou F\u00e3",
+      "url": "https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 197067,
       "name": "\u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
       },
       "artists": [
         {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "ELA ME TEM",
         "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
       },
@@ -1335,26 +1335,6 @@
       "duration_ms": 197333,
       "name": "Neon",
       "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1411,26 +1391,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Pelo Mundo",
-        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Jef Rodriguez",
-          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Pelo Mundo",
-      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1451,6 +1411,50 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "27 Dias",
+        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
+      },
+      "artists": [
+        {
+          "name": "Douriel",
+          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 139097,
+      "name": "27 Dias",
+      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1483,30 +1487,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "27 Dias",
-        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
-      },
-      "artists": [
-        {
-          "name": "Douriel",
-          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
-        },
-        {
-          "name": "Dracko",
-          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 139097,
-      "name": "27 Dias",
-      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2023-05-19 03:01:00",

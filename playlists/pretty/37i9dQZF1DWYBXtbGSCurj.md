@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Filipe Ret, Dallas, MC Maneirinho, PJ HOUDINI, Anezzi, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,266 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,515 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Licor 43](https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Licor 43](https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9) | 2:22 |
 | 75 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 
-Snapshot ID: `MCxkZjNhZDUzZmI4NjhlNmI2ODg2MzExNjE5NDRlMWRkM2ZlYjM3NDc1`
+Snapshot ID: `MCwxYWI0MjkyMDVjNjFlZDI3OTZiZjU5Mzk2MjI2NmY5ODlmYTY2NDhi`

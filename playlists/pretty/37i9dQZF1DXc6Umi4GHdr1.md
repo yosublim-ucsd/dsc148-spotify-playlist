@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,269 likes - 132 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,272 likes - 132 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 131 | [Ungebunden](https://open.spotify.com/track/6gzhnN8gcWTyyU9TRAEyCP) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Ungebunden](https://open.spotify.com/album/4kmDAFoVpyDrDN70opmXnY) | 1:37 |
 | 132 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 |
 
-Snapshot ID: `MCxkMjYwMjI4ZTcyMGE1MTgyNzlmZjQzOTgxZTI1MjJhNDZjMThmMTBi`
+Snapshot ID: `MCw3NGU5YjcyYzQwYTIyZmU2MmZmYTBmN2NlODliMzlkY2VmZTc3NDRk`

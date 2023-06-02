@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-273 songs - 22 hr 42 min
+274 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Don't Ever Leave Me](https://open.spotify.com/track/6HpQCQJnF0sYOBgH9nyp0F) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Melody At Night, With You](https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M) | 2:42 | 2022-05-18 | 2022-09-23 |
 | [Don't Explain](https://open.spotify.com/track/2yHAermF5pXf4HQPcbkjy1) | [New York Trio](https://open.spotify.com/artist/6U7yxyvc7JseXp9WbFdQm7) | [夜のブルース](https://open.spotify.com/album/0bGfW2KduWtUnGwBRb5oYW) | 5:56 | 2022-05-18 | 2023-03-27 |
 | [Don't Go to Strangers](https://open.spotify.com/track/3Qly2YrjWrs6Z9X2Wfwo4C) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Ballads](https://open.spotify.com/album/7fb7qwGqfdxJH1fKegVMTr) | 4:37 | 2022-05-18 | 2022-08-27 |
+| [Doubtful](https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Doubtful](https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo) | 3:44 | 2023-05-31 |  |
 | [Easy To Remember](https://open.spotify.com/track/6gW8WmLAWrjH857ZxVBrxK) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Diamond In The Rough](https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf) | 6:10 | 2022-09-08 | 2022-09-23 |
 | [Emigrantvisa](https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 3:27 | 2022-05-26 | 2022-11-11 |
 | [Estrellita](https://open.spotify.com/track/3O7WAvCq2hW9QLgXo5NcH5) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In Mambo](https://open.spotify.com/album/0iAa7v14VpiDTV1lgvkZVK) | 6:56 | 2022-09-08 | 2023-03-18 |
@@ -188,7 +189,7 @@
 | [Pristine](https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Pristine](https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ) | 3:56 | 2022-10-13 |  |
 | [Rain](https://open.spotify.com/track/0U070HY5rBmCyh4SIWHrgN) | [Kenny Barron & Dave Holland](https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP) | [The Art Of Conversation](https://open.spotify.com/album/7Blwoot1kZX3VuiIfHI0jT) | 7:33 | 2022-09-08 | 2022-10-27 |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-11-10 |  |
-| [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-05-18 |  |
+| [Rainy Night House](https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Jochen Rueckert](https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV) | [Some Love Songs](https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB) | 6:30 | 2022-05-18 | 2023-06-02 |
 | [Re: Person I Knew](https://open.spotify.com/track/3V33ldRN2gRQyzojTwjlWP) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 5:43 | 2022-05-18 | 2022-06-23 |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-11-10 |  |
 | [Riddles](https://open.spotify.com/track/4Fsh2vQydc0fJCxCA3DYJD) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Riddles](https://open.spotify.com/album/3ohPksjl6oWAF2NkM9p0Q2) | 3:53 | 2023-02-12 | 2023-04-14 |

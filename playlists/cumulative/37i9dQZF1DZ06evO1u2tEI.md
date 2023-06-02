@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 8 min
+97 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Coming Up Roses](https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 3:10 | 2023-05-24 |  |
 | [Coming Up Roses](https://open.spotify.com/track/56glzc2mZUIJwKsEjKqY8b) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 3:10 | 2022-09-16 | 2023-05-04 |
 | [Coming Up Roses](https://open.spotify.com/track/040SAslpJAljYm1TANiQJ2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc) | 3:10 | 2023-05-03 | 2023-05-24 |
-| [Condor Ave](https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:34 | 2023-05-05 |  |
+| [Condor Ave](https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5) | 3:34 | 2023-05-05 | 2023-06-02 |
+| [Condor Ave](https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:34 | 2023-06-01 |  |
 | [Condor Ave](https://open.spotify.com/track/7MSuEJUiHDa28DyCCZkobJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:34 | 2022-09-16 | 2023-05-06 |
 | [Either/Or](https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:26 | 2023-05-03 | 2023-05-23 |
 | [Either/Or](https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:27 | 2023-05-22 |  |

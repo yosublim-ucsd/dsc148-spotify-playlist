@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,164 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,181 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 | 100 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 
-Snapshot ID: `MCw2MzBiYzU0MjUzYWY2ZTE1ZDIzNjAxMjJmNDViNWUzN2UzMzI0ZGMx`
+Snapshot ID: `MCxmODM3N2U1Mzk4ZTcwZmQyOGNhMzdhZGQ5ZGM2NGRlM2UwNjlkNjVm`

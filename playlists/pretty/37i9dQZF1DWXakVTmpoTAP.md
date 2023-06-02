@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,176 likes - 36 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,182 likes - 36 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 15 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 |
 | 16 | [My Father's Eyes](https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 5:23 |
 | 17 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
-| 18 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 |
-| 19 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 |
+| 18 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 |
+| 19 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 |
 | 20 | [Father and Daughter](https://open.spotify.com/track/4aU1zq0W9Ftg1UAQSj4aHN) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Surprise](https://open.spotify.com/album/3BgJSYve7Hvp80NZ6JWTmK) | 4:11 |
 | 21 | [Daddy Sang Bass](https://open.spotify.com/track/6cyQhHuw8lEXgHGJlXUiR9) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Holy Land](https://open.spotify.com/album/2nydwfDSmSmJaFTNsWK1kG) | 2:20 |
 | 22 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 26 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 27 | [Just Fishin'](https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Proud To Be Here \(Deluxe Edition\)](https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R) | 3:30 |
 | 28 | [He Didn't Have to Be](https://open.spotify.com/track/6sXDEs7z0LLitIPnPBJ4QM) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 4:42 |
-| 29 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
-| 30 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
+| 29 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
+| 30 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
 | 31 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
 | 32 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
 | 33 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
 | 34 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
-| 35 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
-| 36 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
+| 35 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
+| 36 | [I'm Her Daddy](https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 3:18 |
 
-Snapshot ID: `MCw0YzUyMzNiNzAwYThiNTAyZGY4OTUxNTg0NWRmYTYxYTYwNGFjMjg5`
+Snapshot ID: `MCw3YzhmNmRiZjJiMDE0NmYzODJmMWRmM2VmYmI1ZmE5YmY5ZGMyYzgw`

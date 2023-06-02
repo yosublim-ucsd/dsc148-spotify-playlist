@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 192000,
       "name": "90's Honey",
       "url": "https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj"
@@ -12820,6 +12820,24 @@
       "duration_ms": 218093,
       "name": "When Can I See You Again? - From \"Wreck-It Ralph\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS"
+    },
+    {
+      "album": {
+        "name": "When I Die",
+        "url": "https://open.spotify.com/album/6KF5zlT9iFtWPYNBdPTCzR"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "date_added": "2023-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162510,
+      "name": "When I Die",
+      "url": "https://open.spotify.com/track/25AEte8XqBCT7NaBvBum9n"
     },
     {
       "album": {

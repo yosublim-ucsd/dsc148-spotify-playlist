@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 18996,
+  "num_followers": 19122,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMyOTk5MTZiMjA3YzJmMDM4NDMyNjQ3ZWZkMzY1YmUyNDgwNjBj",
+  "snapshot_id": "MCw0Yjg1NzQ4ZmNkZDNjODgwNjBkNGEwNGEyNzM1ODA2NGYzNjVhOTMz",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -535,30 +535,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/6jCF6MQ050engg73RJnN87"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1295,34 +1295,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Sexy (feat. Marlku)",
-        "url": "https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC"
-      },
-      "artists": [
-        {
-          "name": "Eich",
-          "url": "https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT"
-        },
-        {
-          "name": "Marlku",
-          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 254852,
-      "name": "Sexy (feat. Marlku)",
-      "url": "https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Mi Llamada (Remix)",
         "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
@@ -1359,6 +1331,34 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Sexy (feat. Marlku)",
+        "url": "https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC"
+      },
+      "artists": [
+        {
+          "name": "Eich",
+          "url": "https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT"
+        },
+        {
+          "name": "Marlku",
+          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 254852,
+      "name": "Sexy (feat. Marlku)",
+      "url": "https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D"
     },
     {
       "added_at": "2022-12-09 03:00:00",

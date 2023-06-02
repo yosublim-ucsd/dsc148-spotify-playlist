@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Meghan Patrick
+> Music City must\-hears\. Cover: Tanner Adell
 
 1,360 songs - 3 day 0 hr 53 min
 
@@ -1333,7 +1333,7 @@
 | [Won't Take Long](https://open.spotify.com/track/74Dl7wlwTe0IxUca6OnJ1y) | [Tyler Thompson](https://open.spotify.com/artist/46Jet9gQzP9jN5oZgJniHf) | [Won't Take Long](https://open.spotify.com/album/29qdLeoY16JjSQz4JbVD19) | 3:31 | 2022-09-09 | 2023-01-14 |
 | [Wontcha Come Back Home](https://open.spotify.com/track/0bajom7zVRKj2PbMuglb2k) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Wontcha Come Back Home](https://open.spotify.com/album/49HsmL21YRTHZgvBy0C5vF) | 3:28 | 2022-01-21 | 2022-03-26 |
 | [Workin' Man](https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Workin' Man](https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX) | 3:38 | 2022-06-24 | 2022-09-10 |
-| [Workin' On It](https://open.spotify.com/track/1ektFiN3uZMv134ypFwk0B) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Workin' On It](https://open.spotify.com/album/0KCg7AT4vy0ca1q2Ikig4G) | 3:01 | 2023-05-12 |  |
+| [Workin' on It](https://open.spotify.com/track/1ektFiN3uZMv134ypFwk0B) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Workin' On It](https://open.spotify.com/album/0KCg7AT4vy0ca1q2Ikig4G) | 3:01 | 2023-05-12 |  |
 | [World Before You](https://open.spotify.com/track/2GMyhPdyEg0SjA6dAjlYso) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [World Before You](https://open.spotify.com/album/5HUTnGiklsUwO4XeDdM01u) | 2:58 | 2022-08-12 | 2022-10-01 |
 | [World Without You](https://open.spotify.com/track/1dNOLKiQtTTU0HegRENQNO) | [Southerland](https://open.spotify.com/artist/5Fft88xB3YSwSWzdS42xyf) | [World Without You](https://open.spotify.com/album/1UQSQ2qiWuDjhefi8ZJoma) | 3:26 | 2023-04-14 |  |
 | [Worse Than Gone](https://open.spotify.com/track/7a0PMim6XfCz44p9CXGMef) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Worse Than Gone](https://open.spotify.com/album/19On2Q8HRB5G727kA8FNh2) | 3:32 | 2023-03-17 |  |

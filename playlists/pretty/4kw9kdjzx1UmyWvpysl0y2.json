@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127152,
+  "num_followers": 127155,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIyNSxhZjQ4YjVkNTcwMDJkOWZiZjI3ZjFlNjhiM2M1Mjg5N2Y4ZWNjN2I4",
+  "snapshot_id": "NDIyOCw4NWQzZTgyZDQ3MGVhYTZhYjdhNjhmMzFjNzA0MmFmMjEyODY5MzQz",
   "tracks": [
+    {
+      "added_at": "2023-06-01 18:28:42",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+    },
     {
       "added_at": "2023-05-31 20:00:09",
       "album": {
@@ -1079,26 +1099,6 @@
       "duration_ms": 225000,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV"
-    },
-    {
-      "added_at": "2023-03-13 17:59:48",
-      "album": {
-        "name": "Fire In Your Eyes",
-        "url": "https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W"
-      },
-      "artists": [
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        },
-        {
-          "name": "Lane Boy",
-          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Fire In Your Eyes",
-      "url": "https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

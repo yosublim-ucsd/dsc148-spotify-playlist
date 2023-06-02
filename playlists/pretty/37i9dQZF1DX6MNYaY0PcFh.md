@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,446 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,502 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 29 | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/track/5fHAZKWoCWC5lzDqWw49e6) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09) | 2:50 |
 | 30 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 |
 | 31 | [Up De Flats](https://open.spotify.com/track/1VZqn2CpJjkewNFpZj488S) | [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [Up De Flats](https://open.spotify.com/album/0mCCeAdYsdD0M3aYUb3CHQ) | 4:58 |
-| 32 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
-| 33 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
+| 32 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 |
+| 33 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 | 34 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 35 | [Exhale](https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/3FGBDhlwrAPNv486sGmYSS) | 2:50 |
 | 36 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 53 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
 | 54 | [Belly](https://open.spotify.com/track/2HpCoa9ca8wJJ16MfTCO2g) | [Sakawah Boys](https://open.spotify.com/artist/6acCQ9HxRoWqOHUMMROhkP) | [Belly](https://open.spotify.com/album/3P0RwvqGI07Nxj7KnjVyku) | 3:56 |
 | 55 | [Doubt](https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Doubt](https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5) | 3:24 |
-| 56 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
-| 57 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
-| 58 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
-| 59 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\) \- Conducta Remix](https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ain't It Different \- Conducta Remix \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l) | 3:46 |
+| 56 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
+| 57 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
+| 58 | [Ain't It Different \(feat\. AJ Tracey & Stormzy\) \- Conducta Remix](https://open.spotify.com/track/15rKTPi84iL42VG8ANdnr4) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Ain't It Different \- Conducta Remix \(feat\. AJ Tracey & Stormzy\)](https://open.spotify.com/album/0xbCYDk4vmhlHoa7TZ9t2l) | 3:46 |
+| 59 | [Visions](https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Visions](https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa) | 2:15 |
 | 60 | [Heavy](https://open.spotify.com/track/3WPrjsHFgOMAkjHB0G6fe6) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Heavy](https://open.spotify.com/album/0PvyqBQvzdeWUar4hQUMlD) | 2:43 |
 
-Snapshot ID: `MCxiZDBiNDg0MTY3YzJjNmFiMTZkYjJlNTlmNTEwNzY1OTJjN2NmYTk0`
+Snapshot ID: `MCwwZDUwMmQ2YWJhMjU2YzdlNmY3ZTM3MmMxNmRhMTg4MjcwZTg0YjBl`

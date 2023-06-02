@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,012 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,010 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
 | 50 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
 
-Snapshot ID: `MCxiNGY3NWE1ZmVkODMyZDRlODBjNTkwZjBhYzMyZmVjMDk0OGRiNjVh`
+Snapshot ID: `MCwxZGNmMWU5Zjk1MDI4ODlkMDc0ODBkNWUxNWU1OWE0Y2RlMjZhODVm`

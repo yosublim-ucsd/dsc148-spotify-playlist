@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 66 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 66 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 16 | [Pour Some Sugar On Me](https://open.spotify.com/track/0VdBxLmYD7dN7SOZZ4TEoO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:26 |
 | 17 | [Circles of Time](https://open.spotify.com/track/7ss9jndV1RjZKgD5r1pczG) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Mirror To The Sky](https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje) | 4:55 |
 | 18 | [Knockin' On Heaven's Door \- Live at The Royal Albert Hall](https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Knockin' On Heaven's Door \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7) | 6:11 |
-| 19 | [The Girls Want To Be With The Girls \- Live 1978](https://open.spotify.com/track/0oTx1etU4WlbT99FiZ1yqr) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Take The Highway \(Live\)](https://open.spotify.com/album/1zODXAvlJanhqV9WNIQrdV) | 4:10 |
-| 20 | [Too Late \- Live 1986](https://open.spotify.com/track/3Zb1ij7HDCTj2oZ2kwzrNv) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Outland \(Live 1986\)](https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR) | 4:47 |
+| 19 | [Warning Sign \- Live 1978](https://open.spotify.com/track/1aA6w496GtasaDXEFuU2sr) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Take The Highway \(Live\)](https://open.spotify.com/album/1zODXAvlJanhqV9WNIQrdV) | 4:33 |
+| 20 | [Stone In Love/Keep On Runnin� \- Live 1981](https://open.spotify.com/track/7pIq2A7MKObHg0Aq5RADvc) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Outland \(Live 1986\)](https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR) | 8:32 |
 | 21 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
 | 22 | [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 |
 | 23 | [Another Chance](https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Sleep, and I Will Sing](https://open.spotify.com/album/1Uzm2LM1hoellDYBaTgL0p) | 4:04 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 65 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
 | 66 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
 
-Snapshot ID: `MjgwODQ1NjAsMDAwMDAwMDBkN2IxNTFhMWY3MWE0ZDAzNDU3ZjFjNTdkOTY1YjY5NQ==`
+Snapshot ID: `MjgwODQ1NjAsMDAwMDAwMDA5MjA4NzQ1MTM2NzNiMTEyZTFkZTUyMTJiZGYyZjBjNg==`

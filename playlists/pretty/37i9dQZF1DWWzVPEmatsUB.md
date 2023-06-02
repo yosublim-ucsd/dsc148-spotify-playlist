@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,156 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,151 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 |
 | 100 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 |
 
-Snapshot ID: `MCw2MmIwZjM4NDVlMzlhYmQ2NTdmZjg3NGE3ZWU2NTU5MDAzZDNiNTI2`
+Snapshot ID: `MCxiMjEwMDE4YzQ1MDJkZDUzYWY3MjFkZTYxZWVhYWEyMTg0N2M3Y2Yw`

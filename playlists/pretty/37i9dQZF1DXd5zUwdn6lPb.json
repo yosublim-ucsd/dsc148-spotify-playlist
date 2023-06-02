@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 258027,
+  "num_followers": 258152,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDYyZTBmNmM0YmQwZGY0OTFmNmRiMDVlMTZkOWZlNWRhODliNmUw",
+  "snapshot_id": "MCw2MDNhMTJhZmRkNzQ1YjM2Y2ZmZDNmM2ZkMWE0YzUxNjk5MGRkM2Q0",
   "tracks": [
     {
       "added_at": "2023-03-03 13:28:12",
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn"
     },
     {
-      "added_at": "2023-06-01 03:00:38",
+      "added_at": "2023-06-02 02:41:10",
       "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Myslive\u010dek: Symphonies",
-        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
-      },
-      "artists": [
-        {
-          "name": "Josef Myslive\u010dek",
-          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
-        },
-        {
-          "name": "Matthias Bamert",
-          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
-      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Myslive\u010dek: Symphonies",
+        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
+      },
+      "artists": [
+        {
+          "name": "Josef Myslive\u010dek",
+          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+        },
+        {
+          "name": "Matthias Bamert",
+          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
+      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
@@ -1556,13 +1556,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1587,6 +1587,26 @@
       "duration_ms": 255960,
       "name": "Symphony No. 1 in C Major, \"Die 4 Weltalter\" (the 4 Ages of the World): I. Larghetto",
       "url": "https://open.spotify.com/track/2rDBgkiueKILUcTSBGhSFs"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1619,26 +1639,6 @@
       "duration_ms": 169000,
       "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante moderato",
       "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1759,8 +1759,8 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
+        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
       },
       "artists": [
         {
@@ -1768,13 +1768,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
         }
       ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+      "duration_ms": 83960,
+      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
+      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
     },
     {
       "added_at": "2023-03-03 13:28:12",

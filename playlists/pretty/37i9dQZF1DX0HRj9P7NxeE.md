@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,764,869 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,764,985 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 35 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 36 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
 | 37 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 |
-| 38 | [Snatched \(with Flo Milli & Saucy Santana\) \- Remix](https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Snatched \(Remix\)](https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG) | 2:39 |
+| 38 | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0) | 3:04 |
 | 39 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 | 40 | [SDA](https://open.spotify.com/track/5Wm3pvd8VvareekRsF0RmH) | [DOM](https://open.spotify.com/artist/6pJm59FMQbQOjtdwqhiTB5), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [SDA](https://open.spotify.com/album/43Z6MkJfk2DA8raUpIeDU4) | 2:46 |
-| 41 | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0) | 3:04 |
+| 41 | [Snatched \(with Flo Milli & Saucy Santana\) \- Remix](https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Snatched \(Remix\)](https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG) | 2:39 |
 | 42 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 |
 | 43 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 44 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 |
 | 50 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
 
-Snapshot ID: `MCxiOWU3OTMwMjAyYzQyMTNhYWQ5OWMzZjI3Nzg0MmYzYjcyMjZkMDU0`
+Snapshot ID: `MCw5ZmQwM2UzZTkyY2EzZWE4N2UzN2E2Y2FkYjk1ZjdiYTYzOWU2N2Qz`

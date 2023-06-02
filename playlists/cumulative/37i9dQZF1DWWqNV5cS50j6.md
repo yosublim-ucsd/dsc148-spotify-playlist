@@ -4,7 +4,7 @@
 
 > Portraits Of Tracy makes anti pop.
 
-1,401 songs - 2 day 19 hr 35 min
+1,402 songs - 2 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,6 +1306,7 @@
 | [Up Up and Away](https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:34 | 2020-10-13\* | 2021-12-22 |
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2021-02-13 | 2021-10-16 |
 | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [ur the devil and i’ve seen the truth \(feat\. Verzache\)](https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn) | 2:38 | 2023-01-20 | 2023-04-15 |
+| [ur the only one i'm talking to](https://open.spotify.com/track/1UKBcM9Xs7k0bmbjeNivNn) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 1:56 | 2023-06-01 |  |
 | [Valencia](https://open.spotify.com/track/7BVH1tmlaqqYRib3HBAzZK) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/6vghAthgt2viFedIbnHSYR) | 1:58 | 2021-02-27 | 2021-06-05 |
 | [Vampire \(feat\. Danny Brown\)](https://open.spotify.com/track/6zZawNvMdrudxDVcV9Es6m) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Vampire \(feat\. Danny Brown\)](https://open.spotify.com/album/66T7AdyJBTiGZMeVQIa65o) | 2:20 | 2021-10-11 | 2021-10-14 |
 | [Vampire \(feat\. Danny Brown\)](https://open.spotify.com/track/7CBuIUanGCOe5BZVhtwoyL) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Rap In A Can](https://open.spotify.com/album/5Td9t2SO73MbYz4r18n2rN) | 2:20 | 2021-10-09 | 2021-10-16 |

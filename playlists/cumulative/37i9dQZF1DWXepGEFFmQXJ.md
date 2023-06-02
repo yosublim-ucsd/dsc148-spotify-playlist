@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: James Johnston
+> The cream of today's Country crop\. Cover: Casey Barnes
 
-360 songs - 19 hr 44 min
+365 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-21 | 2022-08-23 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2023-01-05 |  |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-09 | 2022-10-21 |
+| [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-01 |  |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-08-22 |  |
 | [Darts in the Dark](https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Darts in the Dark](https://open.spotify.com/album/72qFlRjiGC6RJey0c4yHHD) | 3:13 | 2021-12-30 | 2022-05-20 |
 | [Dead To Me](https://open.spotify.com/track/4i2O11UnrFyCvW1X4aZT28) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Dead To Me](https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF) | 2:58 | 2022-10-13 | 2023-04-21 |
@@ -185,6 +186,7 @@
 | [Light It Up](https://open.spotify.com/track/7zHOg6Bu16YZvvRXnlKgWP) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 2:50 | 2022-02-24 | 2022-09-09 |
 | [Light Up The Airwaves](https://open.spotify.com/track/4bc1WxxRih1DhmTOXp1jIh) | [Bo'Ness](https://open.spotify.com/artist/1eIMWikZJoA0pyyW0fGIf1) | [Light Up The Airwaves](https://open.spotify.com/album/280h5hRIc1lkmsTaA95GNt) | 3:08 | 2022-03-31 | 2022-05-27 |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-05-06 | 2022-09-30 |
+| [Like It Like It Is](https://open.spotify.com/track/2oAXPZqPeQqIjUIawx5Is5) | [Max Jackson](https://open.spotify.com/artist/6uxoiISyynknybWW6SQrTe) | [Like It Like It Is](https://open.spotify.com/album/6cXk05iNUlYUsZ4EPlSON0) | 3:15 | 2023-06-01 |  |
 | [Like No Tomorrow](https://open.spotify.com/track/48vb30d7J5EiOkU2Leru8i) | [Zac Cross Band](https://open.spotify.com/artist/6l91CwKtYnZKbKbGS0CRIw) | [Times Like These](https://open.spotify.com/album/2iyC4Ep2MctUUcBA3YRBEy) | 4:00 | 2022-09-29 | 2022-12-16 |
 | [Livin' The Dream](https://open.spotify.com/track/7wzBIZ2654ZJK8iu6bPolW) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Livin' The Dream](https://open.spotify.com/album/34W2QQF9MntXEY5VK6HM8r) | 3:33 | 2022-11-17 | 2023-05-26 |
 | [Living For The Highlights](https://open.spotify.com/track/7hlZQf6RvZytRuAH1EugJS) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg), [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Living for the Highlights](https://open.spotify.com/album/4wCuBfk4L6tw93a76j2v3s) | 3:13 | 2022-07-21 | 2022-09-30 |
@@ -233,6 +235,7 @@
 | [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-02-23 | 2023-05-12 |
 | [Out Of That Truck](https://open.spotify.com/track/1xdsRkWxWWUkKhh9hRtfYp) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Out Of That Truck](https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ) | 2:57 | 2023-03-09 |  |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-06-23 | 2022-09-16 |
+| [Outskirts](https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Outskirts](https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh) | 3:02 | 2023-06-01 |  |
 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 | 2022-10-20 |  |
 | [Paid for Drinking Beer](https://open.spotify.com/track/11oJonCsKfg0OCguWx66kf) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [Paid for Drinking Beer](https://open.spotify.com/album/4nAkZQ5lkuCU82ad47TF5P) | 3:12 | 2022-06-16 | 2022-08-27 |
 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-03-09 |  |
@@ -331,6 +334,7 @@
 | [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-01-05 |  |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-28 | 2022-09-24 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-03-31 | 2022-07-29 |
+| [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 | 2023-06-01 |  |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-09-08 | 2023-02-17 |
 | [Try That In A Small Town](https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Try That In A Small Town](https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO) | 3:00 | 2023-05-25 |  |
 | [Try To Forget You](https://open.spotify.com/track/1lYZtEEGD1UtpSiT9J8Dtc) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Try To Forget You](https://open.spotify.com/album/1SrKEKh22rvCW04I33xlHb) | 3:06 | 2023-02-23 |  |
@@ -350,6 +354,7 @@
 | [When It Was Easy](https://open.spotify.com/track/75EJtBCswkmEXWnfTAP8DN) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [When It Was Easy](https://open.spotify.com/album/5pjcZkvg4W6Whe7Ak292jG) | 2:19 | 2022-11-03 | 2023-03-31 |
 | [When Summer Rolls Around](https://open.spotify.com/track/1GMB1aiS4IT58g9LaUehcN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [When Summer Rolls Around](https://open.spotify.com/album/5NMwJDRtnNbT8xmnBuEHry) | 2:54 | 2023-04-27 |  |
 | [Where Do We Go](https://open.spotify.com/track/1F5XEDslgSefeZsY2FQRlw) | [Yochai Harpaz](https://open.spotify.com/artist/3fzVomDV4c7uvquIkzpdTg) | [Where Do We Go](https://open.spotify.com/album/0mhA076UonW1mofUE8HnGG) | 3:16 | 2022-08-11 | 2022-10-14 |
+| [Where Does That Leave Me?](https://open.spotify.com/track/7JgRiufH2p2JqsvVavbvtw) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Where Does That Leave Me?](https://open.spotify.com/album/4VrfLVjChO54xK7tx1foCx) | 3:26 | 2023-06-01 |  |
 | [Where It Ends](https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Where It Ends](https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l) | 2:59 | 2022-08-18 | 2022-12-24 |
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-03-31 | 2022-08-23 |
 | [Whiskey Me Away](https://open.spotify.com/track/0wF5NIMrLi7ZzsFiDNVqIB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Whiskey Me Away](https://open.spotify.com/album/1lOiIiSj6MYinTYSMg0yOb) | 3:14 | 2021-12-30 | 2022-04-01 |

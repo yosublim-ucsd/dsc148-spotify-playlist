@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Mau P
 
-1,090 songs - 2 day 15 hr 45 min
+1,091 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Get Down](https://open.spotify.com/track/325P6RTcKaZ52yjr2zUSCH) | [Healy](https://open.spotify.com/artist/1qduYDRJMSnCuIlJEoPOuF), [Gouldson](https://open.spotify.com/artist/5WyDqoLe8cPBcyax1nh6cJ) | [Get Down](https://open.spotify.com/album/091KAYPBm3LpuKnfgTIEad) | 5:37 | 2021-11-26 | 2022-01-06 |
 | [Get Down Low \(Dip\)](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low \(Dip\)](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 | 2022-06-10 | 2022-09-10 |
 | [Get High](https://open.spotify.com/track/5dYXmVIyaK17kYQirpz8co) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Givin It Bifters](https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN) | 4:00 | 2022-03-11 | 2022-06-04 |
+| [Get It \- Radio Edit](https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Get It](https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9) | 2:19 | 2023-05-19 |  |
 | [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-06-01 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 |  |
 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 | 2022-05-06 | 2022-06-04 |
@@ -469,7 +470,7 @@
 | [Juice](https://open.spotify.com/track/6b7R3Q68pCvUIxWtWueOtO) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Juice](https://open.spotify.com/album/4Iko7b7OHyfhPHrCN7WWdf) | 2:57 | 2022-02-04 | 2022-04-23 |
 | [Jump Around](https://open.spotify.com/track/63fQTOIVo5EMZauf2QAH5W) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Jump Around](https://open.spotify.com/album/5Z95AOwQ0sR9xIMkmhqbzJ) | 2:28 | 2021-11-26 | 2022-05-14 |
 | [Jungle](https://open.spotify.com/track/7qUKunNI8Gvfn6uM2EOhLE) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Jungle](https://open.spotify.com/album/26jD9l49XNSn8rBbpDuOsT) | 2:55 | 2021-11-26 | 2022-06-04 |
-| [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 | 2023-03-17 |  |
+| [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 | 2023-03-17 | 2023-06-02 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-11-26 | 2022-01-06 |
 | [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 | 2023-04-21 |
 | [Kebali](https://open.spotify.com/track/7jBXtUxifBXcBZmK1hV0ap) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Three](https://open.spotify.com/album/2VYiuRSAWChwOTf8R8kzDp) | 3:36 | 2021-12-10 | 2022-04-23 |

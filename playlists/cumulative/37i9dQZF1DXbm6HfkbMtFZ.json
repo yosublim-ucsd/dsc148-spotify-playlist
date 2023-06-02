@@ -4580,6 +4580,24 @@
     {
       "album": {
         "name": "From Liberty Street",
+        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202120,
+      "name": "Life On Fire",
+      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
+    },
+    {
+      "album": {
+        "name": "From Liberty Street",
         "url": "https://open.spotify.com/album/4ynhHENlk6XiUvUggynWdW"
       },
       "artists": [
@@ -5456,7 +5474,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 222213,
       "name": "Nantucket Island",
       "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"

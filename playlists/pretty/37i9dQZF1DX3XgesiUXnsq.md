@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Belly
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,178 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,308 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 100 | [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 |
 
-Snapshot ID: `MCxhODlmZTExMzRiNDFlNTkxYWM3Zjc5Zjc1ODQwNjM2MmNiMTQzZGMy`
+Snapshot ID: `MCwyOWIyODgzMGIzMDc5OWRkNjY3YmQ4YzVlMjBlNmQ1NjAwNzc3ZGQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,213 likes - 130 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,245 likes - 130 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 129 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 |
 | 130 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 |
 
-Snapshot ID: `MCw3NjlmMmZlYWU2NjQ4OTcxMGI0OTJjMzlmMWRmMjVjZTg2YWQ4ZmY3`
+Snapshot ID: `MCxkNDkxYjk2YTkzMDM3Mjk5MWNmMWJiYjc5MTc2OGE4MzFjMTA2OWU0`

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-637 songs - 1 day 14 hr 58 min
+638 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [For Your Mind](https://open.spotify.com/track/0BrmTgrtXvkPkyJA9quEUo) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [For Your Mind](https://open.spotify.com/album/7zKl8SBKcAG5FvxOWw4i5M) | 3:32 | 2021-12-17 | 2022-02-26 |
 | [Forests](https://open.spotify.com/track/6ZHmoAgOoGjb4HzEBqTzsL) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Forests](https://open.spotify.com/album/5P5FEpvLLANtp0hcIFyXAH) | 3:14 | 2023-02-24 |  |
 | [Forever](https://open.spotify.com/track/4C6uD2tR7wwLoR1KIgk7Hb) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Forever](https://open.spotify.com/album/3v8q4sJs2qAGUqCmyjkb6M) | 2:55 | 2021-12-17 | 2022-03-12 |
+| [Forever \- Christopher Corrigan Remix](https://open.spotify.com/track/3SZTrJcyuLhAoPTwLDl0Je) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8), [Rebecca Louise Burch](https://open.spotify.com/artist/2xakyy51UCHjVwIvHGNpdY) | [Forever](https://open.spotify.com/album/5zp9XkQBSaz7i8A8t8j6bo) | 3:28 | 2023-05-26 |  |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 |  |
 | [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 |  |
 | [Freak Of The Week](https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Freak Of The Week](https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R) | 3:24 | 2023-01-13 |  |
@@ -238,7 +239,7 @@
 | [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/0csxaKH8pDLL39JSy6rpGX) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2023-03-04 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
 | [Greatest Gift](https://open.spotify.com/track/3LznVdJVVTLxYY7iXkVdWT) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Yelow](https://open.spotify.com/artist/0GLDtPfnUd5hQ18yba1xDi), [Capri](https://open.spotify.com/artist/36BbBuMd9ZJHGxYrPbcB84) | [Greatest Gift](https://open.spotify.com/album/4auc1shQt7cTIWHaVt3caC) | 3:40 | 2023-04-07 |  |
-| [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 |  |
+| [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 | 2023-06-02 |
 | [Halcyon](https://open.spotify.com/track/1UwdPwhkyr8X4lr0HAoKMV) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Halcyon / Mirage](https://open.spotify.com/album/5poQ53iK8aEysv02gdjWkZ) | 3:45 | 2022-11-25 |  |
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-15 | 2022-04-19 |
 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 | 2023-01-20 | 2023-05-20 |

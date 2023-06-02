@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 313308,
+  "num_followers": 313379,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDA1MTBkYWU5Yzk5NzE3ZTcxZDE2NWI2YmQwMTdlMDBlN2NlNTlh",
+  "snapshot_id": "MCwxNmU1ZTQxNzNjNjQ5MDAyMzZlNzg1YjA1NTEyMjU4M2YxMGViY2Fh",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -501,6 +501,30 @@
       "url": "https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily"
     },
     {
+      "added_at": "2023-06-02 00:29:19",
+      "album": {
+        "name": "Does Spring Hide Its Joy",
+        "url": "https://open.spotify.com/album/6nyQxFxYoOAh2nkW6sShAZ"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        },
+        {
+          "name": "Stephen O'Malley",
+          "url": "https://open.spotify.com/artist/6JOZsxwBJZm4bhcEy7gLIU"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "duration_ms": 1363000,
+      "name": "Does Spring Hide Its Joy v2.3",
+      "url": "https://open.spotify.com/track/50I2lezRqDOI6lsormfvSG"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Persona",
@@ -619,22 +643,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "async",
-        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 232073,
-      "name": "solari",
-      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -649,20 +657,20 @@
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
-      "added_at": "2022-10-14 13:00:12",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+        "name": "async",
+        "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 347981,
-      "name": "Vision of Self",
-      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
     },
     {
       "added_at": "2023-05-12 04:18:59",
@@ -683,6 +691,22 @@
       "duration_ms": 487028,
       "name": "Ixtlilxochitl",
       "url": "https://open.spotify.com/track/5SGi1nqrlVyf6Qgij2H5xp"
+    },
+    {
+      "added_at": "2022-10-14 13:00:12",
+      "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 347981,
+      "name": "Vision of Self",
+      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -733,22 +757,6 @@
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Broken Hearted Kota",
-        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
-      },
-      "artists": [
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Broken Hearted Kota",
-      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
-    },
-    {
       "added_at": "2023-04-06 01:07:54",
       "album": {
         "name": "Spring Siesta",
@@ -771,6 +779,22 @@
       "duration_ms": 241742,
       "name": "Spring Siesta",
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Broken Hearted Kota",
+        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Broken Hearted Kota",
+      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -821,40 +845,24 @@
       "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2023-06-02 00:49:40",
       "album": {
-        "name": "Spain",
-        "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
+        "name": "Two Men in a Boat",
+        "url": "https://open.spotify.com/album/6Q8AsPluGFM1GBZsSBpEgX"
       },
       "artists": [
         {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+          "name": "Gh\u00e9dalia Tazart\u00e8s",
+          "url": "https://open.spotify.com/artist/13c7WwsaOvuzDXqEFtSnda"
         },
         {
-          "name": "Steve Sobs",
-          "url": "https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0"
+          "name": "Rhys Chatham",
+          "url": "https://open.spotify.com/artist/5xzxiSk1Y7Qd7pWnQL5r04"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Spain",
-      "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/6pZmk1elg3IJx4rMiGPnXl"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 483594,
-      "name": "Sais",
-      "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
+      "duration_ms": 414013,
+      "name": "'Jardin de Simone' Acte 2",
+      "url": "https://open.spotify.com/track/0rCDmpoGGU5WeCghQRXA9M"
     }
   ],
   "unique_name": "Deep Listening",

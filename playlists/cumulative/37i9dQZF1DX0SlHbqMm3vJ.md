@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Nonso Amadi
 
-383 songs - 19 hr 21 min
+384 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Life](https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s) | [Ada](https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg) | 3:50 | 2022-01-21 | 2022-06-14 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-27 |  |
 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 | 2021-10-14 | 2022-02-25 |
+| [Lose Ya](https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:00 | 2023-05-26 |  |
 | [Loud](https://open.spotify.com/track/5JHZt404UXlozqWc1opVkt) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Wondergirl](https://open.spotify.com/album/5gX8CJicdyXFqlUtYTNqF6) | 2:27 | 2021-10-14 | 2022-07-29 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-02-10 |  |
 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2021-10-14 | 2022-07-28 |
@@ -319,7 +320,7 @@
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |
 | [Something Different](https://open.spotify.com/track/60sRT3aNeHYRyr8vKLzHel) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Something Different](https://open.spotify.com/album/4HwCvev4o75rimZ4olJAPW) | 2:55 | 2021-10-14 | 2022-07-29 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 |  |
-| [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-16 |  |
+| [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-16 | 2023-06-02 |
 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 | 2021-10-14 | 2023-05-27 |
 | [SPUNK](https://open.spotify.com/track/6CY2Bg6y16n0OZ3NBdEqFY) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [MWWU](https://open.spotify.com/album/0NBaKfplyaTuveWlC1oB0z) | 3:44 | 2021-10-14 | 2022-07-29 |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-03-16 |  |
@@ -352,7 +353,7 @@
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-20 | 2023-04-21 |
 | [True Love](https://open.spotify.com/track/3zIQorpWksqb8e9sTUTj0V) | [MABIINA](https://open.spotify.com/artist/2SeOkxsg8Vuf3hdvnVPdmn) | [True Love](https://open.spotify.com/album/3xut4Jkf6LjKioaKhG52TD) | 3:17 | 2022-03-16 | 2022-04-21 |
 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 | 2021-10-14 | 2022-09-24 |
-| [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 | 2023-04-20 |  |
+| [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 |  |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 | 2022-02-12 |
 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 | 2021-10-14 |  |
 | [Unconditionally](https://open.spotify.com/track/2Wa67iymOfKbetMWP2uYiV) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Unconditionally](https://open.spotify.com/album/6oiBC8br4masllouRuOdP7) | 3:17 | 2021-10-14 | 2023-05-20 |

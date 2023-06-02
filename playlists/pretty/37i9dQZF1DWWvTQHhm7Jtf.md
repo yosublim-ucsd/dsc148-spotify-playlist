@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,744 likes - 70 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,765 likes - 70 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 19 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 20 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [Kazufumi Kodama & Undefined](https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
 | 21 | [Subtotem](https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg) | [Mount Shrine](https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr) | [Shortwave Ruins](https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM) | 7:14 |
-| 22 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
-| 23 | [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 |
+| 22 | [Dear Ko \(To Ko the Regt\)](https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Jim Doney](https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8) | [Point Zero](https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI) | 3:11 |
+| 23 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
 | 24 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 25 | [entropy & kindness](https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG), [Lara Sarkissian](https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW) | [entropy & kindness](https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX) | 4:21 |
 | 26 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 36 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 37 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 |
 | 38 | [Palace Posy](https://open.spotify.com/track/2nJB27OfeX9Z5ROl3uZngi) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:05 |
-| 39 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
-| 40 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 39 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 40 | [On Plateau](https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Between No Things](https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj) | 3:55 |
 | 41 | [Water Soaked In Forever](https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 6:10 |
 | 42 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 43 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 55 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 56 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
 | 57 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
-| 58 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
+| 58 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 |
 | 59 | [Two Halves Touching](https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 3:50 |
 | 60 | [Toucan Ocean](https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 3:49 |
 | 61 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 |
 | 62 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
-| 63 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
-| 64 | [The Loss of Wilderness](https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7) | 5:57 |
+| 63 | [The Loss of Wilderness](https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7) | 5:57 |
+| 64 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 |
 | 65 | [Fearless](https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 8:02 |
 | 66 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 |
 | 67 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 69 | [Orbit](https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 4:07 |
 | 70 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 |
 
-Snapshot ID: `MCw0MDJhZDZmZjVhMDUzYWVjYTk3MTlkMzc4MDkzMWZjNWI4NGZlNWY5`
+Snapshot ID: `MCwyMTBiYzE0OTQyYjEzYTFhMzA4OGRmNDZiOGZjMTU2MTIzYTRiMDA1`

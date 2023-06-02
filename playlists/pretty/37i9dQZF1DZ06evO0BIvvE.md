@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,187 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,188 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 44 | [Malorie](https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 3:47 |
 | 45 | [I Gotta Put This Life Down](https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 4:45 |
 | 46 | [Everybody's Breakin' Up](https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:02 |
-| 47 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
-| 48 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
-| 49 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 |
-| 50 | [Be Truthful to Me](https://open.spotify.com/track/2qvVFJqlGwSmAsdqpew5xv) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 3:08 |
+| 47 | [I Only Have Eyes for You](https://open.spotify.com/track/5CLVqVWtdEprTlBqMZPcLh) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Lately](https://open.spotify.com/album/7C5aOmsPLgSPGdmy0kpS2I) | 4:22 |
+| 48 | [Compared to What](https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 5:19 |
+| 49 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Ebony Woman](https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc) | 3:50 |
+| 50 | [People Power](https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [People Power](https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR) | 5:49 |
 
-Snapshot ID: `MjgwOTIyOTAsMDAwMDAwMDA4ZmM0MjNlOWI1MGQyODBmMjBlMzgyMGU0MjVhNzE5Mw==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDBjZDA3NTk3MmRlNDg0ZGVlNjk0YzQzNmE0NzA3MDhlYw==`

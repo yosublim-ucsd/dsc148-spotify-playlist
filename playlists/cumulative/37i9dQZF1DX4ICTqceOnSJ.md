@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-87 songs - 4 hr 59 min
+88 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 | 2023-03-19 |  |
 | [Bien y Mal](https://open.spotify.com/track/4JRT5cZDnJZikd854n61Yc) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Bien y Mal](https://open.spotify.com/album/25Q8VvprqtdRKYWG4w6VAv) | 3:55 | 2023-04-12 |  |
 | [Blin Blin](https://open.spotify.com/track/6cg36xQgUAsbRJ6xaadKWD) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Blin Blin](https://open.spotify.com/album/3Qz5C0bjoDOCfEe9FldQVC) | 3:18 | 2023-03-19 | 2023-05-15 |
-| [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-03-19 |  |
+| [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-03-19 | 2023-06-02 |
 | [Cada Vez Te Extraño Menos](https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Cada Vez Te Extraño Menos](https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is) | 2:42 | 2023-03-19 | 2023-05-11 |
 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 |  |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-03-19 | 2023-05-09 |
@@ -58,6 +58,7 @@
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
 | [Mala Mia](https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Mala Mia](https://open.spotify.com/album/3WJ1EoQn4vKUaafZQKIVqi) | 3:09 | 2023-03-19 | 2023-04-19 |
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-03-19 | 2023-05-09 |
+| [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-01 |  |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-19 | 2023-05-24 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-05-10 |  |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-03-31 |  |

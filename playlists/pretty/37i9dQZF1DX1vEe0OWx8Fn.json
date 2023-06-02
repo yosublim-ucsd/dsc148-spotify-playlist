@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 69251,
+  "num_followers": 69301,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjZkMWUwMzMzZWJhMTVlNTQ1MmEyMjdlZTk0NTY4ZmNlZDUxZjMx",
+  "snapshot_id": "MCxjMGFmNWRhNGZjMThkMDYxMDczMDQyYzc2NzdkNTk3MzQwMjFmMmZl",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -797,24 +797,20 @@
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
     },
     {
-      "added_at": "2022-08-16 22:06:35",
+      "added_at": "2023-05-19 14:21:26",
       "album": {
-        "name": "The Breakfast Club (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
+        "name": "PARTY ON MY DEATHBED",
+        "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
       },
       "artists": [
         {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 129339,
-      "name": "Choose Life",
-      "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
+      "duration_ms": 208125,
+      "name": "PARTY ON MY DEATHBED",
+      "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -837,20 +833,24 @@
       "url": "https://open.spotify.com/track/5YEHrYUjG9e0VPQLCp6vGo"
     },
     {
-      "added_at": "2023-05-19 14:21:26",
+      "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "PARTY ON MY DEATHBED",
-        "url": "https://open.spotify.com/album/4WbHJLxoavNl9tztIdSclB"
+        "name": "The Breakfast Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
       },
       "artists": [
         {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 208125,
-      "name": "PARTY ON MY DEATHBED",
-      "url": "https://open.spotify.com/track/3qh27miHE2KwwDQcSVFTXS"
+      "duration_ms": 129339,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
     }
   ],
   "unique_name": "dear diary",

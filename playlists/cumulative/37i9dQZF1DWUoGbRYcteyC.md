@@ -4,7 +4,7 @@
 
 > Qué bonito se siente el amor\. 💘
 
-229 songs - 13 hr 33 min
+230 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [El verdadero amor perdona \- dueto con Prince Royce](https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Drama Y Luz Edición Deluxe](https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u) | 3:58 | 2021-12-06 |  |
 | [Ella](https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:18 | 2021-12-06 |  |
 | [Ella Es](https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Ella Es](https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio) | 3:15 | 2022-12-10 | 2023-01-07 |
+| [En Otra Vida](https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 3:16 | 2023-05-26 |  |
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2021-12-06 | 2022-07-29 |
 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 | 2021-12-06 | 2022-08-28 |
 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 | 2022-08-05 |  |
@@ -204,7 +205,7 @@
 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 | 2022-07-26 | 2023-01-07 |
 | [Te necesito](https://open.spotify.com/track/6fM4uVlC2brb5Di9O1vvry) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:14 | 2021-12-06 | 2022-07-29 |
 | [Te Vuelvo A Besar](https://open.spotify.com/track/2Sn0tmMS89iAzD2jpUI7Y3) | [Manuel Romero](https://open.spotify.com/artist/7Bals6DgKAYnN5PbfJTWss), [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Te Vuelvo A Besar](https://open.spotify.com/album/0fbqOGQoGNx3568GZD698o) | 4:34 | 2021-12-06 | 2022-07-20 |
-| [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2023-01-06 |  |
+| [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 | 2023-01-06 | 2023-06-02 |
 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 | 2021-12-06 |  |
 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 | 2021-12-06 |  |
 | [Tiempo Pa Olvidar](https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Tiempo Pa Olvidar](https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd) | 3:19 | 2021-12-06 | 2022-12-18 |

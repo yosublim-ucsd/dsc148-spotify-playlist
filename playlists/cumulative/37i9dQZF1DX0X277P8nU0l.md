@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-113 songs - 6 hr 31 min
+116 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Dark Side of the Moon](https://open.spotify.com/track/756BelaNgfNsSCCxfVjYaO) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [The Dark Side of the Moon](https://open.spotify.com/album/3EJsuw8416LPDleVbf37yj) | 2:57 | 2022-12-21 | 2023-03-25 |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-12-21 | 2023-02-10 |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-12-21 | 2023-01-13 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-25 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-25 | 2023-06-02 |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-19 | 2023-03-25 |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2023-02-03 |  |
 | [Family](https://open.spotify.com/track/6OnEsU4yuFEIuuK1pzZ0z5) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [What We Call Life](https://open.spotify.com/album/6Ifae2tRjg49lTQ9390iOD) | 3:27 | 2022-12-21 | 2023-03-25 |
@@ -94,7 +95,8 @@
 | [Sign Out](https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Sign Out](https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds) | 3:58 | 2023-01-19 |  |
 | [Sing Sang Sung](https://open.spotify.com/track/1TTz7vRGZEQgpL6HJOEhWo) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Love 2](https://open.spotify.com/album/7vfCAXD0bK0i2r3LZa8zVg) | 3:07 | 2023-03-23 |  |
 | [Skylight \(with Zeeba\)](https://open.spotify.com/track/6N2MzhCp2fvu7sJhSaHFnw) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Skylight \(with Zeeba\)](https://open.spotify.com/album/3PmqmVZehRxWfaNzWfNmdA) | 4:00 | 2023-01-26 |  |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-20 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-20 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-01 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-12-21 | 2022-12-29 |
 | [Something New](https://open.spotify.com/track/3vs3XiQGucSykqp8AbfYY7) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Something New](https://open.spotify.com/album/4XWeyoqL8oLXPIuuyFkm9Y) | 4:10 | 2022-12-21 | 2023-05-18 |
 | [Stay](https://open.spotify.com/track/5QnArCvhVH3TqZGuhwycRV) | [LUHA](https://open.spotify.com/artist/5axqcjmAhPJq0CHjtu8Ztv) | [Stay](https://open.spotify.com/album/7yP4Il1RMSvzNBxKFUPuoj) | 3:44 | 2023-05-25 |  |
@@ -107,6 +109,7 @@
 | [Sunsets For Somebody Else \(feat\. Rogê\) \- Brasil Version](https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Sunsets For Somebody Else & Big Sur \(Brasil Versions\)](https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf) | 3:53 | 2023-01-19 |  |
 | [The Fool on the Hill](https://open.spotify.com/track/7IN0LLAhDgpqNz1cFNbYQl) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [The Fool on the Hill](https://open.spotify.com/album/3fAfSROJJ3Ndvs1fZwkdyC) | 3:40 | 2022-12-21 | 2023-04-28 |
 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-12-21 | 2023-05-18 |
+| [The Right Words](https://open.spotify.com/track/6kHeWaJ0nSpOIwOx2HNg7R) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [The Right Words](https://open.spotify.com/album/42QpFcdpPNsaFUc2kvOseG) | 3:22 | 2023-06-01 |  |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-12-21 | 2023-05-05 |
 | [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 | 2023-03-23 | 2023-04-20 |
 | [Therapist](https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:41 | 2023-04-07 |  |
@@ -118,7 +121,7 @@
 | [Vibrating Walls](https://open.spotify.com/track/3ujsvyuTUbmiKLXK9WTMLC) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 4:08 | 2022-12-21 | 2023-01-20 |
 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 | 2022-12-21 | 2023-04-28 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-19 |  |
-| [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2023-01-06 |  |
+| [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2023-01-06 | 2023-06-02 |
 | [Who Knows Where the Time Goes](https://open.spotify.com/track/6xrZRS55yzDaQclNPxwiJI) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Who Knows Where the Time Goes / Yerre Blues](https://open.spotify.com/album/3UL9xJ9KWT3BQvU8ewWvjf) | 4:26 | 2022-12-21 | 2023-02-04 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-04-27 |  |
 

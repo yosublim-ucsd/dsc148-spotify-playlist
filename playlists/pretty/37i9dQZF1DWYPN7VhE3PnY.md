@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: VÉRITÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,843 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,917 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 49 | [Underdressed](https://open.spotify.com/track/1GQYCel7UNTNDZcja3jIXT) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Underdressed](https://open.spotify.com/album/2hLEfzJBnrscgIrEPvpH1m) | 3:54 |
 | 50 | [Swingin' Party](https://open.spotify.com/track/30CHepNhUAml9rw1Z0qPRf) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [World, You Need a Change of Mind](https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz) | 3:57 |
 
-Snapshot ID: `MCwxZjcxNjAxNTNiMjA2NWI4ZDYyYmRmNzVlNjhjZGEzZmJiNWY3ZmI2`
+Snapshot ID: `MCwzMjFjN2FkN2VkZWE1YmExNzQ3NzY3ZTZmNmNjMjE2ZGJjMjY2OGM0`

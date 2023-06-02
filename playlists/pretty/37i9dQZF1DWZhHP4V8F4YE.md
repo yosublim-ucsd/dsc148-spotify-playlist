@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,035 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,121 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 25 | [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 |
 | 26 | [Navutishwa](https://open.spotify.com/track/0vpLv9AIMiQ4ZmlGRs0w18) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:24 |
 | 27 | [Nakati](https://open.spotify.com/track/59MGv2C2OfVDLkLM31asng) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [LCLM :Prélude](https://open.spotify.com/album/1HGb9KLKL3ii3aUe26wa5w) | 4:00 |
-| 28 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Don Toliver, Rema, and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
+| 28 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 29 | [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 |
 | 30 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 |
 | 31 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 |
 | 50 | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L) | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7) | 5:43 |
 
-Snapshot ID: `MCw4NjdhODczZDE2ZDlmMDM1MDQ0NTE0ZGY5MDg2MDMzOWU0MjEyN2M2`
+Snapshot ID: `MCwxN2FjYzc3MGFlMmEyNTNiN2JkY2VhZTQ5Y2U1NzYxNGU0ZmRmZTVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,742 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,786 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 40 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 41 | [Closer](https://open.spotify.com/track/2XbfY2O2v3xwedUJ0J2kkr) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman \(Bonus Track Edition\)](https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x) | 3:54 |
 | 42 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 |
-| 43 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
-| 44 | [Don't Wanna Go Home](https://open.spotify.com/track/1r3myKmjWoOqRip99CmSj1) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:26 |
+| 43 | [Don't Wanna Go Home](https://open.spotify.com/track/1r3myKmjWoOqRip99CmSj1) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:26 |
+| 44 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
 | 45 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 |
 | 46 | [Make Luv](https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH) | [Room 5](https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq), [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Music & You](https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH) | 3:32 |
 | 47 | [Toca's Miracle \- Radio Edit](https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca \(20th Anniversary Edition\)](https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH) | 3:20 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 54 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 |
 | 55 | [Stereo Love \- UK Radio Edit](https://open.spotify.com/track/6TyXieyAu2z51H6VMPKRI4) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1g9MChpxVdgoyA7kMbcnfj) | 2:35 |
 | 56 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
-| 57 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 |
-| 58 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
+| 57 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
+| 58 | [Jubel \- Radio Edit](https://open.spotify.com/track/6BTjSLvOfHjzV9sbP6BrCO) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/4Xp6CE8STE8rfzb0DbVOWQ) | 2:28 |
 | 59 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |
 | 60 | [Stronger](https://open.spotify.com/track/1gudTcOiMosmCC6EKEzomI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 5:12 |
 | 61 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 79 | [Good Times \- Radio Edit](https://open.spotify.com/track/49Hb6hA4WJE6KdpDpotxt6) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:43 |
 | 80 | [Young \- Radio Edit](https://open.spotify.com/track/0ObbI1mRYkcWHeM82rZf9U) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [Sommer Klassiker](https://open.spotify.com/album/3vkUHTM5ZgvHocuE882zew) | 3:35 |
 
-Snapshot ID: `MCwwNmNkZWJiYTdiYzI1ZDNmNmI5MzhiNWFkYzdhNTdlMTYyODVhMzFi`
+Snapshot ID: `MCw5MWI0ZDE1YmFiNDc0ZTI4MzYxODExNTVjNDg5MjljNTg4MDNiOGJj`

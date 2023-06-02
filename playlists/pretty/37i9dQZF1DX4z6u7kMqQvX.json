@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 100759,
+  "num_followers": 100798,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWJlYTFiZTM2NThjYWNhYjZiYmFjMzE2ODU1MWNkODgyZDA5ZTg3",
+  "snapshot_id": "MCw1ZmRkZDIyM2M0ZmMyYzg3OWZhNmZlOTQ3ZWJiNWY4M2RmNGE1NTlm",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "INFINITO",
-        "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 185432,
-      "name": "INFINITO",
-      "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 230296,
       "name": "Romeo y Violeta",
       "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "INFINITO",
+        "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 185432,
+      "name": "INFINITO",
+      "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Antibi\u00f3ticx",
+        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Luz de perla",
         "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 169363,
       "name": "Soy un volc\u00e1n",
       "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Antibi\u00f3ticx",
-        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 263650,
       "name": "T\u00fa Me Llevas",
       "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 138653,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD"
+      "duration_ms": 277143,
+      "name": "Debajo de la Superficie",
+      "url": "https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG"
     }
   ],
   "unique_name": "Amor Indie",

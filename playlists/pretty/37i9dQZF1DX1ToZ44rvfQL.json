@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 409855,
+  "num_followers": 409979,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDVhYTBjZDUyOTFkYmFjNWRiNTlhOWJkNzFlYzBmNDI5NGMyZjc5",
+  "snapshot_id": "MCwxNzE3MzU1YmYxNDJmZGUwNjc1NzY5YmQ5MmFmN2I1NWVkNDZhMGEy",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "M\u00edrenla",
-      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "M\u00edrenla",
+      "url": "https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Antihumano",
-        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Arrancacorazones",
-      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Antihumano",
+        "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Arrancacorazones",
+      "url": "https://open.spotify.com/track/2zogXcCqvKJwh3o67W3GG3"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Zafar",
-      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+      "duration_ms": 262000,
+      "name": "Zafar",
+      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
-        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Esa Estrella Era Mi Lujo",
-      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Algo mejor",
         "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
@@ -915,6 +883,22 @@
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "\u00a1Bang! \u00a1Bang!... Est\u00e1s Liquidado",
+        "url": "https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Esa Estrella Era Mi Lujo",
+      "url": "https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -935,6 +919,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Arde la Ciudad",
-      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Arde la Ciudad",
+      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
       "added_at": "2023-05-19 03:00:00",

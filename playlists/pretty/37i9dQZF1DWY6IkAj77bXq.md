@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,350 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,418 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 5 | [Wu Wei](https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Wu Wei](https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW) | 2:49 |
 | 6 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 |
 | 7 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 |
-| 8 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 |
-| 9 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 |
-| 10 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 |
+| 8 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 |
+| 9 | [Nature of Life](https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Nature of Life](https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE) | 2:39 |
+| 10 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 |
 | 11 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
 | 12 | [Moving Slow](https://open.spotify.com/track/479TAluzixIctz5AiwnrA1) | [Russel Jace](https://open.spotify.com/artist/6GwgVH86t9xt98l4RSoMbP) | [Moving Slow](https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc) | 2:48 |
 | 13 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 40 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 |
 | 41 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 |
 | 42 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 |
-| 43 | [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 |
-| 44 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 |
+| 43 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 |
+| 44 | [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 |
 | 45 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 |
 | 46 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 |
 | 47 | [World Peace](https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2) | [Spiritual Moment](https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit) | [Solfeggio Frequencies & Meditation Music](https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS) | 6:49 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 62 | [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 |
 | 63 | [Devotion](https://open.spotify.com/track/2uk6pIi8sz7HOK9BLSRRXH) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Devotion](https://open.spotify.com/album/7onJu6pkaORhUz9FF7MflA) | 2:50 |
 | 64 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 |
-| 65 | [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 |
-| 66 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 |
+| 65 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 |
+| 66 | [Parallels](https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Parallels](https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq) | 3:36 |
 | 67 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 |
 | 68 | [Calm Waves](https://open.spotify.com/track/6FijL2NDb6UOqQrs1873ck) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/0nhOvzktlNL01xDU1Cwhzj) | 2:46 |
 | 69 | [Peace Of Mind](https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:58 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 72 | [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 |
 | 73 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 |
 | 74 | [Reflections](https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Reflections](https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J) | 2:50 |
-| 75 | [Amoralis](https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Amoralis](https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL) | 3:31 |
+| 75 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
 | 76 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 |
-| 77 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 |
+| 77 | [Amoralis](https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Amoralis](https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL) | 3:31 |
 | 78 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 |
-| 79 | [Reinstatement](https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Sleep \- Vol 4](https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC) | 4:15 |
-| 80 | [Endless](https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Endless](https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT) | 3:11 |
+| 79 | [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 |
+| 80 | [Reinstatement](https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Sleep \- Vol 4](https://open.spotify.com/album/377vTOKOL7efKmZViXAQHC) | 4:15 |
 
-Snapshot ID: `MCw1ZWRiMWVmMzM2NDE4YjE1ZjBjNTIxZjhkODc1NDM5MWEzZjE3OWE2`
+Snapshot ID: `MCxjNGYwZWVlMTQ2YTMzM2U1YTA5NmEwY2FhMDhmMGQyY2RkNjRiMjNj`

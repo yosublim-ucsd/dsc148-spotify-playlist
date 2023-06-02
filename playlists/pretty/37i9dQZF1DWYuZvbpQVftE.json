@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 16837,
+  "num_followers": 16857,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2UzZmJjNGRhOTZjNWJjNjY4ZTJmYjY5ODQ0M2ZkZWYzZmI0MGI4",
+  "snapshot_id": "MCwwYmM5OWU4MjRlNTQ1OGNkOTY0NmU1OGM2YWRmMmZiNjBjNGIzZWM0",
   "tracks": [
     {
       "added_at": "2023-05-31 08:21:57",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-05-31 08:21:57",
       "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
+    },
+    {
+      "added_at": "2023-05-31 08:21:57",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 210213,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
-    },
-    {
-      "added_at": "2023-05-31 08:21:57",
-      "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
     },
     {
       "added_at": "2023-05-31 08:21:57",

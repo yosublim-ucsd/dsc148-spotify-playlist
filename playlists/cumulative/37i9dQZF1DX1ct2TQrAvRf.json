@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200076,
       "name": "ALAG BT",
       "url": "https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 174000,
       "name": "Chal Bombay",
       "url": "https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU"
@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Entha Kaalam?",
+        "url": "https://open.spotify.com/album/1BP62JNr9MjtpOX0g0f4Ab"
+      },
+      "artists": [
+        {
+          "name": "Pranav Chaganty",
+          "url": "https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155134,
+      "name": "Entha Kaalam?",
+      "url": "https://open.spotify.com/track/0jXUL8IVFv5ZNYxBKcmko4"
+    },
+    {
+      "album": {
         "name": "HARD DRIVE Vol. 1",
         "url": "https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 209940,
       "name": "F16",
       "url": "https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 213793,
       "name": "Goat Dekho",
       "url": "https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM"
@@ -803,6 +821,46 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/76ED3HjMJXYLx40VBzqydN"
+      },
+      "artists": [
+        {
+          "name": "Asura",
+          "url": "https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6"
+        },
+        {
+          "name": "neevbruv",
+          "url": "https://open.spotify.com/artist/6vRNUVku9U6OorQsoS4Cu8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144018,
+      "name": "Keka",
+      "url": "https://open.spotify.com/track/3SpiVieZ0v5rRoKPwE6Vhi"
+    },
+    {
+      "album": {
+        "name": "Khadhhar",
+        "url": "https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z"
+      },
+      "artists": [
+        {
+          "name": "MC Hari",
+          "url": "https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Khadhhar",
+      "url": "https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY"
+    },
+    {
+      "album": {
         "name": "Kohinoor",
         "url": "https://open.spotify.com/album/47prNGpfOQnYYf5mIKaGNL"
       },
@@ -884,6 +942,28 @@
       "duration_ms": 398750,
       "name": "Machayenge 4",
       "url": "https://open.spotify.com/track/71VXewVKFs0HcwEom489zH"
+    },
+    {
+      "album": {
+        "name": "Manavaalan Thug (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Manavaalan Thug - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
     },
     {
       "album": {
@@ -1124,7 +1204,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 168368,
       "name": "Rihaayi",
       "url": "https://open.spotify.com/track/4aMVJBiDmewOHsbdfPKQCv"
@@ -1142,7 +1222,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 182640,
       "name": "Satya",
       "url": "https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B"
@@ -1164,7 +1244,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 180000,
       "name": "Saza-E-Maut",
       "url": "https://open.spotify.com/track/2ikI9Y7PCPIavU0TMSpF31"
@@ -1258,6 +1338,24 @@
       "duration_ms": 156555,
       "name": "Soch",
       "url": "https://open.spotify.com/track/38F8BE500Tybqd3jrzp5Av"
+    },
+    {
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174730,
+      "name": "Still Rollin",
+      "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
     },
     {
       "album": {

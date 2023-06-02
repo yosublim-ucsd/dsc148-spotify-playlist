@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,789 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,880 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 50 | [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 |
 | 51 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
 | 52 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
-| 53 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
-| 54 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 53 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 54 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
 | 55 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
 | 56 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 57 | [Bite](https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:32 |
 | 58 | [The Fold](https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK) | [Wickerbird](https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti) | [The Crow Mother](https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD) | 3:36 |
 | 59 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
-| 60 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
-| 61 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
+| 60 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
+| 61 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
 | 62 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 63 | [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 |
 | 64 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 66 | [Hunger Of The Pine \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx) | [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 3:34 |
 | 67 | [Splintered](https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 4:10 |
 | 68 | [Bridge](https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season \(Deluxe Edition\)](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 2:30 |
-| 69 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
-| 70 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
-| 71 | [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 |
+| 69 | [Picture of You](https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Picture of You \(feat\. Hayden Calnin\)](https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4) | 4:21 |
+| 70 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
+| 71 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 |
 | 72 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 |
 | 73 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
 | 74 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 96 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
 | 97 | [One Summer](https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm) | [Corrina Repp](https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz) | [Island](https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0) | 4:38 |
 | 98 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
-| 99 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
+| 99 | [Filthy Rich](https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Filthy Rich](https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg) | 2:01 |
 | 100 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 
-Snapshot ID: `MCxmZmI3NjdhNzYzNWIxOTA3YTIwOTcyNDY3MGNkNTc1OGE4NzUwMjk5`
+Snapshot ID: `MCxhNGY5MTc5ZGIzZTExYmRhYTBhNjg4MDYzOTM3ZTllYzM2ODIyMmNi`

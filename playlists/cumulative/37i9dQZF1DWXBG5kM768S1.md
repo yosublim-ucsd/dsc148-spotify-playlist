@@ -2,9 +2,9 @@
 
 ### [Norske viser](https://open.spotify.com/playlist/37i9dQZF1DWXBG5kM768S1)
 
-> De beste norske låtene fra noen av våre aller beste artister.
+> 
 
-212 songs - 13 hr 28 min
+213 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Ikke deg](https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt), [Magnus Grønneberg](https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM) | [Mellom disse 4 vegger](https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt) | 4:28 | 2021-12-16 | 2022-07-23 |
 | [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 |  |
 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 | 2021-12-16 | 2022-07-29 |
+| [Ingenting å vera redd for](https://open.spotify.com/track/7pmF7HqeZveCXowtrBztY3) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Ingenting å vera redd for](https://open.spotify.com/album/6bbyexRUsOZT7ePde0wtjv) | 3:43 | 2023-06-01 |  |
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
 | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/track/21hBJzNz2iMICXTe5JMbO9) | [Fredrik Segelstad](https://open.spotify.com/artist/5wHJSWQfAgCCChEShG9eOt) | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/album/5hKEOv6DlNk1MhC84fHc36) | 3:46 | 2022-03-23 | 2022-04-11 |
 | [Jeg elsker dig](https://open.spotify.com/track/3kdqYQxKV7Oz0ct2R2CFzq) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Jeg elsker dig](https://open.spotify.com/album/6DW9rrtAMtC80akurSJxH4) | 4:19 | 2022-01-20 | 2022-05-10 |
@@ -203,7 +204,7 @@
 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 | 2022-07-14 |  |
 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/42ABcWYV6yzewALbyw4eEF) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom To Evigheter](https://open.spotify.com/album/4r6KQy5OW5lx9bGXN570Ut) | 4:14 | 2021-12-16 | 2022-07-29 |
 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 | 2022-01-27 |  |
-| [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 | 2022-02-17 |  |
+| [Under deg](https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Under deg](https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el) | 4:04 | 2022-02-17 | 2023-06-02 |
 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 | 2022-01-27 | 2022-07-28 |
 | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/track/0c1JadNYdOyD7jV5MUce8x) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI), [George Berntzen](https://open.spotify.com/artist/64aM7yK1VAVsigZuBIdXMs) | [Varmere vind i vente \- rett og slett en sommersang](https://open.spotify.com/album/4ZirQpiNCCHitHMekJODdl) | 3:58 | 2021-12-16 | 2022-07-17 |
 | [Ved Rondane](https://open.spotify.com/track/3HLVO8u3OJTqkmlqpcjFyt) | [Lars Lillo\-Stenberg](https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Synger Grieg med Bugge](https://open.spotify.com/album/3HdAF62AQQmTxrTA7qzimL) | 3:17 | 2021-12-16 | 2022-02-05 |

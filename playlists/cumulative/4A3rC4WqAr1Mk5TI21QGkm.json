@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6"
+    },
+    {
+      "album": {
         "name": "Sick Girl",
         "url": "https://open.spotify.com/album/2OAKDrIMeYUDGj6LxIEu4O"
       },

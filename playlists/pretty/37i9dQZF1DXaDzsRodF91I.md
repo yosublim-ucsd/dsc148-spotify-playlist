@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,035 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,107 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,16 +90,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 80 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
 | 81 | [Peace Signs](https://open.spotify.com/track/7LlDiLN477LKJ5XbCt61LE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Peace Signs](https://open.spotify.com/album/33oM16jRGfm4QzDalm6kFi) | 3:08 |
 | 82 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
-| 83 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
-| 84 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
+| 83 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
+| 84 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
 | 85 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
 | 86 | [Two Tickets To Paradise \(2006\)](https://open.spotify.com/track/4m9sbj1CNZw5ANg1YTflH4) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:15 |
 | 87 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
 | 88 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 89 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
-| 90 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 91 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
-| 92 | [When The Angels Sing](https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
+| 89 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
+| 90 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 91 | [When The Angels Sing](https://open.spotify.com/track/5vojzHNDiqeD4l1flkyZxG) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
+| 92 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
 | 93 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
 | 94 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 95 | [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 100 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 
-Snapshot ID: `MCxjZmQ4OWY0NjlkMTQ4ZDYyYjkwNTM0Mzg0YzNiODlmMDFjMzEzYjhi`
+Snapshot ID: `MCw4NjRhMGJiYTk1NzdlZjcxZWNhODk4Y2UxZGMzYzdlOTg0OTM0ZTkx`

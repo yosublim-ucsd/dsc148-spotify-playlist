@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 7 | [Como Antes](https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Como Antes](https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr) | 2:46 |
 | 8 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 | 9 | [Primero Tu](https://open.spotify.com/track/1Ia0J3DtOitPrvYVnjT4Ob) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [XVII ANIVERSARIO](https://open.spotify.com/album/4cnDNI7pytSivupozFsMi7) | 3:06 |
-| 10 | [Andar Soltero](https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0) | [Top Songs 2022](https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI) | 3:11 |
-| 11 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 |
+| 10 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 |
+| 11 | [Andar Soltero](https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0) | [Top Songs 2022](https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI) | 3:11 |
 | 12 | [Otra](https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 3:12 |
 | 13 | [A Poco Sí A Poco No](https://open.spotify.com/track/6PPtVe7mYShJD9wIie5MKa) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w), [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Cuéntales](https://open.spotify.com/album/1Ktc4MmcSCn0ddnT8Uin9D) | 3:15 |
 | 14 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 24 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
 | 25 | [Si Tuviera Sombrero](https://open.spotify.com/track/5OKEpX0t6hePxRTdcSxiDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:01 |
 | 26 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
-| 27 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
-| 28 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
+| 27 | [Nada De Nada](https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Nada De Nada](https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK) | 3:01 |
+| 28 | [Corrido a Sal Sánchez](https://open.spotify.com/track/2gAFOnxgXE7KZ1L3CU3Mtr) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Corrido a Sal Sánchez](https://open.spotify.com/album/7rfsbU64lcWoAbxraGmeBW) | 2:26 |
 | 29 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 30 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
 
-Snapshot ID: `MjgwOTMxMDAsMDAwMDAwMDA1M2NkZDAyYzVhYjY5YjhkOWNkZmFhNGNjNjc3MDdmYw==`
+Snapshot ID: `MjgwOTQ1NDAsMDAwMDAwMDBjYzcyNTI2Yjg0OTk0MzAzM2E5YjNiOWViY2RlN2NlYw==`

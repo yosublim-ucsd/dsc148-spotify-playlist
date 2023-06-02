@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169621,
       "name": "A Hassle",
       "url": "https://open.spotify.com/track/6Yy3wtQiWNjNLyeNY8sXzS"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 206520,
       "name": "Blue",
       "url": "https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 233760,
       "name": "cool",
       "url": "https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 187850,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
@@ -994,6 +994,28 @@
       "duration_ms": 256113,
       "name": "Inside Out - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U"
+    },
+    {
+      "album": {
+        "name": "Is This Love?",
+        "url": "https://open.spotify.com/album/3m83zmi7UMBf6uV6csCbyl"
+      },
+      "artists": [
+        {
+          "name": "Pip Blom",
+          "url": "https://open.spotify.com/artist/6zWJfH1TTmIqEi7EV35HGr"
+        },
+        {
+          "name": "Alex Kapranos",
+          "url": "https://open.spotify.com/artist/43tffeOxONSbTQ888To7bE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Is This Love?",
+      "url": "https://open.spotify.com/track/2qniUr523yjUKD8EJRe7LP"
     },
     {
       "album": {
@@ -1559,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA"
+    },
+    {
+      "album": {
         "name": "Echo Palace",
         "url": "https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj"
       },
@@ -1819,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+    },
+    {
+      "album": {
         "name": "Something Like This",
         "url": "https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4"
       },
@@ -1870,6 +1928,24 @@
       "duration_ms": 188453,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW"
+    },
+    {
+      "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Waterbaby",
-  "num_followers": 178526,
+  "num_followers": 178614,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjc0YWIwMzgyMGIzZmQyOTBhZjg1NWMwNDM4MDUzN2NhNDc5NGJm",
+  "snapshot_id": "MCw3MzVmMTA4NTc4NTNiYTEwODczZTgzOGQzYTk3OGM4MjJkZTIwYjQ5",
   "tracks": [
     {
       "added_at": "2023-05-31 01:28:37",
@@ -187,6 +187,22 @@
       "duration_ms": 187613,
       "name": "Generic Cod",
       "url": "https://open.spotify.com/track/3QZ3WAnoz2HTKpfrAVcZTn"
+    },
+    {
+      "added_at": "2023-06-02 00:42:35",
+      "album": {
+        "name": "Need to Know",
+        "url": "https://open.spotify.com/album/24g7N7cApVwd0XRffVa6to"
+      },
+      "artists": [
+        {
+          "name": "Jonny Channels",
+          "url": "https://open.spotify.com/artist/6tm9f2abcM0liY1mZGeTVX"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/6Vty4QyVDWmO5xraSbdb9i"
     },
     {
       "added_at": "2023-05-31 01:28:37",

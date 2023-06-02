@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-108 songs - 6 hr 31 min
+109 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [This Song Scares People](https://open.spotify.com/track/2xUvfzTPwPPMz6oifXCtUg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [This Song Scares People](https://open.spotify.com/album/6PlpFIqZENnbLoDD8JaCV3) | 2:03 | 2021-10-28 |  |
 | [Thundergun \(Bassex Remix\)](https://open.spotify.com/track/00wcThjdMzgKssCHTcyNdu) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Thundergun](https://open.spotify.com/album/4PQJowwI1lBYn82EB0UUlO) | 5:34 | 2021-10-28 | 2022-07-29 |
 | [Thundergun \- Bassex Remix](https://open.spotify.com/track/5nxBoj8KabR4L8c1ycTBAz) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7), [Bassex](https://open.spotify.com/artist/0MtoWwNFjGtsgJemnvGUFN) | [Thundergun](https://open.spotify.com/album/42OE0SKYQLBjG39nIx1rJO) | 5:34 | 2021-10-28 |  |
-| [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 | 2021-10-28 |  |
+| [Till the Day I Die](https://open.spotify.com/track/0XqKT7AwL333oEjBCMwHxp) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/3aMecYq0Q67u6uwMjm4bPN) | 2:30 | 2022-10-28 |  |
+| [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 | 2021-10-28 | 2023-06-02 |
 | [Till the Day I Die](https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD) | 2:30 | 2021-10-28 | 2022-07-29 |
 | [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 | 2021-10-28 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 | 2021-10-28 |  |

@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-172 songs - 11 hr 22 min
+175 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [Daydreams](https://open.spotify.com/track/3DZ0VT9Cnl9P2kj5rEGske) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Daydreams](https://open.spotify.com/album/4BtSurjJ5AKBGfNk1Tuav9) | 3:24 | 2023-01-19 |  |
 | [Dedicated To You](https://open.spotify.com/track/6WKFDVPOkenQ8cXv4uB9xl) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [My Old Friend](https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf) | 3:35 | 2022-08-18 |  |
 | [Detour Ahead](https://open.spotify.com/track/5Sk0JwvSf9uX9kPRgCqcXa) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [You Can´t Go Home Again](https://open.spotify.com/album/5lXf22S7AvFEBujeuoALmf) | 3:46 | 2022-08-18 |  |
+| [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
+| [Distractions](https://open.spotify.com/track/34LqEe9GAniMgCJgN7jQzW) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Distractions](https://open.spotify.com/album/1Wgg5pGImhtCo9FJ3qGtGA) | 3:56 | 2023-06-01 |  |
 | [Don´t Leave Me Behind](https://open.spotify.com/track/43JcXDMsHYWtqSGRKeRUEb) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Flamingo](https://open.spotify.com/album/6dLhvWulmwax5rySRX4AUa) | 4:52 | 2022-08-18 |  |
 | [East Of The Sun](https://open.spotify.com/track/0OuZzvIHAKYit34s4NH7WH) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [East Of The Sun](https://open.spotify.com/album/6zbwpm4yJFfaNiuHQyc9Ld) | 3:09 | 2022-08-18 |  |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-08-18 |  |
@@ -113,7 +115,7 @@
 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 | 2023-01-19 |  |
 | [Once Again](https://open.spotify.com/track/6njul2LIdBRvxjoekr0mMr) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Once Again](https://open.spotify.com/album/16pxAAGup6qor08lI2z7KV) | 3:23 | 2023-05-25 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 |  |
-| [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 | 2022-11-10 |  |
+| [One Fine Day](https://open.spotify.com/track/3wWnjO4iTLDqjIvlOVoOPX) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [One Fine Day](https://open.spotify.com/album/6ciCIBC5QF3o1j2wuAAXK5) | 4:24 | 2022-11-10 | 2023-06-02 |
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-08-18 |  |
 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 | 2023-05-04 |  |
 | [Please Come Back To Me](https://open.spotify.com/track/1ldy3WQh4squ8s70YJojyq) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Please Come Back To Me](https://open.spotify.com/album/7DQShbCRDQiXshTKK7mqFe) | 3:00 | 2023-01-05 |  |
@@ -137,6 +139,7 @@
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-08-18 |  |
 | [Sleeted Streets](https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Sleeted Streets](https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK) | 3:44 | 2022-12-22 |  |
 | [Snowflakes](https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Snowflakes](https://open.spotify.com/album/4XaJ0QnFlJfNbqIGVDeNUf) | 3:31 | 2022-12-01 |  |
+| [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Socks And Sandals](https://open.spotify.com/track/33HRgQotoW6raDZVZs3Rxk) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Socks And Sandals](https://open.spotify.com/album/1dWIVAbxe91cDNhrMJ5fFV) | 3:39 | 2022-08-18 |  |
 | [Softly As In A Morning Sunrise \- Live At The Village Vanguard, New York City, NY/1957/Evening Alternate Take 7](https://open.spotify.com/track/3ybRszkVXeMWxWAec3NMJH) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [A Night At The Village Vanguard \(Live\)](https://open.spotify.com/album/4lZ0JM0RUD4jddNbD63O7b) | 6:39 | 2022-08-18 | 2022-09-09 |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2022-08-18 |  |
@@ -147,7 +150,7 @@
 | [Stars Fell On Alabama](https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 6:14 | 2022-08-18 | 2022-11-10 |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2022-08-18 |  |
 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 | 2022-08-18 | 2023-05-05 |
-| [That's All](https://open.spotify.com/track/7s5Qv1HMy95TX9BtTK0vZ1) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Pres & Sweets](https://open.spotify.com/album/7KXxTr7CeyLtAnC6CtSNSO) | 4:38 | 2022-08-18 |  |
+| [That's All](https://open.spotify.com/track/7s5Qv1HMy95TX9BtTK0vZ1) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Pres & Sweets](https://open.spotify.com/album/7KXxTr7CeyLtAnC6CtSNSO) | 4:38 | 2022-08-18 | 2023-06-02 |
 | [The Imager](https://open.spotify.com/track/1mfuqzs480Ey1ia2Y7q7MH) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [The Imager](https://open.spotify.com/album/7y7VoIAYjag9EsvZpz4Dno) | 3:25 | 2022-08-18 |  |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-08-18 |  |
 | [The Silver Lining](https://open.spotify.com/track/2TCPYusIb4KkgcijesJPx9) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:08 | 2022-08-18 |  |

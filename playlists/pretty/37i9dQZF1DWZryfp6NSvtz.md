@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,064 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,172 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Dog Years](https://open.spotify.com/track/3COjKlDYXvddcBi8Om3BPI) | [The Deadnotes](https://open.spotify.com/artist/6Ul5GFMF8FIfK9ARp9efBF) | [Forever Outsider](https://open.spotify.com/album/1o9ZlcmutaMODuSsnPzxzY) | 3:50 |
 | 50 | [Anti\-Venom](https://open.spotify.com/track/2WEJcvp7wtsMbaWO4zUEYM) | [PENI PARKER](https://open.spotify.com/artist/7isyJZD7MXbmlkFBSkwQu8) | [Anti\-Venom](https://open.spotify.com/album/1oHNb2jxLN1rXLnfYz4aEn) | 2:43 |
 
-Snapshot ID: `MCxiODM0NjQ5Y2Q1YmMyOTY2ZmMxYTk3MmFmNGMxY2NkNDRmNTdiNTg5`
+Snapshot ID: `MCw3MGQxMWYxM2FkOTdhOTc4NTlhNGM3ZmFmMzI1MjI5YTFjNDgyODVj`

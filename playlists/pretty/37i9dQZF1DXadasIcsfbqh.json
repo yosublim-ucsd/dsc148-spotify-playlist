@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Jordan Davis",
-  "num_followers": 135466,
+  "num_followers": 135690,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2I4MzBjN2VkMmZhZWVkODFhMGZhMmViOGY4YmY3M2U4NDk2OTc1",
+  "snapshot_id": "MCxhN2YyNTQyZDE1OTNjMjY5NTYwNmFlYmQ3OTZlMDIxY2M3NzUwZWM1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+        "name": "UNHEALTHY (feat. Shania Twain)",
+        "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 210772,
-      "name": "I Hope",
-      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+      "duration_ms": 149653,
+      "name": "UNHEALTHY (feat. Shania Twain)",
+      "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -267,22 +271,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "UNHEALTHY (feat. Shania Twain)",
-        "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
         }
       ],
-      "duration_ms": 149653,
-      "name": "UNHEALTHY (feat. Shania Twain)",
-      "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
+      "duration_ms": 210772,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Somethin' Bout You",
-        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
       "artists": [
         {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Somethin' Bout You",
-      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
+        "name": "Somethin' Bout You",
+        "url": "https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
+      "duration_ms": 156906,
+      "name": "Somethin' Bout You",
+      "url": "https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Grand",
-        "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Grand",
-      "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pickup",
         "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Grand",
+        "url": "https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "breadwinner",
-      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 147693,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "breadwinner",
+      "url": "https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "justified",
-      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Home Sweet",
         "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "justified",
+      "url": "https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nightfalls",
-        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 220892,
-      "name": "Nightfalls",
-      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Praise The Lord (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/19IBYeeXLti2wekxA8913l"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Leave You Alone",
-        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 214238,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1767,6 +1751,22 @@
       "duration_ms": 203600,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
     }
   ],
   "unique_name": "Pop Country",

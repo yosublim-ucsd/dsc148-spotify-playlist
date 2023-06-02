@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Ghost on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,418,511 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,418,950 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 |
 | 75 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 |
 
-Snapshot ID: `MCxiMDU4ZjNiOWE1MDFiZTRjMzgwZWI5MjEyYzA0ZmY4OWY3NzlhOTVk`
+Snapshot ID: `MCw0YmE4MjkyNTdiOThjNDA1ZGZkMzUyZTUwNjdjZGFlY2NkYmZkOWZi`

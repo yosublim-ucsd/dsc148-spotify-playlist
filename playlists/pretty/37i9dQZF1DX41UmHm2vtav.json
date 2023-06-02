@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 415332,
+  "num_followers": 415501,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE1MjJlODI3MWZkMzdjYjViM2ZkZGFmMmU5YTQ0YmIxZTg4N2U4",
+  "snapshot_id": "MCw0NGY0Nzc5ZjA4MjYxYzdlMDVmMTNjNzVjODcwMWRjYzZjMzc5NWFh",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -231,30 +231,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Cante por N\u00f3s",
-        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Cante por N\u00f3s",
-      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Cante por N\u00f3s",
+        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Cante por N\u00f3s",
+      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
         "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 376680,
       "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
       "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
     },
     {
       "added_at": "2023-03-31 03:03:00",

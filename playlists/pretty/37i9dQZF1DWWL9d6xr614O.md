@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,905 likes - 104 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,923 likes - 104 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 33 | [Reliably True](https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW) | [Elevate Exalt](https://open.spotify.com/artist/1u2wiCSFndF370zimgW7qU) | [Reliably True](https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml) | 6:30 |
 | 34 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 |
 | 35 | [WATERWALK](https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [WATERWALK](https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9) | 5:55 |
-| 36 | [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 |
+| 36 | [Sigaw Ng Puso](https://open.spotify.com/track/5MhOky7jQ564pwCf6QbZrC) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/2flD7DmaCDO7JAlWRBZakP) | 6:42 |
 | 37 | [Pagsintang Papuri](https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d) | [Jojo Ibañez](https://open.spotify.com/artist/05NCyKg98MYGeFobMmMd2x) | [Pagsintang Papuri](https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR) | 4:46 |
 | 38 | [FORTRESS](https://open.spotify.com/track/07PSmpoDsd7gKHov4mGcn1) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL) | [FORTRESS](https://open.spotify.com/album/1ya0fmkQ86Yh1eCqAGpXCV) | 3:44 |
 | 39 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 90 | [I Believe](https://open.spotify.com/track/3KX8BuXC0wOWHeaZmVS7f9) | [Zack Sympson](https://open.spotify.com/artist/416D28zAVhFTjDuC6JqSdA), [Rachel Mills](https://open.spotify.com/artist/21d4U06RQBVu5hEWKV4hC0) | [I Believe](https://open.spotify.com/album/0iO6fYCTOPYurJHcrcoDYv) | 5:31 |
 | 91 | [Your Love](https://open.spotify.com/track/1o9yDhDTHFEQgk88JnnriX) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Your Love](https://open.spotify.com/album/664weT87LP5crWXjBEs18y) | 5:08 |
 | 92 | [Age to Age](https://open.spotify.com/track/1bhqpLlmbpvOVcFNx0CQ8Y) | [Living Word Christian Music](https://open.spotify.com/artist/38OYSwcUYA1udLHszdRFAn), [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk), [Delight Grace](https://open.spotify.com/artist/2H1kZsKy72sPXPNTIhsB3T) | [Age to Age](https://open.spotify.com/album/6RiosIiIQrqNjPnSAZINqd) | 5:29 |
-| 93 | [Ililigtas Ka Niya](https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey) | 4:38 |
+| 93 | [Ililigtas Ka Niya](https://open.spotify.com/track/00LHqyWw8CoUcqk3jgCUUb) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/1eSVR8lo6sErkXaqrQPpah) | 4:38 |
 | 94 | [The Good God](https://open.spotify.com/track/5W2lmvNODzxh8HWKIKGuWt) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [The Good God](https://open.spotify.com/album/7BLeAdJsjIz2aRiM3jLvch) | 4:32 |
 | 95 | [Victory to Our King](https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg) | [Ablaze Music](https://open.spotify.com/artist/3N1hmweYcwNTQX8Np4GVe6) | [Worship Companion, Vol\. 4](https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO) | 3:39 |
 | 96 | [This Year](https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/0ueqRiZwnfRqcm2ZZqYeuL) | 3:00 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 103 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 104 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCw3NGFjNjZlZGRjMWY1ZmEyYjZkZjQyMzM4ZTU4ZmVkMjFiNGM5YTIy`
+Snapshot ID: `MCxkYzNmMzVhNDRjNGMzOTAwOTQzNjUwMmRhOTU2ZDMwNDIzZDdkZTcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。5月30日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,767 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,799 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 50 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
 
-Snapshot ID: `MCw1ODQxZTlkODU3NGQ3NTVjODM4Y2VkOWJiZTZkM2QxYzY1YmZjNmJm`
+Snapshot ID: `MCxhY2I0NGVlOGY0ZWJmMDliNmQxMDY4ODNmOTc3M2JjYzY4MDA1M2Y3`

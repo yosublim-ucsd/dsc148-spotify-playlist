@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-329 songs - 20 hr 42 min
+330 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Renew](https://open.spotify.com/track/0yAIvuU28qobZ7nO9QcwWL) | [Versing](https://open.spotify.com/artist/2EBCJ8wwWpJXAyjVoiwCw8) | [Renew](https://open.spotify.com/album/2JqAt90rEWisIk3iuw849v) | 3:22 | 2022-03-11 | 2022-04-21 |
 | [Reset My Password](https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI) | 2:50 | 2022-03-03 | 2022-11-09 |
 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 | 2021-12-06 | 2023-04-30 |
+| [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt) | 3:43 | 2023-02-24 |  |
 | [Room 156](https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Room 156](https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr) | 4:00 | 2022-02-11 | 2022-07-22 |
 | [Rumpus Room](https://open.spotify.com/track/2fQ3EXY5NVpgql5Bg8gHoY) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9), [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [Rumpus Room](https://open.spotify.com/album/0SVZWu2Jr3u45O7nW377d6) | 3:44 | 2021-12-06 | 2022-07-25 |
 | [Saintless](https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Uppers](https://open.spotify.com/album/42tqnrA3ZlajJn29eE2Qqg) | 7:06 | 2021-12-06 | 2022-07-24 |
@@ -265,7 +266,7 @@
 | [Slow \(Loud\)](https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Slow \(Loud\)](https://open.spotify.com/album/2vR7LW4YW3K44rcOlsJbM8) | 5:36 | 2021-12-06 | 2022-11-13 |
 | [Sludge](https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Sludge](https://open.spotify.com/album/4fVcSFvdj9XflGQ4HVhLYI) | 5:00 | 2021-12-06 | 2022-07-28 |
 | [Solid State](https://open.spotify.com/track/20Aun7R1lVk1AmL3ibxScC) | [FRIGS](https://open.spotify.com/artist/7qnOIwmC4mBss5sA6y8jvi) | [Basic Behaviour](https://open.spotify.com/album/5yhJfm3NbkJggTi8xn9PIR) | 3:00 | 2021-12-06 | 2022-05-19 |
-| [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-02-03 |  |
+| [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-02-03 | 2023-06-02 |
 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 | 2022-06-16 | 2023-02-02 |
 | [South](https://open.spotify.com/track/6eQ0yqG2lN2GK1xuf6qAZ9) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:54 | 2023-02-24 | 2023-05-02 |
 | [South](https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [South](https://open.spotify.com/album/3Od0bk7TUgTbSdkA0K4axE) | 3:56 | 2021-12-06 | 2022-07-29 |

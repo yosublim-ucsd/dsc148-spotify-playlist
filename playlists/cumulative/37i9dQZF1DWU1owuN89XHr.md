@@ -4,7 +4,7 @@
 
 > Historias y versos que tocan la piel.
 
-142 songs - 9 hr 22 min
+143 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Quizás una Flor](https://open.spotify.com/track/7H1ED0sczqO7nfmy9sGHEe) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 4:02 | 2021-07-29 |  |
 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 | 2021-07-29 |  |
 | [Se Busca](https://open.spotify.com/track/5uXbOALhNzFFLfoJSh27Vb) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Que Nadie Se Entere](https://open.spotify.com/album/6hVFxpqlDUBu4ZXMBBV5nZ) | 4:36 | 2021-07-29 |  |
-| [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 | 2021-10-26 |  |
+| [Sembrando Amor](https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS) | 4:30 | 2021-10-26 | 2023-06-02 |
+| [Sembrando Amor](https://open.spotify.com/track/46E5ed47upzStYgFxLLT5p) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Vagamundo](https://open.spotify.com/album/3sQMu1OkfzkOvxMWwRDRtV) | 4:30 | 2021-10-26 |  |
 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 | 2021-07-29 |  |
 | [Su Nombre Es Pueblo](https://open.spotify.com/track/64MUU7LMzHHiPW39fKbq5D) | [Sara González](https://open.spotify.com/artist/7a3lOYCTYfMaiFmINk1V0R) | [Evolucion](https://open.spotify.com/album/69VTRNYmqgcKvHCZXvwkoW) | 4:41 | 2021-07-29 |  |
 | [Tan Distintos \(A Duo Con Edgar Oceransky\)](https://open.spotify.com/track/74F1KIP295hdmD2pAMySo9) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Quiero Cantar](https://open.spotify.com/album/6FGLFDMuo03JjJ1OcViZRi) | 3:54 | 2021-07-29 | 2022-07-29 |

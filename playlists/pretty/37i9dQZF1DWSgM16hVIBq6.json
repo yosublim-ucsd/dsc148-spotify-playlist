@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away with your favorite tropical tunes, featuring Marshmello & Manuel Turizo.",
-  "num_followers": 69400,
+  "num_followers": 69446,
   "original_name": "SABOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDdlMjdlOTNhNWY0OWI2ZDMxN2IxNjYwMDM3YjU1NWRhYjNjYmE3",
+  "snapshot_id": "MCw2MzAyYjU5YjE4NTZkNWYyYTkzOTVmNDBmNjNjYjdkYzk5ZjA0ZTNj",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 137967,
+      "name": "SIN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Lo Mato",
         "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -763,6 +763,38 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
@@ -791,54 +823,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "SIN CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Luck Ra | Mission 15",
+        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 133284,
+      "name": "Luck Ra | Mission 15",
+      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Luck Ra | Mission 15",
-        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 133284,
-      "name": "Luck Ra | Mission 15",
-      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Bailando Bachata",
+        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 170809,
+      "name": "Bailando Bachata",
+      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Lao' a Lao'",
-        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 184341,
-      "name": "Lao' a Lao'",
-      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Bailando Bachata",
-        "url": "https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe"
+        "name": "Lao' a Lao'",
+        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 170809,
-      "name": "Bailando Bachata",
-      "url": "https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL"
+      "duration_ms": 184341,
+      "name": "Lao' a Lao'",
+      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Adicto (feat. Marc Anthony)",
-        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 209191,
-      "name": "Adicto (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Tatuaje",
         "url": "https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 230840,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Adicto (feat. Marc Anthony)",
+        "url": "https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 209191,
+      "name": "Adicto (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
       },
       "artists": [
         {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
+      "duration_ms": 216897,
+      "name": "Loter\u00eda",
+      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 216897,
-      "name": "Loter\u00eda",
-      "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1631,22 +1631,6 @@
       "duration_ms": 223440,
       "name": "Casi un Hechizo",
       "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1715,6 +1699,22 @@
       "duration_ms": 289506,
       "name": "El Baile del Beeper - Version Mexico",
       "url": "https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2023-05-26 04:01:00",

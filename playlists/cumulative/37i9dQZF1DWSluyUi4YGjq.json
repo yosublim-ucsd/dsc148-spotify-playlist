@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 138049,
       "name": "alter",
       "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Heaven Hanging Low",
+        "url": "https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Heaven Hanging Low",
+      "url": "https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk"
+    },
+    {
+      "album": {
         "name": "Nuclear Daisies",
         "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
       },
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
@@ -3693,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "my only fantasy",
+        "url": "https://open.spotify.com/album/7sVSFEVIU0BlHuYYQX0Exd"
+      },
+      "artists": [
+        {
+          "name": ".com",
+          "url": "https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ"
+        },
+        {
+          "name": "Flowerbabe",
+          "url": "https://open.spotify.com/artist/09XnRUMmZEc56NuCF343gn"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225888,
+      "name": "my only fantasy",
+      "url": "https://open.spotify.com/track/2OumTMESFfTTtZmESGHFYf"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n"
       },
@@ -3762,7 +3802,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 465920,
       "name": "NMP",
       "url": "https://open.spotify.com/track/5v4t1vpHgAXNy4EXqwYJaa"
@@ -4058,6 +4098,24 @@
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
+      "album": {
+        "name": "Just Fade Away",
+        "url": "https://open.spotify.com/album/63bqZkUPl7zD8FFyFE7lzh"
+      },
+      "artists": [
+        {
+          "name": "Glazyhaze",
+          "url": "https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167221,
+      "name": "Ouverture",
+      "url": "https://open.spotify.com/track/2ONwyCrocSyMLAQsfzFtoa"
     },
     {
       "album": {
@@ -4436,6 +4494,24 @@
       "duration_ms": 201066,
       "name": "Pulling Our Weight",
       "url": "https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3"
+    },
+    {
+      "album": {
+        "name": "Pulling Stitches",
+        "url": "https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252320,
+      "name": "Pulling Stitches",
+      "url": "https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ"
     },
     {
       "album": {

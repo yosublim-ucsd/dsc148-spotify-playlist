@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Labrinth
 
-210 songs - 10 hr 37 min
+212 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-02-04 | 2023-01-28 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2022-02-04 | 2022-02-26 |
 | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 | 2023-03-03 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-27 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-19 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-27 | 2023-06-02 |
 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 | 2022-03-04 | 2023-01-28 |
 | [HOT HOT](https://open.spotify.com/track/3QBbRbF51EwVKeECZ1Hwy0) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [HOT HOT](https://open.spotify.com/album/6zMCVXb0hpn4SwVAGlhbYh) | 2:25 | 2022-02-04 | 2022-02-12 |
 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-02-04 | 2023-01-28 |
@@ -214,7 +215,8 @@
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-04-22 | 2023-01-28 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2022-02-04 | 2022-07-29 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2023-01-27 |  |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-19 |  |
 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 | 2022-03-11 | 2023-01-28 |
 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 | 2022-02-04 | 2023-01-28 |
 | [Yummy Yummy \(Get Yummy\)](https://open.spotify.com/track/1SZ1TubSGxGXqA4uNzyNTW) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Yummy Yummy \(Get Yummy\)](https://open.spotify.com/album/4bvq5s0WRgcEshUotY62WK) | 1:24 | 2022-03-11 | 2022-04-16 |

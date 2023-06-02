@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,095 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,391 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 54 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 |
 | 55 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 56 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
-| 57 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
-| 58 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
-| 59 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
-| 60 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
+| 57 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
+| 58 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 59 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
+| 60 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
 | 61 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
 | 62 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
 | 63 | [Bring Me Along](https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [No Shame](https://open.spotify.com/album/1r1dc5yTdwHQk77JZibmCF) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Breakdown](https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L) | 4:13 |
 | 100 | [Drifting In Out of Time](https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:15 |
 
-Snapshot ID: `MCw2OTNkN2M0M2Q1OGViYzNjZDIzYjRmYmRmNDMzOGM1M2U3YWQxNThh`
+Snapshot ID: `MCw4NzljMzZjYjdmYjdhOTE5Mjg1MjFjZjIzMjU4NTNjZDk1MjkwNTk3`

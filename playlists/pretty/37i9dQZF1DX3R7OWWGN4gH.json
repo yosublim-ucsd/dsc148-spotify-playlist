@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 999826,
+  "num_followers": 1000866,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjcwZTJlMjMwYzhlY2FlZDBhNzJiOTAzYjkyOTExZWJhMmY5NjU3",
+  "snapshot_id": "MCw3YTY1ODVjZmEzZmM0NDZiYWMzMmZlZjgwYzc2NzJhOTVkYjRlZDJk",
   "tracks": [
     {
       "added_at": "2023-05-21 22:01:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
-    },
-    {
-      "added_at": "2023-05-21 22:01:14",
-      "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2023-05-21 22:01:14",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "13 Reasons Why (Season 3)",
-        "url": "https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 204887,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"
-    },
-    {
-      "added_at": "2023-05-21 22:01:14",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+        "name": "13 Reasons Why (Season 3)",
+        "url": "https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+      "duration_ms": 204887,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -731,6 +715,22 @@
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+    },
+    {
+      "added_at": "2023-05-21 22:01:14",
+      "album": {
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+    },
+    {
+      "added_at": "2023-05-21 22:01:14",
+      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
-    },
-    {
-      "added_at": "2023-05-21 22:01:14",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Money, Money, Money",
-      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 177028,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+      "duration_ms": 177028,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
-    },
-    {
-      "added_at": "2023-05-21 22:01:14",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 185122,
       "name": "If I Killed Someone For You",
       "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
+    },
+    {
+      "added_at": "2023-05-21 22:01:14",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
     },
     {
       "added_at": "2023-05-21 22:01:14",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-21 22:01:14",
       "album": {
-        "name": "AVA",
-        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 159338,
-      "name": "AVA",
-      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
-    },
-    {
-      "added_at": "2023-05-21 22:01:14",
-      "album": {
         "name": "Marvin's Marvelous Mechanical Museum",
         "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 160613,
       "name": "The Bidding",
       "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
+    },
+    {
+      "added_at": "2023-05-21 22:01:14",
+      "album": {
+        "name": "AVA",
+        "url": "https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 159338,
+      "name": "AVA",
+      "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
     },
     {
       "added_at": "2023-05-21 22:01:14",

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Valeria Castro.",
-  "num_followers": 111339,
+  "num_followers": 111402,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGViY2ZiNmNhMDE2YmVhZWI2NzIxYWM5OTA2OGJmYzAwZDIwNGQy",
+  "snapshot_id": "MCxkNDIxOTBiMjQ0OWFkYWM1NjFjNGRjYWIwOTJmOTMwNTQyNzg0OGE2",
   "tracks": [
     {
       "added_at": "2023-05-29 11:20:19",
@@ -659,18 +659,26 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
         }
       ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
+      "duration_ms": 301935,
+      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
+      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -723,26 +731,18 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 301935,
-      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
-      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
+        "name": "Mal de altura",
+        "url": "https://open.spotify.com/album/6bmZwTkliEqxF02VlKfv9e"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Mal de altura",
+      "url": "https://open.spotify.com/track/6wGAPIuv58wVJzmP5GFGf7"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 236361,
       "name": "Solo Le Dije",
       "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
-        "name": "Mal de altura",
-        "url": "https://open.spotify.com/album/6bmZwTkliEqxF02VlKfv9e"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Mal de altura",
-      "url": "https://open.spotify.com/track/6wGAPIuv58wVJzmP5GFGf7"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
-        "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
-        "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Sebasti\u00e1n Prada",
-          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
-      "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
         "name": "Como el Mar",
         "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
@@ -1447,22 +1427,6 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1483,6 +1447,42 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (En Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
+        "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
+        "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Sebasti\u00e1n Prada",
+          "url": "https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
+      "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1703,22 +1719,6 @@
       "duration_ms": 211714,
       "name": "Danza Olvidada",
       "url": "https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-05-29 11:20:19",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-05-29 11:20:19",
       "album": {
+        "name": "Carta Aberta",
+        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 322242,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
+    },
+    {
+      "added_at": "2023-05-29 11:20:19",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2023-05-29 11:20:19",
-      "album": {
-        "name": "Carta Aberta",
-        "url": "https://open.spotify.com/album/3gtQCFe0IYu3e3uWcj2Oj3"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 322242,
-      "name": "Carta Aberta",
-      "url": "https://open.spotify.com/track/16V20qvMFMPof1Ed6O6RvO"
     }
   ],
   "unique_name": "Cancionistas",

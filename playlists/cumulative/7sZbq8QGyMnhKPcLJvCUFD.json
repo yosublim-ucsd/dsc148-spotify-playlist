@@ -3559,6 +3559,32 @@
     },
     {
       "album": {
+        "name": "Not A Thing",
+        "url": "https://open.spotify.com/album/1NsqgAY3C6FTwtJO5pvMwq"
+      },
+      "artists": [
+        {
+          "name": "ASHWOOD",
+          "url": "https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Ghost'n'ghost",
+          "url": "https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170210,
+      "name": "Not A Thing",
+      "url": "https://open.spotify.com/track/3Oig2rxkxppvPnGOhes1Mk"
+    },
+    {
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,507 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,531 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 43 | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/track/15rEEVR9tYJS4hbubgS3u7) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/album/5pCqjR7JPOm2CLasRDtn1E) | 3:14 |
 | 44 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 |
 
-Snapshot ID: `MCwxZDBhZWFiYzc0MDg1YWYwYTUwMGQ5MGIyYmY1MGVkM2U1ODU5YTll`
+Snapshot ID: `MCxhNmIxN2Y1MjI5MGUyZTQ4YjI2NmMzNGRiNTY3NGU3NmVkYTc5MTAw`

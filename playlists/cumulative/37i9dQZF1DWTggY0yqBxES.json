@@ -7474,10 +7474,48 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 163323,
       "name": "soundgood",
       "url": "https://open.spotify.com/track/4RD3NTwg4EobH0zvvGqABa"
+    },
+    {
+      "album": {
+        "name": "Leather Blvd.",
+        "url": "https://open.spotify.com/album/5wXKwBJT6rmrT0uuGngQtj"
+      },
+      "artists": [
+        {
+          "name": "B. Cool-Aid",
+          "url": "https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Ahwlee",
+          "url": "https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Jimetta Rose",
+          "url": "https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163323,
+      "name": "soundgood",
+      "url": "https://open.spotify.com/track/798CdilHgi0FdJmhWH4Hqv"
     },
     {
       "album": {

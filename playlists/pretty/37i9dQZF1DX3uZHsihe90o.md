@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,427 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,464 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 22 | [Every Day is a Dance](https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 2:29 |
 | 23 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
 | 24 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
-| 25 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
+| 25 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
 | 26 | [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 |
-| 27 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
+| 27 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 28 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
 | 29 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 30 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 61 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 |
 | 62 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 |
 | 63 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 |
-| 64 | [I Got a Boy and His Name Is John \(with June Carter Cash\)](https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [The Johnny Cash Children's Album](https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2) | 2:51 |
-| 65 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
+| 64 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
+| 65 | [I Got a Boy and His Name Is John \(with June Carter Cash\)](https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [The Johnny Cash Children's Album](https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2) | 2:51 |
 | 66 | [Humpty Dumpty](https://open.spotify.com/track/1VVbl4g9ONkwINYC5PXx5Y) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Nursery Rhymes For Kinder Times](https://open.spotify.com/album/1s0mvvzPuE4sTJCTiTur3n) | 1:54 |
 | 67 | [The Farmer Is The One](https://open.spotify.com/track/1lD0KqDiIgyVaVC7FXa9tt) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/0W2eDCYklT4jJShYaoL0AT) | 2:25 |
 | 68 | [Here We Go Looby Loo](https://open.spotify.com/track/4Ponyyh31zaPT5OLr16QeJ) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes, Vol\. 2](https://open.spotify.com/album/2H7OWPAgm35qkKDNNwXxBv) | 2:54 |
 | 69 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
 | 70 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
 
-Snapshot ID: `MCwzYjc3NTNjNjgwYzBkMTA5MDNlMzljNDM2YmEyZDk2ODE4ZGI2ZTdk`
+Snapshot ID: `MCw0ODlkYWJhMzllOTIxYjBlMGM1MDMzN2RlYjliZmIzYWQzMWU2YjQw`

@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Venesti",
-  "num_followers": 695319,
+  "num_followers": 695309,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjU1OGE3M2U1MTc5Njk2MTg0MzZhNjZjZWFkZGIxMmZjZjIwN2Iz",
+  "snapshot_id": "MCxlNjBjOGM3M2U1NmU3OTUwNWVjNDQyZGNlYmM0NDM5NzRmODAyMGY2",
   "tracks": [
     {
       "added_at": "2023-05-26 20:57:39",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
+        "name": "El Father",
+        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 195873,
+      "name": "El Father",
+      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 290053,
       "name": "1% - Remix",
       "url": "https://open.spotify.com/track/1F4Vm45mboD6k5VAx83pJu"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "El Father",
-        "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "El Father",
-      "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
+      },
+      "artists": [
+        {
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
+        }
+      ],
+      "duration_ms": 204296,
+      "name": "Adelantah",
+      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
         "name": "Tampoco Poco",
         "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
-      },
-      "artists": [
-        {
-          "name": "Chris Palace",
-          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
-        }
-      ],
-      "duration_ms": 204296,
-      "name": "Adelantah",
-      "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "Khloe",
         "url": "https://open.spotify.com/album/5ugoU1ic6flKsMKkGOrLTQ"
       },
@@ -1499,46 +1499,6 @@
       "duration_ms": 161521,
       "name": "Khloe",
       "url": "https://open.spotify.com/track/1wbJFQJc3sgCZeNkpCDUjQ"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "La Ideal",
-        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "La Ideal",
-      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 212957,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1563,6 +1523,46 @@
       "duration_ms": 169109,
       "name": "K Tas Haciendo?",
       "url": "https://open.spotify.com/track/1klFPKt6JaTc0YWCV8OLYT"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 212957,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "La Ideal",
+        "url": "https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 213983,
+      "name": "La Ideal",
+      "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
     },
     {
       "added_at": "2023-05-26 20:57:39",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
         "name": "Falso Amigo",
         "url": "https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn"
       },
@@ -1655,42 +1675,6 @@
     {
       "added_at": "2023-05-26 20:57:39",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2023-05-26 20:57:39",
-      "album": {
         "name": "Just Fine (feat. Kiana Led\u00e9)",
         "url": "https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 171428,
       "name": "Just Fine (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV"
+    },
+    {
+      "added_at": "2023-05-26 20:57:39",
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "added_at": "2023-05-26 20:57:39",

@@ -4465,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA"
+    },
+    {
+      "album": {
         "name": "Freak Like That",
         "url": "https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE"
       },
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165151,
       "name": "I Wrote A Song",
       "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"

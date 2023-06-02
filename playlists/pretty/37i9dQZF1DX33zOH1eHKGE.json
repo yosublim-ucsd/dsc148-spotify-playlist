@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 53386,
+  "num_followers": 53414,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZkOTNlODQwZWViNDc5ODBkMjVjODU1MDAyMWJkZjlkZWIxZDRk",
+  "snapshot_id": "MCwzYjY4MGU1NjA2YjE2YTY2OTczNDhkZGMxMDAwOWRkZjRjOWRjMjlj",
   "tracks": [
     {
       "added_at": "2023-05-19 16:54:38",
@@ -55,26 +55,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1083,34 +1083,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 229282,
-      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "You Give Me A Feeling",
         "url": "https://open.spotify.com/album/2UUluViWyFRdmxqsNap7hm"
       },
@@ -1143,6 +1115,34 @@
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 229282,
+      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 242880,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1951,34 +1951,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Dance Fruits Music",
-        "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
+        "name": "Streetside",
+        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
       },
       "artists": [
         {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         },
         {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 128500,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-      "url": "https://open.spotify.com/track/6MKuYvesr8p8csU9jt5Roa"
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
     }
   ],
   "unique_name": "Dance All Day",

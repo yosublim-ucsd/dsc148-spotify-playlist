@@ -2,7 +2,7 @@
 
 ### [HOT NOW \- VGLY](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
-> ¡No busques más! La música del momento está aquí.
+> 
 
 335 songs - 17 hr 56 min
 

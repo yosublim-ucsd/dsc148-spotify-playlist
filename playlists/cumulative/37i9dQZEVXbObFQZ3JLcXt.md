@@ -4,13 +4,13 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-403 songs - 1 day 0 hr 28 min
+404 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0X1=LOVESONG \(I Know I Love you\)](https://open.spotify.com/track/3yTkoTuiKRGL2VAlQd7xsC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/6g3BW90upn0rxRuFcm0zpm) | 3:22 | 2021-06-03 | 2021-06-26 |
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-06-02 | 2021-07-08 |
-| [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2022-12-16 |  |
+| [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 | 2022-12-16 | 2023-06-02 |
 | [24/7](https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [CECE](https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1) | 3:04 | 2021-11-12 | 2022-01-22 |
 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 | 2021-03-27\* | 2021-04-24 |
 | [365](https://open.spotify.com/track/2Br3KpvIH0QtZh6TeNBRso) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:19 | 2021-12-18 | 2021-12-24 |
@@ -381,6 +381,7 @@
 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 | 2021-05-09 | 2021-06-26 |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2021-03-27\* | 2022-10-23 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-06-06 | 2022-09-18 |
+| [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-01 |  |
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2022-03-05 | 2022-04-06 |
 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 | 2022-03-09 | 2023-02-27 |
 | [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-17 | 2022-09-25 |

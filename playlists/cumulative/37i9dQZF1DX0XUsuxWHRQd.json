@@ -31205,6 +31205,28 @@
     },
     {
       "album": {
+        "name": "Trap House 3",
+        "url": "https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Trap House 3 (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/2AVgzrauK6QygWSBUDEcW3"
+    },
+    {
+      "album": {
         "name": "Red Flu",
         "url": "https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu"
       },

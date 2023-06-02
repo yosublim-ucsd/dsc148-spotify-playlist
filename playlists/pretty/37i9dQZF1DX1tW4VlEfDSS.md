@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,744 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,774 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 48 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
 | 49 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 50 | [Someday \- Harris & Hurr Remix](https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy) | [Just Us](https://open.spotify.com/artist/6gZBuGRyiyGkAVFCJAWdMk), [Eddy](https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Someday \(Harris & Hurr Remix\)](https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S) | 3:40 |
-| 51 | [On My Mind](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa) | 3:26 |
-| 52 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
+| 51 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
+| 52 | [On My Mind](https://open.spotify.com/track/6T8m7PxHhJb25OZmgWXSej) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/1fzuUk3cUSc8OZTp3C7GZa) | 3:26 |
 | 53 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
 | 54 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
 | 55 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 |
 | 60 | [Lover 4 Now \(feat\. Todd Edwards\) \- Edit](https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Lover 4 Now \(feat\. Todd Edwards\) \[Edit\]](https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa) | 3:22 |
 
-Snapshot ID: `MCwzYjM1YjAzNTkwZTExYTA2ZWQ1ZjkzODllN2U2ODY0MjNjYjNhYmFi`
+Snapshot ID: `MCxkMzdjMjYyNjQ3YWYyZTJlNGY4ZTgyNjdhMzM3NDJiNGQyMWM5NWFk`

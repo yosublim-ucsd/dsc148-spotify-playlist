@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-119 songs - 6 hr 49 min
+121 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Holding on to Letting Go](https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U) | 2:45 | 2022-12-22 |  |
 | [Hope](https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Hope](https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH) | 2:52 | 2022-12-22 |  |
 | [How To Be Friends](https://open.spotify.com/track/0D1sMqzCYbhrruYPONJ3kS) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [How To Be Friends](https://open.spotify.com/album/7ALYAZJ9Lq4pYDgA5DinSC) | 3:28 | 2022-12-22 |  |
-| [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-12-22 |  |
+| [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 | 2022-12-22 | 2023-06-02 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-12-22 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-12-22 | 2023-02-24 |
 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 | 2022-12-22 |  |
@@ -58,7 +58,7 @@
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2022-12-22 |  |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2022-12-22 |  |
 | [Lemaire \- Radio Edit](https://open.spotify.com/track/05S78KurkT90dskEXozaE4) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Lemaire](https://open.spotify.com/album/1QwnEILfsLf5hb34vKKnhq) | 3:40 | 2022-12-22 |  |
-| [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-12-22 |  |
+| [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-12-22 | 2023-06-02 |
 | [Lights Off](https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/5Zd2cdDVrRrFJsjiSpo1m5) | 3:30 | 2023-01-16 |  |
 | [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 | 2023-02-03 |
 | [Little Bull Of Blithe](https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Live Deluxe\)](https://open.spotify.com/album/766BHyIm5fSBhpSJOJnaYV) | 2:10 | 2022-12-22 |  |
@@ -92,6 +92,7 @@
 | [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 |  |
 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2022-12-22 |  |
+| [Straight Driving](https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Straight Driving](https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot) | 3:20 | 2023-06-01 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2022-12-22 |  |
 | [Superman](https://open.spotify.com/track/6zRNC5bXxaUHgihZSNMiL8) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Superman](https://open.spotify.com/album/30H3pEsM0Z3Fn6VR8hwu6H) | 2:54 | 2022-12-22 |  |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2022-12-22 |  |
@@ -110,6 +111,7 @@
 | [The Writer](https://open.spotify.com/track/1MMMOeCempeTI2Ss3d6XDi) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [The Writer](https://open.spotify.com/album/72Pi6GJ3vRijpmBuKGH0z2) | 2:56 | 2022-12-22 |  |
 | [they only talk about the weather](https://open.spotify.com/track/7KgQS17rDK7gjWtOgNL2V1) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [they only talk about the weather](https://open.spotify.com/album/6fAwhVuJzrG19uLkfWopkR) | 2:35 | 2022-12-22 |  |
 | [this song should not exist](https://open.spotify.com/track/24pQ7W3aHv18U0i7qyce1M) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [this song should not exist](https://open.spotify.com/album/5zV1ICSYofEArHOXWX6Cv9) | 2:56 | 2023-05-25 |  |
+| [Those Were The Times](https://open.spotify.com/track/4bmo3t5W9JSZMNYhmm5yhK) | [Inkt](https://open.spotify.com/artist/23QHt3jgvqWKAeJaNjp4dQ), [Aron Hannes](https://open.spotify.com/artist/3YWoe6haPoiQdq7GaQz2OR) | [Those Were The Times](https://open.spotify.com/album/69X4yVKaGRxvQToqwK0R9N) | 3:01 | 2023-06-01 |  |
 | [Throw Me a Line](https://open.spotify.com/track/51fMhyYj71hpLnhn3YOij6) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Throw Me a Line](https://open.spotify.com/album/6W6Koawu49kcqmsJHec9xe) | 5:15 | 2022-12-22 |  |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2022-12-22 |  |
 | [Till The Sun Comes Up](https://open.spotify.com/track/7IxJ4XaMCSJ0JKBffm54z3) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [The Lucky Ones](https://open.spotify.com/album/75r6CVr4CkOrsGTUGbns42) | 3:21 | 2022-12-22 |  |

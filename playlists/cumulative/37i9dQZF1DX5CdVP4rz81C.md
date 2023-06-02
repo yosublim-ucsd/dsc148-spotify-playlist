@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Lana Del Rey
 
-1,322 songs - 2 day 21 hr 19 min
+1,324 songs - 2 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2021-06-26 | 2021-08-14 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-06-01 | 2022-08-03 |
 | [Don't Forget About Me](https://open.spotify.com/track/3jHpysHZfu05A8NjzHCxjc) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Art of Overthinking](https://open.spotify.com/album/3QUvaJGV0GPdSTxjP5TjDH) | 3:26 | 2020-11-06 | 2021-05-08 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-26 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Don't Go, Don't Leave](https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Don’t Go, Don’t Leave](https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey) | 3:15 | 2022-07-29 | 2022-11-05 |
 | [Don't Know What I Want](https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Know What I Want](https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz) | 2:25 | 2022-09-02 | 2022-09-10 |
 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 | 2023-04-14 | 2023-04-29 |
@@ -1039,7 +1040,8 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2021-12-24 | 2022-01-22 |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-29 | 2022-09-24 |
 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 | 2022-04-29 | 2022-05-28 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-26 |  |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2020-11-13 | 2021-02-06 |
 | [Sleepover](https://open.spotify.com/track/1w8mRQivwx1lwFd35UoNSE) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sleepover](https://open.spotify.com/album/06mmJpExaF2lAJR5QcawJ1) | 2:27 | 2022-07-29 | 2022-10-14 |
 | [Sleepover](https://open.spotify.com/track/67aJ9ZY19vOoJwhlfAjawB) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 2:27 | 2022-10-07 | 2022-10-29 |

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Alles Vergeven",
+        "url": "https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169558,
+      "name": "Alles Vergeven",
+      "url": "https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju"
+    },
+    {
+      "album": {
         "name": "Als Alles Wegvalt",
         "url": "https://open.spotify.com/album/6gdAvpnRN6VPdknvgSNyID"
       },
@@ -403,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Anne-Fleur Vakantie",
+        "url": "https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Anne-Fleur Vakantie",
+      "url": "https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m"
+    },
+    {
+      "album": {
         "name": "Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag",
         "url": "https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS"
       },
@@ -422,6 +458,28 @@
       "duration_ms": 125056,
       "name": "Anorak",
       "url": "https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc"
+    },
+    {
+      "album": {
+        "name": "Sliden EP",
+        "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139734,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/72yC7y5SvsFpIpRLxgBQz6"
     },
     {
       "album": {
@@ -458,6 +516,28 @@
       "duration_ms": 177004,
       "name": "B.E.D.A.N.K.T.",
       "url": "https://open.spotify.com/track/5UICkub9JtMHHY11wwC3IJ"
+    },
+    {
+      "album": {
+        "name": "Sliden EP",
+        "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139050,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U"
     },
     {
       "album": {
@@ -566,7 +646,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 225019,
       "name": "Blijf Nog Even",
       "url": "https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S"
@@ -660,7 +740,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 152888,
       "name": "Broekzak",
       "url": "https://open.spotify.com/track/1TPJiAKsCCEAojylNlZxua"
@@ -790,6 +870,24 @@
       "duration_ms": 201290,
       "name": "Dansen op Tafels",
       "url": "https://open.spotify.com/track/2rjyZ2afxuoQyMCyFPDDbp"
+    },
+    {
+      "album": {
+        "name": "Dat Ene Bankje",
+        "url": "https://open.spotify.com/album/6dV14pVCHqYdt1kwe5WjVL"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198399,
+      "name": "Dat Ene Bankje",
+      "url": "https://open.spotify.com/track/2d7evgttKIjUOFtnmg1DUQ"
     },
     {
       "album": {
@@ -952,7 +1050,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 224547,
       "name": "De Verloren Overwinning",
       "url": "https://open.spotify.com/track/2Qd2qd9cUUx7gv3YCN6ugt"
@@ -1370,7 +1468,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 203381,
       "name": "Glas Omhoog",
       "url": "https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv"
@@ -1410,6 +1508,24 @@
       "duration_ms": 145263,
       "name": "Goddamn",
       "url": "https://open.spotify.com/track/1RKkXpPjda5Ow3dih6nNI8"
+    },
+    {
+      "album": {
+        "name": "Goed Nieuws",
+        "url": "https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223028,
+      "name": "Goed Nieuws",
+      "url": "https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB"
     },
     {
       "album": {
@@ -1496,7 +1612,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 199586,
       "name": "Het Feest Is Al Voorbij",
       "url": "https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os"
@@ -1540,6 +1656,28 @@
       "duration_ms": 154285,
       "name": "Het Is Ok\u00e9",
       "url": "https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM"
+    },
+    {
+      "album": {
+        "name": "Hete Vuren",
+        "url": "https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Melissa Lopes",
+          "url": "https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Hete Vuren",
+      "url": "https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL"
     },
     {
       "album": {
@@ -1660,6 +1798,24 @@
       "duration_ms": 150000,
       "name": "Hoop - Bonus Track",
       "url": "https://open.spotify.com/track/7G7HyrEcu4KqiVAgAaAXOr"
+    },
+    {
+      "album": {
+        "name": "Hopeloze Dromenloosheid",
+        "url": "https://open.spotify.com/album/34EucJ3EG4tDT430icQihg"
+      },
+      "artists": [
+        {
+          "name": "Tomson",
+          "url": "https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190458,
+      "name": "Hopeloze Dromenloosheid",
+      "url": "https://open.spotify.com/track/2CrfkhNaUXD9BVedDjYylH"
     },
     {
       "album": {
@@ -2166,7 +2322,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 173791,
       "name": "Lentesneeuw",
       "url": "https://open.spotify.com/track/5W7WdKoJHZC6fGWbt0YWd7"
@@ -2820,7 +2976,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 157037,
       "name": "Onderweg",
       "url": "https://open.spotify.com/track/0gekZRV95IfIVeJTtJHa2v"
@@ -3052,7 +3208,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 199562,
       "name": "Signalen",
       "url": "https://open.spotify.com/track/3sXuzqUTUbLQqAcCYvNu1B"
@@ -3644,7 +3800,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 213811,
       "name": "Vier Seizoenen",
       "url": "https://open.spotify.com/track/0Y9BkgFnckuG7dZrJAjk3j"
@@ -4014,6 +4170,24 @@
       "duration_ms": 154746,
       "name": "Zwakke Plekken",
       "url": "https://open.spotify.com/track/7v9maReQ2LdCDXMeHePWfE"
+    },
+    {
+      "album": {
+        "name": "Zweven",
+        "url": "https://open.spotify.com/album/7jyJPYHgvDIsHElJio5fnQ"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Zweven",
+      "url": "https://open.spotify.com/track/41kC0OKOvxxccg9AZcIVlg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557"

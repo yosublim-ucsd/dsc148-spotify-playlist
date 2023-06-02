@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 138285,
+  "num_followers": 138336,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWU1NDgxYTlkYTk1NjI5YWU1NWY0ODY0ZTFjNzY1Njg3NzhlNzgx",
+  "snapshot_id": "MCw2NWJhNTBhNmRlYTVmYTM4ZmY2Y2E0YzJmZDI3YTI5Y2FmNTljZWRm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 309653,
-      "name": "C\u00f3mo Lo Hacen",
-      "url": "https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 449640,
       "name": "Aparentemente - En Vivo",
       "url": "https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 309653,
+      "name": "C\u00f3mo Lo Hacen",
+      "url": "https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 420040,
-      "name": "Lo Mio Es Amor - En Vivo",
-      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Calle Linda (Golden Edition)",
         "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 383040,
       "name": "Loco Pero Feliz",
       "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 420040,
+      "name": "Lo Mio Es Amor - En Vivo",
+      "url": "https://open.spotify.com/track/4jaWSPnRJLBpE8G2Ug8nUJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",

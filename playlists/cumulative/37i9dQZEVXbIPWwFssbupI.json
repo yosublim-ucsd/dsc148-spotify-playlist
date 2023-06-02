@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 206720,
       "name": "D\u00e9lire (feat. Tiakola)",
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
@@ -8588,6 +8588,24 @@
       "duration_ms": 168877,
       "name": "Filtr\u00e9",
       "url": "https://open.spotify.com/track/7eb7JIRN6HKpedFSDGd4yI"
+    },
+    {
+      "album": {
+        "name": "Finale - Nouvelle \u00c9cole",
+        "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
+      },
+      "artists": [
+        {
+          "name": "Dau",
+          "url": "https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Finale - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
     },
     {
       "album": {
@@ -11842,7 +11860,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
@@ -13310,7 +13328,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 193443,
       "name": "La vie qu'on m\u00e8ne",
       "url": "https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No"
@@ -23004,7 +23022,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181477,
       "name": "Substitution",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
@@ -25864,6 +25882,28 @@
       "duration_ms": 198573,
       "name": "WWE",
       "url": "https://open.spotify.com/track/5IuquxbuAYmwm9tucytE3J"
+    },
+    {
+      "album": {
+        "name": "Yafama - Nouvelle \u00c9cole",
+        "url": "https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4"
+      },
+      "artists": [
+        {
+          "name": "Yuz Boy",
+          "url": "https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH"
+        },
+        {
+          "name": "Bassey Kone",
+          "url": "https://open.spotify.com/artist/041XhEqeFNWddFXmAeAIPp"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214901,
+      "name": "Yafama - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa"
     },
     {
       "album": {

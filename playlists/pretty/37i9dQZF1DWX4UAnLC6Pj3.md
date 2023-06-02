@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Luis Alfonso Partida El Yaki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,185 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,442 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 50 | [La Despedida](https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [La Despedida](https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5) | 2:59 |
 | 51 | [Fuera de Servicio \- En Vivo](https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q) | 3:26 |
 | 52 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
-| 53 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
-| 54 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
-| 55 | [Que Te Trague La Tierra](https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Que Te Trague La Tierra](https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv) | 3:08 |
+| 53 | [Que Te Trague La Tierra](https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Que Te Trague La Tierra](https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv) | 3:08 |
+| 54 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
+| 55 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
 | 56 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 |
 | 57 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 |
 | 58 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 59 | [Que Llore, Que Llore](https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Aquí Casual](https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK) | 2:45 |
 | 60 | [Olvidarte, ¿Cómo?](https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:50 |
-| 61 | [Gente Corriente](https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Gente Corriente](https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84) | 2:13 |
-| 62 | [Mándame Otra Vez A La Chingada](https://open.spotify.com/track/5Xd5yjl9UdzLQxclBT6pMf) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Mándame Otra Vez A La Chingada](https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X) | 3:34 |
+| 61 | [Mándame Otra Vez A La Chingada](https://open.spotify.com/track/5Xd5yjl9UdzLQxclBT6pMf) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Mándame Otra Vez A La Chingada](https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X) | 3:34 |
+| 62 | [Gente Corriente](https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Gente Corriente](https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84) | 2:13 |
 | 63 | [A Cuánto Me Quedé](https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Historias de Mi Vida](https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe) | 3:21 |
 | 64 | [12 Rifles](https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [12 Rifles](https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn) | 2:53 |
 | 65 | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Pa Que Se Me Quite Lo Cabrón](https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
 | 100 | [El HT](https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El HT](https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz) | 2:30 |
 
-Snapshot ID: `MCwzNDliZmU2YzU5ZTQ4MTdkZTE2MDcyNmM2MjBmNDI2YTc2MjBhMzgy`
+Snapshot ID: `MCw5MjRjYjkwNDhkM2M1YzMwZWE5NjZjZGZiYjI2ODU0MmQwOTlmMDY3`

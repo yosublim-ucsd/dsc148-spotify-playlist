@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 133043,
+  "num_followers": 133220,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzUyZTkyMjlkMDI0ZDIxOTBmMDA4MWExNmQ0ZTdmNjcwNmMxYzk4",
+  "snapshot_id": "MCwxYWJlMTUyNjY1MTNiMzE5Y2ZkZDM2YWY5M2FkZDEwZmY0NGQyZDNk",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 196600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Holo",
         "url": "https://open.spotify.com/album/03XvFQHMPkAUrcbnvpaYwC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/7c0ss9FGSyXGNczL4gV75a"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Superorganism",
-        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
         }
       ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
+      "duration_ms": 215693,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
       },
       "artists": [
         {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 215693,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+      "duration_ms": 191933,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Plural",
-        "url": "https://open.spotify.com/album/4ncZdrGiO459vrUU1yYCCA"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Oh Devil",
-      "url": "https://open.spotify.com/track/1kcfGBb6kSrGqNIMW7rAlB"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Plural",
+        "url": "https://open.spotify.com/album/4ncZdrGiO459vrUU1yYCCA"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Oh Devil",
+      "url": "https://open.spotify.com/track/1kcfGBb6kSrGqNIMW7rAlB"
     },
     {
       "added_at": "2022-10-27 05:38:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,427 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,407 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [La fiesta](https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [La fiesta](https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp) | 3:32 |
 | 100 | [POTINHO](https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [POTINHO](https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7) | 2:57 |
 
-Snapshot ID: `MCw5Yzc0MWYwNTgzZGI3ZDk1YWIzZDFiZjNjNzgyNDUyMjEyMTBiYzY0`
+Snapshot ID: `MCwyMjI3ZWU5YzY5YmU0YWJiOTc0ZjY4YmIzODViNjM4ZTRkZjM3MmIz`

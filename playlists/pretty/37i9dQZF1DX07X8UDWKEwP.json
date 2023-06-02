@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Vicente Garc\u00eda",
-  "num_followers": 252668,
+  "num_followers": 252714,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRkNjRiNmY2MDkwMTBjOTJiNmU4NmM5NzJkMzRlNWYzOTk1ZDM0",
+  "snapshot_id": "MCwzY2Q1YmY0ZTRhYjRkNzNkZjI0OTZmNTMzNWVjYjE2NmFlZjU3NDRi",
   "tracks": [
     {
       "added_at": "2023-05-26 09:37:23",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-05-26 09:37:23",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-05-26 09:37:23",
-      "album": {
         "name": "Luck Ra | Mission 15",
         "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 133284,
       "name": "Luck Ra | Mission 15",
       "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
+    },
+    {
+      "added_at": "2023-05-26 09:37:23",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-05-26 09:37:23",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-05-26 09:37:23",
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+    },
+    {
+      "added_at": "2023-05-26 09:37:23",
+      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 164093,
       "name": "Consuelo",
       "url": "https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i"
-    },
-    {
-      "added_at": "2023-05-26 09:37:23",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-05-26 09:37:23",

@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 34202,
+  "num_followers": 34236,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjYyYjQ4ODU4MjQ4NmFiMWYxZjViMDU4NDY2NWNhODNmMDdkYjZh",
+  "snapshot_id": "MCw5OTk5YjVmNmNlODFlMGQ2YmUyZTkxOWQ5MzMyNzNkNDIyMDk2OTRk",
   "tracks": [
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Una Dimensi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Por el Buen Camino",
         "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Soy Feliz",
         "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Este Negro Si es Sabroso",
         "url": "https://open.spotify.com/album/4lo8dpD9ro4TeK7KnTYWqe"
@@ -507,38 +507,6 @@
       "duration_ms": 312640,
       "name": "Catalina La O",
       "url": "https://open.spotify.com/track/3uOODK5GtGFNda7J8ty4VJ"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Creativo",
-        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
-      },
-      "artists": [
-        {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
-        }
-      ],
-      "duration_ms": 305057,
-      "name": "Zumbale",
-      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
-        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Incomprendido",
-      "url": "https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -559,6 +527,38 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
+        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Incomprendido",
+      "url": "https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Creativo",
+        "url": "https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 305057,
+      "name": "Zumbale",
+      "url": "https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Las Flores De La Vida",
         "url": "https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD"
       },
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
@@ -669,23 +669,23 @@
       "url": "https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
-        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
-        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Bang! Bang!",
-      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
@@ -705,23 +705,23 @@
       "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
       },
       "artists": [
         {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/6kWG4fIWsx6Qf4b0kgRMXM"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Bohemio y Poeta",
         "url": "https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/5o1kiwkFXoJET4FW4pKtlE"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
     },
     {
-      "added_at": "2023-06-01 01:25:25",
+      "added_at": "2023-06-02 01:07:49",
       "album": {
         "name": "Musical Conquest",
         "url": "https://open.spotify.com/album/6QybGmhiK58QmzzArsI68m"

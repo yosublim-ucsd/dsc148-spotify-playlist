@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,128 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,142 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 41 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
 | 42 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
 | 43 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
-| 44 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
-| 45 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
+| 44 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
+| 45 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
 | 46 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
 | 47 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
 | 48 | [Ando al Ciego](https://open.spotify.com/track/0o905squ3VdFpVn5Zlq8hn) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Ando al Ciego](https://open.spotify.com/album/3oy9PTZQ1DXASStLGYrTK7) | 3:35 |
 | 49 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 |
 | 50 | [DOLOR](https://open.spotify.com/track/66kByrbdiufwvhvRyH5PSF) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [5](https://open.spotify.com/album/7yZ3wtLm2vdGM988Gnja0V) | 3:35 |
 
-Snapshot ID: `MCxmZTZmZmYyMjNlMGE1YzA4YWE1MzU0MzNhNzQ3ZjMyZTdiYWRkNWQ0`
+Snapshot ID: `MCw0MDVmNmZkN2Y1ODJmZmI4ZTE2NjE4OTg1Y2U0ZDI2NDU0OTUyM2Vj`

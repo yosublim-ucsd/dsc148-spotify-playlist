@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-1,003 songs - 2 day 6 hr 35 min
+1,004 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,7 +997,8 @@
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-13 | 2023-04-01 |
 | [worth it](https://open.spotify.com/track/0j7cIOFS3nNTZyzkAuS2Rm) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [worth it](https://open.spotify.com/album/0awide22MyLQ6uMiFUzAFY) | 3:43 | 2023-03-03 | 2023-04-29 |
 | [Worth It](https://open.spotify.com/track/6O2n6dzWaaH4mAWbq0tMWu) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Worth It](https://open.spotify.com/album/4hcOMat5yK68nRsEuCd4g4) | 3:08 | 2022-08-26 | 2022-10-01 |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-03-10 |  |
 | [Wrong Idea](https://open.spotify.com/track/7bl1wF17Dtd0LgODvxv6LO) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Wrong Idea](https://open.spotify.com/album/2j3MzEtEUYHHKnEwZEx3YN) | 4:45 | 2022-03-25 | 2022-04-21 |
 | [Yeah!](https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Yeah!](https://open.spotify.com/album/0Ja4rfpa2qWvijmcTuAk2y) | 2:48 | 2021-08-13 | 2022-06-08 |
 | [Year Of The Spider](https://open.spotify.com/track/5pSTwad8BxVN8nbYggPWmp) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Year Of The Spider](https://open.spotify.com/album/1wIt68VvP4DjmCztavomtX) | 2:30 | 2021-06-18 | 2022-04-12 |

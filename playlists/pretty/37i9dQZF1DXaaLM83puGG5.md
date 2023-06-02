@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going w/ Yellow Party NYC
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,182 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,215 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 24 | [Mind Yo Business \(feat\. Latto\)](https://open.spotify.com/track/1GXZk5WpfVSjFL6wEE2SnK) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:02 |
 | 25 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 | 26 | [Sexy Lady \(feat\. TRÉ\) \[Remastered\]](https://open.spotify.com/track/2SAR6olJLtcLou5kZKsbAb) | [UCB \(Uncalled 4 Band\)](https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF), [TRÉ](https://open.spotify.com/artist/5WpjTZi2sl30SfhM13sKiR) | [Sexy Lady \(feat\. TRÉ\) \[Remastered\]](https://open.spotify.com/album/4Hica7Lo2seyczu7s5Gqe5) | 3:22 |
-| 27 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Soweto \(with Don Toliver, Rema, and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
+| 27 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 28 | [Imagine That](https://open.spotify.com/track/13HzAeBqXiteJb0J7wayqL) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS), [Lamii](https://open.spotify.com/artist/1kU8oJyVyu8qHzyOd7YcId) | [Imagine That](https://open.spotify.com/album/4zaGNM54ooBxxPuX911ya0) | 3:15 |
 | 29 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
 | 30 | [Big Flexa](https://open.spotify.com/track/6PczP7McR5UyseBwf3QMBd) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 5:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
 | 50 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 |
 
-Snapshot ID: `MCwzYzdmYjRkOTExNjczNTZiYTA2Nzg4ZGYxODRhODAyMjg2ZGQwMTU1`
+Snapshot ID: `MCw2NTQ2NGExMDc0ODViNjQ1NzhlZDFlNGJlYTFkM2VlMjM2MzQxMDAw`

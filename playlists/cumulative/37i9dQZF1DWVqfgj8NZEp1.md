@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-284 songs - 1 day 2 hr 31 min
+285 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2020-10-09 |  |
 | [So in Love](https://open.spotify.com/track/1Kez08abn4yr3T7hbCeW3i) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/3zSMrISTkz9nnCwzn7VNAT) | 8:25 | 2020-10-09 | 2022-02-18 |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2020-10-09 | 2022-12-06 |
+| [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 |  |
 | [Solitude](https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni) | [Daniel Guggenheim Quartet](https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt) | [Red Orange and Blue](https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA) | 7:12 | 2022-05-26 | 2022-06-22 |
 | [Sometimes It Snows in April](https://open.spotify.com/track/1hbmJ6JjAVMEUtcT0l5wrd) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Sometimes It Snows in April](https://open.spotify.com/album/12OuGKWyIlWqFVHInfPp9D) | 9:49 | 2021-04-30 | 2022-02-18 |
 | [Sometimes It Snows In April](https://open.spotify.com/track/4o7cuGElwNfemVOs49Ye4b) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [The Next Door](https://open.spotify.com/album/0nHbsspbfUrQvpR5XcGZsL) | 3:59 | 2023-05-11 |  |

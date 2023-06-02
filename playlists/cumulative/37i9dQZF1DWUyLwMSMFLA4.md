@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-104 songs - 6 hr 18 min
+105 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 | 2023-05-05 |  |
 | [Cachorro](https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cachorro](https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ) | 2:55 | 2023-05-05 |  |
 | [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 | 2023-05-05 |  |
-| [Chau \- Me Puedo Equivocar](https://open.spotify.com/track/136S30OIqASMPolggdlhs1) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Chau \- Me Puedo Equivocar](https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8) | 2:46 | 2023-05-19 |  |
+| [Chau \- Me Puedo Equivocar](https://open.spotify.com/track/136S30OIqASMPolggdlhs1) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Chau \- Me Puedo Equivocar](https://open.spotify.com/album/0KxXrRGHFioyE9zxsMbsw8) | 2:46 | 2023-05-19 | 2023-06-02 |
 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 | 2023-05-05 |  |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2023-05-05 |  |
 | [Cinco minutos](https://open.spotify.com/track/4M7gtZi4Tai6gJMIkNzWcC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cinco minutos](https://open.spotify.com/album/2q2u75ecRs9D2IhKY2bo1R) | 3:31 | 2023-05-05 |  |
@@ -36,6 +36,7 @@
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2023-05-05 |  |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2023-05-05 |  |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2023-05-05 |  |
+| [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-06-01 |  |
 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 | 2023-05-05 |  |
 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 | 2023-05-05 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2023-05-05 |  |

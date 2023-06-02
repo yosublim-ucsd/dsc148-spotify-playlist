@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,595 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,591 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Noël ensemble](https://open.spotify.com/track/7tCtp4xw5vvXqM7UrlRrQD) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [Stella Dupré](https://open.spotify.com/artist/7eck2uAw1Wva9s5d9FTvMQ) | [Noël ensemble](https://open.spotify.com/album/509P93qTJulQmXvi7PPQ4V) | 3:22 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCw3MGFmMTY1MjJkMWMyMWYyNzU5YTdhN2RmZWY1YzlhNTk3ZDZmMWIy`
+Snapshot ID: `MCxmZDc1YzUwNTA5MzcyMGYwN2ZhZDY4YjFkZWQ1NzZjOWZiOTY2MDdl`

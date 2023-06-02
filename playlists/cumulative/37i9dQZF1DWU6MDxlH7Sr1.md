@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-258 songs - 16 hr 57 min
+259 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Freddie Freeloader](https://open.spotify.com/track/0k8yaziKe1VHprtyeYsR7H) | [Sixth Street Quartet](https://open.spotify.com/artist/3VNm5jxAuivvWsOLWcIiVt) | [Morning Heartache EP](https://open.spotify.com/album/1nFeazrI7NLYn7QNQakrM8) | 2:31 | 2022-04-26 | 2022-05-11 |
 | [Fridays](https://open.spotify.com/track/3Y23H0dJCyZ8Whxh59eJEB) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Fridays](https://open.spotify.com/album/5pvCfDy1k6koVQYUYSvEIb) | 3:05 | 2022-04-26 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |

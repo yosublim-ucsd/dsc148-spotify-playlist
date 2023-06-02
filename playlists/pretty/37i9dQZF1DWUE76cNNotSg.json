@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 441580,
+  "num_followers": 441977,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2QwNzJlODgwZWJjZWYyZWY2NTYxNGQxOWUxNjgyNzhmNWU5YWUx",
+  "snapshot_id": "MCxjOTQ0MjI1ZTM2OWNiNzNjYmRmNWU1NjVkNTEyYTAwODlhMTc4MmMz",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "Blood Remixed",
@@ -239,22 +255,6 @@
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Begin Again - Single Edit",
-      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
-    },
-    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "Polydans",
@@ -511,6 +495,22 @@
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-05-16 14:00:42",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Someone\u2019s EP II X",
-        "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Louis La Roche",
-          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
-        }
-      ],
-      "duration_ms": 266289,
-      "name": "go with u - Louis La Roche Remix",
-      "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 217296,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/0feV26ESzVptPP83N82VAO"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Someone\u2019s EP II X",
+        "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+        }
+      ],
+      "duration_ms": 266289,
+      "name": "go with u - Louis La Roche Remix",
+      "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Zanzibar",
+        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
+      },
+      "artists": [
+        {
+          "name": "Kamaliza",
+          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "Zanzibar",
+      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 173000,
       "name": "Can\u2019t Let You Go",
       "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Zanzibar",
-        "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
-      },
-      "artists": [
-        {
-          "name": "Kamaliza",
-          "url": "https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "Zanzibar",
-      "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-05-16 14:00:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -1179,38 +1163,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "On the Quiet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
       "artists": [
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Far Away Place",
-      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-05-16 14:00:42",
@@ -1239,6 +1203,42 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "We Stayed Up All Night",
         "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 265758,
       "name": "We Stayed Up All Night",
       "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1307,22 +1291,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Old Bone (Jim-E Stack Remix)",
-        "url": "https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Old Bone - Jim-E Stack Remix",
-      "url": "https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1339,6 +1319,26 @@
       "duration_ms": 196071,
       "name": "Kyle (I Found You)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Old Bone (Jim-E Stack Remix)",
+        "url": "https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Old Bone - Jim-E Stack Remix",
+      "url": "https://open.spotify.com/track/6YKLlLoEYRujlAH8SgkTge"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     }
   ],
   "unique_name": "golden hour",

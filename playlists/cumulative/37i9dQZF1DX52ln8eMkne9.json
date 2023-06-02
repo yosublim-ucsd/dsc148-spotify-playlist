@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 239380,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/5Cbq127eIsrkHDvGweTzYB"
@@ -3103,6 +3103,32 @@
     },
     {
       "album": {
+        "name": "Polar Waters",
+        "url": "https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85"
+      },
+      "artists": [
+        {
+          "name": "Joshua Jaswon Octet",
+          "url": "https://open.spotify.com/artist/3LQftaWF3PsW2cWmSscvuK"
+        },
+        {
+          "name": "Joshua Jaswon",
+          "url": "https://open.spotify.com/artist/1hgFAM0wgN4PdJIq1AAtAU"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366177,
+      "name": "Lost in a Dream",
+      "url": "https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb"
+    },
+    {
+      "album": {
         "name": "Move On: A Sondheim Adventure",
         "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
       },
@@ -4000,7 +4026,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 243128,
       "name": "Postage Due",
       "url": "https://open.spotify.com/track/6SPolz3zYNwjjCnQMo1aBv"
@@ -4728,6 +4754,28 @@
       "duration_ms": 329093,
       "name": "The Man That Got Away",
       "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
+    },
+    {
+      "album": {
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        },
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
     },
     {
       "album": {

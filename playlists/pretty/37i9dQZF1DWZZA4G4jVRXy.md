@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,725 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,779 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lujon](https://open.spotify.com/track/37N37WJQvXqplFdCwkNgX3) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Mr\. Lucky Goes Latin](https://open.spotify.com/album/5m8ncEaAhq76pfuJzGOO2h) | 2:38 |
-| 2 | [The Enchanted Sea](https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [The Enchanted Sea](https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom) | 2:01 |
-| 3 | [Tiny Bubbles](https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Tiny Bubbles](https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y) | 2:42 |
+| 2 | [Tiny Bubbles](https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [Tiny Bubbles](https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y) | 2:42 |
+| 3 | [The Enchanted Sea](https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [The Enchanted Sea](https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom) | 2:01 |
 | 4 | [Hii Lawe](https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg) | 1:11 |
 | 5 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 6 | [Tropicando](https://open.spotify.com/track/46SMRZqsnGNdyGPhlcFFWb) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [101 Strings Orchestra](https://open.spotify.com/artist/1sLpCr5xThZkGHLw4H0mNE) | [Que Mango! Arranged and Conducted by Les Baxter \(Remastered from the Original Master Tapes\)](https://open.spotify.com/album/7GPc0QmiMhM3c3nUuBIpfO) | 2:37 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 26 | [Palmeras](https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:20 |
 | 27 | [Enchantment](https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:45 |
 | 28 | [Palace of the Tiger Women](https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY) | [Kava Kon](https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd) | [Tiki for the Atomic Age](https://open.spotify.com/album/2nM2Rcvns6Yb64AxylBDUA) | 2:48 |
-| 29 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
-| 30 | [Perfidia](https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [The Dance Beat of Xavier Cugat](https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5) | 3:25 |
+| 29 | [Perfidia](https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [The Dance Beat of Xavier Cugat](https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5) | 3:25 |
+| 30 | [Lotus Land](https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [Carnival Tropicana \(1948\) & Lure of the Tropics \(1954\)](https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz) | 4:19 |
 | 31 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
 | 32 | [Yellow Bird](https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP) | 2:44 |
 | 33 | [Terry's Theme \(From "Limelight\)](https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle) | [The Three Suns](https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc) | [On A Magic Carpet](https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ) | 3:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 36 | [Pua Lililehua](https://open.spotify.com/track/6MhpbidfJC315rJJcPaluW) | [Hui Ohana](https://open.spotify.com/artist/7vDfRi57oGVgERsAO16cZ1), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Nedward Ka'apana](https://open.spotify.com/artist/3ltZsnKXs9TkOCL4fhFMhR), [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [Young Hawaii Plays Old Hawaii](https://open.spotify.com/album/73EtyWy6eklV217lXyE89J) | 4:17 |
 | 37 | [Lepe Ula'ula](https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159) | [Na Palapalai](https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e) | [Makani Olu'olu](https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB) | 2:43 |
 | 38 | [Hanalei Moon](https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX), [Amy Hānaialiʻi Gilliom](https://open.spotify.com/artist/0uSSrlQWbnBFSJT3dzS1N7) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp) | 4:35 |
-| 39 | [Glow Worm Cha Cha Cha \- Remastered](https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD) | [Jackie Davis](https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ) | [Ultra\-Lounge: Fuzzy Retail Sampler](https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd) | 2:23 |
-| 40 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
+| 39 | [Uilani / Baby Kalae](https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1) | [Maunalua](https://open.spotify.com/artist/2xWcXBvJeNWFIfy7HghTIS) | [Maunalua](https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I) | 5:24 |
+| 40 | [Glow Worm Cha Cha Cha \- Remastered](https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD) | [Jackie Davis](https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ) | [Ultra\-Lounge: Fuzzy Retail Sampler](https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd) | 2:23 |
 | 41 | [Hawaiian War Chant](https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Quiet Village](https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74) | 2:18 |
 | 42 | [Ipo Hula](https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 1:50 |
 | 43 | [Aquellos Ojos Verdes](https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu) | [Al Romero And His Orchestra](https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0) | [Vintage Jazz Nº 32 \- EPs Collectors "Aquellos Ojos Verdes"](https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs) | 2:42 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 75 | [Hana Maui \- Digitally Remastered 1995](https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2) | [Chick Floyd](https://open.spotify.com/artist/404efVa1buWrjEeOfQKGdN) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 3:16 |
 | 76 | [Lust](https://open.spotify.com/track/65jpm2yvG0Fz67GkUCClQV) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [The Passions](https://open.spotify.com/album/63VK8OhIxPTYmKK5zc3i6L) | 2:59 |
 
-Snapshot ID: `MCxkMjJlYTEyNTkxNmJhNWI0NjRiNTYxODk4N2NjNjgwNzA1NDkxYzI3`
+Snapshot ID: `MCxjMjQ4NzJkZGE3NDY4NmFlYTZiODMyMDQxNDI1ZDc1MGI2NmVjNThk`

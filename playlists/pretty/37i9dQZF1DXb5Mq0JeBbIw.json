@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 152426,
+  "num_followers": 152459,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDRmMjU1MGUzNzlkOTk4MGE0MzU3ZmNhMTY0ODUxOTI5ZjhlYjkw",
+  "snapshot_id": "MCw2MzIxODM2ZWRkZDFiNmRhNjU1ZmI0OGUzYTFiODU4ZjlkNzdjY2Vl",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
     },
     {
+      "added_at": "2023-05-19 09:18:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
+    },
+    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Dancing On My Own (Acoustic)",
@@ -447,22 +463,6 @@
       "duration_ms": 219066,
       "name": "please",
       "url": "https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9"
-    },
-    {
-      "added_at": "2023-05-19 09:18:00",
-      "album": {
-        "name": "Meltdown (Acoustic)",
-        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224487,
-      "name": "Meltdown - Acoustic",
-      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "#Covers",
+        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint Me",
+      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "#Covers",
-        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint Me",
-      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Here With Me - Acoustic",
+        "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 164478,
+      "name": "Here With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "~how i'm feeling~ (the extras)",
         "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 257516,
       "name": "Saving Us a Riot",
       "url": "https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Here With Me - Acoustic",
-        "url": "https://open.spotify.com/album/0R8V2wckybjZhV0lclGaNt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 164478,
-      "name": "Here With Me - Acoustic",
-      "url": "https://open.spotify.com/track/0Dc3gJMT5I1NrHsjVywWvI"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Ep1",
-        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
-      },
-      "artists": [
-        {
-          "name": "Kay Nambiar",
-          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "Recompose",
-      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 195173,
       "name": "Find You - Acoustic",
       "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Ep1",
+        "url": "https://open.spotify.com/album/45IdJiVJuToGIpu9SwIOsI"
+      },
+      "artists": [
+        {
+          "name": "Kay Nambiar",
+          "url": "https://open.spotify.com/artist/2oFOiPYQ4kKIaBS9337ZoX"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "Recompose",
+      "url": "https://open.spotify.com/track/1aQ2mEr0u12stjGRnTnZA7"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Cursed",
-        "url": "https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri"
-      },
-      "artists": [
-        {
-          "name": "Chachi",
-          "url": "https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Cursed II",
-      "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "When the Party's Over",
         "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Tofino",
+        "url": "https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW"
+      },
+      "artists": [
+        {
+          "name": "Julianna Laine",
+          "url": "https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Tofino",
+      "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Cursed",
+        "url": "https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri"
+      },
+      "artists": [
+        {
+          "name": "Chachi",
+          "url": "https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Cursed II",
+      "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "With Or Without You (Acoustic)",
         "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 206666,
       "name": "With Or Without You (Acoustic)",
       "url": "https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "God Save The Dream",
-        "url": "https://open.spotify.com/album/4OX4R0SPj4MkfLcQqsMcY5"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 222473,
-      "name": "Fine On Your Own",
-      "url": "https://open.spotify.com/track/5GieMXCbY0rFATTrwyMqS2"
     }
   ],
   "unique_name": "Soft Morning",

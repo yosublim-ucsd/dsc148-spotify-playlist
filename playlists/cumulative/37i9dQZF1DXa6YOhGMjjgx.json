@@ -3482,10 +3482,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 182100,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF"
+    },
+    {
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182100,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
     },
     {
       "album": {

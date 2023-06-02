@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 52070,
+  "num_followers": 52082,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmU5M2RiNmIzN2ViNTRlNWIxMThkMjFjYTc4ZjlmZTljMzljNWZh",
+  "snapshot_id": "MCw2YjYzNGYyOTYxYmRmZjU0YzYwODQ2MTA4MWE5NTcxYzRlODI5Yjdl",
   "tracks": [
     {
       "added_at": "2023-04-20 17:55:41",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Aroma de Caf\u00e9",
         "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+        "name": "La Vida Es Una Canci\u00f3n II",
+        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        },
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
         }
       ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+      "duration_ms": 258000,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1355,6 +1359,22 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "La Vida Es Una Canci\u00f3n II",
-        "url": "https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Desinformation",
         "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Portal De Luz",
-        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 259140,
-      "name": "Portal De Luz",
-      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 230986,
       "name": "Diablito",
       "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Portal De Luz",
+        "url": "https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 259140,
+      "name": "Portal De Luz",
+      "url": "https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ"
     },
     {
       "added_at": "2023-04-20 17:55:41",

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-549 songs - 1 day 9 hr 30 min
+551 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7ALLGPWvUBlCkMuWGWkt1u) | [Alexander Berman Quartet](https://open.spotify.com/artist/5Mw51lrS2LcugNZuZG5LIX) | [Moon River](https://open.spotify.com/album/7eYh1aQ15wakx4E7fK2UQ8) | 5:56 | 2022-06-28 | 2022-10-02 |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2022-06-28 | 2022-11-29 |
 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 | 2022-06-28 | 2022-10-08 |
-| [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 | 2023-01-12 |  |
+| [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 | 2023-01-12 | 2023-06-02 |
 | [Quiescence](https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:03 | 2022-06-28 | 2022-10-08 |
 | [Quiet Now](https://open.spotify.com/track/42Z4Egilt6kqyDKDugV9v3) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 4:43 | 2022-06-28 | 2022-11-09 |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-08 |  |
@@ -489,6 +489,7 @@
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Party's Over](https://open.spotify.com/track/3bCDBqVpu1lDbRGEV0El1J) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Party's Over](https://open.spotify.com/album/49UPJkZBspIbnn0WuoQlMv) | 3:09 | 2022-06-28 | 2022-11-22 |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-06-28 | 2022-10-08 |
+| [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-06-01 |  |
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-07 | 2023-01-25 |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 | 2022-10-08 |
@@ -499,7 +500,7 @@
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-06-28 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-06-28 | 2022-11-03 |
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-05-04 |  |
-| [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
+| [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 | 2023-06-02 |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-06-28 | 2023-01-17 |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-16 |  |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 | 2023-03-04 |
@@ -511,6 +512,7 @@
 | [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 | 2023-02-01 |
 | [Tomorrow Is Here](https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Tomorrow Is Here](https://open.spotify.com/album/2Pvs4bsVvPE1fp6xRryR81) | 3:37 | 2022-09-07 | 2022-11-28 |
 | [Too Young To Go Steady](https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Too Young To Go Steady](https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh) | 2:26 | 2023-04-20 |  |
+| [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-06-01 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-06-28 | 2023-02-18 |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-03-09 |  |

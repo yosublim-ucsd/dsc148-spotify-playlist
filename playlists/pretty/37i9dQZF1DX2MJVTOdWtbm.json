@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Corina Smith \n",
-  "num_followers": 107552,
+  "num_followers": 107581,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzc1OWNhZjk4OGNkYjExZmFhYWI0M2Q3Njg1ZWQ1YWMxMzEzODA1",
+  "snapshot_id": "MCwxODk4NGM0Y2M0OGU0ODQ2MDE1YTgxMTNhM2U1ODU5OWUwYTBjY2U5",
   "tracks": [
     {
       "added_at": "2023-05-12 19:50:05",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Mi Monopolio",
         "url": "https://open.spotify.com/album/21HvaqyP2K8nQZdgGicqMh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 230838,
       "name": "Como Amigos",
       "url": "https://open.spotify.com/track/2uXS7NcBChNJZTIjHjlgjV"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "Garabatos",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 173400,
       "name": "A la Carta",
       "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
         "name": "5 A.M.",
         "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2023-05-12 19:50:05",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -1731,6 +1731,26 @@
       "duration_ms": 177954,
       "name": "Let Me Down Slow",
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "added_at": "2023-05-12 19:50:05",
+      "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 181221,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
     },
     {
       "added_at": "2023-05-12 19:50:05",
@@ -1763,26 +1783,6 @@
       "duration_ms": 168804,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
-    },
-    {
-      "added_at": "2023-05-12 19:50:05",
-      "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 181221,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
     },
     {
       "added_at": "2023-05-12 19:50:05",

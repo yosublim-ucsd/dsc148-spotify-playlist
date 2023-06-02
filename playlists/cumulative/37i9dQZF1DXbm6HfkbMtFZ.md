@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-504 songs - 1 day 6 hr 26 min
+505 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Lesson Learnt](https://open.spotify.com/track/7hXtZAHYedEOK3pGdWD6iQ) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 2:18 | 2022-07-26 | 2023-02-14 |
 | [Let 'Em In \- 2014 Remaster](https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:11 | 2022-03-30 |  |
 | [Let Go](https://open.spotify.com/track/6hchk7cCDULpk2ag8JFjXQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Let Go](https://open.spotify.com/album/6EkfVAo6uWwoWa7nwevWPM) | 3:00 | 2022-03-30 | 2022-04-21 |
+| [Life On Fire](https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K) | 3:22 | 2023-04-25 |  |
 | [Life On Fire](https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/4ynhHENlk6XiUvUggynWdW) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Life On Fire](https://open.spotify.com/track/6lIQouzC25f72F9BnkkOcz) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/0UD4OW2oRjqbMtyVjqle1O) | 3:22 | 2022-12-05 | 2023-04-29 |
 | [Like the Sun](https://open.spotify.com/track/6NyopkWmeaHRCAJzx8Hdf9) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [The Heart](https://open.spotify.com/album/7f0CLdhK81bomBOBtBGiDT) | 3:42 | 2022-03-30 | 2022-04-20 |
@@ -300,7 +301,7 @@
 | [My Stove's on Fire](https://open.spotify.com/track/6EUcEf1l8hgFSGOzss2vU7) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music and Dreams](https://open.spotify.com/album/5306Ud36cTkWivzxFzUZM2) | 2:48 | 2022-08-19 | 2023-04-30 |
 | [My Stove's On Fire](https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Music And Dreams](https://open.spotify.com/album/780zhYt7wiroYXHLYPhPiJ) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [Na Verdade Não Tá](https://open.spotify.com/track/665AwXHDziganl1HWvAxls) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. 2\)](https://open.spotify.com/album/56JLHwd02Av3sKJC5qfuOZ) | 2:55 | 2022-03-30 | 2022-04-20 |
-| [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 |  |
+| [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 | 2022-06-21 | 2023-06-02 |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2022-03-30 | 2022-10-04 |
 | [New Light](https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [New Light](https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0) | 3:36 | 2022-03-30 | 2022-04-21 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2022-07-26 |  |

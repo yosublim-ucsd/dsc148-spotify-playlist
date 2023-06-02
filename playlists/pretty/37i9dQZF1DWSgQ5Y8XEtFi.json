@@ -1,13 +1,33 @@
 {
   "description": "songs that break bones",
-  "num_followers": 197014,
+  "num_followers": 197076,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTJiMGNjYjQxNWJmMjRiMDVhZjg1ZDUzZTg5YTJhMGVmOTAzYTlh",
+  "snapshot_id": "MCwxNTg3MDg5MzJjOTIwMjVmMjkyZmMwZjc0MmRjZmQ0NjIzNGEzODkx",
   "tracks": [
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "No Commas",
+        "url": "https://open.spotify.com/album/02OsW2sB8zjWNCOu9veAn1"
+      },
+      "artists": [
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        },
+        {
+          "name": "Cali Cartier",
+          "url": "https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "No Commas",
+      "url": "https://open.spotify.com/track/0NB13pqRneKt5kotOZZ9ux"
+    },
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
@@ -59,6 +79,22 @@
       "duration_ms": 122699,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+    },
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 136572,
+      "name": "vent",
+      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -131,6 +167,34 @@
       "duration_ms": 146626,
       "name": "Fluent Stutter",
       "url": "https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt"
+    },
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "UR FRIENDS",
+        "url": "https://open.spotify.com/album/4LstSZVUvQtxsgxL7Nc06F"
+      },
+      "artists": [
+        {
+          "name": "bodyimage",
+          "url": "https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg"
+        },
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "Unity Ambulette",
+          "url": "https://open.spotify.com/artist/1LMmqUjjk9wpxBtkG7K0qF"
+        }
+      ],
+      "duration_ms": 182971,
+      "name": "UR FRIENDS",
+      "url": "https://open.spotify.com/track/2ssSYoF2QXXDdDstZ67GJ1"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -213,20 +277,20 @@
       "url": "https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
+      "added_at": "2023-06-01 18:45:33",
       "album": {
-        "name": "Let's Hope Heteros Fail, Learn and Retire",
-        "url": "https://open.spotify.com/album/5YjuPPmMZy5VGjlesAPbHG"
+        "name": "Fuck Your Expectations PT. 1",
+        "url": "https://open.spotify.com/album/4S3IEAIvXDTi4zjFGeL3mW"
       },
       "artists": [
         {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
         }
       ],
-      "duration_ms": 134397,
-      "name": "Come 2 Brazil",
-      "url": "https://open.spotify.com/track/2RCcpAEj643kbGSfgNOTch"
+      "duration_ms": 187896,
+      "name": "COLUMBIA",
+      "url": "https://open.spotify.com/track/1IFPahnCrbKR7QXE6aePa0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -261,20 +325,24 @@
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-06-01 18:45:33",
       "album": {
-        "name": "UGLY",
-        "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
+        "name": "BUZZCUT (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry"
       },
       "artists": [
         {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
         }
       ],
-      "duration_ms": 261515,
-      "name": "Yum",
-      "url": "https://open.spotify.com/track/6srSZ98GEz495b0ejEIVGl"
+      "duration_ms": 201160,
+      "name": "BUZZCUT (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -333,6 +401,22 @@
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
     },
     {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "Hot Gum",
+        "url": "https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Hot Gum",
+      "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
+    },
+    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
         "name": "Nymph",
@@ -347,22 +431,6 @@
       "duration_ms": 132625,
       "name": "Shlut",
       "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Teddy",
-        "url": "https://open.spotify.com/album/2ozzquZwWo8Qa82umpOARZ"
-      },
-      "artists": [
-        {
-          "name": "OhEm",
-          "url": "https://open.spotify.com/artist/5a9tuA9hAvmwXEjk9t6x0U"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "Teddy",
-      "url": "https://open.spotify.com/track/7o9kPk7dPczyrjxdnuGC0u"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -431,26 +499,6 @@
       "duration_ms": 114390,
       "name": "supernova",
       "url": "https://open.spotify.com/track/4EY4SV2BSfJKs6CWwArmhk"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/3O5gPsrkg6t4NO2VzXPQXs"
-      },
-      "artists": [
-        {
-          "name": "Boon",
-          "url": "https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7"
-        },
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 160363,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/4XkInHvPOTsODJoKq6TCLq"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -635,6 +683,22 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
       },
@@ -759,22 +823,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "BABY CUPID",
-        "url": "https://open.spotify.com/album/1YgDoiOb4WqFMEZHm9UgCZ"
-      },
-      "artists": [
-        {
-          "name": "Zack Cokas",
-          "url": "https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor"
-        }
-      ],
-      "duration_ms": 126998,
-      "name": "BABY CUPID",
-      "url": "https://open.spotify.com/track/0ByC3vzSHd9n9P6imFPNZE"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB"
       },
@@ -851,38 +899,6 @@
       "duration_ms": 188946,
       "name": "Yeah Right",
       "url": "https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "MONEYSUTRA",
-        "url": "https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf"
-      },
-      "artists": [
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Racked",
-      "url": "https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj"
     }
   ],
   "unique_name": "LOCKJAW",

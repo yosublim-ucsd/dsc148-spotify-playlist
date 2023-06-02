@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Rodell Duff, Artwork: Fanélie Muselier
 
-1,556 songs - 3 day 12 hr 48 min
+1,557 songs - 3 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Break Up Goin' Down](https://open.spotify.com/track/0gCMGDyxCJiwL2rTy0bsNF) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Break Up Goin' Down](https://open.spotify.com/album/0ikMfhuwXYuL4hAAWUb3Es) | 4:01 | 2022-04-06 | 2023-01-12 |
 | [Break Up With A Friend](https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Break Up With A Friend](https://open.spotify.com/album/1UxCw54gPJDBtOjaaEiahB) | 3:25 | 2022-06-29 | 2022-07-28 |
 | [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 | 2022-11-02 | 2023-01-20 |
+| [Breakin' In This Broken Heart](https://open.spotify.com/track/3QZGYFaDDvR6O27DsOAHAb) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Breakin' In This Broken Heart](https://open.spotify.com/album/2eLAcalFH6N2UsDkyS5GjI) | 2:45 | 2023-06-01 |  |
 | [Breaking My Heart](https://open.spotify.com/track/5vHNr6c97TVKBtTNufeiLN) | [QUEEVA](https://open.spotify.com/artist/7BDSrECxsc6RyFL2qFkomJ) | [Breaking My Heart](https://open.spotify.com/album/12k8bwBwRgfr1OjF2iVUZJ) | 3:37 | 2023-01-25 | 2023-03-02 |
 | [Breaking Up](https://open.spotify.com/track/5WybVrKWiRxZGR0BH45nDi) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Breaking Up](https://open.spotify.com/album/5xpuSFNLDqxH0jfMFMqaMq) | 2:53 | 2023-03-01 | 2023-04-06 |
 | [Breakup More Often](https://open.spotify.com/track/2iacLG4HCfZw5m5FTUDDBI) | [Christie Huff](https://open.spotify.com/artist/3mdJ7xExgfvMfYEAK7rEy7) | [Breakup More Often](https://open.spotify.com/album/5gAWIQ2pKUsHf7c8LxKv2N) | 2:51 | 2023-02-15 | 2023-03-16 |
@@ -528,7 +529,7 @@
 | [Gonna Be Good](https://open.spotify.com/track/1Y06i3SzSfRpKrhrNJZHRR) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Gonna Be Good](https://open.spotify.com/album/55ReqVh4kx3F38quxtZOUl) | 3:03 | 2023-03-22 | 2023-05-11 |
 | [Good At Gettin' Gone](https://open.spotify.com/track/0EnU0f6Rbv5ej2zkVss94n) | [Nathan Wilson](https://open.spotify.com/artist/2omJRLmRQ977IqxewgiDED) | [Good At Gettin' Gone](https://open.spotify.com/album/6bojnOLd4r81j8YKvnd1om) | 3:01 | 2023-04-19 | 2023-06-01 |
 | [Good At Gettin' Gone](https://open.spotify.com/track/2Gp3B5lFGMguxeoKNYbojG) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Good At Gettin' Gone](https://open.spotify.com/album/0JhuseIxdL8GQHwSVBXqCc) | 3:51 | 2022-10-26 | 2023-01-12 |
-| [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 | 2023-04-19 | 2023-06-01 |
+| [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 | 2023-04-19 |  |
 | [Good for Nothin'](https://open.spotify.com/track/1EcOOFryaVutU8q1jxloy6) | [Jon Wayne Hatfield](https://open.spotify.com/artist/5gzO6m2kswPvKeW2hGCTmp) | [Good for Nothin'](https://open.spotify.com/album/7dGSLeXH2UcYvwfEpXtylL) | 3:27 | 2022-10-19 | 2022-12-01 |
 | [Good for Something \- Acoustic](https://open.spotify.com/track/7MYKfv3lhzH5MTEZlaPC2M) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Noteable Sessions](https://open.spotify.com/album/4dKdzv7U8NrnESdakvNcIt) | 2:50 | 2023-02-22 | 2023-03-30 |
 | [Good for You](https://open.spotify.com/track/4p3oWf0tvGvaDFTkiyBKyy) | [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Good for You](https://open.spotify.com/album/44v5lE6CY9eyedwIRQIYk3) | 3:06 | 2022-10-26 | 2022-12-01 |
@@ -730,7 +731,7 @@
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2021-12-01 | 2022-01-13 |
 | [If You Never Broke My Heart](https://open.spotify.com/track/7rwVlm5LhFTO8utknjR6Kt) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [If You Never Broke My Heart](https://open.spotify.com/album/6GpGV4UyrECTpu9MGFLblF) | 3:17 | 2022-07-06 | 2022-08-04 |
 | [If You Show Me Yours](https://open.spotify.com/track/0BeR6G47ddBXg7S8OGPgCn) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [If You Show Me Yours](https://open.spotify.com/album/3uHTWnrq4T676BCkrvIDgK) | 3:46 | 2023-03-15 | 2023-04-20 |
-| [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 | 2023-04-19 |  |
+| [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 | 2023-04-19 | 2023-06-02 |
 | [If You'd Stayed](https://open.spotify.com/track/7yZsEa6NycXRHoI8egGtk0) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [If You'd Stayed](https://open.spotify.com/album/1zua41eXLqSPK6YQOUlDxa) | 4:06 | 2022-02-23 | 2022-04-07 |
 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/3302p1EGYArdg0JmcZ3E4e) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/album/7gmk3BGyrpYhNuEHiakECj) | 3:33 | 2023-02-22 | 2023-03-30 |
 | [If You're Wanting Me To](https://open.spotify.com/track/2MaEoaYfCnaPPQlfpzC7mn) | [Martin McDaniel](https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU) | [If You're Wanting Me To](https://open.spotify.com/album/34mkqmoWzICBEcXaCmiWY3) | 3:30 | 2022-09-28 | 2022-12-01 |

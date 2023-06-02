@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "CAI PRA TRETA",
+        "url": "https://open.spotify.com/album/4PGqvsA3ZzRwLqiUCWNunD"
+      },
+      "artists": [
+        {
+          "name": "Bgnzinho",
+          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105581,
+      "name": "CAI PRA TRETA",
+      "url": "https://open.spotify.com/track/3nHwiGg59nwrXiCYYswFyK"
+    },
+    {
+      "album": {
         "name": "Story Prologue EP",
         "url": "https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01"
       },

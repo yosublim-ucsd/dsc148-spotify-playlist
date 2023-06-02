@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Art und Weise",
+        "url": "https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209239,
+      "name": "Art und Weise",
+      "url": "https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx"
+    },
+    {
+      "album": {
         "name": "Auch Im Bentley Wird Geweint",
         "url": "https://open.spotify.com/album/4LrYnp2qZOMvhwf7XVGOMT"
       },
@@ -452,7 +470,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136760,
-      "name": "Autohaus - feat. Dilla",
+      "name": "Autohaus (feat. Dilla)",
       "url": "https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo"
     },
     {
@@ -956,6 +974,24 @@
       "duration_ms": 179462,
       "name": "Die Realit\u00e4t - Ger\u00e4t Durcheinander",
       "url": "https://open.spotify.com/track/0J3lQmirNuJBWNQabrq4W3"
+    },
+    {
+      "album": {
+        "name": "Die Sterne",
+        "url": "https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Die Sterne",
+      "url": "https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad"
     },
     {
       "album": {
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 186879,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/48uj745ePI0ArluMx8oT2d"
@@ -3054,7 +3090,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181492,
       "name": "Namen in Beton",
       "url": "https://open.spotify.com/track/7blDCXJRdcj2fxICbqFcgj"
@@ -3094,7 +3130,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 221749,
       "name": "Nicht Gern Allein",
       "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
@@ -3330,6 +3366,24 @@
       "duration_ms": 170658,
       "name": "paris syndrom - dach session",
       "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
+    },
+    {
+      "album": {
+        "name": "Pardeck",
+        "url": "https://open.spotify.com/album/6pG1M1vAmPQ46PAeS47h6P"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Parkdeck",
+      "url": "https://open.spotify.com/track/21pFcMCJtXxicn7pGxKDQs"
     },
     {
       "album": {
@@ -4262,7 +4316,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 181500,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/7hXLtKxITSBQJlPj0gmy7m"
@@ -4392,6 +4446,24 @@
       "duration_ms": 134594,
       "name": "Was ich will",
       "url": "https://open.spotify.com/track/0vCDLaEHSxJFlbDtzk4X0c"
+    },
+    {
+      "album": {
+        "name": "Was kickt",
+        "url": "https://open.spotify.com/album/57mWqI0w59daUAAgRoWPOa"
+      },
+      "artists": [
+        {
+          "name": "L.e.a.n.d.e.r",
+          "url": "https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138249,
+      "name": "Was kickt",
+      "url": "https://open.spotify.com/track/2mVWiASJLQrGmcJSsQ13fW"
     },
     {
       "album": {

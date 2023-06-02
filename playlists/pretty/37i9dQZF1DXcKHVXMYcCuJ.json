@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 113183,
+  "num_followers": 113360,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTc3OTk2ZTM5NDM2NjAxNjJiYTViNDlmNzQyYTJmM2MxYTA2ODY0",
+  "snapshot_id": "MCw1ZWYxMDhiMTQzMDBlNTMxMGQ5YTU1OTdjNTMxN2EyYTJlNjk4NWJh",
   "tracks": [
     {
       "added_at": "2023-05-15 09:36:30",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "sanjake",
-        "url": "https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 182885,
-      "name": "sanjake",
-      "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Houses of American Style",
         "url": "https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "sanjake",
+        "url": "https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 182885,
+      "name": "sanjake",
+      "url": "https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Pedestrian Verse",
-        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "The Woodpile",
-      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Pedestrian Verse",
+        "url": "https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "The Woodpile",
+      "url": "https://open.spotify.com/track/5Zt5q2j5OEdcR3HtwxivZQ"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
+        "name": "Home, Like Noplace Is There",
+        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
+      },
+      "artists": [
+        {
+          "name": "The Hotelier",
+          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Your Deep Rest",
+      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
         "name": "Cheer",
         "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 256506,
       "name": "New Low",
       "url": "https://open.spotify.com/track/01TgrylmgyEAgsdxiqEOpL"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
-        "name": "Home, Like Noplace Is There",
-        "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
-      },
-      "artists": [
-        {
-          "name": "The Hotelier",
-          "url": "https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Your Deep Rest",
-      "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Sound As Ever",
-        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
-      },
-      "artists": [
-        {
-          "name": "You Am I",
-          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Berlin Chair",
-      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 230866,
       "name": "No Association",
       "url": "https://open.spotify.com/track/0lrY8m1pYczjiup6f0HhoR"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Sound As Ever",
+        "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
+      },
+      "artists": [
+        {
+          "name": "You Am I",
+          "url": "https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Berlin Chair",
+      "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Planet of Ice",
-        "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Knights",
-      "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Planet of Ice",
+        "url": "https://open.spotify.com/album/3aaMFKKvaE66uTd4agSUwV"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Knights",
+      "url": "https://open.spotify.com/track/0la8irNJgsIU3EHIjxLM0L"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "12th House Rock",
-        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Night Tryst",
-      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Gb City",
         "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Springtime and Blind",
-        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
+        "name": "12th House Rock",
+        "url": "https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0"
       },
       "artists": [
         {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 166101,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
+      "duration_ms": 203600,
+      "name": "Night Tryst",
+      "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1383,6 +1367,22 @@
       "duration_ms": 222040,
       "name": "Aquasun",
       "url": "https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Springtime and Blind",
+        "url": "https://open.spotify.com/album/5pdYblYPTSzOOBWC2zm2Kw"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/6df7gORFCqOHTzWquFhLKW"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Word Gets Around",
-        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Not Up To You",
-      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "To Be Everywhere Is To Be Nowhere",
         "url": "https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 251474,
       "name": "The Long Defeat",
       "url": "https://open.spotify.com/track/27PKLv7rXE18wNbVrMA068"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Word Gets Around",
+        "url": "https://open.spotify.com/album/6aQ9eJe8CzynjbiD0oXIvx"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Not Up To You",
+      "url": "https://open.spotify.com/track/1NOhzFmTzPYMJ8vjEVxjAE"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Backroads",
-      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "I'm Not Well",
         "url": "https://open.spotify.com/album/3CHP5LUOP2kjAGctsTD2YN"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 158435,
       "name": "Husk",
       "url": "https://open.spotify.com/track/2rXCIP7vZhcKnARrSnwCD7"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
       "artists": [
         {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
+      "duration_ms": 227738,
+      "name": "Anything Near Conviction",
+      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
       },
       "artists": [
         {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
         }
       ],
-      "duration_ms": 227738,
-      "name": "Anything Near Conviction",
-      "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
       },
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
       },
       "artists": [
         {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
+      "duration_ms": 191657,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2187,6 +2171,22 @@
       "duration_ms": 221546,
       "name": "Taking Back Control",
       "url": "https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "Ideas Above Our Station",
         "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 211160,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
     },
     {
       "added_at": "2023-05-15 09:36:30",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-05-15 09:36:30",
       "album": {
-        "name": "Pull a Little Closer",
-        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
-      },
-      "artists": [
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
-        }
-      ],
-      "duration_ms": 242480,
-      "name": "Pull a Little Closer",
-      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
-    },
-    {
-      "added_at": "2023-05-15 09:36:30",
-      "album": {
         "name": "The Free Life",
         "url": "https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 176413,
       "name": "Cheap Magic",
       "url": "https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P"
+    },
+    {
+      "added_at": "2023-05-15 09:36:30",
+      "album": {
+        "name": "Pull a Little Closer",
+        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "Pull a Little Closer",
+      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
     },
     {
       "added_at": "2023-05-15 09:36:30",

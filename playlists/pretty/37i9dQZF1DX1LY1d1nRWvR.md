@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,894 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,922 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 26 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 |
 | 27 | [Make This Right \- Radio Edit](https://open.spotify.com/track/0ZhLu81Q05NbCHwsLRlW2N) | [Ruf Dug](https://open.spotify.com/artist/08Jin8iRNko0j3gewozB0T), [Lovescene](https://open.spotify.com/artist/7bovLS0s72xVbr3eZl9aLk) | [Make This Right](https://open.spotify.com/album/6Q24x3y5iDAUmdHx2lnvD7) | 3:17 |
 | 28 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
-| 29 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
-| 30 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
-| 31 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 |
+| 29 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
+| 30 | [Move On](https://open.spotify.com/track/390VumD1uSnfGvyB0NmjKe) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:11 |
+| 31 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 32 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
-| 33 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
+| 33 | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG) | [Devante Embers](https://open.spotify.com/artist/34Lopo5VNpkJUIiVXTB0ZT) | [When You Focus On The Good The Good Gets Better](https://open.spotify.com/album/4vRJV9s2ykMP6MoI29ndDm) | 7:08 |
 | 34 | [Laamore](https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO) | 4:40 |
 | 35 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 | 36 | [Mother Theresa \- Original Mix](https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE) | 5:56 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 39 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 |
 | 40 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 41 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
-| 42 | [Nyiri](https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 4:05 |
-| 43 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
+| 42 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
+| 43 | [Nyiri](https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 4:05 |
 | 44 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
 | 45 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
 | 46 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
 | 50 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
 
-Snapshot ID: `MCxiZWYxY2JkMzA3NDhjMDY2OTY5MGU5MTZhZTY0YjU4MDczZGNmOTc1`
+Snapshot ID: `MCxhYzI5NTA3M2NmMjZhZTFhYmU5ZDQ2NDQ1YzE3YjVhNjQxNzlkNjNk`

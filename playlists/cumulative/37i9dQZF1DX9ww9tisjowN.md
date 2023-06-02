@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Ado
 
-93 songs - 5 hr 24 min
+95 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [MAGICAL DREAM](https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [MAGICAL DREAM](https://open.spotify.com/album/3V6tFl2XWnYgSl5WUR6k6D) | 3:07 | 2023-05-09 | 2023-05-31 |
 | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/track/3Q1oUYeVsvR3dGAdFN3nTf) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [MIND CIRCUS \(feat\. ひかり\)](https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu) | 5:13 | 2023-05-09 |  |
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-05-09 |  |
+| [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-06-01 |  |
 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 | 2023-05-09 | 2023-05-16 |
 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2023-05-09 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-05-09 |  |
@@ -67,9 +68,9 @@
 | [Sugar Junky](https://open.spotify.com/track/6fMnx6sbjk9saMZGlSevrz) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Castle in Madness](https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc) | 2:05 | 2023-05-09 |  |
 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 | 2023-05-09 |  |
 | [Sugarless Kiss](https://open.spotify.com/track/2pEeXbiebbKqIklSL0gLO0) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [P](https://open.spotify.com/album/7fIlrZpTkNXvOZoWXppmcW) | 3:34 | 2023-05-09 | 2023-05-15 |
-| [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-05-15 |  |
+| [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-05-15 | 2023-06-02 |
 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 | 2023-05-09 |  |
-| [To The Top Ft\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X), [NINO](https://open.spotify.com/artist/5BNxCzxFB3jcXJ2SGwjzEH), [Prong Praison](https://open.spotify.com/artist/3xX9AovnIocwhUP0Npwxyy) | [To The Top feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 | 2023-05-09 |  |
+| [To The Top Ft\. DVI](https://open.spotify.com/track/6rvR2k7izeE4y67iAoEQOl) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X), [NINO](https://open.spotify.com/artist/5BNxCzxFB3jcXJ2SGwjzEH), [Prong Praison](https://open.spotify.com/artist/3xX9AovnIocwhUP0Npwxyy) | [To The Top feat\. DVI](https://open.spotify.com/album/4AwYoTKWgBwviwJBJszDpw) | 3:20 | 2023-05-09 | 2023-06-02 |
 | [TOKYO 4AM](https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd) | 3:22 | 2023-05-09 |  |
 | [TONDEMO\-WONDERZ](https://open.spotify.com/track/4hrhv3LGlhO0qK21zWeHgW) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [TONDEMO\-WONDERZ](https://open.spotify.com/album/0E3hZEBiEMetjMHCo93BKk) | 3:15 | 2023-05-09 |  |
 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 | 2023-05-09 |  |
@@ -93,6 +94,7 @@
 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 | 2023-05-09 |  |
 | [巣食いのて](https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [巣食いのて](https://open.spotify.com/album/14XaMmLLFH2lzWri7DCUrV) | 3:40 | 2023-05-09 | 2023-05-31 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-05-09 |  |
+| [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-06-01 |  |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 |  |
 | [甘噛みでおねがい](https://open.spotify.com/track/6kR2jpVbk0e7uBVjWkGuTC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/574wcOE5FGFbHlkEzgio8j) | 3:22 | 2023-05-16 | 2023-05-18 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-05-09 |  |

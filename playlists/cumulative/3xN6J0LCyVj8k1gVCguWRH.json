@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
+  "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
   "name": "Barack Obama\u2019s Summer Playlist 2023",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 116000,
       "name": "abbi's interlude",
       "url": "https://open.spotify.com/track/52c1zWXAGIR4Uw8r5kexLF"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200466,
       "name": "Addington Square",
       "url": "https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS"
@@ -5351,6 +5351,24 @@
     },
     {
       "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Boy's a Liar",
+      "url": "https://open.spotify.com/track/3QUbaXCfksmF19lW32BQE0"
+    },
+    {
+      "album": {
         "name": "Brand New Start",
         "url": "https://open.spotify.com/album/6DwgdTYj8TJUcaOFjjPLYR"
       },
@@ -6424,6 +6442,28 @@
       "duration_ms": 466461,
       "name": "Calling Me Back - Coeus Remix",
       "url": "https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1"
+    },
+    {
+      "album": {
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "album": {
@@ -11861,6 +11901,24 @@
     },
     {
       "album": {
+        "name": "Everyone's Crushed",
+        "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Everyone's Crushed",
+      "url": "https://open.spotify.com/track/4BxMHyOM33CNbExjurjAut"
+    },
+    {
+      "album": {
         "name": "Toxu",
         "url": "https://open.spotify.com/album/4orLzkXAHLvYzQncVdLYFX"
       },
@@ -11944,7 +12002,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198272,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/3bSYAnvASjfOQbHjJ5AqU9"
@@ -17229,6 +17287,32 @@
     },
     {
       "album": {
+        "name": "Hostage (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/01LXhFeItNfECMwYPAyohz"
+      },
+      "artists": [
+        {
+          "name": "slowed nation",
+          "url": "https://open.spotify.com/artist/5MSy46F3V4DEVIldnkSish"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/3rIzlFSrRENuXrBvGkDbqD"
+        },
+        {
+          "name": "ghostly echoes",
+          "url": "https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246486,
+      "name": "Hostage - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/23dIj54913yTsIvkvgYMnI"
+    },
+    {
+      "album": {
         "name": "In",
         "url": "https://open.spotify.com/album/63zrGQ0OxDzZZ67kb7EZ4S"
       },
@@ -18570,6 +18654,24 @@
       "duration_ms": 180173,
       "name": "I'm Shakin'",
       "url": "https://open.spotify.com/track/07AjyDeE85pDr4Dj8BzgWB"
+    },
+    {
+      "album": {
+        "name": "I'm Yours",
+        "url": "https://open.spotify.com/album/2u6sXR6PEHrYBolNahW4mY"
+      },
+      "artists": [
+        {
+          "name": "ellakate",
+          "url": "https://open.spotify.com/artist/0t5IrUFo0RQnOfVkhZplHd"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220217,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/6Xk9Zucz7S2PPXOFeeeH8q"
     },
     {
       "album": {
@@ -20263,6 +20365,28 @@
     },
     {
       "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
+    },
+    {
+      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -20484,7 +20608,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -22135,6 +22259,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "album": {
         "name": "Living For",
         "url": "https://open.spotify.com/album/4AkYY2aJTl2PzydT86Nmmo"
       },
@@ -22816,6 +22958,24 @@
       "duration_ms": 198640,
       "name": "Love Lies",
       "url": "https://open.spotify.com/track/20F8eXnmrzsAXaHENSHJRR"
+    },
+    {
+      "album": {
+        "name": "Love Maria",
+        "url": "https://open.spotify.com/album/29xe3Ncz10zwqbnT22O2Dx"
+      },
+      "artists": [
+        {
+          "name": "Crazy Loop",
+          "url": "https://open.spotify.com/artist/3k8kts6tEChHVszMu5Xr9E"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Love Maria",
+      "url": "https://open.spotify.com/track/40r89orE6FCKWVwMhn74l4"
     },
     {
       "album": {
@@ -23607,6 +23767,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4M1Bxo2mLwKJ9vfrkAt8vD"
+      },
+      "artists": [
+        {
+          "name": "justjonnie",
+          "url": "https://open.spotify.com/artist/4XYBN28kcx4MmLU7bD3KvC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7pWRgP7fu5mVG83ZslsIu1"
+    },
+    {
+      "album": {
         "name": "MAN I USED TO BE",
         "url": "https://open.spotify.com/album/6McJCkaWTUvXjiono0G3qC"
       },
@@ -24042,6 +24220,24 @@
       "duration_ms": 290035,
       "name": "Mecca (with JID & EARTHGANG)",
       "url": "https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1"
+    },
+    {
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/2kEDPvGnlddZvs8dSoMSN0"
+      },
+      "artists": [
+        {
+          "name": "Soma",
+          "url": "https://open.spotify.com/artist/23pMHdWBS71N6BsOmYjNYa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125581,
+      "name": "MEDICINE",
+      "url": "https://open.spotify.com/track/0eTqMjkxXspn1gyoLVOGSi"
     },
     {
       "album": {
@@ -28570,6 +28766,24 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
+      },
+      "artists": [
+        {
+          "name": "Macedo",
+          "url": "https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232721,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0UR6lUDAW59mTVNJZY7PA4"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/46UhCQy52hr3uYKpiwH8B2"
       },
       "artists": [
@@ -28776,6 +28990,24 @@
       "duration_ms": 252972,
       "name": "Peaceful Revolution - Radio Edit",
       "url": "https://open.spotify.com/track/2Vm4lDeEZkzY0e8hubpKSs"
+    },
+    {
+      "album": {
+        "name": "Peach tree",
+        "url": "https://open.spotify.com/album/5Pa2aNyiDR6WtjeKoTTXr4"
+      },
+      "artists": [
+        {
+          "name": "Santa Chiara",
+          "url": "https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Peach tree",
+      "url": "https://open.spotify.com/track/628oi7AB8GI0j0Gr7gqgbH"
     },
     {
       "album": {
@@ -32511,6 +32743,24 @@
     },
     {
       "album": {
+        "name": "send the rain",
+        "url": "https://open.spotify.com/album/7bXsuL2sdjVlJmlvatc4a9"
+      },
+      "artists": [
+        {
+          "name": "Nelleke",
+          "url": "https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "send the rain",
+      "url": "https://open.spotify.com/track/0N5x6Zgy5hKXbsKLOfpYY5"
+    },
+    {
+      "album": {
         "name": "Moonlit Dreams",
         "url": "https://open.spotify.com/album/2Nl9cQ8kKEkB1q4mFL4bz0"
       },
@@ -33442,6 +33692,24 @@
       "duration_ms": 183362,
       "name": "Snakes and Fakes",
       "url": "https://open.spotify.com/track/3yRR7KYDW2Rsyeicv5LcPi"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "album": {
@@ -34978,7 +35246,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/74K6Vgm24ejN4aWVAb8puS"
@@ -37128,6 +37396,24 @@
       "duration_ms": 484317,
       "name": "The Pile",
       "url": "https://open.spotify.com/track/0Eg9YGBwaWEXTN361wqFbd"
+    },
+    {
+      "album": {
+        "name": "The Quiet",
+        "url": "https://open.spotify.com/album/1trDjCvQzDoCa0NnB91Z0I"
+      },
+      "artists": [
+        {
+          "name": "Alanna Vullo",
+          "url": "https://open.spotify.com/artist/4seJvDPvsICiDmtqNlmxTb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180632,
+      "name": "The Quiet",
+      "url": "https://open.spotify.com/track/0HuPlhmWFrp9mKajc3BiU7"
     },
     {
       "album": {

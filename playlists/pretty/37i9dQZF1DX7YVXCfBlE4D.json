@@ -1,12 +1,12 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 509312,
+  "num_followers": 509464,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzk3MGQ2Y2FjZDRmOTU1NWFhOTMxNGQ1Mzc3ZWRhYjQzNzkzNzVj",
+  "snapshot_id": "MCw1N2NlMTRkYzVhZjhkMDM5NTVkZDhlOGMxNjYxZWM1YzI2ZTdkYmMz",
   "tracks": [
     {
       "added_at": "2022-12-30 18:28:06",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "El Ruise\u00f1or de America",
         "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
         }
       ],
-      "duration_ms": 150506,
-      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO"
+      "duration_ms": 149506,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -255,6 +239,22 @@
       "duration_ms": 175693,
       "name": "Cerca del Mar",
       "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Sentimientos Que Duelen",
-        "url": "https://open.spotify.com/album/7hWcDFdcPslJocf1tVDwks"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "Cinco Centavitos",
-      "url": "https://open.spotify.com/track/7nlUn29j3SUJSY5kciaIBy"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Exitos Con Trio",
         "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 195186,
       "name": "Payaso - Versi\u00f3n Tr\u00edo",
       "url": "https://open.spotify.com/track/3WWz7mnDeGi1J71Cgml7qU"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Sentimientos Que Duelen",
+        "url": "https://open.spotify.com/album/7hWcDFdcPslJocf1tVDwks"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 148533,
+      "name": "Cinco Centavitos",
+      "url": "https://open.spotify.com/track/7nlUn29j3SUJSY5kciaIBy"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Exitos Con Trio",
+        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Tres Palabras - Versi\u00f3n Tr\u00edo",
+      "url": "https://open.spotify.com/track/6i6YmDEtntMl8P8ETwWJz5"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "20 \u00c9xitos Julio Jaramillo y Daniel Santos",
         "url": "https://open.spotify.com/album/5pM6SMC3MBmNkygzYmq5iS"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 227400,
       "name": "He perdido contigo",
       "url": "https://open.spotify.com/track/3253prbfEMwMJUKxKvlSBI"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Exitos Con Trio",
-        "url": "https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Tres Palabras - Versi\u00f3n Tr\u00edo",
-      "url": "https://open.spotify.com/track/6i6YmDEtntMl8P8ETwWJz5"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Serie Inmortales - Daniel Santos Y Sus Amigos",
-        "url": "https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Las Cuarenta",
-      "url": "https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
         "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+        "name": "Serie Inmortales - Daniel Santos Y Sus Amigos",
+        "url": "https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq"
       },
       "artists": [
         {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/5f3xR8vlimLH0pPTuQcjHr"
         }
       ],
-      "duration_ms": 235466,
-      "name": "La sitiera",
-      "url": "https://open.spotify.com/track/4LuPdTen7rjDe7MghbLBZU"
+      "duration_ms": 184586,
+      "name": "Las Cuarenta",
+      "url": "https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -591,6 +575,22 @@
       "duration_ms": 190440,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "La sitiera",
+      "url": "https://open.spotify.com/track/4LuPdTen7rjDe7MghbLBZU"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Por Debajo De La Mesa",
-        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
       },
       "artists": [
         {
-          "name": "Serena Mendes",
-          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
         }
       ],
-      "duration_ms": 179838,
-      "name": "Por Debajo De La Mesa",
-      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
+      "duration_ms": 186826,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/62tK9VmlCxAhuLDHpChWXi"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
+        "name": "Por Debajo De La Mesa",
+        "url": "https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B"
       },
       "artists": [
         {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/62tK9VmlCxAhuLDHpChWXi"
+      "duration_ms": 179838,
+      "name": "Por Debajo De La Mesa",
+      "url": "https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -951,22 +951,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Reminiscencias",
-        "url": "https://open.spotify.com/album/6e3zUOcN4drf3mRQUkOKtx"
+        "name": "Los \u00daltimos De Celio Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8"
       },
       "artists": [
         {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
           "name": "La Sonora Matancera",
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Caribe Soy",
-      "url": "https://open.spotify.com/track/4tPrPQPTlbLCnlzJqRTqsS"
+      "duration_ms": 165080,
+      "name": "Cien Mil Cosas",
+      "url": "https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -987,22 +987,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Los \u00daltimos De Celio Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8"
+        "name": "Reminiscencias",
+        "url": "https://open.spotify.com/album/6e3zUOcN4drf3mRQUkOKtx"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
         },
         {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
         }
       ],
-      "duration_ms": 165080,
-      "name": "Cien Mil Cosas",
-      "url": "https://open.spotify.com/track/2r8h4sI14yTfjs8CVGNDP4"
+      "duration_ms": 166706,
+      "name": "Caribe Soy",
+      "url": "https://open.spotify.com/track/4tPrPQPTlbLCnlzJqRTqsS"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/49xPknFfNTCPZH6ZRyuekN"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
+      },
+      "artists": [
+        {
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Voy Gritando por la Calle",
+      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 175000,
       "name": "Cuando Me Lo Pidas",
       "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
-      },
-      "artists": [
-        {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Voy Gritando por la Calle",
-      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1735,30 +1735,6 @@
       "duration_ms": 136000,
       "name": "Pensamiento",
       "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1839,6 +1815,30 @@
       "duration_ms": 171607,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/3LWlVIyY4nLiM6PzXsWNfz"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
         "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 153253,
       "name": "Cari\u00f1ito Azucarado",
       "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
       },
       "artists": [
         {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+      "duration_ms": 126600,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Son Inolvidables: Cheo Feliciano y la R. Venezolana",
-        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Me Dices Que Te Vas",
-      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 166120,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/5X65gbISpAQs5W1woDdD6X"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Son Inolvidables: Cheo Feliciano y la R. Venezolana",
+        "url": "https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Caricias Cubanas (1955-1958)",
-        "url": "https://open.spotify.com/album/4mXwlEa4p6FTV5XQVVywry"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 174210,
-      "name": "Vagar entre sombras (bolero)",
-      "url": "https://open.spotify.com/track/6d5CbZ5iQbq0rpw6YwzUyF"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Las Estrellas de la \u00c9poca Azul",
         "url": "https://open.spotify.com/album/6olTcTdrs68Kz3NID8ExPM"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 168346,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/0dnqeapHPn6cmyheDxXGXb"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Caricias Cubanas (1955-1958)",
+        "url": "https://open.spotify.com/album/4mXwlEa4p6FTV5XQVVywry"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 174210,
+      "name": "Vagar entre sombras (bolero)",
+      "url": "https://open.spotify.com/track/6d5CbZ5iQbq0rpw6YwzUyF"
     },
     {
       "added_at": "2022-12-30 18:28:06",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2022-12-30 18:28:06",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/01TFuuvyMgVAuEvYFfDwwa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "As De Corazones",
-      "url": "https://open.spotify.com/track/7DCsnZhFAtYRpTY2gRrEEJ"
-    },
-    {
-      "added_at": "2022-12-30 18:28:06",
-      "album": {
         "name": "Las Estrellas de la \u00c9poca Azul",
         "url": "https://open.spotify.com/album/6olTcTdrs68Kz3NID8ExPM"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 184586,
       "name": "Callejera",
       "url": "https://open.spotify.com/track/21vm2IC1Jjr9qZREQUcAB1"
+    },
+    {
+      "added_at": "2022-12-30 18:28:06",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/01TFuuvyMgVAuEvYFfDwwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "As De Corazones",
+      "url": "https://open.spotify.com/track/7DCsnZhFAtYRpTY2gRrEEJ"
     },
     {
       "added_at": "2022-12-30 18:28:06",

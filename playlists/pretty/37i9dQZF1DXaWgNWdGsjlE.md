@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,104 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,254 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 36 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
 | 37 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 |
 | 38 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 |
-| 39 | [GauzeValley](https://open.spotify.com/track/23W69K592RCQ6bHhtCERd1) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/7e5VVmMGYiLnmX6Me2LLPC) | 2:30 |
+| 39 | [GauzeValley](https://open.spotify.com/track/5o0bG13lRrsVGSaeZU6NAl) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [GauzeValley](https://open.spotify.com/album/3tzOxmJbLNcBMeNvlxmY8T) | 2:30 |
 | 40 | [Gravedigger](https://open.spotify.com/track/640WAiBLYvKmUBtskbfEYG) | [MXMS](https://open.spotify.com/artist/385fK73L7PCt3RMlZQOu6t) | [Gravedigger](https://open.spotify.com/album/6QawVhtF8UkiA78NUbVFGr) | 3:30 |
 | 41 | [WHY WOULD I BOTHER](https://open.spotify.com/track/3wd5pxc7UgHAwLiCrIz0ye) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [HELL OR HIGH WATER](https://open.spotify.com/album/3H4hHVygBP5MlpXmgbbjXi) | 2:58 |
 | 42 | [The Shore](https://open.spotify.com/track/14kmi2A7zstTfTliHu0mMi) | [TR/ST](https://open.spotify.com/artist/64NhyHqRKYhV0IZylrElWu) | [The Shore](https://open.spotify.com/album/3X3LIfulYu5YGeCZKJ0At0) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCw0OWZkYTBkZTQwMTg1MDM2MWE4ZmRkMjkzNWMzNmZkZDkxZjM0MDQz`
+Snapshot ID: `MCw2OTdkYmIxNjk1YmFmMmYwOGQzMDMzMDkwNWE4Zjk0M2QzMmU2MzAw`

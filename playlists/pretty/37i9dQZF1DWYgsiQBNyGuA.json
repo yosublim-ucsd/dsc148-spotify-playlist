@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 56715,
+  "num_followers": 56781,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmQzYTlkOTFiNTFiN2FhODNjNjEyNzE4NTE4ZWMwMzE1NjJkNmY5",
+  "snapshot_id": "MCxjOTRhMTQ2NGVhNzM1ZmVmNDIwYzhjNTJlNjM3YTEwNmRlZDI5MmQ0",
   "tracks": [
     {
       "added_at": "2023-03-30 17:42:22",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 243733,
       "name": "U Know What's Up (feat. Lisa \"Left Eye\" Lopes)",
       "url": "https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
+        "name": "100 Days, 100 Nights",
+        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 229403,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+      "duration_ms": 225133,
+      "name": "100 Days, 100 Nights",
+      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -507,18 +503,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
-        "name": "100 Days, 100 Nights",
-        "url": "https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V"
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 225133,
-      "name": "100 Days, 100 Nights",
-      "url": "https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh"
+      "duration_ms": 229403,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
     },
     {
       "added_at": "2023-03-30 17:42:22",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-03-30 17:42:22",
       "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
+    },
+    {
+      "added_at": "2023-03-30 17:42:22",
+      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 214517,
       "name": "All Your Love - Single Edit",
       "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
-    },
-    {
-      "added_at": "2023-03-30 17:42:22",
-      "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2023-03-30 17:42:22",

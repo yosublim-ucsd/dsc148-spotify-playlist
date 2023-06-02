@@ -4,13 +4,13 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-705 songs - 1 day 18 hr 5 min
+706 songs - 1 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Nights](https://open.spotify.com/track/2mb32CDk3XusDc87vjeAoG) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Truce \- EP](https://open.spotify.com/album/5qeKpDQFyotJjLh61pUZQo) | 4:00 | 2021-08-10 |  |
 | [11 Blocks](https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [11 Blocks](https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX) | 3:42 | 2021-08-10 |  |
-| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 |  |
+| [90's Honey](https://open.spotify.com/track/4ygDeLod53IBCO4RnKREIj) | [Sophomore](https://open.spotify.com/artist/4uAFBCjJVGXAlRRE74ITal) | [90's Honey](https://open.spotify.com/album/0dOalXvwV3CJhIxc2C5OgD) | 3:12 | 2022-02-10 | 2023-06-02 |
 | [A Different Way](https://open.spotify.com/track/6LvdozquoSOWcBMfvrtwpV) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Euphoric Pop](https://open.spotify.com/album/5EmsjkHHj0hffC1dm1BFiQ) | 3:18 | 2022-05-11 | 2022-11-14 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/0Wv5wuenRLI3BcwgT3HPIP) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4urwuJbStO1K5ph63U7AZv) | 3:18 | 2021-08-10 | 2022-07-29 |
 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4PSoaA9rxBDYfrROdI17b9) | 3:18 | 2022-05-11 |  |
@@ -685,6 +685,7 @@
 | [What the Hell](https://open.spotify.com/track/5zTzDqrEmseqL2G8ElgBu7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby](https://open.spotify.com/album/3SUtKkjatUCubbgOC8OP4o) | 3:40 | 2021-08-10 | 2022-05-12 |
 | [When A Heart Breaks](https://open.spotify.com/track/4xYUnLUwwWMndNlCQi4CqX) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Into the Morning](https://open.spotify.com/album/0s5Z4iXYB1MI6ujRrjXAC6) | 4:16 | 2021-08-10 |  |
 | [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 | 2021-08-10 |  |
+| [When I Die](https://open.spotify.com/track/25AEte8XqBCT7NaBvBum9n) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [When I Die](https://open.spotify.com/album/6KF5zlT9iFtWPYNBdPTCzR) | 2:42 | 2023-05-23 |  |
 | [Where We Go](https://open.spotify.com/track/4kUHQ01RTSbI75az5hjdOR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:27 | 2021-08-10 |  |
 | [Why Start A Fire](https://open.spotify.com/track/1JeA1NY2YF5FFDng0yPLqy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Why Start A Fire](https://open.spotify.com/album/26Ezi5gfmznieiAgFEbsoP) | 3:02 | 2021-08-10 |  |
 | [WILD](https://open.spotify.com/track/0Ad6zJhaqKCwEccDAKz6sk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4) | 3:47 | 2021-08-10 | 2022-05-12 |

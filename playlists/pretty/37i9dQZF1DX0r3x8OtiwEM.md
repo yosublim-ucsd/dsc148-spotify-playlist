@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,298 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,063 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 28 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 29 | [When We Meet Again \- Edit](https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [When We Meet Again](https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw) | 3:57 |
 | 30 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
-| 31 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
-| 32 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 |
+| 31 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 |
+| 32 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
 | 33 | [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 |
 | 34 | [Shapes in the Spray](https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Shapes in the Spray](https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf) | 7:09 |
 | 35 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
-| 36 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
-| 37 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
+| 36 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
+| 37 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
 | 38 | [The Future](https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR) | [The Future](https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF) | 3:31 |
 | 39 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 |
 | 40 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [4 Lovers](https://open.spotify.com/track/7CLbEQkvE0y64muJ7gXZrL) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Lia Paris](https://open.spotify.com/artist/666RdmjetOG6FaFpsCHLnZ) | [4 Lovers](https://open.spotify.com/album/5GgmtwqzcDMMyE7xt6eun3) | 5:48 |
 | 60 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 |
 
-Snapshot ID: `MCw5ZmY2YjBkNWYyZDhmYmUwMTEwMTAxZGExY2M1ZDc0ZDJjNjFiMzUz`
+Snapshot ID: `MCwzYWNjNjAxOWNiNGFlODZkZmY4OTM0NTk4NWFhMWVjNTk1OGRjMmVi`

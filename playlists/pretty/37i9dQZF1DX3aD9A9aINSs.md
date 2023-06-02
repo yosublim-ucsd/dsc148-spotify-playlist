@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,816 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,818 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 55 | [Çöl](https://open.spotify.com/track/3gcadccxHzdcP410i4N8s8) | [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Çöl](https://open.spotify.com/album/1bxbSinqZ0bc4WBEv01225) | 3:42 |
 | 56 | [Bazı Şeyler](https://open.spotify.com/track/3NZaf3A2o9GG0xEeRJh7xy) | [Ezgi Gergin](https://open.spotify.com/artist/2EMMNlNS4JYqsJpXZNFCcb) | [Bazı Şeyler](https://open.spotify.com/album/6dJhfO3L473gMxI2RlQMzx) | 2:29 |
 | 57 | [Ruhun Benle Mi?](https://open.spotify.com/track/21FJ71mrVv9rbeoGIOVaiY) | [RednBlack](https://open.spotify.com/artist/6f0pCfC5l4EeY8QXOLTfEp) | [Ruhun Benle Mi?](https://open.spotify.com/album/3q3l89nPRL2lS9aCKwxzXm) | 3:30 |
-| 58 | [Uçan Halı](https://open.spotify.com/track/760VQvW7RJwkrZtr7GCs8q) | [Ezgi B](https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG) | [Uçan Halı](https://open.spotify.com/album/3Eojuhh7gd3wPOzt4zRtBd) | 2:39 |
+| 58 | [Uçan Halı](https://open.spotify.com/track/5eVloLfmtZUxsN4k1iPpjy) | [Ezgi B](https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG) | [Uçan Halı](https://open.spotify.com/album/02w6vK4IXbQlMluG8JbK8y) | 2:39 |
 | 59 | [Çocuklar Gibi](https://open.spotify.com/track/0w1ZQ6SzIByuejtb6ghiuY) | [Aybüke Albere](https://open.spotify.com/artist/5OmWf1TAIgZqyviJCCY2rq) | [Çocuklar Gibi](https://open.spotify.com/album/6Cig7Uy4yj7e60Qy79ndSP) | 3:01 |
 | 60 | [Kuzgun](https://open.spotify.com/track/5uxSgxE5QPRtUIklgtPyIf) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Kuzgun](https://open.spotify.com/album/4KfrCtrTUJKtBNGMVjLs8y) | 3:11 |
 | 61 | [Gel Yan](https://open.spotify.com/track/6MjVzKvbKqAueeX2gaicNM) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Gel Yan](https://open.spotify.com/album/5u38a3bbZbdcQIsTcrB2Qk) | 3:05 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 64 | [After Bach](https://open.spotify.com/track/7H18Ltox2LGLnB1HVmtvCi) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [After Bach](https://open.spotify.com/album/4GfQfjGTu1fCsKXZE3sJLg) | 3:17 |
 | 65 | [Doğum/Birth revisited](https://open.spotify.com/track/6kaNbSBY6ZD2QhEwR2WDuq) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Doğum/Birth revisited](https://open.spotify.com/album/0SjlP9XA8xAKll2JDUO08K) | 4:52 |
 
-Snapshot ID: `MCxiYjY2MWI2NjFhYWE1OGUwZmRmNGZlNjk5MWIzOWYwOGUwYTEyOTM4`
+Snapshot ID: `MCw0NzUzMWM1MmY3Y2U2YTUxN2UwY2UzZGIyMTE0NmYwZDNlZGM0ZTA5`

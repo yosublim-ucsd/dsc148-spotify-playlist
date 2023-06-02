@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "Paying My Way",
       "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
+    },
+    {
+      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 217866,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"

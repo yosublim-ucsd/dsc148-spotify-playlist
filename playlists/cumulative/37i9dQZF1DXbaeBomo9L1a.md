@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-96 songs - 5 hr 53 min
+97 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [holy terrain](https://open.spotify.com/track/5ZmzzBiEAIVCkgsPyh80gt) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 4:03 | 2022-04-18 |  |
 | [I Like That](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:20 | 2022-04-18 |  |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-27 |  |
-| [I'd Better](https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [I'd Better](https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw) | 3:08 | 2023-05-19 |  |
+| [I'd Better](https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [I'd Better](https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw) | 3:10 | 2023-05-19 |  |
 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 | 2022-04-18 |  |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-04-18 |  |
 | [La Puerta](https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [La Puerta](https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y) | 3:34 | 2023-05-19 |  |
@@ -89,7 +89,8 @@
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 | 2022-04-18 |  |
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP) | 3:14 | 2022-04-18 | 2022-07-29 |
 | [Si No Eres Tú? \- Remix](https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2) | [Rk Sensation](https://open.spotify.com/artist/2jEgUhp8qDy6EH5yZ3nadk), [Montserrat Alay](https://open.spotify.com/artist/105u1BUf8wMzV48Ju6Ixae), [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [RIKII 2](https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c) | 4:24 | 2023-04-07 |  |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-19 |  |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-04-18 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2022-04-18 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-04-18 |  |

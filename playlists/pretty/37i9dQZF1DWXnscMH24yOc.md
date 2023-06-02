@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,515 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,577 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 60 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
 | 61 | [Youth](https://open.spotify.com/track/00urNqCMQhspKwipmP3EZN) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Youth](https://open.spotify.com/album/5WjvWdND9pQf1bTZANVvvy) | 2:40 |
 | 62 | [Dance Me to the End of Love \(Bonus\)](https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:05 |
-| 63 | [Say My Name](https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo) | [Late Night Tales: Ólafur Arnalds](https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad) | 5:41 |
-| 64 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 63 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
+| 64 | [Say My Name](https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Arnór Dan](https://open.spotify.com/artist/6LnEuWyi5kVOZ4aLqnD1Qo) | [Late Night Tales: Ólafur Arnalds](https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad) | 5:41 |
 | 65 | [I Know \(feat\. Fiona Apple\) \- RISE Recording](https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [I Know \(feat\. Fiona Apple\) \[RISE Recording\]](https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z) | 4:59 |
 | 66 | [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 |
 | 67 | [What Is Love](https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Sound Of A Woman](https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 97 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 98 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
 | 99 | [Show Me The Meaning Of Being Lonely](https://open.spotify.com/track/4AxIU7R7grPIgl8m6xhvke) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [For The Young](https://open.spotify.com/album/6qd53x1EBxp5wSlmqv9R7B) | 4:09 |
-| 100 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
+| 100 | [How Deep is Your Love](https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [Undercover Bros.](https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT) | 4:08 |
 
-Snapshot ID: `MCxlOGUyYmQzOThiYjE0Yjc5YzY1YWY2OTZmMTQyMjA4ZjY5YzQxMGY5`
+Snapshot ID: `MCw4NDdiNThjYzFjMDdkMzEzMTJhNGI3ZjRhN2RiNTkyZTE4ZTZkMjRl`

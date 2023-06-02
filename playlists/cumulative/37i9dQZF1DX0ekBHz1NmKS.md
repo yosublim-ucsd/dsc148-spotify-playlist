@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-712 songs - 1 day 13 hr 42 min
+714 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-02-05 | 2022-09-16 |
 | [4 In The Morning](https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [4 In The Morning](https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM) | 3:09 | 2022-03-17 | 2022-05-04 |
+| [42](https://open.spotify.com/track/5o0zuf9X17P9bha9TQT24n) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 3:44 | 2023-06-01 |  |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 |  |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
@@ -184,7 +185,7 @@
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
-| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 |  |
+| [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-06-02 |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 | 2023-04-26 |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
@@ -334,6 +335,7 @@
 | [Jealous](https://open.spotify.com/track/2kxHarGEadxB7kVJXo8bwT) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Jealous](https://open.spotify.com/album/34mio8hxaosvK9PV8xt1Ko) | 2:43 | 2021-12-16 | 2022-03-11 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-12-16 | 2022-03-11 |
 | [Julia](https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Julia](https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg) | 3:09 | 2023-03-16 |  |
+| [June/July](https://open.spotify.com/track/62FGkTkd3MCVK4Snz3u5VY) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [June/July](https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl) | 3:25 | 2023-06-01 |  |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-12-16 | 2022-03-11 |
 | [Just A Girl](https://open.spotify.com/track/4F2qj7XKsBZWgyyrchAPJO) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Just A Girl](https://open.spotify.com/album/7uW7dVCInNpUeXtLfk2JZz) | 3:43 | 2022-01-13 | 2022-09-16 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 |  |
@@ -488,7 +490,7 @@
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |
-| [Regnar](https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Regnar](https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo) | 2:12 | 2023-03-30 |  |
+| [Regnar](https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Regnar](https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo) | 2:12 | 2023-03-30 | 2023-06-02 |
 | [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 | 2023-05-19 |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |

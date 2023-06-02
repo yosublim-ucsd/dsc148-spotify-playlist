@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 167786,
       "name": "Block notes",
       "url": "https://open.spotify.com/track/6mZoe1LCCaons3BDtGCw7U"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166725,
       "name": "Fumando mary",
       "url": "https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku"
@@ -2806,6 +2806,28 @@
       "duration_ms": 122867,
       "name": "Hobby",
       "url": "https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
       "album": {
@@ -3631,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "MAROCCO",
+        "url": "https://open.spotify.com/album/4wMH2tKaGLQCCToJle0B3d"
+      },
+      "artists": [
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134808,
+      "name": "MAROCCO",
+      "url": "https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE"
+    },
+    {
+      "album": {
         "name": "MASK",
         "url": "https://open.spotify.com/album/2SD92ubkmpy5cnEy1Xfmpt"
       },
@@ -4379,6 +4419,32 @@
     },
     {
       "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162411,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs"
       },
@@ -4416,6 +4482,24 @@
       "duration_ms": 163118,
       "name": "Pararara",
       "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
+    },
+    {
+      "album": {
+        "name": "Passaggi Di Mano",
+        "url": "https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144400,
+      "name": "Passaggi Di Mano",
+      "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
     },
     {
       "album": {
@@ -4608,7 +4692,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 144992,
       "name": "Porto il Commerciale (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/63sThiYV3Cn2S2r1nRLzjN"
@@ -5554,7 +5638,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 166367,
       "name": "Steppers (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0zILnH8SN6zOrCtfuH2YGR"

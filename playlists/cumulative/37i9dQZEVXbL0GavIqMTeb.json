@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "+ Q LA XUXA",
+        "url": "https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160961,
+      "name": "+ Q LA XUXA",
+      "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
+    },
+    {
+      "album": {
         "name": "100 MILLONES",
         "url": "https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP"
       },
@@ -6554,7 +6572,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 228565,
       "name": "Lo Malo",
       "url": "https://open.spotify.com/track/5VrETFmY5dw5qNMYcwPNKo"

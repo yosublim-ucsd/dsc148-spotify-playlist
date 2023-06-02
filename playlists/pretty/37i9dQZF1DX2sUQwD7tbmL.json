@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1937380,
+  "num_followers": 1937863,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGZiYTVmNzVjNjQ4M2M0MjFhZmY4NmI3ZmNhODFjNWM1YmRjYzM5",
+  "snapshot_id": "MCw4MDRiZjI4MjhmMmM2YWJkZGI3ZGYyYzZhZjU4OGMzZDQ0MmNlMDA4",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "A-Punk",
-      "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "Ghostride",
-      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Slow Rush",
         "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 249586,
       "name": "Lost In Yesterday",
       "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 126120,
+      "name": "Ghostride",
+      "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 156000,
       "name": "Japanese Posters",
       "url": "https://open.spotify.com/track/4EKD6FGZOQQmKWXZiZx3fh"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Pink Songs",
-        "url": "https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Dance In Room Song",
-      "url": "https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Let's Remake It",
         "url": "https://open.spotify.com/album/79lXiYt8Hgd1eHr8sQcCsi"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 230786,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/07tbYac108weqzeP7Bhwon"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pink Songs",
+        "url": "https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Dance In Room Song",
+      "url": "https://open.spotify.com/track/32pdmizVCumVDYAXTqHFRh"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ"
       },
@@ -2019,6 +2003,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -2031,22 +2031,6 @@
       "duration_ms": 280213,
       "name": "circle the drain",
       "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2087,6 +2071,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 120808,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 196643,
       "name": "The Walk Home",
       "url": "https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 120808,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Go Boy",
-        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Go Boy",
-      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 261986,
       "name": "Goodpain",
       "url": "https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Go Boy",
+        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Go Boy",
+      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Slow Dances",
-        "url": "https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Slow Dances",
-      "url": "https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "i haunt ur dreams",
         "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
       },
@@ -2375,6 +2359,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Slow Dances",
+        "url": "https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4"
+      },
+      "artists": [
+        {
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Slow Dances",
+      "url": "https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Going up the Coast",
         "url": "https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy"
       },
@@ -2387,6 +2387,22 @@
       "duration_ms": 174613,
       "name": "Going up the Coast",
       "url": "https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -2423,22 +2439,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
       },
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7AkEuZwYEDASvI7Uqzuee7"
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
       "artists": [
         {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 159212,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7ETijvgUdK7rBlGfvhiWQj"
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     }
   ],
   "unique_name": "Feel-Good Indie Rock",

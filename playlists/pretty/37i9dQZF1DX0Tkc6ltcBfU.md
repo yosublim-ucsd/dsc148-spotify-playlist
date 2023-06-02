@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,885 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,135 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Off the Lot](https://open.spotify.com/track/4rwidVfKmPD2fjWpFEZk1P) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [For Motivational Use Only, Vol\. 1](https://open.spotify.com/album/1ImPXS37EHul2e6XYHH5Lu) | 4:17 |
 | 50 | [Good Day](https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Junkie Mode](https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03) | 3:18 |
 
-Snapshot ID: `MCxhMmJjY2ZhNjE5NWJkMDI4NTg1ZjZiZjliYzgwMmMzM2IwMWUwOWNi`
+Snapshot ID: `MCxhNDdiYTM0MmM0NTM0NjcwNWQyNzgzMTdhYTYxNGRiNzJjNzZmNDc0`

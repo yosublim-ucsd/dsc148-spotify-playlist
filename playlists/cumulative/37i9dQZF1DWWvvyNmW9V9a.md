@@ -4,7 +4,7 @@
 
 > Karma never gets lazy
 
-790 songs - 1 day 16 hr 59 min
+792 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,8 @@
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-17 |  |
 | [Hello Kitty](https://open.spotify.com/track/22FniXvTKV9IC6IhxCpYve) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 2:31 | 2022-04-29 | 2022-05-05 |
 | [help](https://open.spotify.com/track/5MheJtdFOrjyGUU3FMQbcP) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [help](https://open.spotify.com/album/3hkpPjgopZvlY6exTzaCBU) | 2:16 | 2022-04-22 | 2022-05-20 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-28 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-02-03 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-28 | 2023-06-02 |
 | [Hey Kids](https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Hey Kids](https://open.spotify.com/album/2w5lbvxycNKqfGSrWgmDpI) | 3:53 | 2022-03-18 | 2022-05-07 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-27 |  |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-05 | 2022-08-18 |
@@ -610,7 +611,8 @@
 | [Silver Tongues](https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Silver Tongues](https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt) | 3:25 | 2022-11-11 | 2023-01-28 |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-22 | 2022-10-08 |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-22 | 2022-06-17 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-04-14 |  |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-02 | 2022-10-01 |
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-08-12 | 2022-09-24 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-15 | 2022-08-19 |

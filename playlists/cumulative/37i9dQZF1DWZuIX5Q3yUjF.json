@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Lauryyn",
+  "description": "Il meglio dell'R&B italiano. Cover: Livrea",
   "name": "anima R&B",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 151351,
       "name": "2Night",
       "url": "https://open.spotify.com/track/3xk0uV3HHtiLyEiiISQ62y"
+    },
+    {
+      "album": {
+        "name": "5 minuti",
+        "url": "https://open.spotify.com/album/2CMm0Vu0J4Y0ls5Yfn7lbP"
+      },
+      "artists": [
+        {
+          "name": "Martina Vinci",
+          "url": "https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132941,
+      "name": "5 minuti",
+      "url": "https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S"
     },
     {
       "album": {
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 205219,
       "name": "Cosa rimane",
       "url": "https://open.spotify.com/track/1e3bCZEi7yYs9rEnkOUzxL"
@@ -1610,6 +1628,40 @@
       "duration_ms": 257153,
       "name": "Easy Girl",
       "url": "https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3"
+    },
+    {
+      "album": {
+        "name": "Effetto Domino (feat. Evra & Blue Phelix)",
+        "url": "https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        },
+        {
+          "name": "KAPUT",
+          "url": "https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt"
+        },
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        },
+        {
+          "name": "Blue Phelix",
+          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213214,
+      "name": "Effetto Domino (feat. Evra & Blue Phelix)",
+      "url": "https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8"
     },
     {
       "album": {
@@ -3455,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "MaiMai",
+        "url": "https://open.spotify.com/album/0N0eyvXySVkHm43vO2vYS7"
+      },
+      "artists": [
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "MaiMai",
+      "url": "https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18"
+    },
+    {
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/6Te8O72BKZZIK2MI72LUKT"
       },
@@ -3510,7 +3580,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 188640,
       "name": "MareBuio",
       "url": "https://open.spotify.com/track/734XqvVA3DDtVQq2GXEXFJ"
@@ -5098,7 +5168,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 134400,
       "name": "Schiena",
       "url": "https://open.spotify.com/track/67VeNOM3isWCI8zGu949BD"
@@ -5444,7 +5514,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 202968,
       "name": "Sottovoce",
       "url": "https://open.spotify.com/track/0QwlGKxgBzz10Vs3Hu1Ofd"
@@ -5506,6 +5576,28 @@
       "duration_ms": 184918,
       "name": "Sparring Partner",
       "url": "https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ"
+    },
+    {
+      "album": {
+        "name": "Speed Date",
+        "url": "https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr"
+      },
+      "artists": [
+        {
+          "name": "Numb",
+          "url": "https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6"
+        },
+        {
+          "name": "Orlvndo",
+          "url": "https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Speed Date",
+      "url": "https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY"
     },
     {
       "album": {
@@ -5840,7 +5932,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 157239,
       "name": "supernova",
       "url": "https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD"
@@ -6142,6 +6234,24 @@
       "duration_ms": 175545,
       "name": "tutta la citt\u00e0",
       "url": "https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u"
+    },
+    {
+      "album": {
+        "name": "Tutto bene",
+        "url": "https://open.spotify.com/album/0R2QuGXSnLSYCcrPW1W01B"
+      },
+      "artists": [
+        {
+          "name": "Priestess",
+          "url": "https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tutto bene",
+      "url": "https://open.spotify.com/track/5TRlRhA8nXcS9lrMkqWJxJ"
     },
     {
       "album": {

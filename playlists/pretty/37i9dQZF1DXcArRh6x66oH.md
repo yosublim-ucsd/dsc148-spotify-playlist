@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,317 likes - 124 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,873 likes - 124 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 95 | [Boys Back Home](https://open.spotify.com/track/6aMCyqX0t9BZGF4VCRJvud) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 3:16 |
 | 96 | [Silver Lining](https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:50 |
 | 97 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 |
-| 98 | [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 |
+| 98 | [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 |
 | 99 | [Marlboro Man](https://open.spotify.com/track/7g3WvWRM3wTOhbOmM9f6u4) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Marlboro Man](https://open.spotify.com/album/7LVd1AfhUSn8smErFirp0y) | 3:50 |
 | 100 | [If I Were the Devil](https://open.spotify.com/track/3lsWwQnDg99gtni4g5V0UG) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [If I Were the Devil](https://open.spotify.com/album/6h3QqAyUznHmGJj90J3WZl) | 4:02 |
 | 101 | [Liquor & Pills](https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY) | 4:15 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 123 | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/track/4kVZzwAjL8y73Oc7qsNG0p) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/album/6cZwwQJr7F9hTcrvSWx3rJ) | 3:35 |
 | 124 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 
-Snapshot ID: `MCxiMjFjYzcyMDM3MWYzNjY2MzQ1Mjg1ZWNhOGMxOGZjZTU0N2IzMGQ2`
+Snapshot ID: `MCw0YmE4NTQzZTljOTBlZmJmN2IyMWViNDEwYmVhNDMyYzBiYjIxZTBk`

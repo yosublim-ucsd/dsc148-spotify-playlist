@@ -9453,6 +9453,32 @@
     },
     {
       "album": {
+        "name": "Pistachio",
+        "url": "https://open.spotify.com/album/4OIYHFhmlT5clpfIJpi720"
+      },
+      "artists": [
+        {
+          "name": "MVW",
+          "url": "https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq"
+        },
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Pistachio",
+      "url": "https://open.spotify.com/track/24gNOagTwbIoTzUd6FCUU6"
+    },
+    {
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
       },
@@ -11632,7 +11658,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"

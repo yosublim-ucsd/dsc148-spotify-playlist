@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-278 songs - 22 hr 37 min
+281 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,9 +36,10 @@
 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 | 2022-04-22 | 2022-07-29 |
 | [Bestiario](https://open.spotify.com/track/0JOkNtA6xYd1A7H7XTryS5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:18 | 2021-11-12 | 2023-01-14 |
 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 | 2021-11-12 |  |
-| [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 | 2022-04-05 |  |
+| [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 | 2022-04-05 | 2023-06-02 |
 | [Boni Naitó](https://open.spotify.com/track/0P7naJRJFW1uhaYbFabYOS) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Boni Naitó](https://open.spotify.com/album/6XOfXd2Maq3nRJoc73Nn8B) | 4:43 | 2022-01-28 | 2022-07-13 |
 | [Borrón enchufe](https://open.spotify.com/track/2ySH9aIYwDlTWNgDs8BKAt) | [Les conches velasques](https://open.spotify.com/artist/0v9ow54lFaQChUx8tQIG3K) | [Pregón](https://open.spotify.com/album/5EJ13YKbNNq7eh61le2jNn) | 3:55 | 2021-11-12 | 2022-07-28 |
+| [Boudicaaa](https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Music For Film: Tramps!](https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk) | 2:05 | 2023-06-02 |  |
 | [Breathe](https://open.spotify.com/track/6HX1Wa3knjoiLFK9LvIqrQ) | [Tonstartssbandht](https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW) | [Sorcerer](https://open.spotify.com/album/5IJcP6CvNg4P1m1hJHrxRy) | 11:39 | 2021-11-12 | 2022-07-29 |
 | [Breathe in, Breathe Out](https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Breathe in, Breathe Out](https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G) | 2:50 | 2021-11-12 | 2022-07-22 |
 | [Bright Blue Day Haze](https://open.spotify.com/track/1RNybormZ5O0s3DCIRQWq4) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Desert Island](https://open.spotify.com/album/7AZL0M9Hn8gwLw6RyUgxEB) | 4:12 | 2021-11-12 |  |
@@ -162,6 +163,7 @@
 | [María Juana](https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [María Juana](https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM) | 4:54 | 2022-08-03 | 2022-09-03 |
 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 | 2021-11-12 |  |
 | [Mesmo Coração \- The Holydrug Couple Remix](https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Mesmo Coração Remixes](https://open.spotify.com/album/1a2A7vTxesBdKP0uXy2XKH) | 4:35 | 2021-11-12 | 2022-07-19 |
+| [Mike](https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O) | [Shake Chain](https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN) | [Snake Chain](https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql) | 2:18 | 2023-06-02 |  |
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2022-04-12 |  |
 | [Monolithium](https://open.spotify.com/track/13FOAbsBvMHY9jLzGS68IG) | [SCALPING](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W) | [Monolithium](https://open.spotify.com/album/75OHm9PdYyumWK5dxE3Xc4) | 4:35 | 2021-11-12 | 2022-07-17 |
 | [Mother Seletta](https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Non Ex Orbis](https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq) | 8:06 | 2021-11-12 | 2022-07-29 |
@@ -204,10 +206,11 @@
 | [Remember Me](https://open.spotify.com/track/3g7VAnSddlg5ovDDvrZlyR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:21 | 2021-11-12 | 2022-07-29 |
 | [Renacer](https://open.spotify.com/track/5Szry6sR2vYm1fHh4X8T62) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Renacer](https://open.spotify.com/album/3Lj47MHjUR21dtEfXxUXh3) | 4:38 | 2022-04-01 | 2022-06-08 |
 | [Resources](https://open.spotify.com/track/0RvEPyn3Io0jd7R8yY6vfb) | [Tella Viv](https://open.spotify.com/artist/64yuyvF3YigEw1MyXdDo6w) | [Resources](https://open.spotify.com/album/4Hc4rVVTHW6weIuPpTI6O5) | 4:10 | 2021-11-12 | 2022-07-20 |
-| [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 | 2022-07-06 |  |
+| [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 | 2022-07-06 | 2023-06-02 |
 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 | 2021-11-12 |  |
 | [Roky Said](https://open.spotify.com/track/1n3cDnsKveliNsejFGLTs9) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/0taZSlsinNfnw9FpNMZBS0) | 3:16 | 2021-11-12 | 2022-07-28 |
 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 | 2021-11-12 |  |
+| [RU](https://open.spotify.com/track/5nkKeNCnQ8dJ4gtwwzXVw9) | [Shake Chain](https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN) | [Snake Chain](https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql) | 2:19 | 2023-06-02 |  |
 | [Sally Go Round the Sun](https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Elephant Stone](https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix) | 1:44 | 2021-11-12 |  |
 | [Sally Go Round the Sun](https://open.spotify.com/track/3sU662XXk5o2piJKZGFUdq) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Elephant Stone](https://open.spotify.com/album/2xUECIo0BalLsOl686J9kt) | 1:44 | 2021-11-12 | 2022-07-29 |
 | [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 | 2021-11-12 | 2023-03-05 |
@@ -233,7 +236,7 @@
 | [Station Europa](https://open.spotify.com/track/59jMq3TSZF3dhlCbbpNOtL) | [10 000 Russos](https://open.spotify.com/artist/2pkZFQGkxsNYlJK5jO4z3L) | [Station Europa](https://open.spotify.com/album/2spbDrHyznrc7jNtAJJp0j) | 5:18 | 2021-11-12 | 2022-07-14 |
 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 |  |
 | [String Theory](https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN) | [Fabriccio De La Mora](https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ) | [Grand Unified Theories](https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c) | 5:23 | 2022-06-29 | 2022-08-04 |
-| [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-31 |  |
+| [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-31 | 2023-06-02 |
 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 |  |
 | [Tense Soup](https://open.spotify.com/track/73ghPgeqN9YLa2XJva3rS7) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 5:24 | 2021-11-12 | 2022-07-22 |
 | [The Ark](https://open.spotify.com/track/35WcyVjvnNmShTVxWpzqBX) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Spirals / The Ark](https://open.spotify.com/album/42PQd5ADHI5PEoxRgsO0AL) | 2:45 | 2021-11-12 | 2022-07-02 |

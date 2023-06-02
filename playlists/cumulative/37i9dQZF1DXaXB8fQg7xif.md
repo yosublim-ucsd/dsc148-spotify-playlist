@@ -2,7 +2,7 @@
 
 ### [Dance Party](https://open.spotify.com/playlist/37i9dQZF1DXaXB8fQg7xif)
 
-> <a href="spotify:genre:edm\_dance">Move</a> your feet!
+> 
 
 923 songs - 2 day 2 hr 33 min
 

@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 188946,
       "name": "10K Summer Nights",
       "url": "https://open.spotify.com/track/2FTTz19ql2XzrwnCBM0dP7"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 226640,
       "name": "At Home",
       "url": "https://open.spotify.com/track/2Dzhwe90lhHXVU6lk7Nx0H"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Better in My Head",
       "url": "https://open.spotify.com/track/31r5NLOx5L31PWYT9GvCQV"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 261320,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 254200,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/1Mk77ZCLBBMquaupM9kndp"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 267360,
       "name": "Can't Run Forever - Midnight Version",
       "url": "https://open.spotify.com/track/6nqDpT0gNLCGqQmawhs233"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/2RAebgzUvz3Uv9zmGE2egG"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 205453,
       "name": "Civilized",
       "url": "https://open.spotify.com/track/3ox0EakffcjLjLCflVzws6"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Dialtone",
       "url": "https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/1ldzBCZ5Wjg2wdhJDIcSXy"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 178480,
       "name": "drive all night",
       "url": "https://open.spotify.com/track/4aoW2LTaqrQEUM7NEjXT9T"
@@ -4860,7 +4860,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 227010,
       "name": "Driving Hours",
       "url": "https://open.spotify.com/track/6ajKu17bSP0Kp0ZncNdUja"
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 206987,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6Ixzd3HI21Ld7KzmIYQ6NW"
@@ -5914,7 +5914,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 169293,
       "name": "Feel Every Bit",
       "url": "https://open.spotify.com/track/41P0qqBtGdJUeGr85AnHot"
@@ -5968,7 +5968,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 251618,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/421KBbIihksclmc77zzU0I"
@@ -7508,7 +7508,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 307689,
       "name": "Heart Worth Breaking",
       "url": "https://open.spotify.com/track/1JMzrJCU3dIR0TDEhEDDe5"
@@ -7760,7 +7760,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 378000,
       "name": "Hold It All Together",
       "url": "https://open.spotify.com/track/35Qa7XKGRWEBjb1q4sZraE"
@@ -10508,7 +10508,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 389094,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
@@ -10688,7 +10688,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 322778,
       "name": "Loud",
       "url": "https://open.spotify.com/track/7MN4PQjDv0YDxFrd9MCSIW"
@@ -11550,7 +11550,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -12390,7 +12390,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 249466,
       "name": "Never Stop",
       "url": "https://open.spotify.com/track/4fGgmcD5Ke4I4ZfJ1hZeiW"
@@ -13094,7 +13094,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 453466,
       "name": "Ocean Cabin",
       "url": "https://open.spotify.com/track/4yQzYdkSjjQ35FD2Hm0EYJ"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Okay With That",
       "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
@@ -13188,7 +13188,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Olympia",
       "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
@@ -13260,7 +13260,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/3R09tujAEHItiHfiPgC4Lc"
@@ -13314,7 +13314,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
@@ -13738,7 +13738,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -13756,7 +13756,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -14122,7 +14122,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 316733,
       "name": "Portland",
       "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
@@ -14696,7 +14696,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 247175,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5uFHPDXEHYrp8R24xo6mel"
@@ -15476,7 +15476,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 185632,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/013UjAtnR3bM0ZUxriPnv3"
@@ -15602,7 +15602,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 218160,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/1ohJIGViKWtc2yOiypmeMu"
@@ -16092,7 +16092,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198251,
       "name": "state of mind",
       "url": "https://open.spotify.com/track/5eTF0lnEnvoNAFtJG3CXd1"
@@ -16276,7 +16276,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -17092,7 +17092,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234399,
       "name": "Tangerine Skies",
       "url": "https://open.spotify.com/track/3y3Wz652563UmMutyAoi7N"
@@ -18762,7 +18762,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -19328,7 +19328,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"
@@ -19592,7 +19592,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 354678,
       "name": "Wouldn't Miss It for the World",
       "url": "https://open.spotify.com/track/5CoGcUBv45jBq5lYbrqDxR"
@@ -20094,7 +20094,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 339524,
       "name": "You're Okay",
       "url": "https://open.spotify.com/track/6M3QZa7KsrLUrabJZxyLGr"
@@ -20224,7 +20224,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 208718,
       "name": "Younger",
       "url": "https://open.spotify.com/track/5292etgbql79oa54kh8pxA"

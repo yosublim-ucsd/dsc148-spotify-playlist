@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 613705,
+  "num_followers": 613721,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWYwMWQzOWRmYmYzOTFmYzNiZTU0MDJiMTkwOTZjYTNjZDg0ZDEz",
+  "snapshot_id": "MCxmM2JjMjRiZDNmOTBjNzY3M2E0ZjIwOGZiMzBkMjQ4ZGQ4YTAwZjA3",
   "tracks": [
     {
       "added_at": "2023-05-31 19:11:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-31 19:11:10",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2023-05-31 19:11:10",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-05-31 19:11:10",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2023-05-31 19:11:10",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-31 19:11:10",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2023-05-31 19:11:10",
-      "album": {
         "name": "Dark Sun",
         "url": "https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 224800,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs"
+    },
+    {
+      "added_at": "2023-05-31 19:11:10",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2023-05-31 19:11:10",

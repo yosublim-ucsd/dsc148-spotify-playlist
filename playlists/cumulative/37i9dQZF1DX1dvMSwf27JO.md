@@ -4,7 +4,7 @@
 
 > music to get fly to
 
-396 songs - 21 hr 21 min
+397 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-08-05 | 2022-07-12 |
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2022-05-20 | 2022-09-03 |
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2022-04-15 | 2022-07-12 |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-04-21 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 | 2023-06-02 |
 | [hey prentiss](https://open.spotify.com/track/2mIW33L1ycl9oqBAlkmO7l) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/38KlL9hDNslKeFJ2A0pKXC) | 2:11 | 2021-11-19 | 2022-04-28 |
 | [Hot Rod](https://open.spotify.com/track/6t8MIRE7HlRiWteL5EqruV) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Hot Rod](https://open.spotify.com/album/72E7gOHQneXKHXHTZOENX3) | 3:26 | 2022-09-13 | 2022-10-08 |
 | [HOW CAN I SLEEP](https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv) | [Evenson](https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd) | [HOW CAN I SLEEP](https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7) | 4:27 | 2021-11-04 | 2022-04-16 |

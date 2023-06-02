@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 151576,
+  "num_followers": 151667,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTNiNGY2ZDRmNmEwMmRiMDk4MjFkODFmNTg1ZmI4OWEyMWY5NGNj",
+  "snapshot_id": "MCw1NGNiZThlYWI3M2Y5ZTE2NmQ2YTIxNDJhMzViNDEyNjlhYjM5N2Zm",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Zafar",
-      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Zafar",
+      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Habla Tu Espejo",
         "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 259839,
       "name": "No llora",
       "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 237873,
+      "name": "De Nada Sirve",
+      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -807,22 +827,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 237873,
-      "name": "De Nada Sirve",
-      "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
+      "duration_ms": 254106,
+      "name": "Yendo a la Casa de Dami\u00e1n",
+      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Yendo a la Casa de Dami\u00e1n",
-      "url": "https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 269053,
-      "name": "Rezo por Vos",
-      "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Gulp!",
         "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Esp\u00edritu",
-        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Chino",
-      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
+      "duration_ms": 269053,
+      "name": "Rezo por Vos",
+      "url": "https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Esp\u00edritu",
+        "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "Chino",
+      "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Pajaritos, Bravos Muchachitos",
         "url": "https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 268213,
       "name": "Hab\u00eda una Vez ...",
       "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW"
     },
     {
       "added_at": "2023-05-26 03:00:00",

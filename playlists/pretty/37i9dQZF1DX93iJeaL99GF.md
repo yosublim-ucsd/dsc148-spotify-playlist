@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,597 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,665 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 39 | [Purani Jeans](https://open.spotify.com/track/1fuM2tWkr4LC48kiGTerSX) | [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Ali Haider's Best Of The Best Vol\- 1](https://open.spotify.com/album/2Q4YL0QgSL985YNjtFWYkA) | 5:04 |
 | 40 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 |
 
-Snapshot ID: `MCxjNDVkNmRkZWU2ZDk5YWZhMjI4YjcyNjA2MDE3MDJkZGM2NTRmMWE3`
+Snapshot ID: `MCw2YmE4ODQzZWMzODBmNmNjZDA5NWU1YzZjYWJlNmEyZDgwNmJkNDAz`

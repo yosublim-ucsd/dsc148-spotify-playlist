@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 43203,
+  "num_followers": 43243,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTMxMGZjYTNjZWNhZDJjMDgyNjljZmZhMjEyYjg1MDgyYzRiNjE0",
+  "snapshot_id": "MCw2YTE5MzQ1YThlZWZlOWNlOTRjYjQ5YjkwY2Y0YThkOTcyNzRkNTVj",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/2ulqyHaLOAzuCKrd5WyAyV"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 273750,
       "name": "Aether Vibrations",
       "url": "https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 372930,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 372930,
-      "name": "Lumina",
-      "url": "https://open.spotify.com/track/0Jz2bcpl0lpLfASL2mrUTx"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 319047,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Amygdala",
-        "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 319047,
-      "name": "Amygdala",
-      "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -659,22 +675,6 @@
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+      "duration_ms": 353000,
+      "name": "Wander Into",
+      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Moonbase Alpha",
         "url": "https://open.spotify.com/album/4gscm6WoyI96BUCKeWORvO"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 145000,
       "name": "The Station Is Alive Again",
       "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Wander Into",
-        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
-      },
-      "artists": [
-        {
-          "name": "Ann Annie",
-          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Wander Into",
-      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "ABOVE_BETWEEN_BELOW",
-        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        }
-      ],
-      "duration_ms": 317393,
-      "name": "BELOW",
-      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Sleep to Dream",
         "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "ABOVE_BETWEEN_BELOW",
+        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        }
+      ],
+      "duration_ms": 317393,
+      "name": "BELOW",
+      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Wing Pinger",
-        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
-      },
-      "artists": [
-        {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
-        }
-      ],
-      "duration_ms": 511730,
-      "name": "Wing Pinger 01",
-      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "The Sparrow",
         "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Wing Pinger",
+        "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
+      },
+      "artists": [
+        {
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+        }
+      ],
+      "duration_ms": 511730,
+      "name": "Wing Pinger 01",
+      "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
     }
   ],
   "unique_name": "Modular Synths",

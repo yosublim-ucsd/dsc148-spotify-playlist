@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Buen provecho!",
-  "num_followers": 228322,
+  "num_followers": 228354,
   "original_name": "Hora de la Comida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjI5OWMzZDdmNzdiYzVkZTRhMWMxZDAxZjJkYTA3N2UzN2NjNzFi",
+  "snapshot_id": "MCw2YTljZWQ0Y2Y2MzAyYjcwM2EzMmJmNTA1OWFkNWQyMjc5ODE2M2Fj",
   "tracks": [
     {
       "added_at": "2023-05-05 15:49:38",
@@ -323,18 +323,22 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -355,22 +359,18 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "MEMORIA FUTURO",
         "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Solo M\u00eda",
-        "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 255669,
-      "name": "Solo M\u00eda",
-      "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
-    },
-    {
-      "added_at": "2023-05-05 15:49:38",
-      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 236026,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
+    },
+    {
+      "added_at": "2023-05-05 15:49:38",
+      "album": {
+        "name": "Solo M\u00eda",
+        "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 255669,
+      "name": "Solo M\u00eda",
+      "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
     },
     {
       "added_at": "2023-05-05 15:49:38",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-05-05 15:49:38",
       "album": {
-        "name": "Eres T\u00fa",
-        "url": "https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR"
+        "name": "Es Por Ti",
+        "url": "https://open.spotify.com/album/4OiWC358icDw3f18lxFYjT"
       },
       "artists": [
         {
-          "name": "Mac Gregor",
-          "url": "https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF"
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh"
+      "duration_ms": 193684,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/1fPBBcBon7d2EuOcye2rsT"
     }
   ],
   "unique_name": "Hora de la Comida",

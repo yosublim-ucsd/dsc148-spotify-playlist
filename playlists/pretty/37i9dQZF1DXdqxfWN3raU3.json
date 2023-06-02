@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Latin Mafia en portada.",
-  "num_followers": 97842,
+  "num_followers": 97908,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGE5ZGZlNmNlYTU3ZWE5MTllYzVhMzA1ZjM4NDMwMWVjZTZiOTZk",
+  "snapshot_id": "MCwwZmY5MTc1MTRlNmEyZWFkYTk5ZmM3ZTllNzEwZDgyYzU3ZWZmNjE5",
   "tracks": [
     {
       "added_at": "2023-05-26 19:11:58",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-26 19:11:58",
       "album": {
-        "name": "como te va?",
-        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 154401,
-      "name": "como te va?",
-      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
-    },
-    {
-      "added_at": "2023-05-26 19:11:58",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 253150,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2023-05-26 19:11:58",
+      "album": {
+        "name": "como te va?",
+        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 154401,
+      "name": "como te va?",
+      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
     },
     {
       "added_at": "2023-05-26 19:11:58",
@@ -1316,9 +1316,29 @@
           "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
         }
       ],
-      "duration_ms": 188995,
+      "duration_ms": 190120,
       "name": "I'd Better",
       "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
+    },
+    {
+      "added_at": "2023-05-26 19:11:58",
+      "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 181221,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
     },
     {
       "added_at": "2023-05-26 19:11:58",
@@ -1375,26 +1395,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2023-05-26 19:11:58",
-      "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 181221,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
     },
     {
       "added_at": "2023-05-26 19:11:58",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-05-26 19:11:58",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 233105,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+    },
+    {
+      "added_at": "2023-05-26 19:11:58",
+      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 174626,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua"
-    },
-    {
-      "added_at": "2023-05-26 19:11:58",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 233105,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
     },
     {
       "added_at": "2023-05-26 19:11:58",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-05-26 19:11:58",
       "album": {
-        "name": "Quiere Volar",
-        "url": "https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm"
-      },
-      "artists": [
-        {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Quiere Volar",
-      "url": "https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f"
-    },
-    {
-      "added_at": "2023-05-26 19:11:58",
-      "album": {
         "name": "La Musa",
         "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 101739,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "added_at": "2023-05-26 19:11:58",
+      "album": {
+        "name": "Duele Tanto",
+        "url": "https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor"
+      },
+      "artists": [
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 192570,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo"
     }
   ],
   "unique_name": "R&B Latino",

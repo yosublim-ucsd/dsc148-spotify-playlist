@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Miley Cyrus, Harry Styles &amp; more!
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,387 likes - 32 songs - 1 hr 35 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,385 likes - 32 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

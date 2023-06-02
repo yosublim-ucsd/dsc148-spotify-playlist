@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-173 songs - 12 hr 30 min
+174 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,13 @@
 | [Illusion](https://open.spotify.com/track/0H6aRi7rGgHJulopiLFgvm) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/4tYpdAAF6oJaxJ3fuzboHX) | 5:44 | 2022-06-20 | 2022-11-13 |
 | [Illusion](https://open.spotify.com/track/2hDnhOt4pn1uEP1N4YQUT6) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/2Li9ODcatpUeJ9S3DZHWD9) | 5:44 | 2022-06-20 | 2023-05-20 |
 | [Illusion](https://open.spotify.com/track/53CpD7nwNQ7otqPNkzMM86) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD) | [Illusion](https://open.spotify.com/album/5AnU5BoObGiy8FHWRCNAsj) | 5:45 | 2021-07-24 | 2022-07-29 |
-| [In My Soul](https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [In My Soul](https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl) | 4:42 | 2021-07-24 |  |
+| [In My Soul](https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [In My Soul](https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl) | 4:42 | 2021-07-24 | 2023-06-02 |
 | [In This Life \- Cassara Remix](https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Mandy Jones](https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ), [Cassara](https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi) | [In This Life \(Cassara Remix\)](https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk) | 6:21 | 2023-05-19 |  |
 | [Int'l Swayers Anthem \- Radio Edit](https://open.spotify.com/track/4UACOokrBAawfs584AMmW2) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Int'l Swayers Anthem](https://open.spotify.com/album/3c3zrwLoOqY2god9LfWWaU) | 4:00 | 2021-07-24 | 2022-07-29 |
 | [Int'l Swayers Anthem \- Radio Edit](https://open.spotify.com/track/5CAxmhihkRYtGTC7ySWmbF) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Int'l Swayers Anthem](https://open.spotify.com/album/3TTsyuiLxbKNk5a8TSrkLJ) | 4:00 | 2022-06-20 | 2023-05-20 |
 | [Isle of Taste \- Patrice Scott Remix](https://open.spotify.com/track/28URezCSilcT2w4Z1hc39i) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Patrice Scott](https://open.spotify.com/artist/62AXfUCZHr4OlF8JOu8p0I) | [Isle of Taste \(Patrice Scott Remix\)](https://open.spotify.com/album/4oy4C6JHYOs9UooBNNQM50) | 6:14 | 2021-07-24 | 2023-05-20 |
 | [Jump Into The Light \- 7" Mix](https://open.spotify.com/track/6wzNR3WjL6LY41lB6o83HB) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light](https://open.spotify.com/album/6vTp71Na0MLcAQ9UheLHhy) | 3:36 | 2021-07-24 | 2023-05-28 |
+| [Just for the Night \- Jean Tonique Remix](https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Just for the Night \(Jean Tonique Remix\)](https://open.spotify.com/album/5aeZJVEbJ8vpSv17brEa1n) | 3:25 | 2023-05-26 |  |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-20 |  |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2023-05-19 |  |
 | [Kiss of Life](https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Kiss of Life](https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn) | 3:13 | 2023-05-19 |  |

@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-171 songs - 10 hr 27 min
+173 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-19 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-01-10 | 2023-03-26 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 | 2023-06-02 |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-16 | 2023-01-11 |
 | [doze off](https://open.spotify.com/track/0nkqg2Sf2dtOYcLwkIcMWZ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [doze off](https://open.spotify.com/album/3MsQs4mgM7rNanS8Eh1T6b) | 3:43 | 2022-10-16 | 2023-01-13 |
 | [doze off](https://open.spotify.com/track/2fHgtQ0Uys5yGW8EaAimw2) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:44 | 2022-11-08 | 2022-11-13 |
@@ -117,7 +118,8 @@
 | [See You In Life](https://open.spotify.com/track/4dNZaLSXpJMQowi7LX3gtC) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [See You In Life](https://open.spotify.com/album/7CmqyXDDAdWTBdkgNxPEGI) | 4:01 | 2023-01-10 | 2023-05-21 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-05-13 |
 | [She's Got You](https://open.spotify.com/track/2vxA74DuID8LBkCr1nxJCo) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [She's Got You](https://open.spotify.com/album/5pegL29fvLU4J3tM8gD0Yc) | 2:53 | 2023-02-08 | 2023-03-18 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-01 |  |
 | [Slow Fade](https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX) | 3:31 | 2022-11-08 | 2022-11-13 |
 | [Slumber in Reminiscence](https://open.spotify.com/track/7tuHVPcFSZfnU49JowoEku) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Slumber in Reminiscence](https://open.spotify.com/album/1BnKk4beQYpjPKqba2fTq0) | 4:58 | 2022-10-16 | 2023-01-13 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-10-16 |  |

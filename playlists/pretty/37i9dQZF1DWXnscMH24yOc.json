@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 434515,
+  "num_followers": 434577,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGUyYmQzOThiYjE0Yjc5YzY1YWY2OTZmMTQyMjA4ZjY5YzQxMGY5",
+  "snapshot_id": "MCw4NDdiNThjYzFjMDdkMzEzMTJhNGI3ZjRhN2RiNTkyZTE4ZTZkMjRl",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Late Night Tales: \u00d3lafur Arnalds",
         "url": "https://open.spotify.com/album/7tS1qpuzGoArfIPnmXkPad"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 341015,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0KPVOW1SAbaHZWaSzaJf5J"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+        "name": "Undercover Bros.",
+        "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
       },
       "artists": [
         {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
         }
       ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+      "duration_ms": 248590,
+      "name": "How Deep is Your Love",
+      "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     }
   ],
   "unique_name": "Chill Covers",

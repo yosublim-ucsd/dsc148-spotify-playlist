@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,338 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,393 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 18 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
 | 19 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 |
 | 20 | [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 |
-| 21 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
-| 22 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 21 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
+| 22 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
 | 23 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
 | 24 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 25 | [Ground On Down](https://open.spotify.com/track/6THh5CL5PYf7OqOq9pTqNb) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 4:53 |
 | 26 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 |
 | 27 | [Night Has Turned to Day](https://open.spotify.com/track/4EtG28bl2zEehPhPsNgc8K) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Fantastic Negrito Deluxe EP](https://open.spotify.com/album/0joZ3fA8e7Qj9W2PLExxwn) | 2:40 |
-| 28 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
-| 29 | [Mean Old World](https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Duane Allman](https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m) | [An Anthology](https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb) | 3:52 |
+| 28 | [Mean Old World](https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Duane Allman](https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m) | [An Anthology](https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb) | 3:52 |
+| 29 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
 | 30 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 31 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 32 | [Jack Of Diamonds](https://open.spotify.com/track/2lRhXplPuIHZ067e2WIllb) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/6IJNUyigUfK3n8nPMavgaL) | 4:12 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 38 | [Highway 61 Revisited \- Live in California \- September 1975](https://open.spotify.com/track/0MLny1eMrEO76xLNlw2yTs) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [White Hot Blues](https://open.spotify.com/album/7MDS6yp7pHvXcuLIcjO8xY) | 5:03 |
 | 39 | [Shake 'Em on Down](https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:49 |
 | 40 | [Ghost Blues](https://open.spotify.com/track/6axmyZv2KR3IUTjuIHSN8E) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Fresh Evidence \(Remastered 2017\)](https://open.spotify.com/album/3nKprInHCjgZsU6GQPeEst) | 8:00 |
-| 41 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
-| 42 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
+| 41 | [Walkin' Blues](https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd) | [Roy Rogers](https://open.spotify.com/artist/7kPinmrfhaLVSHjDxqAsAe) | [Prime Chops](https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy) | 4:35 |
+| 42 | [Walkin' Blues](https://open.spotify.com/track/4bh9exCCfV8IUr9qK28ZVC) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Fight](https://open.spotify.com/album/2wqkJmNoB8cS80mbmnGSUK) | 4:22 |
 | 43 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 | 44 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 45 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
 | 50 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 
-Snapshot ID: `MCw0NDA4MTk0YzBhN2ZmMmM1OWZhYTlmMjQ3ODE4ZDEyY2RmNGUzZTg3`
+Snapshot ID: `MCxhN2IwNTJjMTg1MTljZGI4YjJmYjM0Zjg5MzVhODFmMmQwYWJjYmYx`

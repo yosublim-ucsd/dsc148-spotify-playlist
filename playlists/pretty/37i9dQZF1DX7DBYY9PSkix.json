@@ -1,12 +1,12 @@
 {
   "description": "Music to get your heart started.",
-  "num_followers": 12895,
+  "num_followers": 12924,
   "original_name": "Country Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2VlYjJkNDAyMmQyODExYjY4NmQ3MjdhY2MyOWFhNWE0ZmU3ZWM3",
+  "snapshot_id": "MCw3ODQ4MTExZGM5ZWM2YTVlN2M2MGRkZWI4ZGZiNTdlYzgzMzFhNjM3",
   "tracks": [
     {
       "added_at": "2023-01-13 02:01:28",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2023-01-13 02:01:28",
       "album": {
-        "name": "I Remember",
-        "url": "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 168117,
-      "name": "I Remember",
-      "url": "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     }
   ],
   "unique_name": "Country Cardio",

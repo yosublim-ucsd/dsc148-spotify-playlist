@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Kim
 
-802 songs - 1 day 17 hr 51 min
+803 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,8 @@
 | [Prière pour s'ouvrir, Open Up](https://open.spotify.com/track/3mAkUn1xvxDnJh0GenmFwq) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Les prières \- guérir](https://open.spotify.com/album/3xWFIW7ROsdBjOBzCe4X5X) | 4:29 | 2023-01-31 | 2023-03-01 |
 | [Prière pour soi](https://open.spotify.com/track/764JnwSjtwX0lZrL3TqAHM) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Prière pour soi](https://open.spotify.com/album/0rYR7upLR2PC1DvdrijrLr) | 4:32 | 2022-04-05 | 2022-05-04 |
 | [Q](https://open.spotify.com/track/5hGUYAw9wrOpRBank5mIV9) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 2:36 | 2022-10-04 | 2022-11-09 |
-| [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-05-02 |  |
+| [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-05-02 | 2023-06-02 |
+| [QLT 离开地球](https://open.spotify.com/track/0suAbipq2KSYp3GyrGb5p5) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT 离开地球](https://open.spotify.com/album/47pU7zpurNOoVEhxdhsCnd) | 2:37 | 2023-05-02 |  |
 | [qu'il en soit ainsi](https://open.spotify.com/track/7bPbBoyykFSbU3P7Fo3LFL) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [Sérendipité](https://open.spotify.com/album/6nAkD2bMAExLR5WxVS7Qo5) | 2:59 | 2022-05-31 | 2022-07-06 |
 | [Qu'importe](https://open.spotify.com/track/4CAJWoy2MpfDFHirq2ekwB) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN) | 3:46 | 2022-01-05 | 2022-02-02 |
 | [Quand je chante](https://open.spotify.com/track/3d2n4W8RXJMI7cU0e1EUeX) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [Quand je chante](https://open.spotify.com/album/3AFpD6pK80UOa56HOhv9VT) | 3:07 | 2023-02-28 | 2023-04-05 |

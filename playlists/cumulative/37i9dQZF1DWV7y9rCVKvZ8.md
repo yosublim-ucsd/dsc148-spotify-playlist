@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini hanya ada di Spotify.
 
-87 songs - 5 hr 16 min
+88 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [F Yo Love Song](https://open.spotify.com/track/4I7NXbQnVwCJaIdDYf4vSv) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [F Yo Love Song](https://open.spotify.com/album/2GZPhakFnEweZi053Bm1f2) | 3:25 | 2023-03-22 |  |
 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 | 2023-03-22 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-03-22 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-22 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-17 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-22 | 2023-06-02 |
 | [Heroik](https://open.spotify.com/track/2sRXa0KzHvIsUuN7zYBEd4) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Heroik](https://open.spotify.com/album/6n50RxgjfIYDZjd20vIQOe) | 4:18 | 2023-03-22 |  |
 | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/album/3MmEdPluU152jAt54TAuKa) | 3:30 | 2023-04-04 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-03-22 |  |

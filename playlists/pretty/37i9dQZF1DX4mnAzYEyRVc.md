@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Alamedadosoulna
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,082 likes - 123 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,143 likes - 123 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 48 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 |
 | 49 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 |
 | 50 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
-| 51 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
-| 52 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
+| 51 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 |
+| 52 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 53 | [Monkey Man \- 2015 Remaster](https://open.spotify.com/track/04BXsortkjpUxf1sOtLRXE) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE) | 2:45 |
 | 54 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 55 | [Sarri, Sarri](https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [A Frontline Compilation](https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO) | 4:05 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 85 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
 | 86 | [Boogie Stop Shuffle](https://open.spotify.com/track/5R9Y5MPiGIAUoxtnrEjeur) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 4:16 |
 | 87 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
-| 88 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
-| 89 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
+| 88 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
+| 89 | [El Ultimo Ska](https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT) | [Kortatu](https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann) | [Aizkolari](https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6) | 3:55 |
 | 90 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 91 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 | 92 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 122 | [All Turned Blue](https://open.spotify.com/track/422OBQ4maGZ7nIl8T7Crnh) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Lighthouse Keeper](https://open.spotify.com/album/0rORsD0jZ8a2sThwEG920w) | 3:58 |
 | 123 | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/track/0X7oHYTJYVml84BCs3OwmK) | [Группировка Свердловск](https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba) | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl) | 3:20 |
 
-Snapshot ID: `MCxiODU5MTBlNzNjOTI4ZjI1YWQ5MDkwZGE2MDZhZmM1NThhNzM1OWJj`
+Snapshot ID: `MCxlM2E1ZWJhMDU0OGQ0MWY3OWM5NDhhMzdhNmNjZTQ5N2E2Y2NlNTg5`

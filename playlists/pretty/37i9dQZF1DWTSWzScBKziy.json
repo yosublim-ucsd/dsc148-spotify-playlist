@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 87502,
+  "num_followers": 87523,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTA1ZTJhYmIyYjU2NWRjMmMwOGVkMThkMTUwYjVhMTUzNmI0NjAw",
+  "snapshot_id": "MCw5NzFkNzEwMzBmMDQxMGE4N2U0MjIxZjVlZTIwZGQ0MGIwY2YwNWNk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 213967,
-      "name": "Ain't Nobody - Radio Version",
-      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "For the Love of God",
         "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 228134,
       "name": "For the Love of God",
       "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 213967,
+      "name": "Ain't Nobody - Radio Version",
+      "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 207084,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3EcsslHYdm8UlzuwnvaA9O"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 207084,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/7FYMyfcZtTnNbv5pVK0YbD"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1211,18 +1211,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
         }
       ],
-      "duration_ms": 278001,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
+      "duration_ms": 215800,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1247,34 +1263,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/1IYrmNaXSihfAfvDkfwIWn"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lane",
-          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
+      "duration_ms": 278001,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Love Won\u2019t Let Go",
         "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 201639,
-      "name": "By Faith",
-      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 201639,
+      "name": "By Faith",
+      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 222693,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/0OP9HYBOIsuXYluIctWpuN"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 228798,
       "name": "More",
       "url": "https://open.spotify.com/track/0hFyyBF7BntGhLPffwliYh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-10-29 07:17:38",

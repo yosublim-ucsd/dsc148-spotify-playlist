@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 164601,
+  "num_followers": 164626,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2ZkOWEyZDUxOTM0ZjFiMWU3YTVlYzE2NGIwYzVlMGJkOWY2ZjY2",
+  "snapshot_id": "MCxjYmQwYjFjNzUyNzU1YjFkOWFlZmZlZGZiMTBjYzE4ZTU1NWIyNzlj",
   "tracks": [
     {
       "added_at": "2023-05-26 06:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 202594,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Palabras Sobran",
+        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Palabras Sobran",
+      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Palabras Sobran",
-        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Palabras Sobran",
-      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Cu\u00e1ntas veces",
-        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 157594,
-      "name": "Cu\u00e1ntas veces",
-      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1767,22 +1767,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
+        "name": "Cu\u00e1ntas veces",
+        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
+      "duration_ms": 157594,
+      "name": "Cu\u00e1ntas veces",
+      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
     },
     {
       "added_at": "2023-05-26 06:00:00",

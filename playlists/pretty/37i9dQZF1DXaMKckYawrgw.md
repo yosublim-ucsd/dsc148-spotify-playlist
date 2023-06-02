@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,194 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,197 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 40 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 41 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
 | 42 | [Tabernero](https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:40 |
-| 43 | [La Trucha Capirucha](https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST) | [K\-ras Citadinas](https://open.spotify.com/artist/6zOR9Ay6qFpaHcOBsbvZ9B) | [El Bailongo](https://open.spotify.com/album/3Y9lwe5TOmKS62CNC2dk1l) | 3:10 |
-| 44 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
+| 43 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
+| 44 | [La Trucha Capirucha](https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST) | [K\-ras Citadinas](https://open.spotify.com/artist/6zOR9Ay6qFpaHcOBsbvZ9B) | [El Bailongo](https://open.spotify.com/album/3Y9lwe5TOmKS62CNC2dk1l) | 3:10 |
 | 45 | [No Hemos Muerto](https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:29 |
 | 46 | [Veneno](https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:16 |
 | 47 | [Amor Regresa \- Ska](https://open.spotify.com/track/3EttA2xMqB72QD0QKfdNFR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi), [La Carlota](https://open.spotify.com/artist/2vAqVndpW6XjSNHwNr1mIS) | [Amor Regresa \(Ska\)](https://open.spotify.com/album/4JyL7lepDPnxaVkZBY22mO) | 3:17 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 79 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 | 80 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
 | 81 | [Estambul Ska](https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Ska, Vol\. 2](https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ) | 2:37 |
-| 82 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
-| 83 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
+| 82 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
+| 83 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
 | 84 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
 | 85 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
-| 86 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
-| 87 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
+| 86 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
+| 87 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
 | 88 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
 | 89 | [Stay Rude](https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 2:35 |
 | 90 | [Mérida Ska](https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:33 |
-| 91 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 |
-| 92 | [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 |
-| 93 | [Estereofónica](https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [...y Como Dice Giles! \(Tributo a los Giles\)](https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS) | 3:40 |
+| 91 | [Estereofónica](https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [...y Como Dice Giles! \(Tributo a los Giles\)](https://open.spotify.com/album/08QgBZviqyuo7TJL5V7LqS) | 3:40 |
+| 92 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 |
+| 93 | [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 |
 | 94 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 |
 | 95 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 |
 | 96 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 99 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 100 | [Osito Dormilón \(feat\. Tony Hernandez El Gran Silencio\)](https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Tony Hernández El Gran Silencio](https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:06 |
 
-Snapshot ID: `MCw2ZGIzM2ZlYTA4MzAzN2RjNWQ4MDA1Njg2YWY2NWU5MmIwOWVmZmJi`
+Snapshot ID: `MCwxNjU2OGU4Y2NlMzBkZmExZjM1N2U4MzdhN2MzYjFlOWFmOGU2MTVm`

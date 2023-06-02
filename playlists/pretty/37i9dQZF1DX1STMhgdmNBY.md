@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,554 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,637 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 18 | [Cold Hearted Woman](https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x) | [Tin Pan Alley](https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT) | 5:22 |
 | 19 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
 | 20 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
-| 21 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
+| 21 | [Married To The Blues](https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:12 |
 | 22 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
-| 23 | [Married To The Blues](https://open.spotify.com/track/1wZpmkvPVQXdBLc6MnIpJi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 7:12 |
+| 23 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 24 | [Three O'clock Blues](https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:03 |
-| 25 | [As The Years Go Passing By](https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 3:46 |
-| 26 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
+| 25 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
+| 26 | [As The Years Go Passing By](https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 3:46 |
 | 27 | [Ball N' Chain](https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:31 |
 | 28 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
 | 29 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 33 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
 | 34 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
 | 35 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 |
-| 36 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
-| 37 | ['Tain't Nobody's Biz'ness If I Do](https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 7:01 |
+| 36 | ['Tain't Nobody's Biz'ness If I Do](https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 7:01 |
+| 37 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 38 | [She Caught the Katy and Left Me a Mule to Ride](https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:28 |
 | 39 | [No Headstone on My Grave](https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 |
 | 40 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 57 | [Celebrated Walkin' Blues](https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 8:51 |
 | 58 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 |
 | 59 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 |
-| 60 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
-| 61 | [I'm Slippin' In](https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:52 |
+| 60 | [I'm Slippin' In](https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:52 |
+| 61 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 62 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 63 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
 | 64 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 69 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 | 70 | [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 |
 
-Snapshot ID: `MCxhZTc1ZGVkOWNjMTk3YjBjMTEzMTI2YjRhMjkxOGExOWQ5MjJhMTY5`
+Snapshot ID: `MCw4NGMxZjBiMzU3NzM5Y2VkM2E3ZjdiNjRiZjM2NTgwMGFmNjE5NzRh`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Katherine Li",
-  "num_followers": 914072,
+  "num_followers": 914020,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2IxY2ZiNjFiNmViMjgwYTE3N2M3YjMzZTBmMGQ0MzJiMjM4ZGI5",
+  "snapshot_id": "MCxkNjBiMmJmNWJlZTkzNjY0NmFhODc3MjUwNzg3YmU2YTZlODEzNDgx",
   "tracks": [
     {
       "added_at": "2023-05-09 04:50:36",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
+        "name": "Coraz\u00f3n Delator",
+        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Coraz\u00f3n Delator",
+      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
         "name": "R\u00eave",
         "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 189561,
       "name": "R\u00eave",
       "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "Coraz\u00f3n Delator",
-        "url": "https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Coraz\u00f3n Delator",
-      "url": "https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 145275,
-      "name": "late night thoughts",
-      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 153333,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 145275,
+      "name": "late night thoughts",
+      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Whatever's Inconvenient",
-        "url": "https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Whatever's Inconvenient",
-      "url": "https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 201724,
       "name": "Nena",
       "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Whatever's Inconvenient",
+        "url": "https://open.spotify.com/album/4syDZp8rdgovzOrbLqkt0Z"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 267279,
+      "name": "Whatever's Inconvenient",
+      "url": "https://open.spotify.com/track/20edSD8oKowIhOuLy2N8Jj"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
+        "name": "Ya Gamalak",
+        "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 209983,
+      "name": "Ya Gamalak",
+      "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/6sevoiwbsnEgKDXmT1pzMS"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Ya Gamalak",
-        "url": "https://open.spotify.com/album/5v8jq0RRWoPf2bMGQiXAiv"
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
       "artists": [
         {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 209983,
-      "name": "Ya Gamalak",
-      "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -775,22 +791,6 @@
       "duration_ms": 175322,
       "name": "luv hack",
       "url": "https://open.spotify.com/track/5Wlbi1jkICRgWrmU6gDrLk"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "\u6211\u7684\u89aa\u4eba",
-        "url": "https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a"
-      },
-      "artists": [
-        {
-          "name": "Kelly Chen",
-          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
-        }
-      ],
-      "duration_ms": 282021,
-      "name": "\u6211\u7684\u89aa\u4eba",
-      "url": "https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Top Bop",
         "url": "https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 151285,
       "name": "Top Bop",
       "url": "https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "\u6211\u7684\u89aa\u4eba",
+        "url": "https://open.spotify.com/album/4ZDixbvO20xlgjEixcOw0a"
+      },
+      "artists": [
+        {
+          "name": "Kelly Chen",
+          "url": "https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7"
+        }
+      ],
+      "duration_ms": 282021,
+      "name": "\u6211\u7684\u89aa\u4eba",
+      "url": "https://open.spotify.com/track/0rYgIOQsdZVKgOHLTate7q"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6PD3hsprAGIgmJK3ydAF41"
-      },
-      "artists": [
-        {
-          "name": "Shay Hamber",
-          "url": "https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5LZgjFe4cAcbaXWegbL4dh"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "One Night Party",
         "url": "https://open.spotify.com/album/3ETKko9A00kJ45PlKbFtP7"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 179186,
       "name": "One Night Party",
       "url": "https://open.spotify.com/track/0lsuSUTp0t8E0X0EozRuJI"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6PD3hsprAGIgmJK3ydAF41"
+      },
+      "artists": [
+        {
+          "name": "Shay Hamber",
+          "url": "https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "\u05d9\u05de\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5LZgjFe4cAcbaXWegbL4dh"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 196198,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Tiempo al tiempo",
         "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 142666,
       "name": "Tiempo al tiempo",
       "url": "https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
     },
     {
       "added_at": "2023-05-09 04:50:36",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-09 04:50:36",
       "album": {
-        "name": "Astana (Akustik)",
-        "url": "https://open.spotify.com/album/4ZE2qQZGpSh4irPbf6jPDd"
-      },
-      "artists": [
-        {
-          "name": "Ernie Zakri",
-          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
-        }
-      ],
-      "duration_ms": 141421,
-      "name": "Astana - Akustik",
-      "url": "https://open.spotify.com/track/0icYt4R6lFBuTTIosNYlO0"
-    },
-    {
-      "added_at": "2023-05-09 04:50:36",
-      "album": {
         "name": "Velo Sound Station EP 4",
         "url": "https://open.spotify.com/album/0PyfZSAVLa101kSw5AWSsc"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 210500,
       "name": "Bijli",
       "url": "https://open.spotify.com/track/106UG0Kc9bYhgr3xWSkzum"
+    },
+    {
+      "added_at": "2023-05-09 04:50:36",
+      "album": {
+        "name": "Astana (Akustik)",
+        "url": "https://open.spotify.com/album/4ZE2qQZGpSh4irPbf6jPDd"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "duration_ms": 141421,
+      "name": "Astana - Akustik",
+      "url": "https://open.spotify.com/track/0icYt4R6lFBuTTIosNYlO0"
     },
     {
       "added_at": "2023-05-09 04:50:36",

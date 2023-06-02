@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 258821,
       "name": "Consense",
       "url": "https://open.spotify.com/track/6EZoj6tAYQqQ90EJf1e8ec"
@@ -1470,6 +1470,40 @@
       "duration_ms": 344000,
       "name": "Ecco la Notte",
       "url": "https://open.spotify.com/track/07NTvJ2DpPtQ23qTu1YWOq"
+    },
+    {
+      "album": {
+        "name": "Effetto Domino (feat. Evra & Blue Phelix)",
+        "url": "https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        },
+        {
+          "name": "MYDRAMA",
+          "url": "https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH"
+        },
+        {
+          "name": "KAPUT",
+          "url": "https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt"
+        },
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        },
+        {
+          "name": "Blue Phelix",
+          "url": "https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213214,
+      "name": "Effetto Domino (feat. Evra & Blue Phelix)",
+      "url": "https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8"
     },
     {
       "album": {
@@ -1962,7 +1996,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 354285,
       "name": "Giovanna Hardcore (P:Gold Remix by Obi Baby & Lorenzo Lsp)",
       "url": "https://open.spotify.com/track/313f54gz797kJ6Cr7hKszt"
@@ -2891,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "macchina argento",
+        "url": "https://open.spotify.com/album/0Awz1WP6nXunFkr4Tm6WNd"
+      },
+      "artists": [
+        {
+          "name": "soap",
+          "url": "https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "macchina argento",
+      "url": "https://open.spotify.com/track/18zK0tK6kSn6ovG8UkSGu9"
+    },
+    {
+      "album": {
         "name": "Magari Vivi",
         "url": "https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK"
       },
@@ -3298,6 +3350,24 @@
       "duration_ms": 170557,
       "name": "Non mi va",
       "url": "https://open.spotify.com/track/2j2WWUU7WeeH7uI8arShCF"
+    },
+    {
+      "album": {
+        "name": "Non ti sopporto pi\u00f9",
+        "url": "https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C"
+      },
+      "artists": [
+        {
+          "name": "Senza_Cri",
+          "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Non ti sopporto pi\u00f9",
+      "url": "https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR"
     },
     {
       "album": {
@@ -4108,7 +4178,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 218709,
       "name": "S.T.A.R.",
       "url": "https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2"

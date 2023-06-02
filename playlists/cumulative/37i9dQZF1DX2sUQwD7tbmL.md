@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-556 songs - 1 day 7 hr 30 min
+557 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-05-01 | 2022-07-29 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2022-04-21 |  |
 | [Stay](https://open.spotify.com/track/6pcUM78WIkEfPzsWPIqG3l) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Stay](https://open.spotify.com/album/36sMKgpinvePfSWHoxaeqZ) | 2:39 | 2021-05-01 | 2022-07-29 |
-| [Stay](https://open.spotify.com/track/7ETijvgUdK7rBlGfvhiWQj) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Stay](https://open.spotify.com/album/7AkEuZwYEDASvI7Uqzuee7) | 2:39 | 2023-05-26 |  |
+| [Stay](https://open.spotify.com/track/7ETijvgUdK7rBlGfvhiWQj) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Stay](https://open.spotify.com/album/7AkEuZwYEDASvI7Uqzuee7) | 2:39 | 2023-05-26 | 2023-06-02 |
 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 | 2021-05-01 | 2022-04-14 |
 | [Stay Together for the Kids](https://open.spotify.com/track/5E4BjzIU8Ci87Tr9oXZcNV) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Stay Together for the Kids](https://open.spotify.com/album/4O3HK2VsK8Byx6K8N0SiUf) | 2:34 | 2021-05-01 | 2022-04-14 |
 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 | 2022-04-13 |  |
@@ -472,6 +472,7 @@
 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-10-14 | 2023-04-15 |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2021-05-01 | 2022-07-29 |
 | [Sunset Chaser](https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV) | [Ragamuffs](https://open.spotify.com/artist/0IIb8Xf1ZDISXLSntUDMRq) | [Achy Luminescence](https://open.spotify.com/album/0rUhSoE2bdLyMMO0m2ywBG) | 5:30 | 2022-04-13 | 2022-04-18 |
+| [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 | 2023-05-26 |  |
 | [supermarket](https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt) | 2:25 | 2022-11-07 |  |
 | [supermarket](https://open.spotify.com/track/5FdE9hALukJ6ivdFXbCGEj) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/1I00sBmH4cpFAbEPr33t1S) | 2:25 | 2022-05-27 | 2022-06-18 |
 | [Sweating Gold](https://open.spotify.com/track/6h2xiDln9WpUTHpfLHzvd6) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sweating Gold](https://open.spotify.com/album/7pKNs5eRx11unBLFzai0Cy) | 4:13 | 2021-05-01 | 2022-02-01 |

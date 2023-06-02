@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-474 songs - 1 day 4 hr 23 min
+476 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Me haces bien](https://open.spotify.com/track/0GlC70q5XuY6h9IYeqxxtt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Me haces bien](https://open.spotify.com/album/2pDYCLkYoV5qOa6nTNiI1i) | 2:12 | 2022-01-14 | 2022-04-19 |
 | [Me Pierdo Contigo](https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [El Afán](https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG) | 4:19 | 2021-10-20 | 2022-04-17 |
 | [Me Sale Bien](https://open.spotify.com/track/3esLMWVvotR95tEwAKkU6j) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Me Sale Bien](https://open.spotify.com/album/1tbbhlWhIq2Bdsyizv4sdt) | 3:17 | 2021-10-20 | 2022-07-14 |
+| [Mejor Que Antes](https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx), [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL) | [Mejor Que Antes](https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL) | 4:20 | 2023-06-01 |  |
 | [Mi Arizal](https://open.spotify.com/track/1LJMp7tNMRHdMTxhfNFJRy) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Dorkas](https://open.spotify.com/artist/2gR1nzGz8J2IhuUy6BYTsx) | [Mi Arizal](https://open.spotify.com/album/5erexWEf8MMcR34rquvHfz) | 4:25 | 2021-10-20 | 2022-04-21 |
 | [Mi manera de querer](https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Mi manera de querer](https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG) | 3:53 | 2022-10-27 | 2023-04-16 |
 | [Mi Querer](https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb) | [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s) | [Pescador de Sueños](https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP) | 3:58 | 2021-10-20 |  |
@@ -296,7 +297,7 @@
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-01-14 | 2023-02-09 |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2021-10-20 | 2022-04-19 |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2021-10-20 | 2022-12-24 |
-| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 |  |
+| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 | 2023-06-02 |
 | [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
 | [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-03-28 | 2023-05-09 |
@@ -385,6 +386,7 @@
 | [Qué vendrá](https://open.spotify.com/track/1Om2ZfnIx2dueS6LcMzlyO) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Effet miroir](https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a) | 2:58 | 2021-10-20 | 2023-04-01 |
 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 | 2021-10-20 |  |
 | [Rainfalls](https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m) | [Rainfalls](https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y) | 3:36 | 2022-01-14 | 2022-07-28 |
+| [Rama](https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [RAMA](https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5) | 5:07 | 2023-06-01 |  |
 | [Reacciona](https://open.spotify.com/track/42EwHBXrkR2U7RAgPIIRZO) | [El Individuo](https://open.spotify.com/artist/6g5g4O5mwD2z9AZJLNgz8O) | [Reacciona](https://open.spotify.com/album/38HjXpqS8FsLFn7e0vvVLS) | 3:16 | 2021-10-20 | 2022-04-13 |
 | [Regresa](https://open.spotify.com/track/0VUYbviBDSWSVZU0V6qtgl) | [Lusaí](https://open.spotify.com/artist/07az5xPssRyz3AwWTrISnB) | [Regresa](https://open.spotify.com/album/3QU8u1UHOFtEn1H8loolP7) | 3:34 | 2022-09-30 | 2022-10-28 |
 | [Republica Federal de Malphino](https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Lalango](https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg) | 3:29 | 2021-12-24 | 2022-04-19 |
@@ -465,7 +467,7 @@
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 | 2022-08-05 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-04-17 |
 | [Window Seat](https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr) | [Caramelo Haze](https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi) | [Noestásaquí](https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY) | 3:22 | 2023-03-31 | 2023-05-18 |
-| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 |  |
+| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 | 2023-06-02 |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2021-10-20 | 2022-06-23 |
 | [Xocolate](https://open.spotify.com/track/10asRCljWZ51jZ22RnbiKV) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Xocolate](https://open.spotify.com/album/5nBvx0AU9yBm7toxNo8aBN) | 3:56 | 2021-10-20 | 2022-07-28 |
 | [Y Ahora](https://open.spotify.com/track/15BhfwZAJVDPufb6O9lMxB) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Y Ahora](https://open.spotify.com/album/5uchDW3E2EugxwLK2Oh755) | 3:12 | 2021-10-20 | 2022-04-17 |

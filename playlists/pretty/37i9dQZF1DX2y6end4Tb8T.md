@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,410 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,440 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 89 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 |
 | 90 | [Pal De Pesos](https://open.spotify.com/track/5t5cqgdnx1pH1ghzZtXL3K) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Supremo](https://open.spotify.com/album/05frTDy5F3vZwLtiYVqUBh) | 3:09 |
 | 91 | [Cruze \(feat\. Meek Mill\)](https://open.spotify.com/track/0G2xUa52zy2Rqf3paeAzCi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Cottonwood](https://open.spotify.com/album/3pDWtiwshSUkWVkJ4rLkgq) | 3:05 |
-| 92 | [Baller](https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 3:21 |
-| 93 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 |
+| 92 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 |
+| 93 | [Baller](https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK) | 3:21 |
 | 94 | [Teca](https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [Teca](https://open.spotify.com/album/7xBdmaoynBoXOm6dI4skKt) | 3:21 |
 | 95 | [Twisted \(feat\. Juicy J, Logic & A$AP Rocky\)](https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 4:22 |
 | 96 | [Dead Man Walking \(feat\. Future\)](https://open.spotify.com/track/35Ycb1cMPK6tyNMsTepijg) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dead Man Walking](https://open.spotify.com/album/5v7NpK7CAZ6IDdKiUXCtAl) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/track/40RYJy7qh1BDlzhKyceq46) | [Roboy](https://open.spotify.com/artist/1pGpW7veMZibg5kToGiGKZ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [K Shiday](https://open.spotify.com/artist/1Kskh57US3ruzFx7UxsxYn), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [1017 Loaded \(feat\. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty\)](https://open.spotify.com/album/1KpJI4uraalhGpVhqrn8gp) | 3:56 |
 | 100 | [LOAD IT UP](https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [LOAD IT UP](https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA) | 2:57 |
 
-Snapshot ID: `MCwyMWQwODE5Y2I2Nzc4NGMwYjk4M2RlNzBiNzkzMTdmOWU5ZmQwNTBi`
+Snapshot ID: `MCw1N2ZjMmFjOTViMjM2MjY0OTg5ZTQ2ZTllOTY3MzNmN2E1ZGE5MDU4`

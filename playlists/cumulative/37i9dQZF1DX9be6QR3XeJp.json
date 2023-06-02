@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: needanamebro",
+  "description": "Discover your new favourite artists from UK&IE. Cover: No Guidnce",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1634,6 +1634,24 @@
       "duration_ms": 150946,
       "name": "Introduce Myself (feat. JADA)",
       "url": "https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr"
+    },
+    {
+      "album": {
+        "name": "Is It A Crime? EP",
+        "url": "https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142041,
+      "name": "Is It A Crime?",
+      "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
     },
     {
       "album": {

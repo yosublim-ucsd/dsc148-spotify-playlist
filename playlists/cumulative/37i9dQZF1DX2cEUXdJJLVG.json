@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "It Starts with Love (Deluxe)",
+        "url": "https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk"
+      },
+      "artists": [
+        {
+          "name": "The Suffers",
+          "url": "https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU"
+        },
+        {
+          "name": "The Vapor Caves",
+          "url": "https://open.spotify.com/artist/0CJqQk3cv4aRT9j5c9DJ95"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248067,
+      "name": "Be You - The Vapor Caves Remix",
+      "url": "https://open.spotify.com/track/3qvKMkPes45nAwjlTMyXnp"
+    },
+    {
+      "album": {
         "name": "Beautiful Lies",
         "url": "https://open.spotify.com/album/2MmBJ72Yh8qfH8tIWEkhID"
       },
@@ -1874,7 +1896,7 @@
           "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
         },
         {
-          "name": "Attek",
+          "name": "Ketta",
           "url": "https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe"
         },
         {

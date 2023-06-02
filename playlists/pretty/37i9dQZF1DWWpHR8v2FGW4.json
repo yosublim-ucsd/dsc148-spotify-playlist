@@ -1,15 +1,15 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 245777,
+  "num_followers": 245894,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDllMTRhNDE1YjhlY2M0M2IxMDJmZmM1Nzg4NTBkNGJhNzk3MDkx",
+  "snapshot_id": "MCwzYWM2NDMxYjhkY2RkNTQzZmZlYjUzYTBkNGQwZDMzZjZjYTAxYzRh",
   "tracks": [
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Getaway (Remixes)",
         "url": "https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Immersion",
         "url": "https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS"
@@ -85,43 +85,23 @@
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
-        "name": "House of Wax",
-        "url": "https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "BRKLYN",
-          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         }
       ],
-      "duration_ms": 168780,
-      "name": "Issa Vibe",
-      "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
+      "duration_ms": 229028,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl"
-      },
-      "artists": [
-        {
-          "name": "Jend",
-          "url": "https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN"
-        }
-      ],
-      "duration_ms": 158119,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Gold Dust (Fox Stevenson Remix)",
         "url": "https://open.spotify.com/album/1b5Wr7LLfuuHgimQVQRaUP"
@@ -141,7 +121,43 @@
       "url": "https://open.spotify.com/track/2rCM9E5gZK2YRiIClGsGpu"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "House of Wax",
+        "url": "https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "BRKLYN",
+          "url": "https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Issa Vibe",
+      "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl"
+      },
+      "artists": [
+        {
+          "name": "Jend",
+          "url": "https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN"
+        }
+      ],
+      "duration_ms": 158119,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "LIFT YOU UP",
         "url": "https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp"
@@ -161,7 +177,27 @@
       "url": "https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "Factions (Protostar Remix)",
+        "url": "https://open.spotify.com/album/5jmbuKF5FOa716i7slx7uB"
+      },
+      "artists": [
+        {
+          "name": "Synova",
+          "url": "https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd"
+        },
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "duration_ms": 249512,
+      "name": "Factions - Protostar Remix",
+      "url": "https://open.spotify.com/track/7mXomNGE9DWPp071zTL2xI"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "DISRUPTOR LP",
         "url": "https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/4rV50yTt1Me3sFhExrScR1"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Darkest Hour [UKF10]",
         "url": "https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Lone / Feel Alive",
         "url": "https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL"
@@ -301,7 +337,7 @@
       "url": "https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Keep Up The Pace",
         "url": "https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Open Spaces",
         "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Keep Crashing",
         "url": "https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg"
@@ -405,7 +441,7 @@
       "url": "https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Change Us",
         "url": "https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Vex",
         "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Close To Hell",
         "url": "https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh"
@@ -477,23 +513,7 @@
       "url": "https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "Lions (VIP)",
-        "url": "https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 279310,
-      "name": "Lions - VIP",
-      "url": "https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "where r u",
         "url": "https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4"
@@ -509,7 +529,23 @@
       "url": "https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "Lions (VIP)",
+        "url": "https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 279310,
+      "name": "Lions - VIP",
+      "url": "https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3"
@@ -549,7 +585,7 @@
       "url": "https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "BARRICADE",
         "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
@@ -565,7 +601,7 @@
       "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Places We Don\u2019t Know Remix EP",
         "url": "https://open.spotify.com/album/6vTc0SjRCXb6Pn1i1piwpx"
@@ -589,23 +625,7 @@
       "url": "https://open.spotify.com/track/7jV4pzMGvGSRZ4F214Tznl"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "Sounds Of The Street II",
-        "url": "https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG"
-      },
-      "artists": [
-        {
-          "name": "Where It's ATT",
-          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
-        }
-      ],
-      "duration_ms": 146979,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Take You Down / Melange",
         "url": "https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq"
@@ -621,7 +641,23 @@
       "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "Sounds Of The Street II",
+        "url": "https://open.spotify.com/album/3p9VrC6M4nQgyilWukfOhG"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        }
+      ],
+      "duration_ms": 146979,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/68KMOVytW0PxjJvTn5cJCU"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Bohemia",
         "url": "https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf"
@@ -653,7 +689,23 @@
       "url": "https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
+    },
+    {
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Symbiosis Remixed Part 1",
         "url": "https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U"
@@ -673,23 +725,23 @@
       "url": "https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
         }
       ],
-      "duration_ms": 219242,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
+      "duration_ms": 218830,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "I don't give a Fuck",
         "url": "https://open.spotify.com/album/3qC18tclXE1DFHzQKqTRAM"
@@ -709,23 +761,7 @@
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Let's Roll",
         "url": "https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/35lF14PODtapsReNYnN6D9"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "staring at the sun",
         "url": "https://open.spotify.com/album/201ZOCobiWNDSwZ1DXLKCZ"
@@ -829,7 +865,7 @@
       "url": "https://open.spotify.com/track/0wdRyHfJO0bFpfucQ2I3nL"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Climax",
         "url": "https://open.spotify.com/album/5HuiKWU9kTp3H4hE4m4UVQ"
@@ -845,7 +881,7 @@
       "url": "https://open.spotify.com/track/4kAKNNDn9SJu97NQ9vuMik"
     },
     {
-      "added_at": "2023-04-28 15:17:58",
+      "added_at": "2023-06-01 19:10:18",
       "album": {
         "name": "Move To The Beat Like",
         "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
@@ -867,42 +903,6 @@
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "HARDCORE",
-        "url": "https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J"
-      },
-      "artists": [
-        {
-          "name": "fkbambam",
-          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
-        }
-      ],
-      "duration_ms": 113294,
-      "name": "HARDCORE",
-      "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
-        "name": "Reviver (Totally Enormous Extinct Dinosaurs Remix)",
-        "url": "https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Reviver - Totally Enormous Extinct Dinosaurs Remix",
-      "url": "https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5"
     }
   ],
   "unique_name": "Nitroboost",

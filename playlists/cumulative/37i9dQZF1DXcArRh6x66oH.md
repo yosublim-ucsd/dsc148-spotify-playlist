@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-140 songs - 8 hr 29 min
+141 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 | 2023-02-24 |  |
 | [Where I'm Coming From](https://open.spotify.com/track/3uZMREE8Fl1MFBeSYqFKzd) | [Brandon Ratcliff](https://open.spotify.com/artist/3nUBs75tDCL2pzPZGHoljy) | [Tale Of Two Towns](https://open.spotify.com/album/5hdl5UuvcEx54G413hxZvh) | 3:35 | 2023-04-21 |  |
 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 | 2023-02-24 |  |
-| [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 | 2023-02-24 |  |
+| [Why](https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb) | 3:17 | 2023-02-24 | 2023-06-02 |
+| [Why](https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Borrowed Time](https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR) | 3:17 | 2023-05-22 |  |
 | [Wicked Twisted Road](https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Wicked Twisted Road](https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC) | 3:25 | 2023-02-24 |  |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2023-02-24 |  |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2023-02-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: DURRY \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,671 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,749 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [SOMEBODY LIKE YOU](https://open.spotify.com/track/63JoApxcZcOp68aQJ0iEfJ) | [High Tropics](https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC) | [SOMEBODY LIKE YOU](https://open.spotify.com/album/49HDpW2isFtmHyXH9PxFzy) | 1:48 |
 | 100 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
 
-Snapshot ID: `MCwxNjhiMGFkYWI2ZTU4ZGU2ZTc4OGVmOGI5YjAyZWVkNDViMGUxZWIx`
+Snapshot ID: `MCxiZjQ4M2I3YzZiYzUzZjI3MzIzYjVjNDRiZDFlMmRjMjg5MDMzN2Zl`

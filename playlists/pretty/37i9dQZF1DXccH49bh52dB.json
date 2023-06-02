@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 459371,
+  "num_followers": 459953,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTk2ZmM5ZTExMGUyYWZjZjk0ODM5ZDcyZjQ2OWUzNTNiMWE4NjQx",
+  "snapshot_id": "MCwxM2M3MjYzMmI3NmU4MzJlODQ0MTQ5NzdiNjAwYmZkNmQxYmU1YWJh",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "No Eyes",
-        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "JAW",
-          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
-        }
-      ],
-      "duration_ms": 204992,
-      "name": "No Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "The Last Dance, Pt 2",
         "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "No Eyes",
+        "url": "https://open.spotify.com/album/74FvKkpoMSA8IXT1AW70ZS"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "JAW",
+          "url": "https://open.spotify.com/artist/05BpORreAobgNUA5feAsui"
+        }
+      ],
+      "duration_ms": 204992,
+      "name": "No Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/55bfXeq8wXtyKQtSZB3KYF"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 203586,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        }
+      ],
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 172933,
       "name": "Let It Be Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 228514,
-      "name": "Is U",
-      "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",

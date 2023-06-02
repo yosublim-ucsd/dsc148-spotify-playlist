@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: BlueBucksClan
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,806 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,867 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 59 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 |
 | 60 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MCw2MGExNzAzMTU3OTBmYWZjNzQ0YTM1ZGY3ZWY4ODBkZmFhYWVjMjBj`
+Snapshot ID: `MCxiYTY3YTgxYzA5NjcwZGIxYjUwYzdhNTFhOTE1ZGI2ZWFiODNiY2M0`

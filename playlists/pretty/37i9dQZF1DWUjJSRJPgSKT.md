@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Up tempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,297 likes - 100 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,378 likes - 100 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 26 | [Rhythm\-A\-Ning](https://open.spotify.com/track/7HVFWgrWwN63YLAjo0QBPz) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz), [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Art Blakey's Jazz Messengers With Thelonious Monk \(Deluxe Edition\)](https://open.spotify.com/album/3C2hpKCQ1C8l8F5sLAQHXe) | 7:17 |
 | 27 | [Lazy Bird \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/0V3K5h6d8Epqg4k60O1IBB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:07 |
 | 28 | [Seven Steps to Heaven](https://open.spotify.com/track/681qNWaeSksUBFBqXxAknQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:23 |
-| 29 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
-| 30 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
+| 29 | [Minority](https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 5:23 |
+| 30 | [Limehouse Blues](https://open.spotify.com/track/4CkdTvoBBvdSv5aAryGT3i) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 4:40 |
 | 31 | [The Blues Walk](https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach](https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG) | 6:54 |
 | 32 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
 | 33 | [Orbits](https://open.spotify.com/track/5AO8TeKZeo6ouwNaDn8xVE) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 4:35 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 43 | [Wee \(Allen's Alley\)](https://open.spotify.com/track/66D8kuQSFshLhI6aVaef2D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Ultimate Stan Getz](https://open.spotify.com/album/1TTbszowRjHjuvKsv2JVjm) | 8:27 |
 | 44 | [Donna Lee](https://open.spotify.com/track/2N7LJO1uufnSeXIwxooTzg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 6:17 |
 | 45 | [Ornithology](https://open.spotify.com/track/14R3YZutaJKFLGDEl9R1bJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Genius Of Charlie Parker](https://open.spotify.com/album/7gLP8EvsusOiFKu0G2yjzQ) | 3:02 |
-| 46 | [No Room For Squares \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 6:57 |
+| 46 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
 | 47 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 |
-| 48 | [Now's the Time \- Remastered Version](https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird \(Remastered Version\)](https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh) | 3:16 |
+| 48 | [No Room For Squares \- Remastered 2000 / Rudy Van Gelder Edition](https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [No Room For Squares \(Remastered 2000 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi) | 6:57 |
 | 49 | [Hora Decubitus](https://open.spotify.com/track/6evehXa14Rvbt355gFnMdH) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:43 |
 | 50 | [On Green Dolphin Street](https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [On Impulse!](https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw) | 7:07 |
 | 51 | [Steps\-What Was \- Digitally Remastered](https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 13:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [Joshua](https://open.spotify.com/track/10ZQCKPyp19cS48VaabC3N) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:58 |
 | 100 | [Oleo](https://open.spotify.com/track/1kSoWg2hMVklqtngOba5sK) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Oleo](https://open.spotify.com/album/1vrL33aprfuGToazTDUeie) | 3:14 |
 
-Snapshot ID: `MCxkMjUzNjAyM2U0ZDZkZmNmNGQ5ZjYwOGQzZWMwMmZlZWRlZjhkOTIz`
+Snapshot ID: `MCxkMjVlYTdlZDI4ZWJlOTU4YzM5MjViNTZkNTZjMjliOGYzN2Y4YjVl`

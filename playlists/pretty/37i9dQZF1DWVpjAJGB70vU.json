@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Alan Jackson's classic hit \"Chattahoochee\" on 90s Country! ",
-  "num_followers": 1579049,
+  "num_followers": 1580084,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzUxMjRiNTFiY2UyNWIxMTVlNDk0Yjc4OGQ3YTE0Zjk0MmRlYzJi",
+  "snapshot_id": "MCw4MzdhZGIwNGNmMDc5NTNiODgxODMyMmE4YjAxZDM0NTk0MzRkZTNk",
   "tracks": [
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "A Thousand Memories",
         "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 243106,
       "name": "That Ain't My Truck",
       "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "Clay Walker",
         "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 166626,
       "name": "What's It to You",
       "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 178893,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
+      "duration_ms": 217807,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 217807,
-      "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+      "duration_ms": 178893,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 200533,
-      "name": "Ain't That Lonely Yet",
-      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
+      "duration_ms": 321373,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2023-05-17 04:00:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Ain't That Lonely Yet",
+      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
+    },
+    {
+      "added_at": "2023-05-17 04:00:00",
+      "album": {
         "name": "When Fallen Angels Fly",
         "url": "https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 169933,
       "name": "I Try to Think About Elvis",
       "url": "https://open.spotify.com/track/121ILFThNZH9Egncny7upu"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 321373,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2023-05-17 04:00:00",

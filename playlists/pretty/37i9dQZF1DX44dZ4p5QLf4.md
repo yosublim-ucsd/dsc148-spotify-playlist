@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,990 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,039 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 5 | [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 |
 | 6 | [champion](https://open.spotify.com/track/0JrralS6u3HaFgwLFb4FoH) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [champion](https://open.spotify.com/album/3q5jZB9NtbZGU7jM4cEXmq) | 3:40 |
 | 7 | [Sololove](https://open.spotify.com/track/4JlAMzLOeIjar8Nmk8c0xk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Sololove](https://open.spotify.com/album/4VfLmtBSMDyrBIs1AVRCl2) | 3:17 |
-| 8 | [Virgo \(feat\. Brandee Younger, Julius Rodriguez\)](https://open.spotify.com/track/6Tafa6kJOCuISxCeaz3yBA) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [The 5th Dimension \(feat\. The HawtPlates\)](https://open.spotify.com/album/2SQPJFfEPeX2wIIHpzFGci) | 8:38 |
+| 8 | [Virgo \(feat\. Brandee Younger, Julius Rodriguez\)](https://open.spotify.com/track/56eTskuiyoqncdHa48gKot) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB), [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/album/1pSOlczaSiNjhooirTbOTE) | 8:38 |
 | 9 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 |
 | 10 | [In Need \- Reworked](https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [In Need \(Reworked\)](https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm) | 3:27 |
 | 11 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Promises](https://open.spotify.com/track/30e2kRNthNcvB9l9isDMLD) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:08 |
 | 100 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 |
 
-Snapshot ID: `MCxmODU3NDdhMWI4NGM0OGRlZTgxMTAwM2E3MTU2ZTY3OTkyNDYzYzky`
+Snapshot ID: `MCw0YmJkZTJhYWQyNzk5ZGUxYWEwZmYyMjA4ODY1ZGE2YTFiMzMyOWE2`

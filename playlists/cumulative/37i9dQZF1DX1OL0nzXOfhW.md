@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Lolly Talk
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Aiden 洪助昇
 
-128 songs - 7 hr 23 min
+129 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 | 2023-04-14 |
 | [同步舞曲](https://open.spotify.com/track/6NLX0sK1uP6hAmPoRiDhGp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [同步慢呼吸](https://open.spotify.com/album/3PjBngCx1Ft4FhGL7T8MTq) | 3:51 | 2022-05-26 | 2023-04-14 |
 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 | 2022-08-18 | 2023-04-14 |
+| [單曲循環症](https://open.spotify.com/track/51gq3Jza9a4YnBxMTuJ3Yj) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [單曲循環症](https://open.spotify.com/album/4iaRMIZsC3HcwSRcYNc1Cz) | 3:37 | 2023-06-01 |  |
 | [喺呢到大](https://open.spotify.com/track/79W5p1opeFvnKuUJYknlmu) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [喺呢到大](https://open.spotify.com/album/0vm4gUKKSPF5JNrfpUdsWh) | 2:55 | 2023-04-13 |  |
 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 | 2022-06-23 | 2023-04-14 |

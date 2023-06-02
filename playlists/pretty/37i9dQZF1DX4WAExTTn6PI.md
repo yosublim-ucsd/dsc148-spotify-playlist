@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Kassi Valazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,103 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,122 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 |
 | 100 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 |
 
-Snapshot ID: `MCw0MjBhZTA0MmI2ZDcyMDAwNzc1NzlkOWJhMjcyYzZmYzIwMjIyMDcz`
+Snapshot ID: `MCw1YTg0Njk4MzczODc5NjIxMThjMTA0M2U1Y2ZlNTFmZTIzZDZjYjlh`

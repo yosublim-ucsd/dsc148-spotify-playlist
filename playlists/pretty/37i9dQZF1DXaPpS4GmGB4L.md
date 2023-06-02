@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,803 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,881 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 25 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 |
 | 26 | [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 |
 | 27 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
-| 28 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
-| 29 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
+| 28 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
+| 29 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 |
 | 30 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
 | 31 | [Don't You Just Know It](https://open.spotify.com/track/1Ufhe0CbCnDLC7LvycY4t4) | [Huey "Piano" Smith](https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu) | [This Is..\. Huey 'Piano' Smith](https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD) | 2:34 |
 | 32 | [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 47 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 |
 | 48 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 |
 | 49 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 |
-| 50 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
+| 50 | [Pay the Price](https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 3:52 |
 
-Snapshot ID: `MCw5M2I4MDAyN2VmMDNiNjZkYjBmMmFhMWViZTA1OWJkYWE4MGRkZThi`
+Snapshot ID: `MCwyM2VjZTQyM2UyZDFiZGVlNGU2ZjBlZmYzYzZiYzc3ZmZiOTgwZjM3`

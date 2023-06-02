@@ -24897,6 +24897,24 @@
     },
     {
       "album": {
+        "name": "before the afters",
+        "url": "https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116128,
+      "name": "ur the only one i'm talking to",
+      "url": "https://open.spotify.com/track/1UKBcM9Xs7k0bmbjeNivNn"
+    },
+    {
+      "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/6vghAthgt2viFedIbnHSYR"
       },

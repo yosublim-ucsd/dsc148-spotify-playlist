@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Hak Baker
 
-418 songs - 23 hr 34 min
+420 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-09-29 | 2022-10-13 |
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-06 | 2023-02-11 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-29 |  |
-| [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-17 |  |
+| [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-17 | 2023-06-02 |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-10 | 2023-03-23 |
 | [In The Moment](https://open.spotify.com/track/2Ry0YB7zRaPnMKt7USlSnx) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [In The Moment](https://open.spotify.com/album/3udKOUv6iwFSWGuVeQGLzR) | 5:24 | 2023-04-13 |  |
 | [Iron Lung](https://open.spotify.com/track/2XpOjMiHSOCfEPfvtZoqW9) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Wrong Girl, Honey](https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ) | 3:01 | 2021-03-09 | 2022-01-17 |
@@ -254,6 +254,7 @@
 | [Monday Morning](https://open.spotify.com/track/17wGCJWUp4XC4kSS1kcoh3) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Monday Morning](https://open.spotify.com/album/0Ft8MU44cbPa1QIOZD93jV) | 3:35 | 2023-02-10 | 2023-03-16 |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-09-01 | 2022-10-07 |
 | [Moths](https://open.spotify.com/track/4Qq9DfuAHCqoUNX8y4vxNK) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Moths](https://open.spotify.com/album/6ToN4up7FEIeWVChNt8ppv) | 2:42 | 2023-03-03 | 2023-03-18 |
+| [Moving Target](https://open.spotify.com/track/23HUA2EDfmncWA0tuezbOU) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Moving Target](https://open.spotify.com/album/2A7q35abUPSP7EDjB2pUUM) | 3:51 | 2023-05-25 |  |
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-04-13 | 2023-05-23 |
 | [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 | 2023-01-20 |  |
@@ -421,7 +422,8 @@
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-03-09 | 2022-01-17 |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-05-25 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-05-25 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-25 |  |
 | [Would You Be My Judy?](https://open.spotify.com/track/1ndRpUXCDR40upnsnV5IYS) | [Nancy](https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9) | [Would You Be My Judy?](https://open.spotify.com/album/5D4GX521TlVeTiYBMJ6czp) | 3:11 | 2022-08-18 | 2022-10-07 |
 | [You Never Looked So Cool](https://open.spotify.com/track/1RX3QGA8CLfMj1Vr6CSluM) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Goober](https://open.spotify.com/album/0RIXLt3XKWtYwj1uKV0oIy) | 2:57 | 2021-07-30 | 2022-03-11 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-17 | 2022-07-29 |

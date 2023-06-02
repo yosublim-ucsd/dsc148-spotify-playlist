@@ -4,7 +4,7 @@
 
 > The jazz giant's classic recordings.
 
-128 songs - 16 hr 5 min
+129 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Blues to Elvin](https://open.spotify.com/track/6zsXduqHYbAAy318vQqNTA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Plays the Blues](https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv) | 7:50 | 2023-01-19 |  |
 | [Body and Soul](https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 5:37 | 2023-01-19 |  |
 | [Bye Bye Blackbird \- Live from Olympia Theatre, Paris \- March 1960](https://open.spotify.com/track/1wzqUhFKuzDhbcHni9mV22) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Final Tour: The Bootleg Series, Vol\. 6](https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3) | 14:01 | 2023-01-19 |  |
-| [Cattin' \- Instrumental](https://open.spotify.com/track/5lbtWuTVT2l3pT7Y7A6zSH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Paul Quinichette](https://open.spotify.com/artist/79M6Ce0m7LMzZOfy5C27C1) | [Cattin' With Coltrane And Quinichette](https://open.spotify.com/album/3UGaeiIAcnGG75F5NlrU9A) | 7:21 | 2023-01-19 |  |
+| [Cattin' \- Instrumental](https://open.spotify.com/track/5lbtWuTVT2l3pT7Y7A6zSH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Paul Quinichette](https://open.spotify.com/artist/79M6Ce0m7LMzZOfy5C27C1) | [Cattin' With Coltrane And Quinichette](https://open.spotify.com/album/3UGaeiIAcnGG75F5NlrU9A) | 7:21 | 2023-01-19 | 2023-06-02 |
 | [Central Park West](https://open.spotify.com/track/3m0pro98is58H4UJfDo7ZE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 4:11 | 2021-10-21 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/5JhHBvu41PEkDQLtUy0I2g) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Last Trane](https://open.spotify.com/album/7vidJBr8AgwyiVYQnMHaZ9) | 8:43 | 2022-04-27 |  |
 | [Come Rain Or Come Shine](https://open.spotify.com/track/7M6i0fEEE189wqJFeRwGu4) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Last Trane](https://open.spotify.com/album/31SNcZGpvAU4LJrf2rsJNm) | 8:43 | 2021-10-21 | 2022-07-29 |
@@ -57,6 +57,7 @@
 | [I'll Wait and Pray](https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 3:26 | 2021-10-21 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:59 | 2022-09-15 |  |
 | [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 | 2021-10-21 | 2022-09-16 |
+| [Impressions \(feat\. Eric Dolphy\) \- Live](https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Impressions \(Live\)](https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b) | 10:12 | 2023-06-01 |  |
 | [Impressions \- Live At The Village Vanguard, New York/1961](https://open.spotify.com/track/0CB88iJNRCNLTxIRGlkYJA) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Impressions](https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj) | 15:01 | 2023-01-19 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 | 2022-04-27 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/0PrGgNDwfJPNXADJYROvBw) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1EY9DXkRZg8ChCYhpVi6Yg) | 4:15 | 2021-10-21 | 2022-07-29 |

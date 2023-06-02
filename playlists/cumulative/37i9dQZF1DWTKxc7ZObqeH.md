@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-230 songs - 14 hr 56 min
+231 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Elsa](https://open.spotify.com/track/2SrSFdeg5MHpsChGZ6mRmy) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:08 | 2022-02-16 |  |
 | [Embraceable You](https://open.spotify.com/track/24pfsJ5fFppdTxjgmqNlSN) | [Martin Harding Quartet](https://open.spotify.com/artist/1ETjP5CHsWKioJfH0n4FEB) | [Embraceable You](https://open.spotify.com/album/0dTFv8W09ohDBCXrlT0nJK) | 4:01 | 2022-02-16 |  |
 | [Escapade](https://open.spotify.com/track/3Cdi6dbEiH09TW4rJFAb4Z) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:48 | 2022-02-16 | 2022-06-23 |
-| [Ev'rytime We Say Goodbye](https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 4:15 | 2022-02-16 |  |
+| [Ev'rytime We Say Goodbye](https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 4:15 | 2022-02-16 | 2023-06-02 |
 | [Everytime We Fall](https://open.spotify.com/track/4ZGlMy7TmvZNYTacuIyqSo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Everytime We Fall](https://open.spotify.com/album/7DCCFRB1jWvUpP9lDZh03Y) | 3:43 | 2023-03-03 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-11 |  |
 | [Fluster](https://open.spotify.com/track/00MDdSPO6iWPZwwuF6RH89) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Fluster](https://open.spotify.com/album/5zDXxceLBK4Ojz08uNZ2KB) | 3:31 | 2023-05-25 |  |
@@ -69,6 +69,7 @@
 | [Half to the hills](https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Half to the hills](https://open.spotify.com/album/5SP8ji4ojuWDoE99p5CDKj) | 2:36 | 2023-05-25 |  |
 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 | 2022-05-17 |  |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2022-06-28 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Here And Now](https://open.spotify.com/track/4fV4DnZvGNUpMAdh1jxCRu) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [To Stella](https://open.spotify.com/album/000wZFI08XyTRquc9uLDhj) | 3:24 | 2022-02-16 | 2023-05-12 |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2023-03-03 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-05-31 |  |
@@ -122,7 +123,7 @@
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-04-12 |  |
 | [Lunar Eclipse](https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:32 | 2023-05-11 |  |
 | [LÄTT](https://open.spotify.com/track/1n14U1Pxf9SHlIKqW5WJj7) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [SEGLA](https://open.spotify.com/album/11vr5CE1FemfV0Qe1ZaRhE) | 3:23 | 2022-02-16 |  |
-| [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 |  |
+| [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 | 2023-06-02 |
 | [Manhattan](https://open.spotify.com/track/37bu67zutZr2gn7iiLewLF) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Manhattan](https://open.spotify.com/album/57PEe97Gfbucw9wUslaSOI) | 3:54 | 2022-09-29 |  |
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2022-02-16 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 |  |

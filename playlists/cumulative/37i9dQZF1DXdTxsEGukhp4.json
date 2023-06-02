@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Custom Lovedool",
+        "url": "https://open.spotify.com/album/6ZN7SpS7A16lYFQwAE0qZO"
+      },
+      "artists": [
+        {
+          "name": "akuma no kiss (senritsu kanano & katy)",
+          "url": "https://open.spotify.com/artist/5TqcSYdrNJtfgnr7W37JcA"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205978,
+      "name": "Custom Lovedool",
+      "url": "https://open.spotify.com/track/3s0ZWBG9l85BqTi6aJzjXt"
+    },
+    {
+      "album": {
         "name": "D.U.N.K.",
         "url": "https://open.spotify.com/album/4Bhrbt1F8fbtn1DiFBpn5q"
       },
@@ -520,6 +538,24 @@
       "duration_ms": 128776,
       "name": "Green Green Grass - Sped-Up",
       "url": "https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N"
+    },
+    {
+      "album": {
+        "name": "Sakura no Ki no Shita",
+        "url": "https://open.spotify.com/album/0V7yGZFnkvdhnTN16bH3Pf"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278973,
+      "name": "Hanabi",
+      "url": "https://open.spotify.com/track/0vrjT7RqBiBJeEJdkXlEy0"
     },
     {
       "album": {
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 204760,
       "name": "Oops (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW"
@@ -1688,7 +1724,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 232440,
       "name": "Tsumugu",
       "url": "https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe"
@@ -1874,7 +1910,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
@@ -2130,7 +2166,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 269833,
       "name": "\u30b5\u30af\u30e9\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR"
@@ -2206,6 +2242,24 @@
       "duration_ms": 174226,
       "name": "\u30bc\u30ed\u8ddd\u96e2\u604b\u611b",
       "url": "https://open.spotify.com/track/3rA3elSXqK2aMkuDajQrFn"
+    },
+    {
+      "album": {
+        "name": "\u30bf\u30fc\u30b3\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/37SXzOlujwOrbxMDCcFpmY"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199128,
+      "name": "\u30bf\u30fc\u30b3\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/4h0bg0R9tG0OplMXy9SVM2"
     },
     {
       "album": {
@@ -2479,6 +2533,32 @@
     },
     {
       "album": {
+        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        },
+        {
+          "name": "\u5357\u96f2\u3086\u3046\u304d",
+          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224633,
+      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
+    },
+    {
+      "album": {
         "name": "\u5927\u4e08\u592b",
         "url": "https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa"
       },
@@ -2596,7 +2676,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198806,
       "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
       "url": "https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS"
@@ -2654,6 +2734,24 @@
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u7f85\u7dba\u7f85",
+        "url": "https://open.spotify.com/album/3hHtwgwIZklErgqC9f9A5e"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193292,
+      "name": "\u7dba\u7f85\u7dba\u7f85",
+      "url": "https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1"
     },
     {
       "album": {

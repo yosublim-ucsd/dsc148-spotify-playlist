@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,190 songs - 2 day 15 hr 44 min
+1,191 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Erastes](https://open.spotify.com/track/4p90sFRZyV7IPnuvaU1pp1) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Only 4 The Slimes](https://open.spotify.com/album/3XWnL4yDFbjKAQNIeDzlKW) | 2:08 | 2022-10-29 | 2022-11-16 |
 | [ERIMO](https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 3:37 | 2022-11-12 | 2023-05-21 |
 | [ERIMO](https://open.spotify.com/track/2wuJWqcn6bJWIJCmb83Yeu) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [ERIMO](https://open.spotify.com/album/4CWvmTA99vjhd3sq0dpeEG) | 3:37 | 2022-09-23 | 2022-11-13 |
-| [Erotas](https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Erotas](https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu) | 2:24 | 2022-07-29 |  |
+| [Erotas](https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [Erotas](https://open.spotify.com/album/20dFOE5kiBCmzEf0GXrXqu) | 2:24 | 2022-07-29 | 2023-06-02 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-12-13 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-14 |
@@ -422,6 +422,7 @@
 | [Ghetto](https://open.spotify.com/track/6CgJ4T12QKzSrZriAh2XhV) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [5D](https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho) | 2:55 | 2023-05-27 |  |
 | [Ghetto](https://open.spotify.com/track/3havVW3H4KDEcpenG18uMY) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:21 | 2022-02-26 | 2022-03-10 |
 | [Gia Dio](https://open.spotify.com/track/3spuD6XrnVkNFef5eAC2DI) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2), [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [Gia Dio](https://open.spotify.com/album/5nTDzAtEZXZKqtiP3FeYkU) | 2:48 | 2021-09-24 | 2022-04-10 |
+| [GIA MENA](https://open.spotify.com/track/46dgrkhAaXe9VELYpS7D8A) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [GIA MENA](https://open.spotify.com/album/7g4UPiGkldeqedI3GvVxxe) | 2:42 | 2023-06-01 |  |
 | [GIA NA](https://open.spotify.com/track/2zJdRbci1gCEidwFo2wYOE) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP), [Pala Tranx](https://open.spotify.com/artist/2wPXmugQZ0k6GkdfuWiTeI) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 2:53 | 2022-11-12 | 2023-02-01 |
 | [Gia Panta](https://open.spotify.com/track/1MD67DskmJhSXmuHe8p7Wt) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Gia Panta](https://open.spotify.com/album/5Tj4DG3VKQvRo2sJ6BSY3i) | 3:22 | 2023-02-13 |  |
 | [Gia Sena](https://open.spotify.com/track/38doLxZXMnFU2rwImjshPY) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Gia Sena](https://open.spotify.com/album/4zkNC5w5xq9KFkLfXSlwGg) | 3:41 | 2022-08-18 | 2022-11-25 |

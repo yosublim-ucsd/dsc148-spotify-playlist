@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Frozen Lake",
+        "url": "https://open.spotify.com/album/7bjfCfZ6Cf5K2bS1kLLMrd"
+      },
+      "artists": [
+        {
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Frozen Lake",
+      "url": "https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5"
+    },
+    {
+      "album": {
         "name": "Future Kids",
         "url": "https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl"
       },

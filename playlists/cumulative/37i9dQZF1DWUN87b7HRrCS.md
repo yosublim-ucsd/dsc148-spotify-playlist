@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-69 songs - 4 hr 38 min
+70 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-05-11 |  |
 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 | 2023-05-11 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2023-05-11 |  |
+| [Cheek to cheek](https://open.spotify.com/track/0XnleUxgreIMS02KY2ld7F) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Cheek to cheek](https://open.spotify.com/album/712te0ZI1fyrkkI6k8ui6b) | 2:41 | 2023-06-01 |  |
 | [Clear Skies](https://open.spotify.com/track/0OwYnlCmkWPvvtR2rrtIVW) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 4:10 | 2023-05-11 |  |
 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 | 2023-05-11 |  |
 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 | 2023-05-11 |  |

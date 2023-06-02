@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Choi HEART\(최하트\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,017 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,065 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 31 | [All Night](https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:30 |
 | 32 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 |
 | 33 | [Someone like U](https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA) | [Dalshabet](https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel) | [Naturalness](https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW) | 3:20 |
-| 34 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 |
-| 35 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
+| 34 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
+| 35 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 |
 | 36 | [Night Rather Than Day](https://open.spotify.com/track/3ekdsWPG0ZtVrvEUPe2Djv) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Eclipse](https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy) | 3:18 |
 | 37 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 |
 | 38 | [Where are you?](https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [FREE\`SM](https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut) | 3:40 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 68 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
 | 69 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
 | 70 | [환상 Fantasy](https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [환상 Fantasy](https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj) | 3:30 |
-| 71 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
-| 72 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
+| 71 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
+| 72 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
 | 73 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 74 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
 | 75 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 88 | [Black Hole](https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE PARK IN THE NIGHT part three](https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut) | 3:33 |
 | 89 | [코코넛 러브 Coconut Love](https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [코코넛 러브 Coconut Love](https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk) | 3:14 |
 | 90 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
-| 91 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 |
-| 92 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 |
-| 93 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
-| 94 | [보내줄게 Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 |
+| 91 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 |
+| 92 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 |
+| 93 | [보내줄게 Let You Go](https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [\#TUSM](https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3) | 3:11 |
+| 94 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
 | 95 | [Wonder Woman](https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [RE\_vive](https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h) | 3:52 |
 | 96 | [SEOUL CITY POP](https://open.spotify.com/track/0Y1aP0BtnHJjM0ugmxCoDL) | [IHYA](https://open.spotify.com/artist/2AoCTD2YuVOY1AHKGx3fqh) | [SEOUL CITY POP \[A\-Side\]](https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23) | 3:22 |
 | 97 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [You always \- Digging Club Seoul Ver.](https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Onstage Digging Club Seoul Part.05](https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d) | 4:54 |
 | 100 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
 
-Snapshot ID: `MCxjNDhhZTkxZDE5ODM4YzZkM2NmMjA1OTVjZGIyZmUzNDRhNGZhYWRh`
+Snapshot ID: `MCw1NWUwZTAwODQ2MTA2NzQwNWVmZjkwM2Q5N2IxOGE4NjRmODJmYjc0`

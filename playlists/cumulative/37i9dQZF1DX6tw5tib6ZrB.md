@@ -2,9 +2,9 @@
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day\. Tracks from J Hus, Lil Durk, Jack Harlow, Drake, Tyler, The Creator and more
+> Monster Hiphop anthems to unlock your day\. Tracks from Dave, J Hus, Lil Durk, Jack Harlow, Drake and more
 
-142 songs - 7 hr 27 min
+143 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-06-16 |  |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-02-17 |  |
 | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/track/73DJqwKLRQgDMNN7odJPqt) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Not The Same \(feat\. Lucasraps\)](https://open.spotify.com/album/3byyU9BREsehzyZ6DqDK0p) | 2:44 | 2022-07-22 | 2022-09-23 |
-| [Nowhere](https://open.spotify.com/track/4sJ9R9ORuMe4EvCytb9qLe) | [Tyler Linkman](https://open.spotify.com/artist/7ucMQHGfqFQCBYDgzxgHoO) | [Nowhere](https://open.spotify.com/album/4SwSPp2IjqYi5yDQzlvkHD) | 3:20 | 2023-03-31 |  |
+| [Nowhere](https://open.spotify.com/track/4sJ9R9ORuMe4EvCytb9qLe) | [Tyler Linkman](https://open.spotify.com/artist/7ucMQHGfqFQCBYDgzxgHoO) | [Nowhere](https://open.spotify.com/album/4SwSPp2IjqYi5yDQzlvkHD) | 3:20 | 2023-03-31 | 2023-06-02 |
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2022-12-01 | 2023-04-01 |
 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 | 2022-06-16 | 2022-12-02 |
 | [PAINTING PICTURES](https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [5LBS OF PRESSURE](https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI) | 2:02 | 2023-03-21 |  |
@@ -125,6 +125,7 @@
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 | 2023-05-21 |
 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF) | 2:47 | 2023-05-19 | 2023-05-28 |
 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 | 2023-04-20 |  |
+| [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-01 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-06-16 | 2023-02-25 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-19 |  |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-29 |  |

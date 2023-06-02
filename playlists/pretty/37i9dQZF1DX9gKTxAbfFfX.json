@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano con Abraham Mateo y Chanel.",
-  "num_followers": 675697,
+  "num_followers": 676456,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M1NTNmMmY2NmY0OWE4NDI1MjQ2N2Q3ODhjYmZlNjkzNTNlMWJi",
+  "snapshot_id": "MCxiOGM4MmFkNTlhZWYwNmFmNjEwNDM0NTU0MzFjOTljNDMwMzg1NjVh",
   "tracks": [
     {
       "added_at": "2023-05-22 17:34:41",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
-        "name": "La Jumpa",
-        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "La Jumpa",
-      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
+        "name": "La Jumpa",
+        "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "La Jumpa",
+      "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -803,6 +803,30 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
         "name": "Nochentera",
         "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
       },
@@ -815,26 +839,6 @@
       "duration_ms": 202184,
       "name": "Nochentera",
       "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -859,6 +863,26 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
-        "name": "No_se_ve.mp3",
-        "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "No_se_ve.mp3",
-      "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236586,
       "name": "K\u00c1RMIKA",
       "url": "https://open.spotify.com/track/3mFNc5EQn30irR983Wg9OD"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Edu Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 254720,
       "name": "Obsesion",
       "url": "https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Edu Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4Gr4Wo60IdAOBJLYgRZytK"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 232549,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -1555,6 +1555,30 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
+        "name": "Arena y Sal",
+        "url": "https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Tunvao",
+          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
+        }
+      ],
+      "duration_ms": 174415,
+      "name": "Arena y Sal",
+      "url": "https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
         "name": "mariposas",
         "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
       },
@@ -1639,30 +1663,6 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
-        "name": "Arena y Sal",
-        "url": "https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Tunvao",
-          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
-        }
-      ],
-      "duration_ms": 174415,
-      "name": "Arena y Sal",
-      "url": "https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0"
     },
     {
       "added_at": "2023-05-22 17:34:41",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-05-22 17:34:41",
       "album": {
-        "name": "Sikora",
-        "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Sikora",
-      "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
-    },
-    {
-      "added_at": "2023-05-22 17:34:41",
-      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 239925,
       "name": "Ateo",
       "url": "https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11"
+    },
+    {
+      "added_at": "2023-05-22 17:34:41",
+      "album": {
+        "name": "Sikora",
+        "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Sikora",
+      "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
     },
     {
       "added_at": "2023-05-22 17:34:41",

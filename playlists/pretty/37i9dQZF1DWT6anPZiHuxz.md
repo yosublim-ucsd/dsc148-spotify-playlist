@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,051 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,188 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 7 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 |
 | 8 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 |
 | 9 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 |
-| 10 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
-| 11 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
+| 10 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
+| 11 | [Unholy \(feat\. Kim Petras\) \- Disclosure Remix](https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Unholy \(feat\. Kim Petras\) \[Disclosure Remix\]](https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj) | 3:54 |
 | 12 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
 | 13 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 14 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Think Before I Talk \- Cahill Remix](https://open.spotify.com/track/7almlnOxMbP9vsmbtLT0jg) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Think Before I Talk \(Remixes / Pt\. 1\)](https://open.spotify.com/album/4I9mq6QqhYz2IhnHx0CI35) | 3:12 |
 | 50 | [Chained To The Rhythm \- Oliver Heldens Remix](https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Chained To The Rhythm \(Oliver Heldens Remix\)](https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW) | 4:36 |
 
-Snapshot ID: `MCxmOTE5YzZiMjkyOTE0YjNhNmFjN2I1MmVmZGU1ODI2OGRjNDQ2NTk4`
+Snapshot ID: `MCw3YzBlNGNmZTg3NDViZTk5YWYxMTY2OTQ5YmMxYTA2MTIzMTYxZjhj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,543 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,580 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 58 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 |
 | 59 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
 | 60 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
-| 61 | [Real Friends](https://open.spotify.com/track/7zX0UYnQr1P3ztNrMp21Ei) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Real Friends](https://open.spotify.com/album/5QDk9kUhWdb5GZXzGUItqm) | 3:35 |
-| 62 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 61 | [Revival](https://open.spotify.com/track/5rUnjEX9nsCSHaXYMvQZQr) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Revival](https://open.spotify.com/album/4wYLab6GuVVnzVPno2a1wt) | 3:25 |
+| 62 | [Real Friends](https://open.spotify.com/track/7zX0UYnQr1P3ztNrMp21Ei) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Real Friends](https://open.spotify.com/album/5QDk9kUhWdb5GZXzGUItqm) | 3:35 |
 | 63 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 
-Snapshot ID: `MCw1OTNhM2E2ZmZlZTc2MmZjYTVkYTdmMWM1M2MyY2VmZjUzMWIyMDYz`
+Snapshot ID: `MCxmZTRhODM2YzBhMWI2ZGU3ODcwYmRhZjFlMmUxOTJhNzM0ODM4Njdj`

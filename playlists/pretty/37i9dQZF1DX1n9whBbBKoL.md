@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,541 likes - 148 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,825 likes - 148 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 7 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 |
 | 8 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
 | 9 | [Closure 432 hz](https://open.spotify.com/track/5W2G3rrqupygc1iP3RGLg3) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [432 hz Frequency of Universe](https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O) | 3:53 |
-| 10 | [Antigua](https://open.spotify.com/track/23bEleGsHEUcp8Yey4mYAF) | [Enzo Viccinté](https://open.spotify.com/artist/5Uxy2JcVTSKRW3jU8EYfb1) | [Antigua](https://open.spotify.com/album/5qVfjb4cPuPcRJsFnRWGOB) | 2:10 |
+| 10 | [Antigua](https://open.spotify.com/track/23bEleGsHEUcp8Yey4mYAF) | [Enzo Viccinté](https://open.spotify.com/artist/4sjq30PbOR55CaYeJJqn8Y) | [Antigua](https://open.spotify.com/album/5qVfjb4cPuPcRJsFnRWGOB) | 2:10 |
 | 11 | [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 |
 | 12 | [Dronelands](https://open.spotify.com/track/0VrHyuyaQFAUFBAarlTZtx) | [Alojz Pavic](https://open.spotify.com/artist/51QTWGv4EPAahGEUrk9lmC) | [Dronelands](https://open.spotify.com/album/4y65hxMYGwQdKSXi1hqfno) | 2:15 |
 | 13 | [Hovering Sunset](https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Hovering Sunset](https://open.spotify.com/album/0jhsxBqJRmTOJGlMu06CTh) | 2:31 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 147 | [A Sleepless Night](https://open.spotify.com/track/4H7oCuiiPH6gQTKfoBR9eo) | [Ella Ravn](https://open.spotify.com/artist/0EcHhtv02X5sMmofhqQo3c) | [A Sleepless Night](https://open.spotify.com/album/2e26oolMJM3ijJsrnqXZ8u) | 3:19 |
 | 148 | [Portraits](https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits](https://open.spotify.com/album/2USBHDZHtyMBWFXFwCYW3V) | 3:13 |
 
-Snapshot ID: `MCw4YzBhOWE0NDU2YTNhZGRiYmY1ZWE5Mjk3ODU1OTcxZTA4MTIzODhl`
+Snapshot ID: `MCxmYzg1NGFkMTYyM2U1Y2RhMGIzNGRlYTdjMTBiYmNiZjQ1YTE2YTYy`

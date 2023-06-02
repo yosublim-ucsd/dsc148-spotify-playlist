@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 418701,
+  "num_followers": 419050,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2IxN2U0OGUzNGI4NWM4M2IxNGUyOGE5ZGEzOTRlYjNmMDdmNjE5",
+  "snapshot_id": "MCwxZjkxYzVkOGY4OWVjZDdmMDlkNDUzNDIwZjBkZjViZDA0Y2Q3Yzkz",
   "tracks": [
     {
       "added_at": "2023-05-08 17:34:33",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "lowkey",
-        "url": "https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw"
+        "name": "Flying Solo",
+        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 171355,
-      "name": "lowkey",
-      "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
+      "duration_ms": 344571,
+      "name": "To the Bone",
+      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -331,24 +331,8 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Flying Solo",
-        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 344571,
-      "name": "To the Bone",
-      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
-        "name": "Every Summertime",
-        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 215686,
-      "name": "Every Summertime",
-      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+      "duration_ms": 171355,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -395,22 +379,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Seperti Kisah",
-        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 279031,
-      "name": "Seperti Kisah",
-      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "Lyodra",
         "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 261299,
       "name": "Pesan Terakhir",
       "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Seperti Kisah",
+        "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 279031,
+      "name": "Seperti Kisah",
+      "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -459,6 +443,22 @@
       "duration_ms": 250122,
       "name": "Aku Yang Salah",
       "url": "https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Kedua",
-        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
-      },
-      "artists": [
-        {
-          "name": "Virzha",
-          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
-        }
-      ],
-      "duration_ms": 241631,
-      "name": "Tentang Rindu",
-      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "Teman Bahagia",
         "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 208104,
       "name": "Teman Bahagia",
       "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Kedua",
+        "url": "https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7"
+      },
+      "artists": [
+        {
+          "name": "Virzha",
+          "url": "https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy"
+        }
+      ],
+      "duration_ms": 241631,
+      "name": "Tentang Rindu",
+      "url": "https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
         "name": "Alexa",
         "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 241000,
       "name": "Jangan Kau Lepas",
       "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -1311,6 +1295,22 @@
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2023-05-08 17:34:33",

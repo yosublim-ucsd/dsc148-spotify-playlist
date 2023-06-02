@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 82151,
+  "num_followers": 82172,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2QzYWM5MmU2MTM1YTExNTVjMGQyMzMyOTM5Y2FlYWNiMmM5ODg4",
+  "snapshot_id": "MCw3NmI3NWMxODVmOTcxMzhhMWZlMDY4MTI2MjQzOTgxZjM4ZDIxOWMw",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 176255,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "20 TropiExitos",
         "url": "https://open.spotify.com/album/27C2s8tthY7NsuuDOqrLxm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218333,
       "name": "La Cantaleta",
       "url": "https://open.spotify.com/track/5Wtf9c3edivgTkGwxWEyUj"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 176255,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+          "name": "Laura Leon",
+          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+      "duration_ms": 248466,
+      "name": "El Club de Mujeres Enga\u00f1adas",
+      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -667,18 +663,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/2OljxYyHZlPORUWrQ7vHS6"
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
       "artists": [
         {
-          "name": "Laura Leon",
-          "url": "https://open.spotify.com/artist/1dON8KmX1N7ZPHCRyhK2hX"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
         }
       ],
-      "duration_ms": 248466,
-      "name": "El Club de Mujeres Enga\u00f1adas",
-      "url": "https://open.spotify.com/track/0epOmO4nkZhuCDzNaLf7Wl"
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
       },
       "artists": [
         {
-          "name": "JOHANA RODRIGUEZ",
-          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 245701,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
+      "duration_ms": 199786,
+      "name": "China",
+      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 234222,
-      "name": "Ahora Se",
-      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Amandititita",
         "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/7AUncrChIPjBitUE0NYIoO"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
         }
       ],
-      "duration_ms": 199786,
-      "name": "China",
-      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
+      "duration_ms": 234222,
+      "name": "Ahora Se",
+      "url": "https://open.spotify.com/track/5AWK8nehIszKNIWhoOBiQn"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
+      },
+      "artists": [
+        {
+          "name": "JOHANA RODRIGUEZ",
+          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+        }
+      ],
+      "duration_ms": 245701,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Olv\u00eddate (Cuarteto)",
+        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Olv\u00eddate - Cuarteto",
+      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "La Voz de los Barrios",
         "url": "https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 231280,
       "name": "Si Tu Te Vas",
       "url": "https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Olv\u00eddate (Cuarteto)",
-        "url": "https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Olv\u00eddate - Cuarteto",
-      "url": "https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "Abr\u00e1zame y B\u00e9same",
         "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 180748,
       "name": "Abr\u00e1zame y B\u00e9same",
       "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2023-04-06 00:51:46",

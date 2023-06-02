@@ -1,12 +1,12 @@
 {
   "description": "A pride playlist for the whole family. Cover: JoJo Siwa",
-  "num_followers": 6082,
+  "num_followers": 6094,
   "original_name": "ROY G BIV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjVhYWUyMjllZTc5NDQ0ZmFmMjFhMjFhN2QzZTQ4OTE0N2Y0ZTVm",
+  "snapshot_id": "MCxmNmFmNmM0ZmI3NjMwN2ZiMTdkZjlmNWM3ZTAxMjA4OTI4ZTRhYmRk",
   "tracks": [
     {
       "added_at": "2023-05-25 15:10:55",
@@ -109,6 +109,74 @@
       "url": "https://open.spotify.com/track/1JY9hsqLWZ3JB3K39Ve1xF"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "UglyDolls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 176408,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/3YMpQVEIJiq1gBY4PsUVwk"
+    },
+    {
+      "added_at": "2023-05-25 15:10:55",
+      "album": {
+        "name": "Born This Way",
+        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "House Of Memories",
+        "url": "https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 164613,
+      "name": "House of Memories - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb"
+    },
+    {
       "added_at": "2023-05-25 15:10:55",
       "album": {
         "name": "Nonstop",
@@ -143,22 +211,6 @@
     {
       "added_at": "2023-05-25 15:10:55",
       "album": {
-        "name": "Born This Way",
-        "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/6aDi4gOE2Cfc6ecynvP81R"
-    },
-    {
-      "added_at": "2023-05-25 15:10:55",
-      "album": {
         "name": "Biddy Bom",
         "url": "https://open.spotify.com/album/5tuFw2g5v3cDNJQEvTL4Mb"
       },
@@ -175,6 +227,26 @@
       "duration_ms": 186585,
       "name": "Biddy Bom (feat. Qai Qai)",
       "url": "https://open.spotify.com/track/7cV8hTyTnwbkl3nInzyzYq"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "UglyDolls (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/27RUK36qlkCtwySz0pBQXq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/0Mi9oDxTwC7u9X6nxSQGN6"
     },
     {
       "added_at": "2023-05-25 15:10:55",

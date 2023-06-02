@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-330 songs - 18 hr 55 min
+331 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [ARE YOU WITH THAT?](https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ARE YOU WITH THAT?](https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd) | 2:18 | 2022-01-14 |  |
 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 | 2022-01-14 |  |
 | [Ay Caramba](https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ay Caramba](https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv) | 2:44 | 2022-07-08 |  |
-| [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/7Gte9xFdlHkyBMmpRNUyP8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 2:58 | 2022-12-17 |  |
+| [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/3wJdRtq7bgSvO85aTn4qpq) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:58 | 2023-04-21 |  |
+| [B.R.O\. \(Better Ride Out\) \[feat\. Roddy Ricch\]](https://open.spotify.com/track/7Gte9xFdlHkyBMmpRNUyP8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 2:58 | 2022-12-17 | 2023-06-02 |
 | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Back In Traffic \(feat\. KIRBY\)](https://open.spotify.com/album/7iTi1Vio2z7cT0ZvQiIWFN) | 3:04 | 2022-01-14 | 2022-07-29 |
 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 | 2022-01-14 | 2022-01-22 |
 | [Bad For Me](https://open.spotify.com/track/5igBmMvQ0kJ6rShqSUAIHq) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bad For Me](https://open.spotify.com/album/76P0Wtel19KTU0nrKiecim) | 2:24 | 2022-05-23 | 2023-03-03 |

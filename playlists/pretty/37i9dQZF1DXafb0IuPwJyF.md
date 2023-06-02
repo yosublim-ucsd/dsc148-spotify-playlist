@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,285 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,589 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 6 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 |
 | 7 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
 | 8 | [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 |
-| 9 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 |
-| 10 | [LONGINESS REMIX](https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX](https://open.spotify.com/album/6f9LnhAUXUVf4zAS1uKgjd) | 4:14 |
-| 11 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
-| 12 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 |
-| 13 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
-| 14 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
-| 15 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
-| 16 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
+| 9 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
+| 10 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 |
+| 11 | [LONGINESS REMIX](https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX](https://open.spotify.com/album/6f9LnhAUXUVf4zAS1uKgjd) | 4:14 |
+| 12 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |
+| 13 | [不法侵入](https://open.spotify.com/track/1BtLaNoJo4zXGaYRLjvACo) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [不法侵入](https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp) | 4:20 |
+| 14 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
+| 15 | [心得](https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [心得](https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz) | 3:39 |
+| 16 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 | 17 | [Bad Bitch BIGAKU](https://open.spotify.com/track/1h3Cwx7CWLJaLDnPlVu1Mn) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [Bad Bitch BIGAKU](https://open.spotify.com/album/1fj96LQ9agWjeZp5t8uktl) | 4:20 |
 | 18 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 19 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [修羅の巷](https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [修羅の巷](https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz) | 3:31 |
 | 50 | [自由](https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [自由](https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1) | 3:56 |
 
-Snapshot ID: `MCxlMjk0ZmVlNTcxMTNmOWU0OTY1MWJlZDVjMjE4ZmJkNTIyM2EyYWFj`
+Snapshot ID: `MCxmZWJjODdkZmUzN2Y5NWZhY2JiMjgwYWFhNzJjYjllYTQ3NWRmMjI4`

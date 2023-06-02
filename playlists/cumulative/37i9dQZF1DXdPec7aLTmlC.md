@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-733 songs - 1 day 14 hr 49 min
+734 songs - 1 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Dance Forever](https://open.spotify.com/track/1fa1st1zuVZvlmCCFRjNOK) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Dance Forever](https://open.spotify.com/album/3wddlyD4UqsOx3GdmL1IFw) | 2:44 | 2020-11-27 | 2020-12-09 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-07-21 |  |
 | [Dance Monkey](https://open.spotify.com/track/421leiR6jKlH5KDdwLYrOs) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/5i6CS5XcLZGLgaNCKlJvc2) | 3:29 | 2019-06-21 | 2022-04-16 |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-01 |  |
 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2020-06-12 | 2022-04-18 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-24 |  |
 | [Dancing in the Moonlight](https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Dancing In The Moonlight: The Best Of Toploader](https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9) | 3:53 | 2019-07-08 | 2019-08-13 |
@@ -341,7 +342,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-09 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2021-07-24 | 2023-01-18 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2020-01-04 |
-| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 |  |
+| [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-04-30 | 2023-06-02 |
 | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(Topic Remix\) \[feat\. Emilee\]](https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ) | 2:36 | 2020-06-12 | 2022-04-19 |
 | [In Betweenin'](https://open.spotify.com/track/1UotQ5kMAEiCJVisAVkxOh) | [AUSTN](https://open.spotify.com/artist/6deoGjNPov9XZSS8A2PCST) | [In Betweenin'](https://open.spotify.com/album/5dQ8bWBsJ7nk6UR5Vw0N2w) | 3:12 | 2019-05-26\* | 2022-04-21 |
 | [In My Head](https://open.spotify.com/track/0TyOpxlWwDx98bjkIVHUgY) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo \(Deluxe Audio\)](https://open.spotify.com/album/773TVtjVxXvD6DFHsWFJGN) | 3:18 | 2019-10-22 | 2019-10-24 |

@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "Crush You",
+        "url": "https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3"
+      },
+      "artists": [
+        {
+          "name": "Shafiq Husayn",
+          "url": "https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256069,
+      "name": "Crush You",
+      "url": "https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
       },
@@ -808,6 +830,24 @@
       "duration_ms": 184137,
       "name": "GEEK OUT!",
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
     },
     {
       "album": {
@@ -2248,6 +2288,24 @@
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "album": {
+        "name": "Something Different",
+        "url": "https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318361,
+      "name": "Something Different",
+      "url": "https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA"
     },
     {
       "album": {

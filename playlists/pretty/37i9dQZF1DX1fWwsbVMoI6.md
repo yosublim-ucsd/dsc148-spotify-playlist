@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,782 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,835 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 20 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
 | 21 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 22 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
-| 23 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
+| 23 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 24 | [Puro Corazón](https://open.spotify.com/track/2mEVUW5UL7iDK5DnomVvOy) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Puro Corazón](https://open.spotify.com/album/6J6p32z5lFri9g2K1iwGjo) | 3:09 |
 | 25 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 |
-| 26 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
+| 26 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 27 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
 | 28 | [Pensando en Ti](https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Directo al Corazón, Vol\. 18](https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE) | 3:33 |
 | 29 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 50 | [Antahuara](https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Los Éxitos del Grupo Maravilla](https://open.spotify.com/album/1mu9n0cqtB9vDRg2vOqpyl) | 3:58 |
 
-Snapshot ID: `MCwzNjRkYTZmYjYyNWI2NTg3MDZmMGIzZWZiOGU1YTI2NzJhZGY2YTRm`
+Snapshot ID: `MCxmODdkOWU5MTFmMDhiNzBiYTYxZTEwNjJlNzNhYThkNDNmMTI1ZTYz`

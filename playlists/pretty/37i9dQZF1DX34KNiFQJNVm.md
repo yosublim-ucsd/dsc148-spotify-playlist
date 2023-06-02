@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã com Vulgo FK e Chefin, TIAGO IORC com LUDMILLA, Juliette, XANDDY HARMONIA com Lauana Prado, Taylor Swift  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875,967 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876,191 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [minha cabeça é meu pior inimigo](https://open.spotify.com/track/6pe4cViwV3qYFAymTdZvBr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [minha cabeça é meu pior inimigo](https://open.spotify.com/album/1M4GC1izcCzRJT6OL6JyIV) | 3:08 |
 | 99 | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/track/2lJFoTxcSkzxVh405pcGFr) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Quase Que Eu Bato Meu Carro](https://open.spotify.com/album/54X5SfdCqRZNU8sR178tfu) | 3:11 |
 
-Snapshot ID: `MCxlNzQ3ZmJiNThhYzcxNGE0ZmZiYjE5NjVlMWE1YWNlYTdjZjYzZDMw`
+Snapshot ID: `MCxlNDlhZGE4ZDgxZmZhZjVlMjk5MDFjODk4ZDVjNWIzM2MwMjg4Yzhl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,534 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,620 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 38 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 |
 | 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 40 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 |
-| 41 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/4KvbMiCSQIqJ7cllp6gjR1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [TOKYO \-ANIME FLAVOR \-](https://open.spotify.com/album/0j2J4wxN5QTfzYE7YsUN68) | 4:05 |
+| 41 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/58Uv6tYdQU74invXpeN0u1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [City Pop Essentials Vol\. 2](https://open.spotify.com/album/0vR0kzwQJmXWVyuINLiQ7m) | 4:05 |
 | 42 | [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 |
 | 43 | [キン肉マン Go Fight! \(キン肉マン\) \- LIVE](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
 | 44 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 |
 
-Snapshot ID: `MCw5Y2QxZmIwZGUwZGE1ODFmOTJkZTUxZDA3MjIwOWNmNGNmYzQ1NTU3`
+Snapshot ID: `MCw5YWZmOTE1NDJjOGMzMzRjM2U5ZGY0ODY3NGE1OTJkYmY5NWY5OWVk`

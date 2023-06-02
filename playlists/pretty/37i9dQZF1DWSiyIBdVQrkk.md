@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082,923 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083,236 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 71 | [Marcus Garvey](https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Marcus Garvey](https://open.spotify.com/album/2YsfYi8B9pEuts9qwa3TSN) | 3:27 |
 | 72 | [Big Ship](https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Freddie McGregor: The Anthology](https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf) | 3:17 |
 | 73 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 74 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
-| 75 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
+| 74 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
+| 75 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 76 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 77 | [Rock Stone](https://open.spotify.com/track/7b2WilS8iNSF8PcU17IMdC) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Revelation Pt\. II: The Fruit of Life](https://open.spotify.com/album/3zBCEk3g6EGiUQVgJ4jFiK) | 4:37 |
 | 78 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 83 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 84 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 85 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
-| 86 | [Train to Skaville](https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz) | 2:57 |
-| 87 | [Let Me Down](https://open.spotify.com/track/5XEV3ZFUeXH1un9UhcVTAK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [All Eyes On U](https://open.spotify.com/album/4TmkappxQVraXApJvbXhLK) | 2:28 |
+| 86 | [Let Me Down](https://open.spotify.com/track/5XEV3ZFUeXH1un9UhcVTAK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [All Eyes On U](https://open.spotify.com/album/4TmkappxQVraXApJvbXhLK) | 2:28 |
+| 87 | [Train to Skaville](https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz) | 2:57 |
 | 88 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
 | 89 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 90 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 94 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 | 95 | [Mount Zion Medley](https://open.spotify.com/track/6vteTQH9VwU9R9Ssyt9x5n) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [L.M.S](https://open.spotify.com/artist/7LU2AJu0Jy2Hd0wA5973Zd), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ras Shiloh](https://open.spotify.com/artist/6kiEmNG2akSox9EPxiX36I), [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Morgan Heritage Family & Friends Vol\. 1](https://open.spotify.com/album/1ojQVmqamJnShNuqZI3TQv) | 5:57 |
 | 96 | [Love Is My Religion](https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:48 |
-| 97 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 |
-| 98 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
+| 97 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
+| 98 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 |
 | 99 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
 | 100 | [Jah Jah Know](https://open.spotify.com/track/5vNKYqDA0jFnhf7KoeBhuD) | [Groundation](https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p) | [Hebron Gate](https://open.spotify.com/album/5V6yCm8qQCxVtmKuodnjty) | 6:03 |
 | 101 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 | 110 | [Tempted to Touch](https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Love Affair](https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf) | 3:48 |
 
-Snapshot ID: `MCw1ZGRlYjUxODY2NGFjOWYxYTI5Yjk4MzcwMjc4Y2JkYjNkMWM5M2Jh`
+Snapshot ID: `MCxjNGQ4MDJlYmU0YjYxYzhkMGU4NzQ1ZDEyNmVjMjhmMTVkNmNhOGFi`

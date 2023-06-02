@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,951 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,091 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 65 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 66 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 67 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
-| 68 | [We Ride](https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:56 |
-| 69 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 |
+| 68 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 |
+| 69 | [We Ride](https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:56 |
 | 70 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 71 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's \(Acoustic Tracks and Demo Versions\)](https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ) | 3:31 |
 | 72 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
-| 73 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 |
-| 74 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 |
+| 73 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/1et7vATtyqLfNMjTTZIYk1) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/36Tel8kJ51tu7M65yWywbP) | 2:30 |
+| 74 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 |
 | 75 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
 | 76 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 77 | [Midnight Train](https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 94 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
 | 95 | [I'll Never Love](https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 2:45 |
 | 96 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
-| 97 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
-| 98 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 |
+| 97 | [Just The Same](https://open.spotify.com/track/593gJ3mb44oBLSAezl2UkQ) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:25 |
+| 98 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 99 | [Can You Take It](https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [Can You Take It](https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG) | 3:01 |
 | 100 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 101 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 113 | [Great American Novel](https://open.spotify.com/track/1x8huXwyN6cqXVBcUt5fQR) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/3sGSTThYpx4Udjl0IeuJhZ) | 3:55 |
 | 114 | [Always](https://open.spotify.com/track/1omCB9Mch8tYugUptnJ0vw) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 4:07 |
 | 115 | [Lips On You](https://open.spotify.com/track/5ezKhlg0ZwDPgOtMCoQt1S) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:36 |
-| 116 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 |
-| 117 | [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 |
+| 116 | [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 |
+| 117 | [Best Feature](https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Best Feature \(feat\. Devin Morrison\)](https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3) | 3:23 |
 | 118 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 |
 | 119 | [Ghost in the Wind](https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Air: Aquarius' Songs](https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk) | 4:30 |
 | 120 | [I'm In Love with You](https://open.spotify.com/track/6CAJfBlMsYUtkI7fBAXE6Y) | [Endre Nordvik](https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb) | [I'm In Love with You](https://open.spotify.com/album/0gx5amjwn5sJXZNOZJ0Agm) | 3:47 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 150 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
 
-Snapshot ID: `MCxhZWMwZWMwMmFjMTBiMTBlYWNiMDk0Zjg1NWU1Y2FjMTQxNjVkODll`
+Snapshot ID: `MCw1ZjZlNzE4NDFkZmQ2MzUyOWQ3MWRkZWNkYjNhZjY4ZmMzZjI5Zjkz`

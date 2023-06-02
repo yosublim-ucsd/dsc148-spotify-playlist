@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Ucie Sucita, Sule",
+  "description": "Dendang Dangdut teratas. Cover: Ndarboy Genk",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1374,6 +1374,24 @@
       "duration_ms": 306111,
       "name": "Sayang",
       "url": "https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx"
+    },
+    {
+      "album": {
+        "name": "Selamat Tinggal Kasih (From \"Cidro Asmoro\")",
+        "url": "https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "Selamat Tinggal Kasih - From \"Cidro Asmoro\"",
+      "url": "https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM"
     },
     {
       "album": {

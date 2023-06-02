@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,787 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,817 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 10 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 |
 | 11 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 |
 | 12 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 |
-| 13 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 |
+| 13 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 |
 | 14 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 |
 | 15 | [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 |
-| 16 | [Breathe the Air](https://open.spotify.com/track/0w905sAFNxZ4E7M5aEc8YI) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:45 |
+| 16 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 |
 | 17 | [For a While](https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [For a While](https://open.spotify.com/album/53p46AYlwyeYi7MRgf5GM6) | 2:54 |
 | 18 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 |
-| 19 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 |
-| 20 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 |
-| 21 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 |
+| 19 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 |
+| 20 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 |
+| 21 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |
 | 22 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 |
-| 23 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 |
+| 23 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 |
 | 24 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 |
 | 25 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 |
 | 26 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 |
@@ -53,19 +53,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 43 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 |
 | 44 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 |
 | 45 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 |
-| 46 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 |
-| 47 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 |
-| 48 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 |
+| 46 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 |
+| 47 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 |
+| 48 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 |
 | 49 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 | 50 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 |
 | 51 | [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 |
 | 52 | [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 |
-| 53 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 |
-| 54 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 |
+| 53 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 |
+| 54 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 |
 | 55 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 |
 | 56 | [Falling For Love](https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:13 |
-| 57 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 |
-| 58 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 |
+| 57 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 |
+| 58 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 |
 | 59 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 |
 | 60 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 |
 | 61 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [La Petite Reine](https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78) | [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL) | [Absinthe](https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr) | 2:13 |
 | 100 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 |
 
-Snapshot ID: `MCxmMDI4OTIzZjBmYTZhYTBjZThmODg0ZDUzZGYxZWZjNGJhY2ExMGE5`
+Snapshot ID: `MCxjZDk0MzVlOTFmMDA0YjU0ODk2NTk4NTgyYTdiZWNiMWE1ZWNjMWE2`

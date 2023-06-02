@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-358 songs - 21 hr 34 min
+361 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-23 | 2023-04-14 |
 | [Daydreams](https://open.spotify.com/track/6e6mVG7SXv73TrkpziM4gW) | [Streetlight Trio](https://open.spotify.com/artist/2TjyBWyiwIEhrsjMy4Q7t4) | [Daydreams](https://open.spotify.com/album/62wFAEZha1KG97xnIoIGZx) | 3:22 | 2023-01-26 |  |
 | [Dear Ruth](https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [David Williams](https://open.spotify.com/artist/1Qondy0id4ABDI62mzlCcX), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [I Remember Cedar](https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy) | 6:02 | 2022-05-17 | 2022-12-02 |
+| [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-11-24 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
@@ -108,6 +109,7 @@
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 |  |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-05-24 | 2023-03-03 |
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2022-12-22 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/2qyXVaQWQMa8TvzB71EmWE) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Here's That Rainy Day](https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG) | 3:47 | 2023-03-23 |  |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
@@ -221,6 +223,7 @@
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 | 2022-05-17 |  |
 | [New York City Dreamin'](https://open.spotify.com/track/7IzASoTEuRv3G2uSkP79sE) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:01 | 2023-04-13 |  |
+| [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-01 |  |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-05-17 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-16 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
@@ -230,7 +233,7 @@
 | [Omväg](https://open.spotify.com/track/0MZ7p6un0inDbapCDPPIcP) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [Omväg](https://open.spotify.com/album/0CAWcpiAZQyHUwHVVHx62D) | 2:48 | 2022-05-17 | 2023-02-17 |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4X4PGg2TnRyXZS9lsY8Hl7) | [Syncopation Station](https://open.spotify.com/artist/7c5Bd1OW0AbwL2yqDpSecr) | [On The Sunny Side Of The Street](https://open.spotify.com/album/3qSthRLQuCOS3NB1sDPLEE) | 3:23 | 2023-04-13 |  |
-| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 | 2023-06-02 |
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-02-23 |  |
 | [Once or Twice](https://open.spotify.com/track/3gLgRL9RNCfgYqSg9ipjcH) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Once or Twice](https://open.spotify.com/album/1gTsqipGHIgsom3Dfmgn5M) | 3:34 | 2023-05-25 |  |
 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 | 2023-05-11 |  |

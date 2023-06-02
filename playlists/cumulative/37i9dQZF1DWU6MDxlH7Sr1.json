@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Hello, Young Lovers",
+        "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
+      },
+      "artists": [
+        {
+          "name": "Southside Players",
+          "url": "https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234585,
+      "name": "Hello, Young Lovers",
+      "url": "https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg"
+    },
+    {
+      "album": {
         "name": "Hills Are Green",
         "url": "https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B"
       },

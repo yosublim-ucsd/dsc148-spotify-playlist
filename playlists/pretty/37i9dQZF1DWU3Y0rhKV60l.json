@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 6064,
+  "num_followers": 6077,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDg4NjhhYTFjYjRlZjVkNjQ3NTNlZDVkNDFhM2YzMDY5YTJlZTBk",
+  "snapshot_id": "MCxiZTY4Mzc3M2MwZGFiNWQzZTc3NWQ5ZTIzZDIzNGM4ZTNkNjAyNzk4",
   "tracks": [
     {
       "added_at": "2023-02-15 09:06:08",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "The Vast Sea",
-        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
-      },
-      "artists": [
-        {
-          "name": "Seas of Dreams",
-          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rocking Waves",
-      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Summer Ocean Waves",
         "url": "https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 113445,
       "name": "Cabin By the Beach",
       "url": "https://open.spotify.com/track/3K2s2zeGS5yWUAP5Y5IHf7"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Rocking Waves",
+      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Slow Waves",
-        "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
-      },
-      "artists": [
-        {
-          "name": "Sleep Factory",
-          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
-        }
-      ],
-      "duration_ms": 107793,
-      "name": "Slow Waves",
-      "url": "https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Epic Waves - vol.1",
         "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 229337,
       "name": "Relaxing Waves",
       "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Slow Waves",
+        "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
+      },
+      "artists": [
+        {
+          "name": "Sleep Factory",
+          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
+        }
+      ],
+      "duration_ms": 107793,
+      "name": "Slow Waves",
+      "url": "https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Ocean Waves for Sleep Volume 3",
-        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
+        "name": "Waves Beneath The Lighthouse",
+        "url": "https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj"
       },
       "artists": [
         {
-          "name": "Coast to Coast Recordings",
-          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
+          "name": "Wellseed",
+          "url": "https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl"
         }
       ],
-      "duration_ms": 222918,
-      "name": "Relaxing Waves",
-      "url": "https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9"
+      "duration_ms": 169081,
+      "name": "Waves Beneath The Lighthouse",
+      "url": "https://open.spotify.com/track/4gml8LGGIDTMi5bQlkAqYG"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
+        "name": "Ocean Waves for Sleep Volume 3",
+        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
+      },
+      "artists": [
+        {
+          "name": "Coast to Coast Recordings",
+          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
         "name": "Dancing with the Sea",
         "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 124545,
       "name": "Soothing Sirens",
       "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
-        "name": "Waves Beneath The Lighthouse",
-        "url": "https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj"
-      },
-      "artists": [
-        {
-          "name": "Wellseed",
-          "url": "https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl"
-        }
-      ],
-      "duration_ms": 169081,
-      "name": "Waves Beneath The Lighthouse",
-      "url": "https://open.spotify.com/track/4gml8LGGIDTMi5bQlkAqYG"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Pieces of Paradise (Nature)",
-        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
-      },
-      "artists": [
-        {
-          "name": "Earth Alliance",
-          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sandy Gulf (Ocean)",
-      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "Ocean Waves for Sleep Volume 3",
         "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 176850,
       "name": "Wandering Waves",
       "url": "https://open.spotify.com/track/5XzujG7g5cV0gEN3mtu1gs"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sandy Gulf (Ocean)",
+      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
     },
     {
       "added_at": "2023-02-15 09:06:08",

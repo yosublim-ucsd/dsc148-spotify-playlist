@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: The Change",
+  "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Zemmoa",
   "name": "BRILLO",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 290068,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
@@ -1794,6 +1794,24 @@
       "duration_ms": 203111,
       "name": "Exterra",
       "url": "https://open.spotify.com/track/4C022PY7OeolXksa1LJB4P"
+    },
+    {
+      "album": {
+        "name": "Fashion Victims",
+        "url": "https://open.spotify.com/album/32bbGOz5Csz71ntB1R6OXf"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Fashion Victims",
+      "url": "https://open.spotify.com/track/1Qsvw6CYOmcwR1IAukmwmj"
     },
     {
       "album": {
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 185000,
       "name": "Mucho M\u00e1s",
       "url": "https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS"
@@ -5300,6 +5318,28 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
+    },
+    {
+      "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "album": {

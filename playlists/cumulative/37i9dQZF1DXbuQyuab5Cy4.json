@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Wicked EP",
+        "url": "https://open.spotify.com/album/3aMecYq0Q67u6uwMjm4bPN"
+      },
+      "artists": [
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150859,
+      "name": "Till the Day I Die",
+      "url": "https://open.spotify.com/track/0XqKT7AwL333oEjBCMwHxp"
+    },
+    {
+      "album": {
         "name": "Till The Day I Die",
         "url": "https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7"
       },
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 150859,
       "name": "Till The Day I Die",
       "url": "https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX"

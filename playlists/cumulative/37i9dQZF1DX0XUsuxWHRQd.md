@@ -4,7 +4,7 @@
 
 > New music from Lil Durk, Moneybagg Yo and Kodak Black.
 
-1,633 songs - 3 day 12 hr 13 min
+1,634 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1474,6 +1474,7 @@
 | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/track/53sTK6KBrvsuqKT9qNpS5d) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Track Star \(Remix 2.0\)\(feat\. Chris Brown, A Boogie wit da Hoodie & Yung Bleu\)](https://open.spotify.com/album/7apgoRWUQYh2dfIaI8yYWi) | 3:41 | 2021-05-19 | 2021-06-05 |
 | [trademark usa](https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:30 | 2021-09-25 | 2022-04-29 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-03-10 |  |
+| [Trap House 3 \(feat\. Rick Ross\)](https://open.spotify.com/track/2AVgzrauK6QygWSBUDEcW3) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Trap House 3](https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo) | 3:48 | 2023-06-01 |  |
 | [Trap or Cap](https://open.spotify.com/track/04WcxfTz7qwm2DZ1F3bTTt) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:21 | 2020-05-22 | 2020-07-02 |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-08-26 | 2022-10-29 |
 | [Trillionaire \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/740kQ8xwSGloumdiKR5Cwz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:47 | 2020-05-15 | 2020-06-20 |

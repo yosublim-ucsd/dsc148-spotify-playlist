@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
 
-246 songs - 12 hr 43 min
+247 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Rod Roast Yourself](https://open.spotify.com/track/2nK9x8iEcQkErqeAd4sf7C) | [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y) | [Rod Roast Yourself](https://open.spotify.com/album/4UONB3S62FKphnrMeLowQa) | 2:30 | 2022-01-07 | 2022-03-03 |
 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 |  |
 | [Sabes](https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Karely Ruíz](https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC) | [Sabes](https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB) | 3:42 | 2023-05-05 |  |
-| [Sacúdete](https://open.spotify.com/track/2pyBJ3V8cf31fJFSx3rAMK) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/5Z4bhFoac2ElmGZ83YT6CZ) | 2:05 | 2023-05-19 |  |
+| [Sacúdete](https://open.spotify.com/track/4GsmrjLdnfsgkbV8pmRgdw) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/2OakpM5ZzFtokfU9xH8gzm) | 2:02 | 2023-05-26 |  |
+| [Sacúdete](https://open.spotify.com/track/2pyBJ3V8cf31fJFSx3rAMK) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/5Z4bhFoac2ElmGZ83YT6CZ) | 2:05 | 2023-05-19 | 2023-06-02 |
 | [SALE PA LA NASTY](https://open.spotify.com/track/2j7TXeSa6zB2p3kmQeokEZ) | [PIMP RULO](https://open.spotify.com/artist/0BvTjHFg2IS0Nk7QzfPmJo), [Inzunza](https://open.spotify.com/artist/5Yv10NlxqvTchOR3rwMuNM), [Eme](https://open.spotify.com/artist/3QCnscFamovRK8MxxoCRvj), [ELEITICY](https://open.spotify.com/artist/05cRGqEYvnshZgU6zJpah9) | [SALE PA LA NASTY](https://open.spotify.com/album/6tw3bzuNZlayOWA9Uxg0es) | 2:42 | 2023-01-27 | 2023-02-18 |
 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-03 |  |
 | [Sata](https://open.spotify.com/track/3sPVufhKMJxNqH4OVLBUT1) | [akaMVP](https://open.spotify.com/artist/3sPyNtLcFvITvOTTSQBnSt) | [Sata](https://open.spotify.com/album/0cFmJGycNDhP8ZVtGlbg03) | 2:52 | 2023-04-14 | 2023-05-07 |

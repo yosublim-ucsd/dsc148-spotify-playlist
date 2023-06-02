@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
 
-388 songs - 22 hr 8 min
+389 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Black Boots And Leather Rebellion](https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Black Boots And Leather Rebellion](https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4) | 3:42 | 2021-11-26 | 2022-07-06 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-22 | 2022-07-15 |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-11-19 | 2022-02-22 |
-| [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-15 |  |
+| [blue](https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:33 | 2022-07-15 | 2023-06-02 |
 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 | 2022-05-13 | 2022-07-05 |
 | [Break Into Your Heart](https://open.spotify.com/track/7H0HDJyal80WduDyRawDWr) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Break Into Your Heart](https://open.spotify.com/album/0kabcxCfQ2IH8rMVsbESRg) | 3:39 | 2021-11-19 | 2022-01-11 |
 | [Break Itself](https://open.spotify.com/track/3lIUzs8KlXQo8fuhJswAxm) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Tristan Bushman](https://open.spotify.com/album/37D0grr0tHWU6f0BFqlvav) | 3:39 | 2021-11-19 | 2022-02-21 |
@@ -239,6 +239,7 @@
 | [Machines](https://open.spotify.com/track/5mpLws6etPwTax7PedZc1V) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:31 | 2022-03-25 | 2022-07-29 |
 | [Magic](https://open.spotify.com/track/47Gp8oW808q6j4Oxg9iGLw) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic](https://open.spotify.com/album/2X2jLJr3W0IMGbCVwzSjc3) | 3:06 | 2022-03-11 | 2022-07-30 |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-21 | 2023-04-16 |
+| [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-05-19 |  |
 | [maybe it's just me \- Alternative Version](https://open.spotify.com/track/7b8zYGiLswyGvuAGKkEEiV) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [maybe it's just me \(Alternative Version\)](https://open.spotify.com/album/6OIblzPfUlSDAeCzFnDkzf) | 3:29 | 2021-11-19 | 2022-02-22 |
 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 | 2021-11-19 | 2022-07-27 |
 | [Message in a Bottle](https://open.spotify.com/track/20umbRtGLy493kML1VedCq) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Message in a Bottle](https://open.spotify.com/album/01H7dJjwrFUd0Q5Q0wxRVG) | 2:54 | 2021-11-19 | 2022-04-20 |

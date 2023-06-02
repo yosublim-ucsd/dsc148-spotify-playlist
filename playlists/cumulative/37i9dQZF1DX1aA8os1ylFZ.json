@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Freak Pack",
+        "url": "https://open.spotify.com/album/2VaXsrVlaa1JTCmskan7Yk"
+      },
+      "artists": [
+        {
+          "name": "Shadi",
+          "url": "https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150124,
+      "name": "Bleedin",
+      "url": "https://open.spotify.com/track/7bhLV0YbzAnklytS7UjOeS"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7sVXNPMPd0ZOs4ryzAcMW8"
       },
@@ -796,6 +814,24 @@
       "duration_ms": 191250,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
+    },
+    {
+      "album": {
+        "name": "Called it Love",
+        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186290,
+      "name": "Called it Love",
+      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
     },
     {
       "album": {
@@ -3750,7 +3786,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 205788,
       "name": "Miss My Dawgs (with 6LACK)",
       "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
@@ -3768,7 +3804,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 186268,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 183575,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
@@ -5776,6 +5812,24 @@
       "duration_ms": 182068,
       "name": "Tread Carefully",
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "album": {
+        "name": "Troubling",
+        "url": "https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm"
     },
     {
       "album": {

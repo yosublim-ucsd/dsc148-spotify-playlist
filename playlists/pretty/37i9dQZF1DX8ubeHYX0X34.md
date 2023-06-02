@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,902 likes - 70 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,931 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 11 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 |
 | 12 | [Wo Humsafar Tha \- From "Humsafar"](https://open.spotify.com/track/2z8o3kYaRs2nZGxnZ691SJ) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Wo Humsafar Tha \(From "Humsafar"\)](https://open.spotify.com/album/36UC2snz7H2x2YaU2YSEr3) | 6:26 |
 | 13 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
-| 14 | [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 |
-| 15 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 14 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 |
+| 15 | [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 |
 | 16 | [Bewajah](https://open.spotify.com/track/0div6Bf8qZlryVh0XorLSM) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:52 |
 | 17 | [Sayonee](https://open.spotify.com/track/075QYa566prNemChnZDEY1) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Azadi](https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM) | 5:04 |
 | 18 | [Bounce Billo](https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bounce Billo](https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS) | 4:07 |
 | 19 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/1iIPI8CWallsW53fL9hwQh) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/7zFjoK3HLuXgS6eIQYhtcp) | 8:32 |
 | 20 | [Nach Punjaban](https://open.spotify.com/track/34c8iU3Td1eY3mkCxOC53t) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4) | 4:27 |
 | 21 | [Duur](https://open.spotify.com/track/5Gl780bmLH2msWJ8kgCINq) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:07 |
-| 22 | [Woh Lamhe Woh Baatein](https://open.spotify.com/track/3pE3QvVrRLyno5TwEBDRFo) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 |
-| 23 | [Bachana](https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Umeed](https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq) | 3:36 |
-| 24 | [Roiyaan](https://open.spotify.com/track/6pIDq4rIuH75nEwNew2dlW) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq) | [Roiyaan](https://open.spotify.com/album/6zyLkzZ4EBmUgBw8UG1cwM) | 4:56 |
-| 25 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
+| 22 | [Bachana](https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Umeed](https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq) | 3:36 |
+| 23 | [Roiyaan](https://open.spotify.com/track/6pIDq4rIuH75nEwNew2dlW) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq) | [Roiyaan](https://open.spotify.com/album/6zyLkzZ4EBmUgBw8UG1cwM) | 4:56 |
+| 24 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
+| 25 | [Woh Lamhe Woh Baatein](https://open.spotify.com/track/3pE3QvVrRLyno5TwEBDRFo) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 |
 | 26 | [Tere Pyar Main](https://open.spotify.com/track/6JB0h4leDJ4Akabtu42Epd) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Gunkali \(Original Score\)](https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW) | 5:02 |
 | 27 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
 | 28 | [Parinda](https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Parinda](https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq) | 4:21 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 35 | [Udeekan](https://open.spotify.com/track/3CUS0yCQhElBR8YUZ0iPdv) | [Jawad Kahlown](https://open.spotify.com/artist/35Xt2FGKZR43L12BPHOm3M) | [Udeekan](https://open.spotify.com/album/5ffUfUw3ZecHmEYmzYaghP) | 4:39 |
 | 36 | [Manwa Re](https://open.spotify.com/track/61fzdZgmnQ2wg9vmHqwDgN) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 3:27 |
 | 37 | [Dil Haray Pukaray](https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:47 |
-| 38 | [Kaho Ek Din](https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 4:30 |
-| 39 | [Baarish](https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d) | 3:58 |
+| 38 | [Baarish](https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu) | [Singles](https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d) | 3:58 |
+| 39 | [Kaho Ek Din](https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 4:30 |
 | 40 | [Mera Bichraa Yaar](https://open.spotify.com/track/2fxej3sTBAIyrJfObGrDHI) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 4:51 |
 | 41 | [Khwaab](https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 5:27 |
 | 42 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 66 | [Ucchayan Majajan Aali](https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Uche Majajaan Wali](https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj) | 5:14 |
 | 67 | [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 |
 | 68 | [Laga Reh](https://open.spotify.com/track/2ZgW0BbaNtygHT43FEyHhR) | [Shehzad Roy](https://open.spotify.com/artist/2IoNBHUOfnf7hsUwBKr6l4) | [Qismat Apne Hath Mein](https://open.spotify.com/album/05nXs31CR4jvF7NtD8m7Ae) | 4:46 |
-| 69 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [Josh](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |
-| 70 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
+| 69 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
+| 70 | [Mahi\-Ve](https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2) | [Josh](https://open.spotify.com/artist/3bZPukLEVZlmVmNI2zkbLU) | [Mausam](https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1) | 4:06 |
 
-Snapshot ID: `MCxiNWIwYmExOTI4MzVmZmViYjlkZmJjZWIzMjllMDUwZmNmYTVhMTAz`
+Snapshot ID: `MCxlMDIwNzE4MjE1YWViMjYwM2I0NTc0ZGZmZDEwYTAwYWY4ZjdkNzI0`

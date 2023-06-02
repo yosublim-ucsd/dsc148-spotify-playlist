@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Ashley McBryde\n",
-  "num_followers": 540237,
+  "num_followers": 539898,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWMyZWY0NTA4MTdhMjY1NjA5Y2RhNDU0Y2NjMDlmNzY2NTI0ZDZm",
+  "snapshot_id": "MCxhNWJmOTE3NGRhMjY2Y2VlMjQ4MTg0ODlkZDg0NWZjZWU2ODM4ZmQx",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -203,42 +203,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
@@ -263,6 +227,42 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Crazy Angels",
-        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
+        "name": "What Do I Know (feat. HARDY)",
+        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Robert Counts",
+          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Crazy Angels",
-      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
+      "duration_ms": 208418,
+      "name": "What Do I Know (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "What Do I Know (feat. HARDY)",
-        "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
+        "name": "Crazy Angels",
+        "url": "https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU"
       },
       "artists": [
         {
-          "name": "Robert Counts",
-          "url": "https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 208418,
-      "name": "What Do I Know (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+      "duration_ms": 156826,
+      "name": "Crazy Angels",
+      "url": "https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6"
     },
     {
       "added_at": "2023-05-19 04:00:00",

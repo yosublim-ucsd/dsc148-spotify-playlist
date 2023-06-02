@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-707 songs - 2 day 3 hr 14 min
+708 songs - 2 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Autumn In New York](https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Autumn In New York](https://open.spotify.com/album/1bfAtOefGFjr2k6eQicSzJ) | 4:19 | 2022-09-29 | 2022-11-25 |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2022-04-14 | 2022-04-27 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2022-04-14 |  |
+| [Back In The Days](https://open.spotify.com/track/36EdXI7PXMydPehKedaagR) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Back In The Days](https://open.spotify.com/album/1g7p8a3CzdAWhTXP9c8yGV) | 3:21 | 2023-06-01 |  |
 | [Ballad for Bernt](https://open.spotify.com/track/3xFwFQ1SIzajuCahC7lRei) | [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives, Vol\. 4 \(Krzysztof Komeda \- Trzciński\)](https://open.spotify.com/album/6qk0f68VpLdQmSzwBy7sEG) | 3:25 | 2022-06-30 | 2022-09-23 |
 | [Ballad for Bernt](https://open.spotify.com/track/5cILsTw9kLRveV0cfjCx1a) | [Krzysztof Komeda\-Trzciński](https://open.spotify.com/artist/52aTOhPMsD9Rt9BVeVrZwx), [Krzysztof Komeda Trio](https://open.spotify.com/artist/4AEBBV3amZFMEkiYwSjSqI), [Bernt Rosengren](https://open.spotify.com/artist/0A7N9l9mumtC0BbJXk46ds) | [Polish Radio Jazz Archives 04](https://open.spotify.com/album/17EJqOUzXWNQoDcgCLflCp) | 3:25 | 2022-04-14 | 2022-07-29 |
 | [Ballad for MC](https://open.spotify.com/track/79fmhV6NAraE4Xz3MIXnN4) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [Trying to Figure It Out](https://open.spotify.com/album/0bdzkLwOBum4GKlrVnOfAE) | 3:02 | 2022-04-14 | 2022-10-08 |
@@ -121,7 +122,7 @@
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-03-09 |  |
 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 | 2023-03-09 |  |
 | [Cherry Blossom](https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Cherry Blossom](https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf) | 3:08 | 2023-04-27 |  |
-| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 |  |
+| [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 | 2023-06-02 |
 | [Ciaccona per Embrik](https://open.spotify.com/track/4rznhkoOr1AYneKuWBef4V) | [Trygve Seim](https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8) | [Helsinki Songs](https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM) | 6:00 | 2022-04-14 | 2022-10-02 |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 | 2023-05-04 |  |
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-09-29 |  |

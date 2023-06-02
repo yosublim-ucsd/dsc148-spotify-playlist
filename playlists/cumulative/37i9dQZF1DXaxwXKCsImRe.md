@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Pommelien Thijs \(Cover\) MEAU, \(Zoë Tauran, Haunted Youth, DIKKE, Shermanology, De Staat & Antoon
+> RADAR is a Spotify program to promote exciting artists! RADAR BNLX: Pommelien Thijs \(cover\), MEAU, Zoë Tauran, Haunted Youth, DIKKE & Shermanology
 
 127 songs - 6 hr 42 min
 

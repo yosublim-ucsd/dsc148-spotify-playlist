@@ -4945,6 +4945,32 @@
     },
     {
       "album": {
+        "name": "Scacchiera surrealista",
+        "url": "https://open.spotify.com/album/2QPf5PSu1b03MWHMoyE25g"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Lanz Khan",
+          "url": "https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL"
+        },
+        {
+          "name": "Dj Kamo",
+          "url": "https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Scacchiera surrealista",
+      "url": "https://open.spotify.com/track/5c8wf4geF6QoWgiz5Uzkfj"
+    },
+    {
+      "album": {
         "name": "Turbe Giovanili",
         "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
       },
@@ -5612,7 +5638,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 207600,
       "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
       "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"

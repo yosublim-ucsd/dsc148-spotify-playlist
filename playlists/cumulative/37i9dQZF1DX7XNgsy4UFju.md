@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Lana Del Rey
 
-1,106 songs - 2 day 17 hr 29 min
+1,107 songs - 2 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,7 +1093,8 @@
 | [Worm](https://open.spotify.com/track/1DMm3h4c9sh3W5CGoGurBJ) | [Royal Canoe](https://open.spotify.com/artist/5fLcxlU1oDJrMNOZsewCpK), [Dill the Giant](https://open.spotify.com/artist/3dT9CWTmziJYYO3RK5hVXK) | [Vault \(2011\-2021\)](https://open.spotify.com/album/20IHqr67unmN2HLWwlSqBF) | 3:07 | 2022-03-11 | 2022-05-20 |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-01-20 |  |
 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 | 2023-01-28 |
-| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 |  |
+| [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-10 | 2023-06-02 |
+| [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 | 2023-05-26 |  |
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2022-09-30 | 2023-03-11 |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-30 | 2023-01-14 |
 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-15 | 2022-08-27 |

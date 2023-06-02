@@ -1,15 +1,31 @@
 {
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Luqman Podolski, Tish Errda",
-  "num_followers": 328864,
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Anggi Marito",
+  "num_followers": 328945,
   "original_name": "Carta Malaysia 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGE2MDE3NTg3YWUzM2UwN2JlZWI3ZmQwYjQzYzIxNTYwMWRjYWQ3",
+  "snapshot_id": "MCxkNDQxNDc3NWQyNDU1YjI5YTQxZjk5OTA4YzNkYjQ1NmRiNWVkZWE5",
   "tracks": [
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
+      "album": {
+        "name": "Tak Segampang Itu",
+        "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "duration_ms": 231100,
+      "name": "Tak Segampang Itu",
+      "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
+    },
+    {
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Mungkin Aku Tak Penting? (feat. Tish Errda)",
         "url": "https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
-      "album": {
-        "name": "Tak Segampang Itu",
-        "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
-      },
-      "artists": [
-        {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
-        }
-      ],
-      "duration_ms": 231100,
-      "name": "Tak Segampang Itu",
-      "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
-    },
-    {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Sesaat Kau Hadir",
         "url": "https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Selamat Tinggal Pujaan",
         "url": "https://open.spotify.com/album/29k6rNn6fU89ucu6UNadlo"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Langit Yang Sama",
         "url": "https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Terasa Ada",
         "url": "https://open.spotify.com/album/0vYQ7xIaQQhh8fZAsbFSdf"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1VGVxZIHPiKh3Y4vZv6ChL"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Di Sebalik Rahsia",
         "url": "https://open.spotify.com/album/1LweEZf8kLWPwmS7xpyPWd"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/7yJtvZjco9VZKE22DJTjmu"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Hasrat (OST Imaginur)",
         "url": "https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Muak",
         "url": "https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Flash & Dash",
         "url": "https://open.spotify.com/album/3wXeex4NWwvQrQZI3AJOwZ"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5rQTRNaJOiSqGfhYrf4Tc2"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Hilang Tanpa Bilang",
         "url": "https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Semata Karenamu",
         "url": "https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Ayuh (From Polis Evo 3 Original Soundtrack)",
         "url": "https://open.spotify.com/album/0E8108nmNwGBFPu3w1FHd9"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/5It5ikDacxfwZXLSKsMEvS"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Test Drive",
         "url": "https://open.spotify.com/album/7KeMDStkuEMZfLyEiHJRxS"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Inilah JalanNya",
         "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Tertawan Hati",
         "url": "https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Kembalilah",
         "url": "https://open.spotify.com/album/5zwgSkn0xCQHiQm3RjTPVT"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/16chL4feuTZ9ACni38HxsS"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "ASHER",
         "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/6raMBnVBIvvUngMLyDdzyP"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Sisa Rasa",
         "url": "https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Sempurna",
         "url": "https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Sayunk I Love You",
         "url": "https://open.spotify.com/album/16h6YbiB8SbLwbs24nAMh1"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5Fb2E9eZ6I3S8h4Vh4NvSO"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Salah Hati",
         "url": "https://open.spotify.com/album/1Wc621PJ1RLgLaTuKaFgR9"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/3u6QUGEVqlXUNdhMHEiEN0"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Hal Hebat (Cover)",
         "url": "https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "ASHER",
         "url": "https://open.spotify.com/album/4km2qQIoGCCevm1Qf51OcE"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/62sancAaHEMwPxBuatzaay"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Sejuta Kata",
         "url": "https://open.spotify.com/album/7bbY7fvBSmQguTuad1VuTB"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/0wLtYXCZm8wAzTVGYKxslQ"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Hingga Tua Bersama",
         "url": "https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Tercipta Satu Senyuman",
         "url": "https://open.spotify.com/album/5JL6GQ1mFUUIzXTEBCnAkV"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/2TNBK6MRJ8MZH0XykFG5K6"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Kisah Sempurna",
         "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Menjaga Cintamu (Original Soundtrack From Anwar, The Untold Story)",
         "url": "https://open.spotify.com/album/2M4JbauEhpLEdVBi98d5BH"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/24iGu5nS2Cxa0Y3E2IehzJ"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Mengertilah Kasih",
         "url": "https://open.spotify.com/album/2DPXenmakHEKVRShv74Nvp"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "SWIPE",
         "url": "https://open.spotify.com/album/5mtgm2XTGhtLxxHcYC6XU0"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Lemak Manis",
         "url": "https://open.spotify.com/album/5XBSxHqclOFKq3DtafZwFO"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/6baSCJVaZheBa1F9fUuP8E"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Terus Hidup",
         "url": "https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "SUNYI",
         "url": "https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/1UBbda9fmOcaOCkWgKK7bz"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Bukan Dengan Kita",
         "url": "https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Tak Kan Hilang",
         "url": "https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja",
         "url": "https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Dinda",
         "url": "https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "KUDRAT",
         "url": "https://open.spotify.com/album/1ooRJcpC7LJ67yvcXTXN1v"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/7vBaqHHtNJOyxcMShuqJZL"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Masih Yuna",
         "url": "https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Muli",
         "url": "https://open.spotify.com/album/5KwnbPGbQHdnRhTXZgNIup"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/3oWjlc77uEpysJso9fYSNq"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "damai",
         "url": "https://open.spotify.com/album/33HANwlr58QfWVi771AUSk"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/105xhd7hg95C3DlEczChRU"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Levronka",
         "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/1zyYrAztUAlOHO9wHyZU0P"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Menyendiri",
         "url": "https://open.spotify.com/album/1zM8FqFBAV45IUnuhOB4ok"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/7b0SApXENfKS1hio1j2rz4"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Satu Malam Di Temasek",
         "url": "https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq"
     },
     {
-      "added_at": "2023-05-31 03:23:41",
+      "added_at": "2023-06-01 16:00:00",
       "album": {
         "name": "Rindunya Rindu",
         "url": "https://open.spotify.com/album/0FVUWzwJOrbZtX5cZgId6b"

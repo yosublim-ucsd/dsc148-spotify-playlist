@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Green Jewel",
+        "url": "https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Green Jewel",
+      "url": "https://open.spotify.com/track/443DP06PvfXbDqq9nVmtnK"
+    },
+    {
+      "album": {
         "name": "Guess Who I Saw Today (Duo Version)",
         "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
@@ -2639,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Third (Deluxe)",
+        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169642,
+      "name": "roots",
+      "url": "https://open.spotify.com/track/1YYcOpSA7Zq6fYzwDg8YqL"
+    },
+    {
+      "album": {
         "name": "Round & Round",
         "url": "https://open.spotify.com/album/1sTIeDRLjYnAOgI2Qe7nK9"
       },
@@ -3742,7 +3778,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"

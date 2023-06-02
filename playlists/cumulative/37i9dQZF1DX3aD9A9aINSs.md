@@ -4,7 +4,7 @@
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Rana Türkyılmaz
 
-721 songs - 1 day 14 hr 41 min
+722 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,8 @@
 | [Uzak](https://open.spotify.com/track/5FVtaNFO5eG6q2lfCDCoII) | [Özgül Bolat](https://open.spotify.com/artist/5UMWL8f13kCuN1ugdtyOiZ) | [Uzak](https://open.spotify.com/album/1oFWx3Jtr33hMrxvg2i6mJ) | 3:26 | 2022-05-31 | 2022-07-06 |
 | [Uzaktan Bir Tanıdık](https://open.spotify.com/track/5acEPsZJEQtO7YuMJ7zI4X) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Uzaktan Bir Tanıdık](https://open.spotify.com/album/36wZ2eCQEGaGkHmN1xukpM) | 3:42 | 2023-01-03 | 2023-02-01 |
 | [Uzay Boşluğunda](https://open.spotify.com/track/1sApQbuwPgkfkvqEuIAP9q) | [Deniz Bayoğlu](https://open.spotify.com/artist/1CpNHlG1fbnOH17T0pWDk0) | [Uzay Boşluğunda](https://open.spotify.com/album/21orw5u1Xv899jIrQ24Ner) | 2:55 | 2022-08-02 | 2022-09-07 |
-| [Uçan Halı](https://open.spotify.com/track/760VQvW7RJwkrZtr7GCs8q) | [Ezgi B](https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG) | [Uçan Halı](https://open.spotify.com/album/3Eojuhh7gd3wPOzt4zRtBd) | 2:39 | 2023-05-02 |  |
+| [Uçan Halı](https://open.spotify.com/track/5eVloLfmtZUxsN4k1iPpjy) | [Ezgi B](https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG) | [Uçan Halı](https://open.spotify.com/album/02w6vK4IXbQlMluG8JbK8y) | 2:39 | 2023-05-02 |  |
+| [Uçan Halı](https://open.spotify.com/track/760VQvW7RJwkrZtr7GCs8q) | [Ezgi B](https://open.spotify.com/artist/26or4Os1CAQQZfbmYmB4jG) | [Uçan Halı](https://open.spotify.com/album/3Eojuhh7gd3wPOzt4zRtBd) | 2:39 | 2023-05-02 | 2023-06-02 |
 | [Uçmasak da Yükseğiz](https://open.spotify.com/track/5Og2l9k8cGeYICvZOBtqnn) | [Beliz](https://open.spotify.com/artist/12QL4EXEXsPTOVjXBc8BD4) | [Uçmasak da Yükseğiz](https://open.spotify.com/album/6L41lcHkJ9UuHuN9ZkVxf2) | 2:48 | 2022-05-03 | 2022-06-01 |
 | [Uçurtma](https://open.spotify.com/track/6yQrrWB5EY40IhCF11X8Z4) | [EVA](https://open.spotify.com/artist/6VipcQoOSNsPaAkri2fohw) | [Uçurtma](https://open.spotify.com/album/6Lm5XCR46OxOgbljIa1OMq) | 2:20 | 2022-09-06 | 2022-10-05 |
 | [vanilya](https://open.spotify.com/track/3ag1PuZEmR3SAnXO8w33I3) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [vanilya](https://open.spotify.com/album/3p9yvSG7va0QmRVFH8RSwR) | 2:35 | 2022-08-02 | 2023-01-04 |

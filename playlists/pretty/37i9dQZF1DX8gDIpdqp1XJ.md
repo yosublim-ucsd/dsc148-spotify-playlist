@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,668 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,850 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 7 | [Sidetracked Soundtrack \- Unreleased Demo](https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 4:19 |
 | 8 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 |
 | 9 | [Sunset For The Dead](https://open.spotify.com/track/3E2qVqPW3FS2LXzCbss9yq) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:23 |
-| 10 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 10 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 11 | [Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:32 |
 | 12 | [Scattered Dreams](https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/0EcAO4yEQf6oqzNzjm75xh) | 3:54 |
 | 13 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 |
 | 100 | [Chasing Ghosts](https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:59 |
 
-Snapshot ID: `MCw2MjgzYzJlZGE0N2M3MThlZDNmZTRiZGU2NDhiMmRkYmVjZTBiZDkz`
+Snapshot ID: `MCxkOWM2NGU3ZjZkZWRmMjY5OWY4ODM4ZTlkNDE5OWNmOWJiYzlmYzFm`

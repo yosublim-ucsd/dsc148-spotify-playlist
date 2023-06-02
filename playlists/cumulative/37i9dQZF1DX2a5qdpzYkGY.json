@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Bishara",
+        "url": "https://open.spotify.com/album/1Kn4DCMjt3WFZN6DDSEGhU"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337586,
+      "name": "Bishara",
+      "url": "https://open.spotify.com/track/3TuJn4bY8y4Dqdz22zWypG"
+    },
+    {
+      "album": {
         "name": "Flamagra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5isX5uxyIzjzvuOwLZ1GME"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 175156,
       "name": "Cat\u00e1 Surf",
       "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
@@ -2463,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483506,
+      "name": "L\u00e1grimas Del Mar",
+      "url": "https://open.spotify.com/track/7Hn2QzqGHoVe81bMFBwVSX"
+    },
+    {
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/5Pe3WSpP2eSJHgy3yNMpRj"
       },
@@ -2896,7 +2932,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
@@ -4158,6 +4194,24 @@
       "duration_ms": 341400,
       "name": "Thomas The Fib",
       "url": "https://open.spotify.com/track/7aWDd1MdZrgOb0W2DyAKq9"
+    },
+    {
+      "album": {
+        "name": "Dismantle",
+        "url": "https://open.spotify.com/album/0Urx0JytNiBlup4qFQEzJ3"
+      },
+      "artists": [
+        {
+          "name": "The Cromagnon Band",
+          "url": "https://open.spotify.com/artist/6ciUBm4vVIvDAI03LOaqwB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330565,
+      "name": "Thunder Perfect - Album Mix",
+      "url": "https://open.spotify.com/track/5Zvf7vZgafQ0P4DarGV4dp"
     },
     {
       "album": {

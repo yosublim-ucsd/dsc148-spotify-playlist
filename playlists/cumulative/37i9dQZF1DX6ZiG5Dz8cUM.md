@@ -4,7 +4,7 @@
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-298 songs - 19 hr 17 min
+299 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2021-12-14 | 2023-05-05 |
+| [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 |  |
@@ -228,7 +229,7 @@
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-09 |  |
 | [Soon](https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 2:47 | 2021-12-14 | 2022-10-07 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-29 | 2023-03-18 |
-| [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2021-12-14 |  |
+| [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2021-12-14 | 2023-06-02 |
 | [Stardust \- Remastered](https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 6:18 | 2021-12-14 | 2022-11-18 |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 | 2023-04-21 |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2021-12-14 | 2022-08-31 |

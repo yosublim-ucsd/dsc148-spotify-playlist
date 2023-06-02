@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,338 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,479 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 45 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 |
 | 46 | [Five Feet High and Rising](https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Songs Of Our Soil](https://open.spotify.com/album/7oWFzGBweoGrFc2lxabmmP) | 1:47 |
 | 47 | [Oh Lonesome Me](https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:29 |
-| 48 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
-| 49 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
+| 48 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
+| 49 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 52 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [I Don't Hurt Anymore \- Remastered](https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo) | [Hank Snow & His Rainbow Ranch Boys](https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd) | [The Essential Hank Snow](https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR) | 2:55 |
 | 75 | [A Satisfied Mind](https://open.spotify.com/track/0L9wb8Sy398mMog38XcfND) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Essential Porter Wagoner](https://open.spotify.com/album/76ijhEyT4DEJuwoyHd5bEk) | 2:46 |
 
-Snapshot ID: `MCw3ZTMwM2QyZTU2OGE5Nzg0N2ExYzIwYmVhZTAzOTk3MTczNmJmMWQ1`
+Snapshot ID: `MCxjNjZlODQ4ZGQ5ODFlNzYyMzM1ZmIyYTJjZmU3NzliNWI0YzRiYTMz`

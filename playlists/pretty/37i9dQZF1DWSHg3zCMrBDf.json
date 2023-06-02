@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=HWz_GQu0RM2YaIyU6IMomw\">King Promise</a>  ",
-  "num_followers": 32613,
+  "num_followers": 32668,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWEzZjRlYTRhMzU2YTYzMGYxYjRiMTA3NDUxNDA4NzJjZmU2Yjhi",
+  "snapshot_id": "MCw5N2FjZjIwNGNlZjJmZjRiOTMxY2ZkMGI1MzBiZjVhODQ3NWZhZTIx",
   "tracks": [
     {
       "added_at": "2023-05-26 09:13:41",
@@ -639,7 +639,7 @@
     {
       "added_at": "2023-05-26 09:13:41",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -648,20 +648,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

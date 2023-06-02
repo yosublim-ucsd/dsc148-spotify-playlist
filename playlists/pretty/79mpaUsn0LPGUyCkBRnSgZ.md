@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 218 songs - 14 hr 7 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 217 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,6 +225,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 215 | [Dim North Star](https://open.spotify.com/track/5Wd0MQ6EwmQmUpuLs65jst) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 0:50 |
 | 216 | [Testing](https://open.spotify.com/track/5Pnq7mIrqBkedxb59iyqv7) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Oh Me Oh My](https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe) | 3:24 |
 | 217 | [Waiting For The Sun](https://open.spotify.com/track/4SzvlUfcualqndA5MyOcDe) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Hollywood Town Hall](https://open.spotify.com/album/5LepQubkRXKCki1YoEhCxH) | 4:20 |
-| 218 | [Walkman](https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:57 |
 
-Snapshot ID: `ODgyLGM1MWMzODdmNjc4YjMyZTE1NTdlYzNkY2Q4ZWU0OGQ2MGFkMzFkODY=`
+Snapshot ID: `ODgzLDdhYmM1MDdlNGFkNTJiMjlkMjIzOTUwNzVhZDU3MWZlNWFhOTQ4ZGU=`

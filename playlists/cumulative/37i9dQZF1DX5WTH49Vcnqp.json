@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love Cover: Dominic Fike",
+  "description": "Music that's hard to define but easy to love Cover: The Last Dinner Party",
   "name": "Front Left",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 266614,
       "name": "2001",
       "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+    },
+    {
+      "album": {
+        "name": "2009 TOYOTA",
+        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141991,
+      "name": "2009 TOYOTA",
+      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
       "album": {
@@ -1662,6 +1680,24 @@
       "duration_ms": 153636,
       "name": "Blak Britney",
       "url": "https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY"
+    },
+    {
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "album": {
@@ -4009,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me",
         "url": "https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j"
       },
@@ -4020,7 +4074,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg"
@@ -5303,6 +5357,24 @@
     },
     {
       "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i"
+    },
+    {
+      "album": {
         "name": "Find Me",
         "url": "https://open.spotify.com/album/4Ysup03MDl4uBhcdzWcKA4"
       },
@@ -6222,7 +6294,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
@@ -12119,6 +12191,24 @@
     },
     {
       "album": {
+        "name": "Pets and Drugs",
+        "url": "https://open.spotify.com/album/0a19vxCEadBJNSysmQUKjU"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181183,
+      "name": "Pets and Drugs",
+      "url": "https://open.spotify.com/track/2OsegEPsE0MtkHtqGmZYcx"
+    },
+    {
+      "album": {
         "name": "Picking Up (feat. Deb Never)",
         "url": "https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV"
       },
@@ -12705,6 +12795,24 @@
     },
     {
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207110,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW"
       },
@@ -12756,6 +12864,28 @@
       "duration_ms": 194800,
       "name": "Radio",
       "url": "https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio"
+    },
+    {
+      "album": {
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
     },
     {
       "album": {
@@ -12984,7 +13114,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 233859,
       "name": "Rhinestone 1.7.2 [2018 Export Wav] feat. Isabella Manfredi",
       "url": "https://open.spotify.com/track/06gtPF7fljlItis2PohQP0"
@@ -14276,6 +14406,24 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     },
     {
       "album": {
@@ -17714,10 +17862,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
     },
     {
       "album": {

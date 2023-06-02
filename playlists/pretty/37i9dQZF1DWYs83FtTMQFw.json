@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Metro Boomin, Nicki Minaj, Lil Uzi Vert and more",
-  "num_followers": 2225577,
+  "num_followers": 2225324,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWIzOGQ4YTljMjUxZjFkOWRlODBlYzQ5MjIwNjAxNzAxZThiOWQx",
+  "snapshot_id": "MCw3NDJiY2RjOGE5ZjVmY2Q2NWU0OGYyNTFjM2VmNWQwYzNmMGU2MTJi",
   "tracks": [
     {
       "added_at": "2023-05-31 13:44:56",
@@ -55,7 +55,7 @@
     {
       "added_at": "2023-05-31 13:44:56",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -64,20 +64,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {

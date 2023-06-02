@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 46442,
+  "num_followers": 46578,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmFkZGNjZGI0ZDU5NGZhOTEyZjZiNWYwMGIwZmNiZWJjNDg2YzA2",
+  "snapshot_id": "MCwxOTI4NTEzYWZlYjY0ZDEwNmMyNTlkOGNmMGU0Y2M4NGE1NzYyMzQz",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
       },
@@ -695,6 +679,38 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 166112,
+      "name": "La Feria de San Marcos",
+      "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "Diego Herrera y Sus Amigos - Puras de Caballos",
         "url": "https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 274000,
       "name": "Oak Tree Special",
       "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 166112,
-      "name": "La Feria de San Marcos",
-      "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -799,6 +799,38 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 131291,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
         "name": "Corridos De Caballos Famosos",
         "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
@@ -815,18 +847,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+        "name": "One Dashing Eagle",
+        "url": "https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
+      "duration_ms": 224130,
+      "name": "One Dashing Eagle",
+      "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -851,34 +883,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 131291,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/1eKCq3MBykT0Z2vDn143Nt"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "One Dashing Eagle",
-        "url": "https://open.spotify.com/album/5jLznbo1EblcTlUEkQqAhi"
-      },
-      "artists": [
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
-        }
-      ],
-      "duration_ms": 224130,
-      "name": "One Dashing Eagle",
-      "url": "https://open.spotify.com/track/0El8rlVpDcjlWqt6ayrBLU"
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 164821,
-      "name": "Caballo R-15 - En Vivo",
-      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Corridos De Caballos",
         "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
       },
@@ -963,34 +963,34 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Los Viejitos",
-        "url": "https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx"
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 200281,
-      "name": "Yegua Sebruna",
-      "url": "https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD"
+      "duration_ms": 164821,
+      "name": "Caballo R-15 - En Vivo",
+      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+      "duration_ms": 191961,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -1015,18 +1015,34 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 191961,
-      "name": "El Rengo del Gallo Giro",
-      "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Los Viejitos",
+        "url": "https://open.spotify.com/album/5FuC4XGFsNQZXUf84B3jGx"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Yegua Sebruna",
+      "url": "https://open.spotify.com/track/2TPR91U0kO62ZXei7JYSRD"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "El Texano y el Machete",
-      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "El Caballo Robado",
         "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
@@ -1103,50 +1103,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "El Puente Roto",
-        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Caballos de la Cordada",
-      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
-      },
-      "artists": [
-        {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
+      "duration_ms": 199613,
+      "name": "El Texano y el Machete",
+      "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -1163,6 +1131,38 @@
       "duration_ms": 187324,
       "name": "El Cantador",
       "url": "https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "El Puente Roto",
+        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Caballos de la Cordada",
+      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+      },
+      "artists": [
+        {
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
     },
     {
       "added_at": "2023-05-03 18:57:46",

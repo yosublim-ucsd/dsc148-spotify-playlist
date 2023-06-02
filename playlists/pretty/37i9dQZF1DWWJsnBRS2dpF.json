@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 25920,
+  "num_followers": 26010,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhmYjM5ZmY1ZWNmMjlhODcyZjI0NWJmYTgwMzUzZjEzNTg1MDcy",
+  "snapshot_id": "MCwyMDRlNGRhYmVlMjY3NGJlMzU0MTY5NGNjOWJhNjE5N2RlMmI1NzFi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Don\u2019t Stop (feat. Young Thug)",
-        "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 187940,
-      "name": "Don\u2019t Stop (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 257133,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Don\u2019t Stop (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "Don\u2019t Stop (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
     },
     {
       "added_at": "2022-10-01 16:21:24",

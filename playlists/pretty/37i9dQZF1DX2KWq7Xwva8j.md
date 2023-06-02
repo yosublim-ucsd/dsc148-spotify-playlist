@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Marta Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,961 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,972 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 28 | [Desastre de persona](https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Desastre de persona](https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo) | 2:53 |
 | 29 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 30 | [por qué vuelvo a quererte?](https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [por qué vuelvo a quererte?](https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL) | 2:46 |
-| 31 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
-| 32 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
-| 33 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
+| 31 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 |
+| 32 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
+| 33 | [Del cielo](https://open.spotify.com/track/038sx40baI928rvHqvwlyC) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Del cielo](https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr) | 3:10 |
 | 34 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
 | 35 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
 | 36 | [No Me Salves](https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [No Me Salves](https://open.spotify.com/album/3fFodInCmkqeErsA3w551s) | 3:52 |
 | 37 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
-| 38 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
-| 39 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
+| 38 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
+| 39 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
 | 40 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 41 | [Entre Tú y Yo](https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [Entre Tú y Yo](https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva) | 3:19 |
 | 42 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 50 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 
-Snapshot ID: `MCw5MjBmYWFmYjZmODBlNzljNWFmMzA4MzMwZDg2MTY2MWIzYTM0MTMy`
+Snapshot ID: `MCwxZmE3MGMwNmEzMzdmMWI1NzIyNzA3NTRmNzVhMGFkNWU5ZDBkMzc1`

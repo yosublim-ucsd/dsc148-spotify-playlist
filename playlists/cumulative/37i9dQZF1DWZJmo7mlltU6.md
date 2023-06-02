@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez.
 
-683 songs - 1 day 13 hr 24 min
+684 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,8 @@
 | [silver lining](https://open.spotify.com/track/3xCPbU9pp6QEsrqZwtYo0f) | [butasaku](https://open.spotify.com/artist/3itc9Lruuec9w2zGbFpBxU), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [forms](https://open.spotify.com/album/6P1iGFKzc6r0n2nQMw0D7a) | 4:29 | 2022-04-01 | 2022-07-23 |
 | [Sleep Baby](https://open.spotify.com/track/0CNqOVBbNDAcWlyTaFgonI) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Sleep Baby](https://open.spotify.com/album/42y5EufFsZNa2nmCMwjajk) | 2:38 | 2022-10-28 | 2023-03-18 |
 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 | 2022-08-26 | 2022-11-26 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-19 |  |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-11 | 2022-07-02 |
 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 | 2022-03-18 | 2022-05-12 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-06-10 | 2022-09-24 |

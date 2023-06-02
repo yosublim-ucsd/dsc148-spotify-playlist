@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,419 likes - 130 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,557 likes - 130 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 129 | [Shimmer](https://open.spotify.com/track/6eAKFdFLyy5Pkj1DUaZJD4) | [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Shimmer](https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean) | 2:24 |
 | 130 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
 
-Snapshot ID: `MCw0Mjk5OWU3OWUxOTdlMmMxMjIzNWFlYzI5ZWIzMWM2ZjUyNDAxNjhh`
+Snapshot ID: `MCw5MjZiMzIxOGVkNDE0Yzc2ZDcyNDFkZmMzYTU4ZWRjMmUxMWQzOGUx`

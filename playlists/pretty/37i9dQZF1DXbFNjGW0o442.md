@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,384 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,387 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 34 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
 | 35 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
 | 36 | [Bolero Falaz](https://open.spotify.com/track/50qbVfHyBNEHImuPvgFEqM) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Dopelganga](https://open.spotify.com/album/5wmgB8aeeGSeRwWkFYSxwl) | 4:05 |
-| 37 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
-| 38 | [Miedo a Caer](https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Ruido Rosa](https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0) | 3:05 |
+| 37 | [Miedo a Caer](https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5) | [Ruido Rosa](https://open.spotify.com/artist/4IeONiRUOE25VxShujSFuE) | [Ruido Rosa](https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0) | 3:05 |
+| 38 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
 | 39 | [Mi Playa](https://open.spotify.com/track/3C8l5qDzec8poDxsCUIZXp) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Singles](https://open.spotify.com/album/106XzTHi11oscO7mlXmqKg) | 3:42 |
 | 40 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
 | 41 | [Quedate](https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:13 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 48 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
 | 49 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
 | 50 | [En la Frente](https://open.spotify.com/track/301FbBvHswuh1YLtmWNwQh) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:14 |
-| 51 | [Excursiones](https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:14 |
-| 52 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 |
-| 53 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
+| 51 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
+| 52 | [Excursiones](https://open.spotify.com/track/6jlKcy0Rke6iGvAjRW32IU) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 4:14 |
+| 53 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 |
 | 54 | [Lobo](https://open.spotify.com/track/6EPUMzPlw1YN4kAS70ZGG3) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/0UROaOt7Si4YueNp1gVnDg) | 3:28 |
 | 55 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
 | 56 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 79 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
 | 80 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
 | 81 | [Eras](https://open.spotify.com/track/037RKV3MIa0h2qHDZUR79x) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Wed 21](https://open.spotify.com/album/5kPgL6cR1ks9ElKafo4nD7) | 4:24 |
-| 82 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 |
-| 83 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 |
+| 82 | [Dibujo un Corazón](https://open.spotify.com/track/3MYyanjnZPzyEMWT9DuhII) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Allá en la Tierra](https://open.spotify.com/album/6d5HzBPGmyjgZLjCs99IIn) | 3:59 |
+| 83 | [give/UP](https://open.spotify.com/track/3VjCRe4un6MDLH5Bt1CqLh) | [Le Butcherettes](https://open.spotify.com/artist/1d7CbKqK4lFpKyU442bZC6) | [bi/MENTAL](https://open.spotify.com/album/3XuJE4Y50tva93lL4uxfle) | 3:40 |
 | 84 | [Adentro](https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j) | [Sugar Tampaxxx](https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY) | [Adentro](https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv) | 2:26 |
 | 85 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
 | 86 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 92 | [Mujer Contra Mujer](https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk) | [Sandra Y Celeste](https://open.spotify.com/artist/6kLo0pXyAJMfZcQvCEqD0H) | [Mujer Contra Mujer](https://open.spotify.com/album/2AeWM05mo2RBHxHH3HxulX) | 3:49 |
 | 93 | [Preguntame](https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx) | 3:24 |
 | 94 | [Mujeres](https://open.spotify.com/track/2wVZPxC1lrkix7RGHhUzkA) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Dectectives](https://open.spotify.com/album/4OCganNLdrhUcEgG5Hkcjx) | 3:34 |
-| 95 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
-| 96 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 |
+| 95 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 |
+| 96 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
 | 97 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 |
-| 98 | [La Flecha Envenenada](https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [La Flecha Envenenada](https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx) | 4:08 |
-| 99 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 |
-| 100 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
+| 98 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
+| 99 | [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 |
+| 100 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 |
 
-Snapshot ID: `MCxiMDdhZjc4YjM1MTU3Y2VjODExNzFkNTFjN2I2YTQxMWMyNzk3YjAx`
+Snapshot ID: `MCw0MzgxNzhhOGRkYTRlMTY4ODI1NzRjZGQyNjNmMjg5YTkxMWEwYzU2`

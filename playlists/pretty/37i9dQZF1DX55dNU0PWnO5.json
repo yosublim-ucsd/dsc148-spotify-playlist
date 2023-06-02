@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 553563,
+  "num_followers": 553622,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmIyMWM1NDQwOGQ3NzcwOGEyOTc4ODk3NDFmNjNlZjI4NWQ5OTA5",
+  "snapshot_id": "MCw5ZTM2Y2NlMWY5NGNmYjYwOWIzZGM0ZDUxZGQwN2YxYTI2M2E0ODI1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Half-Bloom",
-        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
-      },
-      "artists": [
-        {
-          "name": "Asta Hiroki",
-          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Half-Bloom",
-      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
-    },
-    {
       "added_at": "2022-07-05 15:03:47",
       "album": {
         "name": "By Your Side",
@@ -635,6 +619,22 @@
       "duration_ms": 170336,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Half-Bloom",
+        "url": "https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5"
+      },
+      "artists": [
+        {
+          "name": "Asta Hiroki",
+          "url": "https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Half-Bloom",
+      "url": "https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -849,6 +849,26 @@
       "url": "https://open.spotify.com/track/7wiolaEKwMpf1buxKaDUhA"
     },
     {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Cruiserweight",
+        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
+      },
+      "artists": [
+        {
+          "name": "Marcus Alan Ward",
+          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
+        },
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 131006,
+      "name": "Lift Off For AJ",
+      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
+    },
+    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "Vacuum Lessons",
@@ -879,26 +899,6 @@
       "duration_ms": 183894,
       "name": "Vacuum Lessons",
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
-    },
-    {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/708Vmp9rYSKjCsUl4qWL2j"
-      },
-      "artists": [
-        {
-          "name": "Marcus Alan Ward",
-          "url": "https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 131006,
-      "name": "Lift Off For AJ",
-      "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -953,6 +953,30 @@
       "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
     },
     {
+      "added_at": "2022-06-17 04:01:00",
+      "album": {
+        "name": "Aso EP",
+        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Cem Mo",
+          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "duration_ms": 208456,
+      "name": "Jim Bell",
+      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "The Path",
@@ -995,30 +1019,6 @@
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Aso EP",
-        "url": "https://open.spotify.com/album/76D0AJuesmkBSxCU5e9P0U"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Cem Mo",
-          "url": "https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS"
-        },
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        }
-      ],
-      "duration_ms": 208456,
-      "name": "Jim Bell",
-      "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
+    },
+    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Panspermia",
@@ -1309,6 +1325,42 @@
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
     },
     {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Tin Tin Deo (NerdStar Remix)",
+        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "NerdStar",
+          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
+        }
+      ],
+      "duration_ms": 202900,
+      "name": "Tin Tin Deo - NerdStar Remix",
+      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Altered Time",
@@ -1327,30 +1379,6 @@
       "duration_ms": 130000,
       "name": "Altered Time",
       "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Phoenix & Panther",
-        "url": "https://open.spotify.com/album/24xFSjfuzWfu6rrENgmzO5"
-      },
-      "artists": [
-        {
-          "name": "TRIBEZ.",
-          "url": "https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 239373,
-      "name": "Phoenix & Panther",
-      "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1393,40 +1421,28 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
+      "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Tin Tin Deo (NerdStar Remix)",
-        "url": "https://open.spotify.com/album/1yz4dzReaybBDpWc4E0Yzy"
+        "name": "Phoenix & Panther",
+        "url": "https://open.spotify.com/album/24xFSjfuzWfu6rrENgmzO5"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "TRIBEZ.",
+          "url": "https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8"
         },
         {
-          "name": "NerdStar",
-          "url": "https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw"
-        }
-      ],
-      "duration_ms": 202900,
-      "name": "Tin Tin Deo - NerdStar Remix",
-      "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
-      },
-      "artists": [
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        },
         {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
         }
       ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
+      "duration_ms": 239373,
+      "name": "Phoenix & Panther",
+      "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
       "added_at": "2022-02-11 19:25:22",
@@ -1445,20 +1461,20 @@
       "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
+      "added_at": "2021-02-26 00:47:37",
       "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
       },
       "artists": [
         {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
-    },
-    {
-      "added_at": "2021-02-26 00:47:37",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-08-08 13:44:11",
@@ -1513,20 +1513,24 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Above Us",
-        "url": "https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa"
+        "name": "Peaks (Remixed)",
+        "url": "https://open.spotify.com/album/5pYrtC0MRa8XVNQX6UlbOr"
       },
       "artists": [
         {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Above Us",
-      "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
+      "duration_ms": 310573,
+      "name": "When We Could Dance Together - Sampology Remix",
+      "url": "https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp"
     }
   ],
   "unique_name": "Jazztronica",

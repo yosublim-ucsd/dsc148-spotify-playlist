@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,229 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,545 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [u\. \(silent boy remix\)](https://open.spotify.com/track/2kWGVs653dDld8TlQAJttN) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u\. \(silent boy remix\)](https://open.spotify.com/album/1ljgLkdNp9oDBSqGNnOjBm) | 3:08 |
 | 100 | [NECTA\_ \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 |
 
-Snapshot ID: `MCw5MTNiYjhhOGU5ZjU2YmY1MDY2YTA2NzEzYWQ3Mjg1Y2NmYmE4ZWU0`
+Snapshot ID: `MCwyYzVlY2YzNGIxYjM5N2I5NDkxZGI2NjdjMjMwODBjOTkwZDljYWMx`

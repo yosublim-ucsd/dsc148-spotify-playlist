@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-467 songs - 1 day 13 hr 12 min
+468 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 | 2022-04-16 |  |
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
-| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 |  |
+| [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2023-06-02 |
 | [GREEN](https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:14 | 2022-03-31 |  |
 | [Green Forest](https://open.spotify.com/track/7ESmedpTzQIkdiTx5Acb8M) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/0N6Hbp6NMr8rzg3PrhePRg) | 4:24 | 2022-06-07 | 2022-07-29 |
 | [Green Forest](https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO) | [Raura](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN), [RAURA EMMA SUZUKI](https://open.spotify.com/artist/1YyLGpkRSXVOhkg2FrkC4b), [ART AND MUSIC](https://open.spotify.com/artist/2rzGYD6phmeSbArsZSvzSq) | [Green Forest](https://open.spotify.com/album/2hka3joHLRIvJOYQxdXD5O) | 4:24 | 2022-07-28 | 2022-11-18 |
@@ -240,6 +240,7 @@
 | [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 | 2022-09-04 |
 | [Millefeuille](https://open.spotify.com/track/2GlAWOVruoh0tvj99RIYrO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:01 | 2022-03-31 | 2022-07-28 |
 | [minamo](https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [minamo](https://open.spotify.com/album/3tC4jQiF2Lga3NFX8YonKf) | 2:40 | 2023-04-06 | 2023-04-21 |
+| [Misunderstood](https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH) | 5:44 | 2023-06-01 |  |
 | [Miyukinohama \(Day\)](https://open.spotify.com/track/1wm8v8VZPSiGncUxclG7Pr) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Private Cottage](https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF) | 6:56 | 2022-03-31 | 2022-04-17 |
 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 | 2022-07-28 | 2022-10-02 |
 | [Mkwaju](https://open.spotify.com/track/6EXxt6R2ziKNUeClSiLg1L) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/2PeTfaXfMczJeduhKAMsZV) | 6:28 | 2022-03-31 | 2022-04-19 |

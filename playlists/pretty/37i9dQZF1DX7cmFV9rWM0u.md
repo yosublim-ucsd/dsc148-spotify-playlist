@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.Dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,311 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,865,412 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 35 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
 | 36 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 |
 | 37 | [LOS APARATOS](https://open.spotify.com/track/4SSbtLDkepeOHAckM1FCBP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [LOS APARATOS](https://open.spotify.com/album/4l8c1V5208sGn5IkInMzUi) | 3:52 |
-| 38 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
-| 39 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 |
+| 38 | [Muévelo](https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Muévelo](https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG) | 3:14 |
+| 39 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 40 | [Que Tire Pa Lante](https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Que Tire Pa Lante](https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t) | 3:30 |
 | 41 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 |
 | 42 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 64 | [Tiempo](https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tiempo](https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ) | 2:51 |
 | 65 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 |
 
-Snapshot ID: `MCw2YTQ5NGU5YWQzYWFhMGQ2ZjY0MGU2M2I5M2ZlMGFmZDRiYjljNWI2`
+Snapshot ID: `MCwxY2Q4Y2IyMTY2N2M2ODA2MDE2ZDEwYjkxODI3NmI1Nzk4NTQ0NzJi`

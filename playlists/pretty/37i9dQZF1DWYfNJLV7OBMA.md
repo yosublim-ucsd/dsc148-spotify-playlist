@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,834 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,848 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 34 | [Handa Allanna Aasa Gamana](https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1) | [WAYO](https://open.spotify.com/artist/4FxhFEHyjxhdm3C8vAq0wV) | [Handa Allanna Aasa Gamana](https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix) | 4:25 |
 | 35 | [Sandaganawa](https://open.spotify.com/track/6u9Gj1nB4YXGARh1DedClj) | [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs) | [Sandaganawa](https://open.spotify.com/album/0nP20eooA9ifW0qNcaDAaS) | 3:56 |
 | 36 | [Hade Upan Lande](https://open.spotify.com/track/38cgta810Jq6DQbPK1q0nU) | [Dinusha Chathuranga](https://open.spotify.com/artist/4S9CK2n2WypliMLphh4GYB), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod) | [Hade Upan Lande](https://open.spotify.com/album/3vcRlZNbQZRq9IhyiD0lDf) | 3:02 |
-| 37 | [Pahasara obe adare](https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj) | [Centigradz](https://open.spotify.com/artist/28zBYEZiaeaXnTOhAHy1QQ) | [Jock Jam](https://open.spotify.com/album/1boj6wwgjLIpKlbwY6Rc6x) | 3:26 |
+| 37 | [Pahasara obe adare](https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj) | [Centigradz](https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse) | [Jock Jam](https://open.spotify.com/album/1boj6wwgjLIpKlbwY6Rc6x) | 3:26 |
 | 38 | [Adharema Geethayak](https://open.spotify.com/track/46VimbcJgReDr9shAcyVJ3) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Kasun Kalhara](https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9) | [Adharema Geethayak \- Single](https://open.spotify.com/album/0PG9iipAVPaTyGGrYgQTyz) | 3:16 |
 | 39 | [Kanda Gena](https://open.spotify.com/track/5ac6xOh6mzjGZTKalirBjP) | [Chanuka Mora](https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl), [Shavindya Kariyawasam](https://open.spotify.com/artist/0xW7XKb8ysmQAj6OrpcHve) | [Kanda Gena](https://open.spotify.com/album/2J5xmYoBVwg0S7qE56dsgk) | 3:44 |
 | 40 | [Hinawenna Beri Tharamata](https://open.spotify.com/track/46K9BAyCI1fxoTKfFIL18s) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Dammika Edirisinghe](https://open.spotify.com/artist/5sJJMhb0y5ndWJ9v7QpTbx), [Uresha Ravihari](https://open.spotify.com/artist/5T4mymgJStVIyosEmFreK1) | [Hinawenna Beri Tharamata](https://open.spotify.com/album/1iiNAMae8E53h5zUpupSW7) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Priyawee](https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz) | [Piyath Rajapaksha](https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS) | [Priyawee \- Single](https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS) | 3:48 |
 | 100 | [Nurawee](https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs) | [Sandeep Jayalath](https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t) | [Nurawee](https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs) | 3:51 |
 
-Snapshot ID: `MCwyM2Y3MzBiNzQ3ZDkyN2NlMmYwNmMwYTliM2NhMTIwZGIxMTcxYzY5`
+Snapshot ID: `MCwyNGM0ZDFhYmQxNTMzNjA4ZmE5OWYxNThiZGEzZGQ5ZGExNDcwYThi`

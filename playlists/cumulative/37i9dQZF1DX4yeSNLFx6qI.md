@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-205 songs - 11 hr 57 min
+206 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 | 2021-12-06 |  |
 | [Bandera Blanca](https://open.spotify.com/track/15jOcOIjMrz773VgVUoMXb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Bandera Blanca](https://open.spotify.com/album/0CBLPf9fwBJYaEM159vk48) | 3:30 | 2021-12-06 | 2022-07-29 |
 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 | 2022-05-19 |  |
+| [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 | 2023-06-01 |  |
 | [Capítulos](https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Impulso](https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2) | 3:24 | 2021-12-06 | 2023-01-07 |
 | [Cerca Del Sol](https://open.spotify.com/track/35xgda7YzPYtn57d0jShNI) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Cerca Del Sol](https://open.spotify.com/album/0njzhgt3tYtrnFmeyIGmoN) | 2:14 | 2021-12-06 | 2022-07-18 |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2021-12-06 |  |
 | [Complicado](https://open.spotify.com/track/41nkvQRQEdwl7xXV6SOLEQ) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Complicado](https://open.spotify.com/album/1ah2JVpqSNdjezgxYgmQlC) | 3:01 | 2021-12-06 | 2022-11-13 |
 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 | 2021-12-06 |  |
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2021-12-06 |  |
-| [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 | 2021-12-06 |  |
+| [Corazón descalzo](https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Corazón descalzo](https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj) | 4:14 | 2021-12-06 | 2023-06-02 |
 | [Corazón Sin Vida](https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Corazón Sin Vida](https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO) | 3:01 | 2021-12-06 |  |
 | [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 | 2021-12-06 |  |
 | [Cuando Decidas Amar](https://open.spotify.com/track/2wPIX2kegXNe5kH0ZRGV64) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Cuando Decidas Amar](https://open.spotify.com/album/47SaVnXOAeNeVOX3tadgp0) | 3:03 | 2021-12-06 | 2022-07-23 |

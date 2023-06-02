@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,065 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,066 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 43 | [CLICK](https://open.spotify.com/track/3qBsB9mOSkL1tbx1E6Uu2i) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [CLICK](https://open.spotify.com/album/5BjwDpBH9zLyjoeysQVDON) | 3:38 |
 | 44 | [Adieu Tristesse](https://open.spotify.com/track/4vDZNA7oy26cMtjMir1LAy) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Adieu Tristesse](https://open.spotify.com/album/48EYNhLry7GJJGbnZCsUgX) | 2:46 |
 | 45 | [J'baraude](https://open.spotify.com/track/4DEKg0f26WlrK1dskYd9Nq) | [LaKyshta](https://open.spotify.com/artist/3vHGvPrLs0j6CDgNkzwcxO) | [J'baraude](https://open.spotify.com/album/1tNylA3eMsEv8tqPOoP4fW) | 2:49 |
-| 46 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 |
+| 46 | [QLT 离开地球](https://open.spotify.com/track/0suAbipq2KSYp3GyrGb5p5) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT 离开地球](https://open.spotify.com/album/47pU7zpurNOoVEhxdhsCnd) | 2:37 |
 | 47 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 |
 | 48 | [game over](https://open.spotify.com/track/5giEe3TDM0SdK0Smt24G7o) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [game over](https://open.spotify.com/album/5cES1tjWAZHcz4YFESWDGL) | 2:23 |
 | 49 | [Pas Pareil](https://open.spotify.com/track/6kgPzslcxPM94SR08j2nZ6) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Pas Pareil](https://open.spotify.com/album/2LkLTnCZHBsIjB5dZTTWYs) | 3:41 |
 | 50 | [Love me or leave me](https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 3:14 |
 
-Snapshot ID: `MCxjNWQ5NGU3MzU4NDk2Y2RjMDQ0OTVjODQ0OGNmMzE5NmM4ODU2OTAy`
+Snapshot ID: `MCxlNmM1NGE3NjY5N2E3ZWY2ODI3MjFiNDkyMGU1MTI2ZmYxM2MzMzgw`

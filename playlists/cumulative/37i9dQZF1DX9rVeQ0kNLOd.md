@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-180 songs - 11 hr 7 min
+181 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [あめ](https://open.spotify.com/track/3krw9tEZvkPK2EIxgDSohn) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/0SvQEjDT5o6DNKNXmTRhEK) | 2:46 | 2023-05-31 | 2023-06-01 |
 | [あめ](https://open.spotify.com/track/4VHXcXKWES6vfhohsfpnnu) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/6Ei7G3UVp3acGkrTt4IZJG) | 2:46 | 2023-05-31 |  |
 | [いのり](https://open.spotify.com/track/5Ghfkd9z1Mq4CHY5wJCP77) | [yr](https://open.spotify.com/artist/3iyYNppMxdrMaND8VaXdxO) | [いのり](https://open.spotify.com/album/1o5xWVczspUHRS1F8bE6dm) | 2:38 | 2022-10-20 | 2022-11-09 |
+| [おめかし](https://open.spotify.com/track/2kwqvhBbVHjDatHM9sMFWD) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [おめかし](https://open.spotify.com/album/5AMeHgFVp1H9iv2e7xYH48) | 3:31 | 2023-06-01 |  |
 | [きもち](https://open.spotify.com/track/5qTJ5H5Lzyr3x0ZYtnl1dr) | [カルロスまーちゃん](https://open.spotify.com/artist/2E9kXGdygdyQYPY9b24uRc), [FANCY](https://open.spotify.com/artist/4Oe4otAIIYhl48TwtKQ0l9) | [きもち](https://open.spotify.com/album/6uwVI771DDgLyb7EUiICjU) | 3:45 | 2022-12-22 | 2023-02-15 |
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-03-14 | 2023-04-05 |
 | [これだけで十分なのに \- \(BASI REMIX\)](https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd) | [BASI](https://open.spotify.com/artist/35WaRsrLTXoHhL5b9uI3Mq) | [切愛](https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf) | 3:43 | 2022-10-20 | 2023-04-15 |
@@ -170,7 +171,7 @@
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-25 | 2022-11-17 |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-20 | 2022-10-26 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-25 |
-| [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 | 2022-10-20 |  |
+| [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 | 2022-10-20 | 2023-06-02 |
 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 | 2022-10-20 | 2023-05-31 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-10-20 | 2023-03-25 |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-03-25 |  |

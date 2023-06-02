@@ -4,7 +4,7 @@
 
 > it's never too early.
 
-241 songs - 13 hr 2 min
+242 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-07-18 |  |
 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 | 2023-02-17 |  |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-07-08 | 2022-12-31 |
-| [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2022-08-08 |  |
+| [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2022-08-08 | 2023-06-02 |
 | [La Pasamos CXBRXN](https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 3:48 | 2023-01-18 | 2023-02-18 |
 | [La Peli](https://open.spotify.com/track/7w02E3rFXuEZ1kHstJei6w) | [Sofia Delfino](https://open.spotify.com/artist/11fsAXlakhmo0Mc29073Ud) | [La Peli](https://open.spotify.com/album/4aOadYFXOcFPQByfBdsIny) | 2:22 | 2022-03-11 | 2022-07-09 |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2022-07-08 |  |
@@ -173,6 +173,7 @@
 | [Perder el Control](https://open.spotify.com/track/6gbFfMS5FgNMn5pix083wh) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Piek](https://open.spotify.com/artist/43nO5CZZAubCVReVSXGR13) | [Deseo](https://open.spotify.com/album/4HxKCcnwWiyzRAvXUaen2h) | 3:05 | 2021-12-24 | 2022-07-09 |
 | [Pineapple](https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:00 | 2022-07-18 | 2022-08-31 |
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-02-17 | 2022-05-11 |
+| [Podemos Repetirlo](https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Podemos Repetirlo](https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX) | 3:31 | 2023-05-26 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-07-08 | 2022-11-08 |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2021-12-24 | 2022-07-09 |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-11-21 |  |

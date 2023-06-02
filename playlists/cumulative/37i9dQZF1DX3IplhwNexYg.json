@@ -3538,7 +3538,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 198613,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
@@ -4478,6 +4478,24 @@
       "duration_ms": 162103,
       "name": "Moths",
       "url": "https://open.spotify.com/track/4Qq9DfuAHCqoUNX8y4vxNK"
+    },
+    {
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/2A7q35abUPSP7EDjB2pUUM"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231885,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/23HUA2EDfmncWA0tuezbOU"
     },
     {
       "album": {
@@ -7550,10 +7568,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
+    },
+    {
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
     },
     {
       "album": {

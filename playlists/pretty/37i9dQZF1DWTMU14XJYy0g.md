@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Fito Paez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,009 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,159 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Nada que Perder](https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [El Modo](https://open.spotify.com/album/6R8nNkYZRPw5XeNquzkDbm) | 2:58 |
 | 100 | [Otras Puertas Otros Mundos](https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Otras Puertas Otros Mundos](https://open.spotify.com/album/2HBWXCLzuLDicoGfgksBJv) | 2:28 |
 
-Snapshot ID: `MCxiZDQ3MzI2ZmNkMzk5NWJiMGQ0NWZhNzM1MjYxMGE3NGQ4MDUwNTFl`
+Snapshot ID: `MCw1Y2M2OWRiZjcwM2Y5NWVmZGJkYzNjMjlhNTIxZjlkMzQwMzFkN2Fk`

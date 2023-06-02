@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,976 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,217 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 87 | [Asha](https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Asha](https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd) | 4:12 |
 | 88 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 |
 | 89 | [Mandala](https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR) | [Fady x Mina](https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Mandala](https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi) | 3:57 |
-| 90 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 |
-| 91 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 |
+| 90 | [Yâr \- Ezgi Sağlık Vocal Edit](https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [fidanson](https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh), [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Yâr](https://open.spotify.com/album/770XPLwAlImTgzG070HEvX) | 1:37 |
+| 91 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 |
 | 92 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 |
-| 93 | [Yâr \- Ezgi Sağlık Vocal Edit](https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [fidanson](https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh), [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Yâr](https://open.spotify.com/album/770XPLwAlImTgzG070HEvX) | 1:37 |
-| 94 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 |
-| 95 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 |
+| 93 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 |
+| 94 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 |
+| 95 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 |
 | 96 | [Beirut](https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb) | 4:20 |
-| 97 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 |
-| 98 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 |
+| 97 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 |
+| 98 | [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 |
 | 99 | [Roots](https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Roots LP](https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR) | 2:58 |
 | 100 | [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 |
 
-Snapshot ID: `MCxiZTU5ZTYwNTA3ZTg1YjJhOTIyNWZlMDA3ZjM5ZjRkMzI4NzI1NDli`
+Snapshot ID: `MCw4YjVhNTYxNzNlY2MzYjMwMjQ1NzkyMDI5MjMxMzM4MGE5YjlhOTRh`

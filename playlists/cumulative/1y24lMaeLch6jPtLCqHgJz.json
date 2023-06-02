@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Sweet Symphony",
+        "url": "https://open.spotify.com/album/5ICeZU3A6DtzBKTmjTwLY3"
+      },
+      "artists": [
+        {
+          "name": "Robin Aristo",
+          "url": "https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Sweet Symphony",
+      "url": "https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo"
+    },
+    {
+      "album": {
         "name": "Take Off",
         "url": "https://open.spotify.com/album/2MS0WDP9ydUtoQkEPokkmr"
       },

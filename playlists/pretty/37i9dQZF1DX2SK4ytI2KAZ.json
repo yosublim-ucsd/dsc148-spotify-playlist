@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 694920,
+  "num_followers": 694976,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDI0ZDJhOTA1MTU5MjI3YTlhZmI0YjZjODMxZjk0M2NhMTFkMGY1",
+  "snapshot_id": "MCwyODM3NDhhNjI1YmM5OTY2ZjQ5YzFjNzAwZjJmYTM3MDA5Y2ZhNGY3",
   "tracks": [
     {
       "added_at": "2023-05-31 15:54:42",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -743,8 +743,8 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "What Could Be Better",
-        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
-      },
-      "artists": [
-        {
-          "name": "The Happy Fits",
-          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
-        }
-      ],
-      "duration_ms": 223813,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "What Could Be Better",
+        "url": "https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1"
+      },
+      "artists": [
+        {
+          "name": "The Happy Fits",
+          "url": "https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 279691,
       "name": "Post Humorous",
       "url": "https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
-      },
-      "artists": [
-        {
-          "name": "Blondes",
-          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "Live A Little",
         "url": "https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 169573,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
       "added_at": "2023-05-31 15:54:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-05-31 15:54:42",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
@@ -1655,18 +1639,34 @@
     {
       "added_at": "2023-05-31 15:54:42",
       "album": {
-        "name": "The Heights",
-        "url": "https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
         {
-          "name": "Knox Hamilton",
-          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Pretty Way to Fight",
-      "url": "https://open.spotify.com/track/5v1HV2JJvqtQheo7xIpN1B"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-05-31 15:54:42",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 231408,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
     }
   ],
   "unique_name": "It's ALT Good!",

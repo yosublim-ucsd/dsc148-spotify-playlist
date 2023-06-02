@@ -4,7 +4,7 @@
 
 > The best of today's true alternative rock scene\. Cover: PÆRISH
 
-312 songs - 17 hr 57 min
+313 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 | 2023-05-05 |  |
 | [Moments of Clarity](https://open.spotify.com/track/4v8tVonb61TttqhDH9KoTu) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/5VVOEBLHrTaHcAo1z86anZ) | 3:50 | 2023-01-27 | 2023-05-06 |
 | [More Than Ever](https://open.spotify.com/track/4OtYFc59hseMmNKNeTYhHu) | [FEWS](https://open.spotify.com/artist/0UAwcG0xu1yFjVknsEV4mu) | [More Than Ever](https://open.spotify.com/album/66FTJhL8PSJpcfCgd2OmmW) | 3:19 | 2021-03-31 | 2022-03-01 |
-| [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 | 2023-01-27 |  |
+| [More Than This](https://open.spotify.com/track/1F3VhVtaMqUqKhXdpA3itF) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/4xENjLbcy7IdEHA3JQzYRx) | 3:02 | 2023-01-27 | 2023-06-02 |
+| [More Than This](https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:02 | 2023-05-19 |  |
 | [Mother \- Single Version](https://open.spotify.com/track/2IHxrbIAQB5sRZTGYvEd01) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Mother](https://open.spotify.com/album/2c7XK3szugi5FXXyULDCc2) | 5:05 | 2021-03-31 |  |
 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 | 2023-05-05 |  |
 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 | 2022-04-29 | 2023-01-28 |

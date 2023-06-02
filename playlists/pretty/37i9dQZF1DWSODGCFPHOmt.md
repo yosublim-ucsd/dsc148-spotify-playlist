@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,757 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,756 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 41 | [Ritmo Navideño](https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amante De Lo Bueno](https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo) | 3:04 |
 | 42 | [Cada Diciembre](https://open.spotify.com/track/06jpTiHUJBpgXaiPvrFMLE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 2:37 |
 | 43 | [Se Acerca Navidad](https://open.spotify.com/track/4oIOVr3cyCifzh2JjZz7ij) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Se Acerca Navidad](https://open.spotify.com/album/2QiB21MebHavoBRcGnGJeF) | 3:02 |
-| 44 | [El Año Viejo](https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [El Año Viejo](https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I) | 2:52 |
-| 45 | [La Navidad De Los Pobres](https://open.spotify.com/track/5GkB3R0au66r1qZY2LBRyx) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 4:16 |
+| 44 | [La Navidad De Los Pobres](https://open.spotify.com/track/5GkB3R0au66r1qZY2LBRyx) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 4:16 |
+| 45 | [El Año Viejo](https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [El Año Viejo](https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I) | 2:52 |
 | 46 | [Feliz Navidad](https://open.spotify.com/track/3rLAEFEQyNq0I9BFq4P3XG) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/0E0PV5nu1RPCHwxAyIqvWx) | 3:02 |
 | 47 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 |
 | 48 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:00 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 73 | [Otra Navidad Sin Ti](https://open.spotify.com/track/3aKeyoA3J0v9c57GMHjKAU) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Otra Navidad Sin Ti](https://open.spotify.com/album/7m8nA9UrbK98aYcNFLDFzJ) | 3:10 |
 | 74 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
 | 75 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
-| 76 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
-| 77 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 |
-| 78 | [Blanca Navidad](https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Blanca Navidad](https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC) | 3:07 |
+| 76 | [Blanca Navidad](https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Blanca Navidad](https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC) | 3:07 |
+| 77 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
+| 78 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 |
 | 79 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
 | 80 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 
-Snapshot ID: `MCwyOTc1ZDEyNWUzNmU3OGZjZTRiZDRiZTJkOGJlMzFhMTgyN2MzNTRl`
+Snapshot ID: `MCw3MGI1MGY0ZTFhNThmMjJiMWMzZTg2ODY5MWZkOTlmMzlmNjM0Nzg4`

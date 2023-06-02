@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 26774,
+  "num_followers": 26780,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWIwNjE2ODFhN2E0ZGM3Mzc5ODQwY2U3ZTgxZTMwZGMwMzlhZjgx",
+  "snapshot_id": "MCwyYjI4ZTQ2N2ZjZWQwM2RjNDhjNTQzYWQ1MjVlMWI3OTMxYzk3NWUy",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
-        "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
-      },
-      "artists": [
-        {
-          "name": "Djakout Mizik",
-          "url": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
-        }
-      ],
-      "duration_ms": 394031,
-      "name": "Biznis pam",
-      "url": "https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Pa kite'm (Djazz Dj'aa)",
         "url": "https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 335699,
       "name": "Pa kite'm - Djazz Dj'aa",
       "url": "https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Zouk soir\u00e9e priv\u00e9e (Danse avec moi)",
+        "url": "https://open.spotify.com/album/0Y0PGUE8JK9gE83cy1uNRR"
+      },
+      "artists": [
+        {
+          "name": "Djakout Mizik",
+          "url": "https://open.spotify.com/artist/6V5n3LkJ2sTG6PfvnSjRPe"
+        }
+      ],
+      "duration_ms": 394031,
+      "name": "Biznis pam",
+      "url": "https://open.spotify.com/track/5iMDhnh4tktnIeOCDHHgOH"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Soca 101 Vol. 4",
-        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
-      },
-      "artists": [
-        {
-          "name": "Kassav",
-          "url": "https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais"
-        }
-      ],
-      "duration_ms": 331413,
-      "name": "Zouk-La-Se Sel Medikaman Nou Ni",
-      "url": "https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 247663,
       "name": "F\u00e8 Sa W Vle Av\u00e8 M'",
       "url": "https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Soca 101 Vol. 4",
+        "url": "https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H"
+      },
+      "artists": [
+        {
+          "name": "Kassav",
+          "url": "https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais"
+        }
+      ],
+      "duration_ms": 331413,
+      "name": "Zouk-La-Se Sel Medikaman Nou Ni",
+      "url": "https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke"
     },
     {
       "added_at": "2020-06-03 18:17:45",

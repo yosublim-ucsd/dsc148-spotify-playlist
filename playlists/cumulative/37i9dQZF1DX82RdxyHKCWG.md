@@ -4,7 +4,7 @@
 
 > As novidades do pop que estão explodindo no Spotify\. ✨ Foto: Beyoncé
 
-609 songs - 1 day 7 hr 26 min
+610 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2022-10-28 | 2023-02-25 |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-06 | 2023-03-11 |
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-10 | 2022-07-15 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-05-26 |  |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-06 | 2022-09-24 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 | 2022-11-12 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-10 | 2022-10-15 |

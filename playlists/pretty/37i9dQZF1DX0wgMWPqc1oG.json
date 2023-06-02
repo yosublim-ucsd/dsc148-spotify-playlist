@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 21271,
+  "num_followers": 21294,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Q5MjdjYzA1YTkyNTkzMjIzNTEwYTdkMDMyMGNiYmIwNmU0YzAx",
+  "snapshot_id": "MCwxNTY3M2ZmYzYzYmZjNzJhMWIzZjhmYmY0YzIyY2M1YzJiNmQwMzdi",
   "tracks": [
     {
       "added_at": "2023-05-31 08:19:53",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Straight, No Chaser",
-        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 695200,
-      "name": "We See",
-      "url": "https://open.spotify.com/track/2mgAcliOOlNXdyCwhVZIQg"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
         "name": "On Impulse!",
         "url": "https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 417333,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Straight, No Chaser",
+        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 695200,
+      "name": "We See",
+      "url": "https://open.spotify.com/track/2mgAcliOOlNXdyCwhVZIQg"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 945493,
-      "name": "Search For The New Land - Remastered",
-      "url": "https://open.spotify.com/track/3adOstnpR3h59VbfGpOkhf"
+      "duration_ms": 371333,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 371333,
-      "name": "Israel",
-      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
+      "duration_ms": 945493,
+      "name": "Search For The New Land - Remastered",
+      "url": "https://open.spotify.com/track/3adOstnpR3h59VbfGpOkhf"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 523706,
-      "name": "Mr. Kenyatta - Remastered",
-      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
+      "duration_ms": 361626,
+      "name": "First Trip - Remastered",
+      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 361626,
-      "name": "First Trip - Remastered",
-      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
+      "duration_ms": 523706,
+      "name": "Mr. Kenyatta - Remastered",
+      "url": "https://open.spotify.com/track/00LTkyO7oR17To22oaKHhs"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Margot",
-      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -803,38 +787,6 @@
       "duration_ms": 481266,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
-        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "Flight 19",
-      "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
-        "name": "Mode For Joe (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 480933,
-      "name": "Mode For Joe - Remastered",
-      "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -855,6 +807,38 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Margot",
+      "url": "https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Mode For Joe (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 480933,
+      "name": "Mode For Joe - Remastered",
+      "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 504426,
       "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Point Of Departure (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "Flight 19",
+      "url": "https://open.spotify.com/track/4Ag0bpdJVnaGU9xOXOSQQ3"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 318400,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 538226,
-      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
         "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 512373,
       "name": "Little Madimba - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 538226,
+      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
+        "name": "Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 302842,
-      "name": "In The Truth",
-      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
+      "duration_ms": 971213,
+      "name": "Chasin' The Trane - Live At The Village Vanguard, 1961",
+      "url": "https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
       },
       "artists": [
         {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 971213,
-      "name": "Chasin' The Trane - Live At The Village Vanguard, 1961",
-      "url": "https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX"
+      "duration_ms": 302842,
+      "name": "In The Truth",
+      "url": "https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U"
     },
     {
       "added_at": "2023-05-31 08:19:53",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-05-31 08:19:53",
       "album": {
-        "name": "Puttin' It Together",
-        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 311826,
-      "name": "Village Greene",
-      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
-    },
-    {
-      "added_at": "2023-05-31 08:19:53",
-      "album": {
         "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 332840,
       "name": "Consequence - Remastered",
       "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
+    },
+    {
+      "added_at": "2023-05-31 08:19:53",
+      "album": {
+        "name": "Puttin' It Together",
+        "url": "https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 311826,
+      "name": "Village Greene",
+      "url": "https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X"
     },
     {
       "added_at": "2023-05-31 08:19:53",

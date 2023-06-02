@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-803 songs - 2 day 4 hr 34 min
+804 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,8 @@
 | [Heat Wave](https://open.spotify.com/track/7gkwA9D1GqsbecFEfLR1ka) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [Heat Wave](https://open.spotify.com/album/757XmHJA5ltYC7lX4oazsP) | 3:49 | 2022-06-17 | 2022-07-26 |
 | [Heaven Is A Place](https://open.spotify.com/track/5KkeyBF2tSvOkFnsJSU12p) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Heaven Is A Place](https://open.spotify.com/album/4mL87tGrk35L47qxO5CTp8) | 4:49 | 2022-11-10 | 2023-03-07 |
 | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven Surrounds Us Like a Hood](https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb) | 4:06 | 2023-03-10 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-06 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-03-06 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-06 | 2023-06-02 |
 | [Hexagonal Field](https://open.spotify.com/track/07hOwFSoMe3NFioahHgmVs) | [Julian Lynch](https://open.spotify.com/artist/5pcVPO1Dc2LkIJZuQohg9k) | [Hexagonal Field](https://open.spotify.com/album/3MtY2d3j1oJXvy1IUgT7o6) | 5:07 | 2021-04-02 | 2022-04-21 |
 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2022-10-24 | 2023-04-15 |
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-05-31 | 2022-12-26 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Llunr
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,430 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,480 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 |
-| 2 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 |
-| 3 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 |
-| 4 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 |
-| 5 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
-| 6 | [CIGARETTE](https://open.spotify.com/track/6cTnqwqOJYKo5Guf3oAQLZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [CIGARETTE](https://open.spotify.com/album/2v4NGjh9jS0T9hPofUcUD7) | 1:47 |
-| 7 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 |
+| 1 | [Nasty Remix ft Saint Levant](https://open.spotify.com/track/6ONNprntoihbrQMFkNUPlO) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nasty Remix ft Saint Levant](https://open.spotify.com/album/0RtZh2OWBGwidoGGZ221GM) | 2:50 |
+| 2 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 |
+| 3 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 |
+| 4 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
+| 5 | [CIGARETTE](https://open.spotify.com/track/6cTnqwqOJYKo5Guf3oAQLZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [CIGARETTE](https://open.spotify.com/album/2v4NGjh9jS0T9hPofUcUD7) | 1:47 |
+| 6 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 |
+| 7 | [Rocketship](https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Rocketship](https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ) | 2:36 |
 | 8 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
 | 9 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
 | 10 | [ON MY WAY](https://open.spotify.com/track/4ROX1uuhzvVlVAb1JD4QLt) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [ON MY WAY](https://open.spotify.com/album/4vuD3eA8e1R7gLCAcXC4Ut) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
 | 50 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 |
 
-Snapshot ID: `MCwzMDYwMzUzZmU0NGFhMjQzM2ExYjVhZDAwMzZlNGUxZGY3MTE5ZWVi`
+Snapshot ID: `MCw2ZTUwZjZlNGYxMTBhMGY1YWY3OTdlZDhjYjZlZjkxODRiMjAyMmMy`

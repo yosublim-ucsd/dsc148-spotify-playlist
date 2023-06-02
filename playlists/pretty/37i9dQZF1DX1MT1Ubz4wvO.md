@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Bunbury en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,369 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,382 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Tim soltó las tijeras](https://open.spotify.com/track/6hQMR17c0bbXToIQbGA2A4) | [Austero](https://open.spotify.com/artist/6JDVFtEqAZ1HuCC9FTIKsZ) | [Tim soltó las tijeras](https://open.spotify.com/album/7kfgJubhXGjQLyaMVwUEL2) | 3:31 |
 | 50 | [Y No Me Digan Nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y No Me Digan Nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 |
 
-Snapshot ID: `MCxmNTlkYjliYWQ0NGQ3MTgzYTBkZDVlOGFjZDk3ZTVjMTU5MDY3ZjYz`
+Snapshot ID: `MCwxNDQyZWVjOThiMjhkM2RhYTJmYTBlMDJlNDQ3NzgyNjhlMWQxNzg1`

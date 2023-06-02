@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: AB6IX
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,960 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,064 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 51 | [Poppy \(Korean Ver.\)](https://open.spotify.com/track/7a86ARVnm366v2UY1z9Ak8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Poppy \(Korean Ver.\)](https://open.spotify.com/album/5zjvNPacLQjzsBVDxyhuiu) | 2:58 |
 
-Snapshot ID: `MCw4OWM0ODYyN2Q5NTVlZDA2NGM2OGEzNmE4YzY3NDNmY2U3M2YzNGU1`
+Snapshot ID: `MCwyNWMwYjJiNWNjYWRmYzUxMjdhMDI3YmVmZDgzMDI4OGZiZjQ3MTUz`

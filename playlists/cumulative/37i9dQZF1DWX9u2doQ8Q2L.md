@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-760 songs - 1 day 23 hr 1 min
+761 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [One Way feat\. YONCE](https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [One Way feat\. YONCE](https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97) | 3:29 | 2022-05-26 | 2022-06-08 |
 | [One Way My Love \- Neon Mix](https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [One Way My Love \(Neon Mix\)](https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop) | 3:18 | 2022-12-24 | 2023-02-21 |
 | [Operation : Multiverse of Love](https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Return of The Sofakingdom](https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7) | 2:11 | 2022-12-06 | 2023-04-21 |
-| [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 |  |
+| [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 | 2023-06-02 |
 | [ordinary people feat\. BIM](https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ordinary people feat\. BIM](https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A) | 4:33 | 2022-07-26 | 2022-09-09 |
 | [Osanpo](https://open.spotify.com/track/63sb3C9vf5NE72EfQU8kLl) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [JUNK TAPE](https://open.spotify.com/album/3L0heHNIWNWzg8mJg2zE5O) | 2:24 | 2022-11-04 | 2022-12-07 |
 | [OTSUKARE](https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [OTSUKARE](https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1) | 3:15 | 2023-03-28 | 2023-04-05 |
@@ -376,6 +376,7 @@
 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 | 2023-03-14 |  |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 | 2023-02-15 |
 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 | 2023-01-17 | 2023-03-15 |
+| [Passione](https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Passione](https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF) | 3:52 | 2023-06-01 |  |
 | [Pearl](https://open.spotify.com/track/2m8m4d1g1bTdBRzduDnJqB) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Pearl](https://open.spotify.com/album/5385uAAUhqqZOiTkgOFSuz) | 4:01 | 2022-07-26 | 2022-09-09 |
 | [people](https://open.spotify.com/track/47hcYZ2WMLTzArFYLpvgUr) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [people](https://open.spotify.com/album/4FzOMTCyWwAfrXFtEvDzAZ) | 4:50 | 2022-07-26 | 2022-09-09 |
 | [Pills Chills Shakes \- feat\. HMLT](https://open.spotify.com/track/6dhJbmnXW1Z5OIezT06y1G) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [Pills Chills Shakes \(feat\. HMLT\)](https://open.spotify.com/album/7hggxYKML11YSLBVcOluUU) | 3:28 | 2023-03-28 | 2023-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,936 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,946 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 67 | [My Star](https://open.spotify.com/track/4R2tCloerHegAfPWjR3o7d) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/4mL2jwFMI82Uw5Vffdv35Q) | 3:06 |
 | 68 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 69 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
-| 70 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
-| 71 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
-| 72 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
-| 73 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 70 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
+| 71 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
+| 72 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 73 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
 | 74 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
 | 75 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 
-Snapshot ID: `MCw2YjE4ZmJiMWZmMjk1NzkzNzhhMzMyYTVjMWY5YmRhODVhY2E2MjA5`
+Snapshot ID: `MCw3MDdlNDNlM2ZmODY2YzMyYmIwNjNhNDMyZTY4OTRiYjJiYzFkODIz`

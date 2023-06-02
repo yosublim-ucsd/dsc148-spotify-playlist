@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8086193,
+  "num_followers": 8087021,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmIxMDZjZWI5YzQ5ODk1N2FkY2U3ZjA5OTcwMWUyMmFhMDdkZDlh",
+  "snapshot_id": "MCwyNDU1N2ViYTlkZTVmNDI1M2Q4MDk4ZTZlNTg4NWJkYWYzY2Q1ZTc0",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 205458,
-      "name": "Calling My Phone",
-      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -651,6 +631,26 @@
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205458,
+      "name": "Calling My Phone",
+      "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156091,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Remember That Night?",
         "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 156091,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 170344,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 131824,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "WYD Now?",
         "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Lonely (with benny blanco)",
-        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 149297,
-      "name": "Lonely (with benny blanco)",
-      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
       },
@@ -1819,6 +1799,22 @@
       "duration_ms": 172597,
       "name": "Lost",
       "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1839,18 +1835,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+        "name": "Lonely (with benny blanco)",
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
       "artists": [
         {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
+      "duration_ms": 149297,
+      "name": "Lonely (with benny blanco)",
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 212868,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Slide Away",
         "url": "https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 191493,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 212868,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "i don't want to watch the world end with someone else",
+        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "i don't want to watch the world end with someone else",
+      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
         "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 206733,
       "name": "Life's A Mess II (with Clever & Post Malone)",
       "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "i don't want to watch the world end with someone else",
-        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "i don't want to watch the world end with someone else",
-      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+      "duration_ms": 227749,
+      "name": "In The Kitchen",
+      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -2235,38 +2235,34 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL"
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
     },
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Eleven (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/27JROxwlU2KnOg1Kgp8Wak"
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Eleven (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
+      "duration_ms": 195093,
+      "name": "right here",
+      "url": "https://open.spotify.com/track/2Q3QRjA8MjzqpFaIkFludb"
     }
   ],
   "unique_name": "Chill Hits",

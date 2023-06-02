@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1962092,
+  "num_followers": 1962211,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzVkNzczMDUxMGZlYWQ0ZDJlZjcwYWE3NjM3OGQ0YTI3ZGMxNTE0",
+  "snapshot_id": "MCxmZTBjOGZhN2ViMTQ5ZWJmMzY1YmI1OTVmNGZlYWVlODA1OTJkYzA5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 253733,
-      "name": "I Need Never Get Old",
-      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 194813,
-      "name": "McKenzie",
-      "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
+      "duration_ms": 253733,
+      "name": "I Need Never Get Old",
+      "url": "https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 220737,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/0JfpIwZfcRwDzD6GRYzfKN"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
+      },
+      "artists": [
+        {
+          "name": "Family and Friends",
+          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
+        }
+      ],
+      "duration_ms": 207519,
+      "name": "Amadeus",
+      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Flight of the Crow",
         "url": "https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 188453,
       "name": "Shape of Love",
       "url": "https://open.spotify.com/track/6eQYZ57P28uc8caJagxYcZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf"
-      },
-      "artists": [
-        {
-          "name": "Family and Friends",
-          "url": "https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe"
-        }
-      ],
-      "duration_ms": 207519,
-      "name": "Amadeus",
-      "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Twin Forks",
         "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 170962,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nightjar and the Nightingale",
-        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 195160,
       "name": "Put It Together",
       "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Nightjar and the Nightingale",
+        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 245281,
-      "name": "Borrow Trouble",
-      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "hello my son",
         "url": "https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Mountain To Move",
-        "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 236280,
-      "name": "Mountain To Move",
-      "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
+      "duration_ms": 245281,
+      "name": "Borrow Trouble",
+      "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Mountain To Move",
+        "url": "https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "Mountain To Move",
+      "url": "https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 170915,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "What If I",
-      "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Shabang",
         "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 250962,
       "name": "Diamonds In The Snow",
       "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214213,
+      "name": "What If I",
+      "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Holy Smokes Future Jokes",
-        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 213525,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Holy Smokes Future Jokes",
+        "url": "https://open.spotify.com/album/7vmZ14hcMVtIIN9lD6JNpf"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 213525,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
     },
     {
       "added_at": "2023-05-19 04:00:00",

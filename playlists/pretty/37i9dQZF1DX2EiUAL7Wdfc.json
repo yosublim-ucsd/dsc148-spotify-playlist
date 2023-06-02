@@ -1,12 +1,12 @@
 {
   "description": "Los temas de los \u00faltimos a\u00f1os que se convertir\u00e1n en himnos.",
-  "num_followers": 363879,
+  "num_followers": 364156,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY0Nzc2MzJkZjY0NTU0MzNjNzQyMTliNWZmYjVhY2JjYmFkNDA3",
+  "snapshot_id": "MCxlYmQ4NzhlMzg2ZmIyMjk0OTIzZWRkZDAxMDc3NzE1N2RkNzBjNDg2",
   "tracks": [
     {
       "added_at": "2023-05-22 17:35:31",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-05-22 17:35:31",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2023-05-22 17:35:31",
+      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -887,26 +903,6 @@
     {
       "added_at": "2023-05-22 17:35:31",
       "album": {
-        "name": "She Don't Give a Fo",
-        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 209531,
-      "name": "She Don't Give a Fo",
-      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
-    },
-    {
-      "added_at": "2023-05-22 17:35:31",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -923,18 +919,22 @@
     {
       "added_at": "2023-05-22 17:35:31",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "She Don't Give a Fo",
+        "url": "https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
         }
       ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+      "duration_ms": 209531,
+      "name": "She Don't Give a Fo",
+      "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
     },
     {
       "added_at": "2023-05-22 17:35:31",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-05-22 17:35:31",
       "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
+    },
+    {
+      "added_at": "2023-05-22 17:35:31",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
-    },
-    {
-      "added_at": "2023-05-22 17:35:31",
-      "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
     },
     {
       "added_at": "2023-05-22 17:35:31",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2023-05-22 17:35:31",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora y Siempre",
-      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2023-05-22 17:35:31",
-      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "added_at": "2023-05-22 17:35:31",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
       "added_at": "2023-05-22 17:35:31",

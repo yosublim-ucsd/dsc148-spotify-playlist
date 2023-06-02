@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,171 likes - 79 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,231 likes - 79 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 6 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 | 7 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 |
 | 8 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 |
-| 9 | [I'd Better](https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [I'd Better](https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw) | 3:08 |
+| 9 | [I'd Better](https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC) | [I'd Better](https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw) | 3:10 |
 | 10 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
 | 11 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 12 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 74 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 |
 | 75 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
 | 76 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 77 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
+| 77 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 |
 | 78 | [Si No Eres Tú? \- Remix](https://open.spotify.com/track/5akPAaHUlKCXdGwncvMlK2) | [Rk Sensation](https://open.spotify.com/artist/2jEgUhp8qDy6EH5yZ3nadk), [Montserrat Alay](https://open.spotify.com/artist/105u1BUf8wMzV48Ju6Ixae), [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl) | [RIKII 2](https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c) | 4:24 |
 | 79 | [LQRA Session \#11](https://open.spotify.com/track/7cXBDGIVAIiedhz7WTjywb) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [LQRA Session \#11](https://open.spotify.com/album/0iqqE9b6fEhBmF6h8kd5aC) | 4:06 |
 
-Snapshot ID: `MCw2YmZhMGRkY2NiNTI2NDRmODk0ZjI2MzM1ZTc2Yzc4NDIwYTg4ZTMy`
+Snapshot ID: `MCxiMmI5OGQ3ZWU5ODJiNjgwM2M5NGJkNjc4MzNmNWZlMDFiYTg2OTBh`

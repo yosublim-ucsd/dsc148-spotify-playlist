@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 330450,
       "name": "All About U",
       "url": "https://open.spotify.com/track/4OScPKoG8L1BqcJQu7amw8"
@@ -100,6 +100,28 @@
       "duration_ms": 311066,
       "name": "All My Friends Know - Anz Remix",
       "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0rKB5EpK4CDV4qtUWa6ath"
+      },
+      "artists": [
+        {
+          "name": "Drone",
+          "url": "https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1blmo0JHx3Z35ZFMxvZUzq"
     },
     {
       "album": {
@@ -202,7 +224,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 392840,
       "name": "Blow Ya Mind - Club Caviar Mix",
       "url": "https://open.spotify.com/track/0Ax8qv3vtUy0nyaw0i4Kf6"
@@ -282,7 +304,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 201586,
       "name": "Chunky",
       "url": "https://open.spotify.com/track/2GfTvj6Gcwg48BvsF8sEJn"
@@ -406,6 +428,28 @@
       "duration_ms": 136615,
       "name": "FOUND LOVE (feat. Carrie Baxter)",
       "url": "https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb"
+    },
+    {
+      "album": {
+        "name": "Get Busy With It (feat. Novelist)",
+        "url": "https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186444,
+      "name": "Get Busy With It (feat. Novelist)",
+      "url": "https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj"
     },
     {
       "album": {
@@ -812,7 +856,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 229565,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/7AAZFKHnWrXQfcDMZcjeAU"
@@ -852,7 +896,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234666,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/1W8P1dDqUU31AU5NongE6d"
@@ -964,6 +1008,28 @@
       "duration_ms": 311275,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x"
+    },
+    {
+      "album": {
+        "name": "Mendoza",
+        "url": "https://open.spotify.com/album/0SWHdh2MoQxfphP7LjnuoZ"
+      },
+      "artists": [
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        },
+        {
+          "name": "Dwarde",
+          "url": "https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318955,
+      "name": "Mendoza",
+      "url": "https://open.spotify.com/track/4KVT4OqquGc3zrFEQUL3X0"
     },
     {
       "album": {
@@ -1091,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV"
+    },
+    {
+      "album": {
         "name": "Pasilda (Extended Versions)",
         "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
       },
@@ -1110,6 +1194,28 @@
       "duration_ms": 426000,
       "name": "Pasilda - Knee Deep Club Mix",
       "url": "https://open.spotify.com/track/2vhLsN2p6FHPPm4LfEBB3N"
+    },
+    {
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "album": {
@@ -1230,7 +1336,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 298181,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/5DhWz7cAypKi6eFpVLQgG0"
@@ -1473,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182270,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
+    },
+    {
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/5Hz3RQToT3CNvuT5H0Y9Qf"
       },
@@ -1484,7 +1612,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 347613,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/33ZNh2kqjSpLsJPmOZnMgd"
@@ -1720,6 +1848,24 @@
       "duration_ms": 234000,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/1CrZemmAWNHJWIjAF7UJlO"
+    },
+    {
+      "album": {
+        "name": "Curtain Road, Vol. 2",
+        "url": "https://open.spotify.com/album/3Ei6d1pVJnC0zoWshzQaie"
+      },
+      "artists": [
+        {
+          "name": "Warwick",
+          "url": "https://open.spotify.com/artist/5cFCBDhCHGVMbm1Ug7i3P8"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287717,
+      "name": "Vania",
+      "url": "https://open.spotify.com/track/6gplmwCccUTjD79EdSKJCv"
     },
     {
       "album": {

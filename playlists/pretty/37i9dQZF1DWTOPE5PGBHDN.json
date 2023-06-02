@@ -1,12 +1,12 @@
 {
   "description": "\u00a1mueve ese booty! \ud83c\udf51\ud83d\udd25",
-  "num_followers": 125655,
+  "num_followers": 125965,
   "original_name": "twerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGYzNzZkZTg4NzIzYjU5ZWFiY2MwZGJkNDI4Y2JiODBhZmEwMmNl",
+  "snapshot_id": "MCw2NzA3Y2QxZWRkMTUxMzI5ZmM5NWVmZjJhNzdkMzk0MTY1YzAxZmY2",
   "tracks": [
     {
       "added_at": "2023-05-26 06:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 180040,
       "name": "OJOS FERRARI",
       "url": "https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "Historias de un Capricornio",
         "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 221103,
       "name": "Infeliz",
       "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Wazap",
+        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 199828,
+      "name": "Wazap",
+      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "MOTOMAMI +",
         "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
@@ -1643,6 +1663,26 @@
       "duration_ms": 204654,
       "name": "CANDY - Remix",
       "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1671,46 +1711,6 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "Besalo",
-      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Wazap",
-        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 199828,
-      "name": "Wazap",
-      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
+        "name": "Juntos Otra Vez",
+        "url": "https://open.spotify.com/album/2zlrwEhyQvCZJH4zfAwasJ"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/6d8owCU2kQ63h5bB8YYjv3"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
         "name": "Romances de una Nota 2021, Vol.2",
         "url": "https://open.spotify.com/album/6uEzgIGDVyYfx0yyfON43T"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 167504,
       "name": "23 (With Ape Drums)",
       "url": "https://open.spotify.com/track/4vv8wcnT04GHHbUCFBAiHF"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
-        "name": "Juntos Otra Vez",
-        "url": "https://open.spotify.com/album/2zlrwEhyQvCZJH4zfAwasJ"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/6d8owCU2kQ63h5bB8YYjv3"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
-    },
-    {
-      "added_at": "2023-05-26 06:00:00",
-      "album": {
         "name": "PORFA",
         "url": "https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
+    },
+    {
+      "added_at": "2023-05-26 06:00:00",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2023-05-26 06:00:00",
@@ -1979,54 +1979,46 @@
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
     },
     {
       "added_at": "2023-05-26 06:00:00",
       "album": {
-        "name": "Bellaquita (Remix)",
-        "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
+        "name": "Sigues Con El (Remix)",
+        "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 304733,
-      "name": "Bellaquita - Remix",
-      "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
+      "duration_ms": 189566,
+      "name": "Sigues Con El - Remix",
+      "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
     }
   ],
   "unique_name": "twerk",

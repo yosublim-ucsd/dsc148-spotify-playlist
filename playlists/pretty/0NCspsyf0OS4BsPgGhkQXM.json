@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2051293,
+  "num_followers": 2051430,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM0MzMsYzdhMTc4NGUxOGUzMjQxNmRlOTkwOWZkZjFhNmIxMDk0Y2VkYTcwNw==",
+  "snapshot_id": "MTM0MzksMjg5YWY4ZTQ3MTUwN2Q3ZWIwMzI3ZGI2MTQ5N2VmNTYxMTZhZWNjZg==",
   "tracks": [
     {
       "added_at": "2023-05-18 00:32:45",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Quick Musical Doodles",
+      "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
+    },
+    {
+      "added_at": "2023-05-18 00:32:45",
+      "album": {
         "name": "Blue KNY Factory Remix",
         "url": "https://open.spotify.com/album/4hbExwrtN2PYGnnGVchbsK"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 180110,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Quick Musical Doodles",
-      "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -399,6 +399,22 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "added_at": "2023-05-18 00:32:45",
+      "album": {
+        "name": "A 20 Something Fuck",
+        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "I Feel Like I'm Drowning",
+      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -715,22 +731,6 @@
       "duration_ms": 192000,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "A 20 Something Fuck",
-        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "I Feel Like I'm Drowning",
-      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "Skin: The Remixes",
-        "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Say It - Illenium Remix",
-      "url": "https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "WANT 2 (feat. Snoop Dogg)",
         "url": "https://open.spotify.com/album/4HGwuo32aQEziAi12CdUXc"
       },
@@ -1407,6 +1383,30 @@
       "duration_ms": 158313,
       "name": "WANT 2 (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1sPaKzY12RpRuY0IeFcaPM"
+    },
+    {
+      "added_at": "2023-05-18 00:32:45",
+      "album": {
+        "name": "Skin: The Remixes",
+        "url": "https://open.spotify.com/album/0dXzrOfFmSXgqqnSA9r3dN"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Say It - Illenium Remix",
+      "url": "https://open.spotify.com/track/1wfZdPy5FRWsdWaAEOG0Ml"
     },
     {
       "added_at": "2023-05-26 16:51:11",
@@ -1935,6 +1935,22 @@
       "duration_ms": 201931,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0Rz2MaUfMUkWZR6jbhtRkP"
+    },
+    {
+      "added_at": "2023-06-01 17:31:51",
+      "album": {
+        "name": "CAI PRA TRETA",
+        "url": "https://open.spotify.com/album/4PGqvsA3ZzRwLqiUCWNunD"
+      },
+      "artists": [
+        {
+          "name": "Bgnzinho",
+          "url": "https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL"
+        }
+      ],
+      "duration_ms": 105581,
+      "name": "CAI PRA TRETA",
+      "url": "https://open.spotify.com/track/3nHwiGg59nwrXiCYYswFyK"
     },
     {
       "added_at": "2023-05-18 00:32:45",

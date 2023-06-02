@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 313656,
+  "num_followers": 313957,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTY0OWVhOWJkZjk3NjEzNGQ5MDI5Mjg3MWRhNzkyZDFlOTkyYTQ2",
+  "snapshot_id": "MCxhNjM0ZWU2ZjA4Yzc0OWEzOGMzMDRiZDQ1ODk2MmFiMjBjMDU5NTMw",
   "tracks": [
     {
       "added_at": "2023-05-24 06:51:10",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 213254,
       "name": "El G\u00fcero (Feat. Marca MP)",
       "url": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "El Monstro 7",
-      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Siempre Clave",
         "url": "https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 194353,
       "name": "Siempre Clave",
       "url": "https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "El Monstro 7",
+      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "El Luchon",
         "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 219077,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
       },
       "artists": [
         {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Vida Peligrosa",
-      "url": "https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl"
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
+      "duration_ms": 184506,
+      "name": "Vida Peligrosa",
+      "url": "https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "La Troca",
-      "url": "https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Hierba de Receta",
         "url": "https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g"
       },
@@ -2135,6 +2119,22 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "La Troca",
+      "url": "https://open.spotify.com/track/2Bc9LPTa1BThp2GMtoegUK"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
         "name": "Pa Que Vayan y Digan",
         "url": "https://open.spotify.com/album/3mLFnv3XBh9olLHaCU9SIN"
       },
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
         "name": "Mi Nueva Familia",
         "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 175038,
       "name": "Mi Nueva Familia",
       "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
     },
     {
       "added_at": "2023-05-24 06:51:10",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2023-05-24 06:51:10",
       "album": {
+        "name": "No Lo Intenten En Casa",
+        "url": "https://open.spotify.com/album/70LUCVd7yvcqGIleK5zGy4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Vieran Que Agusto",
+      "url": "https://open.spotify.com/track/0lx0NFxS6g9UKNJQwr4EDW"
+    },
+    {
+      "added_at": "2023-05-24 06:51:10",
+      "album": {
         "name": "El Fendi",
         "url": "https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE"
       },
@@ -2251,22 +2267,6 @@
       "duration_ms": 195750,
       "name": "El Fendi",
       "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
-    },
-    {
-      "added_at": "2023-05-24 06:51:10",
-      "album": {
-        "name": "No Lo Intenten En Casa",
-        "url": "https://open.spotify.com/album/70LUCVd7yvcqGIleK5zGy4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Vieran Que Agusto",
-      "url": "https://open.spotify.com/track/0lx0NFxS6g9UKNJQwr4EDW"
     },
     {
       "added_at": "2023-05-24 06:51:10",

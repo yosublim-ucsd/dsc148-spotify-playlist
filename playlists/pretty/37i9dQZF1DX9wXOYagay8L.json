@@ -1,13 +1,33 @@
 {
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Oa9sgeP0TfqVJ_bQLWsZiA\">Nomfundo Moh</a>",
-  "num_followers": 105624,
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=R5F2Z7QUQLCahiHPgAoBXw\">Prince Kaybee</a>",
+  "num_followers": 105717,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzAyM2RjM2VlYzlhNTAzM2QyODY1MzU1MWY4Y2FkZDg3MmU1NDdm",
+  "snapshot_id": "MCwzOTM4M2M3NTQ4Njk0NTM2YTlmNjYxZjI3YjQyNzNiZmFjZjYxZmQ0",
   "tracks": [
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Inkumbulo",
+        "url": "https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "duration_ms": 322552,
+      "name": "Inkumbulo",
+      "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
+    },
     {
       "added_at": "2023-05-25 21:59:00",
       "album": {
@@ -77,20 +97,20 @@
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
+      "added_at": "2023-06-02 00:00:00",
       "album": {
-        "name": "World's Gone Crazy",
-        "url": "https://open.spotify.com/album/3dCeERtGHsEXfr41irHUk3"
+        "name": "Nonakele",
+        "url": "https://open.spotify.com/album/4D8gBTFlJral7KOmL92MKA"
       },
       "artists": [
         {
-          "name": "Lady Zamar",
-          "url": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+          "name": "Skweletu",
+          "url": "https://open.spotify.com/artist/0uW67UxcYtWZRPZO3Zaobf"
         }
       ],
-      "duration_ms": 294000,
-      "name": "World's Gone Crazy",
-      "url": "https://open.spotify.com/track/4fF0vcZOgs1ijRkjNe4pY7"
+      "duration_ms": 257172,
+      "name": "Inombolo",
+      "url": "https://open.spotify.com/track/6vVpLYKQGpUgxQyMPnB4OS"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -157,6 +177,42 @@
       "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
     },
     {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Sizophumelela",
+        "url": "https://open.spotify.com/album/69chQMwqV3HO6vgmslcILA"
+      },
+      "artists": [
+        {
+          "name": "Bukeka",
+          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
+        },
+        {
+          "name": "Mpho Wav",
+          "url": "https://open.spotify.com/artist/3WZVMjhcy65rUHh5bDNhkN"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Sizophumelela",
+      "url": "https://open.spotify.com/track/1rp9eI9GljiQkh0FYNvCz4"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "Ngiyeza",
+        "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 281240,
+      "name": "Ngiyeza",
+      "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
+    },
+    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Ithuba",
@@ -201,6 +257,22 @@
       "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
     },
     {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Amatshe",
+        "url": "https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg"
+      },
+      "artists": [
+        {
+          "name": "Zandie Khumalo",
+          "url": "https://open.spotify.com/artist/4GdUhcBI1SwljnDQlLYo6b"
+        }
+      ],
+      "duration_ms": 210207,
+      "name": "Amatshe",
+      "url": "https://open.spotify.com/track/1aiAtLoft4PcGAUjoZbzBI"
+    },
+    {
       "added_at": "2023-05-25 21:59:00",
       "album": {
         "name": "Uthando Lunye",
@@ -215,6 +287,22 @@
       "duration_ms": 253246,
       "name": "Uthando Lunye",
       "url": "https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo"
+    },
+    {
+      "added_at": "2023-05-25 21:59:00",
+      "album": {
+        "name": "World's Gone Crazy",
+        "url": "https://open.spotify.com/album/3dCeERtGHsEXfr41irHUk3"
+      },
+      "artists": [
+        {
+          "name": "Lady Zamar",
+          "url": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "World's Gone Crazy",
+      "url": "https://open.spotify.com/track/4fF0vcZOgs1ijRkjNe4pY7"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -271,22 +359,6 @@
       "duration_ms": 244718,
       "name": "Chelete",
       "url": "https://open.spotify.com/track/25jyOIo2PPpixvetYrb7b3"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Ngiyeza",
-        "url": "https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 281240,
-      "name": "Ngiyeza",
-      "url": "https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu"
     },
     {
       "added_at": "2023-05-25 21:59:00",
@@ -375,6 +447,22 @@
       "duration_ms": 296052,
       "name": "Angsakhoni",
       "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Remake",
+        "url": "https://open.spotify.com/album/1cQl6rNVLYNzqzPHfCFVhP"
+      },
+      "artists": [
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        }
+      ],
+      "duration_ms": 298821,
+      "name": "Remake",
+      "url": "https://open.spotify.com/track/4G5XT0rNMKVm1pkLjcED51"
     },
     {
       "added_at": "2023-05-25 21:59:00",

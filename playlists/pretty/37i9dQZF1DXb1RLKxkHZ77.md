@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,864 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,945 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
-| 2 | [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 |
-| 3 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
+| 1 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
+| 2 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
+| 3 | [Bohongi Hati](https://open.spotify.com/track/0zYSfIjxemTi6jvUxGrDHl) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:22 |
 | 4 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 |
 | 5 | [Kecundang](https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Selamat Tinggal Pujaan](https://open.spotify.com/album/29k6rNn6fU89ucu6UNadlo) | 2:28 |
 | 6 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 |
 | 50 | [Rindunya Rindu](https://open.spotify.com/track/3nfrPh4JIl4l4JmIkf07gl) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Rindunya Rindu](https://open.spotify.com/album/0FVUWzwJOrbZtX5cZgId6b) | 4:19 |
 
-Snapshot ID: `MCw5MGE2MDE3NTg3YWUzM2UwN2JlZWI3ZmQwYjQzYzIxNTYwMWRjYWQ3`
+Snapshot ID: `MCxkNDQxNDc3NWQyNDU1YjI5YTQxZjk5OTA4YzNkYjQ1NmRiNWVkZWE5`

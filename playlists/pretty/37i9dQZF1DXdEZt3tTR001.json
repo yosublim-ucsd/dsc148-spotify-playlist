@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 122681,
+  "num_followers": 122852,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjgxZmMxMGMzZWQxNTllMTIyMGYwM2ZkMmVkZTVhY2QzNWU1ZTE3",
+  "snapshot_id": "MCwzOTlkZWJiNGRmYThmMGJhMGZlZjUzYWY1OGQ4MGU3NWIwMDY1OGU1",
   "tracks": [
     {
       "added_at": "2023-06-01 00:17:25",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-06-01 00:17:25",
       "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2023-06-01 00:17:25",
+      "album": {
         "name": "Please Do Not Lean",
         "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
-    },
-    {
-      "added_at": "2023-06-01 00:17:25",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2023-06-01 00:17:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-06-01 00:17:25",
       "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/63GBEeDds0fCsl764Kyb7w"
-        }
-      ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
-    },
-    {
-      "added_at": "2023-06-01 00:17:25",
-      "album": {
         "name": "azz izz",
         "url": "https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 254171,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr"
+    },
+    {
+      "added_at": "2023-06-01 00:17:25",
+      "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/63GBEeDds0fCsl764Kyb7w"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2023-06-01 00:17:25",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-06-01 00:17:25",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-06-01 00:17:25",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2023-06-01 00:17:25",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-06-01 00:17:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Mar Lucas, Kenia Os, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,589 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,624 likes - 108 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 14 | [He Decidido Seguir a Cristo](https://open.spotify.com/track/5t26069pkhKn69YDdBGFrT) | [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Remitente Mx](https://open.spotify.com/artist/31WTY2rRbpMB8IxHD8ZdPi) | [He Decidido Seguir a Cristo](https://open.spotify.com/album/5Pcg9kvFnUPmY0KkrnMcj7) | 4:14 |
 | 15 | [Fui Yo](https://open.spotify.com/track/0Bl9ZWdUxu7UMYAP97bhzw) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Fui Yo](https://open.spotify.com/album/2IUadSzj9RfbKBoT2HEt5I) | 2:45 |
 | 16 | [Lejos de Casa](https://open.spotify.com/track/4j1iA7ryEvbfHlbh9G6rTH) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Lejos de Casa](https://open.spotify.com/album/60PhM04kmMLGRNINi5PkFh) | 2:49 |
-| 17 | [Sacúdete](https://open.spotify.com/track/2pyBJ3V8cf31fJFSx3rAMK) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/5Z4bhFoac2ElmGZ83YT6CZ) | 2:05 |
+| 17 | [Sacúdete](https://open.spotify.com/track/4GsmrjLdnfsgkbV8pmRgdw) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/2OakpM5ZzFtokfU9xH8gzm) | 2:02 |
 | 18 | [Que Chimba](https://open.spotify.com/track/5N8yKNvOR49PkfJjwbleE6) | [Raudy MX](https://open.spotify.com/artist/41khBUYhTGidTrVIJ1nRsP), [Aurx](https://open.spotify.com/artist/6xJLC0TLwToocsg9iWrCOf) | [Que Chimba](https://open.spotify.com/album/5kXerMEuNPfQmTfyXXa9v3) | 2:26 |
 | 19 | [hoy se bebe](https://open.spotify.com/track/23lzX3xbBFHhdhb7CHLjRI) | [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [hoy se bebe](https://open.spotify.com/album/5qvPLY5XT252A1QmFe6whK) | 3:02 |
 | 20 | [El Te Besa](https://open.spotify.com/track/26sIvrRCYy24YvDtjCufPX) | [Abdy.](https://open.spotify.com/artist/5WrYg4AtcteUfaPtReD5ps), [Tommy Artz](https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt), [Blssd.](https://open.spotify.com/artist/3tS2njWdy8ItqHmDtfx3VN) | [El Te Besa](https://open.spotify.com/album/4AJvnG0sCsDXAxYjXziIZw) | 3:33 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 107 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 | 108 | [Sabes](https://open.spotify.com/track/24lfgBbcrVKe3njykuW89K) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Karely Ruíz](https://open.spotify.com/artist/0gADqrzsPZ7MgRsyvToWuC) | [Sabes](https://open.spotify.com/album/3Ntn7x1ExfBPzgtBEEQWPB) | 3:42 |
 
-Snapshot ID: `MCxjZjIwODE3NTk3ODQ3NmIyNjMwYjg0YWI1N2U4ZmIxMzJhMjZjNmU0`
+Snapshot ID: `MCw3NDljZGIwNDA0YjAzMGZmOWVkMGE0YWYwOTAzYzE3ODhlNGIxY2Jj`

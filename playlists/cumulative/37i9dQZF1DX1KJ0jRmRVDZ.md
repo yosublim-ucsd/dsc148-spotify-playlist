@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-731 songs - 1 day 17 hr 49 min
+732 songs - 1 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [シュガーロス](https://open.spotify.com/track/1BIg3o88H8OSPkQuEY4F1v) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [シュガーロス](https://open.spotify.com/album/6mh1S2u14AIxqfUvIha9Jj) | 3:20 | 2022-06-21 | 2022-07-25 |
 | [シューティングスター](https://open.spotify.com/track/4ZBlNa1XnHrawhS2dTf2Qq) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [朝昼晩](https://open.spotify.com/album/6FbpxhT8gawpWlZXWPjHJJ) | 3:56 | 2022-07-04 | 2022-07-08 |
 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 | 2022-07-28 | 2022-09-15 |
+| [シンフォニア](https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G) | 3:32 | 2023-06-01 |  |
 | [シン・タンタカタンタンタンタンメン](https://open.spotify.com/track/7jNjBwv4dU3VuP6a1TKk4A) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [シン・タンタカタンタンタンタンメン](https://open.spotify.com/album/7BQxLXf2g9sv9GGLjB7hCY) | 4:00 | 2022-10-04 | 2022-10-19 |
 | [シーサイド](https://open.spotify.com/track/6mpRgbaT1HC5UwbI3WEAzx) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シーサイド](https://open.spotify.com/album/28e4ZmCCbxnMxzL2iHB0Q6) | 4:13 | 2022-06-14 | 2022-07-25 |
 | [ジオラマの中で](https://open.spotify.com/track/7uZQZfz2mRpAucZunWydQ8) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ジオラマの中で](https://open.spotify.com/album/7pChWKuAstGML5aZocCViQ) | 3:44 | 2022-06-09 | 2022-07-11 |

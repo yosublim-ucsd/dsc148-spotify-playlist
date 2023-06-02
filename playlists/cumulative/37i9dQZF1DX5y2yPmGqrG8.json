@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Two Men in a Boat",
+        "url": "https://open.spotify.com/album/6Q8AsPluGFM1GBZsSBpEgX"
+      },
+      "artists": [
+        {
+          "name": "Gh\u00e9dalia Tazart\u00e8s",
+          "url": "https://open.spotify.com/artist/13c7WwsaOvuzDXqEFtSnda"
+        },
+        {
+          "name": "Rhys Chatham",
+          "url": "https://open.spotify.com/artist/5xzxiSk1Y7Qd7pWnQL5r04"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414013,
+      "name": "'Jardin de Simone' Acte 2",
+      "url": "https://open.spotify.com/track/0rCDmpoGGU5WeCghQRXA9M"
+    },
+    {
+      "album": {
         "name": "six correlations",
         "url": "https://open.spotify.com/album/0ncDNniz6RYgNGDdTdXftS"
       },
@@ -2476,6 +2498,32 @@
       "duration_ms": 258560,
       "name": "Dobutsu Puzzle",
       "url": "https://open.spotify.com/track/6QYvvzhrD6TLntRamF5O0X"
+    },
+    {
+      "album": {
+        "name": "Does Spring Hide Its Joy",
+        "url": "https://open.spotify.com/album/6nyQxFxYoOAh2nkW6sShAZ"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        },
+        {
+          "name": "Stephen O'Malley",
+          "url": "https://open.spotify.com/artist/6JOZsxwBJZm4bhcEy7gLIU"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1363000,
+      "name": "Does Spring Hide Its Joy v2.3",
+      "url": "https://open.spotify.com/track/50I2lezRqDOI6lsormfvSG"
     },
     {
       "album": {
@@ -6980,7 +7028,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 483594,
       "name": "Sais",
       "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
@@ -7480,7 +7528,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"

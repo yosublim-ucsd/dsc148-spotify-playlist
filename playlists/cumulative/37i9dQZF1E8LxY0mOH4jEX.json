@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
@@ -3862,7 +3862,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234308,
       "name": "Cold (feat. Future)",
       "url": "https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr"
@@ -5237,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Be Your Lover - Single",
+        "url": "https://open.spotify.com/album/4nnCPd1mNd4hPTkjAdNOF4"
+      },
+      "artists": [
+        {
+          "name": "Vanessa White",
+          "url": "https://open.spotify.com/artist/64ztpmb5SbsqgXBMnvZ4dc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Don't Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/58FrImNayoEjd3ctYp1L7F"
+    },
+    {
+      "album": {
         "name": "The Way I Used to Love You",
         "url": "https://open.spotify.com/album/4Y19fWcQcEd0W5HtSQoh2U"
       },
@@ -6180,7 +6198,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 191000,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
@@ -6984,7 +7002,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 176848,
       "name": "Get It Baby (feat. Big Daddy Kane)",
       "url": "https://open.spotify.com/track/6dDhMwFhsm5gkXZC1GBS3P"
@@ -7057,7 +7075,7 @@
     },
     {
       "album": {
-        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
       "artists": [
@@ -7076,9 +7094,9 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 248413,
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
@@ -7202,7 +7220,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 281123,
       "name": "Gettin Mo Money Than You",
       "url": "https://open.spotify.com/track/7plqgPygDPb4wljYfmuRgU"
@@ -10514,7 +10532,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
@@ -10828,7 +10846,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 202480,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
@@ -12268,7 +12286,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
@@ -13382,7 +13400,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 219159,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
@@ -13612,7 +13630,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 191293,
       "name": "No Money",
       "url": "https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d"
@@ -13770,7 +13788,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 241164,
       "name": "Not so Dangerous",
       "url": "https://open.spotify.com/track/5l7B3iSi9yeQP1g26KhHgi"
@@ -14364,7 +14382,7 @@
       ],
       "date_added": "2021-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 193400,
       "name": "Pay My Rent",
       "url": "https://open.spotify.com/track/3raTxbibtTZruSHwldoVO9"
@@ -14572,7 +14590,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 210053,
       "name": "Perm",
       "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
@@ -15300,7 +15318,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 251173,
       "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
       "url": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2"
@@ -17104,7 +17122,7 @@
       ],
       "date_added": "2020-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 247160,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW"
@@ -17614,7 +17632,7 @@
       ],
       "date_added": "2021-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
@@ -20256,7 +20274,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"

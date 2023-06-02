@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200291,
+  "num_followers": 200288,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTZlODZhMDQxNTU0YTQzNjBkMWQ3MTI1NTM5MmViNzY3MjJkNjVl",
+  "snapshot_id": "MCw3YzhhZDI1YjA0MmY2NGNlMmYxYjk5OWQzMTk0MzA0MTM5ZjIwZGJi",
   "tracks": [
     {
       "added_at": "2023-05-26 03:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Viajar",
-        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
       },
       "artists": [
         {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        },
-        {
-          "name": "Cote Foncea",
-          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
+          "name": "Upa!",
+          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
         }
       ],
-      "duration_ms": 292586,
-      "name": "Viajar - Space Mix",
-      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+      "duration_ms": 255000,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -551,18 +547,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/2azUl3rf0aMEQNzvGTeF98"
+        "name": "Viajar",
+        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
       "artists": [
         {
-          "name": "Upa!",
-          "url": "https://open.spotify.com/artist/3SQwqIl6r35rkAXPw7cm9n"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        },
+        {
+          "name": "Cote Foncea",
+          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/1qV8Z8nwhEwH7Z5J0u1VCU"
+      "duration_ms": 292586,
+      "name": "Viajar - Space Mix",
+      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+      },
+      "artists": [
+        {
+          "name": "Tsunamis",
+          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+        }
+      ],
+      "duration_ms": 258331,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "7 Mares",
-        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+        "name": "Sangre y Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
       },
       "artists": [
         {
-          "name": "Tsunamis",
-          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+          "name": "Kutral Kai Paz",
+          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
         }
       ],
-      "duration_ms": 258331,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+      "duration_ms": 228530,
+      "name": "Sangre y Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Sangre y Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
-      },
-      "artists": [
-        {
-          "name": "Kutral Kai Paz",
-          "url": "https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB"
-        }
-      ],
-      "duration_ms": 228530,
-      "name": "Sangre y Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
-        "name": "Shawarma Love",
-        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+        "name": "R\u00e1pida Comida",
+        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
       },
       "artists": [
         {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+          "name": "Conf\u00edo en tus amigos",
+          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
         }
       ],
-      "duration_ms": 231750,
-      "name": "Shawarma Love",
-      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+      "duration_ms": 124552,
+      "name": "Surfing caracol",
+      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2023-05-26 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-05-26 03:00:00",
       "album": {
+        "name": "Shawarma Love",
+        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Shawarma Love",
+      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2023-05-26 03:00:00",
+      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 183484,
       "name": "Un D\u00eda por Concepci\u00f3n",
       "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
-    },
-    {
-      "added_at": "2023-05-26 03:00:00",
-      "album": {
-        "name": "R\u00e1pida Comida",
-        "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
-      },
-      "artists": [
-        {
-          "name": "Conf\u00edo en tus amigos",
-          "url": "https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4"
-        }
-      ],
-      "duration_ms": 124552,
-      "name": "Surfing caracol",
-      "url": "https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd"
     },
     {
       "added_at": "2023-05-26 03:00:00",

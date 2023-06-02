@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Evan Loss",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Loro Ati Sejak Dini",
+        "url": "https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284674,
+      "name": "Loro Ati Sejak Dini",
+      "url": "https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On"
+    },
+    {
+      "album": {
         "name": "Los Dol",
         "url": "https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv"
       },
@@ -1480,6 +1498,24 @@
       "duration_ms": 316000,
       "name": "NEMEN",
       "url": "https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU"
+    },
+    {
+      "album": {
+        "name": "Nemen HipHop Dangdut Version",
+        "url": "https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274879,
+      "name": "Nemen HipHop Dangdut Version",
+      "url": "https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS"
     },
     {
       "album": {
@@ -2170,6 +2206,28 @@
       "duration_ms": 325970,
       "name": "Rakuat Nglakoni",
       "url": "https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM"
+    },
+    {
+      "album": {
+        "name": "Rasah Bali",
+        "url": "https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Ena Vika",
+          "url": "https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264563,
+      "name": "Rasah Bali",
+      "url": "https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD"
     },
     {
       "album": {
@@ -2864,6 +2922,28 @@
       "duration_ms": 266140,
       "name": "Top Topan",
       "url": "https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq"
+    },
+    {
+      "album": {
+        "name": "Tresno Liyane",
+        "url": "https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        },
+        {
+          "name": "Agiff",
+          "url": "https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Tresno Liyane",
+      "url": "https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR"
     },
     {
       "album": {

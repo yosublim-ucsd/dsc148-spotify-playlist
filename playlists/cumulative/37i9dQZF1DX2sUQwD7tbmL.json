@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 159212,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7ETijvgUdK7rBlGfvhiWQj"
@@ -8486,6 +8486,24 @@
       "duration_ms": 330630,
       "name": "Sunset Chaser",
       "url": "https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV"
+    },
+    {
+      "album": {
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Featuring Peso Pluma, Alemán, Yandel, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-27 songs - 1 hr 32 min
+28 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Toda \- Remix](https://open.spotify.com/track/5kCoykriGdZhWMlm9vrtQI) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [ENR](https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF) | 6:08 | 2023-01-27 |  |
 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 | 2023-01-27 |  |
 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 | 2023-01-27 |  |
-| [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 | 2023-01-27 |  |
+| [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 | 2023-01-27 | 2023-06-02 |
+| [TU DIABLO](https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/5nNEzv707WMcyARly8bUNs) | 4:09 | 2023-01-27 |  |
 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 | 2023-01-27 |  |
 | [¿por Que Te Demoras?](https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-01-27 |  |
 

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-1,547 songs - 3 day 12 hr 34 min
+1,548 songs - 3 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -922,6 +922,7 @@
 | [Nation Under Creep](https://open.spotify.com/track/35jz7oeLLwHZMimVDhxFkm) | [NGHTCRWLR](https://open.spotify.com/artist/1bQ9FRvrR3XQSppwJiQCMl) | [Let The Children Scream](https://open.spotify.com/album/14H2rmBLU6VxXpNfdpRh1z) | 3:43 | 2023-02-08 | 2023-03-05 |
 | [Navy](https://open.spotify.com/track/0p78PlvKfZtcNuFoGI00Eo) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [once the edge has worn off](https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg) | 3:34 | 2021-12-01 | 2022-01-13 |
 | [Need](https://open.spotify.com/track/1qIEg864PzqjaMrkbYHBUL) | [Jake Harrison](https://open.spotify.com/artist/6OWw1Xd2V0N7Uz06R1XYzZ) | [Need](https://open.spotify.com/album/1OMUBawCXmptaSx0WILwpG) | 4:24 | 2023-02-15 | 2023-03-23 |
+| [Need to Know](https://open.spotify.com/track/6Vty4QyVDWmO5xraSbdb9i) | [Jonny Channels](https://open.spotify.com/artist/6tm9f2abcM0liY1mZGeTVX) | [Need to Know](https://open.spotify.com/album/24g7N7cApVwd0XRffVa6to) | 2:36 | 2023-06-02 |  |
 | [Need You Like](https://open.spotify.com/track/0K28plOjXm5jrSUzl0rXSf) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Need You Like](https://open.spotify.com/album/0uECcKilcsQ7i0U1WwSx47) | 2:02 | 2023-03-08 | 2023-03-29 |
 | [Nepotism Babies](https://open.spotify.com/track/4vOc0Hyamm6HUDNOLKssiQ) | [daphne ellen](https://open.spotify.com/artist/3AZJM8w3NwroIyzN99KyPI) | [Nepotism Babies](https://open.spotify.com/album/31GopirZ5kskQFQHhDvY5e) | 2:56 | 2023-01-25 | 2023-02-09 |
 | [Never Been so Fine](https://open.spotify.com/track/6DHOd5WttU8RvcHfqoUZhl) | [King Ibis](https://open.spotify.com/artist/3ciAz4U6O3iW2wpUZqeVZb) | [Never Been so Fine](https://open.spotify.com/album/2VLOseHIDCAT6X77ElkODy) | 4:03 | 2022-08-10 | 2022-09-29 |

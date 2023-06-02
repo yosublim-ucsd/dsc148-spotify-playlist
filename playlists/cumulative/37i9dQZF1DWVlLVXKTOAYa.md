@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-725 songs - 1 day 13 hr 18 min
+726 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-12-16 | 2022-07-29 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-18 | 2022-12-13 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-08 | 2023-05-24 |
+| [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-05-11 |  |
 | [Freak Like That](https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Freak Like That](https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE) | 2:15 | 2022-04-14 | 2022-04-18 |
 | [Freaks & Geeks](https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freaks & Geeks](https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud) | 2:20 | 2022-03-24 | 2022-04-16 |
 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 | 2022-03-24 | 2022-11-13 |
@@ -332,7 +333,7 @@
 | [I Want Love](https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [I Want Love](https://open.spotify.com/album/0UoYRs1WP7625dmeOsY3Zn) | 3:17 | 2022-03-24 | 2022-04-19 |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-03-24 | 2022-04-11 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-26 | 2023-03-31 |
-| [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 | 2023-05-11 |  |
+| [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 | 2023-05-11 | 2023-06-02 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-25 |  |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-15 | 2022-11-17 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-26 |  |

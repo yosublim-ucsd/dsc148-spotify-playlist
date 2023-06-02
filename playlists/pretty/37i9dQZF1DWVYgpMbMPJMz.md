@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=frnSGsW8RRqy7NDLoYkR0w">Steffany Gretzinger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,977 likes - 101 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,081 likes - 101 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 17 | [Plead The Blood \(with Brandon Lake and Cody Carnes\)](https://open.spotify.com/track/3O0KjuEzvCEZc3e7byO2sv) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Plead The Blood \(with Brandon Lake and Cody Carnes\)](https://open.spotify.com/album/6LEy05Metzcf34BHWz72sH) | 5:10 |
 | 18 | [To Be With The Lord](https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:01 |
 | 19 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |
-| 20 | [Breaking Me Down](https://open.spotify.com/track/0HzYgueezLLElF3nU6owz3) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Breaking Me Down](https://open.spotify.com/album/45E5aRQy738kHrJlxzuGUZ) | 4:17 |
+| 20 | [Breaking Me Down](https://open.spotify.com/track/6NikDZyH6T5HtKRcsULDSk) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [No Vacant Thrones](https://open.spotify.com/album/0BJIQ0nnxKYJSKiZfQR62M) | 4:17 |
 | 21 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 |
 | 22 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 |
 | 23 | [King of Calvary \- Live](https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Lamb of God \(Live\)](https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1) | 4:11 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 100 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 101 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MCxjODBhY2M0NWEyNjVjMGM5ZDU3OTllNjE0ODQxZjc2OTg3NDdjNzRl`
+Snapshot ID: `MCxhYjBiMmE3YjZkNTc1OGUwZWNkY2Y4NzI4NmViNzI5NzFkZDE2NTNh`

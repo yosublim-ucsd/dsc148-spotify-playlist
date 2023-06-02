@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 坂本 真綾
 
-1,404 songs - 3 day 19 hr 25 min
+1,405 songs - 3 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [I’m Calling You](https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I’m Calling You](https://open.spotify.com/album/1CUxI6Evew86aQyvJWA7dL) | 3:43 | 2022-09-27 | 2022-09-29 |
 | [Jam](https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Jam](https://open.spotify.com/album/6yGcdAn7qspsakb8jdPtbp) | 4:05 | 2023-04-25 | 2023-05-17 |
 | [Join Us!](https://open.spotify.com/track/0WCWhT1XJCS6sYWLIXf4Dh) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Join Us!](https://open.spotify.com/album/24jLRo7S7jJTM9ngeeMxtA) | 3:27 | 2022-12-13 | 2023-05-24 |
-| [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-22 |  |
+| [JUMP](https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [JUMP](https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje) | 3:47 | 2022-11-22 | 2023-06-02 |
 | [Junction](https://open.spotify.com/track/6YW05PZJ5q44S4x0YVExXw) | [Rina Yamashita](https://open.spotify.com/artist/2ZtSiBTEhkNUSyt2cxCzHa) | [Reimei](https://open.spotify.com/album/3wzVJGkfNEBR1lP3yy0YwW) | 4:37 | 2023-05-30 |  |
 | [June](https://open.spotify.com/track/0Q1TLhnHvNs5xTsasBhaOg) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [Sincere](https://open.spotify.com/album/4g4QLW0E1SfBipYZuE5Hym) | 4:15 | 2022-12-20 | 2023-01-04 |
 | [June, I love you](https://open.spotify.com/track/0gbdeAZfbeNdlrBZiZil8c) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Alone Together](https://open.spotify.com/album/5p3HCWLAZj6Di5KrZnk4gw) | 3:43 | 2023-05-25 | 2023-05-31 |
@@ -1093,6 +1093,7 @@
 | [傘](https://open.spotify.com/track/20vsE9x63o1JUlMbU2qZ3O) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [傘](https://open.spotify.com/album/100ElNipKedqL4iTrDFMrx) | 3:03 | 2022-11-29 | 2022-12-07 |
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
+| [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-06-01 |  |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
 | [先日はロマンス feat\. suis from ヨルシカ](https://open.spotify.com/track/5G2OuprmwSuTi4TWSw2e7k) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/3vo9fVrQEvqXRxVJVb6aFE) | 4:04 | 2023-03-21 | 2023-03-23 |
 | [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 | 2023-05-19 |

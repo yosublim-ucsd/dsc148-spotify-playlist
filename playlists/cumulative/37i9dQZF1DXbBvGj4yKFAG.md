@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-149 songs - 8 hr 13 min
+150 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 | 2023-04-11 |  |
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 |  |
 | [deep cut](https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [deep cut](https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH) | 5:14 | 2023-04-11 |  |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-19 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 |  |
 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 | 2023-04-11 |  |
 | [Drain the Pool](https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 3:56 | 2023-04-11 | 2023-05-17 |

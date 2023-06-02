@@ -1,12 +1,12 @@
 {
   "description": "Feel great with these timelessly fun songs!",
-  "num_followers": 5292818,
+  "num_followers": 5293086,
   "original_name": "Have a Great Day!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzIxNjQ0ZjkyYTU3OGNmNGY1MTMxYWRjY2Q3Njg0YjM3NDJmNWE4",
+  "snapshot_id": "MCwyMmE1ZWZjNWUxM2YyOTI2OGQxZjYyMmZjOTkwMzdjYjE4ZGE0ZjQ1",
   "tracks": [
     {
       "added_at": "2023-05-02 19:18:45",
@@ -693,6 +693,38 @@
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
+      "added_at": "2023-06-01 18:00:22",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2023-06-01 18:01:35",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 299240,
+      "name": "Eyes Without A Face",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS"
+    },
+    {
       "added_at": "2023-05-02 19:18:45",
       "album": {
         "name": "Madman Across The Water",
@@ -1267,38 +1299,6 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
-    },
-    {
-      "added_at": "2023-05-02 19:18:45",
-      "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     }
   ],
   "unique_name": "Have a Great Day!",

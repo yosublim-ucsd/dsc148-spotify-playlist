@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Joany\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,989 likes - 110 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,998 likes - 110 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 109 | [BOYS](https://open.spotify.com/track/3IMZrXHPRkdIkKg66GTU3X) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [BOYS](https://open.spotify.com/album/2Ngt5WsoThl0DFAxajGeip) | 2:57 |
 | 110 | [Nicest](https://open.spotify.com/track/5PESfQdzPDEEoWkKEzQMqj) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0), [Thir13teen](https://open.spotify.com/artist/2rczA6Nwwgc543MuPuxJNq) | [Nicest](https://open.spotify.com/album/5uTQXMkn8LjfIFAS4EDwnH) | 2:55 |
 
-Snapshot ID: `MCxlN2I5MjM4NjE1NWU3Y2RlMWE4ZTdmMTMwYmI2ODQwZDE3NTUxMDhh`
+Snapshot ID: `MCw1N2IzNDdmNWVhN2FhNGUxNzJhMDM5MGMyMzA5NTQyNjMzNzc5MGE2`

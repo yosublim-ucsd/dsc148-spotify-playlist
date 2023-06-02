@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 53 min
+38 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 |  |
 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 | 2022-10-10 |  |
 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 | 2022-10-10 |  |
-| [Honey Dip](https://open.spotify.com/track/0606StM2HkTudakYuVy2rd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd) | 3:03 | 2022-10-10 |  |
+| [Honey Dip](https://open.spotify.com/track/0606StM2HkTudakYuVy2rd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd) | 3:03 | 2022-10-10 | 2023-06-02 |
+| [Honey Dip](https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake the Bass 4](https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ) | 3:03 | 2023-06-01 |  |
 | [Hustler \- Radio Edit](https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Hustler](https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle) | 2:51 | 2022-10-10 |  |
 | [I Want](https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [I Want](https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl) | 2:54 | 2022-10-10 |  |
 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 | 2022-10-10 |  |

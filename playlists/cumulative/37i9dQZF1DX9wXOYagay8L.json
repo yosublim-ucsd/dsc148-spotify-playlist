@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=Oa9sgeP0TfqVJ_bQLWsZiA\">Nomfundo Moh</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=R5F2Z7QUQLCahiHPgAoBXw\">Prince Kaybee</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -340,6 +340,24 @@
       "duration_ms": 200006,
       "name": "Amanxeba Othando (feat. Mduduzi Ncube)",
       "url": "https://open.spotify.com/track/0NH6wxjDcflP9Ymw8UQu4b"
+    },
+    {
+      "album": {
+        "name": "Amatshe",
+        "url": "https://open.spotify.com/album/7dZRGOyNhIeX80lTE2nlTg"
+      },
+      "artists": [
+        {
+          "name": "Zandie Khumalo",
+          "url": "https://open.spotify.com/artist/4GdUhcBI1SwljnDQlLYo6b"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210207,
+      "name": "Amatshe",
+      "url": "https://open.spotify.com/track/1aiAtLoft4PcGAUjoZbzBI"
     },
     {
       "album": {
@@ -2530,6 +2548,46 @@
       "duration_ms": 460965,
       "name": "Inkululeko",
       "url": "https://open.spotify.com/track/4qptyeqFHhN0TUUjFQO6c9"
+    },
+    {
+      "album": {
+        "name": "Inkumbulo",
+        "url": "https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322552,
+      "name": "Inkumbulo",
+      "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
+    },
+    {
+      "album": {
+        "name": "Nonakele",
+        "url": "https://open.spotify.com/album/4D8gBTFlJral7KOmL92MKA"
+      },
+      "artists": [
+        {
+          "name": "Skweletu",
+          "url": "https://open.spotify.com/artist/0uW67UxcYtWZRPZO3Zaobf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257172,
+      "name": "Inombolo",
+      "url": "https://open.spotify.com/track/6vVpLYKQGpUgxQyMPnB4OS"
     },
     {
       "album": {
@@ -5717,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "Remake",
+        "url": "https://open.spotify.com/album/1cQl6rNVLYNzqzPHfCFVhP"
+      },
+      "artists": [
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298821,
+      "name": "Remake",
+      "url": "https://open.spotify.com/track/4G5XT0rNMKVm1pkLjcED51"
+    },
+    {
+      "album": {
         "name": "Ringtone",
         "url": "https://open.spotify.com/album/3DZNBpRuOxb8cav4LmO7yZ"
       },
@@ -6204,6 +6280,28 @@
       "duration_ms": 331149,
       "name": "Sizobambana",
       "url": "https://open.spotify.com/track/5sEroXGaxA40N3HQWX6snd"
+    },
+    {
+      "album": {
+        "name": "Sizophumelela",
+        "url": "https://open.spotify.com/album/69chQMwqV3HO6vgmslcILA"
+      },
+      "artists": [
+        {
+          "name": "Bukeka",
+          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
+        },
+        {
+          "name": "Mpho Wav",
+          "url": "https://open.spotify.com/artist/3WZVMjhcy65rUHh5bDNhkN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Sizophumelela",
+      "url": "https://open.spotify.com/track/1rp9eI9GljiQkh0FYNvCz4"
     },
     {
       "album": {

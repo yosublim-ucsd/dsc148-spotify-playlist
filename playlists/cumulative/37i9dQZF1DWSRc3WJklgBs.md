@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,133 songs - 2 day 18 hr 28 min
+1,134 songs - 2 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [I'll Be Around](https://open.spotify.com/track/1Swh2Td4N7mpMG9xyG09gA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [I'll Be Around](https://open.spotify.com/album/6z0mzroQzquz0gPkPwLAx5) | 3:48 | 2023-02-01 |  |
 | [I'll Be There](https://open.spotify.com/track/083Qf6hn6sFL6xiOHlZUyn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I'll Be There](https://open.spotify.com/album/7o6j8wph7fvEcAL67jLVGN) | 3:13 | 2019-08-09\* | 2019-11-19 |
 | [I'll Follow \(feat\. Courtney Drummey\)](https://open.spotify.com/track/0weqS5sRq72iOBcwqezpdm) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [I'll Follow \(feat\. Courtney Drummey\)](https://open.spotify.com/album/08oxUSO6FJR22bhojFmQiV) | 2:45 | 2021-04-24 | 2021-10-23 |
+| [i'm in love](https://open.spotify.com/track/0RrDLuTfABfZI89cV0stBM) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [option4](https://open.spotify.com/artist/2X9xHtIaiUPaMG3jRwsQEO) | [i'm in love](https://open.spotify.com/album/5B8Gr7OrYTNecmYzedQ1YM) | 3:16 | 2023-05-26 |  |
 | [I'm In Love](https://open.spotify.com/track/2Rfy50UpGrTN43GmSpn5A1) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I’m In Love](https://open.spotify.com/album/77EjizQATJlww83ORKd9RJ) | 3:12 | 2021-07-17 | 2022-05-14 |
 | [Idea of You](https://open.spotify.com/track/2DVKFAAZJ9jvfkj3eifEWp) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [JJM](https://open.spotify.com/artist/3eJo8Qrzwi8JbHJP315YLG), [LIN](https://open.spotify.com/artist/0X8y0z1QgFnlwUsEsubLeX) | [Idea of You](https://open.spotify.com/album/3UjJTDMwfRHWzlDFbTy2AT) | 3:07 | 2019-08-09\* | 2020-03-29 |
 | [If I Can Love You Right](https://open.spotify.com/track/2FfvhCETGr8VZyY7vrMg6e) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Wish I Was](https://open.spotify.com/artist/4VbviNI348014tlDIHdL33), [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [The Lost Art of Longing \[Deluxe\]](https://open.spotify.com/album/7BNSDS1V4SBecxnj6rGlkC) | 2:29 | 2021-09-25 | 2022-05-14 |
@@ -930,7 +931,7 @@
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take My Hand](https://open.spotify.com/track/1Z650q7rTHtlSWi17dvDFo) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [OLAVI](https://open.spotify.com/artist/2m5zXSeaN8U33bgGG2XlYi) | [Take My Hand](https://open.spotify.com/album/08yGtFtsjppMCvfHUBGkYZ) | 3:14 | 2019-08-09\* | 2020-03-29 |
 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 | 2023-04-21 | 2023-05-21 |
-| [Take You](https://open.spotify.com/track/1srLMwr9cVpEnFeHgOpHnC) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:13 | 2023-05-26 |  |
+| [Take You](https://open.spotify.com/track/1srLMwr9cVpEnFeHgOpHnC) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:13 | 2023-05-26 | 2023-06-02 |
 | [Takeaway \(with ILLENIUM & Lennon Stella\)](https://open.spotify.com/track/1SyjFJu9xk5CpYD6bm1tjl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:29 | 2019-08-27 | 2020-10-30 |
 | [Talk To Myself](https://open.spotify.com/track/5IZg7Ngm3CTOj9l00YSrt9) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:55 | 2019-08-09\* | 2019-08-27 |
 | [Taste of You](https://open.spotify.com/track/655sojH8GGEteZTBJOFyy7) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Taste of You](https://open.spotify.com/album/6OcfV7fsmHKyV8wXMzXvei) | 2:47 | 2021-05-22 | 2022-04-29 |

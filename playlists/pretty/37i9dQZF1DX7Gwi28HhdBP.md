@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,072 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,163 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 20 | [الدنيا زى المرجيحة](https://open.spotify.com/track/3hpTzud70Ev2P0DRrwq5ei) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/0fjBBiAujhUV5XN0ufBxeP) | 4:56 |
 | 21 | [Hagaraan Ala Al Shesha](https://open.spotify.com/track/7mjrovxCbFPlnkJ1aDhtu9) | [Hoba](https://open.spotify.com/artist/3jaVJ8ApcZRzvvKdPhunie) | [Hoba](https://open.spotify.com/album/1b3UdyXzPsjVa93nujVvB8) | 5:25 |
 | 22 | [7ataly Rouge](https://open.spotify.com/track/7qykIGykxfY5LKvGlSfJXu) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [7ataly Rouge](https://open.spotify.com/album/1fGQcXBnD6Ew1Jw7fevXQ1) | 3:02 |
-| 23 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 |
-| 24 | [أبويا قالي زمان](https://open.spotify.com/track/4VuheYb2mYov1QsFM5eIxi) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/7igxcRyRLCuujN4JfJsNlx) | 3:46 |
-| 25 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 |
-| 26 | [طبع الرجال](https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA) | 4:22 |
+| 23 | [أبويا قالي زمان](https://open.spotify.com/track/4VuheYb2mYov1QsFM5eIxi) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/7igxcRyRLCuujN4JfJsNlx) | 3:46 |
+| 24 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 |
+| 25 | [طبع الرجال](https://open.spotify.com/track/7fdzCAyk58bCnfWXADabsA) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [طبع الرجال](https://open.spotify.com/album/7uoWxSwBdz4DuZQufC5QTA) | 4:22 |
+| 26 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 |
 | 27 | [Bonbonaya](https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Bonbonaya](https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M) | 3:57 |
 | 28 | [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 |
 | 29 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 |
 | 50 | [Eah El Asatokk Dah](https://open.spotify.com/track/2GTN5gWSRGsgAG6S54BS1f) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX) | [Eah El Asatokk Dah](https://open.spotify.com/album/0ICEaufS2EPabQYvAhLsG1) | 5:05 |
 
-Snapshot ID: `MCxkYzIwN2QwNTZjODJkNmE3Y2JhMjVjYzkxNTE3MGVmOGY3NjAyZGYy`
+Snapshot ID: `MCxjZGM5ZjY4OGZkZDE3YjM2MDU0MjI0OGQwNmJiNmY1M2UyZDM2YTFh`

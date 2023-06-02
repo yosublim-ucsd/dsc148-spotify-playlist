@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,729 likes - 118 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,732 likes - 118 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 76 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
 | 77 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
 | 78 | [Céline](https://open.spotify.com/track/7qOlu9FO9p9gphX8hMnO7a) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:25 |
-| 79 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
-| 80 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
+| 79 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
+| 80 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
 | 81 | [Me \(feat\. BOI\)](https://open.spotify.com/track/6fPxuq3eIFGdDozpg1YMOI) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:25 |
 | 82 | [Track 8](https://open.spotify.com/track/0scqkbbmbtKtoXNH3JL9Dj) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:22 |
 | 83 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 117 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 118 | [MERRY GO ROUND](https://open.spotify.com/track/3X6A3gv1wfmMQ6UERbwCmW) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [MERRY GO ROUND](https://open.spotify.com/album/4iHL7KUiibZSpZRIsa6t7v) | 2:24 |
 
-Snapshot ID: `MjgwOTMxNDAsMDAwMDAwMDAwNDE4N2VhMmM3NWFiODlkMmM4ZjM3MjdlM2FiNmQ0ZA==`
+Snapshot ID: `MjgwOTQ1MjAsMDAwMDAwMDAyOGZjYmYwOGNhMTI5MzJkNmEwZDQ3ZmE4MmFhNGIyOQ==`

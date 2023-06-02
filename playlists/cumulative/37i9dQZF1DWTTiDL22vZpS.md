@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-89 songs - 5 hr 38 min
+90 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 | 2022-11-22 | 2023-02-01 |
 | [Eso Que Me Das](https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:47 | 2022-11-22 |  |
 | [Esperando](https://open.spotify.com/track/7jYFjn2xbxwJrNxj4Wkr0S) | [Human Lemonade](https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC) | [Esperando](https://open.spotify.com/album/65LpgCwSciU5Ykq6zqDeJZ) | 4:43 | 2023-05-12 | 2023-06-01 |
+| [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-05-26 |  |
 | [Estamos Locos](https://open.spotify.com/track/0xT6kz73bjqkEqeIAcbuok) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB) | [Estamos Locos](https://open.spotify.com/album/0pgeYwzfy6GOqzcRkKWykq) | 5:11 | 2022-11-22 | 2022-12-03 |
 | [Fuera de Lugar](https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:16 | 2022-11-22 |  |
 | [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 | 2023-05-26 |  |
@@ -72,7 +73,7 @@
 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 | 2022-11-22 |  |
 | [Precipicio](https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Precipicio](https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB) | 4:07 | 2023-05-26 |  |
 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 | 2022-11-22 |  |
-| [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 | 2023-04-13 |  |
+| [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 | 2023-04-13 | 2023-06-02 |
 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 | 2023-04-28 |  |
 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2023-02-02 | 2023-04-15 |
 | [Rotos](https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ) | 3:45 | 2023-04-21 |  |

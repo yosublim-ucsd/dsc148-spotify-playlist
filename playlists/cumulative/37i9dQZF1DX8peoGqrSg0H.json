@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PRETZELLE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 220833,
       "name": "Iceman Feat. Morvasu",
       "url": "https://open.spotify.com/track/4ZIG4Hk85at180zNgnVTwl"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 207580,
       "name": "Midnight Crisis",
       "url": "https://open.spotify.com/track/4qqs5lPdlW3hQrbvmAtvrL"
@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234736,
       "name": "\u0e16\u0e49\u0e32\u0e1e\u0e35\u0e48\u0e22\u0e31\u0e07\u0e27\u0e48\u0e32\u0e07\u0e2d\u0e22\u0e39\u0e48... (Come to be mine) - Special Track",
       "url": "https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 241071,
       "name": "\u0e17\u0e33\u0e44\u0e21\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 (what do i do)",
       "url": "https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt"
@@ -3208,6 +3208,24 @@
       "duration_ms": 208421,
       "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e08\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S"
+    },
+    {
+      "album": {
+        "name": "\u0e1b\u0e31\u0e07\u0e1b\u0e31\u0e07 (Unit Grande)",
+        "url": "https://open.spotify.com/album/0ddQPOtTCIt3kMku9b0muZ"
+      },
+      "artists": [
+        {
+          "name": "The Glass Girls",
+          "url": "https://open.spotify.com/artist/72q461mIuWFuDIMTys5Als"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182349,
+      "name": "\u0e1b\u0e31\u0e07\u0e1b\u0e31\u0e07 (Unit Grande)",
+      "url": "https://open.spotify.com/track/4FSpUOfa8dLaT6hULA1W23"
     },
     {
       "album": {
@@ -3615,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e19\u0e32\u0e19\u0e19\u0e32\u0e19 (\u0e19\u0e30\u0e04\u0e48\u0e30)",
+        "url": "https://open.spotify.com/album/3yMx0TYzVsCkNotWofoRAu"
+      },
+      "artists": [
+        {
+          "name": "MONICA",
+          "url": "https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e19\u0e32\u0e19\u0e19\u0e32\u0e19 (\u0e19\u0e30\u0e04\u0e48\u0e30)",
+      "url": "https://open.spotify.com/track/26vpHHAU3Jg4r9hG9DnSTg"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e27\u0e31\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 (ONE DAY)",
         "url": "https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN"
       },
@@ -3724,6 +3760,24 @@
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious",
+        "url": "https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266557,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e23\u0e4c \u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious",
+      "url": "https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv"
     },
     {
       "album": {
@@ -5348,6 +5402,24 @@
       "duration_ms": 174352,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6PM9BmqnWn1Gg23BvWI6qu"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e32\u0e22 (No Love)",
+        "url": "https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e32\u0e22 (No Love)",
+      "url": "https://open.spotify.com/track/4XjY4hGqiLjZQnlxCemA9F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,539 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,656 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Better Place \- Super Flu Remix](https://open.spotify.com/track/2Y9bKUE50cHsTNgYLpM8Pd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Better Place \(Super Flu Remix\)](https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve) | 7:54 |
 | 60 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 
-Snapshot ID: `MCw0NzNiNWM3MzJkMzQzMTRlNjEwM2VhMWExOGVkMzRhNWQwOTYzNGY2`
+Snapshot ID: `MCxiYmI5MmVjNWUzNmYyN2U3ZGZiYTY3ZmQ3NzQ2ZmIxMDE5YTMwMmNl`

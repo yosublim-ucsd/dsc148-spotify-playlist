@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: KAYTRAMINÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,306 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,401 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 42 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 43 | [Holy Smokes!](https://open.spotify.com/track/3k3QTuKUK6qMV9x8Cy5gES) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Holy Smokes!](https://open.spotify.com/album/1MN43LtRSspvDxDocojiA9) | 1:39 |
 | 44 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 |
-| 45 | [soundgood](https://open.spotify.com/track/4RD3NTwg4EobH0zvvGqABa) | [B\. Cool\-Aid](https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Ahwlee](https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [soundgood](https://open.spotify.com/album/4kFH9UDdmg25A7T8Fc4s1G) | 2:43 |
+| 45 | [soundgood](https://open.spotify.com/track/798CdilHgi0FdJmhWH4Hqv) | [B\. Cool\-Aid](https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Ahwlee](https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Leather Blvd.](https://open.spotify.com/album/5wXKwBJT6rmrT0uuGngQtj) | 2:43 |
 | 46 | [Hurry](https://open.spotify.com/track/3xEXJtBBatwc3zVTjHBFA4) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Fly Anakin](https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [The Boys & Girls](https://open.spotify.com/album/0yuDKkogcktyNgOBlYsQHz) | 3:26 |
 | 47 | [MONEY ANGELS](https://open.spotify.com/track/1myPvMJvGsNVuQnpOQLccQ) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 2:52 |
 | 48 | [Realism VS Idealism](https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Spring Season \(1989\-1990\)](https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCw2ZTFjNjU1ZTlmNWQ4NWNlZWEwZjZhNjE4NjVhMmQzZDU4YmNkNTUx`
+Snapshot ID: `MCxlYmM2YzMxNmI0YTNkNGI2ZjE0MzI5N2EwNGMxNzJiMTA0NjdhOTFk`

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-257 songs - 13 hr 19 min
+258 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Heart on Fire](https://open.spotify.com/track/0NzgX6oHNy0Wy0VCLX1u90) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Heart on Fire](https://open.spotify.com/album/4gyrk2gUPVY88ODmiPcBRH) | 3:32 | 2022-08-12 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-25 | 2023-04-16 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
-| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-26 |  |
+| [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 | 2023-06-02 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-05 |  |
 | [Hold On](https://open.spotify.com/track/14wHKX7gSF6cgICuakSte9) | [Future Boyfriend](https://open.spotify.com/artist/6WgbfyAIroFv9OUhPbdqr8) | [Hold On](https://open.spotify.com/album/7dMBbDTMgB1H4xIZdQmVWz) | 3:50 | 2022-10-14 | 2022-10-18 |
 | [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 | 2022-02-25 | 2023-01-21 |

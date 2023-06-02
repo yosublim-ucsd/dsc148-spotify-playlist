@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGquR9lelQD.md) - [plain]
 
 > Shame exists because representation doesn’t\. Unshaming shares the stories of silenced communities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 988 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 987 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwxZjQ0Nzk2NTljY2M2YmI3Y2UzMDkzYjU3ZTEyYTMzNzFhNjgwZjJh`
+Snapshot ID: `MCw3NTZmMTdiN2VkYjZmY2RjOTYxMjlmMzY3M2VlMjM0Mzg5ZTBkZjcw`

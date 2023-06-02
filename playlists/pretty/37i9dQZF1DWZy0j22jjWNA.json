@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 80008,
+  "num_followers": 80055,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTIxMDI2ODgwYTc4ODc1ZDc4YTk4MGI5YTIzZGMzMDQ2YTE3Njdj",
+  "snapshot_id": "MCxmY2NhZDJkOTIwMDQzOGMyY2I2YjYxOTVmMWI1NjBmYWQ2YzhiZTg3",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 204875,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Waters",
         "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 204875,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
-      },
-      "artists": [
-        {
-          "name": "Zach Winters",
-          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
-        }
-      ],
-      "duration_ms": 288624,
-      "name": "Ain't No Grave",
-      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
+      },
+      "artists": [
+        {
+          "name": "Zach Winters",
+          "url": "https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu"
+        }
+      ],
+      "duration_ms": 288624,
+      "name": "Ain't No Grave",
+      "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
+      },
+      "artists": [
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Autumn Love",
         "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
-      },
-      "artists": [
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Versions",
         "url": "https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 231346,
       "name": "Losing the Lonely",
       "url": "https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Broken With You",
-        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Sheridan",
-          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
-        }
-      ],
-      "duration_ms": 178796,
-      "name": "Starts With You And Me",
-      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Free Like a Broken Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+        "name": "Broken With You",
+        "url": "https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Nathan Sheridan",
+          "url": "https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm"
         }
       ],
-      "duration_ms": 213653,
-      "name": "Free Like a Broken Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
+      "duration_ms": 178796,
+      "name": "Starts With You And Me",
+      "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 188092,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Free Like a Broken Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Free Like a Broken Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
     },
     {
       "added_at": "2020-09-04 04:02:00",

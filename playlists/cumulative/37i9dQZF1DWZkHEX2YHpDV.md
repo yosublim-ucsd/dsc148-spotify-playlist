@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-973 songs - 2 day 3 hr 31 min
+974 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [One True Prince](https://open.spotify.com/track/5wnITloAfJ33x0m1R0sQwF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [One True Prince](https://open.spotify.com/album/4PzJRdK8unANl6KqYrFjv1) | 3:58 | 2021-12-10 | 2022-07-29 |
 | [Oscillate](https://open.spotify.com/track/1mvYlO2lqNqqvCN2qHVjeh) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Oscillate](https://open.spotify.com/album/3D6IJTM8fsP4b2TRudkDHE) | 3:20 | 2022-02-04 | 2022-04-18 |
 | [Out of Reach](https://open.spotify.com/track/2SEf5vymF45MFR49zwd4Iq) | [Heavy Hearts](https://open.spotify.com/artist/5WH57wBnMti80IPvNFef8f) | [Out of Reach](https://open.spotify.com/album/1rUMHB3BigXlvyF6XKE8BD) | 3:14 | 2022-03-25 | 2022-04-15 |
+| [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-06-01 |  |
 | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/track/109mkG2S2huV1S5xFRbJgF) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [OUTRUN MYSELF \(with Travis Barker\)](https://open.spotify.com/album/7id2U1wDRV9goCqhnPrLGv) | 2:24 | 2021-12-10 | 2022-05-18 |
 | [Over My Dead Body](https://open.spotify.com/track/79onN4j5gwxAGJAD5L32aJ) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Over My Dead Body](https://open.spotify.com/album/5g9HxTenzBrKFjhFpWQ3ac) | 2:17 | 2023-04-23 |  |
 | [Panic Again](https://open.spotify.com/track/6lWCXQlDpfzuSkiAZgWSUF) | [MNYS](https://open.spotify.com/artist/4ymdwRD5Aq27CugmxZFJv0) | […before the internet](https://open.spotify.com/album/7hG2j07czbCDCIjh1IcYen) | 2:25 | 2022-06-17 | 2022-06-25 |
@@ -779,7 +780,7 @@
 | [Speed Dial](https://open.spotify.com/track/0LrWMZCmxWegxbZbQccppU) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Speed Dial](https://open.spotify.com/album/7wEZ3uiW1DrNEt51EWcI7l) | 2:15 | 2022-05-13 | 2022-07-28 |
 | [Spinning](https://open.spotify.com/track/1z3WRqFWWKVKHDRhdm6q3t) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Spinning](https://open.spotify.com/album/6KJ4ZqkdKTTkaBeg94nLc0) | 2:48 | 2022-02-04 | 2022-04-21 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-06-24 | 2022-08-27 |
-| [St\. Girlfriend](https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:27 | 2022-11-04 |  |
+| [St\. Girlfriend](https://open.spotify.com/track/5kobpyghUySxs0Rxb3r5e3) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:27 | 2022-11-04 | 2023-06-02 |
 | [Stabbing Pains](https://open.spotify.com/track/26bNVknaXszLBjmt7tINSr) | [Catch Fire](https://open.spotify.com/artist/4UznOw8zWIipRRTCXLaKSi) | [Karma Owes Me a Lifetime of Happiness](https://open.spotify.com/album/319Xkg44FawH4D9gEDkMKH) | 3:05 | 2022-03-25 | 2022-03-27 |
 | [Stains](https://open.spotify.com/track/0HkHg1vLHKEqFqmUZKBrYX) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Stains](https://open.spotify.com/album/0r2DygcYyv676ZrzfSZVE4) | 2:07 | 2022-01-14 | 2022-05-15 |
 | [Stand Up](https://open.spotify.com/track/6OX9wEEuYnfU3LNEZT90eY) | [Orson Wilds](https://open.spotify.com/artist/3XnFTYeZVpwvW5qQtmWAWe) | [Stand Up / Mothers Daughters](https://open.spotify.com/album/2iK18JMOO4LYH0XsxlnkqR) | 3:14 | 2021-12-10 | 2022-07-27 |

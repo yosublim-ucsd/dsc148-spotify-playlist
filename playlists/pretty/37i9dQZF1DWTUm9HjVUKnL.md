@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,891 likes - 864 songs - 2 day 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,890 likes - 864 songs - 2 day 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HATELOVE \- Spotify Single](https://open.spotify.com/track/0aqsHz5aoW0370n2fxXJc4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:03 |
-| 2 | [Hopelessly Devoted \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
+| 2 | [Hopelessly Devoted To You \- Spotify Single](https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Spotify Singles](https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi) | 3:10 |
 | 3 | [in my head \- Spotify Singles](https://open.spotify.com/track/6tjO12ONcOp5qB129t7DTV) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 3:49 |
 | 4 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
 | 5 | [Outside \(RHEAMIX\) \- Spotify Singles](https://open.spotify.com/track/5yhyupaHwYR8hPDqlu2yB3) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Benn Good](https://open.spotify.com/artist/49s4e1xyijY8a9jPBqxR0q) | [Spotify Singles](https://open.spotify.com/album/14RaxU4GEZgaPwrbmbSqDL) | 2:39 |
@@ -873,4 +873,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 863 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 864 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw4Yjc0NTNmNmVjZGQzZjY1Zjc0MGVhNTBlM2ExMjIwMWI0ZjcyZTQw`
+Snapshot ID: `MCw2ZDI2YTkzYmFkODRkNzgwYThlZTYxNzhjZTllOGIxYmRkOTNhMGY4`

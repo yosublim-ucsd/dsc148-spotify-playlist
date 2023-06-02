@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 13039,
+  "num_followers": 13060,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTA5NGRkYTE2YWMwMDQ4MTUxZWM1YjM0MjE4ZTljODkwMzUwY2I2",
+  "snapshot_id": "MCw3ODM2ZTVmOTZhZTIyMjVjM2M0NDQwYTkyOWExMDY1OWY3NzhjZmYy",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:52",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Drink it, Girls!",
-      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
     },
     {
       "added_at": "2023-05-05 08:18:52",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
+        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 193790,
       "name": "Missing You (feat. Dvwn)",
       "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
-        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Cheers!",
-      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
     },
     {
       "added_at": "2023-05-05 08:18:52",

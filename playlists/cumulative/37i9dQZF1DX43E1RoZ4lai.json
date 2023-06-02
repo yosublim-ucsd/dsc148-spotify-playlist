@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Viridian",
+        "url": "https://open.spotify.com/album/0KsCfzrnCh37kVzNIi9dM3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302289,
+      "name": "Feldgrau",
+      "url": "https://open.spotify.com/track/2N2KnRruCRlQw2J2buS9tJ"
+    },
+    {
+      "album": {
         "name": "Fellowship",
         "url": "https://open.spotify.com/album/3YTvz5YwqUCGOQhbvk1aEs"
       },
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 318967,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/37xiYWIg7WS01fbtn2zPMm"

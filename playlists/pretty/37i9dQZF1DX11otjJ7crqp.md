@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Lauren Spencer Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,772 likes - 104 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,833 likes - 104 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 55 | [Thank God These Walls Can’t Talk](https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Thank God These Walls Can’t Talk](https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7) | 2:35 |
 | 56 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
 | 57 | [Waste A Tear](https://open.spotify.com/track/0q95y4MRVrqGaJNtz98Eb6) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/2tOODqOEMwOFPIswwcgCr7) | 2:27 |
-| 58 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
+| 58 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
 | 59 | [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 |
 | 60 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 |
 | 61 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 103 | [Gentle](https://open.spotify.com/track/1qt7Dr1rek4FXHoX3h9lzM) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Gentle](https://open.spotify.com/album/3LOPFTCGElXKFqJ9EO2F6R) | 2:10 |
 | 104 | [So Will I](https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [So Will I](https://open.spotify.com/album/1jz72j3JNoHfQfaN8QGKH3) | 2:53 |
 
-Snapshot ID: `MCw0ZDAwZGNjZTYyNzNiOWY4ZDhiNzA0YmY5MjY0MDU4NzMxYTBlMmMw`
+Snapshot ID: `MCw1ZjA0MWNmMjg4MTU3ODRjYWIyMzc0YWY3ZTE2Nzg0M2FkZjc3MTJm`

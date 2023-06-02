@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 294600,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 248052,
       "name": "Battle Tonight",
       "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
@@ -254,6 +254,24 @@
       "duration_ms": 228983,
       "name": "Beyond Imagination - Element Remix",
       "url": "https://open.spotify.com/track/4SXhmBta459ZhEXcOiN2rI"
+    },
+    {
+      "album": {
+        "name": "Blackness (Defqon.1 2023 BLACK OST)",
+        "url": "https://open.spotify.com/album/7zC4BUoX1cXgELReT4spzJ"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278367,
+      "name": "Blackness - Defqon.1 2023 BLACK OST",
+      "url": "https://open.spotify.com/track/1KdeK8U57BTUUi2Xm4X48r"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 226285,
       "name": "Deathblow",
       "url": "https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Demolition Hardcore",
       "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
@@ -673,6 +691,28 @@
     },
     {
       "album": {
+        "name": "Dikke Rave Beat",
+        "url": "https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC"
+      },
+      "artists": [
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        },
+        {
+          "name": "Unlocked",
+          "url": "https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Dikke Rave Beat",
+      "url": "https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481"
+    },
+    {
+      "album": {
         "name": "Dirty Thoughts",
         "url": "https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U"
       },
@@ -746,7 +786,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl"
@@ -790,6 +830,24 @@
       "duration_ms": 240000,
       "name": "Endemic",
       "url": "https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX"
+    },
+    {
+      "album": {
+        "name": "Enemy Contact",
+        "url": "https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220725,
+      "name": "Enemy Contact",
+      "url": "https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8"
     },
     {
       "album": {
@@ -996,7 +1054,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 234934,
       "name": "From The Underground (Rave Core)",
       "url": "https://open.spotify.com/track/6f7hGT8dkVxUcMP943ZRmD"
@@ -1044,7 +1102,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 218250,
       "name": "Full Throttle (Official Gearbox Full Throttle Anthem)",
       "url": "https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx"
@@ -1154,7 +1212,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 169350,
       "name": "Generavers",
       "url": "https://open.spotify.com/track/0OCosJ6fVT8Oqy3MPmNLrl"
@@ -1276,7 +1334,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
@@ -1684,7 +1742,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 302739,
       "name": "Kingdom - Sefa Remix",
       "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
@@ -1750,7 +1808,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
@@ -1768,7 +1826,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 213890,
       "name": "Loco",
       "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
@@ -1938,7 +1996,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 295187,
       "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
       "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
@@ -2106,7 +2164,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 211503,
       "name": "Omega - Live Edit",
       "url": "https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4"
@@ -2452,7 +2510,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 237818,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
@@ -2496,7 +2554,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 237677,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3"
@@ -2674,7 +2732,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 184461,
       "name": "Somebody Scream",
       "url": "https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN"
@@ -2744,7 +2802,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 227022,
       "name": "STRUGGLE TO SURVIVE",
       "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
@@ -2904,7 +2962,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 195600,
       "name": "The Next Level",
       "url": "https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS"
@@ -2922,7 +2980,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 319500,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
@@ -3006,7 +3064,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 265945,
       "name": "The Sound Flow",
       "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
@@ -3178,7 +3236,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 252158,
       "name": "Warriors (2022 Refix)",
       "url": "https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8"

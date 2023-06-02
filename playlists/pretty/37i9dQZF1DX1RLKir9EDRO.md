@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: nisan Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,777 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,794 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 | 75 | [Son Perde](https://open.spotify.com/track/6ixXTrGqmgluADrd9EJxxa) | [Ben Ölünce](https://open.spotify.com/artist/3aM81T2G7hGpcGGuspkI8l) | [Son Perde](https://open.spotify.com/album/7HN9KD3pQXoo5O3v2wslKO) | 3:48 |
 
-Snapshot ID: `MCwyZDM3Y2ViMmZmNTg0M2I1MDlkMDJhYmZhZGYxYzhkMjMxNDA4ZWQ4`
+Snapshot ID: `MCw5YjMyNTZhNDMyNmE4ZjIwMmYwNDgyNWFiOWM1MTkxZmYxNjc5MzVj`

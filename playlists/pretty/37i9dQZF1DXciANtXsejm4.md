@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,941 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,041 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 15 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
 | 16 | [Tu Sombra en Mi](https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:55 |
 | 17 | [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 |
-| 18 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
-| 19 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
+| 18 | [Nada](https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [Nada](https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA) | 3:06 |
+| 19 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 |
 | 20 | [Cómo Pude Amarla](https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:25 |
 | 21 | [Quédate Tranquila](https://open.spotify.com/track/0fbhMix3hzu5L4XoOHU8rM) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Lo Mejor del León](https://open.spotify.com/album/2whwckDILym1HJqJAH971i) | 1:20 |
 | 22 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 29 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
 | 30 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 31 | [Ahora Lloras](https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 4:22 |
-| 32 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
-| 33 | [Dios Me Libre](https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 4:05 |
+| 32 | [Dios Me Libre](https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 4:05 |
+| 33 | [Hasta el Sol de Hoy \(En Vivo\)](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
 | 34 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
 | 35 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 36 | [Entre tú y mil mares](https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0) | [La contrà](https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM) | [Para Toda La Vida](https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 79 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 |
 | 80 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
 
-Snapshot ID: `MCwwOThiZGQwMzRlMGRmY2YxODkxOThjZjhhODMyZDFjMDBiOWE0ZTBk`
+Snapshot ID: `MCw1NmUzZmE4NDc1OWFlMjYxMTliNmYwOThlMWU1NDBkMGYyZjljODVl`

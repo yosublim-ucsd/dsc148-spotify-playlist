@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=\_BkhqRTRQOy8BS3ltFT0KA"> Nomfundo Moh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,934 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,030 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 60 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 |
 | 61 | [Bekezela \(feat\. Mthandazo Gatya\)](https://open.spotify.com/track/5VszpClrr82fD5eBwtHpLa) | [Masandi](https://open.spotify.com/artist/51hgP1mhv9T6UMXVjMKDhn), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees) | [Bekezela \(feat\. Mthandazo Gatya\)](https://open.spotify.com/album/5RoYXbmj1rcGkrqHk7ZmHb) | 4:39 |
 | 62 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 63 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:07 |
+| 63 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 64 | [Lil Mama](https://open.spotify.com/track/0TdQ54hT5S5racTQAwdW3U) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Lil Mama](https://open.spotify.com/album/1uW6l7lFd88GtgYglei0ZR) | 3:44 |
 | 65 | [In My Head](https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Tujiangalie \- EP](https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu) | 3:38 |
 | 66 | [Undercover Lover](https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi) | [Undercover Lover](https://open.spotify.com/album/11T4lEhgDKLOA6be6OUzfP) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Mayana](https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:38 |
 | 80 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 |
 
-Snapshot ID: `MCw2NjBkNTg4NDc0MGVhNzljMmQwZjI0YTgxM2RlOWEwZTE5YWNjMWVi`
+Snapshot ID: `MCw3ZWY5YjMxNWI2OWM0ZTgyYTYxODZlNTRjMzMzMmVmNjg2ZjAyYTE4`

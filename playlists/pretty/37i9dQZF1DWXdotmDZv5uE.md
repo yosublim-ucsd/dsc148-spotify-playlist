@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,380 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,398 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 31 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
 | 32 | [Camino A San Miguel](https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 2:12 |
 | 33 | [El toro viejo](https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Mañanitas](https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW) | 3:21 |
-| 34 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
-| 35 | [El Barrilito](https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [Mis Rancheras Favoritas](https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP) | 2:49 |
+| 34 | [El Barrilito](https://open.spotify.com/track/6SrFN9LvRwvsMqlvu9opUf) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [Mis Rancheras Favoritas](https://open.spotify.com/album/7mVwlRCnXaFYoxSmY2WWtP) | 2:49 |
+| 35 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
 | 36 | [Pinotepa](https://open.spotify.com/track/3vdxdNwaXWwUyf3bHpxIr2) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:44 |
 | 37 | [El tilingo](https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:05 |
 | 38 | [El Balajú](https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 4:54 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 64 | [Sobre Las Olas](https://open.spotify.com/track/6ln87FGFhW5ZSrqQu70b3L) | [Juventino Rosas](https://open.spotify.com/artist/07KnR00fN51QEaiiSKPMWt), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 5:31 |
 | 65 | [El Zapateado](https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX) | [Andrés Vega Delfín](https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6) | [De la mera mata](https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26) | 4:49 |
 | 66 | [Cielito Lindo](https://open.spotify.com/track/406FTp77mbKa4NGY0ebVJn) | [Trio Chicamole Son Huasteco](https://open.spotify.com/artist/2mglsa8fsq4zRbrqW2w7aB) | [El Apasionado](https://open.spotify.com/album/2fADsQIgAk1ifIvDNLGBvn) | 3:57 |
-| 67 | [El Borracho](https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI) | [Macuilxochitl](https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu) | [Pasión Huasteca](https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa) | 2:50 |
+| 67 | [La Herlinda](https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 5:17 |
 | 68 | [El querreque](https://open.spotify.com/track/5dTTwhrvFAFrSVEZhIgK7U) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 3:47 |
-| 69 | [La Herlinda](https://open.spotify.com/track/6iOHL0IaRWiynHxNrQMTbn) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 5:17 |
+| 69 | [El Borracho](https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI) | [Macuilxochitl](https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu) | [Pasión Huasteca](https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa) | 2:50 |
 | 70 | [Por Los Caminos Del Sur](https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Vania Fortuna](https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF) | [Por Los Caminos Del Sur](https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689) | 2:38 |
 | 71 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |
 | 72 | [El Siquisirí](https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [Un Tequila y Una Rubia](https://open.spotify.com/track/3E6GSxnXLIXgsxxhnnFvKd) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 1:47 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCxlYmI4NWU0ZWNkMDIxNTIxMjgzYzhjMTA1ZDVmZDg0MjBjNDBlZDc2`
+Snapshot ID: `MCxhNDczMjllNDlkNmY2NTRhZWI3ZDQxYjQyYTE1ODFkMzEyYTQwZGM4`

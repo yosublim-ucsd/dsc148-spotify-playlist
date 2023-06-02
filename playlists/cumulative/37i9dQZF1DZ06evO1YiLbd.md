@@ -4,13 +4,13 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 21 min
+72 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-12-23 |  |
 | [All might with U.A\. Students](https://open.spotify.com/track/59h3i22MBicerNR1llNXqv) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:29 | 2022-12-23 |  |
-| [Always and Forever](https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:50 | 2023-05-24 |  |
+| [Always and Forever](https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:50 | 2023-05-24 | 2023-06-02 |
 | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/track/2uKvB7z8Iv1Qspw8wHfLCy) | [Bakrou](https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh), [Anzar](https://open.spotify.com/artist/5m1ntKpYHZpOVf8KjHudQI), [Yuki Hayashi](https://open.spotify.com/artist/6WREWcPKElbqTJ9UHevdbf) | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/album/3d5nMhabrfLblSINhyiQ5D) | 2:11 | 2023-03-24 | 2023-04-19 |
 | [From Me to You](https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:21 | 2022-12-23 |  |
 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 | 2022-12-23 |  |
@@ -63,6 +63,7 @@
 | [敗者](https://open.spotify.com/track/3MKlI3y3MQjcAzmgG3VJoe) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 2:42 | 2022-12-23 |  |
 | [暴走する悪意](https://open.spotify.com/track/0u1McmvpOZsUIjIvhmm4fM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 1:52 | 2022-12-23 |  |
 | [期待](https://open.spotify.com/track/1YtfQWbOClRDQ4oA4ZuwHl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 1:38 | 2022-12-23 |  |
+| [案山子 \- Piano Solo](https://open.spotify.com/track/4xBewpNzy4cIuWwkBJ7A6A) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「伊藤潤二『コレクション』」オリジナル・サウンドトラック](https://open.spotify.com/album/1JUZQ5HwuxVdR6Z2jmvOyk) | 1:38 | 2023-06-01 |  |
 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 | 2022-12-23 |  |
 | [歯車](https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:19 | 2023-03-01 | 2023-03-03 |
 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 | 2022-12-28 | 2023-05-12 |

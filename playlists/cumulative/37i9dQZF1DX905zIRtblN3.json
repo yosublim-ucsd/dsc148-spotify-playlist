@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "CCC",
+        "url": "https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126081,
+      "name": "CCC",
+      "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
         "name": "Ch y la Pizza",
         "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
       },
@@ -1327,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "VGLY (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6L6OHxh6qNtqkRmxNEVHvf"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161494,
+      "name": "Doble Vaso",
+      "url": "https://open.spotify.com/track/6DlxxuLfJLZlynCWolPcGB"
+    },
+    {
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 200000,
       "name": "Mentira No Es",
       "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
@@ -3542,6 +3582,24 @@
       "duration_ms": 213221,
       "name": "M\u00e1s Muerto Que Vivo",
       "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Te Va a Doler",
+        "url": "https://open.spotify.com/album/7GXA6EaThSEbjVVdaBvuZg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194230,
+      "name": "M\u00e1s Te Va a Doler",
+      "url": "https://open.spotify.com/track/5zKXodTRdBV2Mv12UmM3Tc"
     },
     {
       "album": {
@@ -5340,7 +5398,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 155818,
       "name": "Tronando Ligas",
       "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"

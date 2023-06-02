@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 178564,
       "name": "Banda",
       "url": "https://open.spotify.com/track/0CTQlAEZI4DrtxIySsGWuL"
@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "El Ma\u00edz",
+        "url": "https://open.spotify.com/album/1aeojoH4LbCtGiLKyUOqRr"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223283,
+      "name": "El Ma\u00edz",
+      "url": "https://open.spotify.com/track/0y2ZDd5F0ufYtxyLLUIEH6"
+    },
+    {
+      "album": {
         "name": "El Motorcito",
         "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
       },
@@ -3422,6 +3440,28 @@
       "duration_ms": 198205,
       "name": "La Cueva de los Indios - Remix",
       "url": "https://open.spotify.com/track/4f35SGCtFl13L0PrEWCrXK"
+    },
+    {
+      "album": {
+        "name": "Dembow Latino",
+        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
+      },
+      "artists": [
+        {
+          "name": "El Mega",
+          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193192,
+      "name": "La Cueva de los Indios - Remix",
+      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
     },
     {
       "album": {
@@ -5636,7 +5676,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 146495,
       "name": "Popiropi",
       "url": "https://open.spotify.com/track/164VYV8a3StW2pkS9IbZH1"
@@ -5848,7 +5888,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
@@ -6592,7 +6632,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 180955,
       "name": "Subele el Volumen",
       "url": "https://open.spotify.com/track/1mvqGL0WGbn8bj9VNFUScH"

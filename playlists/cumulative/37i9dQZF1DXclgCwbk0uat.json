@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+ Q LA XUXA",
+        "url": "https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160961,
+      "name": "+ Q LA XUXA",
+      "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
+    },
+    {
+      "album": {
         "name": "2 Hielos",
         "url": "https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 292752,
       "name": "ADICTO (feat. Best, Bayriton)",
       "url": "https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ"
@@ -776,7 +794,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 219401,
       "name": "Ese Corte",
       "url": "https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39"
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Mami No Est\u00e9s Triste",
+        "url": "https://open.spotify.com/album/1zfbqj4jWdHyMtOQJKdMA3"
+      },
+      "artists": [
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409367,
+      "name": "Mami No Est\u00e9s Triste",
+      "url": "https://open.spotify.com/track/0zbZ35wheiBtqPH2noBVhF"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 119834,
       "name": "Mandame Tu Ubi",
       "url": "https://open.spotify.com/track/7wGy7XfvDC7PRNtMQkHVuN"
@@ -2286,6 +2322,28 @@
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "album": {
+        "name": "Me Veo Rico",
+        "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164724,
+      "name": "Me Veo Rico",
+      "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
     },
     {
       "album": {
@@ -4588,6 +4646,24 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155828,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
     },
     {
       "album": {

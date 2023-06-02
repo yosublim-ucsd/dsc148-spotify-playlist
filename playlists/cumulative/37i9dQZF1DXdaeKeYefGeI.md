@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-111 songs - 7 hr 2 min
+112 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 | 2023-02-10 |  |
 | [Alles Stil](https://open.spotify.com/track/4g1c9gwebd9Pvg3zuDA14v) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Alles Stil](https://open.spotify.com/album/79VGEKw3ugGM7qHo5BaYRf) | 4:05 | 2023-02-10 |  |
 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 | 2023-02-10 |  |
+| [Als ik ooit wil gaan](https://open.spotify.com/track/1LVfKIpNTPgQknWN7TTsWM) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Als ik ooit wil gaan](https://open.spotify.com/album/2mSuGoBYlFj2pIjgHqG2vd) | 3:28 | 2023-06-01 |  |
 | [Alsof](https://open.spotify.com/track/5BM1VtsHL1HxUsF2xQVz2G) | [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh), [Fay Lovsky](https://open.spotify.com/artist/2NEeqYen2FsMivq7JBIJiv) | [Alsof](https://open.spotify.com/album/38XTEhm8maA44fEQdvjcnF) | 3:23 | 2023-02-10 | 2023-03-18 |
 | [Altijd Dorst](https://open.spotify.com/track/3HyWVDESd05MxK1S23eMm3) | [Youp van 't Hek](https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP), [Ton Scherpenzeel](https://open.spotify.com/artist/17a49nqhcCd0kvqHwxbVhP), [Matangi Quartet](https://open.spotify.com/artist/24NmIo95ZKPV5DKMKCXgaL) | [Huisje aan C](https://open.spotify.com/album/3xOBDqh78LgGXFMZDJDl0l) | 4:10 | 2023-02-10 | 2023-05-16 |
 | [Annabel](https://open.spotify.com/track/6trgkuKd380kEbIrpEARGo) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Het Beste Van](https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm) | 3:32 | 2023-02-10 |  |
@@ -101,7 +102,7 @@
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 |  |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 |  |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 |  |
-| [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 |  |
+| [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 | 2023-06-02 |
 | [Vallen en Weer Opstaan](https://open.spotify.com/track/4jkmmV57x7CY8K4f0wKbi3) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vallen en Weer Opstaan](https://open.spotify.com/album/5qWstIv3DEVpfUvfXHCCHu) | 3:45 | 2023-02-10 |  |
 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 | 2023-02-10 |  |
 | [Verbinding Verbroken](https://open.spotify.com/track/62DcDrTg5pddwjRQq3vEUZ) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Veertig](https://open.spotify.com/album/6B911gvHF7vDnwS0a8RQCD) | 1:58 | 2023-05-11 |  |

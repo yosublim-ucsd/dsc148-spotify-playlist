@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 840789,
+  "num_followers": 840880,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmI3NjdhNzYzNWIxOTA3YTIwOTcyNDY3MGNkNTc1OGE4NzUwMjk5",
+  "snapshot_id": "MCxhNGY5MTc5ZGIzZTExYmRhYTBhNjg4MDYzOTM3ZTllYzM2ODIyMmNi",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "July Bones",
-      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "July Bones",
+      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Godzilla",
-        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
-      },
-      "artists": [
-        {
-          "name": "Nanna",
-          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
-        }
-      ],
-      "duration_ms": 289045,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "You Stay by the Sea (Deluxe)",
         "url": "https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 256394,
       "name": "Sea Creatures",
       "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
+      },
+      "artists": [
+        {
+          "name": "Nanna",
+          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
+        }
+      ],
+      "duration_ms": 289045,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Picture of You (feat. Hayden Calnin)",
+        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 261523,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 175777,
       "name": "...Familiar Place",
       "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Picture of You (feat. Hayden Calnin)",
-        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 261523,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Carrie",
-        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+        "name": "Filthy Rich",
+        "url": "https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg"
       },
       "artists": [
         {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
         }
       ],
-      "duration_ms": 242193,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+      "duration_ms": 121590,
+      "name": "Filthy Rich",
+      "url": "https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5"
     },
     {
       "added_at": "2023-05-19 04:00:00",

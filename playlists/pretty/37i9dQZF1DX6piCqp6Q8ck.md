@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,803 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,789 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 16 | [White Christmas](https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:38 |
 | 17 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
 | 18 | [\(There's No Place Like\) Home for the Holidays \- 1954 Version](https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:51 |
-| 19 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
-| 20 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
+| 19 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
+| 20 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
 | 21 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 22 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 |
 | 23 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 51 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |
 | 52 | [Silent Night](https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 |
 | 53 | [Winter Wonderland \- 78 Take](https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 3:19 |
-| 54 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 |
-| 55 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
+| 54 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
+| 55 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 |
 | 56 | [Dig That Crazy Santa Claus](https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k) | [Ralph Marterie](https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38), [Ralph Marterie and His Orchestra](https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:32 |
 | 57 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 |
 | 58 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MCwwODRiYWQ5MTJlYTYxMjhiOTJhMzAyNGRkMmEzOWM0MDQ2ZjZiY2Fj`
+Snapshot ID: `MCwzMWZiYjQ2MTE1YzkxMzBhZTRhOWJmNDhlNGE5NGRiYzE0ZTczNmFl`

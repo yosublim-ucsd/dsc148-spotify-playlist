@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-167 songs - 9 hr 51 min
+168 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [MBTI \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/4EDs1R8JOI6nkCbarCsITs) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 4:13 | 2021-12-07 |  |
 | [Michael Jackson \(Dance Ver.\)](https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Michael Jackson](https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg) | 2:54 | 2023-01-25 |  |
 | [Midnight \(1988 Remix\)](https://open.spotify.com/track/6zKpynDvNISzYJBCYmOXOw) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:06 | 2021-12-07 |  |
-| [Morning \- Remastered](https://open.spotify.com/track/5aVVQgZ3Xf0uMVj4uqx6p8) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:25 | 2021-12-07 |  |
+| [Morning \- 2021 remastered](https://open.spotify.com/track/69PfI6lOYHk5rq3QKdrmW0) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/2FxCjnASIOcL0mtBCpIFSF) | 4:25 | 2023-03-27 |  |
+| [Morning \- Remastered](https://open.spotify.com/track/5aVVQgZ3Xf0uMVj4uqx6p8) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:25 | 2021-12-07 | 2023-06-02 |
 | [My Boo](https://open.spotify.com/track/4cB0Thf0cm4IxuvzXOKcgM) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [My Boo](https://open.spotify.com/album/2xBnpqu1Ezb2oOAUCCS4HS) | 3:51 | 2021-12-07 |  |
 | [NEON 1989](https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 2:26 | 2022-07-04 |  |
 | [NEON 1989](https://open.spotify.com/track/4fV6vKhVRuN7COf4yTjOAj) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 2:26 | 2021-12-07 | 2022-07-29 |

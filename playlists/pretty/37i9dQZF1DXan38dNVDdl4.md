@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,420 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,884 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,6 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 86 | [DOGGY STYLE](https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU) | [Fittis](https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [DOGGY STYLE](https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ) | 2:54 |
 | 87 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 |
 | 88 | [Dawkniss](https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d) | [1Skimask](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Dawkniss](https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg) | 2:41 |
-| 89 | [Only Fans](https://open.spotify.com/track/6Ac7pj7ajA3eY2sP0z97Xs) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/14eiVvhqGeNdf1lDcOzkVJ) | 3:00 |
+| 89 | [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 |
 
-Snapshot ID: `MCxlMTIwMzdkN2Y1NWRmYjMwMzFkM2UwZmZkYzYyNTkzOTYwOTU4NDM3`
+Snapshot ID: `MCxhN2IzZTdmZjI1MDhjMDQ4ZTg5ODE2ZjcwODkxMTk5NmVjYzczZmVk`

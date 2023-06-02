@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,950 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,988 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 51 | [Love And Marriage](https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:38 |
 | 52 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
 | 53 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
-| 54 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 |
-| 55 | [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 |
-| 56 | [Magic Moments \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/165n9dxHacuguzneup0HXQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:40 |
+| 54 | [Magic Moments \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/165n9dxHacuguzneup0HXQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [The Essential Perry Como](https://open.spotify.com/album/6guLNpxip1tU3OYWNkPksw) | 2:40 |
+| 55 | [What Do You Want to Make Those Eyes at Me for](https://open.spotify.com/track/5LpUlD9Egwtf4SgDRE9HVs) | [Emile Ford & The Checkmates](https://open.spotify.com/artist/2qyvlQ4Ku5zc2mk4pYamzC) | [What Do You Want to Make Those Eyes At Me For?](https://open.spotify.com/album/3sA8LG6XghvwNgzLCRplKv) | 2:04 |
+| 56 | [A Tear Fell](https://open.spotify.com/track/4Dvh0RfaYxlEqQjRrWZSCl) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa \(Expanded Edition\)](https://open.spotify.com/album/6LT7LVvqxjEWuxHZ55sWfx) | 2:35 |
 | 57 | [Island In The Sun](https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [The Essential Harry Belafonte](https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi) | 3:21 |
 | 58 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
 | 59 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [I'm Sorry I Made You Cry](https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:27 |
 | 80 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
 
-Snapshot ID: `MCw2MzIzMDBkOTk3ZTRlMWM5YWQ4MjE1ZDUzZWM4OWUxYTUwODY4MGFl`
+Snapshot ID: `MCxlZTdmMGEyZGU3ZDlmYzAyYTk3ZGQ2Zjg2NzhjMjUwMjMzYzY0OWIx`

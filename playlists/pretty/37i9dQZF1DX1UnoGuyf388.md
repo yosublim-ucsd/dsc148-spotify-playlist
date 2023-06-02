@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Labrinth
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,641 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,686 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 18 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 19 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 |
 | 20 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
-| 21 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 21 | [WORTHLESS](https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:43 |
 | 22 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
 | 23 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 24 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 42 | [Better off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 |
 | 43 | [ur a bitch](https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [ur a bitch](https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO) | 2:30 |
 | 44 | [Buttercup](https://open.spotify.com/track/7oiGzkDfrxvgV1z1mP5muH) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Buttercup](https://open.spotify.com/album/4XxBogi8mepTIkoNnB6Tez) | 3:29 |
-| 45 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
+| 45 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 | 46 | [Romance](https://open.spotify.com/track/6UdBnXVvJTHm4o8E3ZCo1O) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Romance](https://open.spotify.com/album/10Or98Yy7DO1vUVaHhLY8I) | 3:18 |
 | 47 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 48 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 60 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 61 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 
-Snapshot ID: `MCwwMmM4MWRiZjAxMGNkZjRiMzIyZjAxOGUwZjlmZjFjZTY0Y2M1ODAw`
+Snapshot ID: `MCxmZjVjYWM2MDNjOGU3MjVjMTgzOWU1ZjZhMGYyMjBlYjQ0N2QwNTg3`

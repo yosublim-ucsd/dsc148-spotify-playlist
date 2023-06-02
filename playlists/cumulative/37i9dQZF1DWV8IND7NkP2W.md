@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-600 songs - 1 day 2 hr 54 min
+602 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
-| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-06-02 |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
@@ -207,6 +207,7 @@
 | [Green Hill](https://open.spotify.com/track/749WKwZM8qrjLeMxDahCn1) | [Matsuyama](https://open.spotify.com/artist/3TgHi7FuyXPEN6IYCU8gvs), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Green Hill](https://open.spotify.com/album/7I9wTS22p2Jj9noURIw9RF) | 2:40 | 2022-02-24 | 2022-04-18 |
 | [Green Hour](https://open.spotify.com/track/2W37pW44vjCKSgd75qx8D0) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/7lWq8L7ppbN87oY2rPbc00) | 2:31 | 2023-02-09 | 2023-02-11 |
 | [Green Hour](https://open.spotify.com/track/5sEq6CloKNgOClDlJZemZ4) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Green Hour](https://open.spotify.com/album/6sYcWXkK18aoNRdKOtiAF6) | 2:31 | 2023-02-09 | 2023-04-28 |
+| [Green Jewel](https://open.spotify.com/track/443DP06PvfXbDqq9nVmtnK) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Green Jewel](https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2) | 4:09 | 2023-06-01 |  |
 | [Guitar Story](https://open.spotify.com/track/7eS6wcWwGZPFD6mYmDuddd) | [MeS The Funk](https://open.spotify.com/artist/6h2bl2LD56yaah3wzvLKRe) | [Guitar Story](https://open.spotify.com/album/65Gbjz8kLn1nBhKGc0sDTJ) | 4:05 | 2022-01-27 | 2022-04-19 |
 | [Gypsy Woman](https://open.spotify.com/track/615Os9s5deQT7fOQku5grC) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Gypsy Woman](https://open.spotify.com/album/2JZtvbGIkc1Ive8AUU9osf) | 3:44 | 2021-12-23 | 2022-07-29 |
 | [Halo](https://open.spotify.com/track/1a0rqWQEjBPsYwADY6nPDF) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Halo](https://open.spotify.com/album/6nViH3LlPLcZLqfDv2DDWA) | 3:13 | 2022-06-02 | 2022-06-09 |
@@ -469,6 +470,7 @@
 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
 | [Skip](https://open.spotify.com/track/34N17xMTier5nIm0ETF1xD) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Late Night](https://open.spotify.com/album/6zmkMxBuSxAEC9Hm6vDNQi) | 3:00 | 2021-12-23 | 2022-04-19 |
 | [Skylight](https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q) | [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Skylight](https://open.spotify.com/album/4XzwXAqKC43RXOtCJGkvfU) | 2:09 | 2022-01-13 | 2022-04-12 |
+| [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 |  |
 | [sleeping](https://open.spotify.com/track/6vLM2Mnx7TSprGz0sN5lsl) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [sleeping](https://open.spotify.com/album/4pt1aDvcYSMz2UIFpyLkTT) | 3:09 | 2021-12-23 | 2022-07-29 |
 | [Slice](https://open.spotify.com/track/7rwCEAFT5ffObK2pWxx3d7) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Slice](https://open.spotify.com/album/6JKDszJZhXoXUptZLfeL9I) | 2:41 | 2022-01-13 | 2022-04-30 |
 | [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 | 2022-01-06 |  |
@@ -596,7 +598,7 @@
 | [Yarden](https://open.spotify.com/track/4Y2ks8t6QoaWGQaFVrrlug) | [MADLISK](https://open.spotify.com/artist/2tWCWZuRGn0nAE8l8r4H8h) | [Yarden](https://open.spotify.com/album/31keasWCyoW2vJKMoccCh4) | 2:00 | 2022-01-06 | 2022-07-27 |
 | [Yoake](https://open.spotify.com/track/3wvp4cZcmltC12kVjxYh42) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [synfilums](https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi), [Toma Itoko](https://open.spotify.com/artist/6EWRrTJig48jwlvwNUPCL4) | [Yoake](https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc) | 2:52 | 2021-12-23 | 2022-07-29 |
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
-| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
+| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2023-06-02 |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2023-02-10 |
 | [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 | 2022-12-02 |

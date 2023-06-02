@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 40099,
+  "num_followers": 40218,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmEzNjc5MTBkOTljMTc0YzhiZTg1MjUyNzhhNzk0NTlmMTg5ZWE4",
+  "snapshot_id": "MCxlZjg2ZTdhYTE2OGEzYTY4ZDBlY2M1YWYzMzdlZTc5MzYzMDVkZWVm",
   "tracks": [
     {
       "added_at": "2023-05-26 09:34:16",
@@ -127,7 +127,7 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
       "artists": [
@@ -136,20 +136,20 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Tempoe",
           "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
       "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
@@ -375,30 +375,6 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -608,7 +608,7 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 187274,
+      "duration_ms": 188656,
       "name": "Trumpet",
       "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
@@ -639,6 +639,22 @@
       "duration_ms": 207909,
       "name": "By Force",
       "url": "https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -675,22 +691,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -811,6 +787,30 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Many Things",
-        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 167881,
-      "name": "Many Things",
-      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
         "name": "Sugarcane (Remix)",
         "url": "https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
+        "name": "Many Things",
+        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 167881,
+      "name": "Many Things",
+      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
         "name": "soso",
         "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
         "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 211875,
       "name": "Who Is Your Guy? - Remix",
       "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -1035,6 +1019,22 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186299,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 146399,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "How Many Times",
-        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
-      },
-      "artists": [
-        {
-          "name": "DJ Big N",
-          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "How Many Times",
-      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
-    },
-    {
-      "added_at": "2023-05-26 09:34:16",
-      "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
       },
@@ -1471,6 +1447,30 @@
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+    },
+    {
+      "added_at": "2023-05-26 09:34:16",
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "added_at": "2023-05-26 09:34:16",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2023-05-26 09:34:16",
       "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,496 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,555 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 64 | [Unchange](https://open.spotify.com/track/6jiK5cO3rWtPsEGTO1117A) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Unchange](https://open.spotify.com/album/5n4rd614E0RVAuZNCtojLW) | 3:24 |
 | 65 | [Remember Me](https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Remember Me](https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy) | 2:19 |
 | 66 | [Have a Ball](https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:24 |
-| 67 | [Big Bend](https://open.spotify.com/track/1eBi4pRaRf2gRKcxGGpa1D) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/0aiiv8JHW22I8axAVTL9jy) | 2:28 |
+| 67 | [Big Bend](https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:28 |
 | 68 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 |
 | 69 | [It Feels Alright](https://open.spotify.com/track/0UDe6J6OfgOnHeQToYLRmo) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:28 |
 | 70 | [Back Seat](https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [Back Seat](https://open.spotify.com/album/04hqq9ebr9x6MRmJsyJkzF) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [I'll Come Running Back To You](https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Established 1972](https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk) | 4:11 |
 | 100 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MCw2ZDA3MjE1YTUzZWZjNDM4MDhkZWM2OWQ3YTdmOGFmMTliMzllOWUy`
+Snapshot ID: `MCxhZDllNzQ1NjZhNmQxYmNjOTBmMmJmNjI3MTRkNmFlNWRjYWViNWVm`

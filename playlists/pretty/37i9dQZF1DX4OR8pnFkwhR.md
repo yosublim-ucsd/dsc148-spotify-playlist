@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: れん
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,714 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,729 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,27 +26,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [フライデー・ナイト](https://open.spotify.com/track/6MXlv5l2I2BRa9pO38dE1a) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [フライデー・ナイト](https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ) | 2:55 |
 | 17 | [you n me](https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [you n me](https://open.spotify.com/album/4ysSkJfyOvJ8QEj0FGhIHw) | 4:28 |
 | 18 | [ハルケシ](https://open.spotify.com/track/35r5R6H2wyjkOsbvGh0YiX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハルケシ](https://open.spotify.com/album/5WLYwlMKYlv33hNEooeGy4) | 3:53 |
-| 19 | [俄青](https://open.spotify.com/track/4ptrNeHcA09ErHaHvAHJ6a) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [俄青](https://open.spotify.com/album/2oAont2hXYZP7LbK4KIvcM) | 5:25 |
-| 20 | [instability boy](https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [instability boy](https://open.spotify.com/album/7qw77NVxSekqWsy0hNectt) | 3:11 |
-| 21 | [Aliens](https://open.spotify.com/track/0vv6qG30lxAlhv8qI0N2I1) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Aliens](https://open.spotify.com/album/6RDLzM7aAIzxlWchfAJNt9) | 2:44 |
-| 22 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 |
-| 23 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 |
-| 24 | [Legit Soul](https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Legit Soul](https://open.spotify.com/album/6wrAech1TtN0JNVOLVeAFo) | 3:12 |
-| 25 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 |
-| 26 | [After All](https://open.spotify.com/track/2hsIDYYI4J7hdJeRsiSss0) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [After All](https://open.spotify.com/album/1DkbzERh9lwu0l4N5LYk2H) | 3:38 |
-| 27 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
-| 28 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 |
-| 29 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
-| 30 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 |
-| 31 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
-| 32 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
-| 33 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 |
-| 34 | [Bloom Town Disco](https://open.spotify.com/track/4KAFgQqkNSPdDAyeMLvUE7) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [Bloom Town Disco](https://open.spotify.com/album/4U25KH02PxTYHtRSsIVp2G) | 3:34 |
-| 35 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 |
-| 36 | [Taishitamondayo](https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [69 Jewel Beetle](https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF) | 4:32 |
-| 37 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 |
-| 38 | [その他大勢](https://open.spotify.com/track/3SQS6pC1NGFBqLKnwVfvGT) | [ヘッドフォンの中の世界](https://open.spotify.com/artist/4qh9h7K9uwSFHCGyDl0Sf9) | [その他大勢](https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK) | 4:27 |
-| 39 | [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 |
+| 19 | [花も咲かない束の間に](https://open.spotify.com/track/4ddWp9Fwhl1lUpnjWF6e4f) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [花も咲かない束の間に](https://open.spotify.com/album/0WOkn4kM1h2Cc0o5EaulNa) | 5:12 |
+| 20 | [俄青](https://open.spotify.com/track/4ptrNeHcA09ErHaHvAHJ6a) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [俄青](https://open.spotify.com/album/2oAont2hXYZP7LbK4KIvcM) | 5:25 |
+| 21 | [instability boy](https://open.spotify.com/track/3wIvBFccIp5N08GcW9sV2O) | [push pull pot](https://open.spotify.com/artist/0777DLWkvCQkjaokIVNOEq) | [instability boy](https://open.spotify.com/album/7qw77NVxSekqWsy0hNectt) | 3:11 |
+| 22 | [Aliens](https://open.spotify.com/track/0vv6qG30lxAlhv8qI0N2I1) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Aliens](https://open.spotify.com/album/6RDLzM7aAIzxlWchfAJNt9) | 2:44 |
+| 23 | [shower room rendezvous](https://open.spotify.com/track/4656G8EnjFhXdKQDpTnUPg) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [shower room rendezvous](https://open.spotify.com/album/04nZ0av3cPzR8J32FSwjbw) | 3:24 |
+| 24 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 |
+| 25 | [Legit Soul](https://open.spotify.com/track/2iCz8FwmzC6BZlt2FHqFrc) | [楓](https://open.spotify.com/artist/0L8NJHQYHpLt05yuyEUOlf) | [Legit Soul](https://open.spotify.com/album/6wrAech1TtN0JNVOLVeAFo) | 3:12 |
+| 26 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 |
+| 27 | [After All](https://open.spotify.com/track/2hsIDYYI4J7hdJeRsiSss0) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [After All](https://open.spotify.com/album/1DkbzERh9lwu0l4N5LYk2H) | 3:38 |
+| 28 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
+| 29 | [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 |
+| 30 | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/track/6LtMJVeESzRLu2qC7nvWSr) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Waraibanashi \-A Funny Story\-](https://open.spotify.com/album/6sTC6wymaf3mxFRljQuFp9) | 3:47 |
+| 31 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 |
+| 32 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
+| 33 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
+| 34 | [jya\-ji](https://open.spotify.com/track/11cyQJ1nsaOPoIfQRqUZep) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 2:35 |
+| 35 | [Bloom Town Disco](https://open.spotify.com/track/4KAFgQqkNSPdDAyeMLvUE7) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [Bloom Town Disco](https://open.spotify.com/album/4U25KH02PxTYHtRSsIVp2G) | 3:34 |
+| 36 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 |
+| 37 | [Taishitamondayo](https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [69 Jewel Beetle](https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF) | 4:32 |
+| 38 | [風船は小さな手を離れて](https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [もしかして世間](https://open.spotify.com/album/78Bbwa8TUPLlsaV1Y0vL3Q) | 3:55 |
+| 39 | [その他大勢](https://open.spotify.com/track/3SQS6pC1NGFBqLKnwVfvGT) | [ヘッドフォンの中の世界](https://open.spotify.com/artist/4qh9h7K9uwSFHCGyDl0Sf9) | [その他大勢](https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK) | 4:27 |
 | 40 | [Yumemirudakenara](https://open.spotify.com/track/4E0sHNrQxoP7LHBMdGCToR) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Yumemirudakenara](https://open.spotify.com/album/0KpYB0bKXN0YQXdxnfAOxB) | 3:32 |
 | 41 | [ふたり](https://open.spotify.com/track/6wbXSVc6kR9cAHP0rWTUMT) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [ふたり](https://open.spotify.com/album/1atBgPVgFDAyqyt4wGYz8w) | 4:12 |
 | 42 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [EDEN](https://open.spotify.com/track/4jRREEnEK7gta1bdJsYyDD) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [EDEN](https://open.spotify.com/album/53wQpWZuveMWCC8woe9rmO) | 3:39 |
 | 70 | [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 |
 
-Snapshot ID: `MCxmZDZhMmYyM2QwMjUwNGYwODIzYWI3ODJmMDUzYzliZWI3MDZmMDE1`
+Snapshot ID: `MCw5YzlhMDdjMDgzMzkzNmI4ODdkZjkxOTlhYzY4ZjM2YTdjZDE4NDFm`

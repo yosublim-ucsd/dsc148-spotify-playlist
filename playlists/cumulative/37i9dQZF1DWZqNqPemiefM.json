@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 97866,
       "name": "Going To The Sea",
       "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
@@ -4262,6 +4262,24 @@
       "duration_ms": 160000,
       "name": "minamo",
       "url": "https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx"
+    },
+    {
+      "album": {
+        "name": "Junebug Rhapsody",
+        "url": "https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr"
     },
     {
       "album": {

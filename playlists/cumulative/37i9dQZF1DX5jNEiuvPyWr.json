@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Zamdane",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -655,6 +655,42 @@
     },
     {
       "album": {
+        "name": "FLEGMATIQUE",
+        "url": "https://open.spotify.com/album/5BNAAWsmUR6IVpeIkx2leL"
+      },
+      "artists": [
+        {
+          "name": "Dehmo",
+          "url": "https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205635,
+      "name": "BUGUER",
+      "url": "https://open.spotify.com/track/7pJSEsKNRDdUolUPTBds49"
+    },
+    {
+      "album": {
+        "name": "Le prix d'une vie",
+        "url": "https://open.spotify.com/album/1J0oOhZtBR13n0Q2QuIhyr"
+      },
+      "artists": [
+        {
+          "name": "Don Milli",
+          "url": "https://open.spotify.com/artist/5sqFLj2cvQ7ZaD1Kpl4nFH"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "B\u00e9lier",
+      "url": "https://open.spotify.com/track/63nw2IGs22mY0j12wrTiCd"
+    },
+    {
+      "album": {
         "name": "C'EST MORT",
         "url": "https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI"
       },
@@ -1134,7 +1170,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 139275,
       "name": "En bas",
       "url": "https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu"
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 147555,
       "name": "No Love",
       "url": "https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x"

@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-310 songs - 20 hr 43 min
+312 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 | 2021-12-07 | 2022-09-30 |
+| [Dextereous](https://open.spotify.com/track/1Zait2JXHhKnnAhogy1pJJ) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Dextereous](https://open.spotify.com/album/0SH6CBD4cLzhVvElKEPMtE) | 3:08 | 2023-06-01 |  |
 | [Didn't know who else to call](https://open.spotify.com/track/2me6tmgT1A8d3R9stvr2UK) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Didn't know who else to call](https://open.spotify.com/album/453PIOiFYjFsoANz9ieG2P) | 3:31 | 2022-11-24 |  |
 | [Dipping Birds](https://open.spotify.com/track/3JtvojpnCGBLdalXoPpw4l) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Dipping Birds](https://open.spotify.com/album/2HpAQ9RPhao2ErPp3LLlGx) | 3:14 | 2022-11-17 |  |
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2021-12-07 |  |
@@ -82,7 +83,7 @@
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-05-11 |  |
 | [Ever Since You Came](https://open.spotify.com/track/7GaJHvb45wl4F5QYuesmI8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ever Since You Came](https://open.spotify.com/album/72goGK8ag1HjjFDirVAjWI) | 4:37 | 2022-08-17 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 2:41 | 2021-12-07 |  |
-| [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2021-12-07 |  |
+| [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2021-12-07 | 2023-06-02 |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
 | [Falling For Love](https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:13 | 2023-05-11 |  |
 | [Feathers](https://open.spotify.com/track/3YvFRSz2nrV493DaCAEEBx) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Feathers](https://open.spotify.com/album/0bhIjI4L0KhziifNelI70o) | 3:20 | 2021-12-07 |  |
@@ -158,7 +159,7 @@
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-07 | 2022-09-07 |
-| [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 |  |
+| [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 | 2023-06-02 |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-05-11 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-08-11 |  |
 | [Let's Take The Redeye To Tahiti](https://open.spotify.com/track/4B7RzeCAyJsRD6DhMgcLyC) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Let's Take The Redeye To Tahiti](https://open.spotify.com/album/1dofeUdqWLtBO7PCWZGNW5) | 4:53 | 2023-05-25 |  |
@@ -187,7 +188,7 @@
 | [Maybe We'll Meet Again](https://open.spotify.com/track/2ghcpXt1t7oQfHcF5hUBP2) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Maybe We'll Meet Again](https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW) | 3:37 | 2021-12-07 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 |  |
 | [Melancholia](https://open.spotify.com/track/45oMeeXLzWDPsLowRyrskL) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Melancholia](https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6) | 3:50 | 2021-12-07 | 2022-07-29 |
-| [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 | 2022-06-10 |  |
+| [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 | 2022-06-10 | 2023-06-02 |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2021-12-07 | 2022-08-18 |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-08-11 |  |
@@ -228,6 +229,7 @@
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 |  |
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-08-30 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-08-30 |  |
+| [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-06 |  |
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-08-11 |  |

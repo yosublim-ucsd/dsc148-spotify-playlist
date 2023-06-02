@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813012,
+  "num_followers": 813047,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2YyMzM3Yjg4NTI2ZmZjNmViZTBjYThlN2Y0ZmQzYWVlYWQwZTkw",
+  "snapshot_id": "MCxkMGY1ZTk3NTNmYTUwMzIyMzhiMGZhNWNmNDEyYzc2ZmNmYzE5ZjAx",
   "tracks": [
     {
       "added_at": "2021-07-16 14:31:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 181897,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Pick Me Up Off The Floor",
-        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "To Live",
-      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
-    },
-    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Fade into You",
@@ -803,6 +787,22 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Pick Me Up Off The Floor",
+        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "To Live",
+      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
     },
     {
       "added_at": "2023-04-20 00:56:09",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Happy Now (Acoustic Version)",
         "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 281302,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
     },
     {
-      "added_at": "2023-01-03 01:00:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
       "added_at": "2021-07-16 14:31:12",
       "album": {
         "name": "Saturday Nights",
@@ -1159,6 +1143,22 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2023-01-03 01:00:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "I Still Haven't Found Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
+      },
+      "artists": [
+        {
+          "name": "Raye Mills",
+          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "I Still Haven't Found Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Los Feliz",
         "url": "https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 170370,
       "name": "Los Feliz",
       "url": "https://open.spotify.com/track/6qY9VrqsfBeT8Nrc1Yg8jI"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "I Still Haven't Found Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
-      },
-      "artists": [
-        {
-          "name": "Raye Mills",
-          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
-        }
-      ],
-      "duration_ms": 253686,
-      "name": "I Still Haven't Found Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Warping Youth",
-        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 311680,
-      "name": "People Wither",
-      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 144274,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Warping Youth",
+        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 311680,
+      "name": "People Wither",
+      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "We Saw Blue",
+        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 183502,
+      "name": "Ciranda",
+      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "We Saw Blue",
-        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Ciranda",
-      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 192981,
-      "name": "This Is What You Did",
-      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Cabeza de le\u00f3n",
         "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 154628,
       "name": "Correcto",
       "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 192981,
+      "name": "This Is What You Did",
+      "url": "https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5"
     },
     {
       "added_at": "2023-03-07 16:11:11",
@@ -1791,18 +1791,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+        "name": "Shape Of My Heart (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
       },
       "artists": [
         {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        },
+        {
+          "name": "Summer Haze",
+          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
         }
       ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+      "duration_ms": 183599,
+      "name": "Shape Of My Heart - Acoustic Version",
+      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1839,38 +1843,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Shape Of My Heart (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7"
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
       "artists": [
         {
-          "name": "Blended Colours",
-          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
-        },
-        {
-          "name": "Summer Haze",
-          "url": "https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj"
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
         }
       ],
-      "duration_ms": 183599,
-      "name": "Shape Of My Heart - Acoustic Version",
-      "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "No Tears Left To Cry",
-        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "No Tears Left To Cry",
-      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1907,6 +1891,22 @@
       "duration_ms": 304893,
       "name": "Softly - Mahogany Sessions",
       "url": "https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "No Tears Left To Cry",
+        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1973,6 +1973,22 @@
       "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
+      "added_at": "2023-05-08 21:42:21",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
+    },
+    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Lullabies for Adults & Children",
@@ -2003,22 +2019,6 @@
       "duration_ms": 187298,
       "name": "Lado B",
       "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
-    },
-    {
-      "added_at": "2023-05-08 21:42:21",
-      "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Urban Driftwood",
         "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 230333,
       "name": "Juvenescence",
       "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
-      },
-      "artists": [
-        {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2021-07-16 14:31:12",

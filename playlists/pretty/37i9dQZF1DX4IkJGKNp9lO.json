@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 28558,
+  "num_followers": 28564,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWMzNmJiY2FlZmY0OGI3M2I0NDE5NjRkNmU3NDY5OGUxMzQ5YWMy",
+  "snapshot_id": "MCxjMzZjZDdmYzhiY2Y2ZjBmNWYwNGY3MWIxOGY3NDUxZjJhZWQxODk2",
   "tracks": [
     {
       "added_at": "2023-05-04 22:10:49",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Noppriga Tights Och Moonboots",
-        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
+        "name": "3",
+        "url": "https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY"
       },
       "artists": [
         {
-          "name": "R\u00e4serbajs",
-          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
+          "name": "Lillasyster",
+          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
         }
       ],
-      "duration_ms": 144266,
-      "name": "Fina Flickor",
-      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
+      "duration_ms": 247827,
+      "name": "Dra \u00c5t Helvete",
+      "url": "https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY"
+        "name": "Noppriga Tights Och Moonboots",
+        "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
       },
       "artists": [
         {
-          "name": "Lillasyster",
-          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
+          "name": "R\u00e4serbajs",
+          "url": "https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X"
         }
       ],
-      "duration_ms": 247827,
-      "name": "Dra \u00c5t Helvete",
-      "url": "https://open.spotify.com/track/2NLoDpuaf96GLxXH7Nv9tJ"
+      "duration_ms": 144266,
+      "name": "Fina Flickor",
+      "url": "https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Herrarna I Sandl\u00e5dan",
-      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Fr\u00e5n Fest Till Arrest",
         "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 195200,
       "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
       "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Herrarna I Sandl\u00e5dan",
+      "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
     },
     {
       "added_at": "2023-05-04 22:10:49",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-04 22:10:49",
       "album": {
-        "name": "Tecken I Tiden",
-        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
-      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
-    },
-    {
-      "added_at": "2023-05-04 22:10:49",
-      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 143560,
       "name": "Balladen Om Lilla Elsa",
       "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
+    },
+    {
+      "added_at": "2023-05-04 22:10:49",
+      "album": {
+        "name": "Tecken I Tiden",
+        "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "N\u00e4r V\u00e4rldssamvetet Tog Semester",
+      "url": "https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy"
     },
     {
       "added_at": "2023-05-04 22:10:49",

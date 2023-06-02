@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 21753,
+  "num_followers": 21766,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjdiNWMzYjQxYjBjMGNmZmJmOTExMTU2NmY2ZDFkZTQyMGNlYTQ0",
+  "snapshot_id": "MCwzYWY2ZDEzOGVkNTA4ZDBmMmU2YjUyNTk1MWY4NjFkNGQwZTM5Nzdh",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
+        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
+      },
+      "artists": [
+        {
+          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
+      "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
         "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 241933,
       "name": "Killer\u00d7Mission",
       "url": "https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
-        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
-      },
-      "artists": [
-        {
-          "name": "\u653e\u8ab2\u5f8c\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30ac\u30fc\u30eb\u30ba",
-          "url": "https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
-      "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
     },
     {
       "added_at": "2023-03-07 15:00:00",

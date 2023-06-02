@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2dujmZz7V7OvlkALsqvYfi">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051 likes - 165 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053 likes - 165 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 141 | [Prende](https://open.spotify.com/track/7y08Z9nFPI3tRy1itIogQh) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [O'Neill](https://open.spotify.com/artist/5PTM3njSX1y9zUA9AE50rY) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 5:02 |
 | 142 | [Noche De Carnaval](https://open.spotify.com/track/4R1ZTCkXn3kW823NJdvaMA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 3:28 |
 | 143 | [YA NO ME MUERDO](https://open.spotify.com/track/5SXKLCnq8mv5CHpfT4GPlU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:41 |
-| 144 | [PARTY DB](https://open.spotify.com/track/7iYClgHtw1gcmc0SN4YcAW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:57 |
-| 145 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 144 | [Último Baile](https://open.spotify.com/track/3jAXK3OD8P3GUBjh5KNKc0) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:18 |
+| 145 | [PARTY DB](https://open.spotify.com/track/7iYClgHtw1gcmc0SN4YcAW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:57 |
 | 146 | [Intro](https://open.spotify.com/track/1UMrB2kGsRZN0W6Q0xyd4D) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 0:50 |
 | 147 | [Piel Con Piel](https://open.spotify.com/track/6mbYWxhUE1ZR1nI0CNjfpU) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 3:30 |
 | 148 | [SE CANSÓ](https://open.spotify.com/track/1uEnlU7c5dNlM4K1YlFxaG) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:46 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 164 | [Amanecer Contigo](https://open.spotify.com/track/1DzgxamWIUxbIvGzHNocFj) | [Tormenta](https://open.spotify.com/artist/5IxyAzEThg31lxtUWCcb2q) | [Bendiciones \(Deluxe Edition\)](https://open.spotify.com/album/0uj7i2QiUuSyi7STcjo9uZ) | 3:29 |
 | 165 | [No Body Like You](https://open.spotify.com/track/0pC44HyexlUgpwQ9BPzIx7) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Latinos de Corazón](https://open.spotify.com/album/7gCIvYTE49QuPO8aW746wo) | 3:56 |
 
-Snapshot ID: `MjgwOTMxNDEsMDAwMDAwMDA5NWQzYzJmMzYwZTY2OGY3ZDM1NDQyMjdiOWUzNWY2Ng==`
+Snapshot ID: `MjgwOTQ1MjAsMDAwMDAwMDAyNGVlZDQ0MDU5NGM0NWRjMDViMDIxNWYwMTljYzE1Nw==`

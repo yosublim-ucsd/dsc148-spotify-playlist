@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,280 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,321 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 21 | [Loneliest Road That I Know](https://open.spotify.com/track/63MtBTGU73iy7FRd8nRMN6) | [Guy Davis](https://open.spotify.com/artist/6PdVgi27EMfFXV5lSH6wEW) | [Give In Kind](https://open.spotify.com/album/1YT2ALsSBVTEazRwJvXjOW) | 4:17 |
 | 22 | [I Need Your Love](https://open.spotify.com/track/3yBEPXPZ8XcQrrMZRPLlNF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:22 |
 | 23 | [Driftin' Blues \- Single Version](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 |
-| 24 | [Blues Hangover](https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 3:06 |
-| 25 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
-| 26 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 |
-| 27 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
+| 24 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 |
+| 25 | [Blues Hangover](https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 3:06 |
+| 26 | [She's Gone](https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m) | [Hound Dog Taylor & The HouseRockers](https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a) | [Hound Dog Taylor and The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:51 |
+| 27 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 |
 | 28 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 29 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 30 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 46 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
 | 47 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 |
 | 48 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 |
-| 49 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 |
-| 50 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
+| 49 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
+| 50 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 |
 | 51 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 |
 | 52 | [Icepick Through My Heart](https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Iron Man](https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P) | 6:52 |
 | 53 | [Sufferin' With The Blues](https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Wish Someone Would Care](https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY) | 2:20 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 73 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
 | 74 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
 | 75 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
-| 76 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
-| 77 | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ) | 3:27 |
+| 76 | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ) | 3:27 |
+| 77 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
 | 78 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
 | 79 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
 | 80 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MCw4ZmVmZTk3YmJmMjk5YTA1MmYwODFkNTk4Nzk4MjRjNjcwNjc2OGFh`
+Snapshot ID: `MCxjMGU2YTAxMjZlNDBlMzU1ZTM0NzQwNGQ0YzE0NDU2OTExNTdkNDg1`

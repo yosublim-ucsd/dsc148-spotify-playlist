@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Brian Kelley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,245 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,326 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 3:03 |
 | 100 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
 
-Snapshot ID: `MCwyMWViNzIzMTYwYmUxNWRlYzM1NWRkYjA3YjViZDY2MzU5ZjBlMmQ1`
+Snapshot ID: `MCwwNmRjNmEzMWZhMzE5YzBlZGYzMjFhYThiZjg1YjM3NTUxYzNjODcx`

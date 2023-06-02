@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-118 songs - 7 hr 0 min
+119 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2023-03-03 | 2023-03-18 |
 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-03-03 |  |
+| [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-01 |  |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2023-03-03 |  |
 | [Solitaire](https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Solitaire](https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw) | 3:31 | 2023-03-03 |  |
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2023-03-03 |  |

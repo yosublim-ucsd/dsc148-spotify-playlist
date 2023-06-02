@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,851 likes - 126 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,268 likes - 126 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Take Me Home](https://open.spotify.com/track/4JLQYVvcVDjFfpkjynRt5q) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [Bec Lauder](https://open.spotify.com/artist/5Wl79QF98JiagVPHNOl8g6) | [Take Me Home](https://open.spotify.com/album/11wO9C0ibWIjgVgyewwW8x) | 2:56 |
 | 126 | [WHO'S TO SAY](https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [WHO'S TO SAY](https://open.spotify.com/album/7w8TdI8N8Iy2woALB59AwP) | 3:15 |
 
-Snapshot ID: `MCxkOTU3ZTViOWYxNTBiYzA2NDYwNDZlOTBkYjA3ZjRiMDcwMmQ4YzUx`
+Snapshot ID: `MCxjYzk5MjA0NDY2MTI2YWYwMmZhMDAwMzcyNjZlNWVlNDUyYWY3Y2I4`

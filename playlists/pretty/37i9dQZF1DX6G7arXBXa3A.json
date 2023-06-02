@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 383572,
+  "num_followers": 383604,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQ5ZTcyZmI3NTRkY2E2MzM1NjY5MGY4ZmE1OTgyZGY3MjVjOWNh",
+  "snapshot_id": "MCw5NjQxNTQyZTYwYzNkMGEzMTliM2IwNmZiOTQ1YTZhMDk1ZTU1ZDM2",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -299,6 +299,26 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "50th Anniversary Collection (Vol. 2)",
+        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Straighten Up And Fly Right - Single Version",
+      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Bing-His Legendary Years 1931-1957",
         "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 183000,
       "name": "Pistol Packin' Mama - Single Version",
       "url": "https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "50th Anniversary Collection (Vol. 2)",
-        "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Straighten Up And Fly Right - Single Version",
-      "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
     },
     {
       "added_at": "2020-03-06 16:28:56",

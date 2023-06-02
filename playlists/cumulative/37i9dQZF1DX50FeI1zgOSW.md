@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-68 songs - 3 hr 49 min
+69 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-03-21 |  |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2023-03-21 |  |
 | [Chance Kedacha](https://open.spotify.com/track/7isPmXyAHlX7VSOsAqVdBg) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G), [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx) | [Chance Kedacha](https://open.spotify.com/album/2vliLICqA3XGHrLX7nPldg) | 2:16 | 2023-04-18 |  |
-| [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2023-03-21 |  |
+| [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2023-03-21 | 2023-06-02 |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 |  |
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-03-21 |  |
 | [Hey Baby](https://open.spotify.com/track/62vCoiT650UeTvL3cq4Tud) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Hey Baby](https://open.spotify.com/album/1jhgVqj4Kq3ra5pxP8MEYr) | 3:38 | 2023-03-21 |  |
@@ -46,6 +46,7 @@
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 |  |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 |  |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 |  |
+| [Minnal Mugilosai](https://open.spotify.com/track/5lIDmWduOGKEZZm3RpkjOx) | [S.K.Balachandran](https://open.spotify.com/artist/5Sg5NOQHE0eFSKxrVqIT4l), [Abid Anwar](https://open.spotify.com/artist/4HGW8d0cAwj7Ouk3l6wpZI) | [Aaliya](https://open.spotify.com/album/2OhQ5NpYv7boswa6YAskaZ) | 4:08 | 2023-06-01 |  |
 | [Mitta Mirasu](https://open.spotify.com/track/6geWnMs5Jo9IXEQpbRNkN9) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL), [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo) | [Mitta Mirasu](https://open.spotify.com/album/2VUqiXotdXbRw6M7fy1Oql) | 4:00 | 2023-03-21 |  |
 | [Montage \- From "Think Specials"](https://open.spotify.com/track/2aCkQwJH8IiKHPw9q8SGjB) | [Dash Dennox](https://open.spotify.com/artist/5bDAHJEoCfSHUEfoM6KFRP) | [Montage \(From "Think Specials"\)](https://open.spotify.com/album/39AJ05QtFcaehpS66yOziA) | 1:57 | 2023-05-02 |  |
 | [Mudhal Murai](https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Mudhal Murai](https://open.spotify.com/album/6ce5L0qcnyTzMOUa9hqnhT) | 2:49 | 2023-03-21 |  |

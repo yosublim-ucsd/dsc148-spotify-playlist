@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,007 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,059 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 39 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 40 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 41 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
-| 42 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
+| 42 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
 | 43 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
-| 44 | [Jelly Roll Blues](https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Sweet Emma Barrett And Her New Orleans Music](https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg) | 3:40 |
+| 44 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
 | 45 | [Doctor Blues](https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit Is My Home](https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk) | 4:28 |
 | 46 | [Dead Drunk Blues](https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 2:52 |
 | 47 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [I'm His And He's Mine](https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB) | [The Soul Satisfiers Of Philadelphia](https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:36 |
 | 75 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 
-Snapshot ID: `MCxkYzQ4YWFhZjE4ZTg3MjljODlkNDdhY2E4MGNmYWQ5YTAxOTcwNDNj`
+Snapshot ID: `MCxjYmIzYTk4YjUyMDRiMDQxZDMxMDA3MDY1NTY0MmUyOWFhZTJhOTQ1`

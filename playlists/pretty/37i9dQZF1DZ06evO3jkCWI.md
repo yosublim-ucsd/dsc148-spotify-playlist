@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,373 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,453 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [Rosalinda](https://open.spotify.com/track/2Le4YQV3wlP9KRY4Uku4Xk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:08 |
 | 50 | [Coincidencia](https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A) | 3:10 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDA1ZGJmODYxMGM5ODA4YzFhNWMwZDA1OTU5NTJkNDNlZA==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDBmOTBhOTkzNGJjYjc3OGVmODc1ZjAyZmNiMWI0NjQ1Nw==`

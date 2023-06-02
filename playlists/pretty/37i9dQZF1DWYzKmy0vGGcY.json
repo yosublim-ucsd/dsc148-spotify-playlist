@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 244296,
+  "num_followers": 244513,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWEzMDE1NThmZWVhYzM4ZDNlOTU5ODY2ZTkzMjFkYTViMWVhM2I3",
+  "snapshot_id": "MCw5NDViMjU3MzBhNTJlYjA1NTM3YWIyY2U4ZTIxYjAwNTY0YTgwNmZi",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Very Best of Frankie Valli & The 4 Seasons",
-        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+      "duration_ms": 203240,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 164160,
       "name": "Ooo Baby Baby",
       "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2022-05-30 13:00:37",

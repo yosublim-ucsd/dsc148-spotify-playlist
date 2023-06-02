@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2843397,
+  "num_followers": 2843409,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQzY2QzMDVkYWEwMDdlYTQ4NzNkM2IzZDZkMzIxZTdlMDM4OTQ3",
+  "snapshot_id": "MCxkNWUwZTE3MWZjNWRkZGI1ZTg4YzQ2NjQxMGRkOGU1NGViMDMyNTI0",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 149373,
       "name": "Surfin' U.S.A. - Remastered 2001",
       "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
-      },
-      "artists": [
-        {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+      },
+      "artists": [
+        {
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Odessey and Oracle",
         "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 320253,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Begin Here",
-        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 145293,
-      "name": "She's Not There",
-      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/1Sv2t548jDyfBDgvVzYJzw"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+      "duration_ms": 145293,
+      "name": "She's Not There",
+      "url": "https://open.spotify.com/track/4Wzt8Dm4xpO3LjWDecP4bA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2223,6 +2207,22 @@
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Something Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 194216,
-      "name": "Waterloo Sunset",
-      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Something Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 194216,
+      "name": "Waterloo Sunset",
+      "url": "https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2387,6 +2371,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
     },
     {
       "added_at": "2022-08-12 11:06:50",

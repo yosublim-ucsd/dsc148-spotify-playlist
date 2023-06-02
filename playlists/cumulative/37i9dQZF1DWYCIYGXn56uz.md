@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: wax
+> ✨giovane✨pop✨z✨ Cover: Aaron
 
-149 songs - 6 hr 59 min
+154 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Basta \(feat\. LDA\)](https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 3:11 | 2023-04-20 |  |
 | [bellissimissima <3](https://open.spotify.com/track/2qrCResILkL1JFeRBrv3qA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [bellissimissima <3](https://open.spotify.com/album/2uKdFaQMLtLkOHthm855ns) | 2:37 | 2023-05-18 |  |
 | [BELLU GUAGLIONE](https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [BELLU GUAGLIONE](https://open.spotify.com/album/0YN7JhcGmsUfQGHL8SNDEb) | 2:54 | 2023-05-18 |  |
+| [Bianco luna](https://open.spotify.com/track/2e50IuXTFJQNupiDZSD8Ge) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Universale](https://open.spotify.com/album/7jg6xJn7nWX7ewwruRG8sj) | 3:31 | 2023-06-01 |  |
 | [Cado](https://open.spotify.com/track/1zPBSgyezsh0BBTv8CPa1L) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cado](https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4) | 3:03 | 2023-03-23 | 2023-05-26 |
 | [Cambiami La Vita](https://open.spotify.com/track/0PnPBuAw3Vm1TsZiHqkKb0) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Cambiami La Vita](https://open.spotify.com/album/1xeUPCllh2Zy5zRSx568mi) | 2:55 | 2023-03-23 |  |
 | [CANZONI TRISTI](https://open.spotify.com/track/01D1XwPEG4wOjFjbkYJukz) | [Nick Sick](https://open.spotify.com/artist/4OfbG8mT7rOznJ4UDbejLO) | [CANZONI TRISTI](https://open.spotify.com/album/7mY0E03mCwewk6njZREUna) | 2:45 | 2023-05-04 | 2023-05-19 |
@@ -79,6 +80,8 @@
 | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [La Notte Vola \- RMX \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA) | 2:22 | 2023-03-23 |  |
 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 | 2023-03-23 |  |
 | [Lei parlò di lui](https://open.spotify.com/track/6cIkmCUusVbw86Zs17wHKY) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [HO CONOSCIUTO LA MIA OMBRA!](https://open.spotify.com/album/3AHITz4sGca7AZR7uoQGGg) | 3:32 | 2023-04-13 | 2023-05-19 |
+| [LEI È](https://open.spotify.com/track/1WMq8hzihEHUzXbvHqNWVt) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 2:36 | 2023-06-01 |  |
+| [Lentiggini](https://open.spotify.com/track/0xhmDNqppAu9RINKppTci8) | [CITRIESTE](https://open.spotify.com/artist/2xOa0F2TZGjX9uOZ60TCI2), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [Lentiggini](https://open.spotify.com/album/2dE1ZqDY6kZWVbPEoQyfaf) | 3:33 | 2023-06-01 |  |
 | [LIBERATEMI](https://open.spotify.com/track/1vKqI6G0dSqURi5vxdz09k) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [LIBERATEMI](https://open.spotify.com/album/783m7OtnMt3fv1PcFjPSXw) | 2:22 | 2023-04-20 | 2023-05-19 |
 | [lipgloss](https://open.spotify.com/track/43J1dnrDwNWDGfXBZhnfYb) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [lipgloss](https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG) | 2:12 | 2023-03-23 | 2023-04-07 |
 | [LUNATICA](https://open.spotify.com/track/44hgUkuHgSkLfF3MpAJgYC) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [LUNATICA](https://open.spotify.com/album/4v4ZPUnw9s9MWZjTVHtPo5) | 2:37 | 2023-03-23 | 2023-04-14 |
@@ -104,6 +107,7 @@
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2023-03-23 |  |
 | [Non Andare](https://open.spotify.com/track/73E25dgSkFaePbLHzJHrXF) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [Non Andare](https://open.spotify.com/album/33iF7SSaTmz5LdB7ImNxhd) | 2:34 | 2023-03-23 | 2023-04-14 |
 | [Non Mi Mancherai](https://open.spotify.com/track/272acVPVqwmcNyHi0J2pmv) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Non Mi Mancherai](https://open.spotify.com/album/4PB54tmz9c5AhdIl1LxX10) | 2:30 | 2023-05-04 | 2023-05-19 |
+| [Non Mi Va](https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non Mi Va](https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc) | 2:59 | 2023-06-01 |  |
 | [Non Piove Più](https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non Piove Più](https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3) | 3:10 | 2023-03-23 |  |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 |  |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 |  |
@@ -136,6 +140,7 @@
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-03-23 |  |
 | [SERIE A](https://open.spotify.com/track/3Gptt8SQHD3zZBylNS9Ym3) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:50 | 2023-03-23 | 2023-04-14 |
 | [SETIAMO](https://open.spotify.com/track/1HlY2VHpOYAn0zeBcWcW4s) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SETIAMO](https://open.spotify.com/album/5SMPDLbS5m4RtF8bS4lFvD) | 2:58 | 2023-03-23 | 2023-04-14 |
+| [SOGNO](https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn) | [Lil Zeff](https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SOGNO](https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7) | 2:40 | 2023-06-01 |  |
 | [Sottoterra](https://open.spotify.com/track/5DxNp6C2ft0DA8bqcIgDeB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Sottoterra](https://open.spotify.com/album/7pP33aj7Qqqp5CoDTcbokd) | 2:32 | 2023-03-23 | 2023-03-31 |
 | [spero ti ci strozzi](https://open.spotify.com/track/1XhQa1CedzdHSrdBTR39hW) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [spero ti ci strozzi](https://open.spotify.com/album/4lvFDCOwH3l37sKGlRVYdv) | 2:44 | 2023-05-25 |  |
 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 | 2023-04-27 | 2023-05-19 |

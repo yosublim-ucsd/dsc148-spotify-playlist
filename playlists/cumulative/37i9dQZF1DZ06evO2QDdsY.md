@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 11 min
+56 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 | 2022-09-16 |  |
 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 | 2022-09-16 |  |
 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 | 2022-09-16 |  |
-| [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 | 2022-09-16 |  |
+| [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 | 2023-06-01 |  |
+| [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 | 2022-09-16 | 2023-06-02 |
 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 | 2022-09-16 |  |
 | [Godspeed](https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 2:49 | 2022-09-16 |  |
 | [Got Soul](https://open.spotify.com/track/64Z3YM5ZdbIRRdZKbPLxzq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:12 | 2022-09-22 |  |
@@ -22,7 +23,7 @@
 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 | 2022-09-16 |  |
 | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK) | 2:19 | 2022-12-12 |  |
 | [If And](https://open.spotify.com/track/0xnirEyt7tGGvC63fpYfrb) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:30 | 2022-09-18 | 2022-10-13 |
-| [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 | 2022-09-16 |  |
+| [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 | 2022-09-16 | 2023-06-02 |
 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 | 2022-09-16 |  |
 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 | 2022-09-16 |  |
 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 | 2022-09-16 |  |

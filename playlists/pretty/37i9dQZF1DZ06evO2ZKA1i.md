@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,951 likes - 51 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,040 likes - 51 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 28 | [White Room](https://open.spotify.com/track/2RMp39cxDzwxu9ITM8HVB7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/0PSAOfLIqsdfWbwWkF1Hu2) | 4:53 |
 | 29 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 |
 | 30 | [You Keep On Moving \- 2010 Digital Remaster](https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste The Band: 35th Anniversary Edition](https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy) | 5:24 |
-| 31 | [Simple Folk](https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 1:15 |
-| 32 | [Demon's Eye \- 1996 Remaster](https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 5:21 |
+| 31 | [Demon's Eye \- 1996 Remaster](https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 5:21 |
+| 32 | [Simple Folk](https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 1:15 |
 | 33 | [Lay Down, Stay Down \- Remastered 2004](https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:20 |
 | 34 | [Speed King \- 1995 Remaster](https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 5:52 |
 | 35 | [Mean Streak](https://open.spotify.com/track/43OcdjkrK5lCmACNU3HSF2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:22 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 37 | [All I Got Is You](https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P) | 4:42 |
 | 38 | [Bloodsucker \- 1995 Remaster](https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 4:13 |
 | 39 | [Anya](https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Original Album Classics](https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb) | 6:31 |
-| 40 | [You Fool No One \- Remastered 2004](https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:47 |
-| 41 | [Anyone's Daughter \- 1996 Remaster](https://open.spotify.com/track/5l8n0INbXVmFASDhJw4OVA) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 4:43 |
+| 40 | [Anyone's Daughter \- 1996 Remaster](https://open.spotify.com/track/5l8n0INbXVmFASDhJw4OVA) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 4:43 |
+| 41 | [You Fool No One \- Remastered 2004](https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:47 |
 | 42 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
 | 43 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 |
 | 44 | [Lalena \- 2000 Remaster](https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple](https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc) | 5:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [Oh Well](https://open.spotify.com/track/1EcrjxVZRILxaa4pCkoZvy) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:31 |
 | 51 | [Lady Double Dealer \- 2009 Digital Remaster](https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:21 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDAxZjdkMmRiMjk3ZTgyMDhmNTlkMjA2ZGFiNzlhNmI2MA==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDBmNDdhMDk5ZGYzN2RhNWU4ZGE0YWU3NjUxODhhMjA4Zg==`

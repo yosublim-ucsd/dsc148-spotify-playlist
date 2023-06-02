@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 576344,
+  "num_followers": 576495,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWMxZDRjODlmNGY2NjQ4M2M0MjlmYjg2NmFiMjY1NzNkYzgwY2Y5",
+  "snapshot_id": "MCwxYjFmODJkMmU2M2ZjMDU1NjFhNmFmOGE5NTFjYTg4MzdmZTg4NmU0",
   "tracks": [
     {
       "added_at": "2023-05-26 09:41:56",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "R U 4REAL (feat. Marina Maximilian)",
         "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34"
       },
@@ -751,26 +771,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 276157,
       "name": "Nation",
       "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Nefertari",
+        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Nefertari",
+      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -847,26 +867,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Nefertari",
-        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Patrice B\u00e4umel",
-          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Nefertari",
-      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Sign of the Times",
         "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Be Here and Now",
         "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 209699,
       "name": "Be Here and Now",
       "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Donde Chile",
-        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
       "artists": [
         {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         }
       ],
-      "duration_ms": 434406,
-      "name": "Pura Vida",
-      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1135,6 +1119,22 @@
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "No One Like You - EP",
-        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 256721,
-      "name": "No One Like You - Edit",
-      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "If We Only Had",
         "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "No One Like You - EP",
+        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 256721,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Restless & Wild",
         "url": "https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2023-05-26 09:41:56",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-05-26 09:41:56",
       "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2023-05-26 09:41:56",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
+    },
+    {
+      "added_at": "2023-05-26 09:41:56",
+      "album": {
+        "name": "Sint Maarten",
+        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
+        }
+      ],
+      "duration_ms": 271351,
+      "name": "Sint Maarten",
+      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
       "added_at": "2023-05-26 09:41:56",

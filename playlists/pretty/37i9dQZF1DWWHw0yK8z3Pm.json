@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Zach Bryan",
-  "num_followers": 42789,
+  "num_followers": 42858,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmY3YzM5OTE4MTlkNjM2YTQ1YjgxMWE3YjFiNjQxZmQ5ZmEyNzg0",
+  "snapshot_id": "MCxkZDIzOWFhNWM0YWY4NjJjNmJkYjJhN2FkZjczNzEyNmQ3ZjNhZDhl",
   "tracks": [
     {
       "added_at": "2023-05-25 19:35:07",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "Find Your People",
         "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "Cypress Hills and the Big Country",
-      "url": "https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 199734,
       "name": "Damn Darlin'",
       "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "Cypress Hills and the Big Country",
+      "url": "https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "Paint Horse",
-        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 191182,
-      "name": "John Came Home",
-      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 253920,
       "name": "I'm Just a Clown",
       "url": "https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "Paint Horse",
+        "url": "https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 191182,
+      "name": "John Came Home",
+      "url": "https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "A Heart of Gold Is Hard to Find",
-        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "A Heart of Gold Is Hard to Find",
-      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "Jersey Giant",
         "url": "https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "A Heart of Gold Is Hard to Find",
+        "url": "https://open.spotify.com/album/6r7LEqLEJtrKiBkYKgBegM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "A Heart of Gold Is Hard to Find",
+      "url": "https://open.spotify.com/track/5E6pYKegSu23icZLcIRCok"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "When You Miss Someone / Tanqueray",
-        "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "When You Miss Someone",
-      "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "Nomads",
         "url": "https://open.spotify.com/album/217CxMC2a2u6pJNohNq2zk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 243293,
       "name": "Nomads",
       "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "When You Miss Someone / Tanqueray",
+        "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "When You Miss Someone",
+      "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
+        "name": "Nightroamer",
+        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
         "name": "Better Days (feat. Dave Fenley)",
         "url": "https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "Nightroamer",
-        "url": "https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 166248,
-      "name": "Talkin' to Myself",
-      "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "On A Roll",
         "url": "https://open.spotify.com/album/1a6lHO1OX3bTb4T0H9eLJb"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 211440,
       "name": "On a Roll",
       "url": "https://open.spotify.com/track/0BDsgepsUjyAmk5CLeHjwG"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "A Light in the Attic",
+        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+      },
+      "artists": [
+        {
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+        }
+      ],
+      "duration_ms": 252151,
+      "name": "Folk Song",
+      "url": "https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "A Light in the Attic",
-        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7aP54UsfnbH4qNoZCzoOcl"
       },
       "artists": [
         {
-          "name": "Logan Staats",
-          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
         }
       ],
-      "duration_ms": 252151,
-      "name": "Folk Song",
-      "url": "https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B"
+      "duration_ms": 244706,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/6v5l4XgWv2NfjwAOCYBD7r"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-05-25 19:35:07",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7aP54UsfnbH4qNoZCzoOcl"
-      },
-      "artists": [
-        {
-          "name": "JJ Shiplett",
-          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "All Comes Back To You",
-      "url": "https://open.spotify.com/track/6v5l4XgWv2NfjwAOCYBD7r"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 242484,
       "name": "This Distance",
       "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
-    },
-    {
-      "added_at": "2023-05-25 19:35:07",
-      "album": {
-        "name": "Dom Louis",
-        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
-      },
-      "artists": [
-        {
-          "name": "Dom Louis",
-          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
-        }
-      ],
-      "duration_ms": 175423,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
     },
     {
       "added_at": "2023-05-25 19:35:07",
@@ -1407,6 +1391,22 @@
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
+    },
+    {
+      "added_at": "2023-05-25 19:35:07",
+      "album": {
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
     },
     {
       "added_at": "2023-05-25 19:35:07",

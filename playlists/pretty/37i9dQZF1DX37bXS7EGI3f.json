@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Within Temptation",
-  "num_followers": 733413,
+  "num_followers": 733502,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjA0YTYwZTQ5ZWNiMjcxMTE0MGUwNzY1OTM1MmI2MGJjY2U5NWIw",
+  "snapshot_id": "MCw2OWRjNjUxZmY0ZDhmZmY1N2Q0YTU2NjVmNWZiMzI0YjI4MzZmNTVl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 347800,
       "name": "Opus of the Night (Ghost Requiem) (feat. Tina Guo)",
       "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Wicked Rule The Night",
         "url": "https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Wonders Still Awaiting",
+        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Dark Waters",
         "url": "https://open.spotify.com/album/0aZuBf1mVMdYYZWRxBUZHs"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 299076,
       "name": "Beneath (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Wonders Still Awaiting",
-        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
-      },
-      "artists": [
-        {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 338000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Coming from the Sky",
         "url": "https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Elements of Power",
-        "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
       "artists": [
         {
-          "name": "Veonity",
-          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
         }
       ],
-      "duration_ms": 261933,
-      "name": "Altar of Power",
-      "url": "https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX"
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 235453,
       "name": "The Widow Maker - feat. Gunship",
       "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Elements of Power",
+        "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
+      },
+      "artists": [
+        {
+          "name": "Veonity",
+          "url": "https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Altar of Power",
+      "url": "https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "My Father's Son",
         "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
         }
       ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1295,6 +1295,38 @@
       "duration_ms": 288166,
       "name": "Target Acquired",
       "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Fears Don't Matter",
+        "url": "https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ"
+      },
+      "artists": [
+        {
+          "name": "Blame Me!",
+          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Fears Don't Matter",
+      "url": "https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1319,18 +1351,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fears Don't Matter",
-        "url": "https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ"
+        "name": "A Cloak Woven of Stars",
+        "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
       },
       "artists": [
         {
-          "name": "Blame Me!",
-          "url": "https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T"
+          "name": "Lacrimas Profundere",
+          "url": "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Fears Don't Matter",
-      "url": "https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL"
+      "duration_ms": 217666,
+      "name": "A Cloak Woven of Stars",
+      "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1347,38 +1379,6 @@
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "A Cloak Woven of Stars",
-        "url": "https://open.spotify.com/album/0pgqABeJv3v8GgMlfFMeSm"
-      },
-      "artists": [
-        {
-          "name": "Lacrimas Profundere",
-          "url": "https://open.spotify.com/artist/4LtKoRSDo1uGlaGGEqsIhz"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "A Cloak Woven of Stars",
-      "url": "https://open.spotify.com/track/63MHeFB8wPnk1BdOzOhSQH"
     }
   ],
   "unique_name": "Epic & Melodic",

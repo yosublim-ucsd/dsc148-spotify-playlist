@@ -1,12 +1,12 @@
 {
   "description": "the mood is to scream into your dashboard/choke back tears in the parking lot",
-  "num_followers": 708721,
+  "num_followers": 709144,
   "original_name": "songs to scream in the car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTY1YzE3ZGM3ZDY2ODczNDU1MWIyOTc2OGI0ZGRmNGQ1MmRhNzYz",
+  "snapshot_id": "MCw0YWI2YWY1YzQ0MTU4NjE2ODQ3ZTU5OGE2NDc3MjVlNWVlOGJkOWUy",
   "tracks": [
     {
       "added_at": "2023-05-26 04:24:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-26 04:24:55",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 613026,
-      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
-    },
-    {
-      "added_at": "2023-05-26 04:24:55",
-      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2023-05-26 04:24:55",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 613026,
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
     },
     {
       "added_at": "2023-05-26 04:24:55",

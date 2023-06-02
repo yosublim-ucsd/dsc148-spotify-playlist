@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq?si=0YxHYu\-STdOTRYIZnMoAzQ">CAIN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,798 likes - 103 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,030 likes - 103 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 102 | [Never Walk Alone \- Live At Team Night](https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Team Night \(Live\)](https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO) | 4:33 |
 | 103 | [Got What You Need](https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:11 |
 
-Snapshot ID: `MCw5ZDg5Yzc1MzVjM2MxYzM4YmIxMTc5NTk0Njg2NWY0ZjM3OTU2MTRj`
+Snapshot ID: `MCxhZDZkOTkyYmYxODViY2UwYjhlYjViYWZjZjVhYjFiOWIwYTlhMTRi`

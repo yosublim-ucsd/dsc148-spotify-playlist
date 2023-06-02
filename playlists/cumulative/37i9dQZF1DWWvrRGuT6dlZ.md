@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: ALVN\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Aini Mazalan\. Artwork: Isu Kim.
 
-438 songs - 1 day 0 hr 3 min
+444 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-05-26 |  |
 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 | 2022-01-13 |  |
 | [CHASE](https://open.spotify.com/track/3vwpWdcA1WgcYeosN1qOE3) | [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na), [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w) | [CHASE](https://open.spotify.com/album/7qfZBaWUIksw55ObBj7raZ) | 3:09 | 2023-05-26 |  |
+| [Chased by the Devil](https://open.spotify.com/track/7IAne0CGKRXH0YbAeaTqcu) | [Boycaught](https://open.spotify.com/artist/5RGPbinFDJxKSpBoktzT6K) | [Chased by the Devil](https://open.spotify.com/album/6pZ4ezW6FX3aKhh25mxtgK) | 3:15 | 2023-06-01 |  |
 | [Cherry Wine](https://open.spotify.com/track/7pCoMYTUu4RhyhheULLdr5) | [The Lounette](https://open.spotify.com/artist/638WE7BEtItPvh25YbeMGM) | [Cherry Wine](https://open.spotify.com/album/1I2JWR6cDtINzyusW8n4kK) | 4:34 | 2022-01-27 | 2023-01-13 |
 | [cigarettes](https://open.spotify.com/track/56pjUTbjQQAvMGK97U01lv) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [ALN](https://open.spotify.com/artist/7tQmpZdpsmgXdJNatZgy88) | [cigarettes](https://open.spotify.com/album/5ybfSO3a1mFrdLST3kEuCL) | 4:00 | 2022-01-13 | 2022-06-17 |
 | [CINNAMON](https://open.spotify.com/track/7wp6i0aBomwDrmim65xhZA) | [P\_NEDA](https://open.spotify.com/artist/45NB3nfn6wOMwJApY4xUOy) | [CINNAMON](https://open.spotify.com/album/3wjo6ctFVmOPQqHWQ1NoLa) | 3:37 | 2023-05-04 |  |
@@ -274,6 +275,7 @@
 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 | 2022-03-31 | 2023-01-13 |
 | [NOT OKAY](https://open.spotify.com/track/6bD5U0SPX9AzQg4hqEjyUI) | [JENE](https://open.spotify.com/artist/31feOFDWzpOFbZvZjh8D7o) | [NOT OKAY](https://open.spotify.com/album/1BQL4EiQqKdjDJB1INNYcz) | 3:22 | 2022-11-10 | 2023-03-18 |
 | [Not Your Fault](https://open.spotify.com/track/3Hwm9GAnK0KUzyOBLeHNhn) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Not Your Fault](https://open.spotify.com/album/3fd79xgpeU9pjRgulODIAc) | 4:04 | 2023-02-23 |  |
+| [Not Your Fault \- Stripped Version](https://open.spotify.com/track/1h7StSG8KGMHg7rleoJ6Ta) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Not Your Fault \(Stripped Version\)](https://open.spotify.com/album/5HqYyESdZCI94y2VKffpUL) | 4:01 | 2023-06-01 |  |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 | 2023-01-13 |
 | [Now](https://open.spotify.com/track/5Yw87BrKuMvoborbwxAagF) | [Huzkee](https://open.spotify.com/artist/1tfpoJkjawQMKzlybghU5P) | [Now](https://open.spotify.com/album/4BDimkoIT1WGP183LVQNII) | 2:52 | 2022-04-28 | 2023-03-10 |
 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 | 2021-12-01 | 2023-01-13 |
@@ -346,12 +348,15 @@
 | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/track/6TBDnGtHJn6nZtpYr3PotS) | [Good Luck Chuck](https://open.spotify.com/artist/6zgQqfZ8mYlQOhpsGjok96), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3), [Direwulf](https://open.spotify.com/artist/77xnTyfSeDkHZ2tufyeAIP), [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7) | [Speak Up \(feat\. Elsa Mickayla\)](https://open.spotify.com/album/6cVuY3mB3GEqrHY3p7Eys3) | 2:42 | 2021-12-01 | 2022-01-14 |
 | [Spiralling](https://open.spotify.com/track/6LIWJCM7pmkeE5XwbWYcWa) | [benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Spiralling](https://open.spotify.com/album/1dqfbFIMErhYlhZJKukVGW) | 2:41 | 2022-03-24 | 2022-06-17 |
 | [Srsly.](https://open.spotify.com/track/1qBhF0rIXtnzfiEl3HqCFs) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Srsly.](https://open.spotify.com/album/0Td0IjuYDcVAmTebQLzvHK) | 3:21 | 2021-12-01 | 2022-01-14 |
+| [St\. Who\-Knows](https://open.spotify.com/track/5Ged5hYMI4QUj0qmrYruCr) | [Faith Ling](https://open.spotify.com/artist/7DR6msJMx1aOqW4Nr4m5QV) | [St\. Who\-Knows](https://open.spotify.com/album/3SDgoJL4G5c5bRpegAOCex) | 3:57 | 2023-06-01 |  |
 | [stargazing](https://open.spotify.com/track/1occWjMLEm4VilPWFq8zjN) | [odelia tirza](https://open.spotify.com/artist/7N1Qoaz2IKkCXZMe0HQGrp) | [stargazing](https://open.spotify.com/album/74R6ctevu7rk3Et2ysGqJO) | 3:20 | 2023-01-12 |  |
 | [starlight](https://open.spotify.com/track/0K71GoHZHZU9Tn9pwf0pbH) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [starlight](https://open.spotify.com/album/70HCFgMlYYWy9VeE8kwGVA) | 3:58 | 2023-02-17 |  |
 | [stars \(demo\)](https://open.spotify.com/track/5MLXnpWkB668vcqHq8zuQl) | [stillsunrise](https://open.spotify.com/artist/26WKDaxHhPWBh2AB7nnrbS) | [stars \(demo\)](https://open.spotify.com/album/3aPRwbwd472OI6syp8vVT5) | 5:26 | 2022-09-22 | 2023-03-18 |
 | [Status Quo](https://open.spotify.com/track/5107u4MtCdGnGT6Ba7yq9z) | [Abigail](https://open.spotify.com/artist/11yfGLGb5HMw3iGo0MN1rB) | [Status Quo](https://open.spotify.com/album/6Lkz9M52QoztCc7h9y55Xx) | 2:59 | 2021-12-01 | 2023-01-13 |
 | [stay](https://open.spotify.com/track/62pxANr0SHx8F59qDsd6rf) | [insy](https://open.spotify.com/artist/7dE8RqwRWd42hYIFYGLbDJ) | [stay](https://open.spotify.com/album/65DqTn1zP4NXsIek3dTozX) | 3:28 | 2022-09-22 |  |
+| [Stay Here Tonight](https://open.spotify.com/track/39dbWw38KuNL77wf0GlelT) | [Andre Ang](https://open.spotify.com/artist/4OvRMrLoSSnK1HfbFlpq2G), [chocoloe](https://open.spotify.com/artist/17JnpB5VHM95aO5Ae6bInm) | [Stay Here Tonight](https://open.spotify.com/album/3rTG7H3DuRctsGrIpAaGhU) | 3:07 | 2023-06-01 |  |
 | [STAY.GO.](https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [STAY.GO.](https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN) | 2:59 | 2022-03-03 | 2022-06-17 |
+| [Summer Nights](https://open.spotify.com/track/0IyPDcr032YeoG8bYjA8wb) | [Nao Zumar](https://open.spotify.com/artist/2SLtYTUjIbXeXlY7MxisjV) | [Summer Nights](https://open.spotify.com/album/01s8Po89Fx17mVphX0NRUs) | 2:36 | 2023-06-01 |  |
 | [summersad](https://open.spotify.com/track/3b9vvKIbi2gCzm6MKW5QQl) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [remember a stranger](https://open.spotify.com/album/64qGaGX2B8mWIGHAPj8Rn6) | 5:48 | 2022-11-10 | 2023-05-12 |
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2021-12-01 | 2023-01-13 |
 | [SUNSET CHASER \(with PFTD\) \- Radio Edit](https://open.spotify.com/track/73iFppQnSxTicoooPXXbmW) | [Hell Boi](https://open.spotify.com/artist/0MaNIO1pTWTWVEZVbEpVxk), [BROKEN ENGLISH](https://open.spotify.com/artist/12QrRrP9PaSeZKM0SZozRm), [ziqry](https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf) | [SUNSET CHASER \(with PFTD\) \[Radio Edit\]](https://open.spotify.com/album/5HV9cIJHJoGLEJSCsWXtrV) | 2:30 | 2022-09-15 | 2023-05-12 |
@@ -440,6 +445,7 @@
 | [You Already Know](https://open.spotify.com/track/6aBVnDNG502Sh5rJRqLxmD) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [LOVERGIRL](https://open.spotify.com/album/1Eivm2c1chCBMHG2OcTjWd) | 3:07 | 2023-02-17 | 2023-05-12 |
 | [YOU AND ME](https://open.spotify.com/track/2MFqiHPj4gomxKEF3ivGTK) | [Drichulous](https://open.spotify.com/artist/1XeAeRWILDePCKo2OSvjjB) | [YOU AND ME](https://open.spotify.com/album/35fj841auJZOFoDpP8iz1E) | 2:00 | 2022-06-30 | 2023-02-10 |
 | [you didn’t](https://open.spotify.com/track/5a9cvQ2osId4cQJN4WC1Ph) | [Jenaine](https://open.spotify.com/artist/1TumIwTtiH0pqf8tBvuZpI) | [you didn’t](https://open.spotify.com/album/31UwN6tODIwhVwcfBdw0XP) | 2:33 | 2023-03-02 | 2023-05-12 |
+| [You Got This](https://open.spotify.com/track/5nawgAeuUEqfyMumoflBEL) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ), [Munah Bagharib](https://open.spotify.com/artist/3oBQ7ewna5bYNetZBKUZQj) | [You Got This](https://open.spotify.com/album/2zGwurbXSagLIRNuR3b8Jj) | 2:57 | 2023-06-01 |  |
 | [You're My Everything](https://open.spotify.com/track/77wZQJsPyqE4hYg2AXsNhu) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [You're My Everything](https://open.spotify.com/album/6S5BlJeryFRwxm6ApQ6ncz) | 3:32 | 2023-02-03 |  |
 | [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 | 2022-04-28 |  |
 | [your house](https://open.spotify.com/track/25XLHOoj2IWaUyQ25Y70qu) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [your house](https://open.spotify.com/album/5pntsh2IcPL9enaBlv5OXl) | 2:52 | 2023-03-23 |  |

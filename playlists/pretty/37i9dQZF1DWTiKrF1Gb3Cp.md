@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,751 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,814 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 70 | [Ileso](https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 6:21 |
 | 71 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 | 72 | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP) | 4:03 |
-| 73 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
-| 74 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
+| 73 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
+| 74 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
 | 75 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
 | 76 | [Quién?](https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Quién?](https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy) | 3:46 |
 | 77 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 88 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 |
 | 89 | [Pa Los Barrios Y Las Clikas](https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Pa los Barrios y las Clikas](https://open.spotify.com/album/7LfNHO58gshGnniObPb4L1) | 3:47 |
 | 90 | [FCK Love](https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB) | [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [FCK Love](https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj) | 4:21 |
-| 91 | [El Niño Malo](https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU) | [El Moreno Mexicano](https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz) | [El Niño Malo](https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z) | 3:03 |
+| 91 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
 | 92 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
-| 93 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
+| 93 | [El Niño Malo](https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU) | [El Moreno Mexicano](https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz) | [El Niño Malo](https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z) | 3:03 |
 | 94 | [Activados y Prendidos](https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 2:55 |
 | 95 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 | 96 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 99 | [16 Toneladas](https://open.spotify.com/track/2kKJNfeAez08ucgMMgrFX8) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/14byPF3w5ew4oSYoWdI3H2) | 3:26 |
 | 100 | [Malandro](https://open.spotify.com/track/1120swm4qMnIJMnBp5oFgo) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 2:46 |
 
-Snapshot ID: `MCw3ZWI0MjE0MmFiZTdiZDNkMzMyZDc1NzEzYjE5ZGVhYjYxMzA4NTJm`
+Snapshot ID: `MCwxZDAxZTlhZGE2ODI1ZGU3OTQ4ZjMyMTk4YjkyZGU0NDgzY2I4MmZi`

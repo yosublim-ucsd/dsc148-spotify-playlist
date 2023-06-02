@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: クリープハイプ
 
-463 songs - 1 day 5 hr 15 min
+464 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [伝えたかったこと](https://open.spotify.com/track/5aKT0Vv8NPMdGrSxRTyYDD) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [伝えたかったこと](https://open.spotify.com/album/3MnWqyG29fPbeOy0jUkVjz) | 3:44 | 2023-03-14 | 2023-04-05 |
 | [何年先も憶えててほしい](https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [何年先も憶えててほしい](https://open.spotify.com/album/6si9mH4mbMYsLa8RBRLHCJ) | 4:02 | 2023-03-21 | 2023-04-14 |
 | [修羅の巷](https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [修羅の巷](https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz) | 3:31 | 2023-04-28 |  |
+| [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-06-01 |  |
 | [光](https://open.spotify.com/track/7yuYVEQlfmZwI025JosmJx) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [光](https://open.spotify.com/album/5Vxac0LhubZos7i7672DSA) | 3:08 | 2023-01-31 | 2023-02-15 |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [凛と](https://open.spotify.com/track/3IB0WE4bAoYWdSuZnTVtRC) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [凛と](https://open.spotify.com/album/2YAul7X7i7JkcSOkNBtFUm) | 3:34 | 2023-03-23 | 2023-05-10 |
@@ -395,7 +396,7 @@
 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 | 2023-03-14 | 2023-04-12 |
 | [宿縁](https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA) | 3:33 | 2023-01-17 | 2023-02-09 |
 | [宿縁](https://open.spotify.com/track/4vEuwSyGXdSBlx3BpeHoUT) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [宿縁](https://open.spotify.com/album/6SmyaO1lx0PJpXb47XLRdv) | 3:33 | 2023-02-07 | 2023-04-04 |
-| [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 |  |
+| [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 | 2023-06-02 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 |  |
 | [幸せの果てに](https://open.spotify.com/track/3nOSBHApPJXJeLWLuLamQh) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [幸せの果てに](https://open.spotify.com/album/4rYOedvAE0DQaTgl8hSuyI) | 2:59 | 2023-01-24 | 2023-02-22 |
 | [怪物たちよ](https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [怪物たちよ](https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D) | 5:20 | 2023-01-31 | 2023-02-02 |

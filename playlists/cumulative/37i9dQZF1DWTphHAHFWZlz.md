@@ -4,7 +4,7 @@
 
 > Escuchá lo nuevo de C.R.O y las canciones que lo inspiraron.
 
-247 songs - 14 hr 33 min
+252 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1990](https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd) | 3:27 | 2022-07-22 | 2023-05-02 |
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2022-07-19 | 2022-07-29 |
 | [A Mi Banda](https://open.spotify.com/track/7xVzPnsrUWNstMQ2t4Dcn5) | [Fulgura](https://open.spotify.com/artist/1i7SeHXbKSyxqiCh8e0Yg4) | [A Mi Banda](https://open.spotify.com/album/3IPTHuE3yxcAFzYDBosXhL) | 3:26 | 2022-06-29 | 2023-05-20 |
+| [A Tu Manera](https://open.spotify.com/track/23dQ2uqLfk4z8aJUwwfnms) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:16 | 2023-06-02 |  |
 | [Abismo](https://open.spotify.com/track/5jEPrWsnRPJzmeCllVFpSW) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Abismo](https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8) | 2:53 | 2023-05-19 |  |
 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 | 2023-05-30 |  |
 | [Aclarecer](https://open.spotify.com/track/2eg0qx2CpIJWo8UV7Gee1N) | [Oliver 4](https://open.spotify.com/artist/5LErubZ0xtU7IsRVYTsqFD) | [Aclarecer](https://open.spotify.com/album/5ScRy86d80fQX9AA8mP1qN) | 3:23 | 2022-06-29 | 2022-08-13 |
@@ -65,6 +66,7 @@
 | [Crisis](https://open.spotify.com/track/4OuHH9ENBgHBhDtINSFhPG) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Crisis](https://open.spotify.com/album/4CPJwXlJppxOlld9175oVA) | 2:46 | 2023-05-19 | 2023-05-31 |
 | [Cuando el Amor Se Fue](https://open.spotify.com/track/2FGeV4XfBDz9SD83TzdSLp) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy), [Laura Chinelli](https://open.spotify.com/artist/5vtYPQtCS5vJwVJmXKKx71) | [Cuando el Amor Se Fue](https://open.spotify.com/album/3jYFRzPjDRbR4xxeX5lBm9) | 3:43 | 2022-06-29 | 2022-07-20 |
 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 | 2022-07-19 | 2023-05-20 |
+| [Dame Rock](https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:06 | 2023-06-02 |  |
 | [Desangelados](https://open.spotify.com/track/2Ng1gLQrQ1JY6K0GM5Kadx) | [Banzai FC](https://open.spotify.com/artist/2pFNA3xuGmAP6XODWDrxzs) | [Desangelados](https://open.spotify.com/album/3EZ3GYdglSDIEzGK4eKPRJ) | 5:22 | 2022-06-29 | 2022-07-20 |
 | [Desaparece y Aparece](https://open.spotify.com/track/2cV0qNRVVYoudrY8wpRJng) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Desaparece y Aparece](https://open.spotify.com/album/70cbYA6JXarIOIHQe84wtr) | 3:31 | 2022-06-29 | 2023-05-20 |
 | [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-19 | 2023-05-31 |
@@ -94,6 +96,7 @@
 | [En la Frente](https://open.spotify.com/track/301FbBvHswuh1YLtmWNwQh) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:14 | 2022-07-19 | 2023-05-20 |
 | [En Mi Nombre \(de la serie de Netflix ¨El Reino¨ Temporada 2\)](https://open.spotify.com/track/7s0DDMCJuIPryu0MclayW8) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [En Mi Nombre \(de la serie de Netflix ¨El Reino¨ Temporada 2\)](https://open.spotify.com/album/0IVBLdyYbDZnsoRrNhTBdQ) | 2:36 | 2023-05-19 | 2023-05-31 |
 | [En Mis Sueños](https://open.spotify.com/track/50jjeuQ5UrW3RQqDl0KYpy) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [CRIOLLA](https://open.spotify.com/album/2rEdpXG1A8hydOB1ThvGHX) | 4:10 | 2022-06-29 | 2022-07-20 |
+| [Encontrándote](https://open.spotify.com/track/4BomFhepIWf4HTiAQrgnKJ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:37 | 2023-06-02 |  |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-07-19 | 2023-05-20 |
 | [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 | 2023-05-19 | 2023-05-31 |
 | [Escalera](https://open.spotify.com/track/2DfhgJeqYOurNo4BWla1uE) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [Tuy](https://open.spotify.com/album/1tVav7LGyDau9Ie7foUNgb) | 3:44 | 2022-07-19 | 2022-07-29 |
@@ -229,6 +232,7 @@
 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 | 2022-07-19 | 2023-05-20 |
 | [Tan Capaz](https://open.spotify.com/track/7rfTrFMb6pHxYZE8HpkSVe) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Tan Capaz](https://open.spotify.com/album/0XxiIUxCsCmnhoUBNAiVS4) | 4:07 | 2022-10-14 | 2023-05-20 |
 | [Tanto Azúcar](https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Lapso](https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU) | 3:05 | 2022-06-29 | 2022-07-20 |
+| [Temor](https://open.spotify.com/track/0WzdhKUfEoeIP8jzrTtLSe) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 3:24 | 2023-06-02 |  |
 | [Temporal](https://open.spotify.com/track/2HaEWrHRPZ2mG06Rdlngbu) | [Romina Peluffo](https://open.spotify.com/artist/002eNGtf6Rd05jJbriqoMS), [Gonzalo Silva](https://open.spotify.com/artist/3vkk4b4g3KdMlhOhtzyIHm) | [Temporal](https://open.spotify.com/album/6ZkEGm4ZA8WScR7uLVfg1t) | 2:50 | 2022-06-29 | 2022-10-29 |
 | [Tiempo](https://open.spotify.com/track/6MifdTQLwM8PQEzM9S2TRb) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Tiempo](https://open.spotify.com/album/7hdrzPuHfK4VbgQVpvP8lA) | 3:12 | 2022-06-29 | 2023-05-20 |
 | [TIKI](https://open.spotify.com/track/6Oi46ZScfwLecGdnfi3lB3) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [TIKI](https://open.spotify.com/album/706jigUnjkVzVflc3lDOls) | 1:53 | 2023-05-19 | 2023-05-31 |
@@ -254,6 +258,7 @@
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2023-05-30 |  |
 | [X LAS DUDAS](https://open.spotify.com/track/4Mozf1AdGLgXtbBIczuXkw) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:34 | 2023-05-19 | 2023-05-31 |
 | [Ya No](https://open.spotify.com/track/5tRWVChUhMaGXWUvHlkaUM) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Pato Fontanet](https://open.spotify.com/artist/1ZGMbSg4MnVbzPvkYLgrZi), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Ya No](https://open.spotify.com/album/4xTlycvNd0nZRQFZYnc8H7) | 3:53 | 2022-06-29 | 2022-07-20 |
+| [Yendo Hacia Tí](https://open.spotify.com/track/55JHECDH9MBGpkWtfI1MBh) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:47 | 2023-06-02 |  |
 | [Yo Caníbal](https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 2:56 | 2023-05-30 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

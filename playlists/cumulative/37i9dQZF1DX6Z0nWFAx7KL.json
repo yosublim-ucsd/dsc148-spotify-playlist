@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 164453,
       "name": "Put Your Lips On Mine",
       "url": "https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm"
@@ -2588,6 +2588,24 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
     },
     {
       "album": {

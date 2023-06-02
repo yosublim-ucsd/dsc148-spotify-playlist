@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Anne\-Marie & Shania Twain
 
-2,784 songs - 6 day 0 hr 52 min
+2,785 songs - 6 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,8 @@
 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 | 2022-12-19 | 2022-12-28 |
 | [Don't Fade](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-14 | 2022-02-22 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-07-04 | 2022-07-12 |
-| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-22 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-05-22 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-22 | 2023-06-02 |
 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 | 2022-02-14 | 2022-02-22 |
 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 | 2023-04-17 | 2023-04-25 |
 | [Don't Go](https://open.spotify.com/track/0KiTzc19ENmDRGVDRsjPvf) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Don't Go](https://open.spotify.com/album/48STdZAC7tDAa2Mz5x82Mp) | 2:46 | 2022-10-11 | 2022-10-25 |

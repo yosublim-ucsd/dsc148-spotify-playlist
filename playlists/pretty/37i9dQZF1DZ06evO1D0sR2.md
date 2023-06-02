@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,586 likes - 50 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,594 likes - 50 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 43 | [You're Everything](https://open.spotify.com/track/5CFQAQIW5fCgkJYnstgDsL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 12:17 |
 | 44 | [It Pushed Me](https://open.spotify.com/track/6cYkmwwUiukP69vckx4fBH) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Zebulon Ellis](https://open.spotify.com/artist/31SMx0QVraeTLAw3UoXbM8) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 4:27 |
 | 45 | [That Great Name \(feat\. Benita Jones\)](https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:30 |
-| 46 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
+| 46 | [You Are Awesome](https://open.spotify.com/track/0JuACuUfaF7TVgHTQV5gCa) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
 | 47 | [The Blood](https://open.spotify.com/track/5GDfnpfmkgYuvCVcY116XE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:12 |
 | 48 | [Don't Take Your Spirit from Me \(feat\. J.J Hairston\)](https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 19:43 |
 | 49 | [Glory Hallelujah \(feat\. Marc Britt, Juanita Contee & Mav City Gospel Choir\)](https://open.spotify.com/track/0CWWp9H73xWHC9Jxr9HKXZ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Marc Britt](https://open.spotify.com/artist/7d6Y21mEawoZK7cVQrIHcv), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 4:45 |
-| 50 | [You Are Awesome](https://open.spotify.com/track/0JuACuUfaF7TVgHTQV5gCa) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
+| 50 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDBlYTU0YzFmYjk2Njk0M2EyOWJlY2E4ZGNkMzUwZTQ2Yg==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDA0ZjkyODJmMjhjNGRjYjZmMDhkYTJkYTkwYmFjZTA4ZA==`

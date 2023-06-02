@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,887 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,011 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 44 | [Veracruz](https://open.spotify.com/track/5lI6MgAE8NQSw0QfBBAyrH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:11 |
 | 45 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
 | 46 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/3V4bMgeel5aUjLPMuDxMN3) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:10 |
-| 47 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
-| 48 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
+| 47 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
+| 48 | [Sin Ti](https://open.spotify.com/track/3tfXyPuyqdKSBkJcgAE1kA) | [Trios de Mexico](https://open.spotify.com/artist/1iXvNC4dw6uoQz6cKA8Ths) | [Mexican Music: Trios](https://open.spotify.com/album/2af88xFYtqpXPo0QeBaK3B) | 2:21 |
 | 49 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
 | 50 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 51 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 | 100 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
 
-Snapshot ID: `MCxlMzBhYWU1YzBkZjEyOTI5NTIxYjMzNjcwZjk5ZTMwNDNlYjgwNDll`
+Snapshot ID: `MCw3N2RkMDM3Njg1MzVkYjJkYzgxMmU0ZTVkMjNiZDkzMTdkMjk5NTY5`

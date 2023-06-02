@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 165949,
+  "num_followers": 166009,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWQ4MDdiZmMzNDRmM2E1NjkxMWRlM2QwNzc1ZmVmOWUzNzc2M2Qz",
+  "snapshot_id": "MCw3MjNhMjRiMzY3OGMyZDJmN2I0MDczOWFiZTViNjkwYjBhZTJhYTVk",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Hernan Figueroa Reyes El Unico",
-        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
+        "name": "La Fiesta del Violinero",
+        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
       },
       "artists": [
         {
-          "name": "Hernan Figueroa Reyes",
-          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
+          "name": "N\u00e9stor Garnica",
+          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
         }
       ],
-      "duration_ms": 168948,
-      "name": "El Corralero",
-      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
+      "duration_ms": 180640,
+      "name": "El Olvidao",
+      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "La Fiesta del Violinero",
-        "url": "https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL"
+        "name": "Hernan Figueroa Reyes El Unico",
+        "url": "https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7"
       },
       "artists": [
         {
-          "name": "N\u00e9stor Garnica",
-          "url": "https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w"
+          "name": "Hernan Figueroa Reyes",
+          "url": "https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S"
         }
       ],
-      "duration_ms": 180640,
-      "name": "El Olvidao",
-      "url": "https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV"
+      "duration_ms": 168948,
+      "name": "El Corralero",
+      "url": "https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Este Destino Cantor",
         "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 214386,
       "name": "Mi Luna Cautiva",
       "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
+        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Cuando Ya Nadie Te Nombre",
+      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Chamame",
         "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 160357,
       "name": "Cuando Llora Mi Guitarra",
       "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
-        "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Cuando Ya Nadie Te Nombre",
-      "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Todos Los Dias Un Poco...",
-        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
+        "name": "Los 3 del R\u00edo",
+        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Los 3 Del R\u00edo",
+          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
+      "duration_ms": 229877,
+      "name": "El Pastor",
+      "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Los 3 del R\u00edo",
-        "url": "https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq"
+        "name": "Todos Los Dias Un Poco...",
+        "url": "https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM"
       },
       "artists": [
         {
-          "name": "Los 3 Del R\u00edo",
-          "url": "https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 229877,
-      "name": "El Pastor",
-      "url": "https://open.spotify.com/track/3I27VaH9AzU73qUWrvvSQp"
+      "duration_ms": 194200,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "C\u00f3rdoba Sin Ti",
-      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Viajes Por El Mundo",
         "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 172800,
       "name": "Los Ejes de Mi Carreta",
       "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Con Todo Y Mi Tristeza",
-      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Confiter\u00eda Europea 100 A\u00f1os",
         "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
       },
@@ -1335,6 +1303,22 @@
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
     },
     {
       "added_at": "2023-05-12 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Alan Gomez & Luck Ra.",
-  "num_followers": 603841,
+  "num_followers": 603951,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmI2MjczN2VjNDg4Y2Y3NDc3OTZmMGQ1OWI4MWY4NDg3OTM2NDJi",
+  "snapshot_id": "MCxkN2E0YzkzZDk2YzlmMDE1YzgyMjAwYmU1YWQ4MDMwYTExN2VmMTEz",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Qui\u00e9reme (Cuarteto)",
+        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Qui\u00e9reme - Cuarteto",
+      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 1500920,
       "name": "Fragmentos Enganchados, Pt. 2",
       "url": "https://open.spotify.com/track/5tyaPG41AJwJmdv2lS7H1c"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Qui\u00e9reme (Cuarteto)",
-        "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Qui\u00e9reme - Cuarteto",
-      "url": "https://open.spotify.com/track/16TVpC45y7WRr5jRxyXWxc"
     },
     {
       "added_at": "2023-05-19 03:00:00",

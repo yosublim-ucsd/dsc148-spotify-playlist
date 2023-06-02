@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 79463,
+  "num_followers": 79571,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjI5NjE3NjI2OTBkNmY4OGM2ZGMxOWI0YTQyNDljYWE5N2E4NjIw",
+  "snapshot_id": "MCxhOWFkYWU4YmZmMmI0ZjdkMGZjZmVhZjhmZTJjYjBlOGE0MDJkNmI1",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300408,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "10 A\u00f1os De Historia",
         "url": "https://open.spotify.com/album/2jLrQzNNyxlqrHZnSU5sCI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 283600,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/0GeR6j3KxDNkLgjRbNgYxm"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300408,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Corazon Vallenato",
+        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Como Duele El Frio",
+      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Brindo Con El Alma",
         "url": "https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 300760,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Corazon Vallenato",
-        "url": "https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Como Duele El Frio",
-      "url": "https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -243,8 +243,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Sorpresa Caribe",
-        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 275774,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
+      "duration_ms": 246046,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -395,8 +395,8 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Lenguaje Universal",
-        "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
+        "name": "Sorpresa Caribe",
+        "url": "https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246046,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
+      "duration_ms": 275774,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6"
     },
     {
       "added_at": "2022-12-16 20:17:47",

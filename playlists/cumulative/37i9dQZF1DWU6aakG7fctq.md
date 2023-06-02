@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Loyal Lobos
 
-371 songs - 20 hr 50 min
+372 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Empty](https://open.spotify.com/track/3MWjUNewqvMhd0Djv3tPdk) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Empty](https://open.spotify.com/album/326kj5IonAbmP8fvOZkiwc) | 2:56 | 2022-01-10 | 2022-07-26 |
 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 |  |
 | [En los Huesos](https://open.spotify.com/track/0AFHjjPLUBriFn18A1Ybc4) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En los Huesos](https://open.spotify.com/album/3EUhJitSG6eDyZMN1PPjuW) | 3:54 | 2023-05-12 |  |
+| [En Un Instante](https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [En Un Instante](https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph) | 2:51 | 2023-05-26 |  |
 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 | 2022-10-27 | 2022-12-13 |
 | [Enculado \- feat\. Nsqk](https://open.spotify.com/track/1ZebsbrSZGn8IopE1g1R0e) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [2 A.M.](https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU) | 2:21 | 2023-03-02 |  |
 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 | 2022-08-19 | 2023-02-18 |
@@ -278,7 +279,7 @@
 | [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-14 |  |
 | [Quiero Decirle](https://open.spotify.com/track/1CFA6iYZVHZpOL7MItMho6) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT) | [Quiero Decirle](https://open.spotify.com/album/2TeBHe0LyT6dyZhsOBaVIB) | 4:34 | 2023-03-10 | 2023-03-18 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-14 |  |
-| [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 | 2022-11-24 |  |
+| [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 | 2022-11-24 | 2023-06-02 |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Really Rong](https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:24 | 2022-01-10 | 2022-11-25 |
 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 | 2022-12-09 | 2023-04-29 |

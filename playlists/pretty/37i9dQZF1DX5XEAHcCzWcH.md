@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,867 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,895 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 30 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 31 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
 | 32 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
-| 33 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
-| 34 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
+| 33 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
+| 34 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 35 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
 | 36 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
-| 37 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
-| 38 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 37 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 38 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
 | 39 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
 | 40 | [Tipitina](https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Fess at Home](https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE) | 3:51 |
 | 41 | [Pink Champagne](https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 3:00 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 45 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
 | 46 | [The Blues Ain't Nothing](https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H) | [Julian Fauth](https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr), [Curley Bridges](https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus) | [Blues Piano\-Rama](https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx) | 5:46 |
 | 47 | [Mean Old Train](https://open.spotify.com/track/0liEBhnL5QiBIAtJ2AK3ax) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57), [Giles Robson](https://open.spotify.com/artist/3X0t4rhxfWybl1HrB2x2y3) | [Journeys To The Heart Of The Blues](https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z) | 3:03 |
-| 48 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
+| 48 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
 | 49 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
-| 50 | [Make Me a Pallet on the Floor](https://open.spotify.com/track/14AxqPeIqpVySnvgLf6ZKv) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD), [Mama Yancey](https://open.spotify.com/artist/43jwl4inLITN5Xu7D7XcFu) | [Chicago Piano Volume 1](https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC) | 4:34 |
+| 50 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
 | 51 | [Rockin' with Red \- Remastered 2002](https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp) | [Piano Red](https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx) | [That's All Right \(When the Sun Goes Down series\)](https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3) | 2:30 |
 | 52 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 |
 | 53 | [Whistling Alex Moore's Blues](https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte) | [Alex Moore](https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1) | [From North Dallas to the East Side](https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9) | 3:07 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MCxmZTFjM2I2NTEzNmQ3MGIzYmJjMWY1MTZiNTJmMjY4OTI2OWM1NDll`
+Snapshot ID: `MCxhN2ZjNDI4MzQ5MzdjN2NlOWJlOWU5MTkxNzAzOGJlMWU0MGIwY2I4`

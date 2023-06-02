@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 115205,
+  "num_followers": 115539,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQ2NmY1Zjc5YjM3MTM3ZWZjNWNjYjI2MTk3ZTQ2YTYxNWFmMmE3",
+  "snapshot_id": "MCxjMGNlYWM5YmY5YjNhYzRjOTM4YjUxNGVhOTM1YTM5ZTQ4ZmYyZWM5",
   "tracks": [
     {
       "added_at": "2023-05-30 07:53:43",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
+        "name": "Le Marais",
+        "url": "https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT"
+      },
+      "artists": [
+        {
+          "name": "Rollin Hand",
+          "url": "https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw"
+        }
+      ],
+      "duration_ms": 207416,
+      "name": "Le Marais",
+      "url": "https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 276360,
       "name": "Deep Touch",
       "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
-        "name": "Le Marais",
-        "url": "https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT"
-      },
-      "artists": [
-        {
-          "name": "Rollin Hand",
-          "url": "https://open.spotify.com/artist/7oKCQiTL5z1a63V76WyDtw"
-        }
-      ],
-      "duration_ms": 207416,
-      "name": "Le Marais",
-      "url": "https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
+      "duration_ms": 289453,
+      "name": "Flower Child",
+      "url": "https://open.spotify.com/track/2WGmkBmywV4gBLZer6lAAH"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 289453,
-      "name": "Flower Child",
-      "url": "https://open.spotify.com/track/2WGmkBmywV4gBLZer6lAAH"
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 299640,
       "name": "Always There (feat. Jeff Golub)",
       "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Still Euge",
-        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Love, Passion And Joy",
-      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 324213,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Still Euge",
+        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Love, Passion And Joy",
+      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 318053,
-      "name": "Costa del Soul",
-      "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Euge Groove",
         "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 297493,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 318053,
+      "name": "Costa del Soul",
+      "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Smooth Jazz Radio Hits Volume Two",
         "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 216293,
       "name": "In The City Life",
       "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Jazzmasters: The Greatest Hits",
-        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "London Chimes",
-      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Next Journey",
         "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 183250,
       "name": "Next Journey",
       "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Jazzmasters: The Greatest Hits",
+        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "London Chimes",
+      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

@@ -2,7 +2,7 @@
 
 ### [Partyhymnen](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
 
-> Feiern mit den größten aktuellen Partyhits.
+> 
 
 120 songs - 5 hr 39 min
 

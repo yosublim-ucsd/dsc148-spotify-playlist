@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,763 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,954 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 2 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
 | 3 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
 | 4 | [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 |
-| 5 | [3 Daqat](https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [3 Daqat](https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6) | 4:35 |
-| 6 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 |
+| 5 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 |
+| 6 | [3 Daqat](https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [3 Daqat](https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6) | 4:35 |
 | 7 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 |
 | 8 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
 | 9 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 49 | [Hayaty Msh Tamam](https://open.spotify.com/track/5P1lXXSESjRau7dg9l6egg) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hayaty Msh Tamam](https://open.spotify.com/album/0zBxKqULhsSAiY3qWbeJMM) | 3:15 |
 | 50 | [W Nefdal Norkos](https://open.spotify.com/track/31bpBRmlNCe4XFvci7EXNW) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [W Nefdal Norkos](https://open.spotify.com/album/3snEVielzZjgjJMA1wUCTp) | 3:40 |
 
-Snapshot ID: `MCxjNDNiNDkzMWUyOGM5MTEyZDNjNzczZDUxNDI4M2YwNjFkZmFlM2Q1`
+Snapshot ID: `MCw0MmJmZjhjYTVkZTU1OGJiOGZkNTRjNDA0M2RlZmY5ZmZjZGE1MjMz`

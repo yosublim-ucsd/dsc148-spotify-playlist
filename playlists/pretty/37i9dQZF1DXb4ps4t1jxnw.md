@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb4ps4t1jxnw.md) - [plain]
 
 > Featuring Peso Pluma, Alemán, Yandel, Feid & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 25 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,115 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb4ps4t1jxnw.md) - [plain]
 | 19 | [HOPE \(with Kidd Keo\)](https://open.spotify.com/track/79X7BhWIBGSjChXPjkJcvQ) | [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [HOPE \(with Kidd Keo\)](https://open.spotify.com/album/30qZqCNCJBBGJfFrtlAkih) | 2:39 |
 | 20 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
 | 21 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 |
-| 22 | [TU DIABLO](https://open.spotify.com/track/3cubuvfYq2yHijwV7eCHwL) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/4hgAxWNVceOSRdMeaIcmIo) | 4:09 |
+| 22 | [TU DIABLO](https://open.spotify.com/track/7yYUEygHvdK2wnOzupPfZw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [TU DIABLO](https://open.spotify.com/album/5nNEzv707WMcyARly8bUNs) | 4:09 |
 | 23 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 |
 | 24 | [Ay Mi Dios](https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Ay Mi Dios](https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE) | 4:12 |
 | 25 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 
-Snapshot ID: `MCxhZTE0MWI4ZDcwZDY5NmQ1YzRiYzE5YmU3MWE4NGU2ZmNkNTdkNDVm`
+Snapshot ID: `MCw1ZTBjMTNhYzU5MTQ5NGY2MjRmNzViOWE5NWY4ODQxNjY4ZGI0NjJl`

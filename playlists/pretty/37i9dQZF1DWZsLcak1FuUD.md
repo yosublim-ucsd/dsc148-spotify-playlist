@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,205 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,224 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 19 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
 | 20 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 21 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
-| 22 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
+| 22 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
 | 23 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
-| 24 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
+| 24 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 25 | [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 |
 | 26 | [Las Habladurias del Mundo](https://open.spotify.com/track/5K6fJf9l8WTsscngGert0b) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 4:03 |
 | 27 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 38 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 |
 | 39 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
 | 40 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
-| 41 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
-| 42 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
+| 41 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
+| 42 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
 | 43 | [La Mamá de Jimmy](https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub) | 3:39 |
 | 44 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
 | 45 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 | 55 | [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 |
 
-Snapshot ID: `MCxlN2Y3ODNmOTlhNDg4NmQ0NzU1NTYyOTg1ZThlNDZiY2FlNDM4NjNk`
+Snapshot ID: `MCwwM2E2MDVmMTc3M2MwYmRiZTJjYzkyYmM0M2RmYWNlODJmYjQzZjMz`

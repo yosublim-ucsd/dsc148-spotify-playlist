@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 45606,
+  "num_followers": 45626,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjRkNmY1MDFhNDEzMmNhOWU3ZDgwNmUwNThlOWY3M2FkOTE2NWJh",
+  "snapshot_id": "MCxlOTkxY2Y3MjNjZWNlODY4MmRhNGFmMGY2ODY5YjlmODM2OTJiMzc4",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Sakit",
         "url": "https://open.spotify.com/album/5uP44qzAYjTUveb8iNJccy"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 221700,
       "name": "Sakit",
       "url": "https://open.spotify.com/track/2rAJy2WSlQOINaWi0kydkr"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Y4",
-        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fool 4 U",
-      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "I.L.S.M (I Love Sadness More)",
         "url": "https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 185624,
       "name": "I.L.S.M",
       "url": "https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Y4",
+        "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fool 4 U",
+      "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "dinner in bed",
+        "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+      "duration_ms": 197855,
+      "name": "dinner in bed",
+      "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
     }
   ],
   "unique_name": "Chill Lah",

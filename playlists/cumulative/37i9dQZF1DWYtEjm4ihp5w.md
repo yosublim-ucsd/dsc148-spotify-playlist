@@ -2,13 +2,14 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Ouenza
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Demon324
 
-114 songs - 6 hr 2 min
+115 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100](https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [100](https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6) | 3:22 | 2022-11-14 | 2023-02-27 |
+| [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-01 |  |
 | [A](https://open.spotify.com/track/3PXHRtEZ3UErU6ByaJhSnd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ABCÈS](https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj) | 2:42 | 2022-12-24 | 2023-01-01 |
 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 | 2023-02-18 |  |
 | [Allaho Akbar](https://open.spotify.com/track/2Omr2NN6IRfzxnXlGw7dSs) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 3:49 | 2022-11-17 | 2022-12-02 |
@@ -91,7 +92,7 @@
 | [RADAR](https://open.spotify.com/track/7D1oLt3qqyjnxwOHUeqyNS) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7) | [RADAR](https://open.spotify.com/album/2NZGsUTyxOcGml7jPRweZQ) | 3:07 | 2023-03-02 | 2023-03-16 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-11-14 | 2022-12-13 |
-| [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 |  |
+| [Sentiment](https://open.spotify.com/track/4Z1yWm77qsMwDmbbPqycFP) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Sentiment](https://open.spotify.com/album/4qS1zPIIKk9rzThe4qtcFd) | 3:12 | 2023-02-26 | 2023-06-02 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-21 | 2023-01-04 |
 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 | 2022-11-14 |  |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 |  |

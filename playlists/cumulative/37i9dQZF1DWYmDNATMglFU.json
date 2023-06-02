@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. noahfinnce",
+  "description": "it's a generation \u26d3 ft. lauren sanderson",
   "name": "The Locker",
   "tracks": [
     {
@@ -606,6 +606,24 @@
     {
       "album": {
         "name": "Backtrack",
+        "url": "https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158840,
+      "name": "Backtrack",
+      "url": "https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh"
+    },
+    {
+      "album": {
+        "name": "Backtrack",
         "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
       },
       "artists": [
@@ -616,7 +634,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 158840,
       "name": "Backtrack",
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
@@ -4829,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "IDC AT ALL",
+        "url": "https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "IDC AT ALL",
+      "url": "https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn"
+    },
+    {
+      "album": {
         "name": "CHASING HARMONY",
         "url": "https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc"
       },
@@ -6560,7 +6596,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 96000,
       "name": "ONLY FANS",
       "url": "https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9"
@@ -6600,6 +6636,24 @@
       "duration_ms": 231653,
       "name": "Outlook",
       "url": "https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy"
+    },
+    {
+      "album": {
+        "name": "follow:noise",
+        "url": "https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 918477,
+  "num_followers": 918667,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjg1NTM0M2M0ZWRkMzQwYmI0NTVhNjEzOTEzM2VlOGY4OWFjMTQy",
+  "snapshot_id": "MCw4MGUzZWJhZTc0MTYzNmZhZTY1Nzk0NDlmMmUzZjNiZDlmN2UyNGEw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "BEYGE",
-          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 171984,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Lipstick (feat. Robbie Rise)",
         "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 171984,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Way It Is",
         "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 192905,
       "name": "Way It Is",
       "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Off The Wall",
         "url": "https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 212839,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/2O4HZXYGGdmLZxt12kbOl6"
-      },
-      "artists": [
-        {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "What You Got",
         "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Patron",
+      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 170004,
       "name": "Have Me All (feat. Jelita)",
       "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Patron",
-      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Night Rider",
-        "url": "https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Night Rider",
-      "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
@@ -1523,6 +1503,42 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Night Rider",
+        "url": "https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 153847,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 165120,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Hostile",
-      "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1599,6 +1599,26 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "AM:PM (NOTD VIP Mix)",
+        "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "AM:PM - NOTD VIP Mix",
+      "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 168857,
       "name": "Grimestar",
       "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "AM:PM (NOTD VIP Mix)",
-        "url": "https://open.spotify.com/album/6YWX0YBHfGP7NT5uGRBJjC"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "AM:PM - NOTD VIP Mix",
-      "url": "https://open.spotify.com/track/0Se62FfAmvAGrdv4tIBXIu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1867,6 +1867,42 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "The Way We Touch",
+        "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "The Way We Touch",
+      "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Push And Pull",
         "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
       },
@@ -1919,38 +1955,6 @@
       "duration_ms": 219523,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "How it is",
-        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "How it is",
-      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
     }
   ],
   "unique_name": "Shuffle Syndrome",

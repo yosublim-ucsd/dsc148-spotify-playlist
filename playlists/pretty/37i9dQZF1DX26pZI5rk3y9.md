@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,298 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,312 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
 | 70 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
 
-Snapshot ID: `MCw0ZDMwZGU2NGJlODQ0NDRiZWRiMTZkOWNhOGNmMmFiMGVlZmQ0ZjE2`
+Snapshot ID: `MCxlMjczOGVlNDNmODMxNzBiZDNiY2MxZTM4ODYyYjNmYjFmZmE3Mzk0`

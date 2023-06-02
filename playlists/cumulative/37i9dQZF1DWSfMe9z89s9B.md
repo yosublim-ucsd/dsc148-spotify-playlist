@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Khamari
 
-839 songs - 1 day 21 hr 25 min
+841 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [ARMS \(Edit\)](https://open.spotify.com/track/1PWOdHUiBFiT4hJJ8DBSnh) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [ARMS](https://open.spotify.com/album/28gNtcHwTNJ5BJspX50iMq) | 3:33 | 2022-11-04 | 2022-11-19 |
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-04-01 | 2022-04-13 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-14 |  |
-| [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-03-24 |  |
+| [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 | 2023-03-24 | 2023-06-02 |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2021-07-23 | 2022-07-23 |
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-04-30 | 2023-04-01 |
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-10-08 | 2023-02-18 |
@@ -158,8 +158,8 @@
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-19 | 2022-07-05 |
 | [City of Angels](https://open.spotify.com/track/6dQ2LusAx9Lr7NwkwHkYIC) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [City of Angels](https://open.spotify.com/album/7LuzVcbZIaIH3MYWo81k2q) | 2:10 | 2022-08-12 | 2022-10-10 |
 | [Clear My Mind](https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Clear My Mind](https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0) | 2:35 | 2022-04-01 | 2022-04-16 |
-| [close with desires](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-05-19 |  |
 | [close with desires](https://open.spotify.com/track/3FybGUiXpHKQnX8PzvBAiC) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires](https://open.spotify.com/album/2RQcP5ADwuWBrmkQvigU19) | 3:23 | 2023-05-19 | 2023-05-24 |
+| [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-05-19 |  |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-08-13 | 2022-07-16 |
 | [Coconut Oil](https://open.spotify.com/track/22G3GGfNEx4LMv5BYLkXad) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Coconut Oil](https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5) | 2:01 | 2022-04-01 | 2022-04-16 |
 | [Coffee Bean](https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa) | [Zaniah](https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH) | [Coffee Bean](https://open.spotify.com/album/74rQ5m43jTqx4GTbQkjiMd) | 2:39 | 2021-03-19 | 2022-01-13 |
@@ -220,6 +220,7 @@
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-03 | 2022-10-08 |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-04 | 2022-09-05 |
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-05-20 | 2022-06-14 |
+| [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-05-26 |  |
 | [EN ROUTE](https://open.spotify.com/track/3iHtZFKpQ0fChtvIzCTZqt) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [HADJA BANGOURA](https://open.spotify.com/album/4pg5SeMbmioO8Nxl2pnveF) | 2:05 | 2022-11-04 | 2022-12-24 |
 | [END OF DAYS](https://open.spotify.com/track/5L0kF2G7PX0pdRSd278n1g) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SUNSPOTS](https://open.spotify.com/album/3xEmCstoaxO1p2FmjaIUv7) | 3:05 | 2022-10-07 | 2022-10-13 |
 | [END OF DAYS](https://open.spotify.com/track/5enMs9HhVONWrSgVw7ra8f) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SUNSPOTS](https://open.spotify.com/album/23grTY0XfOmdPg9WorGxRw) | 3:05 | 2022-10-07 | 2022-11-19 |
@@ -660,7 +661,8 @@
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2021-03-19 | 2022-07-23 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-25 | 2022-06-15 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-08 | 2022-07-16 |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
+| [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-04-14 |  |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 |  |

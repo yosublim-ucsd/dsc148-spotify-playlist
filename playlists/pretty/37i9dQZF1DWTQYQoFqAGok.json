@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55974,
+  "num_followers": 55987,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjU2ODJiYTY0NWVkZjZmZWFkNjc3NTlhNTk2NmM3ZGZiZmQ1OGFk",
+  "snapshot_id": "MCxiNjE1MTBmYWIxMmM4NzFhNjk4OGFmMjhlYjEwMWQxZGMwOWQ5MTFm",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
-      "added_at": "2023-01-07 01:43:47",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Deseo del Tiempo",
@@ -87,6 +71,22 @@
       "duration_ms": 244682,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
+    },
+    {
+      "added_at": "2023-01-07 01:43:47",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
-      "added_at": "2022-09-02 03:31:02",
-      "album": {
-        "name": "Los Fuegos de San Telmo",
-        "url": "https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL"
-      },
-      "artists": [
-        {
-          "name": "El 50 Elemento",
-          "url": "https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "Las luces de San Telmo",
-      "url": "https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Guidum",
@@ -407,6 +391,22 @@
       "duration_ms": 239673,
       "name": "T\u00e9 de Olvido",
       "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
+    },
+    {
+      "added_at": "2022-09-02 03:31:02",
+      "album": {
+        "name": "Los Fuegos de San Telmo",
+        "url": "https://open.spotify.com/album/5xOVt7TdEJPinpWn0YksqL"
+      },
+      "artists": [
+        {
+          "name": "El 50 Elemento",
+          "url": "https://open.spotify.com/artist/0nau6lOENuCV5fyEcccmfz"
+        }
+      ],
+      "duration_ms": 404000,
+      "name": "Las luces de San Telmo",
+      "url": "https://open.spotify.com/track/3fyuUSTUaktT3oDWPaFsdW"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+    },
+    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -463,42 +479,6 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir (Desde Casa)",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -551,6 +531,42 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir (Desde Casa)",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Pavel Loaria Big Band, Vol. 1",
+        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "Pavel Loaria Big Band",
+          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 233306,
+      "name": "The Pink Panther",
+      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -607,22 +623,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Pavel Loaria Big Band, Vol. 1",
-        "url": "https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff"
-      },
-      "artists": [
-        {
-          "name": "Pavel Loaria Big Band",
-          "url": "https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "The Pink Panther",
-      "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Voices from the Border",
         "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",

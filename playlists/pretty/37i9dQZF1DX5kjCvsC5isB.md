@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,425 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,515 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 26 | [GET OUT](https://open.spotify.com/track/3gXi7FvWhTvMPa0wcsNXm9) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [GET OUT](https://open.spotify.com/album/5gkgLMHf8k3hWEDMFls4Ed) | 2:18 |
 | 27 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
 | 28 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
-| 29 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
+| 29 | [Backtrack](https://open.spotify.com/track/7HjD2M3aBTFrTOlNsiJUxh) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0GL7rASvtOQDBNTGtbMpS7) | 2:38 |
 | 30 | [Falling from the Sky](https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [Girl Next Door](https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D) | 2:44 |
 | 31 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |
 | 32 | [Come Apart](https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 3:04 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MCwwMTdhYjE0YjAwNTY3YzcwMmNlYTlhZGViN2ZlYjMwZmFjOWVhYWE5`
+Snapshot ID: `MCxlN2RhYWNlNWZkYTAyOTZmNGJjNjM1YTNjMmEzMDdlYjhiZDc0MzJh`

@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-396 songs - 1 day 11 hr 8 min
+397 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Farbenlehre](https://open.spotify.com/track/04P9FtFkN7rHipt52aM6E5) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Oslo](https://open.spotify.com/album/2221mPPi9Hcd2AQQBBQ5ab) | 3:21 | 2022-02-10 | 2022-07-22 |
 | [Fascinating Rhythm.](https://open.spotify.com/track/71NarEYn0jwMqcvdq9Uq2z) | [Guy Mintus Trio](https://open.spotify.com/artist/6AV0yd6NDoecPNG1HvFyvt) | [A Gershwin Playground](https://open.spotify.com/album/0DC58UO1vzq92evwau1rNu) | 10:21 | 2022-02-10 | 2022-07-31 |
 | [Feira de Mangaio](https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK) | [Trio Corrente](https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis), [Edu Ribeiro](https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX), [Fabio Torres](https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh), [Paulo Paulelli](https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y) | [Sincronia](https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0) | 6:35 | 2022-02-10 |  |
+| [Feldgrau](https://open.spotify.com/track/2N2KnRruCRlQw2J2buS9tJ) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Viridian](https://open.spotify.com/album/0KsCfzrnCh37kVzNIi9dM3) | 5:02 | 2022-03-07 |  |
 | [Fellowship](https://open.spotify.com/track/1QA6L3kxug6hTpPIOInH7r) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/3YTvz5YwqUCGOQhbvk1aEs) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 | 2022-02-10 | 2022-09-03 |
 | [Fig Foot](https://open.spotify.com/track/1HaZ1JfPZKZpgwFS9RdMTp) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Not Two, Not One](https://open.spotify.com/album/2T1wPOSkQiao3xI27f9SoO) | 5:39 | 2022-02-10 | 2022-07-27 |
@@ -238,7 +239,7 @@
 | [Pawn Broker](https://open.spotify.com/track/7MiBR34i4KkdoM3fdf4RUT) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [At This Time...](https://open.spotify.com/album/1oQCGl03k3fDmNADJ99zAn) | 6:09 | 2022-02-10 | 2022-09-03 |
 | [Peace \- Live](https://open.spotify.com/track/0gzAKZOAbKgd4NdqUREqba) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Potsdam](https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop) | 3:52 | 2022-03-25 |  |
 | [Peace Invocation \(feat\. Charles Lloyd\)](https://open.spotify.com/track/1aFpsXRjPycYUEuYscoB5R) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Peace Invocation](https://open.spotify.com/album/5ay3DrmpMp92GnLugHxScM) | 8:00 | 2022-03-18 |  |
-| [Persistence](https://open.spotify.com/track/37xiYWIg7WS01fbtn2zPMm) | [Michael Weiss](https://open.spotify.com/artist/0CT9ey2aaPfiC1IYcpiOqn) | [Persistence](https://open.spotify.com/album/2DVXcIio0XzCqC0yb7OctX) | 5:18 | 2022-02-23 |  |
+| [Persistence](https://open.spotify.com/track/37xiYWIg7WS01fbtn2zPMm) | [Michael Weiss](https://open.spotify.com/artist/0CT9ey2aaPfiC1IYcpiOqn) | [Persistence](https://open.spotify.com/album/2DVXcIio0XzCqC0yb7OctX) | 5:18 | 2022-02-23 | 2023-06-02 |
 | [Played Twice](https://open.spotify.com/track/7vDWT3NsfVoey6aSoTTM2v) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/1mHFzljp8Gd2m90wVgwqNL) | 5:44 | 2022-02-10 | 2022-07-25 |
 | [Popkoral](https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Helge Lien](https://open.spotify.com/artist/2HlDnWc1U5F7D30DTyWJ4F), [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Per Oddvar Johansen](https://open.spotify.com/artist/1nLQ0q9ZBZkn0hSq0gRAnd) | [10](https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd) | 4:27 | 2022-02-10 | 2022-09-03 |
 | [Pray](https://open.spotify.com/track/6niHY50qraFaCfJ8azjMQ4) | [Marc van Roon Trio](https://open.spotify.com/artist/0LVkl4BXWGA8QcjS6dIkaf) | [Quantum Stories](https://open.spotify.com/album/6erjfrUNgfkIZ41rEoI7Z5) | 4:01 | 2022-02-10 | 2022-09-03 |

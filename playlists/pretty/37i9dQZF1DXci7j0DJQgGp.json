@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1807319,
+  "num_followers": 1807355,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWNlNjQ0MjE2MDExYWMyNmE2ZGM5OGM0YTY5NTM1Njk1ZTk0YjE3",
+  "snapshot_id": "MCxiODJlYzQxMDY0YjRhZGYxYzQwZjA4MWEwYTJiYWI4NmNlODVkMDZj",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "The Day My Father Died",
         "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 263253,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
       },
@@ -1579,18 +1563,34 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "American Bollywood",
+        "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "American Bollywood",
-        "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Inside Problems",
-        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Make a Picture",
-      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Inside Problems",
+        "url": "https://open.spotify.com/album/3Q5tb3gLGSe5JxeEEnTysE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Make a Picture",
+      "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

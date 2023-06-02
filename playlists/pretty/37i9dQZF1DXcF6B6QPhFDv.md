@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Royal Blood along with today's Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,797,979 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,798,321 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 |
 | 50 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 
-Snapshot ID: `MCxlZDBlMTc0ODNiZTgzNTAzODFiZTRjNjViYmMzYmQ2ZTI0YTJiMTBl`
+Snapshot ID: `MCwyYjEyNGQzNmZkZGQ5Y2M2MGZiOGZhMjBlZDE1MzAyMTNjYmUwNzIw`

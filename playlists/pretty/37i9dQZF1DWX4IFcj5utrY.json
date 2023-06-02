@@ -1,13 +1,33 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN?si=pebQML9dTI2wwUQ6IcjE7g\">Thee Suka</a>",
-  "num_followers": 60437,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=Kjnu6Xy4SuqnEzK8bcP6BQ\">Prince Kaybee</a>",
+  "num_followers": 60456,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA3OTM3OWU2MzgyNDdmNjE0NmRiZmRkZDI5NmQ5NjlkNTFlZjUy",
+  "snapshot_id": "MCw1MGY0ZTMyNThkMjUzMTljMmYyMDRmMjU0MTdlNzlmMjhjZTZlMDVi",
   "tracks": [
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Inkumbulo",
+        "url": "https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt"
+      },
+      "artists": [
+        {
+          "name": "Prince Kaybee",
+          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "duration_ms": 322552,
+      "name": "Inkumbulo",
+      "url": "https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA"
+    },
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
@@ -29,6 +49,26 @@
       "url": "https://open.spotify.com/track/4HwbvqQZpVvaYJB7uGlcAe"
     },
     {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Anjunadeep Explorations 22",
+        "url": "https://open.spotify.com/album/4DC9IfMdaEhUTU343byhka"
+      },
+      "artists": [
+        {
+          "name": "Kayrendasoul",
+          "url": "https://open.spotify.com/artist/3DZkJt4m4kPKYPtRKkvPkX"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "duration_ms": 229654,
+      "name": "Gemini's",
+      "url": "https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX"
+    },
+    {
       "added_at": "2023-05-22 11:27:42",
       "album": {
         "name": "Abandonment Issues",
@@ -47,6 +87,26 @@
       "duration_ms": 192000,
       "name": "Abandonment Issues",
       "url": "https://open.spotify.com/track/5MSpeSGuvcxiQS7Bd8np3q"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Caution To The Wind (Fka Mash Remixes)",
+        "url": "https://open.spotify.com/album/4g2rVxcYBIKCRllmkDghVu"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 390500,
+      "name": "Caution To The Wind - Fka Mash Remix",
+      "url": "https://open.spotify.com/track/3t9nMT0GuhQZSNSH7gXEfU"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -265,6 +325,26 @@
       "url": "https://open.spotify.com/track/24kUtFCxGKd6Rgti2G6YTI"
     },
     {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "UNDERRATED 2.0",
+        "url": "https://open.spotify.com/album/2ZNqWRe7AbH6HRiTwtFvkX"
+      },
+      "artists": [
+        {
+          "name": "Vico da sporo",
+          "url": "https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd"
+        },
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "duration_ms": 418495,
+      "name": "Amaphupho",
+      "url": "https://open.spotify.com/track/45hTW7vepklO2ZNSEAoFYs"
+    },
+    {
       "added_at": "2023-05-22 11:27:42",
       "album": {
         "name": "Kamili",
@@ -331,6 +411,34 @@
       "duration_ms": 360015,
       "name": "Indoda no Sisi",
       "url": "https://open.spotify.com/track/1wJnVOfKk3GUMgj8THsFNP"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix)",
+        "url": "https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C"
+      },
+      "artists": [
+        {
+          "name": "Semitone",
+          "url": "https://open.spotify.com/artist/4sNX911AuXLrqMUP1IpPtz"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        },
+        {
+          "name": "Lebzin",
+          "url": "https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 269757,
+      "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -419,6 +527,30 @@
       "duration_ms": 226229,
       "name": "Oh Lua",
       "url": "https://open.spotify.com/track/1vwv0Jz9aM3v4mP0IL1NEr"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "The Underrated King",
+        "url": "https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk"
+      },
+      "artists": [
+        {
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        },
+        {
+          "name": "Bailey",
+          "url": "https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX"
+        },
+        {
+          "name": "Jnr SA",
+          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
+        }
+      ],
+      "duration_ms": 368577,
+      "name": "Dakiwe",
+      "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -523,6 +655,30 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
+        "name": "Asanda",
+        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Asanda",
+      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
         "name": "Sound Of The Dragonfly",
         "url": "https://open.spotify.com/album/1r9GUiZzineJIF19j2ftU6"
       },
@@ -535,6 +691,26 @@
       "duration_ms": 379875,
       "name": "Sound Of The Dragonfly",
       "url": "https://open.spotify.com/track/3xJkUQe1KVrO1tqJ7mxC2y"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5i4Ud0tx3TqARZnEZmZ9xd"
+      },
+      "artists": [
+        {
+          "name": "LaTique",
+          "url": "https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD"
+        },
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        }
+      ],
+      "duration_ms": 408813,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -559,6 +735,30 @@
       "duration_ms": 222332,
       "name": "Maphuma (feat. Lizwi)",
       "url": "https://open.spotify.com/track/5ceRrauIyROtPwWyVTmGDs"
+    },
+    {
+      "added_at": "2023-06-02 00:00:00",
+      "album": {
+        "name": "Don\u2019t Let Me See (Jimpster Remixes)",
+        "url": "https://open.spotify.com/album/2sKHqW46XMT1NACxibp4hh"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Ray T",
+          "url": "https://open.spotify.com/artist/16qLezAXthtabM2KemEN5Q"
+        },
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "duration_ms": 256385,
+      "name": "Don\u2019t Let Me See - Jimpster Remix Edit",
+      "url": "https://open.spotify.com/track/3anqGyfRthhSK3P1zmJKWu"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -587,26 +787,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Saving Me",
-        "url": "https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Saving Me",
-      "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Can You See Me",
         "url": "https://open.spotify.com/album/1pMViL7L8nQOIHkuBsLcuv"
       },
@@ -623,22 +803,6 @@
       "duration_ms": 254330,
       "name": "Can You See Me",
       "url": "https://open.spotify.com/track/5fbgFotZD68RuoPM0JmJe6"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "fund$",
-        "url": "https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "fund$",
-      "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -671,26 +835,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Body On Me",
-        "url": "https://open.spotify.com/album/4866zM4AKXkW4PzAdnhwJz"
-      },
-      "artists": [
-        {
-          "name": "Mark Stent",
-          "url": "https://open.spotify.com/artist/2whiBQzZUS6fMkfOCqzXWS"
-        },
-        {
-          "name": "Nathan Dixon",
-          "url": "https://open.spotify.com/artist/3E4gUVFaMN82A17nrmjXvw"
-        }
-      ],
-      "duration_ms": 183247,
-      "name": "Body On Me",
-      "url": "https://open.spotify.com/track/0ozaKPquX6l8I7DCy7JfGC"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Masungulo",
         "url": "https://open.spotify.com/album/4yJRndmtIQfYzCTlMKg8GU"
       },
@@ -707,30 +851,6 @@
       "duration_ms": 287669,
       "name": "Masungulo",
       "url": "https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "The Underrated King",
-        "url": "https://open.spotify.com/album/54lSw5trXgoiCDLOAh8Wlk"
-      },
-      "artists": [
-        {
-          "name": "Heavy-K",
-          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
-        },
-        {
-          "name": "Bailey",
-          "url": "https://open.spotify.com/artist/2m8moPO8g157pOZoojNZYX"
-        },
-        {
-          "name": "Jnr SA",
-          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
-        }
-      ],
-      "duration_ms": 368577,
-      "name": "Dakiwe",
-      "url": "https://open.spotify.com/track/5goEUjSkFPIia3wGuRRugG"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -779,6 +899,26 @@
       "duration_ms": 430301,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq"
+    },
+    {
+      "added_at": "2023-05-22 11:27:42",
+      "album": {
+        "name": "Saving Me",
+        "url": "https://open.spotify.com/album/7nR1IQ7y37DG4rVxVqN0Y1"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Saving Me",
+      "url": "https://open.spotify.com/track/35SNaNea9zk1oWk3IzrSKJ"
     },
     {
       "added_at": "2023-05-22 11:27:42",
@@ -947,94 +1087,6 @@
     {
       "added_at": "2023-05-22 11:27:42",
       "album": {
-        "name": "Bendingekho",
-        "url": "https://open.spotify.com/album/1M5aIsAAPAGIBHLguH9gJh"
-      },
-      "artists": [
-        {
-          "name": "Cheyne Christian",
-          "url": "https://open.spotify.com/artist/1AcmTzZzd0JnuUPnCSpppN"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Bendingekho",
-      "url": "https://open.spotify.com/track/4W3eiUrtafcLWIuIlgr2NX"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Amazwe",
-        "url": "https://open.spotify.com/album/7IfMgn8QQ7GSVJTAuXJRmO"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Esposito",
-          "url": "https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU"
-        },
-        {
-          "name": "Claudia Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0n6py2ZuBUL7f2qYjaAUTh"
-        },
-        {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 440655,
-      "name": "Amazwe",
-      "url": "https://open.spotify.com/track/5oXLWzm5AFy5EJp9UqYk7y"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Disappear (Andrea Oliva Remix)",
-        "url": "https://open.spotify.com/album/4kKx5XKmv83JwNfVtR30k7"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Tasan",
-          "url": "https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5"
-        },
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 212180,
-      "name": "Disappear - Andrea Oliva Remix",
-      "url": "https://open.spotify.com/track/7lgy8iWckkQZx1p2xFF6yc"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Benjamin's Bridge",
-        "url": "https://open.spotify.com/album/1EvFHean8eiMvwB5WT7avv"
-      },
-      "artists": [
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        }
-      ],
-      "duration_ms": 441875,
-      "name": "Benjamin's Bridge",
-      "url": "https://open.spotify.com/track/7eKMhLssS2sj9TgQ5zooHA"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
         "name": "Lobela",
         "url": "https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX"
       },
@@ -1053,64 +1105,28 @@
       "url": "https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ"
     },
     {
-      "added_at": "2023-05-22 11:27:42",
+      "added_at": "2023-06-02 00:00:00",
       "album": {
-        "name": "Wholehearted EP",
-        "url": "https://open.spotify.com/album/3hedoXpz4aesaAesnYWALr"
+        "name": "WIND & WAVES",
+        "url": "https://open.spotify.com/album/0e3ie0yx8hNDpAbh4uiuYz"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 206612,
-      "name": "Wholehearted",
-      "url": "https://open.spotify.com/track/4y8LbsOrJseLAuKrQ1KflP"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "When I'm Alone",
-        "url": "https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+          "name": "Claudio Wade",
+          "url": "https://open.spotify.com/artist/6UdImHYJJIQrSLA1lpI7ya"
         },
         {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "When I'm Alone",
-      "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
-    },
-    {
-      "added_at": "2023-05-22 11:27:42",
-      "album": {
-        "name": "Asanda",
-        "url": "https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn"
-      },
-      "artists": [
-        {
-          "name": "Kususa",
-          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
         },
         {
-          "name": "Argento Dust",
-          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/3yZTQuteUZgfg58YrcnjHc"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Asanda",
-      "url": "https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP"
+      "duration_ms": 232453,
+      "name": "Phambili",
+      "url": "https://open.spotify.com/track/04ZqwR6S9KRMEPMBtgHjAu"
     }
   ],
   "unique_name": "mint South Africa",

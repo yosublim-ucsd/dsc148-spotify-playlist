@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-144 songs - 7 hr 15 min
+145 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [One More Night](https://open.spotify.com/track/6ndYXyIxeRv7pS4hHH830J) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [One More Night](https://open.spotify.com/album/1yysGeBcekP8zwh286sr5y) | 2:12 | 2022-11-08 | 2022-11-24 |
 | [Out Of Love](https://open.spotify.com/track/3U4v6cVqZK4mfPas99eT4W) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Out Of Love](https://open.spotify.com/album/0FdPHF3vnJRYVSdn2GxekW) | 2:35 | 2022-09-29 | 2023-04-13 |
 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 | 2022-09-15 | 2022-09-30 |
-| [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 |  |
+| [Put Your Lips On Mine](https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Put Your Lips On Mine](https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8) | 2:44 | 2022-09-15 | 2023-06-02 |
 | [Rebirth](https://open.spotify.com/track/4Xz2mxHREzWiEr0AyCJuU6) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [In Another Lifetime](https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb) | 4:44 | 2022-09-15 |  |
 | [Rest Of My Life](https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Rest Of My Life](https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul) | 2:19 | 2023-05-18 |  |
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-13 |  |
@@ -127,6 +127,7 @@
 | [Somebody Else](https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Somebody Else](https://open.spotify.com/album/2cJQqPgmFzcoCB8ENkHMVu) | 3:39 | 2022-09-29 | 2022-12-04 |
 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 | 2022-09-15 |  |
 | [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 |  |
+| [Stay A Little Longer](https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Stay A Little Longer](https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF) | 2:09 | 2023-06-01 |  |
 | [Summer Jams](https://open.spotify.com/track/3W3v72EKmAfAiuJm9BDi9b) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [Summer Jams](https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ) | 2:17 | 2022-09-22 |  |
 | [Summer Stars](https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Summer Stars](https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3) | 2:30 | 2022-09-15 |  |
 | [Sunday Monday](https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Sunday Monday](https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq) | 2:27 | 2022-12-22 |  |

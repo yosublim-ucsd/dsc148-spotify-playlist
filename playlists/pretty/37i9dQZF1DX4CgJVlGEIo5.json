@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 327980,
+  "num_followers": 328052,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2Q5MzE0OGNlYWM4NWZmZDJlNzdjYTRlOWZiOWJkNGU3NzA5YjM5",
+  "snapshot_id": "MCxhN2Y5YzRlZTAxYTFmYjZlODllNTdmZDgyMDg1YzkxYmNhYzFlYjA3",
   "tracks": [
     {
       "added_at": "2023-05-05 16:49:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/0xff0oGrrPLKSbBjXbEZ3D"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/24AlaGqIZd2nUspgzc2ph1"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 178173,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/1SW3jQ5cIOLNINk9YAaX9h"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
-    },
-    {
-      "added_at": "2023-05-05 16:49:46",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 188080,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-05-05 16:49:46",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Transformation",
-      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2023-05-05 16:49:46",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-05 16:49:46",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/7iEgLiepZW1GHTfMuWumBG"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+      "duration_ms": 211786,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/6Be3lUnpeyCZTZZD8axsoM"
     },
     {
       "added_at": "2023-05-05 16:49:46",

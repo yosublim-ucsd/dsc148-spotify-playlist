@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "Do Or Die (Refract Remix)",
+        "url": "https://open.spotify.com/album/0gjLOJHeQvXUKxOs47AYdr"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        },
+        {
+          "name": "Refract",
+          "url": "https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Do Or Die - Refract Remix",
+      "url": "https://open.spotify.com/track/3jWSTMDUKMgnbSKmrb199T"
+    },
+    {
+      "album": {
         "name": "WELCOME TO THE GANG VOL. 2",
         "url": "https://open.spotify.com/album/0mC2Hi8MHgiuY03hJPbaxZ"
       },
@@ -698,7 +720,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 212322,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
@@ -874,7 +896,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 195729,
       "name": "Free Fall",
       "url": "https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA"
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 165000,
       "name": "Go Mental",
       "url": "https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j"
@@ -1317,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "I'm Me",
+        "url": "https://open.spotify.com/album/5s3YB12cqHIU5tS0s1kcT5"
+      },
+      "artists": [
+        {
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171614,
+      "name": "I'm Me",
+      "url": "https://open.spotify.com/track/2RAnGGv0jVWMmtFvskh7Fo"
+    },
+    {
+      "album": {
         "name": "If You Believe",
         "url": "https://open.spotify.com/album/0PZhOOg6xYDL7t2rnRzQHx"
       },
@@ -1340,6 +1380,24 @@
       "duration_ms": 174188,
       "name": "If You Believe",
       "url": "https://open.spotify.com/track/5l5ITeKACEWFijn8n5tpIR"
+    },
+    {
+      "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
       "album": {
@@ -1597,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Love, Bass & Happiness",
+        "url": "https://open.spotify.com/album/3gGQZFVaKVNQmiUKgyuToE"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        },
+        {
+          "name": "TNYA",
+          "url": "https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171096,
+      "name": "Love, Bass & Happiness",
+      "url": "https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4"
+    },
+    {
+      "album": {
         "name": "Made of Stars",
         "url": "https://open.spotify.com/album/2GgqhUQScW7gr4DkDj8bBU"
       },
@@ -1630,10 +1710,28 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 220136,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/73YSqgqVJEEq5dl4K8tgCF"
+    },
+    {
+      "album": {
+        "name": "Mind Of A Psycho",
+        "url": "https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137032,
+      "name": "Mind Of A Psycho",
+      "url": "https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2"
     },
     {
       "album": {
@@ -1718,7 +1816,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 208451,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"
@@ -1979,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Rise Of The Tribe",
+        "url": "https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Rise Of The Tribe",
+      "url": "https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq"
+    },
+    {
+      "album": {
         "name": "Rock Tha Party",
         "url": "https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is"
       },
@@ -2210,7 +2326,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 179612,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/2xt0pHaU80RC2Bl4MOHu9F"
@@ -2236,6 +2352,28 @@
       "duration_ms": 252765,
       "name": "The Gambling Zone",
       "url": "https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv"
+    },
+    {
+      "album": {
+        "name": "The Get Back",
+        "url": "https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY"
+      },
+      "artists": [
+        {
+          "name": "The Prophet",
+          "url": "https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130964,
+      "name": "The Get Back",
+      "url": "https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp"
     },
     {
       "album": {
@@ -2384,7 +2522,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 249406,
       "name": "Thundercloud (Not Alone)",
       "url": "https://open.spotify.com/track/5ESMY4YltkVVt6fgCPNOPn"
@@ -2428,6 +2566,28 @@
       "duration_ms": 165598,
       "name": "Together We Grow",
       "url": "https://open.spotify.com/track/0Q9oI3atBARDyEWRr1C2H6"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/716C8P7rj8KkwE7yZ6pSea"
+      },
+      "artists": [
+        {
+          "name": "B-Front",
+          "url": "https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ"
     },
     {
       "album": {
@@ -2530,7 +2690,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 182709,
       "name": "Turn To Dust",
       "url": "https://open.spotify.com/track/0tsR7yzuepDrAAIEarSfEk"
@@ -2577,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "UNDRGRND",
+        "url": "https://open.spotify.com/album/0zccfdoWWFsJW6c7YPRBLj"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "UNDRGRND",
+      "url": "https://open.spotify.com/track/5OPiQgHKYUGd50bAfJnxx8"
+    },
+    {
+      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/22rdKqGyiQu7oJHtFppjdE"
       },
@@ -2614,7 +2792,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 241556,
       "name": "Unleash The Fire",
       "url": "https://open.spotify.com/track/0jb8dBj7ILjgev8qt0pWrT"
@@ -2736,6 +2914,28 @@
       "duration_ms": 267870,
       "name": "Vault Hunter",
       "url": "https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h"
     },
     {
       "album": {
@@ -2922,7 +3122,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-02",
       "duration_ms": 174169,
       "name": "Zyzzbrah - Wild Angel Remix",
       "url": "https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK"

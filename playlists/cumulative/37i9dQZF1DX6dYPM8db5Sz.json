@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP?si=rCdRTHQqT9GQXC2MAuDGKw\">The Dirty Skirts</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"http://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi\">Teagan Lee</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 199384,
       "name": "Baby from Atlanta",
       "url": "https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/5YUtRbsYTGl5Rj41Oki3tV"
+      },
+      "artists": [
+        {
+          "name": "Teagan",
+          "url": "https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175389,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1KiE7j6kKsrdWDBj6oHilW"
     },
     {
       "album": {
@@ -1533,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "Everything Different",
+        "url": "https://open.spotify.com/album/6mcD4GNT2MrBBpgavpRtJG"
+      },
+      "artists": [
+        {
+          "name": "Lazarus King",
+          "url": "https://open.spotify.com/artist/1jLTBw9t1VDE1Mk0EuAboN"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227071,
+      "name": "Everything Different",
+      "url": "https://open.spotify.com/track/6SYSVGdBpRxksJrelWVXCH"
+    },
+    {
+      "album": {
         "name": "Everything Must Die",
         "url": "https://open.spotify.com/album/0jGs6UE55UuP5Rm6GQLM4l"
       },
@@ -1782,6 +1818,42 @@
       "duration_ms": 126302,
       "name": "Flawed Guy",
       "url": "https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV"
+    },
+    {
+      "album": {
+        "name": "Forgetful Hands",
+        "url": "https://open.spotify.com/album/32sA5qWaj7y7s2SigYLIfJ"
+      },
+      "artists": [
+        {
+          "name": "Richard Stirton",
+          "url": "https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Forgetful Hands",
+      "url": "https://open.spotify.com/track/4gR0s1NfXA0m9yRHGg0aWE"
+    },
+    {
+      "album": {
+        "name": "Songs for the Afternoon",
+        "url": "https://open.spotify.com/album/2XckmmWD1kg8auQsAJpxzp"
+      },
+      "artists": [
+        {
+          "name": "Pat McKeown",
+          "url": "https://open.spotify.com/artist/4CiBxATRLg1i9QyAQsLIcH"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349677,
+      "name": "Friends Once More / Outro",
+      "url": "https://open.spotify.com/track/2bRQOhXThjQ3CiCHzloECX"
     },
     {
       "album": {
@@ -2265,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/5NFnalPzq7lTZit06NUuMt"
+      },
+      "artists": [
+        {
+          "name": "Tom Mitchell",
+          "url": "https://open.spotify.com/artist/0QZSfJjzE6XM7qdpOuz6kM"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206436,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/7Knu1yP3BLRuPYC1QjeEkq"
+    },
+    {
+      "album": {
         "name": "House Song",
         "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
       },
@@ -2421,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/4eRtkYASppwiN9Et4oNaYK"
+      },
+      "artists": [
+        {
+          "name": "Majozi",
+          "url": "https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177672,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2KBKgHyAZGEaz35kI8nF1J"
+    },
+    {
+      "album": {
         "name": "If God Is The Pigeon",
         "url": "https://open.spotify.com/album/58Ybnqt8CX2Ty3B2UsJLwW"
       },
@@ -2544,6 +2652,28 @@
       "duration_ms": 168150,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/2PNzm3EQxfSuWaJbvi4UE3"
+    },
+    {
+      "album": {
+        "name": "It Ain't Right",
+        "url": "https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225884,
+      "name": "It AIn't Right",
+      "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
     },
     {
       "album": {
@@ -3233,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "My Lover Is Gonna Come",
+        "url": "https://open.spotify.com/album/3Vn0YnStZB419UPuocu7KJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Olivier",
+          "url": "https://open.spotify.com/artist/6wRBqsj6ZUPdj96JbzQalP"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189009,
+      "name": "My Lover Is Gonna Come",
+      "url": "https://open.spotify.com/track/7jHu3wnthevhoKZwjFgaRS"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp"
       },
@@ -3676,6 +3824,24 @@
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
+    },
+    {
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA"
     },
     {
       "album": {
@@ -5070,6 +5236,24 @@
       "duration_ms": 146818,
       "name": "THE TRUTH WITHIN",
       "url": "https://open.spotify.com/track/4EoBdt9knik0dVJGqSjUro"
+    },
+    {
+      "album": {
+        "name": "The Widow",
+        "url": "https://open.spotify.com/album/4rDuMolrVPma2RtBtLtBOB"
+      },
+      "artists": [
+        {
+          "name": "Damien",
+          "url": "https://open.spotify.com/artist/6cUDV8d4fLXOYrAfBghF3a"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327698,
+      "name": "The Widow",
+      "url": "https://open.spotify.com/track/48TnwBY4pYURvhJ5LIRtHe"
     },
     {
       "album": {

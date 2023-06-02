@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 44 min 4 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sancta Terra](https://open.spotify.com/track/2fmVfcXaKrDNHa3ZKeILob) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Divine Conspiracy](https://open.spotify.com/album/0GCDjxk7URd6Glt4mg1EgP) | 4:57 |
-| 2 | [La Vida Que Yo He Pasado \- Unplugged Version](https://open.spotify.com/track/2jqLB54yRp8SLNzBALhqyp) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 3:20 |
-| 3 | [Symphony No\. 40 in G Minor, K\. 550: III\. Menuetto \(Allegretto\) \- Trio \- Live at Grosser Saal, Musikverein, Wien / 1984](https://open.spotify.com/track/5nRrWjNIjQcs7EE4kUfdLm) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn) | [Mozart: Symphony No\. 40 in G minor K.550](https://open.spotify.com/album/6zibIhSvaqI1TEeZO5FujG) | 4:51 |
-| 4 | [Anywhere But Here](https://open.spotify.com/track/2jPHd4fHNhm2QnJPqK130V) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 3:45 |
-| 5 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
-| 6 | [Rose of Sharyn](https://open.spotify.com/track/6dLXK2ppW3GiNEHN2vcMWl) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 3:36 |
-| 7 | [M+M's](https://open.spotify.com/track/396eg8tYcMWHRhk8lmZYq1) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \[International Version \(Explicit\)\]](https://open.spotify.com/album/0SvLzQZVwLWoY7p7zUcvxs) | 2:35 |
-| 8 | [Quantity Is Their Quality](https://open.spotify.com/track/2m44i9r4MwUB7jRnzN3orw) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Sleepwalking](https://open.spotify.com/album/4LtD59YdjyGoA8twhW3gPo) | 3:28 |
-| 9 | [When I Come Around](https://open.spotify.com/track/0mhFWJ1HkT8pTeqdlNRxvA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [International Superhits!](https://open.spotify.com/album/6HUIbDhzmqcwxrxUfTuHdW) | 2:58 |
-| 10 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
-| 11 | [Heartless \- Live at the Capitol](https://open.spotify.com/track/2PNkYCxSIhDBeDdZ5lk2Cb) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 2:54 |
-| 12 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
+| 1 | [Just Another Nervous Wreck \- 2010 Remastered](https://open.spotify.com/track/6o8nZVzweaEOLDLOgaogX5) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 4:25 |
+| 2 | [Shining](https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [Shining](https://open.spotify.com/album/2M6qfeYL6f0qB2FClklOat) | 2:26 |
+| 3 | [I'M OK](https://open.spotify.com/track/5YNl9FsJCnD4p7i4RUqFjG) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW) | [I'M OK](https://open.spotify.com/album/22WCtzNbVbx7Mr9oO7tVnx) | 1:49 |
+| 4 | [Boss of Me \(From "Malcolm in the Middle"\)](https://open.spotify.com/track/5NbakuBtm6SKgmGxPS5QJh) | [The Superstation](https://open.spotify.com/artist/3227cjfeftfIG8yOCYqDDr) | [Boss of Me \(From "Malcolm in the Middle"\)](https://open.spotify.com/album/27hQK7DYqEbTvfcQAsH4me) | 0:41 |
+| 5 | [Du Hast](https://open.spotify.com/track/5TOOZcIo08RJQ3ZJfyEV2h) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Punk Goes 90s Vol\. 2](https://open.spotify.com/album/5YEUqtBlEPHSEHCkSIIhK0) | 3:59 |
+| 6 | [Humanos Como Tú](https://open.spotify.com/track/3PfJcQLyrDOrVcyrDf3mzg) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [División](https://open.spotify.com/album/1LmzZpRdF3pP8o8P7ZUY9u) | 3:31 |
+| 7 | [Phantom Of The Opera \- 1998 Remastered Version](https://open.spotify.com/track/5RS9QZRfr7vqQRT6G9e9SD) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 7:07 |
+| 8 | [Her Silent Language](https://open.spotify.com/track/3qlM6T8HX4BnA4lmtmXohj) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [We Are the Void](https://open.spotify.com/album/36dEkcuRN9bt1GWyY9OCjk) | 3:33 |
+| 9 | [Stand](https://open.spotify.com/track/0XR2W8dQdkRX1qwhEJkdxs) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [The Best Of \- 20 Years Of Rock](https://open.spotify.com/album/6t8MO7WPlhgakTE22CbrYy) | 5:14 |
+| 10 | [Demon's Eye](https://open.spotify.com/track/1boUSJka3nhn7NRDufiqpr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best Of](https://open.spotify.com/album/0lTxLSQPNM9FYQAzWsN09C) | 5:22 |
+| 11 | [Persefone](https://open.spotify.com/track/0EbJ1rXHaNTWYH8nmwOx62) | [Nostra Morte](https://open.spotify.com/artist/23rTu9AKzvhxdUpucAMK5f) | [Sin Retorno](https://open.spotify.com/album/4NyCoVVl52GTSWopjXQG4K) | 4:41 |
+| 12 | [Call of the Valkyrie](https://open.spotify.com/track/4eZQNqoaT1wxShxRKnksLT) | [Valkyre](https://open.spotify.com/artist/5vqE4IN0gjLsg05saWJn7G) | [Call of the Valkyrie](https://open.spotify.com/album/5ELyjEQG88zvBxoaYNV9bB) | 3:16 |
 
-Snapshot ID: `MzQsMDBkNDhkNTI1OTlhNDVlNWE2YzUwMmM3ZjNiZDQ2Yjc0OTQ3NDYzMw==`
+Snapshot ID: `MzUsNmZhOTYwNjFiNmRmOTY3Njk0NmU2MTRhMTAzYzEzZGIyYWVjODU1ZA==`

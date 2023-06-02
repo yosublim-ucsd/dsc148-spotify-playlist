@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,677 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,681 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 2 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 | 3 | [All Downhill From Here](https://open.spotify.com/track/5dpDrUG52yI3s1AQRlaypA) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:12 |
-| 4 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
-| 5 | [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/1VOHsSplNgacfmyzDACsmE) | [Your Broken Hero](https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/album/3cCSDYqaoN3nfZiISzhffE) | 2:50 |
+| 4 | [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/track/1VOHsSplNgacfmyzDACsmE) | [Your Broken Hero](https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD), [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Red Light Kisser \(with Jordan Pundik of New Found Glory\)](https://open.spotify.com/album/3cCSDYqaoN3nfZiISzhffE) | 2:50 |
+| 5 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
 | 6 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
 | 7 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
 | 8 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 39 | [This Disaster](https://open.spotify.com/track/2VHAQ84pzRe11YdMUDZzMZ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:08 |
 | 40 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 |
 | 41 | [It's Not Your Fault](https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:37 |
-| 42 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 |
+| 42 | [Shook By Your Shaved Head](https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:43 |
 | 43 | [Failure's Not Flattering](https://open.spotify.com/track/1U57cDOAvIRFeDQCIbW6VI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:51 |
 | 44 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
-| 45 | [Shook By Your Shaved Head](https://open.spotify.com/track/7dUQARW7C85mHp9SeF0mOY) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:43 |
-| 46 | [Get Me Home](https://open.spotify.com/track/1xatXm1qIuJ611sUj554pi) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:30 |
-| 47 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 |
+| 45 | [Get Me Home](https://open.spotify.com/track/1xatXm1qIuJ611sUj554pi) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:30 |
+| 46 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 |
+| 47 | [Nothing To Say](https://open.spotify.com/track/2pLu37xnqwG8j2oZg86O8M) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:01 |
 | 48 | [Doubt Full](https://open.spotify.com/track/4c5uNta9rSiOkWT3dlhWuf) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:35 |
-| 49 | [Nothing To Say](https://open.spotify.com/track/2pLu37xnqwG8j2oZg86O8M) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:01 |
-| 50 | [Mouth to Mouth](https://open.spotify.com/track/65aqwAYrWYPVftgfV1xEz1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:12 |
+| 49 | [More Than Enough](https://open.spotify.com/track/6ZH9FOxVmrA0Cmmrszh0jx) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 3:42 |
+| 50 | [Truck Stop Blues](https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:14 |
 
-Snapshot ID: `MjgwOTIyODksMDAwMDAwMDA2Zjk0NzIzODg5NGU4MGQ5YTFiY2ZlMTI3ODhkYWRhOA==`
+Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDA1MmJhNzdlZGM5ODBmMjM2YTg3ZTQzMDM0ZmIyMGJhZg==`

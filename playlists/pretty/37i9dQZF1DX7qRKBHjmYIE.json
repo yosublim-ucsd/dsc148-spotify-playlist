@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Zuaraz",
-  "num_followers": 747907,
+  "num_followers": 747900,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWVlZjI5NGIxZjJjYmE5ZDc4NWViOTI1YTQ1MzZiOWRiNWJmNDYz",
+  "snapshot_id": "MCw2NzQxYjgyOWZhMTFmMTZmNmE2OGY4NmRmMjNlMDA4OTY3ODczMWM0",
   "tracks": [
     {
       "added_at": "2023-05-26 04:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "RIO HOTEL",
         "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 215866,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -315,22 +331,6 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 165581,
       "name": "No Es Lo Mismo",
       "url": "https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "Dame Guerra",
         "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
       "artists": [
         {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -787,6 +771,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
+        "name": "Luna Villera",
+        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 237524,
+      "name": "Luna Villera",
+      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
         "name": "Naona",
         "url": "https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd"
       },
@@ -927,6 +947,22 @@
       "duration_ms": 231634,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "left you",
+        "url": "https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 155993,
+      "name": "left you",
+      "url": "https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -967,22 +1003,6 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "t\u00fa y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
         "name": "BROOKLYN",
         "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
       },
@@ -999,22 +1019,18 @@
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
-        "name": "Luna Villera",
-        "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
         }
       ],
-      "duration_ms": 237524,
-      "name": "Luna Villera",
-      "url": "https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN"
+      "duration_ms": 175007,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
-    },
-    {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "left you",
-        "url": "https://open.spotify.com/album/5Bm35xrBP0dTYhTWGhHEOf"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 155993,
-      "name": "left you",
-      "url": "https://open.spotify.com/track/3wMy7DfIcVlkZv1RVnNkyi"
     }
   ],
   "unique_name": "Mixto",
