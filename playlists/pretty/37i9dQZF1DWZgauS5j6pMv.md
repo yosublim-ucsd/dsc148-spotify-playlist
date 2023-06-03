@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,678 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,777 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nickel & Dime](https://open.spotify.com/track/60Cert2E9OwA9rnl67Y2vj) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nickel & Dime](https://open.spotify.com/album/7nX4K9FAGdDGu662bdl8oI) | 2:39 |
 | 2 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
 | 3 | [Thumpahlenah \- Radio Edit](https://open.spotify.com/track/01prSP4l0I3Gf1WCfC9jTI) | [Nik West](https://open.spotify.com/artist/5yrmwjhscVmbinBG3hx86i), [Larry Graham](https://open.spotify.com/artist/6lUcc15t11bnaPr2qOuFs2) | [Thumpahlenah \(Radio Edit\)](https://open.spotify.com/album/2VbzGgntgJu0oHLGHOjq3E) | 3:22 |
-| 4 | [I Can’t Party](https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 2:25 |
+| 4 | [I Can’t Party](https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 2:25 |
 | 5 | [Over It](https://open.spotify.com/track/7HBNVNTJcQBlSKoxvwJcsH) | [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Over It](https://open.spotify.com/album/1F7PbXOe9Fxopa97vqhRZb) | 3:46 |
 | 6 | [Closer](https://open.spotify.com/track/6x6cHK0rqhlBI8majXkXEd) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Giacomo Turra](https://open.spotify.com/artist/7FZ7QjjU3oULdlzZr6GJCw) | [Closer](https://open.spotify.com/album/2Bg43PYGoh1o6VL7tiRGfN) | 2:31 |
 | 7 | [Feels This Good](https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [Feels This Good](https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 | 100 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 
-Snapshot ID: `MCwyMGM5MjQ3YTg4OTgxMjkzNmFmOTVkOGM1YjJiNGU5NzQyZmJhOWI4`
+Snapshot ID: `MCw3YjcyNDE2OGY4YTczYjMyYTZjMjBlNWQ4Nzc0MWE0YjQwYTNhOWE5`

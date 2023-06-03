@@ -1,12 +1,12 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 412556,
+  "num_followers": 411419,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjU0ZDFmNGJjMDY5ODMwNjYwNmRiNTM4MDQ4YmJiOTBjYmM1NmEz",
+  "snapshot_id": "MCwzMGI3OGEzNTZmMmIyNjVjMWM0NTU1NjZkNjI5Y2ZmOTdkNWNiNmUz",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -823,22 +823,26 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+        "name": "Energy (feat. Bay-C)",
+        "url": "https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        },
+        {
+          "name": "Bay-C",
+          "url": "https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+      "duration_ms": 152812,
+      "name": "Energy (feat. Bay-C)",
+      "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -863,18 +867,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
-        "url": "https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z"
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
-      "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -963,46 +971,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Whiskey Is My Holy Water",
-        "url": "https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN"
-      },
-      "artists": [
-        {
-          "name": "Avao",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
-        }
-      ],
-      "duration_ms": 138923,
-      "name": "Whiskey Is My Holy Water",
-      "url": "https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Energy (feat. Bay-C)",
-        "url": "https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Jay Hardway",
-          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
-        },
-        {
-          "name": "Bay-C",
-          "url": "https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Energy (feat. Bay-C)",
-      "url": "https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Thrill",
         "url": "https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 217615,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/0n8PMT5vyu8lffykqYvOIo"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Whiskey Is My Holy Water",
+        "url": "https://open.spotify.com/album/7s2Rdu06bmjbS4sKA50KKN"
+      },
+      "artists": [
+        {
+          "name": "Avao",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "duration_ms": 138923,
+      "name": "Whiskey Is My Holy Water",
+      "url": "https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+        "url": "https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Drop That Low (Tujamo's Secret Weapon 2022)",
+      "url": "https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Quantum",
-        "url": "https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        }
-      ],
-      "duration_ms": 178593,
-      "name": "Quantum",
-      "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Lose It",
         "url": "https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 163636,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Quantum",
+        "url": "https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "It Burns - EP",
+        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 192619,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3"
       },
@@ -1427,26 +1443,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/1Z5GjzxV89KzSUiIdTCz9o"
-      },
-      "artists": [
-        {
-          "name": "SaberZ",
-          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
-        },
-        {
-          "name": "Lister",
-          "url": "https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI"
-        }
-      ],
-      "duration_ms": 162357,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/4GBwm2ntmncnoZzBVcbjH0"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "I Want You (Hardwell Remix)",
         "url": "https://open.spotify.com/album/2LJGzMSAnbMlLWR7MwnFJW"
       },
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "It Burns - EP",
-        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1Z5GjzxV89KzSUiIdTCz9o"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        },
+        {
+          "name": "Lister",
+          "url": "https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI"
         }
       ],
-      "duration_ms": 192619,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+      "duration_ms": 162357,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4GBwm2ntmncnoZzBVcbjH0"
     },
     {
       "added_at": "2023-06-01 22:01:00",

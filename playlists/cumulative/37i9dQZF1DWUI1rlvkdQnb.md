@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-169 songs - 8 hr 58 min
+170 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 |  |
 | [Reflexiones](https://open.spotify.com/track/5yxmYoPu75KeKkLbPJbDpZ) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Reflexiones](https://open.spotify.com/album/3rmS5XRb3vLM6xyritTjxu) | 3:08 | 2023-05-19 |  |
 | [Rejected](https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Personal Disasters](https://open.spotify.com/album/0HPHeEu6npThQPFPKtx3di) | 2:13 | 2021-12-10 |  |
+| [Relation](https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Zooz Dream](https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf) | 3:24 | 2023-06-02 |  |
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2021-12-10 | 2022-08-13 |
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 |  |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |

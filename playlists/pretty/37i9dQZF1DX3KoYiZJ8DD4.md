@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 
 > Celebrating the music of Aretha Franklin with the songs she inspired.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,699 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,755 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 | 11 | [Jump to It](https://open.spotify.com/track/3MWoJGrKXOTlEBIZzDoZkx) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 6:40 |
 | 12 | [Don't Make Me Wait](https://open.spotify.com/track/7jerUGj1fMouZXzxMXTLA8) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Love Me Back](https://open.spotify.com/album/4FcJwv9ebTXeMuTX1HkK4q) | 3:29 |
 | 13 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
-| 14 | [Lovin U](https://open.spotify.com/track/40UjDmQuYPOpa0zki1udgC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:48 |
+| 14 | [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
 | 15 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 |
 | 16 | [Let's Get Away](https://open.spotify.com/track/7pjl3P3jnqdItN1beCrJS1) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Muzik](https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl) | 4:38 |
 | 17 | [I Get High](https://open.spotify.com/track/3qpRSVGg75WtOrHGVcDejU) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 4:11 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 | 23 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 24 | [No Respect](https://open.spotify.com/track/0kkb3Cs6V7oUuYuC8eOOC1) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 5:24 |
 
-Snapshot ID: `MCwwZjNlOWUxNjUzNzBkOTBmMzBlM2U0YmU2NTMzYzIwYmU1NTBhZWRi`
+Snapshot ID: `MCw4NGQ1YTZlNTRhYmNmODE1MmEwOTNlZGZiYjY0NTE3ZDNhYWRmNDZi`

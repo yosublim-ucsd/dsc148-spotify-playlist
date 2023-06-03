@@ -4,7 +4,7 @@
 
 > 
 
-145 songs - 7 hr 28 min
+146 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Body Goals](https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Afro Wavy 3](https://open.spotify.com/album/3tSZmXQRV9WhsDaUDedfoQ) | 1:52 | 2022-08-19 | 2023-02-12 |
 | [Boss Lady](https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Boss Lady](https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf) | 2:58 | 2022-08-19 |  |
 | [Bulamu](https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Bulamu](https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa) | 3:13 | 2023-03-24 |  |
+| [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 | 2023-06-02 |  |
 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 | 2023-04-01 | 2023-05-24 |
 | [Camille](https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Camille](https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo) | 2:38 | 2022-05-12 | 2022-09-10 |
 | [Can't Let Go](https://open.spotify.com/track/649lRLV5y06Z04kiudT1Eb) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Papa cyangwe](https://open.spotify.com/artist/5gw4Q3SlH6GBv3e3yaEwjn) | [Can't Let Go](https://open.spotify.com/album/0rIsYwm15sIqkiTitNDK8R) | 2:52 | 2022-07-29 | 2023-02-12 |
@@ -55,7 +56,7 @@
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 |  |
 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 | 2023-01-12 | 2023-02-11 |
-| [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 |  |
+| [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 | 2023-01-12 | 2023-06-03 |
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
 | [Glory To The King](https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glory To The King](https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2) | 2:30 | 2023-03-03 | 2023-04-05 |
 | [Gwookya](https://open.spotify.com/track/3DtERsS1lSUwcCV4MZHIdF) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Gwookya](https://open.spotify.com/album/08qkq3hZAmP91oAuQHxnXg) | 2:41 | 2022-07-29 | 2022-10-26 |
@@ -67,7 +68,7 @@
 | [Kanyonyi Kange](https://open.spotify.com/track/0LNpMEtSgOGj0M2D0AbJJ1) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Tonick \(MCM\)](https://open.spotify.com/artist/5NPHtsbdCk8sDWxwadlqOt) | [Kanyonyi Kange](https://open.spotify.com/album/2neLWncs1gFTimL2Eozb72) | 2:51 | 2022-08-19 | 2022-11-20 |
 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 | 2023-03-20 |  |
 | [Kiki Kyogamba \- What You Saying Mix](https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ), [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Destiny Nsonga](https://open.spotify.com/artist/5O4hbVUhLfHZqNXoLeOLVi) | [Kiki Kyogamba](https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy) | 4:30 | 2022-08-12 | 2023-04-22 |
-| [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-05-12 | 2023-06-02 |
+| [Kikole](https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Kikole](https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl) | 3:29 | 2022-05-12 |  |
 | [Kikole](https://open.spotify.com/track/56Wzn5hzO5QPZoUiQ0XWHK) | [Runbouy](https://open.spotify.com/artist/1Lnuzv34AVDxXdZB7W5iR4) | [Kikole](https://open.spotify.com/album/5VcNPGETJkezy0HloYdzaH) | 3:36 | 2022-12-09 | 2023-03-31 |
 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 | 2023-03-20 |  |
 | [Kiziniro](https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Topic Kasente](https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4), [Lil Pazzo](https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY), [Tip Swizzy](https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv) | [Kiziniro](https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc) | 3:42 | 2022-08-05 | 2022-10-25 |
@@ -112,7 +113,7 @@
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 | 2022-10-06 |
 | [Osobola](https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 3:13 | 2022-09-30 | 2022-10-07 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
-| [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 |  |
+| [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 | 2023-06-03 |
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 | 2023-05-24 |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
 | [Plan Ki](https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Plan Ki](https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN) | 3:14 | 2023-04-21 |  |

@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
+    },
+    {
+      "album": {
         "name": "Tiempos Dif\u00edciles",
         "url": "https://open.spotify.com/album/1PuQkJit26qRzAZkfhb3Oa"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 205933,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB"
@@ -1904,6 +1922,24 @@
       "duration_ms": 285326,
       "name": "Juntos para Siempre",
       "url": "https://open.spotify.com/track/3gJSh0C11qoUhMjAAoSTa5"
+    },
+    {
+      "album": {
+        "name": "Kasualidad",
+        "url": "https://open.spotify.com/album/0FtTPER1MfrtYM8b94J7tT"
+      },
+      "artists": [
+        {
+          "name": "Ska Prensao",
+          "url": "https://open.spotify.com/artist/0zpJ9TatAuySVMfhTLV8Az"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303812,
+      "name": "Kasualidad",
+      "url": "https://open.spotify.com/track/24vddb7YLG2Ha0F9T9Whn3"
     },
     {
       "album": {
@@ -3510,7 +3546,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 245987,
       "name": "P\u00e1nico",
       "url": "https://open.spotify.com/track/7Kc2F4G4fuYUdDFqrKPqqj"

@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Devoid",
+        "url": "https://open.spotify.com/album/7u4PSnsEEGYs4MY2kKKObk"
+      },
+      "artists": [
+        {
+          "name": "Dark Lunacy",
+          "url": "https://open.spotify.com/artist/63P5FOHij9qylmUA4rjHwQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427154,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/2cHRxt5cEvGjA244OqKmVC"
+    },
+    {
+      "album": {
         "name": "Dom Andra",
         "url": "https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby"
       },
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 275419,
       "name": "Human Scum",
       "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
@@ -3850,6 +3868,24 @@
       "duration_ms": 261920,
       "name": "Loke",
       "url": "https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9"
+    },
+    {
+      "album": {
+        "name": "Lord of Ruins",
+        "url": "https://open.spotify.com/album/02gKvANAOKzUvhicE1nP1p"
+      },
+      "artists": [
+        {
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314066,
+      "name": "Lord of Ruins",
+      "url": "https://open.spotify.com/track/4lfftoC6dY7tba01rNx6hO"
     },
     {
       "album": {
@@ -5266,7 +5302,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -5752,7 +5788,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 124346,
       "name": "Strategies of Manipulation",
       "url": "https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu"
@@ -6074,7 +6110,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 445106,
       "name": "The Eternal Sea",
       "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"

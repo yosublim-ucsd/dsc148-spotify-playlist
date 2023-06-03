@@ -1232,6 +1232,24 @@
     {
       "album": {
         "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq"
+      },
+      "artists": [
+        {
+          "name": "Abe",
+          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222329,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa"
+    },
+    {
+      "album": {
+        "name": "Forever & Always",
         "url": "https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1"
       },
       "artists": [
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 258906,
       "name": "Hanggang Sa Huli - From \"24/7\"",
       "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
@@ -2743,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Patawad (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TfPu2pTLXKrQRCXb9oJHx"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282490,
+      "name": "Paubaya",
+      "url": "https://open.spotify.com/track/1OfrAWBcGEsKKUSdMnfs0A"
+    },
+    {
+      "album": {
         "name": "Paubaya",
         "url": "https://open.spotify.com/album/10rSYwOZH2D4t1J3iu70Jz"
       },
@@ -2754,7 +2790,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 282490,
       "name": "Paubaya",
       "url": "https://open.spotify.com/track/6KfGuMyhHwuQtMSBvQ02pI"

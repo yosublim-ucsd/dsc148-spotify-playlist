@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Sleater-Kinney, in celebration of their new album \"Path of Wellness,\" co-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive. ",
+  "description": "The defining songs of the riot grrrl era, and the bands keeping their spirit alive. Cover: Sleater-Kinney\n",
   "name": "Riot Grrrl",
   "tracks": [
     {
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Bruise Violet",
+      "url": "https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax"
+    },
+    {
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 154511,
       "name": "Cents Cents Money Money",
       "url": "https://open.spotify.com/track/7fTSouGcePc6eJo0I381Hu"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/7hP0UgXC1xZWqclmRH6ciz"
+      },
+      "artists": [
+        {
+          "name": "Cable Ties",
+          "url": "https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237174,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7MKMH83KVivY9v6iiLODQc"
     },
     {
       "album": {
@@ -780,7 +816,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 169840,
       "name": "Favorite Neighbor",
       "url": "https://open.spotify.com/track/2wg83IqdmFOOnLwM0r9KM0"
@@ -1471,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Luxury Problem",
+        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+      },
+      "artists": [
+        {
+          "name": "Lunachicks",
+          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Luxury Problem",
+      "url": "https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF"
+    },
+    {
+      "album": {
         "name": "xxx",
         "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
       },
@@ -1518,10 +1572,28 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 260669,
       "name": "Method",
       "url": "https://open.spotify.com/track/6web3LJgjemXdisaTVgHx9"
+    },
+    {
+      "album": {
+        "name": "Mannequin Pussy",
+        "url": "https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59400,
+      "name": "My Baby (Axe Nice)",
+      "url": "https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4"
     },
     {
       "album": {
@@ -1774,6 +1846,24 @@
       "duration_ms": 157333,
       "name": "Rebel Girl",
       "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
+    },
+    {
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152297,
+      "name": "Seafood",
+      "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
     },
     {
       "album": {
@@ -2220,7 +2310,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231783,
       "name": "Worry With You",
       "url": "https://open.spotify.com/track/4wDQgrs6Ymm6Ufpu5qWb7N"
@@ -2242,6 +2332,24 @@
       "duration_ms": 231783,
       "name": "Worry With You",
       "url": "https://open.spotify.com/track/61gZVgJwD8TYKQXkTX3pJg"
+    },
+    {
+      "album": {
+        "name": "Worship The Whip",
+        "url": "https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181540,
+      "name": "Worship The Whip",
+      "url": "https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ"
     },
     {
       "album": {

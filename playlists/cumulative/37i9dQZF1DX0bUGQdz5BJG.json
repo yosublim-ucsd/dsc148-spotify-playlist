@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Tanner Adell ",
+  "description": "Music City must-hears. Cover: Tanner Adell",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224693,
       "name": "After The Rain (feat. Tenille Arts)",
       "url": "https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 198049,
       "name": "Ain't Got the Heart",
       "url": "https://open.spotify.com/track/5WvHZvK7EkrTFOSttRAmTv"
@@ -1334,6 +1334,24 @@
       "duration_ms": 226038,
       "name": "As Far As You Could",
       "url": "https://open.spotify.com/track/5wje3P7raGawEqf9DKwkbK"
+    },
+    {
+      "album": {
+        "name": "As I Go",
+        "url": "https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5"
+      },
+      "artists": [
+        {
+          "name": "Remy Garrison",
+          "url": "https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202662,
+      "name": "As I Go",
+      "url": "https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux"
     },
     {
       "album": {
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 169706,
       "name": "Bury Me Upside Down",
       "url": "https://open.spotify.com/track/054er1MIyPW8UeRAHmyuzw"
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 154210,
       "name": "Dirt On It",
       "url": "https://open.spotify.com/track/6Mbf7uOjXUA0S48jsOl3NO"
@@ -5550,6 +5568,24 @@
     {
       "album": {
         "name": "Drink About Me",
+        "url": "https://open.spotify.com/album/7oZikHHGEkbG3N9NsvjhaX"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hart",
+          "url": "https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Drink About Me",
+      "url": "https://open.spotify.com/track/0O5qzkyLTs1p9eFV4lQUlq"
+    },
+    {
+      "album": {
+        "name": "Drink About Me",
         "url": "https://open.spotify.com/album/6DkJwPGdHz5AmftWibk27s"
       },
       "artists": [
@@ -6008,7 +6044,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 191882,
       "name": "Everybody Get Along",
       "url": "https://open.spotify.com/track/2kuchtsRgBpEOdE6LfJgl8"
@@ -8001,6 +8037,24 @@
     },
     {
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT"
+    },
+    {
+      "album": {
         "name": "Handful / Already Broke Up",
         "url": "https://open.spotify.com/album/3ef62M5CFUa1tZ9rpKZuDS"
       },
@@ -8088,6 +8142,24 @@
       "duration_ms": 170906,
       "name": "Hangover Like You",
       "url": "https://open.spotify.com/track/2Vlc3ycR06F8r5ybhosa0y"
+    },
+    {
+      "album": {
+        "name": "Hangovers",
+        "url": "https://open.spotify.com/album/31KAizNHLmGjaGTuS9Uvp3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Hangovers",
+      "url": "https://open.spotify.com/track/4Hy0SkphtfJqKowDwInbka"
     },
     {
       "album": {
@@ -9456,6 +9528,24 @@
       "duration_ms": 226978,
       "name": "Hometown Song",
       "url": "https://open.spotify.com/track/1mrG7Yj9PyRnv7UKT7WeDY"
+    },
+    {
+      "album": {
+        "name": "Honestly Don't Even Know",
+        "url": "https://open.spotify.com/album/4mPdwCb9pq7rsUPzV5EYPV"
+      },
+      "artists": [
+        {
+          "name": "Landon Wall",
+          "url": "https://open.spotify.com/artist/2apqoiFyAoyvjqx544aasM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Honestly Don't Even Know",
+      "url": "https://open.spotify.com/track/7mbQsb1xowBjEPM3bWUfpD"
     },
     {
       "album": {
@@ -10994,7 +11084,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 259876,
       "name": "If You Were A Song",
       "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
@@ -11290,6 +11380,24 @@
       "duration_ms": 216670,
       "name": "it's been a year",
       "url": "https://open.spotify.com/track/2untQJbPOaB1BjyZKIVuZv"
+    },
+    {
+      "album": {
+        "name": "At The End Of The Dirt Road EP",
+        "url": "https://open.spotify.com/album/7nGR62G64rKcDTrGcjj3qC"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187920,
+      "name": "I\u2019ll Love You Longer",
+      "url": "https://open.spotify.com/track/13lLmvl8tzv1tnJwjFke0E"
     },
     {
       "album": {
@@ -11707,6 +11815,24 @@
     },
     {
       "album": {
+        "name": "Know You Better",
+        "url": "https://open.spotify.com/album/5IZ7vsk6b6Xw5gl8k7M11a"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174667,
+      "name": "Know You Better",
+      "url": "https://open.spotify.com/track/1p2lrD9ZBg067NHw8MnNiU"
+    },
+    {
+      "album": {
         "name": "Last Call Last",
         "url": "https://open.spotify.com/album/3RBNJV4pLA6DVP1xNlqL8t"
       },
@@ -11815,6 +11941,24 @@
     },
     {
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/4ErYvpED07CIeWI6QOn36k"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7tAK6Y4CnO4nbm6FST7foC"
+    },
+    {
+      "album": {
         "name": "Getcha Some",
         "url": "https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU"
       },
@@ -11866,6 +12010,42 @@
       "duration_ms": 182840,
       "name": "Lay Down With You",
       "url": "https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1"
+    },
+    {
+      "album": {
+        "name": "Layaway",
+        "url": "https://open.spotify.com/album/7JZJw2ZjWy9wvCbUQrkMpC"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209750,
+      "name": "Layaway",
+      "url": "https://open.spotify.com/track/3ek1xBskVhQc7VgzRuSAO9"
+    },
+    {
+      "album": {
+        "name": "Learned To Lie",
+        "url": "https://open.spotify.com/album/4Ck3C8gux7m1KD8PTVqhnh"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230986,
+      "name": "Learned To Lie",
+      "url": "https://open.spotify.com/track/3T0hNKijMKHo95uA0cf6q8"
     },
     {
       "album": {
@@ -12574,6 +12754,24 @@
       "duration_ms": 200000,
       "name": "Lock Me Down",
       "url": "https://open.spotify.com/track/3lJLjD6knfaxzyhcImi4Gw"
+    },
+    {
+      "album": {
+        "name": "Lonely Look Like",
+        "url": "https://open.spotify.com/album/0LVucQtYyQ51s1kVbZKhmA"
+      },
+      "artists": [
+        {
+          "name": "Carson Wallace",
+          "url": "https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224319,
+      "name": "Lonely Look Like",
+      "url": "https://open.spotify.com/track/6IHdxPB9IwXTDNTW6KsSIo"
     },
     {
       "album": {
@@ -15843,6 +16041,24 @@
     },
     {
       "album": {
+        "name": "Blacktop",
+        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234413,
+      "name": "Once or Twice",
+      "url": "https://open.spotify.com/track/5SanpeA6fSgy6z6cNQFyko"
+    },
+    {
+      "album": {
         "name": "One Day Tonight",
         "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
       },
@@ -17466,7 +17682,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 167101,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/751InILCnZIhwrBvg5SKAW"
@@ -18498,7 +18714,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 218573,
       "name": "Shirley Temple",
       "url": "https://open.spotify.com/track/0WjwCzxoqbxUPv9ia2PXi1"
@@ -18624,7 +18840,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219573,
       "name": "Shut the Truck Up",
       "url": "https://open.spotify.com/track/0NkKyatEadT5zhWAKf0m7n"
@@ -19519,6 +19735,24 @@
     },
     {
       "album": {
+        "name": "Sound of a Saturday Night",
+        "url": "https://open.spotify.com/album/2b13avuST7edA3frvztBUq"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Sound of a Saturday Night",
+      "url": "https://open.spotify.com/track/1T3UYXsrPFc6iP5VqjCSxk"
+    },
+    {
+      "album": {
         "name": "Something I Would Do",
         "url": "https://open.spotify.com/album/0oZMOm5cukJFzRzE03XUyM"
       },
@@ -20074,7 +20308,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 150000,
       "name": "Sugar Daddy",
       "url": "https://open.spotify.com/track/1rMShleQMWaIV4rWyjAIBj"
@@ -20539,6 +20773,24 @@
     },
     {
       "album": {
+        "name": "Tar Heels T-Shirt",
+        "url": "https://open.spotify.com/album/7g6g2dMD4uiiUrHK24tYXS"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174093,
+      "name": "Tar Heels T-Shirt",
+      "url": "https://open.spotify.com/track/4vurb4M0zejlNVL09dtnbO"
+    },
+    {
+      "album": {
         "name": "Tattoos",
         "url": "https://open.spotify.com/album/1QJuB45zhTY4u9X73TPJo0"
       },
@@ -20882,6 +21134,24 @@
       "duration_ms": 169912,
       "name": "That's a Given",
       "url": "https://open.spotify.com/track/3mGlA4L8PB9NWfaaZS71hG"
+    },
+    {
+      "album": {
+        "name": "That's All Us",
+        "url": "https://open.spotify.com/album/0EOtqa73iZx3TFAldIgiIJ"
+      },
+      "artists": [
+        {
+          "name": "Zac Hart",
+          "url": "https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156470,
+      "name": "That's All Us",
+      "url": "https://open.spotify.com/track/21xsARPMH1n8dRZ9pJqSNF"
     },
     {
       "album": {
@@ -22433,6 +22703,24 @@
     },
     {
       "album": {
+        "name": "TWO BROKE HEARTS",
+        "url": "https://open.spotify.com/album/36H4r65rax4ptGYfds64nC"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "TWO BROKE HEARTS",
+      "url": "https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io"
+    },
+    {
+      "album": {
         "name": "U or Nothing",
         "url": "https://open.spotify.com/album/7bEKfVZthfXnmiLxuObQYw"
       },
@@ -22484,7 +22772,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237720,
       "name": "Unlive (with Yelawolf)",
       "url": "https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4"
@@ -25134,7 +25422,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 290137,
       "name": "Young Buck",
       "url": "https://open.spotify.com/track/2CMuWqynEd056gVgf0uyC8"

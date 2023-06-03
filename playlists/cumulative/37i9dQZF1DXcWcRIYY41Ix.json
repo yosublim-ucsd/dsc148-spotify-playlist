@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 210487,
       "name": "Aire",
       "url": "https://open.spotify.com/track/2MDgD7iAVZNPT0hHffWYYT"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 221760,
       "name": "Aprender\u00e9 - en directo 2K23",
       "url": "https://open.spotify.com/track/20G79dCVtx58sxPVtD4Ik2"
@@ -776,6 +776,24 @@
       "duration_ms": 178687,
       "name": "Barquito de Nuez",
       "url": "https://open.spotify.com/track/2HvJIb21JD31EXUwhBHmu7"
+    },
+    {
+      "album": {
+        "name": "Ba\u00f1o Mar\u00eda",
+        "url": "https://open.spotify.com/album/0JAwPSSRWd0So9qg1Ah8oY"
+      },
+      "artists": [
+        {
+          "name": "Diego Lara",
+          "url": "https://open.spotify.com/artist/6U1O9Us9QKka6HmZoMVpZC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186042,
+      "name": "Ba\u00f1o Mar\u00eda",
+      "url": "https://open.spotify.com/track/1fsI4fTqRiMkmfS6b0RxMa"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 181413,
       "name": "Canto a la Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV"
@@ -1266,6 +1284,28 @@
       "duration_ms": 233116,
       "name": "Cereza (feat. Uku Tr\u00edo Bs)",
       "url": "https://open.spotify.com/track/0YkiJubevyQZHkv5ujoIqm"
+    },
+    {
+      "album": {
+        "name": "Cero Conflicto",
+        "url": "https://open.spotify.com/album/12q8eD899Uh8CWlBtuxqSn"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202580,
+      "name": "Cero Conflicto",
+      "url": "https://open.spotify.com/track/6RSPvAQnEghzgIs3dFcgHI"
     },
     {
       "album": {
@@ -1573,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "coraz\u00f3n caramelo",
+        "url": "https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "coraz\u00f3n caramelo",
+      "url": "https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Ruidoso",
         "url": "https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS"
       },
@@ -1796,7 +1854,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 211714,
       "name": "Danza Olvidada",
       "url": "https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA"
@@ -2610,7 +2668,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
@@ -3220,7 +3278,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170640,
       "name": "Infinitivamente",
       "url": "https://open.spotify.com/track/4owOlsSrsHFywNTJwuEAZJ"
@@ -3300,6 +3358,24 @@
       "duration_ms": 222543,
       "name": "Inventar",
       "url": "https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ"
+    },
+    {
+      "album": {
+        "name": "El Evangelio Seg\u00fan Mi Jardinero",
+        "url": "https://open.spotify.com/album/09lzZHESNkD13FaEYOJMpX"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Buscaglia",
+          "url": "https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Jim Beam Dream",
+      "url": "https://open.spotify.com/track/56eitpxBVgRMFqrl1xdraR"
     },
     {
       "album": {
@@ -3522,7 +3598,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
@@ -3856,7 +3932,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165032,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
@@ -4311,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "mar\u00eda",
+        "url": "https://open.spotify.com/album/5Q35ux2a1t8o3zKhUkqrly"
+      },
+      "artists": [
+        {
+          "name": "from",
+          "url": "https://open.spotify.com/artist/5JOOLcf9vpeO0Lk5YsHXKU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "mar\u00eda",
+      "url": "https://open.spotify.com/track/6FyKN7OBp8EH7D01shfmjM"
+    },
+    {
+      "album": {
         "name": "Matria",
         "url": "https://open.spotify.com/album/4lBEofXRtJjkCIXWl9O3Mt"
       },
@@ -4475,6 +4569,24 @@
     },
     {
       "album": {
+        "name": "MIAU",
+        "url": "https://open.spotify.com/album/6vw7xypWjaPM6UVjwLSyap"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224732,
+      "name": "MI NI NO VE LA",
+      "url": "https://open.spotify.com/track/0sOxnoNEKEw7OvUyycAg8I"
+    },
+    {
+      "album": {
         "name": "Mi otra mitad",
         "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
       },
@@ -4588,6 +4700,24 @@
       "duration_ms": 201078,
       "name": "Mil dias",
       "url": "https://open.spotify.com/track/4FxnfAA967C1jHBjYVKx1j"
+    },
+    {
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
     },
     {
       "album": {
@@ -5038,7 +5168,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
@@ -5244,7 +5374,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 175893,
       "name": "Paloma quiero contarte",
       "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
@@ -5585,6 +5715,28 @@
     },
     {
       "album": {
+        "name": "Pobles al costat del riu",
+        "url": "https://open.spotify.com/album/6EFZKqv2ty50XH9X3IQES2"
+      },
+      "artists": [
+        {
+          "name": "Lorena \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA"
+        },
+        {
+          "name": "Julio Bustamante",
+          "url": "https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226131,
+      "name": "Pobles Al Costat Del Riu",
+      "url": "https://open.spotify.com/track/6dtWqRed0RsCAm65Bg88eH"
+    },
+    {
+      "album": {
         "name": "El Siglo del Loro",
         "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
       },
@@ -5730,7 +5882,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176500,
       "name": "Puquio",
       "url": "https://open.spotify.com/track/7AU74ElllykOv422FjsU1E"
@@ -7102,7 +7254,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 214405,
       "name": "Tu Ciudad",
       "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
@@ -7142,6 +7294,24 @@
       "duration_ms": 157522,
       "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
       "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
+    },
+    {
+      "album": {
+        "name": "Un Ayayay",
+        "url": "https://open.spotify.com/album/1NVnhpXRW78bNYoI2J00VX"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210235,
+      "name": "Un Ayayay",
+      "url": "https://open.spotify.com/track/4JmpAALgKd05VHMI0FHeGX"
     },
     {
       "album": {

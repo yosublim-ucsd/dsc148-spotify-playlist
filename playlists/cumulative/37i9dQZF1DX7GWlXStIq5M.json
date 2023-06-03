@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 168266,
       "name": "Cadeado",
       "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
@@ -5223,6 +5223,28 @@
     },
     {
       "album": {
+        "name": "Nos Meus Sonhos",
+        "url": "https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Nos Meus Sonhos",
+      "url": "https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof"
+    },
+    {
+      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -6792,6 +6814,32 @@
       "duration_ms": 221653,
       "name": "Reflexo",
       "url": "https://open.spotify.com/track/6TjdoPPor1t4gajeMNQMBE"
+    },
+    {
+      "album": {
+        "name": "Reflexx",
+        "url": "https://open.spotify.com/album/73qvLWJPMQyoC8tej17Qm8"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "Reflexx",
+      "url": "https://open.spotify.com/track/1eG9yQZwmaMRVvAwhiEl51"
     },
     {
       "album": {
@@ -8431,6 +8479,44 @@
     },
     {
       "album": {
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Theu$",
+          "url": "https://open.spotify.com/artist/3fQdiBzHZmIODkc3jwdhdS"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/0jFEunmpCB3mRsi8E6aWKT"
+    },
+    {
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -8610,6 +8696,24 @@
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "album": {
+        "name": "vc n gosta de garotas",
+        "url": "https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "vc n gosta de garotas",
+      "url": "https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4"
     },
     {
       "album": {

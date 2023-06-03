@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157366,
       "name": "Dem Deh Try",
       "url": "https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b"
@@ -1474,6 +1474,24 @@
     {
       "album": {
         "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+    },
+    {
+      "album": {
+        "name": "Earth Song",
         "url": "https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP"
       },
       "artists": [
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183536,
       "name": "Earth Song",
       "url": "https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy"
@@ -2365,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Hat-trick",
+        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160757,
+      "name": "Hat-trick",
+      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+    },
+    {
+      "album": {
         "name": "Hey! - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN"
       },
@@ -2998,7 +3034,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157500,
       "name": "Kesho",
       "url": "https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW"
@@ -3403,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "No Bad Boy, No Party",
+        "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
       },
@@ -3480,7 +3534,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 315037,
       "name": "Na Me Own My Body",
       "url": "https://open.spotify.com/track/6DtBafv64MkJxo6xFw6f6l"
@@ -4186,7 +4240,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183529,
       "name": "Penny",
       "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
@@ -4446,6 +4500,28 @@
       "duration_ms": 121558,
       "name": "Problem No Dey Finish - Remix",
       "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
+    },
+    {
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/0irnt3dtaoyMB5T7uqZQws"
+      },
+      "artists": [
+        {
+          "name": "Curtis J",
+          "url": "https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208928,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h"
     },
     {
       "album": {
@@ -5572,6 +5648,24 @@
       "duration_ms": 168103,
       "name": "Weekenjoyment",
       "url": "https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj"
+    },
+    {
+      "album": {
+        "name": "Whateva",
+        "url": "https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt"
+      },
+      "artists": [
+        {
+          "name": "Marz BGX",
+          "url": "https://open.spotify.com/artist/1la0AGaLZ4v7WSjS99nAps"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169091,
+      "name": "Whateva",
+      "url": "https://open.spotify.com/track/71dF8V3CxGANvLOTWxThF7"
     },
     {
       "album": {

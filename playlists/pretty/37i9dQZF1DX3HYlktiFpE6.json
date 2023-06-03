@@ -1,32 +1,32 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 100390,
+  "num_followers": 100395,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWY5NTJmYTUyODM0Y2Y2NGNjYWViN2M5ODBiMGY2ZThjNGY1MWY0",
+  "snapshot_id": "MCxiMTUyY2UxZTI1M2EyZWI2NGZlN2Q4YjFkOWEwOGNkODVhMTAzNTE5",
   "tracks": [
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ"
+        "name": "Man in the Mirror",
+        "url": "https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5"
       },
       "artists": [
         {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+          "name": "The Swingles",
+          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
         },
         {
-          "name": "David Paich",
-          "url": "https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ"
+          "name": "Vad\u00e9",
+          "url": "https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD"
         }
       ],
-      "duration_ms": 261506,
-      "name": "Toto (feat. David Paich)",
-      "url": "https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT"
+      "duration_ms": 303010,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -49,6 +49,26 @@
       "url": "https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "David Paich",
+          "url": "https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ"
+        }
+      ],
+      "duration_ms": 261506,
+      "name": "Toto (feat. David Paich)",
+      "url": "https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT"
+    },
+    {
       "added_at": "2023-03-22 20:15:33",
       "album": {
         "name": "Golden Hour",
@@ -69,6 +89,58 @@
       "url": "https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM"
     },
     {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "duration_ms": 178376,
+      "name": "Sensitive (feat. Scott Hoying)",
+      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "I Just Called To Say I Love You",
+        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
+    },
+    {
+      "added_at": "2023-05-03 13:16:53",
+      "album": {
+        "name": "METAPHYSICAL",
+        "url": "https://open.spotify.com/album/3tw6ZNVEBFRGKNMq8QVzpy"
+      },
+      "artists": [
+        {
+          "name": "Prismatics",
+          "url": "https://open.spotify.com/artist/5Gc2jMj1lDWqHtouLqHk9D"
+        }
+      ],
+      "duration_ms": 257049,
+      "name": "Denim Jacket",
+      "url": "https://open.spotify.com/track/6m80tQrXe25WOb1mS0Y8yN"
+    },
+    {
       "added_at": "2023-05-03 13:16:53",
       "album": {
         "name": "Delta Dawn",
@@ -87,6 +159,38 @@
       "duration_ms": 197010,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2JiSCBhXuT7wpFHAVqkqyt"
+      },
+      "artists": [
+        {
+          "name": "Distilled Harmony",
+          "url": "https://open.spotify.com/artist/2oYLwmWHaHrK4suIVZh8SU"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/5ACHI9SsKvZXiBY3sUqGKd"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "In Our Element",
+        "url": "https://open.spotify.com/album/6ZFCEw0KxX2XiOkIUTBW4k"
+      },
+      "artists": [
+        {
+          "name": "Oxford Out Of The Blue",
+          "url": "https://open.spotify.com/artist/4qleUPvfVlB1Sg0ONKbhPB"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/5bSagD6vNMzqacmO0xFNx4"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -121,56 +225,20 @@
       "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Man in the Mirror",
-        "url": "https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5"
+        "name": "Old Latrobe",
+        "url": "https://open.spotify.com/album/73ybz73Oq4wxIY8jvwqs7E"
       },
       "artists": [
         {
-          "name": "The Swingles",
-          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
-        },
-        {
-          "name": "Vad\u00e9",
-          "url": "https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD"
+          "name": "Rip_Chord",
+          "url": "https://open.spotify.com/artist/2hiesdWNHR4JDDs4q1ByCL"
         }
       ],
-      "duration_ms": 303010,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "The New Old Fashioned (Deluxe)",
-        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "All About That Bass (No Tenors)",
-      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Just Called To Say I Love You",
-        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
+      "duration_ms": 304000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/1QI4OkBnvOxhOIIyGxLYyX"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -237,24 +305,20 @@
       "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/79gsUaXg0Gexdo1NHQsUUF"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Scott Hoying",
-          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+          "name": "OneVoice",
+          "url": "https://open.spotify.com/artist/4Tcxn9SymP465LZWa2xFO6"
         }
       ],
-      "duration_ms": 178376,
-      "name": "Sensitive (feat. Scott Hoying)",
-      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
+      "duration_ms": 171409,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7jrEh3csdQr1jGNuGBD7nd"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -271,6 +335,22 @@
       "duration_ms": 237971,
       "name": "Light On",
       "url": "https://open.spotify.com/track/2dDef6SYUfApGRxhREFfxd"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "The New Old Fashioned (Deluxe)",
+        "url": "https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "All About That Bass (No Tenors)",
+      "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -353,22 +433,6 @@
       "url": "https://open.spotify.com/track/1Uc8sX7Kb2FzREsu0EmZ8z"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "In Our Element",
-        "url": "https://open.spotify.com/album/6ZFCEw0KxX2XiOkIUTBW4k"
-      },
-      "artists": [
-        {
-          "name": "Oxford Out Of The Blue",
-          "url": "https://open.spotify.com/artist/4qleUPvfVlB1Sg0ONKbhPB"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/5bSagD6vNMzqacmO0xFNx4"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Voices Only 2011 College A Cappella (Volume 1)",
@@ -447,22 +511,6 @@
       "duration_ms": 205173,
       "name": "The Greatest Show - Bonus Track",
       "url": "https://open.spotify.com/track/34GTE14mHrS6mj4Jf31OME"
-    },
-    {
-      "added_at": "2023-05-03 13:16:53",
-      "album": {
-        "name": "METAPHYSICAL",
-        "url": "https://open.spotify.com/album/3tw6ZNVEBFRGKNMq8QVzpy"
-      },
-      "artists": [
-        {
-          "name": "Prismatics",
-          "url": "https://open.spotify.com/artist/5Gc2jMj1lDWqHtouLqHk9D"
-        }
-      ],
-      "duration_ms": 257049,
-      "name": "Denim Jacket",
-      "url": "https://open.spotify.com/track/6m80tQrXe25WOb1mS0Y8yN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -731,38 +779,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        },
-        {
-          "name": "The Filharmonic",
-          "url": "https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz"
-        },
-        {
-          "name": "The Cantasticos",
-          "url": "https://open.spotify.com/artist/2fv2BgHuiUQhkyPybnlMJM"
-        },
-        {
-          "name": "The Singboks",
-          "url": "https://open.spotify.com/artist/4X73QHiBXm9IoEIRSOHKNz"
-        },
-        {
-          "name": "Penn Masala",
-          "url": "https://open.spotify.com/artist/2MhJb1ljKttJewuYZTpXxr"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "Any Way You Want It (World Championship Medley) - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/0gzErVl20ICsw6LmoPIdqb"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "The Sing-Off: Season 3: Episode 7 - Superstar Medleys",
         "url": "https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 162800,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/5TRugjx4cKvypzIe4QRk1c"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/5JmZwvs3mfGduPjumjiFvB"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206135,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1339,22 +1339,6 @@
       "duration_ms": 159844,
       "name": "When Will I Be Loved",
       "url": "https://open.spotify.com/track/6V1Guqqm0Y7hqwt98mQQ5X"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Heart to Heart",
-        "url": "https://open.spotify.com/album/610eR17cWXL3ACEeRSD7bK"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 240526,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/3PuyxXYV56lFfak4aHgKKQ"
     },
     {
       "added_at": "2021-12-24 05:00:00",

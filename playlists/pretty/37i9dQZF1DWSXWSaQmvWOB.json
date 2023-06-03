@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 441391,
+  "num_followers": 441439,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGIxOTYxMTg2MjIzYzVhOWQ4MDNmOTM2NWIwMjgxNDU0MjY5OWYw",
+  "snapshot_id": "MCxiYzU1ZGNiY2JlNDA4ODk4MDBiMTNiZDM4YWMyZGY3MjU4NWI3Yjlm",
   "tracks": [
     {
       "added_at": "2023-05-12 08:18:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Get it Got it",
-        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Get it Got it",
-      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 244560,
       "name": "I Miss You Baby, Pt. 1",
       "url": "https://open.spotify.com/track/2TN9b4mxmXeA6bXJWTMxuZ"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Get it Got it",
+        "url": "https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Get it Got it",
+      "url": "https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/7I5mwcbF8WqYqT8NF1XrKZ"
-      },
-      "artists": [
-        {
-          "name": "Alain Clark",
-          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
-        },
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/63hl84qgcK7UAXYWtH1RcW"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Sentimental Fool",
         "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 302746,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/7I5mwcbF8WqYqT8NF1XrKZ"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        },
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/63hl84qgcK7UAXYWtH1RcW"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Lonely Are the Brave (Mav's Version)",
+        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "I Need - Mav's Version",
+      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
       },
@@ -1103,18 +1119,30 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Lonely Are the Brave (Mav's Version)",
-        "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
+        "name": "Treat U Good",
+        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
       "artists": [
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Lyriya",
+          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
+        },
+        {
+          "name": "MERON",
+          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
         }
       ],
-      "duration_ms": 239346,
-      "name": "I Need - Mav's Version",
-      "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+      "duration_ms": 217791,
+      "name": "Treat U Good",
+      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1151,34 +1179,6 @@
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Treat U Good",
-        "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        },
-        {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
-        },
-        {
-          "name": "Lyriya",
-          "url": "https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI"
-        },
-        {
-          "name": "MERON",
-          "url": "https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG"
-        }
-      ],
-      "duration_ms": 217791,
-      "name": "Treat U Good",
-      "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Operation Funk",
+        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Operation Funk",
-        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 276401,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 223060,
-      "name": "Joy & Pain",
-      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
+      "duration_ms": 179882,
+      "name": "Come Back - Radio Edit",
+      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
       },
       "artists": [
         {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 179882,
-      "name": "Come Back - Radio Edit",
-      "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
+        "name": "Multiply",
+        "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
       },
       "artists": [
         {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         }
       ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+      "duration_ms": 236136,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1655,34 +1655,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Multiply",
-        "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
         }
       ],
-      "duration_ms": 236136,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Help Yourself",
-        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
-      },
-      "artists": [
-        {
-          "name": "ParHasard",
-          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1703,6 +1687,22 @@
       "duration_ms": 320866,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/1UXP7UbTGB8uLWy3WVdjub"
+      },
+      "artists": [
+        {
+          "name": "ParHasard",
+          "url": "https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/7pDuSAItbSQHp20Bawe1mn"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Maikal X",
+          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
+        }
+      ],
+      "duration_ms": 316626,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Summer in Amsterdam",
         "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 201585,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/2PYgSz4FT6gZlPQ46aIhEc"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        },
-        {
-          "name": "Maikal X",
-          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
-        }
-      ],
-      "duration_ms": 316626,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
     },
     {
       "added_at": "2023-05-12 08:18:27",

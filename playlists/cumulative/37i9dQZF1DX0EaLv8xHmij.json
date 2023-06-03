@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/2OsDUne6ZJowKg1Hyyd1O2"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173144,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/7vQOGmU1cMVzkxbquiZgx3"
+    },
+    {
+      "album": {
         "name": "Amor e Dinheiro",
         "url": "https://open.spotify.com/album/1PzzWRCKIsbUDRFk2llrOT"
       },
@@ -1075,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Puro",
+        "url": "https://open.spotify.com/album/6ZfQxM3fhpz1n906yTWq7p"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147186,
+      "name": "Cora\u00e7\u00e3o Puro",
+      "url": "https://open.spotify.com/track/1nGAyTNClgVVTqqqRpOF6y"
+    },
+    {
+      "album": {
         "name": "Cria da Norte",
         "url": "https://open.spotify.com/album/6MBcU8yvbk9URoszy8s8E2"
       },
@@ -1242,7 +1282,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 175774,
       "name": "Demonike",
       "url": "https://open.spotify.com/track/6g6fjgEC4dXkX01oJoeyCT"
@@ -2201,6 +2241,32 @@
     },
     {
       "album": {
+        "name": "ESCOLA DE TURIM",
+        "url": "https://open.spotify.com/album/29MsSRcK4wZ1vb5vapo59d"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "CLUB DA DZ7",
+          "url": "https://open.spotify.com/artist/0OYVtrqGQ97ub2QGLNbOql"
+        },
+        {
+          "name": "Meira",
+          "url": "https://open.spotify.com/artist/3wHmZwMa7bEvmoq2nWlYoM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126040,
+      "name": "LEI DA RUA",
+      "url": "https://open.spotify.com/track/6DlhQZ3WLULs9Zi8woAxak"
+    },
+    {
+      "album": {
         "name": "OUTRO ROL\u00ca",
         "url": "https://open.spotify.com/album/0bhxPlxH5FapYiaGargMGd"
       },
@@ -2346,7 +2412,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
@@ -2696,7 +2762,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 171759,
       "name": "M\u00f3 Brek",
       "url": "https://open.spotify.com/track/7IU1Is5Xb1Ix7SJt3SPV5N"

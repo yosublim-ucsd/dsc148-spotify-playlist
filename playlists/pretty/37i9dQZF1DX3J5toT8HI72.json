@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas para voc\u00ea curtir com seu amor.\n",
-  "num_followers": 771203,
+  "num_followers": 771307,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYzMGJlNjQwMTlkZDUxNGIyNDM4NTY5M2I1YzhmNDZhMDhmZGU1",
+  "snapshot_id": "MCwyYzRmMDYwYjZhYTgyZTU4YTNiMzY3MzYzZTFiZjQzMDZkZTY5ZWM2",
   "tracks": [
     {
       "added_at": "2023-05-31 20:43:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-31 20:43:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "Vixe Que Gostoso",
-      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
-    },
-    {
-      "added_at": "2023-05-31 20:43:00",
-      "album": {
         "name": "Ef\u00eamera",
         "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+    },
+    {
+      "added_at": "2023-05-31 20:43:00",
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "Vixe Que Gostoso",
+      "url": "https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ"
     },
     {
       "added_at": "2023-05-31 20:43:00",

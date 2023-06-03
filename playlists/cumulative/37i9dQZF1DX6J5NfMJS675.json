@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Call Jane",
+        "url": "https://open.spotify.com/album/3SVXROaNwXao6vSnWorwgY"
+      },
+      "artists": [
+        {
+          "name": "Anna Amato",
+          "url": "https://open.spotify.com/artist/244LldEKISk1ZWoBECOVcu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293192,
+      "name": "Call Jane",
+      "url": "https://open.spotify.com/track/2NGRFd7J0PdyDSMXvNsniW"
+    },
+    {
+      "album": {
         "name": "Can't Stop (Drunken Kong Remix)",
         "url": "https://open.spotify.com/album/1Xv4ThzXKntPZVO2mgYG1b"
       },
@@ -1517,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247319,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi"
+    },
+    {
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/4i8TDqm3pZCgfkQg7ElqEW"
       },
@@ -1827,6 +1863,32 @@
     },
     {
       "album": {
+        "name": "Dark Clouds (feat. Heerhorst & Peter Pahn)",
+        "url": "https://open.spotify.com/album/33ctW2TAe9YUbXoZDlbxDa"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        },
+        {
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+        },
+        {
+          "name": "PETER PAHN",
+          "url": "https://open.spotify.com/artist/4LQoXe8NEzb0WSvAhQSFbD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Dark Clouds (feat. Heerhorst & Peter Pahn)",
+      "url": "https://open.spotify.com/track/6PSArspq6JShGfIiE0kGWJ"
+    },
+    {
+      "album": {
         "name": "Dark Market",
         "url": "https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng"
       },
@@ -1896,7 +1958,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 392558,
       "name": "Dark Way",
       "url": "https://open.spotify.com/track/1mftAIgBSA5SkRFIwml1Hd"
@@ -3045,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
+    },
+    {
+      "album": {
         "name": "Finding Yourself",
         "url": "https://open.spotify.com/album/0BUH4QNv6gUzQssrp8sPMw"
       },
@@ -3056,7 +3136,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222352,
       "name": "Finding Yourself",
       "url": "https://open.spotify.com/track/4ZXWpDKSJBcnWG8Q6iVjT7"
@@ -3728,7 +3808,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 373489,
       "name": "Hear The Sound",
       "url": "https://open.spotify.com/track/276lQAZfUAXTvlzpPiSFTw"
@@ -4525,6 +4605,28 @@
     },
     {
       "album": {
+        "name": "Janfry",
+        "url": "https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13"
+      },
+      "artists": [
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        },
+        {
+          "name": "Ramiro Lopez",
+          "url": "https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215653,
+      "name": "Janfry",
+      "url": "https://open.spotify.com/track/20nP0CII4RqFAJLNyyFHuW"
+    },
+    {
+      "album": {
         "name": "ULTRAKUNST",
         "url": "https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW"
       },
@@ -5049,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Madness In The Clouds",
+        "url": "https://open.spotify.com/album/1jy3fOYTPgDDDYm2A60GQT"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216597,
+      "name": "Madness In The Clouds",
+      "url": "https://open.spotify.com/track/1zaGRE1Aek6Ca7zbu40mnT"
+    },
+    {
+      "album": {
         "name": "Secret World",
         "url": "https://open.spotify.com/album/18FBL0i5RTeZz6STphIY8s"
       },
@@ -5096,7 +5216,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228923,
       "name": "Make You Freak",
       "url": "https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy"
@@ -8714,7 +8834,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 443026,
       "name": "Trinity - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/14K7vrt1x7axRIXvHP0e2r"
@@ -9410,7 +9530,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 147555,
       "name": "White Hearts",
       "url": "https://open.spotify.com/track/1Et16oyOtQgq3KhMRIN8BZ"

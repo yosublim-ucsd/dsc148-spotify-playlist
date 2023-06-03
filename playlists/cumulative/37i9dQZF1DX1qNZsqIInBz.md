@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-143 songs - 6 hr 29 min
+144 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Silence](https://open.spotify.com/track/6y3VTYZgLPVARFbC5dw8Py) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/7op6zDji4CCSGJc21Hrfzt) | 3:26 | 2022-10-10 | 2023-01-14 |
 | [Silence 2](https://open.spotify.com/track/1idjy7sCMW8gMYFKZ9kD8z) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence 2](https://open.spotify.com/album/3UsOnUVD1sr7KN7rzMP4S2) | 2:48 | 2023-01-13 |  |
 | [Silent Night](https://open.spotify.com/track/1EapFpXRLVRnK3PXUoJtTh) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi), [XVNNDRO](https://open.spotify.com/artist/5sSge1Liv1eU8WJPDH1dI5) | [Silent Night](https://open.spotify.com/album/4adqBewUGNtWm6p5gfCEnY) | 2:33 | 2022-10-10 | 2023-05-06 |
-| [SMOKE BREAK](https://open.spotify.com/track/6g5Fqi6TitfZ7t8gqoMVc8) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/2zVAkBh88asobH6RmtuXXx) | 2:40 | 2023-02-04 |  |
+| [SMOKE BREAK](https://open.spotify.com/track/3k7vLEHpSn96T5Zp8GYYxR) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/5wb170deKuGsfg1CFukBgI) | 2:40 | 2023-03-10 |  |
+| [SMOKE BREAK](https://open.spotify.com/track/6g5Fqi6TitfZ7t8gqoMVc8) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/2zVAkBh88asobH6RmtuXXx) | 2:40 | 2023-02-04 | 2023-06-03 |
 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 | 2022-10-10 |  |
 | [Space](https://open.spotify.com/track/5ZTwRO2Yy2ardUblJsVSAA) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Space](https://open.spotify.com/album/5jQNBxuQV1LK4SsVuqX78Z) | 2:00 | 2022-12-09 |  |
 | [Space](https://open.spotify.com/track/0W0KjUBX70GxtgVXraTcf9) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9), [Proof Nation](https://open.spotify.com/artist/7CV2yBOPHytA4ZrSPsjoLA) | [Space](https://open.spotify.com/album/0qh0hHIeYCqBJaDv7r12uR) | 2:25 | 2022-11-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: G Herbo",
+  "description": "The Midwest is always on time. Cover: Lil Durk",
   "name": "CST",
   "tracks": [
     {
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 273651,
       "name": "Blrrrd Fa",
       "url": "https://open.spotify.com/track/3121hwDUvifw2mi5cj8dfP"
@@ -1458,6 +1458,28 @@
       "duration_ms": 155637,
       "name": "Born By the River (feat. Sukihana)",
       "url": "https://open.spotify.com/track/0bP2a2zAHTZxwtxTEkLqAg"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188785,
+      "name": "Bounce (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
     },
     {
       "album": {
@@ -3149,6 +3171,24 @@
     },
     {
       "album": {
+        "name": "Grocery Freestyle",
+        "url": "https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181488,
+      "name": "Grocery Freestyle",
+      "url": "https://open.spotify.com/track/6POpagXwotnNvqBTjD7uez"
+    },
+    {
+      "album": {
         "name": "Grown Man",
         "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
       },
@@ -3204,7 +3244,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 103961,
       "name": "H.L.F.",
       "url": "https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0"
@@ -5349,6 +5389,24 @@
     },
     {
       "album": {
+        "name": "NO BAP",
+        "url": "https://open.spotify.com/album/4lqBlbYBv6UesCVnjCD1Rr"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "NO BAP",
+      "url": "https://open.spotify.com/track/2WT78xcgpKwr3eigtnAu9T"
+    },
+    {
+      "album": {
         "name": "No Cap 3",
         "url": "https://open.spotify.com/album/0tc1vOqCTrCOqVbhvcwCW9"
       },
@@ -5480,7 +5538,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
@@ -5826,7 +5884,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 80352,
       "name": "Out On Bond",
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
@@ -6167,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "PORSCHE TOPLESS",
+        "url": "https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "PORSCHE TOPLESS",
+      "url": "https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx"
+    },
+    {
+      "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
@@ -6230,6 +6306,24 @@
       "duration_ms": 195044,
       "name": "Pressikan",
       "url": "https://open.spotify.com/track/2N0wDFXjS97UybI2ellIEu"
+    },
+    {
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259687,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
     },
     {
       "album": {
@@ -6854,7 +6948,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 153392,
       "name": "Ron Artest",
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
@@ -7290,7 +7384,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 102946,
       "name": "Skipper",
       "url": "https://open.spotify.com/track/2IEAEeX4LtxiYPdqt0C08y"
@@ -8559,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "Trapper Of The Year",
+        "url": "https://open.spotify.com/album/7hpK4slWiud9Vbtztl3N3F"
+      },
+      "artists": [
+        {
+          "name": "Certified Trapper",
+          "url": "https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184225,
+      "name": "Trapper Of The Year",
+      "url": "https://open.spotify.com/track/505h7n2RKx84zYZGs5ljSX"
+    },
+    {
+      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/1Fm7HCVEImfZYYQ64v9F3o"
       },
@@ -9194,7 +9306,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 133953,
       "name": "Wonderful Wayne & Jackie Boy",
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"

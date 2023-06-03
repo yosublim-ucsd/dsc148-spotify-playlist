@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-143 songs - 8 hr 40 min
+145 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Bangs & Works](https://open.spotify.com/track/32QRnB5xxdfYnrtc0e3tYK) | [DJ Trouble](https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/7jm8RDfHY8ezdu5zEn4I2y) | 3:00 | 2020-12-03 | 2022-07-29 |
 | [Bangs & Works](https://open.spotify.com/track/4CQSClkhQi4zrNMKEzHxQ2) | [DJ Trouble](https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/1P8EYmCJmjYhtMhR2H3h4m) | 3:00 | 2020-12-03 | 2023-04-29 |
 | [Bangs & Works](https://open.spotify.com/track/5UMr3rsYiX6ajMaydiiluf) | [DJ Trouble](https://open.spotify.com/artist/33KsPfISa6inRnrPvWutSy) | [Bangs & Works, Vol.1: A Chicago Footwork Compilation](https://open.spotify.com/album/3zM6n40Te2hywzxpj9k5tr) | 3:00 | 2020-12-03 |  |
+| [Battle](https://open.spotify.com/track/1yoYyPVmebmoKNAbYdJXSR) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp](https://open.spotify.com/album/55Xpv1aDSSliUo1nNQpdt5) | 3:52 | 2020-12-03 |  |
 | [Battle](https://open.spotify.com/track/3dhO7ixs6lgQZ1fgbI1IDd) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp](https://open.spotify.com/album/2ili3qzLq2R0qrtKmmxItD) | 3:52 | 2020-12-03 | 2023-06-02 |
-| [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 | 2020-12-03 |  |
+| [Battle](https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [Some Pulp \- EP](https://open.spotify.com/album/5JychXyvRnufCvGYLKid6s) | 3:52 | 2020-12-03 | 2023-06-03 |
 | [Below Zero](https://open.spotify.com/track/0LTm0RA3wDl1xeAFZY3igP) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/3b7HxjiBDo5ZVRmKqKYYx7) | 2:49 | 2020-12-03 | 2023-04-29 |
 | [Below Zero](https://open.spotify.com/track/2CuUS7ofCI8fmmVe2vyGqW) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/5Ae4gsudmsRBqFiY6px4Xh) | 2:49 | 2020-12-03 |  |
 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 | 2020-12-03 | 2022-07-29 |
@@ -84,8 +85,9 @@
 | [Gimme Some Mo](https://open.spotify.com/track/1Ah9GZskjhqGdrOMN4zWwj) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Still Trippin'](https://open.spotify.com/album/7xDFC6tA0ADGOv3NmIM7rE) | 4:35 | 2020-12-03 | 2022-07-29 |
 | [Gimme Some Mo \(feat\. UNIIQU3\)](https://open.spotify.com/track/5DWT4a4SbDAKu5xmsUlqxA) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg) | 4:35 | 2020-12-03 | 2023-04-29 |
 | [Gimme Some Mo \(feat\. UNIIQU3\)](https://open.spotify.com/track/5p2ofIyvgSTzwYDMBaAdzk) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur) | 4:35 | 2020-12-03 |  |
+| [Give It To Me](https://open.spotify.com/track/4viGDGWnZJxlmGoB238yZ5) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic Vol\. 1](https://open.spotify.com/album/52UUqChGfOm9g0Bn0UCZ8F) | 3:49 | 2020-12-03 |  |
 | [Give It to Me](https://open.spotify.com/track/6bCNGjPmshojCDkWCmIJeL) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic Vol\. 1](https://open.spotify.com/album/7bAIZawtVru3VktuJQap9O) | 3:49 | 2020-12-03 | 2023-06-02 |
-| [Give It to Me](https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic, Vol\. 1 \- EP](https://open.spotify.com/album/3W8TE3M9M5QPsnm4wj06wZ) | 3:49 | 2020-12-03 |  |
+| [Give It to Me](https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Trackaholic, Vol\. 1 \- EP](https://open.spotify.com/album/3W8TE3M9M5QPsnm4wj06wZ) | 3:49 | 2020-12-03 | 2023-06-03 |
 | [Good Days](https://open.spotify.com/track/0Rh8r2UXibzTGMMEcT4Of7) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/1PIz8lTokG306w5BdjSIYt) | 2:49 | 2020-12-03 |  |
 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 | 2020-12-03 | 2023-06-02 |
 | [Grateful](https://open.spotify.com/track/0gSaVbrG4PIrmvyL5EurFE) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Sleep](https://open.spotify.com/album/1tDaiSq1p9ZLrlnT4QGkIg) | 3:15 | 2020-12-03 |  |

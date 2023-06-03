@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 198360,
+  "num_followers": 198397,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM4OTg1ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM5MDcyMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Ny Sejr",
-        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 130493,
-      "name": "Tudo Bem (feat. Gilli)",
-      "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV"
@@ -85,7 +65,39 @@
       "url": "https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Sp\u00e5kone",
+        "url": "https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sp\u00e5kone",
+      "url": "https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Baddies & Draris",
+        "url": "https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 146949,
+      "name": "Baddies & Draris",
+      "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "BOYBAND",
         "url": "https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot"
@@ -105,7 +117,7 @@
       "url": "https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -121,39 +133,27 @@
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Baddies & Draris",
-        "url": "https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw"
+        "name": "Ny Sejr",
+        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
       },
       "artists": [
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 146949,
-      "name": "Baddies & Draris",
-      "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Sp\u00e5kone",
-        "url": "https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl"
-      },
-      "artists": [
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Sp\u00e5kone",
-      "url": "https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7"
+      "duration_ms": 130493,
+      "name": "Tudo Bem (feat. Gilli)",
+      "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "For Altid",
         "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "smugryger",
         "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
@@ -185,23 +185,7 @@
       "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 177135,
-      "name": "Hele Dagen",
-      "url": "https://open.spotify.com/track/6V4uTyQqs8tq21qbMUYrWA"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -233,7 +217,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "OFF",
         "url": "https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf"
@@ -249,255 +233,7 @@
       "url": "https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Terrier",
-        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
-      },
-      "artists": [
-        {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Terrier",
-      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 182816,
-      "name": "STOR MAND (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "F\u00f8les Godt",
-        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "F\u00f8les Godt (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/2LUNDLJq9DETLVVIPcAA6s"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/0JFhEbH1Ij9BIrO800IEIK"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 242350,
-      "name": "Dansktop",
-      "url": "https://open.spotify.com/track/2rIZdL5X9vCyMp5z0bNNGC"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 140089,
-      "name": "Gode Dage, Gode Drinks",
-      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Ny Sejr",
-        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
-      },
-      "artists": [
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 163482,
-      "name": "Palermo (feat. KESI)",
-      "url": "https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "All In (feat. Lamin)",
-        "url": "https://open.spotify.com/album/5YaoLpCckKTrxe1CDfrI8h"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 176430,
-      "name": "All In (feat. Lamin)",
-      "url": "https://open.spotify.com/track/5PIiJ3kodpPftCM6alodDE"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Suave World",
-        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        },
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Verden V\u00e5gner (feat. Saveus)",
-      "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Tag Fat",
-        "url": "https://open.spotify.com/album/6hkhGZ2Bny3Hl2wZdX9UO3"
-      },
-      "artists": [
-        {
-          "name": "Toko",
-          "url": "https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Tag Fat",
-      "url": "https://open.spotify.com/track/5Y841Z8kEooCe0qWHE8sUF"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 218727,
-      "name": "Stjernekigger",
-      "url": "https://open.spotify.com/track/3un3EfKXpZbOq0vzyeOKVV"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Puto Criminel (feat. ZUUZ)",
         "url": "https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22"
@@ -517,23 +253,179 @@
       "url": "https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+      "duration_ms": 140089,
+      "name": "Gode Dage, Gode Drinks",
+      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 182816,
+      "name": "STOR MAND (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 177135,
+      "name": "Hele Dagen",
+      "url": "https://open.spotify.com/track/6V4uTyQqs8tq21qbMUYrWA"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/2LUNDLJq9DETLVVIPcAA6s"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/0JFhEbH1Ij9BIrO800IEIK"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Terrier",
+        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Terrier",
+      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "F\u00f8les Godt",
+        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 170611,
+      "name": "F\u00f8les Godt (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 242350,
+      "name": "Dansktop",
+      "url": "https://open.spotify.com/track/2rIZdL5X9vCyMp5z0bNNGC"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Tag Fat",
+        "url": "https://open.spotify.com/album/6hkhGZ2Bny3Hl2wZdX9UO3"
+      },
+      "artists": [
+        {
+          "name": "Toko",
+          "url": "https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Tag Fat",
+      "url": "https://open.spotify.com/track/5Y841Z8kEooCe0qWHE8sUF"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -549,139 +441,83 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+        "name": "All In (feat. Lamin)",
+        "url": "https://open.spotify.com/album/5YaoLpCckKTrxe1CDfrI8h"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/5dNPbpIVH021rkby8i4i52"
-      },
-      "artists": [
-        {
-          "name": "Englando",
-          "url": "https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA"
-        }
-      ],
-      "duration_ms": 167039,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Infinity Action: Kult & B-sider",
-        "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 201479,
-      "name": "Og Du Blev Til En Hvid Fugl",
-      "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "KNUSTE HJERTER HELER ALDRIG",
-        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 158957,
-      "name": "Tro P\u00e5 K\u00e6rlighed",
-      "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 90900,
-      "name": "Hena",
-      "url": "https://open.spotify.com/track/13vWmXJwgVFIb2EOdCGsYZ"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Tessas H\u00e6vn",
-        "url": "https://open.spotify.com/album/1R5nGV9rIDcpE4zgfJEQNN"
-      },
-      "artists": [
-        {
-          "name": "Tessa",
-          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
-        }
-      ],
-      "duration_ms": 176634,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/2Ryb4kO2Pl7YInhuOUecda"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Dronning Af M\u00e5nen",
-        "url": "https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX"
-      },
-      "artists": [
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Dronning Af M\u00e5nen",
-      "url": "https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d"
-    },
-    {
-      "added_at": "2023-06-01 09:37:14",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        },
         {
           "name": "Lamin",
           "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 178183,
-      "name": "Hvad Skal Der Ske (feat. ICEKIID)",
-      "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
+      "duration_ms": 176430,
+      "name": "All In (feat. Lamin)",
+      "url": "https://open.spotify.com/track/5PIiJ3kodpPftCM6alodDE"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Saveus",
+          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Verden V\u00e5gner (feat. Saveus)",
+      "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Ny Sejr",
+        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 163482,
+      "name": "Palermo (feat. KESI)",
+      "url": "https://open.spotify.com/track/7a2ZJ7zftM3SkQ0sDvI4Aa"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"
@@ -701,55 +537,71 @@
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "DR\u00d8M MIG V\u00c6K",
-        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/5dNPbpIVH021rkby8i4i52"
       },
       "artists": [
         {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Englando",
+          "url": "https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA"
         }
       ],
-      "duration_ms": 163533,
-      "name": "DR\u00d8M MIG V\u00c6K",
-      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+      "duration_ms": 167039,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+        "name": "Tessas H\u00e6vn",
+        "url": "https://open.spotify.com/album/1R5nGV9rIDcpE4zgfJEQNN"
       },
       "artists": [
         {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
         }
       ],
-      "duration_ms": 274287,
-      "name": "Gran Turismo",
-      "url": "https://open.spotify.com/track/5M44hk5WAFjUzZq64lff5p"
+      "duration_ms": 176634,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/2Ryb4kO2Pl7YInhuOUecda"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Stiv Kuling",
-        "url": "https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 160417,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
@@ -769,7 +621,7 @@
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -780,48 +632,128 @@
           "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
         }
       ],
-      "duration_ms": 399342,
-      "name": "For Livet",
-      "url": "https://open.spotify.com/track/4bgoQq0XDzMdEK1CJzbQlU"
+      "duration_ms": 90900,
+      "name": "Hena",
+      "url": "https://open.spotify.com/track/13vWmXJwgVFIb2EOdCGsYZ"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Danser Med Piger",
-        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
+        "name": "Infinity Action: Kult & B-sider",
+        "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
       },
       "artists": [
         {
-          "name": "Danser Med Piger",
-          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 168849,
-      "name": "Danser Med Piger",
-      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
+      "duration_ms": 201479,
+      "name": "Og Du Blev Til En Hvid Fugl",
+      "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "Tessas H\u00e6vn",
-        "url": "https://open.spotify.com/album/1R5nGV9rIDcpE4zgfJEQNN"
+        "name": "KNUSTE HJERTER HELER ALDRIG",
+        "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
       },
       "artists": [
         {
-          "name": "Tessa",
-          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 158957,
+      "name": "Tro P\u00e5 K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         },
         {
-          "name": "Suspekt",
-          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
         }
       ],
-      "duration_ms": 180973,
-      "name": "Toxic (feat. Suspekt)",
-      "url": "https://open.spotify.com/track/4gx8hWJDzS2sZwOSbR93fA"
+      "duration_ms": 178183,
+      "name": "Hvad Skal Der Ske (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/60GwMZeymeZYj7GiEzHQ7d"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Dronning Af M\u00e5nen",
+        "url": "https://open.spotify.com/album/3sCn7y5eBXjNOOhmLqSJMX"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Dronning Af M\u00e5nen",
+      "url": "https://open.spotify.com/track/2d0qsULaWlQMZ13jlPRA1d"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 218727,
+      "name": "Stjernekigger",
+      "url": "https://open.spotify.com/track/3un3EfKXpZbOq0vzyeOKVV"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Stiv Kuling",
+        "url": "https://open.spotify.com/album/2Qe6U56MtBTir6CniefFqU"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 160417,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/7Ku8cFTqbFMKSWGuf1evPQ"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "DR\u00d8M MIG V\u00c6K",
+        "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "DR\u00d8M MIG V\u00c6K",
+      "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "MOULAGA",
         "url": "https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm"
@@ -841,23 +773,43 @@
       "url": "https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
       "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
       },
       "artists": [
         {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
         }
       ],
-      "duration_ms": 221811,
-      "name": "Feberdr\u00f8mmer Xx Dubai",
-      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
+      "duration_ms": 274287,
+      "name": "Gran Turismo",
+      "url": "https://open.spotify.com/track/5M44hk5WAFjUzZq64lff5p"
     },
     {
-      "added_at": "2023-06-01 09:37:14",
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Tessas H\u00e6vn",
+        "url": "https://open.spotify.com/album/1R5nGV9rIDcpE4zgfJEQNN"
+      },
+      "artists": [
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        },
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "Toxic (feat. Suspekt)",
+      "url": "https://open.spotify.com/track/4gx8hWJDzS2sZwOSbR93fA"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
       "album": {
         "name": "BO4L",
         "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
@@ -875,6 +827,54 @@
       "duration_ms": 228590,
       "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "00'er Pige",
+        "url": "https://open.spotify.com/album/5RqOrrPiSZJE9ufD5WUQp4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 136849,
+      "name": "00'er Pige",
+      "url": "https://open.spotify.com/track/5GDjJI8Fr1pAb5fXrJQppv"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 221811,
+      "name": "Feberdr\u00f8mmer Xx Dubai",
+      "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
+    },
+    {
+      "added_at": "2023-06-02 10:09:04",
+      "album": {
+        "name": "Danser Med Piger",
+        "url": "https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5"
+      },
+      "artists": [
+        {
+          "name": "Danser Med Piger",
+          "url": "https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "Danser Med Piger",
+      "url": "https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU"
     }
   ],
   "unique_name": "Top 50 - Denmark",

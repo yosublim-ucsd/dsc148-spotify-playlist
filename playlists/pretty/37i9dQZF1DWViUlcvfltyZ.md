@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. MILANOSPORT in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,052 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,060 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Che benessere !? \(con NASKA\)](https://open.spotify.com/track/29wow7ReefY8giiopcBNGc) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM), [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Che benessere !? \(con NASKA\)](https://open.spotify.com/album/1SCO68v3VmuaIV4Ow9XlYx) | 3:51 |
 | 55 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 |
 
-Snapshot ID: `MCwwYTJmZTkwMjlmYWMzYmUyYjNmZTRiYjkwNmQ0NGNjMzdjZjdlMmNj`
+Snapshot ID: `MCxhNzE1ZGIyYjg5NGNiMTdiZjc4ZmEwZWZiN2RlODg0YjY4OThjNTY0`

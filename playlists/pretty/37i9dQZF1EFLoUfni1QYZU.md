@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 84 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 586 likes - 84 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgwOTQ1MjAsMDAwMDAwMDBkY2EzNzhlNzU3OWIwOGI5MWI0OTFmMWE4YzA5ODJiOQ==`
+Snapshot ID: `MjgwOTU5NjAsMDAwMDAwMDBhYzM5MGNiYjIxMGM3ZDMxODQxNDExODYyMDFiYzcyZg==`

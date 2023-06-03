@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Everything That Has Breath (Praise) [Live]",
+        "url": "https://open.spotify.com/album/0aduoecfOr7N3KKHHu4Mck"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268825,
+      "name": "Everything That Has Breath (Praise) - Live",
+      "url": "https://open.spotify.com/track/7uHQGA1u5M82LwTJBXvuTy"
+    },
+    {
+      "album": {
         "name": "Miracle Maker + Faithful",
         "url": "https://open.spotify.com/album/3xbSzDKD6mggwMXii4TiGd"
       },

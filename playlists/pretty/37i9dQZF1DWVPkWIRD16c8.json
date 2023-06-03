@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 69301,
+  "num_followers": 69575,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjU4MTMzODNiYTViNTYyYTA3NjExNzgzYzlhOTYwNTdhNTUyNzVk",
+  "snapshot_id": "MCw0ODdhODRmNzY2Y2ZkYmRmMjE1MTQ1MzZlNTg2YmVkOGExY2U3ZmZj",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
-      },
-      "artists": [
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 281160,
       "name": "Glory",
       "url": "https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
+      },
+      "artists": [
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Out Of The Dark (Deluxe Edition)",
         "url": "https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 212600,
       "name": "Unfinished",
       "url": "https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Yes I Will (Studio Version)",
-        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
+        "name": "Today Is the Day",
+        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
       },
       "artists": [
         {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Yes I Will (Studio Version)",
-      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
+      "duration_ms": 276746,
+      "name": "Today Is The Day",
+      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Today Is the Day",
-        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
+        "name": "Yes I Will (Studio Version)",
+        "url": "https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi"
       },
       "artists": [
         {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 276746,
-      "name": "Today Is The Day",
-      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
+      "duration_ms": 216973,
+      "name": "Yes I Will (Studio Version)",
+      "url": "https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ"
     }
   ],
   "unique_name": "Christian Road Trip",

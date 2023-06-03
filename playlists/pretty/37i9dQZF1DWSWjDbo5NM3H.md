@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,410 likes - 205 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,416 likes - 205 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 12 | [My Love Even On the Heaven \- Live](https://open.spotify.com/track/3p6kExI44oEVfPGDzYfuLo) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:28 |
 | 13 | [Oh! What a Shiny Night \- Live](https://open.spotify.com/track/69YWqDLNnpFbx6EshipOxB) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 4:01 |
 | 14 | [Forbidden Love \- Live](https://open.spotify.com/track/2HDglVfdgnK7UVndme0I6A) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 3:56 |
-| 15 | [Speed Up Losers \- Live](https://open.spotify.com/track/1YPGubIA3vG8YosS6IuYms) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn), [lee sang hyuk](https://open.spotify.com/artist/73JeRCKD5yRYjruErjnaaJ) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 5:10 |
+| 15 | [Speed Up Losers \- Live](https://open.spotify.com/track/1YPGubIA3vG8YosS6IuYms) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn), [lee sang hyuk](https://open.spotify.com/artist/73JeRCKD5yRYjruErjnaaJ) | [Famous Singers \- Battle Again Pt.10](https://open.spotify.com/album/5RXGoW2lRuEYApoMoWm5Dg) | 5:10 |
 | 16 | [Dangerous directing \- Live](https://open.spotify.com/track/6KKC9uyiJcVdBb9O6b72kR) | [Yun Seong](https://open.spotify.com/artist/3scLPJnii9AmTztP7cO5UM) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:40 |
 | 17 | [Coincidence \- Live](https://open.spotify.com/track/3eK8ho13qMPMOwPxtfZaeG) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 4:09 |
 | 18 | [Get up \- Live](https://open.spotify.com/track/5xzCXQDz3qdkmpNWXsXpG3) | [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr), [Bae In Hyuk](https://open.spotify.com/artist/54zhMFqa0Jnl0QDPnYMaFz) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 4:01 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 204 | [Destiny \- Live](https://open.spotify.com/track/27ZPNAJBhbSv1GejWpyG0Q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 10 \(From The "JTBC" TV Show\)](https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5) | 4:17 |
 | 205 | [Dear J \- Live](https://open.spotify.com/track/1No0fMLhwWa1R4qfPz9GLK) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 10 \(From The "JTBC" TV Show\)](https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5) | 4:21 |
 
-Snapshot ID: `MCw4MDVhM2RlY2FkOTI3NjcxM2E4ZGZjODIzMzQxOGIxMzQwYjVjZDM1`
+Snapshot ID: `MCw4YzgyMTM2YzZjYWI0MTU4Y2Y0ZWEzNGE5ZmUyZDdjOGUyNmE3Zjhm`

@@ -1,12 +1,12 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Emma Heesters, Maks",
-  "num_followers": 16305,
+  "num_followers": 16419,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDU4ZjZlNDg1NmQzNmQ0ZTBiNmRjOGJkZTU5NTNhZmE2YzMzYmZi",
+  "snapshot_id": "MCxkNGMyYzBkZmZlOTE2ZTJkMjBiN2JlNWE1NTI3MDA5ZjEwM2YxY2Zi",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -447,6 +447,30 @@
       "duration_ms": 231704,
       "name": "WHERE SHE GOES",
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
       "added_at": "2023-06-01 22:00:00",

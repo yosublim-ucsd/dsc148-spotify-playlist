@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 321485,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 281722,
       "name": "Everything I Wanted",
       "url": "https://open.spotify.com/track/3N3Q6TOYkqKOvpqp7vlly1"
@@ -4848,6 +4848,28 @@
       "duration_ms": 118004,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/0Xs9Ye5qtHNcYT64UCyNd6"
+    },
+    {
+      "album": {
+        "name": "Impressions of Ella",
+        "url": "https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257795,
+      "name": "I Won't Dance",
+      "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
     },
     {
       "album": {
@@ -8920,6 +8942,24 @@
       "duration_ms": 317047,
       "name": "Say It Isn't So",
       "url": "https://open.spotify.com/track/5kRxW8pWKoQk9HXs4rG4jS"
+    },
+    {
+      "album": {
+        "name": "Dara Starr Tucker",
+        "url": "https://open.spotify.com/album/2CbNLlrzaRHuJ0j4Sgtkhv"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333259,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/0e5lg6vfChbb3IX8LCF3mO"
     },
     {
       "album": {

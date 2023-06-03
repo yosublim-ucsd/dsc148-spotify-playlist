@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-187 songs - 11 hr 4 min
+188 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Very Merry Christmas](https://open.spotify.com/track/3tKCt9Xy303NAWC8xZHQZ5) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc), [Jesus Molina](https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4) | [A Very Merry Christmas](https://open.spotify.com/album/3gJyqisGeXFgauoNd0GNnE) | 3:20 | 2022-12-11 |  |
 | [All I Need For Christmas](https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [All I Need For Christmas](https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU) | 3:01 | 2021-12-24 |  |
 | [All I Want](https://open.spotify.com/track/0OedQD5eXPfAzUATFDOGhl) | [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Christmas Tape](https://open.spotify.com/album/2g9AxoHli7RP86ITkNnWWm) | 2:44 | 2022-12-11 |  |
-| [All I Want for Christmas Is You](https://open.spotify.com/track/1xixLkAu4Q7fo7MGlxOp8B) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [All I Want for Christmas Is You](https://open.spotify.com/album/3uO3DabVkqTyf5fwlKobt1) | 3:11 | 2021-12-24 |  |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/1xixLkAu4Q7fo7MGlxOp8B) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [All I Want for Christmas Is You](https://open.spotify.com/album/3uO3DabVkqTyf5fwlKobt1) | 3:11 | 2021-12-24 | 2023-06-03 |
 | [All Things New \- Reimagined](https://open.spotify.com/track/7qrTWsRVx2ePwTpgZwnPbH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [All Things New \(Reimagined\)](https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX) | 4:49 | 2022-12-11 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-24 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 | 2021-12-24 |  |
@@ -91,6 +91,7 @@
 | [It's The Most Wonderful Time Of The Year \- Remastered 2007](https://open.spotify.com/track/2eqBIB27ZWL0uBRL26nRWc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 2:26 | 2021-12-24 |  |
 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 | 2021-12-24 |  |
 | [Jingle Bells](https://open.spotify.com/track/2kvXnUbRUnHS5195eyQp4a) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 1:49 | 2021-12-24 |  |
+| [Jingle Bells](https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:18 | 2022-12-11 |  |
 | [Joy \(Reason\)](https://open.spotify.com/track/7gi3pO2547Ni25n1zhmmBV) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\)](https://open.spotify.com/album/5LO2nnb6oTfOhqnD9MQ9Tq) | 2:21 | 2022-12-11 |  |
 | [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-24 |  |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2022-12-11 | 2023-03-27 |

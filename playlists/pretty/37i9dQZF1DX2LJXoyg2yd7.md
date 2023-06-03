@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,438 likes - 40 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,453 likes - 40 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 |
 | 2 | [يا سمار](https://open.spotify.com/track/4mhpimRVGZjXMpuaHYBiMO) | [Aseel Abu Baker](https://open.spotify.com/artist/3IaW9Q8ws0dqIRKaoBDUdf) | [جلسات وناسه 2017 الجزء 1](https://open.spotify.com/album/4vIvxdCMizMjxlJIXXj2Wk) | 6:39 |
 | 3 | [Lahalak](https://open.spotify.com/track/0jyG4EPccAzfS2W7O57fMX) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Lahalak](https://open.spotify.com/album/6as7cTm2oCcI3T7QkmIms3) | 4:15 |
-| 4 | [Sawfa Ahlam](https://open.spotify.com/track/6ajFglvGicQnC7xw09bdb2) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Sawfa Ahlam](https://open.spotify.com/album/28TnLPv0nvekrLjGtKEdvq) | 3:45 |
-| 5 | [Taala Tchouf](https://open.spotify.com/track/731LjelTIltWq8kn6Y9NEE) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Taala Tchouf](https://open.spotify.com/album/7sAKt9Hj3OAX5ObTbQ3Ee1) | 3:20 |
+| 4 | [Taala Tchouf](https://open.spotify.com/track/731LjelTIltWq8kn6Y9NEE) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Taala Tchouf](https://open.spotify.com/album/7sAKt9Hj3OAX5ObTbQ3Ee1) | 3:20 |
+| 5 | [Sawfa Ahlam](https://open.spotify.com/track/6ajFglvGicQnC7xw09bdb2) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Sawfa Ahlam](https://open.spotify.com/album/28TnLPv0nvekrLjGtKEdvq) | 3:45 |
 | 6 | [Tears \(feat\. Zack Knight\)](https://open.spotify.com/track/2ZpgdNm5FvRSUqcZL4F6wT) | [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq), [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Chapter II](https://open.spotify.com/album/6slvPQlMObiWOQSWMDJTvt) | 3:07 |
 | 7 | [بلوه غيابك](https://open.spotify.com/track/5CybAyYO0JLjG9ktPu6Qyz) | [Assala Al Magdi](https://open.spotify.com/artist/2XgvQrmZg5VEjdrdBcmuDf) | [بلوه غيابك](https://open.spotify.com/album/5YReE1g3DLq3hSCEzr6FmZ) | 2:46 |
 | 8 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 33 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
 | 34 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 35 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
-| 36 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
+| 36 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
 | 37 | [Fgadt Al Thakira](https://open.spotify.com/track/12gqeV9CVUq2VSRmTlzryV) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fgadt Al Thakira](https://open.spotify.com/album/3mHIufFOqkE6A6FpTltUbj) | 3:26 |
 | 38 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
-| 39 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 |
+| 39 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
 | 40 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
 
-Snapshot ID: `MCxkYWFjMzRjMDc0NzA4MDg5ZWNkYjEyYzQ2ZWZhZjI4NTBhOGM3ZGZk`
+Snapshot ID: `MCxmNjA3YjQ0NGVmMjA3OTlhZWQ5MTZhYjU3ODcxOTUyZDk2ODBjM2Mw`

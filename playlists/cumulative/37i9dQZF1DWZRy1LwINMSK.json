@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "King Fly",
+          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
+    },
+    {
+      "album": {
         "name": "Ando en Un Makinon",
         "url": "https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC"
       },
@@ -2440,6 +2462,32 @@
       "duration_ms": 149000,
       "name": "Ring",
       "url": "https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh"
+    },
+    {
+      "album": {
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Benjita Montana",
+          "url": "https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Seguimo Joseando",
+      "url": "https://open.spotify.com/track/2O93dCBtMfEwSGcTUsE1FR"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: Papatinho, Luísa Sonza, DJ Biel do Furduncinho
+> Os grandes hits do momento estão aqui! Foto: Anitta
 
 174 songs - 8 hr 29 min
 

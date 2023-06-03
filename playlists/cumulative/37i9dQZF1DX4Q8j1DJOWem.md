@@ -2,9 +2,9 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: wish.
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: PUN
 
-98 songs - 6 hr 9 min
+100 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,21 +20,23 @@
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 |  |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 |  |
 | [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 | 2023-05-09 |
+| [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2023-06-02 |  |
 | [Please](https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:45 | 2022-09-15 |  |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-04-13 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 |  |
 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 | 2022-11-23 | 2023-04-14 |
 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 | 2023-05-12 |  |
 | [Tutor](https://open.spotify.com/track/7GHMIJwlFDaThr47NYwnQ9) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Tutor](https://open.spotify.com/album/0wGByPiO4hAEj7n6FtAB1e) | 2:58 | 2022-11-23 | 2023-01-11 |
-| [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-04-13 |  |
+| [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-04-13 | 2023-06-03 |
 | [While We’re Young](https://open.spotify.com/track/4XU7XpYsuIkfRDDrvAP0a4) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [While We’re Young](https://open.spotify.com/album/0LwBRRXyiACQX7ykl1mTbc) | 3:24 | 2023-01-10 |  |
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-15 | 2023-04-14 |
-| [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-13 |  |
+| [YEAH](https://open.spotify.com/track/64lp69KnGmOUNnu9EaRTTI) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [YEAH](https://open.spotify.com/album/6Si3b37FOS0251tjPO3hB5) | 3:27 | 2023-04-13 | 2023-06-03 |
 | [You with me \(My number 8\)](https://open.spotify.com/track/5NQWyXEaPMBkMb52TRiSpD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [You with me \(My number 8\)](https://open.spotify.com/album/5ozK57yl5oa3xi435lGuVf) | 3:46 | 2022-09-15 | 2022-09-24 |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-09-15 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 | 2022-10-12 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 | 2022-10-14 |
 | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/track/5GIeJzSwYL4WOi1QcPrNUY) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ขอโทษที่เข้าไปเป็นเรื่องไม่ดีในชีวิตเธอ \(sunflower\)](https://open.spotify.com/album/1pqLqz2cxsWzCv6iz5DE23) | 3:44 | 2022-09-15 | 2022-11-24 |
+| [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/track/3H4DCQTrmNbmAXHTb8ndgS) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ขอให้ความเสียใจฉันหายไปกับฝน](https://open.spotify.com/album/4OHYdOHu4n0h8LY7zWyLyK) | 4:55 | 2023-06-02 |  |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/1rJZTErhdRMtm2uhfFrCSS) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/1QroYykGyo3LaEr4nCAZyv) | 4:36 | 2022-10-12 | 2022-11-24 |
 | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/track/20r8bPumn1cybDcUEh2NPZ) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [ขอให้โลกนี้ใจดีกับเธอ](https://open.spotify.com/album/0seiTcv2UsvQsUuTuK6ia4) | 4:36 | 2022-09-15 | 2022-10-14 |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-09-15 |  |

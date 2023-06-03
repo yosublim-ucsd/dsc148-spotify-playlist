@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 170989,
+  "num_followers": 171106,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGEzYmVjODgyYzEzNjYyMmUzNTk5NWZjYjU1YWU0ZTUwNGI3NTJj",
+  "snapshot_id": "MCw3Mzc4OGI0YWViNTcyMzE3ZjgxZDYzODMwM2MyMDhmYzMxZmY4YzVi",
   "tracks": [
     {
       "added_at": "2023-06-01 22:00:00",
@@ -132,7 +132,7 @@
       "added_at": "2023-06-01 22:00:00",
       "album": {
         "name": "Doin Ya Thang",
-        "url": "https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2"
+        "url": "https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI"
       },
       "artists": [
         {
@@ -142,7 +142,7 @@
       ],
       "duration_ms": 415417,
       "name": "Doin Ya Thang",
-      "url": "https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X"
+      "url": "https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "pass on over",
         "url": "https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 157176,
       "name": "pass on over",
       "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "One of Those Nights",
         "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
       },
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+        "name": "Black Moses",
+        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+      "duration_ms": 223102,
+      "name": "Sexy Black Timberlake",
+      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Black Moses",
-        "url": "https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do"
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 223102,
-      "name": "Sexy Black Timberlake",
-      "url": "https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "ATK",
-        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 245208,
-      "name": "ATK",
-      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
+      "duration_ms": 295230,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
+        "name": "ATK",
+        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
       },
       "artists": [
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 295230,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+      "duration_ms": 245208,
+      "name": "ATK",
+      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "In2u",
         "url": "https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 201649,
       "name": "In2u",
       "url": "https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "Crave You (Hush Hush Bootleg)",
         "url": "https://open.spotify.com/album/5nG8aFW3BVsXFg8w9oPHE4"
       },
@@ -1663,18 +1643,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "JOY (Easy To Improve)",
-        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
         }
       ],
-      "duration_ms": 206892,
-      "name": "JOY (Easy To Improve)",
-      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
+        "name": "JOY (Easy To Improve)",
+        "url": "https://open.spotify.com/album/0EyTC7SBuLcfjIq4jaURtH"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 206892,
+      "name": "JOY (Easy To Improve)",
+      "url": "https://open.spotify.com/track/2KA0StmQGMIQxf1rCqKB3D"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
         "name": "Talisman",
         "url": "https://open.spotify.com/album/23tjnSTxUQS4e65ITVH2c9"
       },
@@ -1707,26 +1707,6 @@
       "duration_ms": 225482,
       "name": "Olele",
       "url": "https://open.spotify.com/track/5pNv1gzuSFrNbc49zJKVfl"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Your Love (After Dark Remix)",
-        "url": "https://open.spotify.com/album/5kOCoiurM7vrGSRAGIT1Dv"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Your Love - After Dark Remix",
-      "url": "https://open.spotify.com/track/0mofRY35dqIZBdexSEjTfq"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1747,6 +1727,26 @@
       "duration_ms": 232000,
       "name": "Follow the Loop",
       "url": "https://open.spotify.com/track/1kU0GLegMoRFeDQQGHtKAY"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "Your Love (After Dark Remix)",
+        "url": "https://open.spotify.com/album/5kOCoiurM7vrGSRAGIT1Dv"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "Your Love - After Dark Remix",
+      "url": "https://open.spotify.com/track/0mofRY35dqIZBdexSEjTfq"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "MY DEAR",
-        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 343332,
-      "name": "Blissda",
-      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "The Girl Next Door",
         "url": "https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 348387,
       "name": "The Girl Next Door",
       "url": "https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "MY DEAR",
+        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
     },
     {
       "added_at": "2023-06-01 22:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-06-01 22:00:00",
       "album": {
-        "name": "A Little Shy",
-        "url": "https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p"
-      },
-      "artists": [
-        {
-          "name": "Marie Noreger",
-          "url": "https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47"
-        },
-        {
-          "name": "Nedja",
-          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
-        }
-      ],
-      "duration_ms": 184655,
-      "name": "A Little Shy",
-      "url": "https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
         "name": "i just wanna be here (M\u00d2Z\u00c2MB\u00ceQ\u00daE Remix)",
         "url": "https://open.spotify.com/album/1nlI8ACkPhvXAS7t61wJZn"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 231428,
       "name": "i just wanna be here (M\u00d2Z\u00c2MB\u00ceQ\u00daE Remix)",
       "url": "https://open.spotify.com/track/1llQmVTyLJ9f0o1Q1h0Wxj"
+    },
+    {
+      "added_at": "2023-06-01 22:00:00",
+      "album": {
+        "name": "A Little Shy",
+        "url": "https://open.spotify.com/album/2dNork8HpZUKdssmrjyQ5p"
+      },
+      "artists": [
+        {
+          "name": "Marie Noreger",
+          "url": "https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47"
+        },
+        {
+          "name": "Nedja",
+          "url": "https://open.spotify.com/artist/0wEePcQsNMthoKEoNSMBIN"
+        }
+      ],
+      "duration_ms": 184655,
+      "name": "A Little Shy",
+      "url": "https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx"
     }
   ],
   "unique_name": "Umami",

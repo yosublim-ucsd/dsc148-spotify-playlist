@@ -1,28 +1,52 @@
 {
-  "description": "Strictly for the streets. Cover: Moneybagg Yo",
-  "num_followers": 1172103,
+  "description": "Strictly for the streets. Cover: Kodak Black",
+  "num_followers": 1172341,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzczZWFiNWFjOWZkZGUxZjVlN2IyYzZlOGE3MzUzOWM2YzMyODc1",
+  "snapshot_id": "MCw2MTI1MTgwNDc0NjllMDMzZjRlMWQ0MzAzMTk2MjJhMTJlYTY5ODc3",
   "tracks": [
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Ocean Spray",
-        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+        "name": "Keep It Low (feat. Future)",
+        "url": "https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 164776,
-      "name": "Ocean Spray",
-      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
+      "duration_ms": 142451,
+      "name": "Keep It Low (feat. Future)",
+      "url": "https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -43,6 +67,22 @@
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Gunsmoke Town",
+      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -77,26 +117,6 @@
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160202,
-      "name": "War Bout It (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Glockoma 2",
@@ -111,6 +131,22 @@
       "duration_ms": 151080,
       "name": "Chromosomes",
       "url": "https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Ocean Spray",
+        "url": "https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Ocean Spray",
+      "url": "https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -133,20 +169,28 @@
       "url": "https://open.spotify.com/track/2JNaqjOm7jHePMdr6WIadg"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Pistolz & Pearlz",
-        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+        "name": "I Can't Lie (with Kodak Black) [Versions]",
+        "url": "https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR"
       },
       "artists": [
         {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Gunsmoke Town",
-      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+      "duration_ms": 186453,
+      "name": "I Can't Lie (with Kodak Black)",
+      "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
     },
     {
       "added_at": "2023-05-05 17:48:54",
@@ -197,6 +241,62 @@
       "url": "https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "NAUJOUR",
+        "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Pull Up (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Neck of the Woods",
+        "url": "https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 129570,
+      "name": "Neck of the Woods",
+      "url": "https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160202,
+      "name": "War Bout It (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "I'm Geekin (feat. Luh Tyler)",
@@ -217,22 +317,6 @@
       "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Hot Boy (feat. Lil Baby)",
@@ -251,6 +335,22 @@
       "duration_ms": 169893,
       "name": "Hot Boy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "10 Percent",
+        "url": "https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "10 Percent",
+      "url": "https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -329,6 +429,26 @@
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
+      },
+      "artists": [
+        {
+          "name": "PGF Nuk",
+          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188785,
+      "name": "Bounce (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4ocLhkIQGW9d0APE5vsOEi"
+    },
+    {
       "added_at": "2023-04-01 01:33:02",
       "album": {
         "name": "Speak Up G (Deluxe)",
@@ -401,6 +521,22 @@
       "url": "https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Supafly (feat. BigXthaPlug / FAST X Soundtrack)",
@@ -449,22 +585,6 @@
       "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Put It On Da Floor",
-        "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 181437,
-      "name": "Put It On Da Floor",
-      "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "All My Life (feat. J. Cole)",
@@ -483,26 +603,6 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "After The Curse",
-        "url": "https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170701,
-      "name": "Ain't On None (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1249,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Ass Kickin'",
-        "url": "https://open.spotify.com/album/7xDQYORtibCfUwIFLwtCJh"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 117794,
-      "name": "Ass Kickin'",
-      "url": "https://open.spotify.com/track/5hq7feH89FieadyB13oo5p"
-    },
-    {
       "added_at": "2023-05-05 17:48:54",
       "album": {
         "name": "InstaKill",
@@ -1373,46 +1457,6 @@
       "url": "https://open.spotify.com/track/4tiKQGqkoVmvshWNFDvFxG"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Come Eat Wit Us",
-        "url": "https://open.spotify.com/album/53AbV3G4ntie0a4dBg7oUy"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Come Eat Wit Us",
-      "url": "https://open.spotify.com/track/32KUTMzHo7G8Yx80enCYue"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Face No Book (feat. Blueface)",
-        "url": "https://open.spotify.com/album/1TdBT0hUVIL6wAUmzpAU4g"
-      },
-      "artists": [
-        {
-          "name": "Heembeezy",
-          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
-        },
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Face No Book (feat. Blueface)",
-      "url": "https://open.spotify.com/track/5I6NiyOCQj489SPsP6tWxF"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Web Life 4",
@@ -1471,26 +1515,6 @@
       "duration_ms": 146285,
       "name": "Max Payne",
       "url": "https://open.spotify.com/track/5dcE2jamWIMursVBqVARSw"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Bank Appointment",
-        "url": "https://open.spotify.com/album/7KscDRhoL85Uci4y12Wl4t"
-      },
-      "artists": [
-        {
-          "name": "Blac Youngsta",
-          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 179631,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/69BD6r8XVw0qQEr2N9mj3Y"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1611,22 +1635,6 @@
       "duration_ms": 219480,
       "name": "Brussel Sprout",
       "url": "https://open.spotify.com/track/4F5hW330E7Db11lAfFF4Kh"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Primetime",
-        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1819,22 +1827,6 @@
       "duration_ms": 106666,
       "name": "Out of State",
       "url": "https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "MO UP FRONT",
-        "url": "https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "MO UP FRONT",
-      "url": "https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36"
     }
   ],
   "unique_name": "Out The Mud",

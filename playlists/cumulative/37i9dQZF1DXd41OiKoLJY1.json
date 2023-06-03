@@ -19575,6 +19575,24 @@
     },
     {
       "album": {
+        "name": "Sindi",
+        "url": "https://open.spotify.com/album/0UGjNSwSIA2HHumuCBnqwV"
+      },
+      "artists": [
+        {
+          "name": "Arvien",
+          "url": "https://open.spotify.com/artist/79Nz2Qrqv3s49MoCBCBX2o"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Sindi",
+      "url": "https://open.spotify.com/track/37xkVt6LDjHOy2Ty0NLHIt"
+    },
+    {
+      "album": {
         "name": "GENE:ZIIZ",
         "url": "https://open.spotify.com/album/6pMWTpXNMQHwwEc5wuGas8"
       },

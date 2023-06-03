@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-72 songs - 5 hr 25 min
+73 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-01-15 |  |
 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 | 2021-01-15 |  |
 | [Groove Thang](https://open.spotify.com/track/7LpTPlYiVnDnV5BwVYJB0U) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Groove Thang](https://open.spotify.com/album/5b4Pc4tgG9o0Lu2uStwsHz) | 3:36 | 2021-01-15 | 2022-06-30 |
-| [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 | 2021-01-15 |  |
+| [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 | 2021-01-15 |  |
+| [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 | 2021-01-15 | 2023-06-03 |
 | [How Deep Is Your Love](https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:17 | 2021-01-15 |  |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2fdv8or6lmHe5KLTUvaJCD) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Motown and Motown II](https://open.spotify.com/album/6ltXFtJichkres50eobH84) | 5:19 | 2021-01-15 | 2022-07-29 |
 | [I Love You More Than You'll Ever Know](https://open.spotify.com/track/5JEju6tjLsd0qbiWfGxAky) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/4KX3bkP8l9X04DmkbDeazR) | 6:30 | 2021-01-15 | 2022-07-28 |

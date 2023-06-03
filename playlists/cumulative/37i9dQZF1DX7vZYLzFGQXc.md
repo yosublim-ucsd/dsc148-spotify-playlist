@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent & rising talents are here\. \(Cover: jisokuryClub\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
+> Fresh new Korean independent & rising talents are here\. \(Cover: umu\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
 1,081 songs - 2 day 13 hr 5 min
 

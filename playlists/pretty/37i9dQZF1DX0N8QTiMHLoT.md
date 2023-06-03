@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,057 likes - 82 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,102 likes - 82 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 2 | [Sands Of Time](https://open.spotify.com/track/4i3jOeue9K8kh73ZXW7All) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Sands Of Time](https://open.spotify.com/album/0mLsY0d1yTovXfhEAWqwAi) | 2:07 |
 | 3 | [The Bassment \(feat\. George Duke\)](https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Just Feelin' It](https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l) | 5:55 |
 | 4 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 |
-| 5 | [James Jamerson Used One Finger](https://open.spotify.com/track/3D7X8KHEEboPLnKFSjzbEE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 3:37 |
+| 5 | [James Jamerson Used One Finger](https://open.spotify.com/track/0bCJRZ59VMsaQWQxHZXh4C) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 3:37 |
 | 6 | [Funky D](https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 5:44 |
 | 7 | [Power](https://open.spotify.com/track/2TjhxE2g7tacYHR2egp8wt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M²](https://open.spotify.com/album/4cJcbnFhiWWZmrqdlsRV5W) | 4:35 |
 | 8 | [What You Won't Do for Love](https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [What Did He Say? \(Remastered\)](https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D) | 4:42 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 81 | [Symmetry](https://open.spotify.com/track/1BC1Zv4tJ0FUcc7dSYgPIs) | [Nathan Navarro](https://open.spotify.com/artist/3QvzE5pxVPhkCBGrUdefmQ) | [Myriads Rise](https://open.spotify.com/album/2xnkw4h4ttVNm2JSRNfe7X) | 2:49 |
 | 82 | [Twilight \- Radio Edit](https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Twilight](https://open.spotify.com/album/5o1AgueoytBvJOnvd62Gi3) | 4:24 |
 
-Snapshot ID: `MCw1NmI1YmI1YWQzNTlmYjEwMDY4ZmUxYjUxZGRhZTU0MDZmZjg3MTdh`
+Snapshot ID: `MCwxZGE3NDdiMjRmZmMzZjA1YTA2N2M4NjI0NmIwNDIxN2QyYzgxZTU1`

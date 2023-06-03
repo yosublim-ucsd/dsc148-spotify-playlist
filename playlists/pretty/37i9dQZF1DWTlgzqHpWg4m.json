@@ -1,12 +1,12 @@
 {
   "description": "welcome to the Golden State.",
-  "num_followers": 807385,
+  "num_followers": 807496,
   "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjUwOWQwYzI2Y2IwNjExOGVmZDliNmVjYzhiZGVlNzU4YmM3ZjNk",
+  "snapshot_id": "MCw0YjJmNjU3YjA1NjI5ZjQxYjMwYWRhNTVkYzNmZjg2NWQ2YjhmODNl",
   "tracks": [
     {
       "added_at": "2023-02-24 05:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-24 05:01:00",
       "album": {
-        "name": "She Wants Revenge",
-        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
-      },
-      "artists": [
-        {
-          "name": "She Wants Revenge",
-          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
-        }
-      ],
-      "duration_ms": 284613,
-      "name": "Tear You Apart",
-      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
         "name": "...Like Clockwork",
         "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 235586,
       "name": "I Sat by the Ocean",
       "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "She Wants Revenge",
+        "url": "https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR"
+      },
+      "artists": [
+        {
+          "name": "She Wants Revenge",
+          "url": "https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt"
+        }
+      ],
+      "duration_ms": 284613,
+      "name": "Tear You Apart",
+      "url": "https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9"
     },
     {
       "added_at": "2023-02-24 05:01:00",

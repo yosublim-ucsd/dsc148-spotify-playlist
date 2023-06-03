@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: AB6IX
 
-808 songs - 1 day 20 hr 47 min
+809 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,6 +599,7 @@
 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-11-27 | 2022-01-04 |
 | [Satellite](https://open.spotify.com/track/7iD5HEWfQuOS9iC6IaNwu7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Satellite](https://open.spotify.com/album/1l6LyCeXhE2eyAqHIk73Sj) | 3:44 | 2022-02-17 | 2022-04-18 |
 | [Save](https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Save](https://open.spotify.com/album/7HrXypd91EpZ4QswijHnhQ) | 3:21 | 2021-06-08 | 2021-08-05 |
+| [Save me, Kill me](https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 6th EP Album 'OK' Episode 2 : I'm OK](https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02) | 3:37 | 2023-06-02 |  |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-18 | 2022-07-09 |
 | [Savior](https://open.spotify.com/track/4AfQOvbsAltnzGVziGmRqn) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Savior](https://open.spotify.com/album/4ZFRAcSLdsAGSgyrHB31KH) | 3:10 | 2022-01-03 | 2022-02-18 |
 | [SAY MY NAME](https://open.spotify.com/track/2bqJlYb6t4lXKGB4Xd4TjK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:25 | 2020-10-13\* | 2021-01-18 |

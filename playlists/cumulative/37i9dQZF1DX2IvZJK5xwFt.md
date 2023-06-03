@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-372 songs - 23 hr 35 min
+374 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd) | 3:49 | 2023-04-13 |  |
 | [Charcoal](https://open.spotify.com/track/5T5u6OqOiGwk0M7pLi4Yaz) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [TAN](https://open.spotify.com/album/5CaUwC3aR3rdy325CtWPLH) | 5:14 | 2022-05-06 | 2022-09-09 |
 | [Chasing Kites](https://open.spotify.com/track/0oK8bEVLkPPUvN3IIbxB6b) | [PARTYOFØNE](https://open.spotify.com/artist/3bb8SEudKsfPJOU3PMBXut) | [Chasing Kites](https://open.spotify.com/album/06e1MSR7uMU1RAqdNHKDmh) | 2:35 | 2022-05-06 | 2022-08-12 |
+| [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 | 2023-06-01 |  |
 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Classless Act \(feat\. Vince Neil of Mötley Crüe\)](https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv) | 3:14 | 2022-05-19 | 2022-06-10 |
 | [Comatose](https://open.spotify.com/track/78NXFhK5TfE7MCbdUHPu3i) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Comatose](https://open.spotify.com/album/4ewoGU67cjp00afCZRjRiY) | 3:10 | 2022-05-19 | 2022-06-03 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-05-06 | 2022-07-14 |
@@ -353,6 +354,7 @@
 | [Vacation \(feat\. Train\)](https://open.spotify.com/track/1vBRiaOSTr7IJlAeky4JX3) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Vacation \(feat\. Train\)](https://open.spotify.com/album/7FXwebLa343kucZmU9WVW0) | 3:32 | 2022-05-06 | 2022-05-20 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 |  |
 | [Vault of Heaven](https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Vault of Heaven](https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe) | 3:59 | 2022-08-11 | 2023-01-17 |
+| [Vengeance // 直衝地獄](https://open.spotify.com/track/2doqzJTVdH9nNuesRwNXKY) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/0ZJJtdrebVOdx8yKeAZogM) | [Vengeance // 直衝地獄](https://open.spotify.com/album/5GUJQEU9GZ7Hv6B9XbCEF1) | 4:08 | 2023-06-01 |  |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-02 | 2022-06-17 |
 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 | 2022-08-18 | 2023-02-03 |
 | [Wake Up](https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Wake Up](https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9) | 3:36 | 2022-06-16 | 2022-09-23 |

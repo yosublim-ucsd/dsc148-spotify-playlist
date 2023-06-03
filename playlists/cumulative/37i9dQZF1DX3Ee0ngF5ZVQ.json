@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: William Beckmann",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 196507,
       "name": "Been Better",
       "url": "https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183030,
       "name": "Damn This Heart Of Mine",
       "url": "https://open.spotify.com/track/09CO5s80NyjQvE9RiBYdD1"
@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/37VgoIQVRWyv5QvFbJp7MR"
+      },
+      "artists": [
+        {
+          "name": "Rich O'Toole",
+          "url": "https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/44TnVDwCDBGbEehNSWyW3z"
+    },
+    {
+      "album": {
         "name": "Free Man",
         "url": "https://open.spotify.com/album/7k5gdTDJnY0xPozkMyHHJ3"
       },
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 191777,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
@@ -5984,7 +6002,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 190726,
       "name": "Six Pack State of Mind",
       "url": "https://open.spotify.com/track/6ZkE2BsDMMVLUDOH8PiEzD"
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 243000,
       "name": "Southern Land",
       "url": "https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ"
@@ -7446,7 +7464,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 195040,
       "name": "Valentine, For Valentines",
       "url": "https://open.spotify.com/track/22Z7wPXNDT6Vr1Gvhfa3k1"
@@ -7634,6 +7652,28 @@
       "duration_ms": 260320,
       "name": "Wave Dancer",
       "url": "https://open.spotify.com/track/6CtAD61FXXrVBxa6ZpckHt"
+    },
+    {
+      "album": {
+        "name": "We Ain't The Only Ones",
+        "url": "https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "We Ain't The Only Ones",
+      "url": "https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt"
     },
     {
       "album": {

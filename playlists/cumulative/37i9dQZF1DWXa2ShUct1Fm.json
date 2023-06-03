@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Power of Love",
+        "url": "https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230813,
+      "name": "Power of Love",
+      "url": "https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
         "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
       },
@@ -3046,24 +3064,6 @@
       "duration_ms": 194971,
       "name": "YOSM (feat. Woozi)",
       "url": "https://open.spotify.com/track/3euYNE8OgAMAy6caUKOUeL"
-    },
-    {
-      "album": {
-        "name": "\u3042\u3044\u306e\u3061\u304b\u3089",
-        "url": "https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "date_added": "2022-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 230813,
-      "name": "\u3042\u3044\u306e\u3061\u304b\u3089",
-      "url": "https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F"
     },
     {
       "album": {

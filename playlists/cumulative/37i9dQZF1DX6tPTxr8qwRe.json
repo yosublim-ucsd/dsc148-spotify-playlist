@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Emei",
+  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
   "name": "SALT",
   "tracks": [
     {
@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "EXPECTATIONS",
+        "url": "https://open.spotify.com/album/4JVdNocE2EKTKdAHpc3wed"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "EXPECTATIONS",
+      "url": "https://open.spotify.com/track/5iZNagyVCvgTBRlxhvvyfD"
+    },
+    {
+      "album": {
         "name": "Expiration Date",
         "url": "https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp"
       },
@@ -2404,6 +2422,24 @@
       "duration_ms": 167248,
       "name": "FU In My Head",
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "album": {
+        "name": "Unthinkable",
+        "url": "https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/6BGtSuLFU0X35Igkftxqfr"
     },
     {
       "album": {
@@ -3006,6 +3042,24 @@
       "duration_ms": 186277,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2"
+    },
+    {
+      "album": {
+        "name": "Haunt Your Dreams",
+        "url": "https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171454,
+      "name": "Haunt Your Dreams",
+      "url": "https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW"
     },
     {
       "album": {
@@ -4786,7 +4840,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 136545,
       "name": "PainHub",
       "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
@@ -4870,6 +4924,24 @@
       "duration_ms": 176386,
       "name": "PAYRI$E",
       "url": "https://open.spotify.com/track/5oihHH2Lw051Y0mFWz7fMM"
+    },
+    {
+      "album": {
+        "name": "perfect communicators",
+        "url": "https://open.spotify.com/album/6AY0N5mt3Uq40cbmRW3eua"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "perfect communicators",
+      "url": "https://open.spotify.com/track/0J30WAjo9JNAhVXHGqRS7R"
     },
     {
       "album": {
@@ -5040,6 +5112,24 @@
       "duration_ms": 152626,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Addict",
+        "url": "https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8"
+      },
+      "artists": [
+        {
+          "name": "Haiden",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167728,
+      "name": "Pretty Little Addict",
+      "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
     },
     {
       "album": {
@@ -5520,6 +5610,28 @@
       "duration_ms": 214411,
       "name": "See You In My Dreams",
       "url": "https://open.spotify.com/track/5yqsHTPNMjiZP8LO7ZgnDY"
+    },
+    {
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
     },
     {
       "album": {
@@ -6776,7 +6888,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 134270,
       "name": "UR SO FULL OF IT",
       "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
@@ -7360,7 +7472,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 181889,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"

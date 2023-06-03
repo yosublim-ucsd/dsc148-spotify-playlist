@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Jubin Nautiyal",
+  "description": "New music from popular Hindi artists. Cover- Badshah",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 246393,
       "name": "Andhere Mein",
       "url": "https://open.spotify.com/track/2wJxH0lKLTXwtOtjoH4qLx"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 213999,
       "name": "Awaara",
       "url": "https://open.spotify.com/track/6RPZe2vOtlPHd0jAvjiqrm"
@@ -4219,6 +4219,28 @@
     },
     {
       "album": {
+        "name": "Issa Vibe (From \"Bloody Daddy\")",
+        "url": "https://open.spotify.com/album/7DGKbA1EoSICnyUhorwxDF"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147613,
+      "name": "Issa Vibe (From \"Bloody Daddy\")",
+      "url": "https://open.spotify.com/track/5hhBvvpp7zyZiS2fuQgEa4"
+    },
+    {
+      "album": {
         "name": "Itna Pyaar Karunga",
         "url": "https://open.spotify.com/album/28yv7NXHBtQaesoud2b7Ua"
       },
@@ -5317,6 +5339,32 @@
     },
     {
       "album": {
+        "name": "Keh Do (Turn The Lights On)",
+        "url": "https://open.spotify.com/album/6Wz0NDeDH59dBZNEvduyLb"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Pawandeep Rajan",
+          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
+        },
+        {
+          "name": "Arunita Kanjilal",
+          "url": "https://open.spotify.com/artist/6NCmkdQ1Sb78SJ3ckJ9LjV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230816,
+      "name": "Keh Do (Turn The Lights On)",
+      "url": "https://open.spotify.com/track/0ZRCeT3w3kIxpYcnxFwDBu"
+    },
+    {
+      "album": {
         "name": "Kehne Do",
         "url": "https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61"
       },
@@ -6010,6 +6058,24 @@
     {
       "album": {
         "name": "Kyun",
+        "url": "https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146430,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7"
+    },
+    {
+      "album": {
+        "name": "Kyun",
         "url": "https://open.spotify.com/album/774KXkBhlv14mwbWbraCcS"
       },
       "artists": [
@@ -6024,6 +6090,24 @@
       "duration_ms": 157714,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/6dojrojvZ0DXlTBp592XvY"
+    },
+    {
+      "album": {
+        "name": "KYUN",
+        "url": "https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Slathia",
+          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236202,
+      "name": "KYUN",
+      "url": "https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz"
     },
     {
       "album": {
@@ -6278,7 +6362,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 207049,
       "name": "MAAHII",
       "url": "https://open.spotify.com/track/3vvqNSRJC06t6TZZR4dmXp"
@@ -6344,7 +6428,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237241,
       "name": "Mai Tumse Milne Aaunga",
       "url": "https://open.spotify.com/track/44rv7zup4FcU3Rk9MwAdN2"
@@ -8056,7 +8140,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 199756,
       "name": "Pehli Nazar Ko Salaam",
       "url": "https://open.spotify.com/track/3Tx0ZYnww0VfXx2DDYpjvQ"
@@ -8712,7 +8796,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197714,
       "name": "Sab Gazab",
       "url": "https://open.spotify.com/track/3FENAggAv5QMHDQsjsPaeW"
@@ -9655,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Tere Alawa",
+        "url": "https://open.spotify.com/album/0lYMAw7uJvfYfq7E9pOhUQ"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266181,
+      "name": "Tere Alawa",
+      "url": "https://open.spotify.com/track/3iYDi6QpDQ9qy7zgVPVfXS"
+    },
+    {
+      "album": {
         "name": "Tere Baare Mein",
         "url": "https://open.spotify.com/album/7ke5D2jRRyxqftKzofXVIE"
       },
@@ -10026,6 +10128,24 @@
       "duration_ms": 229629,
       "name": "Thodi Thodi",
       "url": "https://open.spotify.com/track/3frZxnvydmc4b8HCeqKGW8"
+    },
+    {
+      "album": {
+        "name": "Tinka",
+        "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Tinka",
+      "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
     },
     {
       "album": {

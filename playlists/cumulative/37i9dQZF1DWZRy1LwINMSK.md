@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: AKRIILA.
 
-152 songs - 8 hr 15 min
+154 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ahora Que Me Vio](https://open.spotify.com/track/7qtW7ghQS8u7asDZvFU2N0) | [Camiloskill](https://open.spotify.com/artist/11JWPmE5SJIzBWa7b9m0Mk) | [Ahora Que Me Vio](https://open.spotify.com/album/4i9JqslNuZDWGH3fMrtemE) | 3:54 | 2022-01-20 | 2022-05-28 |
 | [AIRDROP](https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [AWITA](https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe) | 3:01 | 2022-01-20 | 2022-05-28 |
 | [ALMIGHTY](https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ALMIGHTY](https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ) | 3:01 | 2023-03-28 |  |
+| [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-06-02 |  |
 | [Ando en Un Makinon](https://open.spotify.com/track/33SWIXYKpg0ZSwRQIVPu0S) | [Lil Geremi](https://open.spotify.com/artist/3nHsN7Leho58wo1RveLfzZ) | [Ando en Un Makinon](https://open.spotify.com/album/2AI7oCqG0otXcvTc5dKjBC) | 2:45 | 2022-01-20 |  |
 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 | 2022-07-22 |  |
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |
@@ -115,6 +116,7 @@
 | [Quienes Son](https://open.spotify.com/track/1BZLbcRroXQjhb3GaoYzeT) | [BMF Squad](https://open.spotify.com/artist/6NGIhWQNSCQv07Y3L8fRnE), [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3), [Jokker Liricis](https://open.spotify.com/artist/3JbY1w74XoDxWvJzhOtEFA), [Andrés Slater](https://open.spotify.com/artist/6F0XGx9f0asxjfG3WZj0nJ) | [Quienes Son](https://open.spotify.com/album/6ZoKBoMrztP3iffJPAwT0H) | 3:51 | 2022-01-20 | 2022-03-18 |
 | [RICO POBRE](https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [FINALMENTE RICO](https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk) | 3:06 | 2022-08-25 |  |
 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 | 2022-01-20 |  |
+| [Seguimo Joseando](https://open.spotify.com/track/2O93dCBtMfEwSGcTUsE1FR) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 3:03 | 2023-06-02 |  |
 | [Seguimo Joseando](https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [Seguimo Joseando](https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L) | 3:03 | 2022-12-23 |  |
 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 | 2022-01-20 |  |
 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 | 2023-02-24 |  |

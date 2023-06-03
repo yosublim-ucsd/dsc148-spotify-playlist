@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179583,
       "name": "Between the Floating Mist",
       "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 123507,
       "name": "Blood Harmony",
       "url": "https://open.spotify.com/track/4Q7jpvqIm7YldGYthCconW"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183004,
       "name": "Coming to Life",
       "url": "https://open.spotify.com/track/5qykZZrwFwvF1k68WzHXGx"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 171269,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM"
@@ -1698,6 +1698,24 @@
       "duration_ms": 168387,
       "name": "Escape Gravity",
       "url": "https://open.spotify.com/track/6sOKQOdwB7OrxHh4YmUYHK"
+    },
+    {
+      "album": {
+        "name": "Esoteric",
+        "url": "https://open.spotify.com/album/4HSJhq19oCN0NHVHZUrOb8"
+      },
+      "artists": [
+        {
+          "name": "Sirozza",
+          "url": "https://open.spotify.com/artist/5wGpeSaToESKYtSW5Is674"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163298,
+      "name": "Esoteric",
+      "url": "https://open.spotify.com/track/4vqWzfK3IIE0HwEbAtcUGk"
     },
     {
       "album": {
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 200187,
       "name": "Liquid Breath 46 - 494",
       "url": "https://open.spotify.com/track/14qQVSGcxvPJ5oclFIgKDb"
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 198000,
       "name": "The Lonely Mountain",
       "url": "https://open.spotify.com/track/79Yt5NGbPCEECa3rlpbOve"
@@ -6032,7 +6050,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158437,
       "name": "We Were Sitting In Stillness By The Sea",
       "url": "https://open.spotify.com/track/6URcvB1sPqXig3wiRGcTRX"

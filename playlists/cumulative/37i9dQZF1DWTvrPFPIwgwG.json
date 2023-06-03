@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 250950,
       "name": "Calma Meu Filho",
       "url": "https://open.spotify.com/track/5TcHJfpBbJn4aqWnN9ijg8"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 385135,
       "name": "Ele Veio",
       "url": "https://open.spotify.com/track/2VvkkHWKhEb8aNd5JdbgST"
@@ -948,6 +948,24 @@
       "duration_ms": 343799,
       "name": "Eu N\u00e3o Era Nada",
       "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "album": {
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 258019,
       "name": "O La\u00e7o Quebrou",
       "url": "https://open.spotify.com/track/62GyXwfo1upFdbx9MxonJh"
@@ -1980,6 +1998,24 @@
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
+    },
+    {
+      "album": {
+        "name": "Porto Seguro",
+        "url": "https://open.spotify.com/album/1nrrM8gk1SiXeqWMUnMSnk"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335620,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT"
     },
     {
       "album": {
@@ -2325,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Sou Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
+      },
+      "artists": [
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281812,
+      "name": "Sou Eu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
+    },
+    {
+      "album": {
         "name": "Sou Teu Deus",
         "url": "https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn"
       },
@@ -2463,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6fG4V5VUyu4uiAYHcGzeS1"
+      },
+      "artists": [
+        {
+          "name": "Thalita Roberta",
+          "url": "https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278571,
+      "name": "Tua Presen\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3opf9cUte5xtH40SgkbC00"
+    },
+    {
+      "album": {
         "name": "T\u00e1 Gerando",
         "url": "https://open.spotify.com/album/1JCK6ZfBDBSdnNHaaZqvqE"
       },
@@ -2478,7 +2550,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 274773,
       "name": "T\u00e1 Gerando",
       "url": "https://open.spotify.com/track/4TcWqpVdGk0myocOPiQQu8"

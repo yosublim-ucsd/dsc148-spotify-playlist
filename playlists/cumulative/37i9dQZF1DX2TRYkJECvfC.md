@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-382 songs - 1 day 10 hr 5 min
+383 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 | 2021-12-08 |  |
 | [Beat Cari](https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua) | 5:32 | 2021-12-08 | 2022-02-22 |
 | [Beautiful Nothing](https://open.spotify.com/track/2diSOKiCbQIslIZ8WsDCjI) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [Beautiful Nothing EP](https://open.spotify.com/album/0wCK3Fxrd3f7KhSeMNr1WT) | 3:28 | 2021-12-08 | 2022-07-29 |
+| [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 | 2023-05-26 |  |
 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 | 2021-12-08 | 2023-05-08 |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2023-05-30 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
@@ -114,7 +115,7 @@
 | [Flying Circles \- Original Mix](https://open.spotify.com/track/6Y2T0AmowuhVjMkopssmQY) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Flying Circles EP](https://open.spotify.com/album/0q8jwAjAe2kGkCI2HbvGLZ) | 6:50 | 2021-12-08 |  |
 | [Fogo](https://open.spotify.com/track/4HXpEQIUgWsrbe3Nj0yC3P) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Fogo](https://open.spotify.com/album/5RiBmX1WzUSo82aXmnCAmC) | 6:37 | 2023-02-17 |  |
 | [Follow The Dark](https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Follow The Dark \- Part I](https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU) | 4:06 | 2023-04-21 |  |
-| [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 |  |
+| [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 | 2023-06-03 |
 | [For Now](https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [For Now](https://open.spotify.com/album/7J4MlpzikCgbTSvjxUnD0q) | 3:52 | 2021-12-08 |  |
 | [Four Feet](https://open.spotify.com/track/2JebL9WaaUylWLns0SmVuU) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Blasphemy](https://open.spotify.com/album/4csl0WC7mxhBhab5nYfBnW) | 6:35 | 2021-12-08 | 2022-07-08 |
 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 | 2023-02-14 |  |

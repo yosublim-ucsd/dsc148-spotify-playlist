@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 131255,
+  "num_followers": 131354,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGUxNGU3YjkzZTY2MDc1MjJmMTlhNTdlODg4YjJiOWZkZGZhOWM0",
+  "snapshot_id": "MCxiYmQzM2U4MTM2M2ZmMDgyNzIyYTgzODNkNTQ5OTBiODkyMmUwZmVi",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Endorphine",
+        "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
+      },
+      "artists": [
+        {
+          "name": "TheDoDo",
+          "url": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Endorphine",
-        "url": "https://open.spotify.com/album/6NXTCMg4iFotpfmxp7Cf8S"
-      },
-      "artists": [
-        {
-          "name": "TheDoDo",
-          "url": "https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "Endorphine",
-      "url": "https://open.spotify.com/track/7uuE9r7VhxFm4YuxAHlD4K"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/12iBtAekYoxhmY9n8AYdu6"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 284546,
       "name": "Das Beste",
       "url": "https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2023-03-06 08:21:00",

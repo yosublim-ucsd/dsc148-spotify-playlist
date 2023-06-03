@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 156995,
+  "num_followers": 157116,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTA3ZjhiNjM2MWIzMzRmNTYwMDJkNzM0MjhiZDJiYzA1MDM5NWYz",
+  "snapshot_id": "MCwyYTFmOTY5MmI0OTI3ZmZjZmI4MmU3ZDYwMWI2YWI3ODdjNDkwM2I1",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 261813,
-      "name": "Ejercicio #16 - Remastered",
-      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "I'm Your Empress Of",
         "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 160000,
       "name": "Love Is A Drug",
       "url": "https://open.spotify.com/track/1plMJh3KzL9iza1xBtGfG9"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 261813,
+      "name": "Ejercicio #16 - Remastered",
+      "url": "https://open.spotify.com/track/1zIEjkEd2awwjVTxqPPecY"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/2bvow9uJrep57G06zuoLjc"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 199613,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/1D6Slhg7MMnraZpIEE8pbb"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 253984,
-      "name": "Nydia",
-      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
         "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 242760,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/5IZC2HQDKPhVkpAotDJBHM"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 253984,
+      "name": "Nydia",
+      "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Raffolution",
         "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 220306,
       "name": "Latino & Proud",
       "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Ag\u00fcita",
         "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 234240,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
+      },
+      "artists": [
+        {
+          "name": "Protistas",
+          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "En Mis Genes",
+      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     },
     {
       "added_at": "2023-02-08 23:13:43",

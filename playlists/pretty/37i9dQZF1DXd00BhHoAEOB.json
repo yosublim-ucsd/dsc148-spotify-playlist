@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 50590,
+  "num_followers": 50668,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDNmNDdkNThjZDUxYThjYzQwNzlkYjM0YzJjZDkwOGQ4NzJlMGZm",
+  "snapshot_id": "MCw1MTEyODljMDI2MjI0ZmU4ODU4ODYyMTdkNzQ2NTc0ZDJhODhjYTgy",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Cuando Vuelva a Tu Lado",
-      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 209652,
       "name": "Diez Pasos Hacia Ti",
       "url": "https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Cuando Vuelva a Tu Lado",
+      "url": "https://open.spotify.com/track/5j2tKp2lqR5a5V8ArWOEDe"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz"
     },
     {
-      "added_at": "2023-06-02 01:55:03",
+      "added_at": "2023-06-03 02:40:16",
       "album": {
         "name": "La Casita De La Selva",
         "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Vuelas Tan Lindo",
-        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Vuelas Tan Lindo",
-      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Bolero Triste",
         "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Habr\u00e1",
-        "url": "https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf"
+        "name": "Vuelas Tan Lindo",
+        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
         }
       ],
-      "duration_ms": 187945,
-      "name": "Habr\u00e1",
-      "url": "https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH"
+      "duration_ms": 158500,
+      "name": "Vuelas Tan Lindo",
+      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1467,6 +1451,22 @@
       "duration_ms": 168549,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Habr\u00e1",
+        "url": "https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "duration_ms": 187945,
+      "name": "Habr\u00e1",
+      "url": "https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Tierra Latinoamericana",
-        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
-      },
-      "artists": [
-        {
-          "name": "Musas Ensamble de Arpas",
-          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
-        }
-      ],
-      "duration_ms": 180317,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Tierra Latinoamericana",
+        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
+      },
+      "artists": [
+        {
+          "name": "Musas Ensamble de Arpas",
+          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
+        }
+      ],
+      "duration_ms": 180317,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
     },
     {
       "added_at": "2023-02-22 16:32:42",

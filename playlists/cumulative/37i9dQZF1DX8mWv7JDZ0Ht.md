@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc, Ludmilla
 
-326 songs - 16 hr 20 min
+328 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Agridoce](https://open.spotify.com/track/7vMa1EWSLnbjSCcaniuZsL) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Agridoce](https://open.spotify.com/album/5N6IeS8Ebyiwk0qC20MItk) | 2:37 | 2022-09-30 | 2022-10-22 |
 | [Aguei](https://open.spotify.com/track/3hCJ7bncN6wjLxWCxhUSkp) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Aguei](https://open.spotify.com/album/2vOz8ssYDr5H8LTusYbmzd) | 3:11 | 2022-05-13 | 2023-01-14 |
 | [Ai Bebê](https://open.spotify.com/track/5cIAwDYkTTGyNFgXzXROdF) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Ai Bebê](https://open.spotify.com/album/5Ib7gIzkMJSFENH7ZzJCPX) | 2:44 | 2022-06-14 | 2023-01-21 |
-| [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 |  |
+| [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-06-03 |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2022-07-01 | 2022-10-15 |
@@ -56,6 +56,7 @@
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-05-13 | 2022-06-15 |
 | [CAIXA POSTAL](https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAIXA POSTAL](https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c) | 3:05 | 2022-11-11 |  |
 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 | 2022-06-14 | 2022-11-12 |
+| [Cangote](https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Cangote](https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8) | 2:46 | 2023-06-02 |  |
 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 | 2022-05-13 | 2022-10-15 |
 | [carta pra ninguém](https://open.spotify.com/track/7ne3GUyA8HHBR0KsuyXzyM) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [carta pra ninguém](https://open.spotify.com/album/0nK27QmvOO1TI73fKASEdh) | 3:38 | 2022-05-13 | 2022-10-15 |
 | [Carta pro Futuro](https://open.spotify.com/track/2Tq3XVQ3iWVVxX2hDZhNyn) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Cartas](https://open.spotify.com/album/1pBoUcfZM0WaiOlAEb7TRb) | 3:32 | 2022-06-03 | 2022-06-18 |
@@ -74,7 +75,7 @@
 | [Coringa](https://open.spotify.com/track/0gmDtSc2Ay17diWj6nJjlG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Coringa](https://open.spotify.com/album/6HcH3KCqC0zl8gmZrCthuc) | 3:07 | 2022-05-13 | 2022-10-01 |
 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 | 2022-06-03 | 2022-10-11 |
 | [Covardia](https://open.spotify.com/track/4nr5wacC92Umr7cdgaCkjT) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Tudo Tá Fluindo](https://open.spotify.com/album/0vRj7ptVpmXlF4dFP4MRVu) | 2:43 | 2023-05-12 |  |
-| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 |  |
+| [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 | 2022-12-09 | 2023-06-03 |
 | [Céu Lilás](https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:29 | 2022-09-02 | 2022-09-24 |
 | [da primeira vez \(from the first time\)](https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [da primeira vez \(from the first time\)](https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY) | 3:21 | 2022-05-13 | 2022-11-12 |
 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 | 2022-07-01 | 2022-10-11 |
@@ -232,6 +233,7 @@
 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 | 2022-05-13 | 2022-09-03 |
 | [pequena](https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [pequena](https://open.spotify.com/album/6Jf6qOxMnq36H3s9HdHgOJ) | 2:42 | 2022-05-13 | 2023-01-21 |
 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 | 2023-02-03 |  |
+| [Ponto de Equilíbrio](https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz) | [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Ponto de Equilíbrio](https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj) | 2:57 | 2023-06-02 |  |
 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 | 2023-03-17 |  |
 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 | 2022-05-13 | 2022-11-12 |
 | [Por Você](https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Por Você](https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs) | 3:11 | 2023-02-24 |  |

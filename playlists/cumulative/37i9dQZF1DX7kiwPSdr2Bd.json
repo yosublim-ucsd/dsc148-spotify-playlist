@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Gisele Nascimento",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Sarah Beatriz",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 274706,
       "name": "100% Homem, 100% Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/1MKh99as2azJTRC43Yi6Zu"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 384870,
       "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
       "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Deus Faz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5JZSXsF60VfCidJcC4Bjpj"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Deus Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/0xSWHqgzWf2bTDE4wVlKqa"
+    },
+    {
+      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -1030,6 +1048,24 @@
       "duration_ms": 259928,
       "name": "Escreve (Ao Vivo)",
       "url": "https://open.spotify.com/track/7qOdt38keNGu7OP7PGm8Wn"
+    },
+    {
+      "album": {
+        "name": "Esse Vento Vai Passar (Studio Session)",
+        "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319283,
+      "name": "Esse Vento Vai Passar - Studio Session",
+      "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
     },
     {
       "album": {
@@ -1358,7 +1394,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 310057,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0"
@@ -2606,7 +2642,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 309537,
       "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
       "url": "https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T"
@@ -2906,7 +2942,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 351808,
       "name": "Vida Aos Sepulcros - Ao Vivo",
       "url": "https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs"
@@ -3050,7 +3086,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"

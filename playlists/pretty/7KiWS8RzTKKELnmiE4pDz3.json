@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzA0MywwOTFhYzE5MzYzNjdkMGRjYmMxM2EzY2ZjMmRlMGMxOGNmNjE3Y2U2",
+  "snapshot_id": "NzA0NSw2ODYxMDFjMDdiNjMxY2U5ZGUxOGIwOGEzYWEzNDFjM2U1Yjk2MTE2",
   "tracks": [
     {
       "added_at": "2022-08-27 21:01:46",
@@ -3155,6 +3155,38 @@
       "duration_ms": 191160,
       "name": "Mr Gaulden",
       "url": "https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl"
+    },
+    {
+      "added_at": "2023-06-02 12:23:01",
+      "album": {
+        "name": "U could stay",
+        "url": "https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz"
+      },
+      "artists": [
+        {
+          "name": "Lunchbox",
+          "url": "https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId"
+        }
+      ],
+      "duration_ms": 96019,
+      "name": "U could stay",
+      "url": "https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6"
+    },
+    {
+      "added_at": "2023-06-02 12:26:45",
+      "album": {
+        "name": "New Jazz",
+        "url": "https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2"
+      },
+      "artists": [
+        {
+          "name": "Lunchbox",
+          "url": "https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU"
     }
   ],
   "unique_name": "main ",

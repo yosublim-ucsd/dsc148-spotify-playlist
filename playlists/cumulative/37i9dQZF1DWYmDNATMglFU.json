@@ -1906,6 +1906,24 @@
     {
       "album": {
         "name": "cut my hair",
+        "url": "https://open.spotify.com/album/41BWjJwCPI8Hg0h3A14flj"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "cut my hair",
+      "url": "https://open.spotify.com/track/26vtFc2QpDI4yZ69B3qC1i"
+    },
+    {
+      "album": {
+        "name": "cut my hair",
         "url": "https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1"
       },
       "artists": [
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176223,
       "name": "cut my hair",
       "url": "https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6"

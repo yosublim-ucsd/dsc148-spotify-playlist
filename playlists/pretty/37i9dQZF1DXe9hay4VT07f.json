@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 393541,
+  "num_followers": 393808,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E2NzI4MWEwOWUwNWQ1MTI0MzkzNjNhZjM5MTkxMDRmOGVkNDE3",
+  "snapshot_id": "MCxmNDgyZGM5OWU3YmIyOTUxMTg1ZDM3NTRjZGJkNzEyYTAxOTk3Mzcy",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Asafa Powell: Train For Speed",
+        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
+      },
+      "artists": [
+        {
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Tempted To Touch",
+      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/6Yf1LMB9zCa79a7rwJ5ZCH"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 182222,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/39MmCz5nbVj4A4ZnLzZ5y2"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Asafa Powell: Train For Speed",
-        "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Tempted To Touch",
-      "url": "https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
       "artists": [
         {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -803,22 +819,6 @@
       "duration_ms": 195476,
       "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
       "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "King Of The Dancehall",
-      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
       "artists": [
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 171092,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Party Hard",
-        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Party Hard",
-      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Run Run",
         "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 186081,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Riddim Driven: Gully Slime",
-        "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
-      },
-      "artists": [
-        {
-          "name": "Tony Matterhorn",
-          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "Goodas Mi Back Mi Back",
-      "url": "https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Head, Shoulders, Kneez & Toez",
         "url": "https://open.spotify.com/album/2Xi4tCQ7x4vnoNDCSdRoQv"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 212800,
       "name": "Head, Shoulders, Kneez & Toez - Radio Edit",
       "url": "https://open.spotify.com/track/0amlI2JWPEfxioAcc7kVSJ"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Riddim Driven: Gully Slime",
+        "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "Goodas Mi Back Mi Back",
+      "url": "https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Bookshelf Riddim",
-        "url": "https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
-        }
-      ],
-      "duration_ms": 169986,
-      "name": "Dat Sexy Body",
-      "url": "https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Leggo Mi Ears (Remix)",
         "url": "https://open.spotify.com/album/7xGJ194K1JhpXgbJNLBrse"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Mi Nuh Know",
-        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
+        "name": "Bookshelf Riddim",
+        "url": "https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
         }
       ],
-      "duration_ms": 146886,
-      "name": "Mi Nuh Know",
-      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
+      "duration_ms": 169986,
+      "name": "Dat Sexy Body",
+      "url": "https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1731,6 +1715,22 @@
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Mi Nuh Know",
+        "url": "https://open.spotify.com/album/2vp0eSTrV1ywAaM40SQmr2"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 146886,
+      "name": "Mi Nuh Know",
+      "url": "https://open.spotify.com/track/77jt9bt0fTtc1Aw1CGT3ji"
     },
     {
       "added_at": "2023-05-14 20:18:19",

@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Rimas argentinas\. Foto: Dani Ribba.
+> Rimas argentinas\. Foto: Soui Uno.
 
-202 songs - 10 hr 24 min
+203 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [333](https://open.spotify.com/track/3zdIMwE2l96zC7Txbg9g5Q) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/1BkbDtwVUYLHEynzgC6yKg) | 3:49 | 2022-04-11 | 2022-09-23 |
 | [333](https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B) | 3:49 | 2022-09-22 |  |
 | [90's](https://open.spotify.com/track/1I5TzzXzQjVVl9iFi3Jh50) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/3ugKqSFHw2RVmGKEwd3zMl) | 2:18 | 2021-11-26 | 2022-07-29 |
-| [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 | 2022-06-10 |  |
+| [90's](https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [90's](https://open.spotify.com/album/6JGCt2W3OKRLXXtn6RcTN1) | 2:18 | 2022-06-10 | 2023-06-03 |
 | [A 120](https://open.spotify.com/track/6hIaPSI8jiEMcSNBg5UDvO) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [A 120](https://open.spotify.com/album/0sovDa8vIqn8cuDESN7G30) | 3:08 | 2021-11-26 |  |
 | [A Mi Lado](https://open.spotify.com/track/6cvMmviJTZTBOFh2ohwZg6) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [A Mi Lado](https://open.spotify.com/album/2EKFnG7NaqYgZOkCAi7MBP) | 2:58 | 2021-11-26 |  |
 | [Ahora Corren](https://open.spotify.com/track/0frbDonZlnjEaxKnPKclb3) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 4:07 | 2022-02-18 |  |
@@ -135,6 +135,7 @@
 | [Me Sueltan los Angeles](https://open.spotify.com/track/3MtToQhywGW6Q98cYcHYN1) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:24 | 2022-06-10 |  |
 | [Me Sueltan Los Ángeles](https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP) | 3:24 | 2021-11-26 | 2022-07-29 |
 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 | 2021-11-26 |  |
+| [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 | 2023-06-02 |  |
 | [Mi Verdad](https://open.spotify.com/track/1aSkg4ktmneEIpb7Km5JoO) | [Dtoke](https://open.spotify.com/artist/2KeSIMXQoTUxvWOIecCOun) | [Mi Verdad](https://open.spotify.com/album/1dSYCNvuuGMzTWaZKVPWWz) | 2:05 | 2021-11-26 |  |
 | [Modelo](https://open.spotify.com/track/3kpYDvfKVwjEwyl515tR7G) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL) | [Modelo](https://open.spotify.com/album/5BHbjf6T8ciROCIMafEvS5) | 2:27 | 2022-11-11 |  |
 | [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-03 |  |

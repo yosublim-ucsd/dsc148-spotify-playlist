@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,040 songs - 2 day 10 hr 7 min
+1,041 songs - 2 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,8 @@
 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 | 2022-09-08 | 2023-05-23 |
 | [Một Điều Mà Anh Rất Ngại Nói Ra](https://open.spotify.com/track/3c0tvuQ3Wq05jlnBA1po76) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Một Điều Mà Anh Rất Ngại Nói Ra](https://open.spotify.com/album/6BRscfY1NbNkKKTHsgnO1q) | 3:22 | 2022-03-24 | 2023-04-18 |
 | [N o o N](https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [N o o N](https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP) | 3:19 | 2022-02-03 | 2022-04-28 |
-| [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2022-03-24 |  |
+| [Na Na Na](https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Labyu with an Accent \(Original Soundtrack\)](https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9) | 4:11 | 2023-05-30 |  |
+| [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2022-03-24 | 2023-06-03 |
 | [Na Área dos Boys](https://open.spotify.com/track/2PYtXthvfINMFu1YWkAa4n) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Na Área dos Boys](https://open.spotify.com/album/2jmPZdF7AqusFZRDDeHjBW) | 3:45 | 2022-09-08 | 2023-05-09 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2022-02-03 | 2022-03-17 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-03-24 | 2022-12-15 |

@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 351480,
-  "original_name": "HOT NOW - VGLY",
+  "num_followers": 351694,
+  "original_name": "HOT NOW - KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTgxMzhjY2RiOTYxYjUyZTJmNTBhNTY4ODhkZmRmMzExZDgxZTMx",
+  "snapshot_id": "MCwzZTEyMjdlYTlkOTljZmE1MjlkYjcwMzYwZjgwN2I1ODNjYTljM2Qx",
   "tracks": [
+    {
+      "added_at": "2023-06-02 06:00:00",
+      "album": {
+        "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/6O4Y109bocWpIZDwmT4b1k"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Aldo Ranks",
+          "url": "https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3"
+        }
+      ],
+      "duration_ms": 166882,
+      "name": "WATATI (feat. Aldo Ranks) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/6MZi5j60L80SZLBxN0bv8s"
+    },
     {
       "added_at": "2023-06-01 00:31:24",
       "album": {
@@ -911,24 +931,8 @@
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Gran Disco Mini Precio - Dulce Beat",
-        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
     }
   ],
-  "unique_name": "HOT NOW - VGLY",
+  "unique_name": "HOT NOW - KAROL G",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

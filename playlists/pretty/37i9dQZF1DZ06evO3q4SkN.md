@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 27 songs - 41 min 1 sec
+[Spotify](https://open.spotify.com/user/spotify) - 392 likes - 28 songs - 42 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,6 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 24 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
 | 25 | [Dora the Explorer Theme Song](https://open.spotify.com/track/0GZXWiRVm3cnG3wPFngXbs) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:39 |
 | 26 | [Dan and Sammy](https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 0:44 |
-| 27 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 |
+| 27 | [April Wears Cheetah](https://open.spotify.com/track/09pfICGonkBl6TXhbglryk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:16 |
+| 28 | [Driving to the Farm](https://open.spotify.com/track/6gRn9fLp92857ODm0MeCbF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:10 |
 
-Snapshot ID: `MjgwOTM3MDYsMDAwMDAwMDA1NDA4MmJkNGZhN2U1MGI2YTE3OTQ2ZTI0OTYxMTE2ZA==`
+Snapshot ID: `MjgwOTUxNDEsMDAwMDAwMDA5NDUxN2MyYjgwNTZjMzU0Mzk5M2U5OTQ0MzVmY2Y2NQ==`

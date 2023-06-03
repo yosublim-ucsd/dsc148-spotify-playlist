@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 254505,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/3cWCTxaFlebwEnQXibNwAu"
@@ -3691,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Crash The Car",
+        "url": "https://open.spotify.com/album/7wvAhyTMzbDsgz03Tp21d1"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Crash The Car",
+      "url": "https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl"
+    },
+    {
+      "album": {
         "name": "Creeper",
         "url": "https://open.spotify.com/album/0GYPvI3HEw7IqXnrDIqaBf"
       },
@@ -4239,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Dots and Thoughts",
+        "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205334,
+      "name": "Diamond Exchange",
+      "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
+    },
+    {
+      "album": {
         "name": "Didn't You",
         "url": "https://open.spotify.com/album/5lUJSFX3tl1fGczLqfQ70K"
       },
@@ -4316,6 +4356,28 @@
       "duration_ms": 305418,
       "name": "Direction",
       "url": "https://open.spotify.com/track/6hSljLjoCSk6ldbmWveIPG"
+    },
+    {
+      "album": {
+        "name": "Dirtmouth",
+        "url": "https://open.spotify.com/album/4jhk1YqAjzRzji6Ws4qSVw"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282500,
+      "name": "Dirtmouth",
+      "url": "https://open.spotify.com/track/2IAnKNOU7SGlpmiTXMsqpX"
     },
     {
       "album": {
@@ -5452,7 +5514,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 151101,
       "name": "Fahina",
       "url": "https://open.spotify.com/track/3HTDwChXeEpTEltJA7Q2LT"
@@ -5678,6 +5740,24 @@
       "duration_ms": 529973,
       "name": "Feed Infinite",
       "url": "https://open.spotify.com/track/3VfcWdXUfDgGTwqKgHdQcp"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2fhRxWYRzfsTFtePAamCHo"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206759,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2plfAIuHMBynfACQUmtVgQ"
     },
     {
       "album": {
@@ -6088,6 +6168,24 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
+      "album": {
+        "name": "Funky",
+        "url": "https://open.spotify.com/album/7xy8M1KIrImO3Z01v3CEYL"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251888,
+      "name": "Funky",
+      "url": "https://open.spotify.com/track/7iZg6mxGxIu9X9F3iK39ZK"
     },
     {
       "album": {
@@ -7036,7 +7134,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 292498,
       "name": "Herbie\u2019s Dance",
       "url": "https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx"
@@ -7294,7 +7392,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 415453,
       "name": "How Many Roads",
       "url": "https://open.spotify.com/track/2C256m1E1RmTziJ0J49SAr"
@@ -8337,6 +8435,32 @@
     },
     {
       "album": {
+        "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+        "url": "https://open.spotify.com/album/3WwPC6pxPHPGJo7K6fZDPi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Martins",
+          "url": "https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5"
+        },
+        {
+          "name": "JD Beck",
+          "url": "https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203941,
+      "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
+      "url": "https://open.spotify.com/track/0KWT5yvZ4iphotBfmPeAuY"
+    },
+    {
+      "album": {
         "name": "Corridors",
         "url": "https://open.spotify.com/album/378aEOqUQ1caegAwHxlyuv"
       },
@@ -8514,7 +8638,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 414773,
       "name": "It's One Of These [Feat. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe]",
       "url": "https://open.spotify.com/track/13y90UOs37ByfJjGyM4yjp"
@@ -9132,6 +9256,32 @@
       "duration_ms": 310611,
       "name": "Landsdown",
       "url": "https://open.spotify.com/track/6lbuVBl5B06FqVc6v0dRwS"
+    },
+    {
+      "album": {
+        "name": "Laugh Up",
+        "url": "https://open.spotify.com/album/5aOl6fFyPjzp4rxf1cNV59"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        },
+        {
+          "name": "Rejoicer",
+          "url": "https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk"
+        },
+        {
+          "name": "Jimi Prasad Orchestra",
+          "url": "https://open.spotify.com/artist/6liLn1iLVDGnyE3Cprb97m"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179425,
+      "name": "Laugh Up",
+      "url": "https://open.spotify.com/track/0hTty8X57SYsLYsOTcrBsD"
     },
     {
       "album": {
@@ -12231,6 +12381,32 @@
     },
     {
       "album": {
+        "name": "Orange Sun",
+        "url": "https://open.spotify.com/album/59Z98PTU6f39rMDwQM0KGW"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        },
+        {
+          "name": "Solomon Dorsey",
+          "url": "https://open.spotify.com/artist/2dOcCSGhsuviniO6gz11Y3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168176,
+      "name": "Orange Sun",
+      "url": "https://open.spotify.com/track/4QfpUAU8dYvnR2NM8KNh4F"
+    },
+    {
+      "album": {
         "name": "Other Jewels",
         "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
       },
@@ -12444,6 +12620,32 @@
       "duration_ms": 347551,
       "name": "Parenthesis",
       "url": "https://open.spotify.com/track/3X4lYXX8q8D0vYcKG76Sah"
+    },
+    {
+      "album": {
+        "name": "Part IX",
+        "url": "https://open.spotify.com/album/6Zot8Z2YvO6zdHMvvEEB0o"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Lewis Moody",
+          "url": "https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV"
+        },
+        {
+          "name": "Benjamin Muralt",
+          "url": "https://open.spotify.com/artist/5cyLdqGfpPgg8uE1ZiCpwP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463996,
+      "name": "Part IX",
+      "url": "https://open.spotify.com/track/2NKMOcg4ghSlEIQMTKHPLP"
     },
     {
       "album": {
@@ -12822,7 +13024,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 198421,
       "name": "Polos (feat. Chris Fishman & Daryl Johns)",
       "url": "https://open.spotify.com/track/36HXXPRItzl67FoS6rTz51"
@@ -13770,7 +13972,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 213563,
       "name": "Rising",
       "url": "https://open.spotify.com/track/6OwnckMlg3GvOvuc3lMaax"
@@ -13886,7 +14088,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 127423,
       "name": "Roam",
       "url": "https://open.spotify.com/track/0Wjb5wqHsRmsF8UI4XG3aj"
@@ -14044,6 +14246,28 @@
       "duration_ms": 512440,
       "name": "Ruslan",
       "url": "https://open.spotify.com/track/0fBiRR7i6BB478U2uwh7wI"
+    },
+    {
+      "album": {
+        "name": "Rust (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
     },
     {
       "album": {
@@ -14232,7 +14456,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 86250,
       "name": "Sax Design One",
       "url": "https://open.spotify.com/track/45OSMu8PzWJ7Z2kEx5aTwu"
@@ -14716,7 +14940,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 245853,
       "name": "Sicily' Box",
       "url": "https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ"
@@ -15903,6 +16127,24 @@
     },
     {
       "album": {
+        "name": "Sun Go Down",
+        "url": "https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/67b8oUDiOzfPPN2xDj4G0x"
+    },
+    {
+      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
@@ -16572,7 +16814,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182000,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/45nldnip792IjCInuYENor"
@@ -16732,6 +16974,24 @@
       "duration_ms": 248576,
       "name": "The Beginner",
       "url": "https://open.spotify.com/track/1O5sJ7ctXZcITshPTfwT5c"
+    },
+    {
+      "album": {
+        "name": "The Ben-Dhlamini Stomp",
+        "url": "https://open.spotify.com/album/2X9oJX8nIdhwKoCHPZ6n1W"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318333,
+      "name": "The Ben-Dhlamini Stomp",
+      "url": "https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP"
     },
     {
       "album": {
@@ -17354,6 +17614,36 @@
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
+    },
+    {
+      "album": {
+        "name": "The Past Intact (Live at the Village Vanguard)",
+        "url": "https://open.spotify.com/album/5rwaTR3829ZCSIeVO9Zbri"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Eric Revis",
+          "url": "https://open.spotify.com/artist/5ElMqnHWxDT7rA7WuwDFs3"
+        },
+        {
+          "name": "Greg Hutchinson",
+          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423626,
+      "name": "The Past Intact - Live at the Village Vanguard",
+      "url": "https://open.spotify.com/track/4DZUyHMnOfbvYPvf2i9Nuk"
     },
     {
       "album": {
@@ -18036,7 +18326,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 321253,
       "name": "Today Is Another Day",
       "url": "https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O"
@@ -18804,7 +19094,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 373953,
       "name": "Us - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
@@ -19990,6 +20280,28 @@
       "duration_ms": 251278,
       "name": "Yoshi Orange",
       "url": "https://open.spotify.com/track/6DAXWnejJNzLIt6ShyUgdh"
+    },
+    {
+      "album": {
+        "name": "More Better",
+        "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "You (feat. Ambrose Akinmusire)",
+      "url": "https://open.spotify.com/track/6qlLOK5joUOIVwtkVS68YM"
     },
     {
       "album": {

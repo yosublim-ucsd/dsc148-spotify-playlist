@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 180000,
       "name": "Ajib Dastan Hai Yeh (Unplugged)",
       "url": "https://open.spotify.com/track/0hVBdbXj1YmOSOct1rz3R9"
@@ -357,6 +357,32 @@
     },
     {
       "album": {
+        "name": "DARMIYAN",
+        "url": "https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur"
+      },
+      "artists": [
+        {
+          "name": "Isis Paul",
+          "url": "https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5"
+        },
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Sagar Satpute",
+          "url": "https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135125,
+      "name": "DARMIYAN",
+      "url": "https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H"
+    },
+    {
+      "album": {
         "name": "Dhalti Rahe (Stripped.)",
         "url": "https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu"
       },
@@ -404,7 +430,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 248227,
       "name": "Dil Bawra - Acoustic",
       "url": "https://open.spotify.com/track/74REMfDydJQMVQvFfMzch4"
@@ -566,7 +592,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157333,
       "name": "Hai Pyaar (Acoustic Version)",
       "url": "https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK"
@@ -901,6 +927,58 @@
     },
     {
       "album": {
+        "name": "Khwab (Reprise)",
+        "url": "https://open.spotify.com/album/7tuLM0Hbw6XZcMSeRACoMc"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147297,
+      "name": "Khwab - Reprise",
+      "url": "https://open.spotify.com/track/1qPvV2Esdu9oenN7vXzlys"
+    },
+    {
+      "album": {
+        "name": "Khwaish",
+        "url": "https://open.spotify.com/album/0QKrdsQcRuGXhqUIeIGfFs"
+      },
+      "artists": [
+        {
+          "name": "Arshit",
+          "url": "https://open.spotify.com/artist/224EYKBELbeX1n7R5fxnjP"
+        },
+        {
+          "name": "Luvdeep Saini Aka LDS",
+          "url": "https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs"
+        },
+        {
+          "name": "Sahil Randhawa",
+          "url": "https://open.spotify.com/artist/47BLm9E1Q3mqdmzmqOvoU9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226923,
+      "name": "Khwaish",
+      "url": "https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6"
+    },
+    {
+      "album": {
         "name": "Kuch Kam",
         "url": "https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb"
       },
@@ -952,7 +1030,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212530,
       "name": "Kya Tum Naraaz Ho? (Raw)",
       "url": "https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt"
@@ -974,6 +1052,24 @@
       "duration_ms": 81057,
       "name": "Kyon Alag Huye",
       "url": "https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY"
+    },
+    {
+      "album": {
+        "name": "KYUN",
+        "url": "https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Slathia",
+          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236202,
+      "name": "KYUN",
+      "url": "https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz"
     },
     {
       "album": {
@@ -1010,7 +1106,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 203988,
       "name": "Lamhon/ Sadiyon",
       "url": "https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9"
@@ -1320,6 +1416,28 @@
       "duration_ms": 155175,
       "name": "Patang",
       "url": "https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD"
+    },
+    {
+      "album": {
+        "name": "Ved (Hindi) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Pyaar Tera",
+      "url": "https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf"
     },
     {
       "album": {

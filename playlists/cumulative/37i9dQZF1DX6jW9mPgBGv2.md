@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Don Omar y Coscullela plantando cara.
 
-82 songs - 5 hr 13 min
+83 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 | 2022-07-29 |
 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2021-12-01 |  |
+| [En Mi Coro](https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Eiden y Hacky](https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8) | [En Mi Coro](https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA) | 3:55 | 2023-06-02 |  |
 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-03-26 |  |
 | [Enemigos Ocultos](https://open.spotify.com/track/3fhOpwaKobrELFjKLcXHgI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 7:25 | 2021-12-01 |  |
 | [Envidioso](https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidioso](https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y) | 3:45 | 2021-12-01 |  |

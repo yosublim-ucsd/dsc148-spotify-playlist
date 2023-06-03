@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-201 songs - 12 hr 11 min
+202 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 | 2021-11-09 |  |
 | [Christmas Song](https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [My Friends All Died in a Plane Crash](https://open.spotify.com/album/4oWpaJ9K4QXSrtjvHBwGsg) | 3:11 | 2022-12-09 | 2023-04-02 |
 | [Christmas Time Is Here](https://open.spotify.com/track/737QrlDXQ60hnDCkzUDxhK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 2:59 | 2021-11-09 |  |
-| [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 | 2021-11-09 |  |
+| [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 | 2021-11-09 | 2023-06-03 |
+| [Christmas Tree](https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/67Cc0oA2zbfJQDs1V0kFSY) | 3:13 | 2022-12-09 |  |
 | [Christmas TV](https://open.spotify.com/track/1ta8kE983K10AdP9yBeOfv) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Holiday Jams](https://open.spotify.com/album/6yEFFeLMX93WsKG1omfUHh) | 4:29 | 2021-11-09 | 2022-11-13 |
 | [Christmas TV](https://open.spotify.com/track/0kHjHqxChomxRGyemgnPZb) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5XYnX9vysTaxSLegXX4ML2) | 4:32 | 2021-11-09 |  |
 | [Christmas TV](https://open.spotify.com/track/3rY8Jrj9Kl1hOxQEy3q0KL) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Christmas Thanks For Nothing EP](https://open.spotify.com/album/5bQr6FKJIFGrUT8gduh3ue) | 4:32 | 2021-11-09 | 2022-11-09 |

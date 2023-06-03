@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 894,
+  "num_followers": 909,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzQzZGYxMWE4ZDNjZDFiY2YzYzg1MzBlYjlkODk3YTRiY2RjODAy",
+  "snapshot_id": "MCw5M2M5MmI2MmE2N2YxNmM3NjE0OWYzNDg1MDYzMDA3OGZiZThkYTY3",
   "tracks": [
     {
       "added_at": "2023-05-26 08:05:11",
@@ -399,22 +399,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
+        "name": "Fawohodie(Twi Medley)",
+        "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
         }
       ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+      "duration_ms": 594921,
+      "name": "Fawohodie(Twi Medley)",
+      "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -435,18 +431,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "Fawohodie(Twi Medley)",
-        "url": "https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1"
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
       "artists": [
         {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
         }
       ],
-      "duration_ms": 594921,
-      "name": "Fawohodie(Twi Medley)",
-      "url": "https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl"
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
+        "name": "Gye Wayeyi",
+        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 485423,
+      "name": "Gye Wayeyi",
+      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
+    },
+    {
+      "added_at": "2023-05-26 08:05:11",
+      "album": {
         "name": "This Is Us",
         "url": "https://open.spotify.com/album/06C51VglvEDVHgbI25OCty"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 207178,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn"
-    },
-    {
-      "added_at": "2023-05-26 08:05:11",
-      "album": {
-        "name": "Gye Wayeyi",
-        "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 485423,
-      "name": "Gye Wayeyi",
-      "url": "https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD"
     },
     {
       "added_at": "2023-05-26 08:05:11",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-05-26 08:05:11",
       "album": {
-        "name": "ONYE NWERE",
-        "url": "https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI"
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
       },
       "artists": [
         {
-          "name": "GEMS",
-          "url": "https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF"
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
         }
       ],
-      "duration_ms": 218181,
-      "name": "ONYE NWERE",
-      "url": "https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl"
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
     }
   ],
   "unique_name": "Aseda",

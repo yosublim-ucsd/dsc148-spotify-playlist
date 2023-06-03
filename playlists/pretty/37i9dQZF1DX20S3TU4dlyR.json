@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 52082,
+  "num_followers": 52103,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjYzNGYyOTYxYmRmZjU0YzYwODQ2MTA4MWE5NTcxYzRlODI5Yjdl",
+  "snapshot_id": "MCw2YmU5M2RiNmIzN2ViNTRlNWIxMThkMjFjYTc4ZjlmZTljMzljNWZh",
   "tracks": [
     {
       "added_at": "2023-04-20 17:55:41",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 191776,
       "name": "Seguirla",
       "url": "https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Rey Mago de las Nubes",
-        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Mamita Peyote",
         "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 271000,
       "name": "Consentimiento",
       "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Rey Mago de las Nubes",
+        "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
       "artists": [
         {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
         }
       ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
+        "name": "20 A\u00f1os en Vivo & En Directo",
+        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 331169,
+      "name": "La M\u00e1scara - En Vivo",
+      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
         "name": "Va Salir",
         "url": "https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 253170,
       "name": "Va Salir",
       "url": "https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
-        "name": "20 A\u00f1os en Vivo & En Directo",
-        "url": "https://open.spotify.com/album/2JbNqmYTp8Rb9QlYAZQmbT"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 331169,
-      "name": "La M\u00e1scara - En Vivo",
-      "url": "https://open.spotify.com/track/7IAgDJqVjgaCKJSFcdQgaV"
     },
     {
       "added_at": "2023-04-20 17:55:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-20 17:55:41",
       "album": {
-        "name": "Desinformation",
-        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
-      },
-      "artists": [
-        {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
-        }
-      ],
-      "duration_ms": 243391,
-      "name": "Desinformation",
-      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
-    },
-    {
-      "added_at": "2023-04-20 17:55:41",
-      "album": {
         "name": "Runfla Calavera",
         "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 230986,
       "name": "Diablito",
       "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2023-04-20 17:55:41",
+      "album": {
+        "name": "Desinformation",
+        "url": "https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J"
+      },
+      "artists": [
+        {
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+        }
+      ],
+      "duration_ms": 243391,
+      "name": "Desinformation",
+      "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
     },
     {
       "added_at": "2023-04-20 17:55:41",

@@ -304,6 +304,24 @@
     {
       "album": {
         "name": "Some Pulp",
+        "url": "https://open.spotify.com/album/55Xpv1aDSSliUo1nNQpdt5"
+      },
+      "artists": [
+        {
+          "name": "DJ Orange Julius",
+          "url": "https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/1yoYyPVmebmoKNAbYdJXSR"
+    },
+    {
+      "album": {
+        "name": "Some Pulp",
         "url": "https://open.spotify.com/album/2ili3qzLq2R0qrtKmmxItD"
       },
       "artists": [
@@ -332,7 +350,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 232500,
       "name": "Battle",
       "url": "https://open.spotify.com/track/78Mwf97KESI1Ls0FPD5Wil"
@@ -1474,6 +1492,24 @@
     {
       "album": {
         "name": "Trackaholic Vol. 1",
+        "url": "https://open.spotify.com/album/52UUqChGfOm9g0Bn0UCZ8F"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/4viGDGWnZJxlmGoB238yZ5"
+    },
+    {
+      "album": {
+        "name": "Trackaholic Vol. 1",
         "url": "https://open.spotify.com/album/7bAIZawtVru3VktuJQap9O"
       },
       "artists": [
@@ -1502,7 +1538,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 229013,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/75MGUYTxhledkSiuOmjmU0"

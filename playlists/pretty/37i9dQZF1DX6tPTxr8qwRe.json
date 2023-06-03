@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Emei",
-  "num_followers": 366411,
+  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
+  "num_followers": 366610,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDcwNTVhZDJjNjkyZDllNWM5NmI1MmQyMmEwMTg1MGUzOWI1MDUw",
+  "snapshot_id": "MCw5NWM4ZTdiY2NiZTAzMDlkZGNhNzNkZTU2OTk4N2RmNjQ2NmU2M2E4",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Haunt Your Dreams",
+        "url": "https://open.spotify.com/album/1vYOBi8w3jO0JDaX8yexVJ"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 171454,
+      "name": "Haunt Your Dreams",
+      "url": "https://open.spotify.com/track/4UuCqDO4FGdM3ZTJuN3pSW"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
@@ -41,6 +57,42 @@
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Self Destruction Mode",
+        "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 147836,
+      "name": "Self Destruction Mode",
+      "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Unthinkable",
+        "url": "https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/6BGtSuLFU0X35Igkftxqfr"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "BABY DON'T BURN",
@@ -61,6 +113,22 @@
       "url": "https://open.spotify.com/track/73VT1cKHeq36m5Dt6N80jw"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Pretty Little Addict",
+        "url": "https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8"
+      },
+      "artists": [
+        {
+          "name": "Haiden",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 167728,
+      "name": "Pretty Little Addict",
+      "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Hey dad, I tried to be nice",
@@ -75,6 +143,38 @@
       "duration_ms": 213120,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "touching myself",
+        "url": "https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 159909,
+      "name": "touching myself",
+      "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "EXPECTATIONS",
+        "url": "https://open.spotify.com/album/4JVdNocE2EKTKdAHpc3wed"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "EXPECTATIONS",
+      "url": "https://open.spotify.com/track/5iZNagyVCvgTBRlxhvvyfD"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -125,6 +225,38 @@
       "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "perfect communicators",
+        "url": "https://open.spotify.com/album/6AY0N5mt3Uq40cbmRW3eua"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "perfect communicators",
+      "url": "https://open.spotify.com/track/0J30WAjo9JNAhVXHGqRS7R"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 165461,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "dot dot dot",
@@ -159,22 +291,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "touching myself",
-        "url": "https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t"
-      },
-      "artists": [
-        {
-          "name": "laye",
-          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
-        }
-      ],
-      "duration_ms": 159909,
-      "name": "touching myself",
-      "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Fixer Upper",
         "url": "https://open.spotify.com/album/63wmTOV6EpKEEw7rJXjBiZ"
       },
@@ -203,38 +319,6 @@
       "duration_ms": 177599,
       "name": "House Of Cards",
       "url": "https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
-      },
-      "artists": [
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 165461,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "UR SO FULL OF IT",
-        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134270,
-      "name": "UR SO FULL OF IT",
-      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
     },
     {
       "added_at": "2023-04-28 04:04:49",
@@ -387,6 +471,22 @@
       "duration_ms": 148394,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247873,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -597,22 +697,6 @@
       "url": "https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "PainHub",
-        "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 136545,
-      "name": "PainHub",
-      "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Heart Attack (Rock Version)",
@@ -627,22 +711,6 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 247873,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -771,26 +839,6 @@
       "duration_ms": 140598,
       "name": "feelings",
       "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "You Problem",
-        "url": "https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        },
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 181889,
-      "name": "You Problem",
-      "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
     },
     {
       "added_at": "2023-03-31 04:01:00",

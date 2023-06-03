@@ -805,6 +805,36 @@
     },
     {
       "album": {
+        "name": "Hamba Juba",
+        "url": "https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz"
+      },
+      "artists": [
+        {
+          "name": "Lady Amar",
+          "url": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
+        },
+        {
+          "name": "JL SA",
+          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
+        },
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480016,
+      "name": "Hamba Juba",
+      "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
+    },
+    {
+      "album": {
         "name": "Truth, Love & Confessions (TLC)",
         "url": "https://open.spotify.com/album/2nOd8tXJrNXIFw96EqwLb5"
       },
@@ -1404,7 +1434,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 190384,
       "name": "Mine (feat. Boslen)",
       "url": "https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv"
@@ -1824,7 +1854,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 163424,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7yrTTV7W5i5hIg6u0rcqQ7"
@@ -2430,6 +2460,24 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "album": {
+        "name": "Whateva",
+        "url": "https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt"
+      },
+      "artists": [
+        {
+          "name": "Marz BGX",
+          "url": "https://open.spotify.com/artist/1la0AGaLZ4v7WSjS99nAps"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169091,
+      "name": "Whateva",
+      "url": "https://open.spotify.com/track/71dF8V3CxGANvLOTWxThF7"
     },
     {
       "album": {

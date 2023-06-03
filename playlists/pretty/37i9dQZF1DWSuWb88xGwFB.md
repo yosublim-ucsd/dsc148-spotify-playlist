@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,265 likes - 75 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,286 likes - 75 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 37 | [The Warning \- 2 Copy Mix](https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [The Warning \(Remixes\)](https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ) | 3:53 |
 | 38 | [So Deep, So Good \- Ndako Gboya Mix](https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax) | [M & M](https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7) | [So Deep, So Good](https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG) | 7:36 |
 | 39 | [Indonesia \- Sambal Badjak Mix](https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Indonesia](https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll) | 6:02 |
-| 40 | [Special \- Club Mix](https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X) | [Sir James](https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ) | [Special](https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn) | 6:10 |
-| 41 | [Carnival 93 \- The Mardi Gras Mix](https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [Carnival 93](https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn) | 6:14 |
+| 40 | [Carnival 93 \- The Mardi Gras Mix](https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [Carnival 93](https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn) | 6:14 |
+| 41 | [Special \- Club Mix](https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X) | [Sir James](https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ) | [Special](https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn) | 6:10 |
 | 42 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |
 | 43 | [Boom \- Radio Mix](https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W) | [House 2 House](https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz) | [Boom / I Need Your Love](https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8) | 5:58 |
 | 44 | [I Get Lifted \- The Underground Network Mix](https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 7:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 46 | [Curious \- Vocal Mix](https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm) | [Sun, Sun, Sun](https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj) | [Curious](https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A) | 7:20 |
 | 47 | [Justify \- Vocal Mix](https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb) | [M&S](https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT) | [Justify](https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9) | 9:05 |
 | 48 | [Dance To The Rhythm](https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE) | [The Untouchables](https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF) | [The Swing Doctor](https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB) | 5:43 |
-| 49 | [Choices \- Choices Vocal Mix](https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa) | [Full Swing](https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ) | [Choices](https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE) | 7:52 |
-| 50 | [Love Trax \- Love Izz](https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Love Trax](https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9) | 6:46 |
+| 49 | [Love Trax \- Love Izz](https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Love Trax](https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9) | 6:46 |
+| 50 | [Choices \- Choices Vocal Mix](https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa) | [Full Swing](https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ) | [Choices](https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE) | 7:52 |
 | 51 | [Spark da Meth \- Bangin Like a Benzi Mix](https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X) | [Da Mongoloids](https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG) | [Spark Da Meth](https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME) | 6:33 |
 | 52 | [Muevete Mama \- Broder Mix](https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ) | [Afro\-Cube](https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u) | [Muevete Mama](https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr) | 6:54 |
 | 53 | [Stay Together \- Armand's ''Crazy'' Trauma Mix](https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Stay Together](https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt) | 12:57 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 72 | [The Beat That Makes U Move \- The Rhythm Hype Mix](https://open.spotify.com/track/6KLnL6hVI2W1dXtZzT0Xkb) | [Bass Hitt](https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR), [Dreamgirl Vee](https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN) | [The Beat That Makes U Move](https://open.spotify.com/album/0NgAVAE4LTJlyI0FoMxFCw) | 7:39 |
 | 73 | [Move Your Body \(feat\. LaVette\) \- Radio Mix](https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD) | [Chicago Syndicate](https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK), [LaVette](https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY) | [Move Your Body \(feat\. LaVette\) \[Mixes\]](https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH) | 3:48 |
 | 74 | [My People \- My People Mix](https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L) | [Shadii](https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:42 |
-| 75 | [Muzik \- The Siren Mix](https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Muzik](https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ) | 6:19 |
+| 75 | [Keep On Jumpin' \(feat\. Chazzie\) \- Egotrip Mix](https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb) | [Beatboxx](https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs), [Chazzie](https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV) | [Keep On Jumpin' \(feat\. Chazzie\)](https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd) | 6:21 |
 
-Snapshot ID: `MCw3N2M4YmY5MjBiYTk5NjliYjc4OTdkZTA4NWM2MmZkMzZiNjYzYmQ1`
+Snapshot ID: `MCwwZTRiZDFkMzVhNTQwNzYwMDliYmE1YmM5MDRjM2I2ZmU1YTVkZGNh`

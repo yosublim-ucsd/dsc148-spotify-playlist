@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222629,
       "name": "2023",
       "url": "https://open.spotify.com/track/10S8d3jVFTCNyfb8iWuhxN"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Colourwaves",
+        "url": "https://open.spotify.com/album/4Ostle1eqw1kYAmJ8PTp22"
+      },
+      "artists": [
+        {
+          "name": "Futureheaven",
+          "url": "https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "asuka",
+      "url": "https://open.spotify.com/track/0iYp1IQm4xoBTvHbJ0H53i"
+    },
+    {
+      "album": {
         "name": "The Coming of Spring",
         "url": "https://open.spotify.com/album/4V6SRTKSzu3SCLqAksZkd9"
       },
@@ -441,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Be My Blues",
+        "url": "https://open.spotify.com/album/7aoVRsO2rD7sqDlW5JvWfG"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Be My Blues",
+      "url": "https://open.spotify.com/track/5O8B5mYkwOCEVjV9P3qgy1"
+    },
+    {
+      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -514,6 +550,24 @@
       "duration_ms": 257213,
       "name": "Better Friend",
       "url": "https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC"
+    },
+    {
+      "album": {
+        "name": "Big Bite",
+        "url": "https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cole",
+          "url": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Big Bite",
+      "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
     },
     {
       "album": {
@@ -1230,7 +1284,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 190716,
       "name": "Choke",
       "url": "https://open.spotify.com/track/5kmn8hISjWoJPx17HqWSOj"
@@ -1698,7 +1752,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178863,
       "name": "Delusions of Grandeur",
       "url": "https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ"
@@ -2866,7 +2920,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl"
@@ -2992,7 +3046,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 191548,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
@@ -3378,7 +3432,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 200760,
       "name": "King B",
       "url": "https://open.spotify.com/track/5i4bf9vuP235Qhjgqo78nM"
@@ -4037,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "R.I.F.F.",
+        "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "My Mind is Eating Me Alive",
+      "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
+    },
+    {
+      "album": {
         "name": "Myopic",
         "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
@@ -4196,7 +4268,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 136288,
       "name": "no one is truly cool",
       "url": "https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ"
@@ -4218,6 +4290,24 @@
       "duration_ms": 178400,
       "name": "Normal People",
       "url": "https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c"
+    },
+    {
+      "album": {
+        "name": "Not A Friend",
+        "url": "https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199017,
+      "name": "Not a Friend",
+      "url": "https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq"
     },
     {
       "album": {
@@ -5860,6 +5950,24 @@
       "duration_ms": 155978,
       "name": "Taste the Money",
       "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
+    },
+    {
+      "album": {
+        "name": "That Day",
+        "url": "https://open.spotify.com/album/0GaS3ctTC11J1Yq9YczkgC"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124158,
+      "name": "That Day",
+      "url": "https://open.spotify.com/track/5jzBUYBQ32KhiNZwNIzfOh"
     },
     {
       "album": {

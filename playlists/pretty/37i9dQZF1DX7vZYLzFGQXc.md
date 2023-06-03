@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent & rising talents are here\. \(Cover: jisokuryClub\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
+> Fresh new Korean independent & rising talents are here\. \(Cover: umu\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,170 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,195 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 |
+| 1 | [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 |
 | 2 | [If I Success](https://open.spotify.com/track/7beMq9H2hpiINjKNAapFZE) | [Pa!nter](https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T) | [If I Success](https://open.spotify.com/album/1xEaYx0QmF3qOGwbSkACVA) | 2:39 |
 | 3 | [I Do \(feat\. VEKOEL\)](https://open.spotify.com/track/1OBLhoOLIV0t7eMsXFELmN) | [Smiley DeBron](https://open.spotify.com/artist/4aTZWNxBRufaAZe50dnYTW), [VEKOEL](https://open.spotify.com/artist/6c1sIisEY5HNqkjgEhgbEo) | [Talk to Smiley](https://open.spotify.com/album/0rw1APNtSs2w9mg8sXxdtp) | 3:00 |
 | 4 | [빛의 파도](https://open.spotify.com/track/2MUk5WRTzV0CRW8AWS4OTR) | [5252](https://open.spotify.com/artist/1ZEmvy4YMhO6sfCCCBb6ll) | [빛의 파도](https://open.spotify.com/album/58RVaGVP8zpV7g0Fde97EF) | 3:05 |
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 8 | [Without you](https://open.spotify.com/track/14ALTIe2imKvbXoEzYhn72) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [Without you](https://open.spotify.com/album/5Y6ImYhO7dKMa1EIdSDEEi) | 3:00 |
 | 9 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 |
 | 10 | [Silver Lining](https://open.spotify.com/track/1G7gRNjvHw7S8g9vx47Gj4) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Silver Lining](https://open.spotify.com/album/725q1O81CCGPA5bkHBsley) | 3:10 |
-| 11 | [EVEN SO](https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [EVEN SO](https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT) | 3:23 |
-| 12 | [Good Thing](https://open.spotify.com/track/3pzUFmvTXX1yRD2UYM0cCM) | [Ja Jung](https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK) | [Good Thing](https://open.spotify.com/album/41HhVPm3m3XBWFBqcMa9fG) | 3:53 |
-| 13 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 |
-| 14 | [Maybe](https://open.spotify.com/track/0pa42R9TePbscKU8V2mQ8u) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl), [hayawn](https://open.spotify.com/artist/11pZfkzrWyui2d6ExeB6Oo) | [Maybe](https://open.spotify.com/album/7brSOlVgzFPALT0nBng5nh) | 3:27 |
-| 15 | [IS YOU](https://open.spotify.com/track/5hGMcYsV6ww0eykLUyutrf) | [Kim Seheon](https://open.spotify.com/artist/1qrAdolEOljRODhp9rXq64) | [IS YOU](https://open.spotify.com/album/6Lxn5aPjs2qYa556QCpVWf) | 1:46 |
-| 16 | [rotten on the inside](https://open.spotify.com/track/6gxaJhYFNYhzQWJH01JqR3) | [REBENN](https://open.spotify.com/artist/5U7QLjqqB4U8JCrGzpFqDR) | [rotten on the inside](https://open.spotify.com/album/2J4YACcLLKIiKOpFHhv4VU) | 2:57 |
-| 17 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 |
-| 18 | [Maze](https://open.spotify.com/track/4ajdU7CN9sShzGyrWh4XdE) | [HANDAM](https://open.spotify.com/artist/6rh2Qeb3PJ8dFCL7F3Xuyn) | [Maze](https://open.spotify.com/album/1uNKnhsP47vP4zmrq94dSc) | 3:19 |
-| 19 | [THE PARTY SONG](https://open.spotify.com/track/4mdzylA0MEiuaW2NTUdmuW) | [umu](https://open.spotify.com/artist/0t6IbjlQ9zHvT8PDbe3X6r) | [THE PARTY SONG](https://open.spotify.com/album/3r945C3WcZM28fra78rhqD) | 2:30 |
+| 11 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 |
+| 12 | [EVEN SO](https://open.spotify.com/track/3GYpV2gfKYofF6TFZgoFWx) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [EVEN SO](https://open.spotify.com/album/63MuPGu79tLnSuy705UvoT) | 3:23 |
+| 13 | [Good Thing](https://open.spotify.com/track/3pzUFmvTXX1yRD2UYM0cCM) | [Ja Jung](https://open.spotify.com/artist/4eOSz0kdCi6Ed4xzcJ1XJK) | [Good Thing](https://open.spotify.com/album/41HhVPm3m3XBWFBqcMa9fG) | 3:53 |
+| 14 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 |
+| 15 | [Maybe](https://open.spotify.com/track/0pa42R9TePbscKU8V2mQ8u) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl), [hayawn](https://open.spotify.com/artist/11pZfkzrWyui2d6ExeB6Oo) | [Maybe](https://open.spotify.com/album/7brSOlVgzFPALT0nBng5nh) | 3:27 |
+| 16 | [IS YOU](https://open.spotify.com/track/5hGMcYsV6ww0eykLUyutrf) | [Kim Seheon](https://open.spotify.com/artist/1qrAdolEOljRODhp9rXq64) | [IS YOU](https://open.spotify.com/album/6Lxn5aPjs2qYa556QCpVWf) | 1:46 |
+| 17 | [rotten on the inside](https://open.spotify.com/track/6gxaJhYFNYhzQWJH01JqR3) | [REBENN](https://open.spotify.com/artist/5U7QLjqqB4U8JCrGzpFqDR) | [rotten on the inside](https://open.spotify.com/album/2J4YACcLLKIiKOpFHhv4VU) | 2:57 |
+| 18 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 |
+| 19 | [Maze](https://open.spotify.com/track/4ajdU7CN9sShzGyrWh4XdE) | [HANDAM](https://open.spotify.com/artist/6rh2Qeb3PJ8dFCL7F3Xuyn) | [Maze](https://open.spotify.com/album/1uNKnhsP47vP4zmrq94dSc) | 3:19 |
 | 20 | [Salad Days](https://open.spotify.com/track/74QAbcyw4wt5cN8QX22pMM) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Salad Days](https://open.spotify.com/album/3Di20DXIE3cTSUwRP0dqDF) | 2:01 |
 | 21 | [Masquerade \(Korean Ver.\)](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) | [MIDNATT](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) | [Masquerade](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) | 3:25 |
 | 22 | [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [잠을 깨자 Wake Up!](https://open.spotify.com/track/1WCr66I0EbmsdfNJvXsTfi) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [잠을 깨자 Wake Up!](https://open.spotify.com/album/5QQqzDt2OPUDVn5gK11sAe) | 2:39 |
 | 100 | [Back To You Again](https://open.spotify.com/track/0eIZRgh7GRSYF0R7Izh9R9) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Back To You Again](https://open.spotify.com/album/11tNXd0COL8UQm8mwyzK8k) | 2:33 |
 
-Snapshot ID: `MCwzNzA1NWQ2NDllOTY2YzlkMTNlZjE1NmNkYjU1Y2U0ZmY0MDM2MDU4`
+Snapshot ID: `MCxmZmZlNjM5YzMyNWNkMzFkN2YyYjFmMTRkZTM1OWEwMmE3YzhjZjcw`

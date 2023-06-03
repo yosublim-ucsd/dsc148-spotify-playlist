@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,916 likes - 111 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,905 likes - 111 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 93 | [It's All About Heart](https://open.spotify.com/track/21AStETk1yF31eVA7QR8Fz) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw), [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Fozzie](https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw), [Pepe](https://open.spotify.com/artist/79LIIdGsfWO6Ckiuejy2Ba), [Rizzo](https://open.spotify.com/artist/1vROEVubfEqo8fgOqQ9Pn6) | [A Muppets Christmas: Letters to Santa](https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci) | 1:43 |
 | 94 | [Christmas Eve Montage](https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 4:43 |
 | 95 | [Let It Glow \- From "Frozen Northern Lights"](https://open.spotify.com/track/5fvrAgYWC8D63PYqJNh3tf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Madison Hu](https://open.spotify.com/artist/612BRdnZhqoymH42utLvA7) | [Let It Glow \(From "Frozen Northern Lights"\)](https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF) | 1:19 |
-| 96 | [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 2:56 |
+| 96 | [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/4oZaYCtYdIpug9m0QXUeqq) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 2:56 |
 | 97 | [The Santa Wrap](https://open.spotify.com/track/4CqPPBjuIaxn0pPoZ6XsMO) | [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:21 |
 | 98 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 |
 | 99 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 110 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 |
 | 111 | [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 |
 
-Snapshot ID: `MCw1MTBmMWJiNjI5ZjU3YzFmZmVlMTM1NjdiYTMzZjAxOGVkOTEwYzMz`
+Snapshot ID: `MCxhNmU5NGI0ZjVmYjEwZGZiYTE2ZWRlYzdmMmM4NWE2NTRkOGY0NDMw`

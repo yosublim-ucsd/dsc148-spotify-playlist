@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-124 songs - 6 hr 38 min
+127 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,8 @@
 | [Delta Sleep Binaural 80Hz \- 81.2Hz](https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:12 | 2023-03-10 |  |
 | [Delta Sleep Binaural 82.7Hz \- 84Hz](https://open.spotify.com/track/7FXq4DGcyddOyOy3zj8iJF) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:06 | 2023-03-17 |  |
 | [Delta Sleep Binaural 98.2Hz \- 99.9Hz](https://open.spotify.com/track/3IjMtDZf0NymaQPTs0uc9v) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Delta Dreamer](https://open.spotify.com/album/6dAgZ5NS9ywkhz5mRBpjNy) | 3:30 | 2023-05-05 |  |
+| [Delta Sleep Waves 103Hz \- 105Hz](https://open.spotify.com/track/0CRyhNaJfwot8QtdbZffnb) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 2:52 | 2023-06-02 |  |
+| [Delta Sleep Waves 82.3Hz \- 84Hz](https://open.spotify.com/track/1JqJX0GWATHbQGSxbSpBd7) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 3:13 | 2023-06-02 |  |
 | [Delta Sleep Waves 84.4Hz \- 85.7Hz](https://open.spotify.com/track/5KHYjgWV3oxkX6UbY2iJBM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:12 | 2023-04-07 |  |
 | [Delta Texture](https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:27 | 2021-12-22 |  |
 | [Delta thirteen](https://open.spotify.com/track/2vjmwTBYmFcTCiJdH337nV) | [Mantramind](https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy) | [Delta Dreams 3Hz](https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH) | 2:21 | 2023-03-10 |  |
@@ -117,6 +119,7 @@
 | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/track/6VEEg3q83KL26gj3zuT7Fn) | [Northern Sines](https://open.spotify.com/artist/6TWxyoPlukVztmpleDmXl3) | [Slow Delta Soothe 96Hz \- 98Hz](https://open.spotify.com/album/3epBpB6BhuQH5mAI3QqqDt) | 3:02 | 2022-08-22 |  |
 | [Stars above Joshua Tree \- Delta 146Hz \- 149Hz](https://open.spotify.com/track/7IbSLgWkmoKbPYcFYOrICj) | [One Zero 8](https://open.spotify.com/artist/0EFJcvdIgISyRJsVSx0ZGw) | [Oceanfloor](https://open.spotify.com/album/5ZWrbw1RN3yg48mQ2O7nL8) | 4:27 | 2021-12-22 |  |
 | [Sternenhimmel Delta Sinus 110Hz \- 112Hz](https://open.spotify.com/track/3p8gv3EWLeXBWr7NlTRgN9) | [oOcean](https://open.spotify.com/artist/6pjctIaHCJFvelpfzEiATn) | [Delta Sleep](https://open.spotify.com/album/3sNAAlIhr6Jion8yR8vyAs) | 3:48 | 2021-12-22 |  |
+| [Stillness Delta Sinus 102\-106 Hz](https://open.spotify.com/track/7sP5Vv5i6ZzVi6Vi75zezb) | [Chome](https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC) | [Stillness Delta Sinus 102\-106 Hz](https://open.spotify.com/album/0i0lqIgFhcNML0onjBMneh) | 2:46 | 2023-06-02 |  |
 | [Subconcious Delta Sinus 104Hz \- 106Hz](https://open.spotify.com/track/0TPns33GmXwiHO40SqeE4q) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:07 | 2021-12-22 |  |
 | [subconcious Delta Sinus 81 Hz \- 83Hz](https://open.spotify.com/track/3Mstj0T1X4Ux7bcRIdmVOy) | [Pixeo](https://open.spotify.com/artist/2CdpLUBjbFoWgopv6lTTYf) | [Binaural Reflections](https://open.spotify.com/album/3dxCxziHGfiIaqaJM4eTGL) | 2:20 | 2021-12-22 |  |
 | [Subconscious Waves \(Delta Drone 1Hz\)](https://open.spotify.com/track/0VWMb7msvFr9KZAJGcR9rd) | [Bruce Brus](https://open.spotify.com/artist/6jKgLzBdINpIrcinbmi7hI) | [Subconscious Waves](https://open.spotify.com/album/2y9XokCm9PRZRpCLKSf3s8) | 3:50 | 2021-12-22 |  |

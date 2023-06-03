@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-136 songs - 6 hr 26 min
+137 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-10-12 |  |
 | [Beyond & Back](https://open.spotify.com/track/1Fl9ptJFxhir0pC9jNpwKx) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Beyond & Back](https://open.spotify.com/album/6UjOraeSaCwZrZnjuQTw8F) | 2:46 | 2022-10-12 |  |
 | [Beyond the deep](https://open.spotify.com/track/3tsAMK0ZmrPzIE5TB4oo1t) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Beyond The Deep](https://open.spotify.com/album/09GrXILzY5HssEseM9tWq4) | 3:34 | 2022-12-02 |  |
-| [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-10-12 |  |
+| [Blank Page](https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI) | [Evie Belcher](https://open.spotify.com/artist/502tjyEpMzN9vPl8nFYAmf) | [Blank Page](https://open.spotify.com/album/53jWtt7iHYe1CyVIcwk5Em) | 3:30 | 2022-10-12 | 2023-06-03 |
 | [Blanket of White](https://open.spotify.com/track/2u3TXM5CwRovxFJZID2OuF) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Elevated](https://open.spotify.com/album/2lpGs2WOKnYH5TXsItyo5K) | 3:06 | 2022-10-12 |  |
 | [Blastoff](https://open.spotify.com/track/4lBx54a1sJREjMjjK8NlSZ) | [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Blastoff](https://open.spotify.com/album/4VBSe7kVHOwuCdQvwIRlhr) | 2:14 | 2022-10-12 |  |
 | [Blume](https://open.spotify.com/track/1HOuETpEjrYbU5Azt6iKjZ) | [Forsintha](https://open.spotify.com/artist/3YPvZWXdCmGaEVkMoCFYML) | [Blume](https://open.spotify.com/album/7moo1Qd1CWo8DIcTLrZLqr) | 2:29 | 2022-10-12 |  |
@@ -62,6 +62,7 @@
 | [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-10-12 |  |
 | [Half Asleep](https://open.spotify.com/track/5GF4ClkgOnE6dXg4K4Bzc8) | [Oberohn](https://open.spotify.com/artist/6xkMXOTgxXp0H0xxv2D2vt) | [Half Asleep](https://open.spotify.com/album/1fzV2qfJyZOfXkBlvGsaDe) | 2:28 | 2022-10-12 |  |
 | [Healing Sun](https://open.spotify.com/track/71Fs3eUdUvsUdBK0r2qERV) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Healing Sun](https://open.spotify.com/album/4Im2u0xbcI5VJIZvnD3x1B) | 2:42 | 2023-02-17 |  |
+| [Heartful](https://open.spotify.com/track/0nYTW6fJgGUZE5sPg1no3F) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Heartful](https://open.spotify.com/album/3KFw7fZJz7dKJXz9LRHtGe) | 2:45 | 2023-06-02 |  |
 | [Hæden](https://open.spotify.com/track/36JtpkJGUtIEwIWF25LmCU) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Hæden](https://open.spotify.com/album/2hwrvBljVoZhj1Kx4FL6Gy) | 2:27 | 2022-10-12 |  |
 | [Into the light](https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Into the light](https://open.spotify.com/album/1HiaSBHNeRFfMPO2sbG1Id) | 2:26 | 2022-10-12 |  |
 | [Ionosphere](https://open.spotify.com/track/4TItjggHGUClo9prDawdHq) | [Elias Mía](https://open.spotify.com/artist/626VYL04qERr5gcrn0jqQY) | [Ionosphere](https://open.spotify.com/album/7rXZ4i0NK8uIuKna8DUtBx) | 3:19 | 2022-10-12 |  |

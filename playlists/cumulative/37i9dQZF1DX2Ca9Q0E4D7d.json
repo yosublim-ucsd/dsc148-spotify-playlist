@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Sonic Mindset: Binaural Beta Tones for Concentration",
+        "url": "https://open.spotify.com/album/3wWaXmUQzOzzCOwPMgIg1u"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Binaural Beta Sinus 190 Hz - L 220 Hz - R",
+      "url": "https://open.spotify.com/track/79hcQYMpG00C0I3sdwxEEu"
+    },
+    {
+      "album": {
         "name": "Binaural Beta Sinus 200 Hz - 230 Hz",
         "url": "https://open.spotify.com/album/1Z0eKMSRxkP9cWRtPZLAva"
       },

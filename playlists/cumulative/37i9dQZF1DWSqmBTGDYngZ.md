@@ -2,7 +2,7 @@
 
 ### [Songs to Sing in the Shower](https://open.spotify.com/playlist/37i9dQZF1DWSqmBTGDYngZ)
 
-> Make your shower more uplifting by singing along to these hits.
+> 
 
 1,050 songs - 2 day 18 hr 19 min
 

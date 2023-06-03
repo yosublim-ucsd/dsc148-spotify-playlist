@@ -1,15 +1,15 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3138,
+  "num_followers": 3143,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTBmZmY0MWZmZWM3MGM5NDc2OWQzMGI5NmU5NjVjZTg2OTk4ZWI0",
+  "snapshot_id": "MCw0NTVmMmM1ZjgxZTlhNmMzOGIxYmY4ZTBkYzY3NTg0YzFhOWVkMjY4",
   "tracks": [
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Wandering Soul",
         "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "When Lovers Become Friends",
         "url": "https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l"
@@ -57,23 +57,31 @@
       "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "Silver Morning",
+        "url": "https://open.spotify.com/album/6t0tEMqPYhvwygv6RP4w6p"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Dan Tuffy",
+          "url": "https://open.spotify.com/artist/7E3jTzEtqouFXINhlSgHiy"
+        },
+        {
+          "name": "Song Crew",
+          "url": "https://open.spotify.com/artist/4BgaiIVWUFTGvJ0Pu1ax83"
+        },
+        {
+          "name": "Zlaya Loud",
+          "url": "https://open.spotify.com/artist/4wD0BJ41uvaqif4jwDNP6D"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 181906,
+      "name": "Silver Morning",
+      "url": "https://open.spotify.com/track/7nSE52gSLazh76G7wzGGLt"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/3m9FmFnqFgKJ1XWgZSHUBE"
@@ -89,7 +97,7 @@
       "url": "https://open.spotify.com/track/4Q5KEZORwgsmQfP9H4Z2M6"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Changing Lanes",
         "url": "https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE"
@@ -105,23 +113,23 @@
       "url": "https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
-        "name": "Tomorrow Me",
-        "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Tomorrow Me",
-      "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
@@ -141,7 +149,39 @@
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Tomorrow Me",
+        "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Tomorrow Me",
+      "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Underneath This Skin",
+        "url": "https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox"
+      },
+      "artists": [
+        {
+          "name": "Pieternel",
+          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+        }
+      ],
+      "duration_ms": 221905,
+      "name": "Underneath This Skin",
+      "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
@@ -161,23 +201,7 @@
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Underneath This Skin",
-        "url": "https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox"
-      },
-      "artists": [
-        {
-          "name": "Pieternel",
-          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
-        }
-      ],
-      "duration_ms": 221905,
-      "name": "Underneath This Skin",
-      "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
@@ -193,7 +217,7 @@
       "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
@@ -209,23 +233,7 @@
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs"
@@ -241,7 +249,23 @@
       "url": "https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Songs About You",
         "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
@@ -257,7 +281,7 @@
       "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "I Feel Alright",
         "url": "https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "When Times Get Rough",
         "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
@@ -305,7 +329,7 @@
       "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
@@ -337,7 +361,7 @@
       "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg"
@@ -353,7 +377,7 @@
       "url": "https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "I Am The Moon: I. Crescent",
         "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
@@ -385,7 +409,23 @@
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
@@ -405,55 +445,7 @@
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Know Your Demons",
-        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Know Your Demons",
-      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
@@ -469,7 +461,39 @@
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
@@ -489,7 +513,7 @@
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -537,7 +561,7 @@
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
@@ -553,7 +577,7 @@
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
@@ -589,7 +613,7 @@
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Maybe, Maybe Not",
         "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
@@ -625,7 +649,7 @@
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "The Fair and Dark Haired Lad",
         "url": "https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Burning Down the Prairie",
         "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
@@ -673,7 +697,7 @@
       "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
@@ -705,23 +729,7 @@
       "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Lightyears Better",
         "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
@@ -737,23 +745,7 @@
       "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "The Epic Tale of the Stranded Man",
-        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
-      },
-      "artists": [
-        {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "Lola with the Light Eyes",
-      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
@@ -773,7 +765,39 @@
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "The Epic Tale of the Stranded Man",
+        "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
+      },
+      "artists": [
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "Lola with the Light Eyes",
+      "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
+    },
+    {
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Burlesque Desert Window",
         "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "Big Grey Boxes",
         "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
     },
     {
-      "added_at": "2023-06-01 22:00:00",
+      "added_at": "2023-06-02 09:23:15",
       "album": {
         "name": "The Longest Journey",
         "url": "https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx"
@@ -819,22 +843,6 @@
       "duration_ms": 228466,
       "name": "The Longest Journey",
       "url": "https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809"
-    },
-    {
-      "added_at": "2023-06-01 22:00:00",
-      "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
-      },
-      "artists": [
-        {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     }
   ],
   "unique_name": "Route Americana",

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Stella Freelon",
+          "url": "https://open.spotify.com/artist/07a4pfP7i1yw280o7TWBCk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113506,
+      "name": "ABC You A G",
+      "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
+    },
+    {
+      "album": {
         "name": "Kids Hits, Vol. 1",
         "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
       },
@@ -865,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Hand To Hold",
+        "url": "https://open.spotify.com/album/0udXK70wTEH0UoOvLTHdmg"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133294,
+      "name": "Hand To Hold",
+      "url": "https://open.spotify.com/track/7vGPAcgiQQClmZFeA4T4kL"
+    },
+    {
+      "album": {
         "name": "Happiness Is Simple",
         "url": "https://open.spotify.com/album/1QopRRYf8U9hdYCg348skK"
       },
@@ -934,6 +978,32 @@
       "duration_ms": 156365,
       "name": "Hello World - from \"Back to the Outback\" soundtrack",
       "url": "https://open.spotify.com/track/3O4FgcbCzg3Wm7Pg0ezMzM"
+    },
+    {
+      "album": {
+        "name": "AnceStars",
+        "url": "https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc"
+      },
+      "artists": [
+        {
+          "name": "Pierce Freelon",
+          "url": "https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG"
+        },
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        },
+        {
+          "name": "Jarrett Johnson",
+          "url": "https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "Help You Do The Work",
+      "url": "https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ"
     },
     {
       "album": {
@@ -1479,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Swimming (from the Welcome to the Flea Circus EP)",
+        "url": "https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Belles",
+          "url": "https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124639,
+      "name": "Look Up! There's a Rainbow!",
+      "url": "https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2"
+    },
+    {
+      "album": {
         "name": "Look up! There's a Rainbow! (from the Welcome to the Flea Circus EP)",
         "url": "https://open.spotify.com/album/4w20hXXdmRCJEWFrPKRpYK"
       },
@@ -1490,7 +1578,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 124639,
       "name": "Look up! There's a Rainbow!",
       "url": "https://open.spotify.com/track/3G1zdXYejVcg8dS8mR1faH"

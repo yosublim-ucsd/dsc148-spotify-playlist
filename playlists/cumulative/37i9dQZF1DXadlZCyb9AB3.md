@@ -2,9 +2,9 @@
 
 ### [Riot Grrrl](https://open.spotify.com/playlist/37i9dQZF1DXadlZCyb9AB3)
 
-> Sleater\-Kinney, in celebration of their new album "Path of Wellness," co\-curate a list of the defining songs of the riot grrrl era, and the bands keeping its spirit alive.
+> The defining songs of the riot grrrl era, and the bands keeping their spirit alive\. Cover: Sleater\-Kinney
 
-127 songs - 6 hr 15 min
+133 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bright Yellow Gun](https://open.spotify.com/track/5B4M7SIVdfoclqKoSbvykA) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/5DrPmYzVSJwbRboOJQbqqS) | 3:43 | 2021-06-11 | 2022-07-29 |
 | [Bright Yellow Gun](https://open.spotify.com/track/5ZIDI3l4PZOQ40OfzaKChO) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/1vVQEsE0szv3T5nf7IrZKr) | 3:43 | 2021-06-11 |  |
 | [Bright Yellow Gun](https://open.spotify.com/track/6Addv8fHU00jjDoWYGtSMa) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [University](https://open.spotify.com/album/6Lhb12HmS4gx0lOVrdXjWz) | 3:43 | 2021-06-11 | 2022-10-13 |
+| [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 | 2023-06-02 |  |
 | [Cannonball](https://open.spotify.com/track/05jUpJAbg7xtLzB5lsnm64) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Cannonball](https://open.spotify.com/album/1syQ3F5kKN1JdqF6fbDMDc) | 3:33 | 2021-06-11 | 2022-11-13 |
 | [Cannonball](https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61) | 3:33 | 2021-06-11 | 2022-07-29 |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2021-06-11 |  |
@@ -30,6 +31,7 @@
 | [Celebrity Skin](https://open.spotify.com/track/4xlo4oy4TEoUVEOP7wIGlH) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Femei de zece](https://open.spotify.com/album/7kX2JgtQpRHZMOhrDPb8JP) | 2:42 | 2021-06-11 | 2022-11-13 |
 | [Cents Cents Money Money](https://open.spotify.com/track/4hESSfpi81WtBmaWxQN5b6) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad](https://open.spotify.com/album/7Am439nHyL7iypSjAIzmP3) | 2:34 | 2021-06-11 | 2022-07-29 |
 | [Cents Cents Money Money](https://open.spotify.com/track/7fTSouGcePc6eJo0I381Hu) | [Blowout](https://open.spotify.com/artist/6JYNcpvRMjgry4ERB6bLLZ) | [No Beer, No Dad \(Redux\)](https://open.spotify.com/album/32J9rARwZWTK6SMggaofZj) | 2:34 | 2021-06-11 |  |
+| [Change](https://open.spotify.com/track/7MKMH83KVivY9v6iiLODQc) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Change](https://open.spotify.com/album/7hP0UgXC1xZWqclmRH6ciz) | 3:57 | 2023-06-02 |  |
 | [Cool Schmool](https://open.spotify.com/track/1Ztdel2rhBxoPdRbp9km8z) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 2:01 | 2021-06-11 |  |
 | [Cool Schmool](https://open.spotify.com/track/5SQhahcpnWJ6AXZ1N4YIvT) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC) | 2:01 | 2021-06-11 | 2023-04-29 |
 | [Cool Schmool](https://open.spotify.com/track/3piPEvZQsCWNANsNMxH1LU) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/18FoSWsA63ZVL2t859PYv4) | 2:03 | 2021-06-11 | 2022-07-29 |
@@ -50,7 +52,7 @@
 | [Eat Them](https://open.spotify.com/track/35a275I0UYr2P8Eg72s9RF) | [Lady Pills](https://open.spotify.com/artist/0saDlqBbxO1XrZbQFogMCV) | [Despite](https://open.spotify.com/album/4VMaXyrcGDsj1sOaGa6Aum) | 2:11 | 2021-06-11 |  |
 | [Eat Them](https://open.spotify.com/track/3NZkyDOaTyZAmeWWD84s1w) | [Lady Pills](https://open.spotify.com/artist/0saDlqBbxO1XrZbQFogMCV) | [Despite](https://open.spotify.com/album/2YG2YCdxxbUbd967zI1QqS) | 2:11 | 2021-06-11 | 2022-07-29 |
 | [Favorite Neighbor](https://open.spotify.com/track/0r5TbSDRWORni3AMtwMsvW) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 2:49 | 2021-06-11 | 2022-07-29 |
-| [Favorite Neighbor](https://open.spotify.com/track/2wg83IqdmFOOnLwM0r9KM0) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 2:49 | 2021-06-11 |  |
+| [Favorite Neighbor](https://open.spotify.com/track/2wg83IqdmFOOnLwM0r9KM0) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 2:49 | 2021-06-11 | 2023-06-03 |
 | [Feed the Tree](https://open.spotify.com/track/0tEKtLWworiDAh0cCxu6S8) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [The 90s Album](https://open.spotify.com/album/6SzncloJo8iKpSEmDyRAIC) | 3:29 | 2021-06-11 | 2022-11-13 |
 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 | 2021-06-11 |  |
 | [Feed The Tree](https://open.spotify.com/track/43fQztrFu5UpEzqxnDBvLi) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/5fKe3iL64q97JK9Lgp50vz) | 3:29 | 2021-06-11 | 2022-07-29 |
@@ -89,9 +91,11 @@
 | [Love Is the Slug \- Bargainous Longerer Mix](https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK) | [Fuzzbox](https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat) | [Bostin' Steve Austin \(Splendiferous Edition\)](https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ) | 3:57 | 2021-06-11 |  |
 | [Love Thing](https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr) | 1:39 | 2021-06-11 |  |
 | [Love Thing](https://open.spotify.com/track/3sZGf2xRNLODdA76WELYBg) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth \(Remastered\)](https://open.spotify.com/album/5B3FlfoWVwLazsuELgRcAC) | 1:39 | 2021-06-11 | 2023-04-29 |
+| [Luxury Problem](https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 2:53 | 2023-06-02 |  |
 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 | 2021-06-11 |  |
 | [Method](https://open.spotify.com/track/1K2DMwQbkEL8eD5wONpREe) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 4:20 | 2021-06-11 | 2022-07-29 |
-| [Method](https://open.spotify.com/track/6web3LJgjemXdisaTVgHx9) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:20 | 2021-06-11 |  |
+| [Method](https://open.spotify.com/track/6web3LJgjemXdisaTVgHx9) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 4:20 | 2021-06-11 | 2023-06-03 |
+| [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 | 2023-06-02 |  |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2021-06-11 |  |
 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 | 2021-06-11 | 2022-07-29 |
 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 | 2021-06-11 |  |
@@ -106,6 +110,7 @@
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2021-06-11 |  |
 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 | 2021-06-11 |  |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-06-11 |  |
+| [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 | 2023-06-02 |  |
 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 | 2021-06-11 |  |
 | [Semiserious](https://open.spotify.com/track/1ApJJ9ab6kLUsu9CEdOLHV) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/2X07Vhl0SHb5HtGAaigAYq) | 1:40 | 2021-06-11 | 2022-07-29 |
 | [Semiserious](https://open.spotify.com/track/4NkWrgXMQfZA2VeSAd9z7u) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/1zygk2FNA6jzCXkGAXOB21) | 1:40 | 2021-06-11 |  |
@@ -130,8 +135,9 @@
 | [Volcano Girls](https://open.spotify.com/track/3cMliO9emUSa4d1Ap2MbfW) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5) | 3:18 | 2021-06-11 |  |
 | [We Don't Play Guitars](https://open.spotify.com/track/6gftydYIenhPZnox95KU7N) | [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [99 Cents](https://open.spotify.com/album/6BUmp9iDaIOCJZwZ5riq0q) | 3:55 | 2021-06-11 |  |
 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 | 2021-06-11 |  |
-| [Worry With You](https://open.spotify.com/track/4wDQgrs6Ymm6Ufpu5qWb7N) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 3:51 | 2021-06-11 |  |
+| [Worry With You](https://open.spotify.com/track/4wDQgrs6Ymm6Ufpu5qWb7N) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 3:51 | 2021-06-11 | 2023-06-03 |
 | [Worry With You](https://open.spotify.com/track/61gZVgJwD8TYKQXkTX3pJg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 3:51 | 2021-06-11 | 2022-07-29 |
+| [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 | 2023-06-02 |  |
 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 | 2021-06-11 |  |
 | [You](https://open.spotify.com/track/0T4QLWiZMgwjqkyHTky3P1) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 2:49 | 2021-06-11 |  |
 | [You](https://open.spotify.com/track/67YmlYsvLQNzTxmtf34Edk) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line: The Anthology](https://open.spotify.com/album/7zLCnZO3DvbqFKciE2i726) | 2:49 | 2021-06-11 | 2022-07-29 |

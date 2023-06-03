@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "CL\u20acAN\u00a1",
+        "url": "https://open.spotify.com/album/3ZpMamW5ItEBKIVZIVF88J"
+      },
+      "artists": [
+        {
+          "name": "Astrid Canales",
+          "url": "https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "CL\u20acAN\u00a1",
+      "url": "https://open.spotify.com/track/0DTVUW8PXSYFUUQpdn8FnH"
+    },
+    {
+      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 192570,
       "name": "Duele Tanto",
       "url": "https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo"
@@ -3305,6 +3323,28 @@
     },
     {
       "album": {
+        "name": "Pa' Qu\u00e9 Me Amaste",
+        "url": "https://open.spotify.com/album/29TcDcFX3N2lydmnzWgve2"
+      },
+      "artists": [
+        {
+          "name": "Luisa Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/0lBqLIj9upSXEjJ83N92O0"
+        },
+        {
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Pa' Qu\u00e9 Me Amaste",
+      "url": "https://open.spotify.com/track/2KhkJm25N3xAvjob0z7GjC"
+    },
+    {
+      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -3408,7 +3448,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168813,
       "name": "Paz",
       "url": "https://open.spotify.com/track/31SUDrzUgEtCEzIM95GqF2"
@@ -4079,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "S\u00edntomas",
+        "url": "https://open.spotify.com/album/5qmKYsWyOQDKTH2ry0zpI1"
+      },
+      "artists": [
+        {
+          "name": "Gotex",
+          "url": "https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "S\u00edntomas",
+      "url": "https://open.spotify.com/track/4VdiCHT8lIxfErBgROWxF5"
+    },
+    {
+      "album": {
         "name": "Taba",
         "url": "https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO"
       },
@@ -4438,7 +4496,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212000,
       "name": "Un Nuevo Amanecer",
       "url": "https://open.spotify.com/track/79rgCOpyaHdeVQB5bzrlq1"

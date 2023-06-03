@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-125 songs - 11 hr 9 min
+126 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Myrskyn Jälkeen](https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ) | [Eeppi Ursin](https://open.spotify.com/artist/4mZ1U29cyK5MkPefagHlzn) | [My Finnish Soul](https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l) | 4:30 | 2023-01-27 |  |
 | [Ne Hölmöt](https://open.spotify.com/track/2IlAAZBNdZi9g4WKVEvT0O) | [Saarisalo](https://open.spotify.com/artist/6IgTXnqCShUIfXhX2eC8Yl) | [Ne Hölmöt](https://open.spotify.com/album/0uk6R34azCdrEGPYzWidii) | 4:33 | 2022-09-02 |  |
 | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/track/7vFAgpPhAoNXnwVVS4gFOK) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Neon Light \[And the Sky Was Trans\]](https://open.spotify.com/album/0JpAFFtjeBpAPuzsSds87a) | 5:28 | 2022-09-02 | 2023-05-13 |
-| [Never Call You By Yours \(Mother\)](https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Never Call You By Yours \(Mother\)](https://open.spotify.com/album/2dGR3zgJiHUt7VzOS2a6s5) | 4:31 | 2023-05-12 |  |
+| [Never Call You By Yours \(Mother\)](https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Never Call You By Yours \(Mother\)](https://open.spotify.com/album/2dGR3zgJiHUt7VzOS2a6s5) | 4:31 | 2023-05-12 | 2023-06-03 |
 | [Nocturne](https://open.spotify.com/track/0iwtrXQ6hkcuRqSuAhWplA) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Nocturne](https://open.spotify.com/album/54j1wZqvFpfXHSdj2joxkF) | 4:30 | 2023-02-17 | 2023-05-13 |
 | [Northern Journey](https://open.spotify.com/track/7fJ1mBSGYpNtT6tgOHfovt) | [Manuel Dunkel](https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8) | [Northern Journey](https://open.spotify.com/album/7l0MEB1zSQrL6ISBLpJCxf) | 7:17 | 2022-09-02 | 2023-01-28 |
 | [November](https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC) | [Artturi Rönkä](https://open.spotify.com/artist/5OUO2uQgJ6P0eWW4SxMdac), [Daniel Sommer](https://open.spotify.com/artist/3BWDiqu2vlyz18ZDMsZ5VO) | [Varo](https://open.spotify.com/album/1v0xTiCWYokedWuVT8GBTW) | 3:10 | 2022-09-02 |  |
@@ -91,7 +91,7 @@
 | [Parade](https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv) | [Kerkko Koskinen](https://open.spotify.com/artist/2UY9x8QKk1ZIRgNuBtzvxo), [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL), [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq) | [Agatha 2](https://open.spotify.com/album/0Z0wyJ2AhSoqihYUpCCCvC) | 4:06 | 2022-09-02 |  |
 | [Päiväpääsky](https://open.spotify.com/track/5MrclBhxI7GRFhvZpkBufy) | [Sointi Jazz Orchestra](https://open.spotify.com/artist/04g062lZmJMKPKgMkL9E4q), [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j) | [Päiväpääsky](https://open.spotify.com/album/1MI6PfneTeOQ3gA8Tk2HQQ) | 5:32 | 2022-09-02 |  |
 | [Pedro's Dream](https://open.spotify.com/track/7aEFckazRHgF1NkdWlXn4N) | [Héctor Lepe](https://open.spotify.com/artist/1nr8gaRQ525sxS4OPy2VPi), [Juuso Rinta](https://open.spotify.com/artist/2AxEXbSdUmskzdm1Ck4rnJ), [Teemu Mustonen](https://open.spotify.com/artist/0jklIWDFZjXskr9DLufRLL), [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b) | [Pedro's Dream](https://open.spotify.com/album/5f0bPe67qzTpt5wDTIx9Ld) | 5:33 | 2023-05-26 |  |
-| [Pietà](https://open.spotify.com/track/1P8bsOkYZLoWhGYeHAzv5R) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Pietà](https://open.spotify.com/album/6ArjpyxHz5pOJhrM5FPwsB) | 4:43 | 2022-09-02 |  |
+| [Pietà](https://open.spotify.com/track/1P8bsOkYZLoWhGYeHAzv5R) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Pietà](https://open.spotify.com/album/6ArjpyxHz5pOJhrM5FPwsB) | 4:43 | 2022-09-02 | 2023-06-03 |
 | [Pinetree Song](https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0) | [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Pinetree Song](https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ) | 5:29 | 2022-09-02 |  |
 | [Poncho](https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn) | [Mirja Mäkelä Trio](https://open.spotify.com/artist/5zDGpXwDXOqJQ1jh8GrfAy) | [Poncho](https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1) | 3:14 | 2022-09-02 |  |
 | [Projekt 13](https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l) | [Markus Venehsalo](https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2), [Mavon Safia](https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Projekt 13](https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL) | 4:11 | 2023-02-17 | 2023-04-01 |
@@ -114,6 +114,7 @@
 | [Sumu](https://open.spotify.com/track/2k5oko6OV9lmtoie6eJ4eS) | [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Sumu](https://open.spotify.com/album/2vIkioEW4Gv2aRrS4AoubB) | 3:04 | 2022-09-02 | 2023-02-18 |
 | [Sunday 20](https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U) | 5:47 | 2022-09-02 | 2023-02-18 |
 | [Syncopation](https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou) | [Salesvuo Syncopation](https://open.spotify.com/artist/2dN3cwSujoBLOUvVxQBSY6) | [The Complete Loft Sessions](https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE) | 4:34 | 2023-05-26 |  |
+| [The Day](https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Syntax](https://open.spotify.com/album/45CGm3hNDfYcacvfukU2Ee) | 4:42 | 2023-06-02 |  |
 | [The Wheel](https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv) | [Aarni Häkkinen](https://open.spotify.com/artist/5fL8MQ2i1zl3wczWfqAZYk), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn) | [The Wheel](https://open.spotify.com/album/0kKU0PwlEvOxTVgQLs1Qj9) | 7:07 | 2023-03-31 |  |
 | [The World Is Your Oyster](https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7) | [Baba Ganoush Orkestra](https://open.spotify.com/artist/7eWAHn8KdJO4tNckYlkYUV) | [Meze](https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq) | 4:23 | 2022-09-02 |  |
 | [Three Reflections](https://open.spotify.com/track/3CUWqkiPMmfgShrlv4GG1f) | [Jukka Haavisto](https://open.spotify.com/artist/2RelxvToyl730omEP8bdLQ) | [Three Reflections](https://open.spotify.com/album/3mBGXAt5VlWtNy0jaJqMNX) | 5:09 | 2022-10-13 | 2022-10-29 |

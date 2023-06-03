@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 115539,
+  "num_followers": 115900,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGNlYWM5YmY5YjNhYzRjOTM4YjUxNGVhOTM1YTM5ZTQ4ZmYyZWM5",
+  "snapshot_id": "MCwxNGQ2NmY1Zjc5YjM3MTM3ZWZjNWNjYjI2MTk3ZTQ2YTYxNWFmMmE3",
   "tracks": [
     {
       "added_at": "2023-05-30 07:53:43",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
         "name": "Forever, For Always, For Luther",
         "url": "https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 316026,
       "name": "If Only For One Night",
       "url": "https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Dressed To Chill",
         "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 241386,
       "name": "Dressed To Chill",
       "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Porch Java",
-        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
-      },
-      "artists": [
-        {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
-        }
-      ],
-      "duration_ms": 215435,
-      "name": "Porch Java",
-      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Playin' Favorites",
         "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 269800,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Porch Java",
+        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
+      },
+      "artists": [
+        {
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
+        }
+      ],
+      "duration_ms": 215435,
+      "name": "Porch Java",
+      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
         "name": "Last Look",
         "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
       "artists": [
         {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Turn It Out",
+      "url": "https://open.spotify.com/track/5YQHdie7ADuFsqrDoB1AXZ"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Turn It Out",
-      "url": "https://open.spotify.com/track/5YQHdie7ADuFsqrDoB1AXZ"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 259360,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2023-05-30 07:53:43",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-30 07:53:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 280059,
-      "name": "Summer Groove",
-      "url": "https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz"
-    },
-    {
-      "added_at": "2023-05-30 07:53:43",
-      "album": {
         "name": "Next Journey",
         "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 183250,
       "name": "Next Journey",
       "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+    },
+    {
+      "added_at": "2023-05-30 07:53:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 280059,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz"
     },
     {
       "added_at": "2023-05-30 07:53:43",

@@ -2,7 +2,7 @@
 
 ### [Summer Bangers](https://open.spotify.com/playlist/37i9dQZF1DWWevrQ6HpxHI)
 
-> Over 5 hours of classic heaters 🔥
+> 
 
 103 songs - 5 hr 31 min
 

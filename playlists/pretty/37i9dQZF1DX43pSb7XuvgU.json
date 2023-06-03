@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 106461,
+  "num_followers": 106574,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2FjMTk1ZjgwNDViYWMwMjZjMzc0YjJjMDA1NTAyYzZlNjhjNzgx",
+  "snapshot_id": "MCwyMzdmZWU4MGUyZTA4MjY5OTk0ZGU4ZDhlZGIwNGI0NzI3MmYyNTcz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "O T\u00fa o Yo",
-      "url": "https://open.spotify.com/track/0NCQuXo5AGew6q50KwPngk"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "40 Y 20",
         "url": "https://open.spotify.com/album/5ucTTZBnOzd3CDwQ8DwCil"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 259933,
       "name": "Eso Nom\u00e1s",
       "url": "https://open.spotify.com/track/7Dnw1mvrTfVKzefq8lkFNp"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "O T\u00fa o Yo",
+      "url": "https://open.spotify.com/track/0NCQuXo5AGew6q50KwPngk"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 312066,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 139906,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 104253,
-      "name": "\u00bfD\u00f3nde Andar\u00e1?",
-      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 233240,
       "name": "No Me Digas Que Te Vas",
       "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 104253,
+      "name": "\u00bfD\u00f3nde Andar\u00e1?",
+      "url": "https://open.spotify.com/track/1AO54sk6Y4GXGQtZqSaorl"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Los D\u00fao",
-        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 228026,
       "name": "Contigo en la Distancia (with Carlos Cuevas)",
       "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Los D\u00fao",
+        "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
     },
     {
       "added_at": "2021-12-29 23:33:57",

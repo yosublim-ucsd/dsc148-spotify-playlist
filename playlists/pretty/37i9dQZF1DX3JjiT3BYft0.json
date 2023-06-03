@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 56727,
+  "num_followers": 56751,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU5YTk1NTNlMTIwNmM5N2JlODJlZDBjOTEzODlmNTc1YWM2YjZm",
+  "snapshot_id": "MCwwNjMzOTFmMjNjODVlZmFiYmViNzUyZjlkZmJhMTgzODUzYTUzZjNk",
   "tracks": [
     {
       "added_at": "2023-05-30 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u8ff7\u661f\u53eb",
-        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
       },
       "artists": [
         {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
         }
       ],
-      "duration_ms": 271653,
-      "name": "\u540d\u7121\u58f0",
-      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+      "duration_ms": 295813,
+      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
+      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-        "url": "https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl"
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
       },
       "artists": [
         {
-          "name": "Ave Mujica",
-          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
         }
       ],
-      "duration_ms": 295813,
-      "name": "\u3075\u305f\u3064\u306e\u6708 ~Deep Into The Forest~",
-      "url": "https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG"
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u97f3\u4e00\u4f1a",
-        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "\u97f3\u4e00\u4f1a",
-      "url": "https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
         "url": "https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 213746,
       "name": "\u795e\u3055\u307e\u3001\u30d0\u30ab",
       "url": "https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "\u97f3\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "\u97f3\u4e00\u4f1a",
+      "url": "https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "\u97f3\u4e00\u4f1a",
-        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
-      },
-      "artists": [
-        {
-          "name": "MyGO!!!!!",
-          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "\u5f71\u8272\u821e",
-      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
         "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "\u97f3\u4e00\u4f1a",
+        "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "\u5f71\u8272\u821e",
+      "url": "https://open.spotify.com/track/4W3fjoneOyCnevKl1HFuKM"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
+        "name": "\u3069\u304d\u3069\u304dSING OUT!",
+        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
+      },
+      "artists": [
+        {
+          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
+        }
+      ],
+      "duration_ms": 248182,
+      "name": "\u3069\u304d\u3069\u304dSING OUT!",
+      "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
         "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 310427,
       "name": "Yes! BanG Dream! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
-        "name": "\u3069\u304d\u3069\u304dSING OUT!",
-        "url": "https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn"
-      },
-      "artists": [
-        {
-          "name": "\u6238\u5c71 \u9999\u6f84(CV:\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP"
-        }
-      ],
-      "duration_ms": 248182,
-      "name": "\u3069\u304d\u3069\u304dSING OUT!",
-      "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "THRONE OF ROSE",
-        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 232433,
-      "name": "\u4e00\u9022\u306eFull Glory",
-      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "Wahl",
         "url": "https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz"
       },
@@ -1176,15 +1160,15 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 253466,
-      "name": "Dear Gleam",
-      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
+      "duration_ms": 232433,
+      "name": "\u4e00\u9022\u306eFull Glory",
+      "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
     },
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "ZEAL of proud",
-        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
+        "name": "THRONE OF ROSE",
+        "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
       },
       "artists": [
         {
@@ -1192,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Blessing Chord",
-      "url": "https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo"
+      "duration_ms": 253466,
+      "name": "Dear Gleam",
+      "url": "https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 230500,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "ZEAL of proud",
+        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Blessing Chord",
+      "url": "https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo"
     },
     {
       "added_at": "2023-05-30 15:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-05-30 15:00:00",
       "album": {
-        "name": "Anfang",
-        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "BLACK SHOUT",
-      "url": "https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L"
-    },
-    {
-      "added_at": "2023-05-30 15:00:00",
-      "album": {
         "name": "Repaint",
         "url": "https://open.spotify.com/album/6J1E7JWTSA672DpSpRkiLQ"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 233732,
       "name": "Repaint",
       "url": "https://open.spotify.com/track/0qOEdXcgu54ojYVpJWmCtg"
+    },
+    {
+      "added_at": "2023-05-30 15:00:00",
+      "album": {
+        "name": "Anfang",
+        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "BLACK SHOUT",
+      "url": "https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L"
     },
     {
       "added_at": "2023-05-30 15:00:00",

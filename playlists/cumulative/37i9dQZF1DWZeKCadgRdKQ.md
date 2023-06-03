@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-588 songs - 1 day 8 hr 18 min
+590 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Mars Adventure](https://open.spotify.com/track/6pIK0JBICp9vSxyRAf9n2j) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 3:04 | 2019-07-31 | 2020-01-09 |
 | [marshmallows](https://open.spotify.com/track/12LkyDfAbUQ2MIJJpFAe93) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [unwinded](https://open.spotify.com/album/3bIan6sYiCHNEzotGIdacX) | 2:34 | 2021-07-14 |  |
 | [Masollan](https://open.spotify.com/track/4AMeTATGlTyPaPCRzpvN47) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/1i1nw0aTv9wCCeIrfRz3S3) | 5:13 | 2019-05-26\* | 2021-09-14 |
+| [Mastermind](https://open.spotify.com/track/3lt88w6SiiTWWvG0LYXRjx) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Mastermind](https://open.spotify.com/album/5F1yoqSTnOwpncRGT8nV9D) | 2:58 | 2023-06-02 |  |
 | [Materialising](https://open.spotify.com/track/01TPCguqvD4NJCr2Fha2Y5) | [Of Water](https://open.spotify.com/artist/0vrr0Uu8SDXaogmsFovyC2) | [Beyond Exploding Stars](https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP) | 4:08 | 2019-05-26\* | 2020-01-09 |
 | [Mayor Eléctrico](https://open.spotify.com/track/2m4uep4xTPOg8NTv6RtZyJ) | [Nait](https://open.spotify.com/artist/45XwPTweTKUqmRfCkuGzCs) | [NAIT](https://open.spotify.com/album/1sTfSpdRjN1B4JGRkugZej) | 1:36 | 2019-07-12 | 2020-01-09 |
 | [Me, My Brother, the Sunset](https://open.spotify.com/track/1qT2lYDnB1VrwA2Nz1tl2y) | [pär](https://open.spotify.com/artist/2CA5BPBMnTJkl0GZrGN96q) | [Family Roadtrip 1992](https://open.spotify.com/album/1uTEfwCCQFzfvKNt8f1jfR) | 3:08 | 2019-07-31 | 2019-09-11 |
@@ -313,6 +314,7 @@
 | [Memory Tree](https://open.spotify.com/track/6X2e0p6D4xOhHqFYFYNHAu) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:54 | 2019-06-19\* | 2022-07-29 |
 | [middle part](https://open.spotify.com/track/2GNEJcmdJuQK97mWea637Y) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [middle part](https://open.spotify.com/album/7a5iuCtOONCEHJgNdgjaHZ) | 2:19 | 2021-09-29 | 2023-02-18 |
 | [Midnight Land](https://open.spotify.com/track/1bUiyTithUxLGEMZ2RD8US) | [Akustique](https://open.spotify.com/artist/2AOnQvebnP4UuohgsdRJ6A) | [Midnight Land](https://open.spotify.com/album/5cHI2WBSwXtve6PqzmX7DU) | 2:21 | 2023-02-10 |  |
+| [Midnight Mirage](https://open.spotify.com/track/1xohijLMPeS2kW0h9nzoK3) | [Atlas](https://open.spotify.com/artist/1pAVd4cWDRhFi8aTVIIasI) | [Midnight Mirage](https://open.spotify.com/album/17FfPZ34ViabESKqC0se4D) | 2:17 | 2023-06-02 |  |
 | [Migration](https://open.spotify.com/track/7r9cNx76cAD4Uce80Lqyig) | [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Migration](https://open.spotify.com/album/4RJuzMFg5iWb33aTkDq34W) | 3:37 | 2019-06-19\* | 2021-09-14 |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2019-12-31 |  |
 | [Mind Of Lust](https://open.spotify.com/track/6WIbkXGyOIdCEbt1aQXN1r) | [Sandomina](https://open.spotify.com/artist/3Zsv8d3ETW95nBQeND8HNk) | [Mind Of Lust](https://open.spotify.com/album/5Qz06nate2QHEMevilhOQa) | 2:15 | 2020-12-24 |  |

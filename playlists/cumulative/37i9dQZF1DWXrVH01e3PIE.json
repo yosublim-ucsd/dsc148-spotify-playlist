@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
+    },
+    {
+      "album": {
         "name": "MAWZ",
         "url": "https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR"
       },
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 177663,
       "name": "m e t a m o r f o s i s - remix",
       "url": "https://open.spotify.com/track/1zrshsq9z1PRWXndAzGcQX"
@@ -2408,6 +2430,32 @@
       "duration_ms": 181184,
       "name": "Motoquera",
       "url": "https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S"
+    },
+    {
+      "album": {
+        "name": "Municiones",
+        "url": "https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204074,
+      "name": "Municiones",
+      "url": "https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI"
     },
     {
       "album": {
@@ -4104,7 +4152,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 184034,
       "name": "Una Luz en Todo Esto",
       "url": "https://open.spotify.com/track/3VTjIwrfPrnsI49lsF1mMs"

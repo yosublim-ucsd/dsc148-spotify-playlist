@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 80055,
+  "num_followers": 80097,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2NhZDJkOTIwMDQzOGMyY2I2YjYxOTVmMWI1NjBmYWQ2YzhiZTg3",
+  "snapshot_id": "MCw1NTIxMDI2ODgwYTc4ODc1ZDc4YTk4MGI5YTIzZGMzMDQ2YTE3Njdj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
-      },
-      "artists": [
-        {
-          "name": "Esoterica",
-          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
-        }
-      ],
-      "duration_ms": 201487,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 179748,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/5gb8iXoOjlgn9dCXGj0TK3"
+        }
+      ],
+      "duration_ms": 201487,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Road, The Rocks, and The Weeds",
-        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 215014,
-      "name": "The Road, The Rocks, and The Weeds",
-      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Volume II",
         "url": "https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 178796,
       "name": "Starts With You And Me",
       "url": "https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Road, The Rocks, and The Weeds",
+        "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 215014,
+      "name": "The Road, The Rocks, and The Weeds",
+      "url": "https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7"
     },
     {
       "added_at": "2020-09-04 04:02:00",

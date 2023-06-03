@@ -202,7 +202,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142646,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 213360,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "album": {
         "name": "City Painted Gold",
         "url": "https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 126573,
       "name": "Empire Builder",
       "url": "https://open.spotify.com/track/7p1ATyecaQmtiXKY7mdzRN"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 247000,
       "name": "He Ain't Me",
       "url": "https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 289240,
       "name": "How Long",
       "url": "https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 353000,
       "name": "Kalamazoo",
       "url": "https://open.spotify.com/track/5PJDK2nTkv1AETAh9LSXSL"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164346,
       "name": "Local Honey",
       "url": "https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim"
@@ -2770,6 +2788,28 @@
       "duration_ms": 152000,
       "name": "New Earth",
       "url": "https://open.spotify.com/track/1y8ZkHUqgPkgSFDGM55siL"
+    },
+    {
+      "album": {
+        "name": "Next Rodeo",
+        "url": "https://open.spotify.com/album/16EbppchFpI68fnD8Q6kY8"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227995,
+      "name": "Next Rodeo",
+      "url": "https://open.spotify.com/track/5HQlgyXOgo6vyYo4VsVlXw"
     },
     {
       "album": {
@@ -3658,7 +3698,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212598,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/5rvrpTpuFvUm0l0aeN3jzG"
@@ -3864,7 +3904,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 119460,
       "name": "Sometimes it Does",
       "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
@@ -4382,7 +4422,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144567,
       "name": "The Horn",
       "url": "https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4"
@@ -4466,6 +4506,24 @@
       "duration_ms": 228226,
       "name": "The Lonesome Season",
       "url": "https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI"
+    },
+    {
+      "album": {
+        "name": "The Great Big Lie",
+        "url": "https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189611,
+      "name": "The Mask And The Mirror",
+      "url": "https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1"
     },
     {
       "album": {
@@ -4866,7 +4924,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 244280,
       "name": "Untitled #4",
       "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"

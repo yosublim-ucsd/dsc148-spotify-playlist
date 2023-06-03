@@ -4,13 +4,14 @@
 
 > Check out these young 'uns singing your favorite country tunes!
 
-46 songs - 2 hr 26 min
+47 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Achy Breaky Heart](https://open.spotify.com/track/1wevRNu8wImvRIJprqHAwA) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 3:07 | 2022-02-02 |  |
 | [Baby Girl](https://open.spotify.com/track/5z1a8JbS6hGafecEGyWjlT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Country](https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD) | 3:57 | 2022-02-02 |  |
 | [Ballad of Davey Crockett](https://open.spotify.com/track/28dHUJRIYtGqtFlNom8kT5) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 2:44 | 2022-02-02 |  |
+| [Be Anything](https://open.spotify.com/track/0CaIWkfoMvhQ0t0mkfdXhU) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Be Anything](https://open.spotify.com/album/4ERLeYZqdfNL1Hm7mpPYm0) | 3:04 | 2023-06-02 |  |
 | [Before I Knew It](https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Twang](https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S) | 3:21 | 2022-02-02 |  |
 | [Better Life](https://open.spotify.com/track/1wblvnJDt4vxvzuD9gy0eL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Country](https://open.spotify.com/album/7hWtJpqG1iPZZZS0pwHkRD) | 3:49 | 2022-02-02 |  |
 | [Coal Miner's Daughter](https://open.spotify.com/track/3HlSKJnSPjaIAZUMlc7Vdc) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Country Hits](https://open.spotify.com/album/61a2KVhGHB5TxIynsVO9KQ) | 3:19 | 2022-02-02 |  |

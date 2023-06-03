@@ -1101,6 +1101,32 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285853,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4F37VC3DflPXQcwbrnoi0Y"
+    },
+    {
+      "album": {
         "name": "Bordre",
         "url": "https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4"
       },
@@ -2504,7 +2530,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 309680,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
@@ -4398,7 +4424,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 268032,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K"
@@ -4420,6 +4446,24 @@
       "duration_ms": 439024,
       "name": "Loss Of Hope",
       "url": "https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq"
+    },
+    {
+      "album": {
+        "name": "Facets",
+        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286746,
+      "name": "Lost Tales",
+      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
     },
     {
       "album": {
@@ -5763,6 +5807,28 @@
     },
     {
       "album": {
+        "name": "Osaya",
+        "url": "https://open.spotify.com/album/7eowi1M8nTwOXigGzn90J9"
+      },
+      "artists": [
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375483,
+      "name": "Osaya",
+      "url": "https://open.spotify.com/track/5Hmc0lNbOukoKNToiDtMai"
+    },
+    {
+      "album": {
         "name": "Otaku",
         "url": "https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU"
       },
@@ -6134,7 +6200,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
@@ -6574,7 +6640,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 409492,
       "name": "Shades Of Night",
       "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
@@ -7160,6 +7226,24 @@
       "duration_ms": 519120,
       "name": "Synthopia",
       "url": "https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b"
+    },
+    {
+      "album": {
+        "name": "Feathers & Bones",
+        "url": "https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343080,
+      "name": "Synthwave",
+      "url": "https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG"
     },
     {
       "album": {

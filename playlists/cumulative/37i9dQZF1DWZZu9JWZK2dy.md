@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-109 songs - 7 hr 43 min
+110 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 | 2021-09-14 |  |
 | [Ending Song \- The Promise of the World \- Merry\-Go\-Round of Life](https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 6:50 | 2022-07-06 |  |
 | [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 | 2021-09-14 | 2022-12-08 |
-| [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 | 2022-07-06 |  |
+| [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 | 2022-07-06 | 2023-06-03 |
+| [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 | 2022-07-06 |  |
 | [Garnet](https://open.spotify.com/track/2rZUu2qXb7SoUNktHKgfky) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Garnet](https://open.spotify.com/album/1OU1yZN4pMh9IVn9YZVjCL) | 5:19 | 2022-07-06 | 2022-11-13 |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2022-07-06 |  |
 | [Get Over](https://open.spotify.com/track/6mYL8hxtrSgbXCLskzuhSc) | [Dream](https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU) | [Process](https://open.spotify.com/album/52fPQP1V5udSfTFEkxQIT0) | 5:15 | 2021-09-14 |  |

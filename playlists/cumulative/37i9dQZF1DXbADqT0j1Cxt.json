@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 85687,
       "name": "Blott en dag",
       "url": "https://open.spotify.com/track/49XkXcSroi01dECBeMf1wJ"
@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Nighttime Wonders",
+        "url": "https://open.spotify.com/album/568efehzAB9hRRrxziKo7I"
+      },
+      "artists": [
+        {
+          "name": "Arlo Fry",
+          "url": "https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108465,
+      "name": "Lunar Lullaby",
+      "url": "https://open.spotify.com/track/6CSj6jObt28HvdJpZEFBiA"
+    },
+    {
+      "album": {
         "name": "Magical Dreamtime",
         "url": "https://open.spotify.com/album/4OiHMSyOjnpRsDeYhvpzJk"
       },
@@ -5042,7 +5060,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 125000,
       "name": "N\u00e5r du holder h\u00e5nden min",
       "url": "https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9"
@@ -6867,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Nights",
+        "url": "https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR"
+      },
+      "artists": [
+        {
+          "name": "Dore Mi",
+          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119752,
+      "name": "The Magic Boat Ride",
+      "url": "https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1"
+    },
+    {
+      "album": {
         "name": "The Moon And The Stars",
         "url": "https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE"
       },
@@ -7778,7 +7814,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 85904,
       "name": "Var bor du lilla r\u00e5tta?",
       "url": "https://open.spotify.com/track/4rbSsFJeWvZKjKgzLtkRf1"

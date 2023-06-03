@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,454 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,516 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 9 | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u) | 2:39 |
 | 10 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Mister Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
 | 11 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 |
-| 12 | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/album/55lcfTtyhfPTptxe738Pno) | 2:35 |
+| 12 | [Looking At You](https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You](https://open.spotify.com/album/3SS9gjPL8kG4WMg6T20FUk) | 2:35 |
 | 13 | [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 |
 | 14 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 |
 | 15 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 50 | [Expression \- Original Mix](https://open.spotify.com/track/58xbGEktCH3q4LGYDqycZR) | [Andre Longo](https://open.spotify.com/artist/4lyER8wnQt2Im68h4PEVK3) | [Expression](https://open.spotify.com/album/72nnT5nIwBECGvbJYewzQ9) | 4:22 |
 | 51 | [Falling for You](https://open.spotify.com/track/5CG0mHrltJxCqMV0YHZ62x) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Briana](https://open.spotify.com/artist/4EK5SSlytCE7of3wEUqiDE) | [Falling for You](https://open.spotify.com/album/3PlHIJHpzzxNtRzzCy5YUr) | 2:20 |
 
-Snapshot ID: `MCxlM2M0OTE3YmQyOTRlMDg5ZTViYmUwNzE1NGM1Mjk2YmIyMzcwYWZm`
+Snapshot ID: `MCw2YjY4ZTdhZGRkMjk2YzNjODNhYTk3ODUyMzEzMGFhZGFhNmFlMGE4`

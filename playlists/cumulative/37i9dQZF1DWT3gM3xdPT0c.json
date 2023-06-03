@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Am\u00e9lie",
+        "url": "https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b"
+      },
+      "artists": [
+        {
+          "name": "Pascal Desprez",
+          "url": "https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114180,
+      "name": "Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY"
+    },
+    {
+      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
       },
@@ -1751,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Geiranger",
+        "url": "https://open.spotify.com/album/2pSJ62moAENPpLP5Ge4rQf"
+      },
+      "artists": [
+        {
+          "name": "Felix Day",
+          "url": "https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139273,
+      "name": "Geiranger",
+      "url": "https://open.spotify.com/track/00VfPleq7One3xcddII48n"
+    },
+    {
+      "album": {
         "name": "Gentle Stream",
         "url": "https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN"
       },
@@ -2245,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/2raYowNzP5KrWjYaMVcVoF"
+      },
+      "artists": [
+        {
+          "name": "Payton Howard",
+          "url": "https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136301,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5W188DNbU0X0WsxA0f4vsK"
+    },
+    {
+      "album": {
         "name": "Humble Stream",
         "url": "https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1"
       },
@@ -2660,6 +2714,24 @@
       "duration_ms": 177765,
       "name": "Lavendel",
       "url": "https://open.spotify.com/track/4z9Qej0akvAJ9SRbSa4LGY"
+    },
+    {
+      "album": {
+        "name": "Le Pavillon de la Reine",
+        "url": "https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150614,
+      "name": "Le Pavillon de la Reine",
+      "url": "https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4"
     },
     {
       "album": {
@@ -3164,6 +3236,24 @@
       "duration_ms": 122610,
       "name": "Mysteria",
       "url": "https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK"
+      },
+      "artists": [
+        {
+          "name": "Candelion",
+          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89"
     },
     {
       "album": {
@@ -3776,6 +3866,24 @@
       "duration_ms": 111963,
       "name": "Sawdust Floors",
       "url": "https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm"
+    },
+    {
+      "album": {
+        "name": "Seaside",
+        "url": "https://open.spotify.com/album/5aTyBkh2qENyZ2yLKuzQUb"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150008,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/3D3XY8qFF14XSFqhuTi63U"
     },
     {
       "album": {
@@ -5018,6 +5126,24 @@
       "duration_ms": 155875,
       "name": "Windward Breath",
       "url": "https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94"
+    },
+    {
+      "album": {
+        "name": "Abendd\u00e4mmerung",
+        "url": "https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209967,
+      "name": "Winter Solstice",
+      "url": "https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA"
     },
     {
       "album": {

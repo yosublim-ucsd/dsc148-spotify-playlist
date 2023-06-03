@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,748 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,037 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 41 | [WITHOUT LIMITS](https://open.spotify.com/track/5Yg83kIdXfueoh1BMUDjxr) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SPXCZWXLK](https://open.spotify.com/artist/3WrlSOTKIeBRZ6X4bhocdw) | [WITHOUT LIMITS](https://open.spotify.com/album/0wZtlxTmKkoFKw8VG4xcdx) | 3:12 |
 | 42 | [HOLOGRAM](https://open.spotify.com/track/20NjSzmdUKNjFEpfEYj6XA) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [HOLOGRAM](https://open.spotify.com/album/0cm5qj6DKNvUcD0haLZVFp) | 2:13 |
 | 43 | [Перестал мечтать](https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Перестал мечтать](https://open.spotify.com/album/2qBHvwmiX5p9Od7D1QFadg) | 2:48 |
-| 44 | [SMOKE BREAK](https://open.spotify.com/track/6g5Fqi6TitfZ7t8gqoMVc8) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/2zVAkBh88asobH6RmtuXXx) | 2:40 |
+| 44 | [SMOKE BREAK](https://open.spotify.com/track/3k7vLEHpSn96T5Zp8GYYxR) | [RXLVND](https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS), [Soudiere](https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN) | [SMOKE BREAK](https://open.spotify.com/album/5wb170deKuGsfg1CFukBgI) | 2:40 |
 | 45 | [Call Me](https://open.spotify.com/track/7sVUnabs5smgvNm8khfxT2) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 2:44 |
 | 46 | [DIFFERENT NOISE](https://open.spotify.com/track/7trpmghODldJXyjV7uQJT9) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [DIFFERENT NOISE](https://open.spotify.com/album/7h9E0lJnkFzjSllB4zp1Uy) | 2:43 |
 | 47 | [Desolation 2](https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Desolation 2](https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1) | 1:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCw5ZTFkNWU2YjcyYTg3YzA0YzRmMTM5NzYyYTNjYThjZGMzNWUwNjFi`
+Snapshot ID: `MCw5MzVkMGZhZmVjNTMwZWVhNDA3MThmM2FkZDg4Zjc1NWViZWNlM2Vj`

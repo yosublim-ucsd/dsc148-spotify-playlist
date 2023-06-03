@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New Rock driving the current, every week. ",
+  "description": "New Rock driving the current, every week. Cover: KennyHoopla",
   "name": "Rock Frequency",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 181447,
       "name": "\"Filthy\"",
       "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+    },
+    {
+      "album": {
+        "name": "$wing",
+        "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172353,
+      "name": "$wing",
+      "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
     },
     {
       "album": {
@@ -118,6 +136,24 @@
       "duration_ms": 184508,
       "name": "ALL COPS ARE BASTARDS*",
       "url": "https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD"
+    },
+    {
+      "album": {
+        "name": "Concrete Cowboys",
+        "url": "https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c"
+      },
+      "artists": [
+        {
+          "name": "Buggin",
+          "url": "https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92600,
+      "name": "All Eyes On You",
+      "url": "https://open.spotify.com/track/0PCxjGxmj0q3b3wpYZAgWe"
     },
     {
       "album": {
@@ -378,7 +414,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186967,
       "name": "BREAKSHIT",
       "url": "https://open.spotify.com/track/0ok3UY3md3PXEeAIHqUqHB"
@@ -436,6 +472,24 @@
       "duration_ms": 173733,
       "name": "Bullet - Single Version",
       "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
+    },
+    {
+      "album": {
+        "name": "BULLET MAN",
+        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178195,
+      "name": "BULLET MAN",
+      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
     },
     {
       "album": {
@@ -936,7 +990,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 141090,
       "name": "DIRTY WHITE VANS REMIX// (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/4itBuIySoAuWR1gVk1xA1S"
@@ -1048,6 +1102,24 @@
       "duration_ms": 180146,
       "name": "Echolalia",
       "url": "https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p"
+    },
+    {
+      "album": {
+        "name": "ELVIRA",
+        "url": "https://open.spotify.com/album/1TaTRenPe1g6acHgv4gX3q"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111750,
+      "name": "ELVIRA",
+      "url": "https://open.spotify.com/track/5Zzylb0t4kLOGzYw1LDHOg"
     },
     {
       "album": {
@@ -1651,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186910,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
+    },
+    {
+      "album": {
         "name": "Hurt You",
         "url": "https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t"
       },
@@ -1850,7 +1940,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 175180,
       "name": "In Situ",
       "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
@@ -2023,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Keep It Rolling",
+        "url": "https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170426,
+      "name": "Keep It Rolling",
+      "url": "https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ"
+    },
+    {
+      "album": {
         "name": "Heaven To A Tortured Mind",
         "url": "https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW"
       },
@@ -2142,7 +2254,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157089,
       "name": "Little",
       "url": "https://open.spotify.com/track/0lfKHiSPfnNOazjUCyjR8a"
@@ -2164,6 +2276,24 @@
       "duration_ms": 157089,
       "name": "Little",
       "url": "https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ"
+    },
+    {
+      "album": {
+        "name": "Loststar / Want & Need",
+        "url": "https://open.spotify.com/album/3PQ99cQC5sMhEUQfqrC2oC"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166208,
+      "name": "Loststar",
+      "url": "https://open.spotify.com/track/4lhzlzuGyI8IA4GnWvPGqW"
     },
     {
       "album": {
@@ -2302,7 +2432,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
@@ -2598,10 +2728,28 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 140571,
       "name": "Rage",
       "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+    },
+    {
+      "album": {
+        "name": "Red Is My Favorite Color",
+        "url": "https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR"
+      },
+      "artists": [
+        {
+          "name": "JULES IS DEAD",
+          "url": "https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198473,
+      "name": "Red Is My Favorite Color",
+      "url": "https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i"
     },
     {
       "album": {
@@ -2818,7 +2966,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 129119,
       "name": "SICK OF IT*",
       "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
@@ -2902,6 +3050,24 @@
       "duration_ms": 138352,
       "name": "Smack a Bitch",
       "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
+    },
+    {
+      "album": {
+        "name": "So Sentimental",
+        "url": "https://open.spotify.com/album/2n6RlkptiwMVnkRYUIpFUF"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149547,
+      "name": "So Sentimental",
+      "url": "https://open.spotify.com/track/0e6cllU5p2HDCFm2cyKSai"
     },
     {
       "album": {
@@ -3054,7 +3220,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 167317,
       "name": "STUPID (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW"
@@ -3660,6 +3826,42 @@
       "duration_ms": 229517,
       "name": "Wretched",
       "url": "https://open.spotify.com/track/1wmx1Icz0XuAfyU8Dgio74"
+    },
+    {
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
+        "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165519,
+      "name": "youth+",
+      "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
     },
     {
       "album": {

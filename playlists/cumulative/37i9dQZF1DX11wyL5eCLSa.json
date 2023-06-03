@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Hello Seahorse! en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Usted Se\u00f1alemelo en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+    },
+    {
+      "album": {
         "name": "Camino a Tu Casa",
         "url": "https://open.spotify.com/album/3VLtiElmRCAszt0DABLT8J"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212826,
       "name": "Chain Reactionary",
       "url": "https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219707,
       "name": "Demasiado Bien",
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
@@ -1506,6 +1524,24 @@
       "duration_ms": 252428,
       "name": "El Brillo de Tu Ausencia",
       "url": "https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz"
+    },
+    {
+      "album": {
+        "name": "Y Si un D\u00eda Explota el Planeta Quiero Tenerte Cerca",
+        "url": "https://open.spotify.com/album/2QMRKiGFJXe93CzuQaxvZy"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "El Club Internacional de Astronautas Fracasados",
+      "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
     },
     {
       "album": {
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 274277,
       "name": "Hasta Las Hifas, Un Micelio",
       "url": "https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb"
@@ -2901,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Marta, Sebas, Guille y los dem\u00e1s",
+        "url": "https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220269,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1"
+    },
+    {
+      "album": {
         "name": "Mar\u00eda Juana",
         "url": "https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM"
       },
@@ -3028,7 +3082,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 260066,
       "name": "Mejor Que Antes",
       "url": "https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf"
@@ -3220,7 +3274,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189654,
       "name": "Mochi",
       "url": "https://open.spotify.com/track/0XLV0vWarC3F92iCN9NP7k"
@@ -3706,6 +3760,24 @@
       "duration_ms": 215346,
       "name": "Nuestros mundos no obedecen a tus mapas",
       "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+    },
+    {
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186202,
+      "name": "Nuevo Comienzo",
+      "url": "https://open.spotify.com/track/6b2Dw4kSKnmWMyiBXyRX2e"
     },
     {
       "album": {
@@ -4266,6 +4338,28 @@
       "duration_ms": 256000,
       "name": "Sabor Cayena",
       "url": "https://open.spotify.com/track/7AeeynF7fkV4aFFwR9KeiA"
+    },
+    {
+      "album": {
+        "name": "EADDA9223",
+        "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Sasha, Sissi y el C\u00edrculo de Baba - EADDA9223 (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/0HdRf23VtIRpUdHH3mZc3L"
     },
     {
       "album": {

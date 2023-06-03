@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "En Mi Coro",
+        "url": "https://open.spotify.com/album/0EmHlJZFwYrcw6hqeeBpEA"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Eiden y Hacky",
+          "url": "https://open.spotify.com/artist/2GZsR7HeNCAH0GeChpQto8"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235232,
+      "name": "En Mi Coro",
+      "url": "https://open.spotify.com/track/7rkrrR738jFFDW0aewDVxI"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },

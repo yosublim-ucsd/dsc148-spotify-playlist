@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,851 likes - 42 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,919 likes - 42 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 | 38 | [Garaj Baras \- Live](https://open.spotify.com/track/6AtKfYDHipY2MxCQfYXhEZ) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 7:45 |
 | 39 | [Mundiya](https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Quratulain Balouch](https://open.spotify.com/artist/4pHyL6mYJmkx1fCobhVr8N) | [Mundiya](https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X) | 4:58 |
 | 40 | [Zinda \- Live](https://open.spotify.com/track/2mtWqfBSy96nNL2tP0ULLh) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 6:54 |
-| 41 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Fariha Pervez](https://open.spotify.com/artist/5LwE32eXslmO2Ffb0sv0UQ), [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD), [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F), [Wajiha Naqvi](https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
+| 41 | [Na Tutteya Ve](https://open.spotify.com/track/5pUGGNddp1nA7dejIvN6mD) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Sanam Marvi](https://open.spotify.com/artist/72kjPTpFDwhwrHPer3rtGD), [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F), [Wajiha Naqvi](https://open.spotify.com/artist/2JEQT9Ov8j9zNO7lHXWjCk), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Na Tutteya Ve](https://open.spotify.com/album/4mi1P1ua8oKlPol0ZoTplD) | 4:47 |
 | 42 | [Dil Khirki](https://open.spotify.com/track/6YrKCcOXiZQHHU6YxWUHZj) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Dil Khirki](https://open.spotify.com/album/3K9z78A8qaaJ2W4IZ8BRcY) | 3:24 |
 
-Snapshot ID: `MCwwNTUzNGUwMGU2OWJlZDlhNzgwMWYwODc3ZWUyZmU4YTU3YmI5ZmNi`
+Snapshot ID: `MCw2NjJmZjYyZjU4NjhkMDczZTU5ZjRiZDVjNTMwNmQ0MWYzZTFjMGMx`

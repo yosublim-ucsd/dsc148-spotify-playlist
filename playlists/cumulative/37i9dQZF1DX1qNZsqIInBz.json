@@ -2290,6 +2290,28 @@
     {
       "album": {
         "name": "SMOKE BREAK",
+        "url": "https://open.spotify.com/album/5wb170deKuGsfg1CFukBgI"
+      },
+      "artists": [
+        {
+          "name": "RXLVND",
+          "url": "https://open.spotify.com/artist/3OPFLn1ipyM9Z5WewYy5zS"
+        },
+        {
+          "name": "Soudiere",
+          "url": "https://open.spotify.com/artist/01oeaKF2UI2pmIHljhewRN"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SMOKE BREAK",
+      "url": "https://open.spotify.com/track/3k7vLEHpSn96T5Zp8GYYxR"
+    },
+    {
+      "album": {
+        "name": "SMOKE BREAK",
         "url": "https://open.spotify.com/album/2zVAkBh88asobH6RmtuXXx"
       },
       "artists": [
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 160000,
       "name": "SMOKE BREAK",
       "url": "https://open.spotify.com/track/6g5Fqi6TitfZ7t8gqoMVc8"

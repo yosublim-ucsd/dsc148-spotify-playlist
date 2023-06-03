@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A new take on a classic sound. Cover: Durand Jones\n",
+  "description": "A new take on a classic sound. Cover: Lee Fields\n",
   "name": "Retro Soul",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 226605,
       "name": "Beat the Same",
       "url": "https://open.spotify.com/track/4YNS5X205ZvDvRIl1SLAKS"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 194244,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/4oVDopGdLrWqBIpzpRhCqV"
@@ -742,6 +742,24 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "album": {
+        "name": "Crazy For You",
+        "url": "https://open.spotify.com/album/6kiv0BqEcRjmm7Ef4JYWKd"
+      },
+      "artists": [
+        {
+          "name": "Conor Hughes",
+          "url": "https://open.spotify.com/artist/7uVGtNmhKU2sOSmAvr4ElW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/1sRLsk8xQJA3dQPu6iglM7"
     },
     {
       "album": {
@@ -2205,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Love",
+        "url": "https://open.spotify.com/album/78T8IZb2NrmSNtItn2fiWd"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "I Wanna Love",
+      "url": "https://open.spotify.com/track/4Dk6Knrvqxp3aYARRGieaj"
+    },
+    {
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/5X5AlSm63j575hOo1687co"
       },
@@ -2350,6 +2386,24 @@
       "duration_ms": 214373,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/7bfn8c7BGfEx5boZBrkBW5"
+    },
+    {
+      "album": {
+        "name": "In Your Corner",
+        "url": "https://open.spotify.com/album/7EJxq8Zz1Hzn8AtCyHbFsa"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "In Your Corner",
+      "url": "https://open.spotify.com/track/4IBg6ZjiS570apL3CJQhVk"
     },
     {
       "album": {
@@ -2602,7 +2656,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 247166,
       "name": "Keep Your Light on Me",
       "url": "https://open.spotify.com/track/6K5amLJlmAibFCpzMooDv7"
@@ -2718,7 +2772,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 309493,
       "name": "Like a Ship - Live from Strange Manor",
       "url": "https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e"
@@ -2880,7 +2934,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 208573,
       "name": "Love and Hate in a Different Time - Edit",
       "url": "https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W"
@@ -3272,6 +3326,24 @@
       "duration_ms": 242520,
       "name": "Mrs.",
       "url": "https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl"
+    },
+    {
+      "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209053,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG"
     },
     {
       "album": {
@@ -3872,7 +3944,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 223042,
       "name": "Recovery Time",
       "url": "https://open.spotify.com/track/17d1x0NWlRglnOxnAfqWMm"
@@ -4314,6 +4386,24 @@
       "duration_ms": 185773,
       "name": "Sentimental Fool",
       "url": "https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z"
+    },
+    {
+      "album": {
+        "name": "Shinin'",
+        "url": "https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Shinin'",
+      "url": "https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5"
     },
     {
       "album": {
@@ -5668,6 +5758,24 @@
       "duration_ms": 179335,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1HL9e5uqnQg1qxJH2BisfJ"
+    },
+    {
+      "album": {
+        "name": "Waiting on the Sidelines",
+        "url": "https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "You Can Count On Me",
+      "url": "https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1"
     },
     {
       "album": {

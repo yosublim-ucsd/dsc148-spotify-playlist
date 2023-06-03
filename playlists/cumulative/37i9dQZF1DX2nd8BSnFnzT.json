@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 247313,
       "name": "3x4",
       "url": "https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB"
@@ -4494,6 +4494,24 @@
       "duration_ms": 121775,
       "name": "Pegada Colada",
       "url": "https://open.spotify.com/track/0iQCjbuMMyeOCZtnKJcdQu"
+    },
+    {
+      "album": {
+        "name": "As Cartas Que Eu Nunca Enviei",
+        "url": "https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Nova",
+          "url": "https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278275,
+      "name": "Pensando No Oceano",
+      "url": "https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs"
     },
     {
       "album": {

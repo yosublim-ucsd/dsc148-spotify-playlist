@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Rodell Duff, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,741 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,783 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 101 | [Past Tense](https://open.spotify.com/track/0RJhL5CFYu4i98NAGxpaaA) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Past Tense](https://open.spotify.com/album/4ZWU9R7eFQHIghcKXr3IpA) | 3:00 |
 | 102 | [Then There Were Two](https://open.spotify.com/track/00n47GCL6MYcjTbhdgBsnk) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Then There Were Two](https://open.spotify.com/album/6UfTkOblTPXJ0FE1E1M4po) | 3:18 |
 
-Snapshot ID: `MCw4ZGQyNTZkZGM0ZjQ5OTk2ZGFkNjhiNDBiNDk5ZDc3YjM3MmRhYzY3`
+Snapshot ID: `MCw3ZTdhZjQyNzMwZjY1ODkyNWQyOWM0YzQwNGVlYzM4YjdiYzE5N2Zi`

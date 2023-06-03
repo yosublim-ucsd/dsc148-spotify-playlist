@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,481 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,775 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 20 | [Nem Luxo Nem Lixo](https://open.spotify.com/track/5Pn7ldcp8uOZmwPJ3rUf7b) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:05 |
 | 21 | [Ainda É Cedo](https://open.spotify.com/track/7uscfoAoI65JcSY4NyHg1t) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Legião Urbana](https://open.spotify.com/album/3wN9mC8YEdxn4VzdQINF1k) | 3:57 |
 | 22 | [Pra Começar \- Live](https://open.spotify.com/track/1EpWVld69yFDx3uVBryMTS) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Todas Ao Vivo](https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8) | 4:26 |
-| 23 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
+| 23 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
 | 24 | [Flores em você](https://open.spotify.com/track/74I1z55PBTBkBC6Ay5ydf5) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Dose Dupla Ira!](https://open.spotify.com/album/3dU5eiwvDAj229oIBpbY6p) | 1:55 |
 | 25 | [Veraneio Vascaina](https://open.spotify.com/track/1RDIUWZBd4a7K5POj12fOO) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial](https://open.spotify.com/album/05tsAf1h467AEWN46GtKnD) | 2:15 |
 | 26 | [Por que não eu? \- Acústico](https://open.spotify.com/track/6sg6zE2HS29PewtJoXxNe0) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Geração Anos 80](https://open.spotify.com/album/3O0pVgRXK60WPrRVedzRem) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCw5ZGJkOWViZjVmNjI4NGNkOGE4ODc3OWI4ZDdlYjZiNTUyNzhlNGYx`
+Snapshot ID: `MCw1MTljZTcyNzBmNDlmZTVmYmQ1NGMyY2QwYzFjMGUzNjM3Mjg5MDY4`

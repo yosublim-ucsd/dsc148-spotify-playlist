@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Joe Goddard, Fiorious
 
-342 songs - 1 day 0 hr 37 min
+343 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Arms Of Who \- Rework](https://open.spotify.com/track/352SDhyp43IeiCzauKXTyu) | [cornelius](https://open.spotify.com/artist/4VSm0yiY0JB8pPDI8nVPt6), [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms Of Who \(Rework\)](https://open.spotify.com/album/1j9vo0lvIR7yvLEO2lrdD0) | 2:41 | 2023-03-17 |  |
 | [Avlium](https://open.spotify.com/track/3eeeh7W0KLmfPwa37IKL3Q) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui) | [In The Shadows](https://open.spotify.com/album/0nM2K0f7dtBjgkufELqfhC) | 8:21 | 2022-12-30 | 2023-01-02 |
 | [Bad](https://open.spotify.com/track/7vIpp7o0OPjbLHPb7TNAHY) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Bad](https://open.spotify.com/album/6bvi36j9nKaLJz7DzeU4xi) | 2:11 | 2023-04-27 |  |
-| [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-01 |  |
+| [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-01 | 2023-06-03 |
+| [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-01 |  |
 | [Bait](https://open.spotify.com/track/3aEqoNDaoHSGDjH6GuZu9o) | [IXIK](https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW) | [Bait](https://open.spotify.com/album/3wnGJIfAXv18as89ckvk4N) | 3:21 | 2022-12-15 | 2023-02-03 |
 | [Be Where I Am \(feat\. Daniel Wilson\)](https://open.spotify.com/track/4xbckUvPGcKV7QKkr7Fzyd) | [Metroplane](https://open.spotify.com/artist/4NV4qWnRhLrr41zy1IwFGm), [Daniel Wilson](https://open.spotify.com/artist/44eNlYXYkIGob3NU82tgLq) | [Be Where I Am \(feat\. Daniel Wilson\)](https://open.spotify.com/album/10GVWWU5cAKeViqeAhsjpg) | 3:26 | 2022-12-30 | 2023-01-02 |
 | [Because of You \(feat\. Isaac Delusion\)](https://open.spotify.com/track/46HKDN72dkLckTwFV8TrLd) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Dance'O'Drome](https://open.spotify.com/album/2zdjOPQrOLi0n2DRUPLJm7) | 3:28 | 2023-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: No Guidnce",
-  "num_followers": 120849,
+  "num_followers": 120912,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODU3MDBhMWUyZGQ3MDkyZGE3ZTlkZjZiYThmZGY4MzUxMjRlMzdl",
+  "snapshot_id": "MCxhNTExZGZhNmZkOGZjYjExYzkxNzVkNDA4ZTY2MDhkYTU0MjM2ZTZi",
   "tracks": [
     {
       "added_at": "2023-06-01 15:11:58",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 152500,
       "name": "All Good",
       "url": "https://open.spotify.com/track/5rTLetGFtJPn2PxK5z19xs"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Caught Me Running",
-        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Ama Lou",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 194906,
-      "name": "Caught Me Running",
-      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
+        "name": "Dive (Acoustic)",
+        "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Dive - Acoustic",
+      "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
         "name": "Is This Real Love? (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
-        "name": "Dive (Acoustic)",
-        "url": "https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Dive - Acoustic",
-      "url": "https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+      "duration_ms": 339906,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -679,22 +675,6 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 339906,
-      "name": "Don't Let Me Fall",
-      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
         "name": "Evil Eye",
         "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 175194,
       "name": "Evil Eye",
       "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+        "name": "It Only Cost Everything",
+        "url": "https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+      "duration_ms": 148146,
+      "name": "It Only Cost Everything",
+      "url": "https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
-        "name": "It Only Cost Everything",
-        "url": "https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "It Only Cost Everything",
-      "url": "https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Is This Real Love?",
-        "url": "https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 180024,
-      "name": "Is This Real Love?",
-      "url": "https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -939,6 +923,58 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
+        "name": "Is This Real Love?",
+        "url": "https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 180024,
+      "name": "Is This Real Love?",
+      "url": "https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
+        "name": "Timeout",
+        "url": "https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg"
+      },
+      "artists": [
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Timeout",
+      "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"
+    },
+    {
+      "added_at": "2023-06-01 15:11:58",
+      "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
+      },
+      "artists": [
+        {
+          "name": "KAMILLE",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 211049,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -975,38 +1011,18 @@
     {
       "added_at": "2023-06-01 15:11:58",
       "album": {
-        "name": "Muscle Memory",
-        "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
+        "name": "radio silence",
+        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
       },
       "artists": [
         {
-          "name": "KAMILLE",
-          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
         }
       ],
-      "duration_ms": 211049,
-      "name": "Muscle Memory",
-      "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
-        "name": "Timeout",
-        "url": "https://open.spotify.com/album/5uvwM8fgE7PIC0YfpzhJUg"
-      },
-      "artists": [
-        {
-          "name": "Mellina Tey",
-          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"
+      "duration_ms": 131932,
+      "name": "radio silence",
+      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
     },
     {
       "added_at": "2023-06-01 15:11:58",
@@ -1023,22 +1039,6 @@
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
-      "added_at": "2023-06-01 15:11:58",
-      "album": {
-        "name": "radio silence",
-        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
-      },
-      "artists": [
-        {
-          "name": "Ragz Originale",
-          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
-        }
-      ],
-      "duration_ms": 131932,
-      "name": "radio silence",
-      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
     },
     {
       "added_at": "2023-06-01 15:11:58",

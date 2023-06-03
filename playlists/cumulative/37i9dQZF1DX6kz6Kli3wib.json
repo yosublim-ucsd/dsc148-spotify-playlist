@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/1IYeFjTQK6XIlXesQNU8Ag"
+      },
+      "artists": [
+        {
+          "name": "Del Mare",
+          "url": "https://open.spotify.com/artist/2EzJoeY1p5s3JpM97YH67Y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/7EZSvOOlvauQDamANeoSOy"
+    },
+    {
+      "album": {
         "name": "Barracudas EP",
         "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 253098,
       "name": "Barracudas",
       "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
@@ -898,7 +916,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178000,
       "name": "Coalesced",
       "url": "https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH"
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 187075,
       "name": "Wings",
       "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"

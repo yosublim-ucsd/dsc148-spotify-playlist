@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester",
-  "num_followers": 112649,
+  "num_followers": 112666,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNhNzMwMThhZDgzZjkzODM0OWNmMDZlNmQxYTc3MDlkZDIzZmQ4",
+  "snapshot_id": "MCw2YWE1MmJhNDRmYTQ2YjJkMjQzMWVmZmJmNGY3NzkyMzMzOTU4NDU0",
   "tracks": [
     {
       "added_at": "2023-05-24 04:00:00",
@@ -324,22 +324,6 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 155612,
-      "name": "Queen Of Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
@@ -351,6 +335,22 @@
       "duration_ms": 255126,
       "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 155612,
+      "name": "Queen Of Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/1vNvMJO0RCSqrbxWhfEL8K"
     },
     {
       "added_at": "2023-03-21 00:57:42",
@@ -796,6 +796,22 @@
       "added_at": "2023-03-21 00:57:42",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 202690,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
+    },
+    {
+      "added_at": "2023-03-21 00:57:42",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -811,22 +827,6 @@
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
-    },
-    {
-      "added_at": "2023-03-21 00:57:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 202690,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
     },
     {
       "added_at": "2023-03-21 00:57:42",

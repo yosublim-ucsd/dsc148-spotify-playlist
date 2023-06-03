@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-167 songs - 8 hr 50 min
+168 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Sunset Groove](https://open.spotify.com/track/2b95f2mVCMMsd3hXti60if) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Sunset Groove](https://open.spotify.com/album/1NZrHUIs5K3k49LhxIysMf) | 2:58 | 2023-05-05 |  |
 | [Take Off](https://open.spotify.com/track/2DBZDxHb9Pm35HN5B3CylH) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Fragments](https://open.spotify.com/album/3qTvhqa8UtrfAuK8NhWZgT) | 3:49 | 2023-05-05 | 2023-05-23 |
 | [Takes Two](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 2](https://open.spotify.com/album/0xuDJrCDAVY3HPmoArJ2dj) | 3:51 | 2023-05-05 |  |
+| [That kind](https://open.spotify.com/track/3ehPq3MgiAnHVovfD72gDz) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [That kind](https://open.spotify.com/album/0Q784JzKwcsJ3uGNNFJSxO) | 3:02 | 2023-06-02 |  |
 | [The Hamptons](https://open.spotify.com/track/0mfXh24MxeIm3kIJ9gDDOp) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [The Hamptons](https://open.spotify.com/album/7rCpLRT2NW2mEf8blkCkgs) | 3:00 | 2023-05-05 |  |
 | [The man from Belvedere](https://open.spotify.com/track/1FejRJLhghkDcEEoxDpA6s) | [KaeL Juno](https://open.spotify.com/artist/3C2WXVThyB23oE9HICCnux) | [The man from Belvedere](https://open.spotify.com/album/3gl6i7N9soagDkaOrImZVk) | 2:54 | 2023-05-05 |  |
 | [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2023-05-05 |  |
@@ -157,7 +158,7 @@
 | [Tokyo Nights](https://open.spotify.com/track/5txysze9nL710gd1YGo0E9) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Tokyo Nights](https://open.spotify.com/album/5tDeMaVYGQr0JOj4wffYNT) | 3:03 | 2023-05-05 |  |
 | [Top Down](https://open.spotify.com/track/3r7tFrel575DehLHsxjb5B) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Feeling Bright](https://open.spotify.com/album/6gc9uh90k8s09eWH4fgXgN) | 3:16 | 2023-05-05 |  |
 | [Trigger Fool \(feat\. Azamaan Hoyvoy\)](https://open.spotify.com/track/40IFfrt1s0niiFkXnSC5wG) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Azamaan Hoyvoy](https://open.spotify.com/artist/1LbuU8d58KvC224d5abMiF) | [Trigger Fool \(feat\. Azamaan Hoyvoy\)](https://open.spotify.com/album/0ViFxFgJEp6aNRAdGnlKst) | 3:40 | 2023-05-05 |  |
-| [Trying to Make it Home](https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Trying to Make it Home](https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi) | 5:42 | 2023-05-05 |  |
+| [Trying to Make it Home](https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Trying to Make it Home](https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi) | 5:42 | 2023-05-05 | 2023-06-03 |
 | [Turismo](https://open.spotify.com/track/108W5jcKxdywlm0j2nu6K7) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Turismo](https://open.spotify.com/album/3S1ceyspbPiR39cyXAAjYm) | 2:20 | 2023-05-05 |  |
 | [twisted torso](https://open.spotify.com/track/2sZOurwf8lDWXIeYYDLq7n) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [twisted torso](https://open.spotify.com/album/1WGMMXqaSQleZByPkk3rp7) | 2:46 | 2023-05-05 |  |
 | [under the moon](https://open.spotify.com/track/42pudwLPmQT4AnegS85Yz4) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [under the moon](https://open.spotify.com/album/7mIKs5agQHWqo9w5bnVSEN) | 3:47 | 2023-05-05 |  |

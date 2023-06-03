@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 300678,
+  "num_followers": 300777,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGM5MjQ3YTg4OTgxMjkzNmFmOTVkOGM1YjJiNGU5NzQyZmJhOWI4",
+  "snapshot_id": "MCw3YjcyNDE2OGY4YTczYjMyYTZjMjBlNWQ4Nzc0MWE0YjQwYTNhOWE5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -68,17 +68,21 @@
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H"
+        "url": "https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU"
       },
       "artists": [
         {
           "name": "Vulfmon",
           "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
         }
       ],
       "duration_ms": 145003,
       "name": "I Can\u2019t Party",
-      "url": "https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8"
+      "url": "https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z"
     },
     {
       "added_at": "2023-05-05 04:01:00",

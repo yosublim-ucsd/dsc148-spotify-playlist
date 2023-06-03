@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 209535,
       "name": "Between the Spacetrains and Me",
       "url": "https://open.spotify.com/track/5hDiiAJuIbObgDKehuIY2k"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 391304,
       "name": "Contingency Song",
       "url": "https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860"
@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "limewire",
+        "url": "https://open.spotify.com/album/5jCZgZD5ndkOHAJD3u3drI"
+      },
+      "artists": [
+        {
+          "name": "untitled halo",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "limewire",
+      "url": "https://open.spotify.com/track/28HqSYL38aee5YEqh3zS9m"
+    },
+    {
+      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 287173,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1PzGeaFYnvJ5rpxMP1SI14"
@@ -2346,6 +2364,24 @@
       "duration_ms": 178937,
       "name": "Rose In A Glass",
       "url": "https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o"
+    },
+    {
+      "album": {
+        "name": "Sckrpnch",
+        "url": "https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz"
+      },
+      "artists": [
+        {
+          "name": "waveform*",
+          "url": "https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101952,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA"
     },
     {
       "album": {
@@ -2645,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "veil",
+        "url": "https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "Olya Holiday",
+          "url": "https://open.spotify.com/artist/7yH0tCtttU4pORkXn6rWZS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107776,
+      "name": "veil",
+      "url": "https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz"
+    },
+    {
+      "album": {
         "name": "Ver\u00f3nica Pass",
         "url": "https://open.spotify.com/album/5bqgcc97DxAORtjTBfrXwP"
       },
@@ -2786,6 +2844,24 @@
       "duration_ms": 203033,
       "name": "WISH ME LUCK",
       "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "album": {
+        "name": "wonder if u care",
+        "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134556,
+      "name": "wonder if u care",
+      "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
     },
     {
       "album": {

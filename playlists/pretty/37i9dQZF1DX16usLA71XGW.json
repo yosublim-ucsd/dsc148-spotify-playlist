@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 2816,
+  "num_followers": 2820,
   "original_name": "Malkia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODAzZmE3MmVhYTljZmU4NGM2MTk4YzQ1NzU0MGU3Yzc2MzcxYmMz",
+  "snapshot_id": "MCxlZTZmYmI3NTE0MDEyODRlZGMwZDlkN2M0OTA2OTQxNjM4ZDQ1OWNj",
   "tracks": [
     {
       "added_at": "2023-06-01 22:59:00",
@@ -139,6 +139,22 @@
       "duration_ms": 193410,
       "name": "Wandiisa Ki",
       "url": "https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo"
+    },
+    {
+      "added_at": "2023-06-01 22:59:00",
+      "album": {
+        "name": "Raha",
+        "url": "https://open.spotify.com/album/1wroced4483UjUHEPZXfzA"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Raha",
+      "url": "https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ"
     },
     {
       "added_at": "2023-06-01 22:59:00",

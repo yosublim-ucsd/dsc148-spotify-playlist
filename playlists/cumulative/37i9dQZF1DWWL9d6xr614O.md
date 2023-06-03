@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-116 songs - 9 hr 5 min
+118 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [Ako’y Lumalapit](https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex) | [Avenue of Grace Worship](https://open.spotify.com/artist/2NwMDlv8xyqpptsuasQswC), [Jeanne Columbine Rodriguez](https://open.spotify.com/artist/36hIhBw88ScawVgplXcMYk) | [Ako’y Lumalapit](https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp) | 5:17 | 2022-04-15 |  |
 | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Another In The Fire \(Tagalog Version\)](https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ) | 4:15 | 2023-05-05 |  |
 | [Bagong Buhay](https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Bagong Buhay](https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5) | 3:40 | 2022-04-15 |  |
-| [Beautiful](https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli) | 5:34 | 2022-04-15 |  |
+| [Beautiful](https://open.spotify.com/track/3q7FPEDlu4LPAt51vovq82) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/3yhuVybhx9FmLa5LPJFqhF) | 5:34 | 2023-05-05 |  |
+| [Beautiful](https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli) | 5:34 | 2022-04-15 | 2023-06-03 |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-04-15 |  |
 | [Breathe \- Live](https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Wonderstruck](https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH) | 9:23 | 2023-04-21 |  |
 | [BUNTONG HININGA](https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [BUNTONG HININGA](https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2) | 4:28 | 2022-04-15 |  |
-| [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 | 2022-04-15 |  |
+| [Change My Heart, Oh God](https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY) | 5:24 | 2023-05-05 |  |
+| [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 | 2022-04-15 | 2023-06-03 |
 | [Confession](https://open.spotify.com/track/21ECSoDa2Z8NjzNs9133x0) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Confession](https://open.spotify.com/album/7aO5bOCwrYCx33fUzuaKVO) | 3:10 | 2022-04-15 |  |
 | [Dakilang Kaloob](https://open.spotify.com/track/7fTbQWBsJvShgg1wc3L7ta) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Dakilang Kaloob](https://open.spotify.com/album/52JCoJKm2RHU6NnUysVoj8) | 3:55 | 2022-04-15 |  |
 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Josh Kpozehouen](https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 5:07 | 2023-03-31 |  |

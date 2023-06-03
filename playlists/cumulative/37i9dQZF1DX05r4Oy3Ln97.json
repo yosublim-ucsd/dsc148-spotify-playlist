@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/4nbm6b2X0Og5uQpzbDdYEn"
       },
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "Green Green Grass - Majestic Remix",
       "url": "https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi"
@@ -2695,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo"
+    },
+    {
+      "album": {
         "name": "Little Airplanes",
         "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
@@ -3024,7 +3064,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 139338,
       "name": "meet me on the moon",
       "url": "https://open.spotify.com/track/2FrMB9ShPgv4ecYFz2DWEO"
@@ -3964,7 +4004,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 235000,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5zxbZVvlzdWuVNN2CqswcM"
@@ -4074,7 +4114,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178064,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/2AxFcVih1VdwBdeWsM9ra8"

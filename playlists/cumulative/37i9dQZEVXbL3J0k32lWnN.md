@@ -4,11 +4,12 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,107 songs - 2 day 9 hr 42 min
+1,108 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+45 1888](https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:50 | 2023-02-11 | 2023-04-07 |
+| [00'er Pige](https://open.spotify.com/track/5GDjJI8Fr1pAb5fXrJQppv) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [00'er Pige](https://open.spotify.com/album/5RqOrrPiSZJE9ufD5WUQp4) | 2:16 | 2023-06-02 |  |
 | [03:15 \(feat\. KESI\)](https://open.spotify.com/track/1d0qTcufwr0b58PQj3ezAN) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:31 | 2022-09-03 | 2022-09-11 |
 | [07 I 6A](https://open.spotify.com/track/1PjIWIzLRtYrGNZF9VVBiX) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:00 | 2022-10-22 | 2022-10-31 |
 | [1 Sammen](https://open.spotify.com/track/17y8YQMtDmaSKDvzBlHPD3) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 3:18 | 2022-01-15 | 2022-02-20 |
@@ -341,7 +342,7 @@
 | [Fool](https://open.spotify.com/track/23fMmSZ4Utoimpuyt8aWg6) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Fool](https://open.spotify.com/album/2CFpcEStLcKZ4CgDEhAKJG) | 3:08 | 2022-04-02 | 2022-04-09 |
 | [FOR ALT1D](https://open.spotify.com/track/42MWZWfwbpd6rWyJsPRNxj) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:06 | 2023-03-18 | 2023-03-20 |
 | [For Altid](https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [For Altid](https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X) | 2:23 | 2023-02-04 |  |
-| [For Livet](https://open.spotify.com/track/4bgoQq0XDzMdEK1CJzbQlU) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 6:39 | 2023-05-13 |  |
+| [For Livet](https://open.spotify.com/track/4bgoQq0XDzMdEK1CJzbQlU) | [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [Dansktop](https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5) | 6:39 | 2023-05-13 | 2023-06-03 |
 | [For Livet](https://open.spotify.com/track/05fh618e9VVYzg2ls1WMPw) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [21](https://open.spotify.com/album/5RGTd5otQxur43tuhCwAiY) | 2:04 | 2021-11-14 | 2021-11-14 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-09 | 2023-01-22 |
 | [Forfra](https://open.spotify.com/track/72DGAz9ZCojXXdjAGFmiPa) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 3:08 | 2022-09-03 | 2022-09-05 |

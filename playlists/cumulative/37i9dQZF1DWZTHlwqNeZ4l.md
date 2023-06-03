@@ -4,7 +4,7 @@
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 
-53 songs - 3 hr 32 min
+54 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 | 2022-07-29 |  |
 | [Real Friends](https://open.spotify.com/track/6C4j3qW5h6GjvF5FbcoBvz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/0WAuEfa5Lmg72xfydLVcca) | 4:11 | 2017-06-02 | 2022-07-29 |
 | [Real Love](https://open.spotify.com/track/2LfOLw9Cq3J7okmaNuoUWq) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Real Love](https://open.spotify.com/album/2vo4oS67h53A4lugsqxiyq) | 4:17 | 2017-06-02 | 2022-07-29 |
-| [Real Love](https://open.spotify.com/track/6lU6rPNgmEhilIurtFmkFm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 4:17 | 2022-07-29 |  |
+| [Real Love](https://open.spotify.com/track/6lU6rPNgmEhilIurtFmkFm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 4:17 | 2022-07-29 | 2023-06-03 |
+| [Real Love](https://open.spotify.com/track/6sNy4KFU2xAIrFZ5DUtDUp) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 4:17 | 2023-06-03 |  |
 | [See, Know](https://open.spotify.com/track/3VjhqZXe5WYyyFYgCrVJkO) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/5TQGEWrZpq2O5TdRbLID3q) | 5:04 | 2017-06-02 | 2022-07-29 |
 | [See, Know](https://open.spotify.com/track/6bAgNeCSmRrKtOaHHD5aSl) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 5:04 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2022-07-29 |  |

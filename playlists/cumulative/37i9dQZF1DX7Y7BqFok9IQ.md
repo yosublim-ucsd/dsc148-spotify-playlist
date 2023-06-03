@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-225 songs - 14 hr 12 min
+226 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,8 +118,8 @@
 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 | 2020-10-16 |  |
 | [Lonely Road](https://open.spotify.com/track/38hLO27dbXiuyDoLdq2hHh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Lonely Road](https://open.spotify.com/album/5VL4wl6fXGSQoAIJTC1ISo) | 3:44 | 2023-04-21 |  |
 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 | 2022-10-21 | 2023-05-17 |
-| [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 | 2022-10-14 |  |
-| [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 |  |
+| [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |
+| [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2023-06-03 |
 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 |  |
 | [Lucky](https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Rollin'](https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o) | 4:54 | 2022-04-29 |  |
@@ -233,5 +233,6 @@
 | [Wrong Again](https://open.spotify.com/track/0TOo42fplgu1SFbL5Sts1g) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wrong Again](https://open.spotify.com/album/7LBOvX3YbHAs90gpBPCW1D) | 4:10 | 2022-03-25 |  |
 | [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 | 2023-05-06 |
 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 | 2020-10-16 |  |
+| [You Pushed Me](https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [You Pushed Me](https://open.spotify.com/album/4N20MOAxyJDC6LIlbySax6) | 3:21 | 2023-06-02 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

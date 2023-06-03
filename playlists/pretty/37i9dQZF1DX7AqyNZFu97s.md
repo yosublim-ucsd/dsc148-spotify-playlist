@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Frozemode
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,947 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,951 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [white lies](https://open.spotify.com/track/1nD7tvc7KNnhM2YzqOjm4L) | [Zoey Lily](https://open.spotify.com/artist/0LazfGmIM2fG2g9Xg3ZLWA) | [white lies](https://open.spotify.com/album/0QkMWZeKQNeYMK0cfUY16c) | 2:29 |
 | 80 | [Just For Me](https://open.spotify.com/track/3B5GbmQyqwTE02pyXMX0qL) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Just For Me](https://open.spotify.com/album/6LV5LC2plzOUR9rp1bFSR7) | 2:38 |
 
-Snapshot ID: `MCwxNGM4MzBjNzUyNzRiNTIxNDgxMDJjYzQ3OGFmZjdhZDdiNmI5ZGFj`
+Snapshot ID: `MCw3OTdlODMzODdhZjA0NzMyOTBlMjJlNDBhYTQwYTFkMzY3ZTc2ZTUw`

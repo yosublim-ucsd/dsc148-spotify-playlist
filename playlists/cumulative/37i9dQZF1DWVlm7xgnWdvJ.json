@@ -1566,6 +1566,28 @@
     {
       "album": {
         "name": "Alright Mate",
+        "url": "https://open.spotify.com/album/09ViJlYhlXIRSB0rg17OSw"
+      },
+      "artists": [
+        {
+          "name": "Jesse Rose",
+          "url": "https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq"
+        },
+        {
+          "name": "Avon Stringer",
+          "url": "https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168133,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1AaDIOjJHuUYygQqhaAKkH"
+    },
+    {
+      "album": {
+        "name": "Alright Mate",
         "url": "https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb"
       },
       "artists": [
@@ -1580,7 +1602,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168133,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys"

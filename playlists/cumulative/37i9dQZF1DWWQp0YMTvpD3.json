@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 275510,
       "name": "Alla Prima",
       "url": "https://open.spotify.com/track/5qIGheFvtMbdmffqHvaBvV"
@@ -4990,6 +4990,24 @@
       "duration_ms": 289179,
       "name": "They Do Exist",
       "url": "https://open.spotify.com/track/656iCGkgKBbDxvFs5EfzGK"
+    },
+    {
+      "album": {
+        "name": "Island Bypass",
+        "url": "https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4"
+      },
+      "artists": [
+        {
+          "name": "WingIt",
+          "url": "https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Think im falling",
+      "url": "https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu"
     },
     {
       "album": {

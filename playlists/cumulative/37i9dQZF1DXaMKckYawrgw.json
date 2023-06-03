@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
+  "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Inspector en portada. ",
   "name": "MexSka ",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 280080,
       "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
       "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
+    },
+    {
+      "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251680,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
     },
     {
       "album": {
@@ -526,7 +544,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 257240,
       "name": "Como Un Sol",
       "url": "https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui"
@@ -714,6 +732,28 @@
       "duration_ms": 187493,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "album": {
+        "name": "El Chapul\u00edn",
+        "url": "https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR"
+      },
+      "artists": [
+        {
+          "name": "Paco Ellington",
+          "url": "https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg"
+        },
+        {
+          "name": "Skapoli",
+          "url": "https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206636,
+      "name": "El Chapul\u00edn",
+      "url": "https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5"
     },
     {
       "album": {
@@ -2076,7 +2116,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"

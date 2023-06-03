@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
+      },
+      "artists": [
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+    },
+    {
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -850,7 +872,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 148800,
       "name": "Fim de Tarde",
       "url": "https://open.spotify.com/track/6vM3pfusC9NWGD4oIVPwy7"
@@ -1519,6 +1541,32 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/6nlM0dUqztySAw4myinBJm"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Kayo Santos",
+          "url": "https://open.spotify.com/artist/46GdZtZqTsXIn1kRkaGlLP"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/59XCynPBca1wXWHIV097Y9"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -2028,7 +2076,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 152812,
       "name": "Se Pecado Fosse Bom (Slap House) - Remix",
       "url": "https://open.spotify.com/track/5lNRFC6GJLtNIyZzu4TrKm"

@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: The Weeknd",
-  "num_followers": 544308,
+  "num_followers": 544328,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTFjYTQ1YzEyNjA2MmZmMzI0YjU1YzQ2YmVhNWFmMDRiNDMyMDZi",
+  "snapshot_id": "MCxiNWFmMDIzMTk3ZThjYzBhMWE0MWY3NjU3MWQ2MDUxNThmODQwYmZj",
   "tracks": [
     {
       "added_at": "2023-06-01 23:00:00",
@@ -27,6 +27,30 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2023-06-01 23:00:00",
+      "album": {
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
     },
     {
       "added_at": "2023-06-01 23:00:00",

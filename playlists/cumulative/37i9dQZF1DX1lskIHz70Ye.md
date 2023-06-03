@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-155 songs - 7 hr 48 min
+156 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Lake Tahoe](https://open.spotify.com/track/1WzAwlgMrKrbImVPK7nxHY) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 3:02 | 2022-03-03 |  |
 | [Lembrei de Você](https://open.spotify.com/track/2qXVRAwRPbnPOTQv9ov0Zq) | [João Callado](https://open.spotify.com/artist/6eDeimOkEXaz1QkTkRuGjB), [Maurício Massunaga](https://open.spotify.com/artist/66CvqABI3thHckYwuwxk6i) | [Lembrei de Você](https://open.spotify.com/album/7qyVZP9PsptfF9ERJe7OpL) | 4:08 | 2022-07-15 |  |
 | [Life As We Knew It](https://open.spotify.com/track/2GMPd1Imsdm4l9nQAdLKEe) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Life As We Knew It](https://open.spotify.com/album/3F8Wf8zgwhjhisqdpTGcG5) | 3:37 | 2022-10-07 |  |
+| [Longing For Some Sunshine](https://open.spotify.com/track/2th2s4TDymYISksJgJCyT4) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Longing For Some Sunshine](https://open.spotify.com/album/0KPkh56c8ctM3Z6pcwMPpw) | 3:12 | 2023-06-02 |  |
 | [Lost Love Letters](https://open.spotify.com/track/5NyDVqv60SoalJa8xJo2VY) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Lost Love Letters](https://open.spotify.com/album/1yGo5sPJUWA72PVkYPhHNo) | 2:42 | 2022-10-28 |  |
 | [Love Letter 1 \- Guitar Solo](https://open.spotify.com/track/2q7sQMlVltYFHo479M0X2o) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 1 \(Guitar Solo\)](https://open.spotify.com/album/2yW3sBoJlFPbHXHxuMiSxC) | 3:39 | 2022-09-02 |  |
 | [Love Letter 2 \- Guitar Solo](https://open.spotify.com/track/3Ja1ilSiwlj5NisHVbfCSV) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 2 \(Guitar Solo\)](https://open.spotify.com/album/0EJLdJoq9IKN0MrKo5NGDu) | 2:11 | 2022-09-17 |  |

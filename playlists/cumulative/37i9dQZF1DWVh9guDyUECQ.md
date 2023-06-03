@@ -4,7 +4,7 @@
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-326 songs - 19 hr 13 min
+327 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Alabao](https://open.spotify.com/track/7keU5IyhwslJHLKQRqQPib) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf), [El Vacile Gang](https://open.spotify.com/artist/5RbfExBOz0etBLpKbvLkS1) | [Alabao](https://open.spotify.com/album/0AF9JmlK90ZXnl7EnyPU6s) | 2:48 | 2021-11-05 | 2022-04-18 |
 | [Alante Alante](https://open.spotify.com/track/1BFhZ6d45WF88zYgj6GpC4) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/12Zeqvk6kAz8ELKNKztD8e) | 2:48 | 2022-04-29 | 2023-06-01 |
 | [Alante Alante](https://open.spotify.com/track/1rUOIYt3UFEPyNl2uygFgS) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/7flUaA2ScuRWL78LJbGAEw) | 2:48 | 2022-04-17 | 2022-07-29 |
+| [Alante Alante](https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1) | 2:48 | 2022-08-27 |  |
 | [Alarma](https://open.spotify.com/track/61haWp64UutoQMoQZc9zhI) | [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Alarma](https://open.spotify.com/album/15956bom40qfxuYRh9XTbB) | 2:48 | 2021-11-05 | 2022-03-17 |
 | [Algo Nuevo](https://open.spotify.com/track/7on0KY5Q2G9arha991EDXY) | [Fernando Martinez](https://open.spotify.com/artist/3xRUFO6d9ZFpxAwpXhTS9D), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [JESUA](https://open.spotify.com/artist/5l1MVBQRcJ9zuM5bOOdajo) | [Algo Nuevo](https://open.spotify.com/album/1I1z1HqYlwco8pBiRntsdF) | 3:20 | 2021-11-05 | 2022-03-17 |
 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 | 2022-08-27 |  |
@@ -203,7 +204,7 @@
 | [No Te Creo](https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [No Te Creo](https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb) | 3:16 | 2022-04-17 | 2023-04-30 |
 | [No Te Soltaré](https://open.spotify.com/track/5kFrbg0qPkzCWJkoNzJOBL) | [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [No Te Soltaré](https://open.spotify.com/album/1GwWEaEIiv9IOQ06DNOt6W) | 3:29 | 2022-04-17 | 2022-08-28 |
 | [No Te Vas](https://open.spotify.com/track/3gPmYreGrUrmlLbIIoSJnh) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [No Te Vas](https://open.spotify.com/album/0Gl3EtmzpF49ZcnHt49lA0) | 2:39 | 2021-11-05 | 2022-04-18 |
-| [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 | 2021-11-05 |  |
+| [No Tiene Sentido](https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP) | [Esencia Pr](https://open.spotify.com/artist/5OyUXzH1TSSG8e9ETUMieM), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [No Tiene Sentido](https://open.spotify.com/album/1o7jXsTfe2SrhI4HEPoaKO) | 4:13 | 2021-11-05 | 2023-06-03 |
 | [No Vale La Pena](https://open.spotify.com/track/3uzuLsLme7WSunGwqU6IEN) | [Breyk](https://open.spotify.com/artist/20lSo08NDqH07OkOvP4MF6) | [No Vale La Pena](https://open.spotify.com/album/5sG7k1R90n4Bq7DcDiOxX2) | 3:08 | 2021-11-05 | 2022-03-19 |
 | [No, No](https://open.spotify.com/track/0CBo1PYkAlcpWUaQ0NsBgw) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [No, No](https://open.spotify.com/album/548RYuHGPoUtQ1FXlbRnRe) | 2:56 | 2022-04-17 |  |
 | [Noches Enteras](https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Noches Enteras](https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup) | 3:51 | 2022-04-17 |  |

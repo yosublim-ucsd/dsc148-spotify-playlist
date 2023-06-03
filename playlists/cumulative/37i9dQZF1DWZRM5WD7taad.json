@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176130,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS"
+    },
+    {
+      "album": {
         "name": "90's",
         "url": "https://open.spotify.com/album/3ugKqSFHw2RVmGKEwd3zMl"
       },
@@ -2105,6 +2123,28 @@
     },
     {
       "album": {
+        "name": "Me Escojo A Mi",
+        "url": "https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168963,
+      "name": "Me Escojo A Mi",
+      "url": "https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr"
+    },
+    {
+      "album": {
         "name": "Directo al Cora",
         "url": "https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81"
       },
@@ -2226,6 +2266,24 @@
       "duration_ms": 155594,
       "name": "Merch",
       "url": "https://open.spotify.com/track/3eHQUipnS6lCIWRhKa8Fs3"
+    },
+    {
+      "album": {
+        "name": "Merito Propio",
+        "url": "https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Merito Propio",
+      "url": "https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 210821,
+  "num_followers": 210948,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTEyOWNiMmExNDBlZWU3YTFlMzg0NDYzNTZjZDcxZDRiZmVlN2U0",
+  "snapshot_id": "MCxkMjJiOGVkNzZmMWNmZWJiNDVlNWQxZjdlYmE0OTA1MjEyZGFlOWUz",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "B Sides",
         "url": "https://open.spotify.com/album/6nj4lFf0LIu3W4iRbr02Ko"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 144840,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1e5eUUQ3K7cnlOFoSG6iAk"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -551,6 +551,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Be Thou My Vision",
+      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Be Thou My Vision",
-      "url": "https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -767,6 +767,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
-      },
-      "artists": [
-        {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
-        }
-      ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Heavenly Father",
         "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 374117,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Footprints (Acoustic)",
         "url": "https://open.spotify.com/album/3uppRGTB0NYCvIdVdch91O"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
       },
       "artists": [
         {
-          "name": "Zan Fiskum",
-          "url": "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Zan Fiskum",
+          "url": "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
         }
       ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1167,6 +1151,22 @@
       "duration_ms": 225600,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Kingdoms",
         "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 207135,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Fortress (Acoustic)",
+        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
+      },
+      "artists": [
+        {
+          "name": "Refuge Worship",
+          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
+        }
+      ],
+      "duration_ms": 249485,
+      "name": "Fortress (Acoustic)",
+      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "King Of Kings (Live)",
         "url": "https://open.spotify.com/album/56szTr38sq2s6lfDseP3jm"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 291565,
       "name": "King Of Kings - Live",
       "url": "https://open.spotify.com/track/5fShaoGs6VDmBOE7YVbS39"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Fortress (Acoustic)",
-        "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
-      },
-      "artists": [
-        {
-          "name": "Refuge Worship",
-          "url": "https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz"
-        }
-      ],
-      "duration_ms": 249485,
-      "name": "Fortress (Acoustic)",
-      "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
     },
     {
       "added_at": "2020-08-31 15:19:19",

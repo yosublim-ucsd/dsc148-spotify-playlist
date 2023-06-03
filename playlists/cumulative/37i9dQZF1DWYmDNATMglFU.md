@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. lauren sanderson
 
-554 songs - 1 day 3 hr 40 min
+555 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 |  |
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2022-01-07 | 2022-11-01 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-10-07 |
-| [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 |  |
+| [cut my hair](https://open.spotify.com/track/26vtFc2QpDI4yZ69B3qC1i) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/41BWjJwCPI8Hg0h3A14flj) | 2:56 | 2023-06-01 |  |
+| [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 | 2023-06-03 |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2022-10-20 | 2022-11-01 |
 | [CYAN1DE \(feat\. PETE WENTZ\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 | 2022-11-04 | 2023-04-21 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-10 |

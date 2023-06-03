@@ -2,7 +2,7 @@
 
 ### [PARTY MODE](https://open.spotify.com/playlist/37i9dQZF1DX0MXH7aN4Pxn)
 
-> Turn the energy levels up and join the party wherever you are!
+> 
 
 318 songs - 16 hr 19 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Brian Kelley",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Lauren Alaina",
   "name": "New Boots",
   "tracks": [
     {
@@ -544,6 +544,24 @@
       "duration_ms": 174193,
       "name": "A Special Place",
       "url": "https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb"
+    },
+    {
+      "album": {
+        "name": "A Walk In The Bar",
+        "url": "https://open.spotify.com/album/2Ubhd5JH3tafFHwmEXZnxF"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174559,
+      "name": "A Walk In The Bar",
+      "url": "https://open.spotify.com/track/1QvcKPuQIWLR2AfPTAM02Y"
     },
     {
       "album": {
@@ -9497,6 +9515,24 @@
     },
     {
       "album": {
+        "name": "Blacktop",
+        "url": "https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183240,
+      "name": "Gone as You",
+      "url": "https://open.spotify.com/track/2GIK8Tv99iHQDfDJHUOq4w"
+    },
+    {
+      "album": {
         "name": "Gone Too Soon",
         "url": "https://open.spotify.com/album/2LvNipYQBCwjSngM65Q1sm"
       },
@@ -12374,7 +12410,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
@@ -13432,7 +13468,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224149,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
@@ -14144,6 +14180,24 @@
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
+    },
+    {
+      "album": {
+        "name": "If You Were A Song",
+        "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259876,
+      "name": "If You Were A Song",
+      "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
     },
     {
       "album": {
@@ -17840,7 +17894,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155468,
       "name": "My Future",
       "url": "https://open.spotify.com/track/3BgmOSHUxnpSAcUM1ekBrj"
@@ -24170,7 +24224,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183680,
       "name": "Something's Gonna Kill Me",
       "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
@@ -26413,6 +26467,24 @@
     },
     {
       "album": {
+        "name": "The Next One",
+        "url": "https://open.spotify.com/album/56j2cPSexqZkGovc53ukBi"
+      },
+      "artists": [
+        {
+          "name": "Payton Smith",
+          "url": "https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "The Next One",
+      "url": "https://open.spotify.com/track/5s9pBpwwYknbVIxkmvO309"
+    },
+    {
+      "album": {
         "name": "The Night Part 1 & 2",
         "url": "https://open.spotify.com/album/3tnZZseudiVenMD2sVAQk8"
       },
@@ -27074,6 +27146,24 @@
       "duration_ms": 169395,
       "name": "This Town",
       "url": "https://open.spotify.com/track/3o8OjJvR76yMAHiAWnSlSg"
+    },
+    {
+      "album": {
+        "name": "This Town's Been Too Good To Us",
+        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191626,
+      "name": "This Town's Been Too Good To Us",
+      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
       "album": {
@@ -30524,7 +30614,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 195653,
       "name": "Wish You Wouldn\u2019t",
       "url": "https://open.spotify.com/track/1FFiFJaKHSJ6w3ucont3Br"

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2051430,
+  "num_followers": 2051517,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM0MzksMjg5YWY4ZTQ3MTUwN2Q3ZWIwMzI3ZGI2MTQ5N2VmNTYxMTZhZWNjZg==",
+  "snapshot_id": "MTM0NTUsODEzMDFiMzIxODgwMWIxYWJlYmQxNjQwMTZhNGY1OWU3YjUwZmM2Ng==",
   "tracks": [
     {
       "added_at": "2023-05-18 00:32:45",
@@ -649,26 +649,6 @@
       "url": "https://open.spotify.com/track/1eHPz3Ccu5UIMAXWYDCjaj"
     },
     {
-      "added_at": "2023-05-24 17:24:19",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/3SohBXVe0oMpjKJCD6c91V"
-      },
-      "artists": [
-        {
-          "name": "NIO",
-          "url": "https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
-    },
-    {
       "added_at": "2023-05-18 00:32:45",
       "album": {
         "name": "Feel Good (feat. Daya)",
@@ -843,6 +823,46 @@
       "duration_ms": 234666,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4lXaDsnSigLjC0zzngrRxl"
+    },
+    {
+      "added_at": "2023-06-02 18:07:03",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/7M9zww6ioXcaXbVM9fwFuC"
+      },
+      "artists": [
+        {
+          "name": "LAUTRE.",
+          "url": "https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6"
+        },
+        {
+          "name": "Calli Boom",
+          "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/6NtS4R8BNjdiPVwV7ZdIdx"
+    },
+    {
+      "added_at": "2023-06-02 18:35:39",
+      "album": {
+        "name": "Back Now",
+        "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Ethan Dufault",
+          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Back Now",
+      "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -1089,30 +1109,6 @@
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
     },
     {
-      "added_at": "2023-05-22 18:52:03",
-      "album": {
-        "name": "Industrial",
-        "url": "https://open.spotify.com/album/2Yy64m97WR6vym99Yf3dG8"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "Riz\u00f3",
-          "url": "https://open.spotify.com/artist/7hyFSqlT3o7RdXFnUtJ7C2"
-        },
-        {
-          "name": "N\u00d8CTRIS",
-          "url": "https://open.spotify.com/artist/3uCuNmBGWFSBuXX8xstvoz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Industrial",
-      "url": "https://open.spotify.com/track/4Vd9jcF3kTYmrVDNq3eU2c"
-    },
-    {
       "added_at": "2023-05-18 00:32:45",
       "album": {
         "name": "Until Dawn",
@@ -1167,26 +1163,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "Summertime Sadness",
-        "url": "https://open.spotify.com/album/69p0OH85hry9j5rzF6eem4"
-      },
-      "artists": [
-        {
-          "name": "It's Different",
-          "url": "https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA"
-        },
-        {
-          "name": "Alis Shuka",
-          "url": "https://open.spotify.com/artist/7DGb3jb4ac27QqsGIbRTBK"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Summertime Sadness",
-      "url": "https://open.spotify.com/track/6dzgD9TYa77Um3BNhRRp3i"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/2avJLo0TowGOxtZc7St6LO"
       },
@@ -1203,26 +1179,6 @@
       "duration_ms": 270224,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/1ONKjaDIhaRpfXZM6Aissj"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "Your Boyfriend's Car",
-        "url": "https://open.spotify.com/album/2WOZqTIkQE0WgDFD2rLgJU"
-      },
-      "artists": [
-        {
-          "name": "Caslow",
-          "url": "https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Your Boyfriend's Car",
-      "url": "https://open.spotify.com/track/093QE3w0St1rytpC6Rf7Ie"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -1471,26 +1427,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "Red Or Blue",
-        "url": "https://open.spotify.com/album/0ncdVBLP1oBz0H19aNcmMu"
-      },
-      "artists": [
-        {
-          "name": "Frizzy The Streetz",
-          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
-        },
-        {
-          "name": "Simbai",
-          "url": "https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg"
-        }
-      ],
-      "duration_ms": 137777,
-      "name": "Red Or Blue",
-      "url": "https://open.spotify.com/track/5ItAI99ySNjoS5rfzo1f6T"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "FINAL BATTLE",
         "url": "https://open.spotify.com/album/2ksIraEFB0gKashlTRrRi0"
       },
@@ -1571,30 +1507,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/7agisGTHdMZPtBlQgAuRSR"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz"
-        },
-        {
-          "name": "Half Dead",
-          "url": "https://open.spotify.com/artist/3UCmNuv4IPdb6HdPi1l0Au"
-        },
-        {
-          "name": "Donna Tella",
-          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
-        }
-      ],
-      "duration_ms": 184162,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0G79CSNwUGMEGoJ8Fq3ASb"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/12fPhZer9WgOQ51AxYLdwn"
       },
@@ -1627,26 +1539,6 @@
       "duration_ms": 166400,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/69bRYnIDPZM8IUmBLFVq2u"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "Bloody Mary",
-        "url": "https://open.spotify.com/album/0ga1KDf2GQUPi5FPYNYwDX"
-      },
-      "artists": [
-        {
-          "name": "MIRRORCULT",
-          "url": "https://open.spotify.com/artist/61yWUrLXTYyKibCiEvjkjM"
-        },
-        {
-          "name": "ELECTRA",
-          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Bloody Mary - (Trap Version)",
-      "url": "https://open.spotify.com/track/2SyBUij9c86g2bVbCuo50y"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -1739,30 +1631,6 @@
       "duration_ms": 277200,
       "name": "Can\u2019t Stop The Feeling (with KORA)",
       "url": "https://open.spotify.com/track/4wIp31qRfUebDCqWqRF6Al"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "In The End",
-        "url": "https://open.spotify.com/album/3HRiqNfBuCrAQOFWafJZHM"
-      },
-      "artists": [
-        {
-          "name": "NOES",
-          "url": "https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET"
-        },
-        {
-          "name": "Madishu",
-          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
-        },
-        {
-          "name": "ELECTRA",
-          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
-        }
-      ],
-      "duration_ms": 178673,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/0TljHP6WiN2kOoUEShqJlW"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -2123,26 +1991,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "VOICES + MORE EP",
-        "url": "https://open.spotify.com/album/7ndfT523VjwV8JBPXZrn4V"
-      },
-      "artists": [
-        {
-          "name": "Stereotype",
-          "url": "https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq"
-        },
-        {
-          "name": "Shir Koren",
-          "url": "https://open.spotify.com/artist/0f2yl3A95DaAPLYW7qqKP7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Voices - revisioned",
-      "url": "https://open.spotify.com/track/0q5wpRIzgNLWEM4ohN8wOv"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "Feel the Fire (Remixes)",
         "url": "https://open.spotify.com/album/50qxOX19dlnR6SgmJom01Y"
       },
@@ -2251,30 +2099,6 @@
       "duration_ms": 210000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/541X1Kd0KzOLxspM1T8fiv"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/3SSC2OkWsz4lUIAmOLAnPt"
-      },
-      "artists": [
-        {
-          "name": "K Theory",
-          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        },
-        {
-          "name": "ELECTRA",
-          "url": "https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6"
     },
     {
       "added_at": "2023-05-18 00:32:45",
@@ -2391,26 +2215,6 @@
     {
       "added_at": "2023-05-18 00:32:45",
       "album": {
-        "name": "Tears In Paradise",
-        "url": "https://open.spotify.com/album/3KxCBxlG7udmxLbU4SI1LE"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        },
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Hands On My Body",
-      "url": "https://open.spotify.com/track/7a2JaqaXhE63MBimY7mcGz"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
         "name": "On The Coast!",
         "url": "https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g"
       },
@@ -2495,22 +2299,6 @@
       "duration_ms": 219310,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4nmEa4jNa9DcykYJHkmtrV"
-    },
-    {
-      "added_at": "2023-05-18 00:32:45",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 210782,
-      "name": "Hollywood Hills",
-      "url": "https://open.spotify.com/track/54LlZMD2ZnQXHsiiIMaos7"
     },
     {
       "added_at": "2023-05-18 00:32:45",

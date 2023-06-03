@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-103 songs - 5 hr 52 min
+104 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 |  |
 | [Fleuriste \- Meditation](https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 4:38 | 2022-09-15 |  |
 | [Forest Awakens](https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn) | [Doug Loodabert](https://open.spotify.com/artist/1soP7EvA2zGxb39peRXviG) | [Forest Awakens](https://open.spotify.com/album/1CLoQedetRmKO3z1N43wPi) | 2:50 | 2022-09-15 |  |
+| [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-06-02 |  |
 | [Forest Dreams](https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP) | [Glacier Wave](https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN) | [Forest Dreams](https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO) | 3:42 | 2022-09-15 |  |
 | [Forest Dreams](https://open.spotify.com/track/5FgCKWFEVSfCEyE9rSvjDm) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Forest Dreams](https://open.spotify.com/album/3AWyX4p9FejcBLRxawTIez) | 3:17 | 2022-12-09 |  |
 | [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 | 2022-12-10 |

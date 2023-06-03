@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-179 songs - 10 hr 1 min
+180 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 | 2022-03-18 |  |
 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 | 2021-04-19 | 2022-07-29 |
 | [make believe](https://open.spotify.com/track/7xPMgzG0gtBPBmaEDVhblh) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [can't say we didn't try](https://open.spotify.com/album/7nucvlUXMw1LYrgb5YFwtF) | 2:31 | 2021-04-19 |  |
+| [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 | 2023-06-02 |  |
 | [Me, My Old Man and Steely Dan](https://open.spotify.com/track/1P522La5BZVnPSLuPwya2M) | [Andrew Sevener](https://open.spotify.com/artist/0ZvCVJNGgjViL07mB8Xuxx) | [Me, My Old Man and Steely Dan](https://open.spotify.com/album/3lC8XBp5SC40kVFsXLMn5l) | 3:18 | 2021-04-19 |  |
 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-19 |  |
 | [Milkman](https://open.spotify.com/track/31s3epLc7WpJvWJZyushyP) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:22 | 2021-04-19 | 2022-04-29 |
@@ -125,7 +126,7 @@
 | [Rise and Shine](https://open.spotify.com/track/0SjIo6BGy7Aq2vuKnEkB4D) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:40 | 2021-04-19 |  |
 | [Roots And Wings](https://open.spotify.com/track/4dR2hTCSmSJuEJZ6LVdbFM) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Roots And Wings](https://open.spotify.com/album/6T1P99ZFFcOSBSq9TNeqwi) | 2:41 | 2021-04-19 | 2022-04-29 |
 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 | 2021-04-19 | 2023-02-04 |
-| [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 | 2021-04-19 |  |
+| [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 | 2021-04-19 | 2023-06-03 |
 | [Salvation Bound](https://open.spotify.com/track/2oiOrBjI5jCAHzxsk94Tne) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | ['87](https://open.spotify.com/album/55gCIl2LqtXopTZHUtMqp3) | 4:18 | 2021-04-19 | 2022-04-29 |
 | [Secrets](https://open.spotify.com/track/09JkoxugEb7f647ZOYJWKr) | [Holly Auna](https://open.spotify.com/artist/2aefoxhYo07rsDSSWgPUO1) | [Love Shouldn't Be so Hard](https://open.spotify.com/album/5LT7V0tguPUv9AWIjXZ8E1) | 3:45 | 2021-04-19 |  |
 | [Shadows](https://open.spotify.com/track/1YQqDS69c6OhMMeEZ2PbQY) | [Johnson Crook](https://open.spotify.com/artist/56oIzWywvNu41cJQVc6ico) | [The Album](https://open.spotify.com/album/0L4UdA9Ik2aGpDIHJEwCU3) | 4:59 | 2021-04-19 | 2023-04-29 |

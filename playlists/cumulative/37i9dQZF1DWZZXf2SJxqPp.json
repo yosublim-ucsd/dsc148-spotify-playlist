@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
+    },
+    {
+      "album": {
         "name": "Du rivage",
         "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
@@ -788,7 +810,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
@@ -1300,8 +1322,8 @@
           "url": "https://open.spotify.com/artist/1MnOJH0oJTVBlVn1sEycC7"
         },
         {
-          "name": "Mina Shanka",
-          "url": "https://open.spotify.com/artist/2alEAWKcJZrZV1AJajPENj"
+          "name": "Mina Shankha",
+          "url": "https://open.spotify.com/artist/6FY4fjcnaBJccjv6HG2Ba6"
         }
       ],
       "date_added": "2023-03-20",

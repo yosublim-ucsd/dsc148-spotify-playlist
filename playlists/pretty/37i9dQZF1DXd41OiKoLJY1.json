@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: $ho Artwork: Isu Kim\n",
-  "num_followers": 55364,
+  "num_followers": 55424,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2M3ZDI2Y2UxZjQ3NTEzODAzNjk0MWU2N2I0ZDQ1N2ZjODRmMWFj",
+  "snapshot_id": "MCw5YjM3YTQzM2FjZjc3NGNjZmRjNGU4OTE1NDllNjFiMTViYzlmOTIz",
   "tracks": [
     {
       "added_at": "2023-06-01 16:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-06-01 16:00:00",
       "album": {
-        "name": "yun pala",
-        "url": "https://open.spotify.com/album/7q1uQ4MjF7b6B2HoaBVz1f"
-      },
-      "artists": [
-        {
-          "name": "Gabe Lerios",
-          "url": "https://open.spotify.com/artist/1BOkbl2JT58196uHze2JqP"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "yun pala",
-      "url": "https://open.spotify.com/track/7kaizEpWCVzZ5G5pmoGD8H"
-    },
-    {
-      "added_at": "2023-06-01 16:00:00",
-      "album": {
         "name": "Lean on me",
         "url": "https://open.spotify.com/album/7j5WR66S76ntAoVN0uVkXh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 183092,
       "name": "Lean on me",
       "url": "https://open.spotify.com/track/6LFdvv7xdSrb6qpSG5vEBW"
+    },
+    {
+      "added_at": "2023-06-01 16:00:00",
+      "album": {
+        "name": "yun pala",
+        "url": "https://open.spotify.com/album/7q1uQ4MjF7b6B2HoaBVz1f"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lerios",
+          "url": "https://open.spotify.com/artist/1BOkbl2JT58196uHze2JqP"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "yun pala",
+      "url": "https://open.spotify.com/track/7kaizEpWCVzZ5G5pmoGD8H"
     },
     {
       "added_at": "2023-06-01 16:00:00",
@@ -411,6 +411,22 @@
       "duration_ms": 184370,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/4mfcuIAOZjf8Yb5bY5FRaT"
+    },
+    {
+      "added_at": "2023-06-01 16:00:00",
+      "album": {
+        "name": "Sindi",
+        "url": "https://open.spotify.com/album/0UGjNSwSIA2HHumuCBnqwV"
+      },
+      "artists": [
+        {
+          "name": "Arvien",
+          "url": "https://open.spotify.com/artist/79Nz2Qrqv3s49MoCBCBX2o"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Sindi",
+      "url": "https://open.spotify.com/track/37xkVt6LDjHOy2Ty0NLHIt"
     },
     {
       "added_at": "2023-06-01 16:00:00",

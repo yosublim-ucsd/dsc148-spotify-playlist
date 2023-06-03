@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 254217,
+  "num_followers": 254478,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjVhNTYxNzNlY2MzYjMwMjQ1NzkyMDI5MjMxMzM4MGE5YjlhOTRh",
+  "snapshot_id": "MCxiZTU5ZTYwNTA3ZTg1YjJhOTIyNWZlMDA3ZjM5ZjRkMzI4NzI1NDli",
   "tracks": [
     {
       "added_at": "2023-05-29 12:05:02",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2023-05-29 12:05:02",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
-    },
-    {
-      "added_at": "2023-05-29 12:05:02",
-      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t"
       },
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
-        "name": "Bangladesh",
-        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
+        "name": "Painter",
+        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
       },
       "artists": [
         {
-          "name": "Esotique",
-          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
-        },
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+          "name": "Lady Ocean",
+          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
         }
       ],
-      "duration_ms": 147806,
-      "name": "Bangladesh",
-      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+      "duration_ms": 203428,
+      "name": "Painter",
+      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
     },
     {
       "added_at": "2023-05-29 12:05:02",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
-        "name": "Painter",
-        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
+        "name": "Bangladesh",
+        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
       "artists": [
         {
-          "name": "Lady Ocean",
-          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
+          "name": "Esotique",
+          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
+        },
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
         }
       ],
-      "duration_ms": 203428,
-      "name": "Painter",
-      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
+      "duration_ms": 147806,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
     },
     {
       "added_at": "2023-05-29 12:05:02",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-05-29 12:05:02",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
+    },
+    {
+      "added_at": "2023-05-29 12:05:02",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-05-29 12:05:02",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
+        "name": "O.M.M.A",
+        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
+      },
+      "artists": [
+        {
+          "name": "Camil Kanouni",
+          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Oud Love",
+      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+    },
+    {
+      "added_at": "2023-05-29 12:05:02",
+      "album": {
         "name": "My Useless Life",
         "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 141779,
       "name": "My Useless Life",
       "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2023-05-29 12:05:02",
-      "album": {
-        "name": "O.M.M.A",
-        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
-      },
-      "artists": [
-        {
-          "name": "Camil Kanouni",
-          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Oud Love",
-      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
     },
     {
       "added_at": "2023-05-29 12:05:02",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-05-29 12:05:02",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
-    },
-    {
-      "added_at": "2023-05-29 12:05:02",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2023-05-29 12:05:02",
+      "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
     },
     {
       "added_at": "2023-05-29 12:05:02",

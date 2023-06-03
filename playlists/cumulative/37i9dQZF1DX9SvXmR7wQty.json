@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Robert Robert",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo:  GreenWoodz",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158506,
       "name": "Addictocrate",
       "url": "https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 365866,
       "name": "Aloha Baby",
       "url": "https://open.spotify.com/track/6U3pRWlzTqWbjBjBHfIvEI"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
@@ -6221,6 +6221,24 @@
     },
     {
       "album": {
+        "name": "Coeur Automatique",
+        "url": "https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146273,
+      "name": "Coeur Automatique",
+      "url": "https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW"
+    },
+    {
+      "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197498,
       "name": "COMME MOI (feat.La F\u00e8ve)",
       "url": "https://open.spotify.com/track/6RPqZSIXlEsYqDArWUdly7"
@@ -6552,7 +6570,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 169165,
       "name": "Comme un fr\u00e8re",
       "url": "https://open.spotify.com/track/3rzmuV2h0jeH4P7ueN6pQR"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 184649,
       "name": "Confetti (VF)",
       "url": "https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN"
@@ -7464,7 +7482,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 155047,
       "name": "Dames",
       "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
@@ -8324,7 +8342,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 177270,
       "name": "Deuxi\u00e8me chance",
       "url": "https://open.spotify.com/track/7grAgWrICeHTAYhQaOXiR8"
@@ -8386,7 +8404,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170408,
       "name": "DIFF\u00c9RENT",
       "url": "https://open.spotify.com/track/5jM8TSQUnipH28RRU8IOi3"
@@ -8686,7 +8704,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165461,
       "name": "dopamine - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX"
@@ -10494,7 +10512,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164893,
       "name": "Every Baby",
       "url": "https://open.spotify.com/track/1hqfUZFj3R3faddlEmXL3G"
@@ -11922,7 +11940,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 220933,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/4DMv4ucHwmZbHikt3n6XV2"
@@ -14694,7 +14712,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176051,
       "name": "J'oublie",
       "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
@@ -20816,7 +20834,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144000,
       "name": "Ma r\u00e9alit\u00e9 (Affam\u00e9 #19)",
       "url": "https://open.spotify.com/track/1yHFMV89hpqsn3mxD1lZSa"
@@ -21004,7 +21022,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 133822,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
@@ -22040,6 +22058,24 @@
       "duration_ms": 228579,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197067,
+      "name": "Mode Avion",
+      "url": "https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY"
     },
     {
       "album": {
@@ -26858,7 +26894,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165981,
       "name": "Prends \u00e7a",
       "url": "https://open.spotify.com/track/4OY6TT0DO2LqzGkl4iV41T"
@@ -27973,6 +28009,24 @@
     },
     {
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/44utAKHWESMxA5DfRIJEqk"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160397,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6oGaLU39gAzlsWDjj7EKaS"
+    },
+    {
+      "album": {
         "name": "Redescends",
         "url": "https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB"
       },
@@ -29054,7 +29108,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219818,
       "name": "R\u00eaver \u00e9veill\u00e9",
       "url": "https://open.spotify.com/track/40fvGOkdmC6pzS6bT2yKX1"
@@ -29584,7 +29638,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 230953,
       "name": "Sauvetage",
       "url": "https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1"
@@ -34096,7 +34150,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 210751,
       "name": "un \u00e9clair",
       "url": "https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph"
@@ -34114,7 +34168,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
@@ -35756,6 +35810,28 @@
       "duration_ms": 192267,
       "name": "\u00c0 chaque soir",
       "url": "https://open.spotify.com/track/3l1AwcGv2neIDou7n0rQXm"
+    },
+    {
+      "album": {
+        "name": "\u00c0 contresens",
+        "url": "https://open.spotify.com/album/1D7JpG3f024RutOzgJEPSh"
+      },
+      "artists": [
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        },
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155993,
+      "name": "\u00c0 contresens",
+      "url": "https://open.spotify.com/track/0T65sssvGaR9gnpEDiXAWV"
     },
     {
       "album": {

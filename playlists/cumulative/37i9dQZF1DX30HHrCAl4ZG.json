@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new indie rock. Featuring new music from Krooked Kings",
+  "description": "All new indie rock. Featuring new music from Beach Fossils.",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -830,6 +830,24 @@
       "duration_ms": 201667,
       "name": "All Day I Dream About",
       "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
+    },
+    {
+      "album": {
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN"
     },
     {
       "album": {
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237920,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 216650,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/3n5teaWGB99IrQwVo1oyCU"
@@ -4447,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Heatherhead",
+        "url": "https://open.spotify.com/album/3VqbgBz84EK3ALDagZmryk"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "Death Chasm",
+      "url": "https://open.spotify.com/track/0VlkpyQC4rqwjD9c9bUbQY"
+    },
+    {
+      "album": {
         "name": "death wish",
         "url": "https://open.spotify.com/album/7aB0D39Il6UYoQmUNHoQr6"
       },
@@ -5128,7 +5164,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 218400,
       "name": "Drown Me In Emotions",
       "url": "https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP"
@@ -5290,7 +5326,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 226500,
       "name": "Edith from the Third Floor (Central AC)",
       "url": "https://open.spotify.com/track/27UkJ04rO64RPgxY9PgRNq"
@@ -5708,6 +5744,24 @@
       "duration_ms": 251213,
       "name": "Expert In A Dying Field",
       "url": "https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ"
+    },
+    {
+      "album": {
+        "name": "Expired Candy",
+        "url": "https://open.spotify.com/album/27EWNCik4t25bvCJ9J55Hc"
+      },
+      "artists": [
+        {
+          "name": "Body Type",
+          "url": "https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182822,
+      "name": "Expired Candy",
+      "url": "https://open.spotify.com/track/4yzF9uOJ8JwyK5rE3TKNWK"
     },
     {
       "album": {
@@ -7170,7 +7224,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 205481,
       "name": "Happy Anniversary (To Being Lonely)",
       "url": "https://open.spotify.com/track/1tWtxE1UiQRkX1yVVZ7KeL"
@@ -8554,7 +8608,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 163995,
       "name": "I've Been Taking Walks (La La Song)",
       "url": "https://open.spotify.com/track/299EVwi7vNWOGxKOTxUaly"
@@ -10872,6 +10926,24 @@
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
+    },
+    {
+      "album": {
+        "name": "Mommy Issues",
+        "url": "https://open.spotify.com/album/2wrGVJfp4CGULkSPb4GNEO"
+      },
+      "artists": [
+        {
+          "name": "Jules Paymer",
+          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "Mommy Issues",
+      "url": "https://open.spotify.com/track/1TfG5nLrJdIFT1hc3nOzLe"
     },
     {
       "album": {
@@ -14247,6 +14319,24 @@
     },
     {
       "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
+    },
+    {
+      "album": {
         "name": "Glasshead",
         "url": "https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz"
       },
@@ -14782,6 +14872,24 @@
       "duration_ms": 164165,
       "name": "Sports",
       "url": "https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp"
+    },
+    {
+      "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/7AIBxRlqu7svA3lhqI4xrL"
+      },
+      "artists": [
+        {
+          "name": "The Aquadolls",
+          "url": "https://open.spotify.com/artist/75dqW38mCNfvNv9G3nqIE5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162299,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/6a0OLsZ06KZ3eNYfbuzPCN"
     },
     {
       "album": {
@@ -15626,7 +15734,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219111,
       "name": "Television Promises",
       "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
@@ -15894,6 +16002,24 @@
       "duration_ms": 190916,
       "name": "The Other Way",
       "url": "https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI"
+    },
+    {
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4"
+      },
+      "artists": [
+        {
+          "name": "Diners",
+          "url": "https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152110,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB"
     },
     {
       "album": {
@@ -17016,10 +17142,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
+      "album": {
+        "name": "Used to Saying Yes",
+        "url": "https://open.spotify.com/album/1ByeAmThZz88s69us1NK8O"
+      },
+      "artists": [
+        {
+          "name": "Swimm",
+          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164583,
+      "name": "Used to Saying Yes",
+      "url": "https://open.spotify.com/track/52qnu3CAVtwKMbi9SWd6Bz"
     },
     {
       "album": {
@@ -17268,7 +17412,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 257693,
       "name": "Waking Moment",
       "url": "https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ"
@@ -17362,6 +17506,24 @@
       "duration_ms": 170400,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/4lSiDCGuP4zG8wxynVCLxZ"
+    },
+    {
+      "album": {
+        "name": "way too loud",
+        "url": "https://open.spotify.com/album/5BNHerGhMAYo13pcztg1Kc"
+      },
+      "artists": [
+        {
+          "name": "James Droll",
+          "url": "https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "way too loud",
+      "url": "https://open.spotify.com/track/2b9Tlburf72vwQ1r5ixlCN"
     },
     {
       "album": {

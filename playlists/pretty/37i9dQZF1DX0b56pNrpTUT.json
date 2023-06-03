@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 5924,
+  "num_followers": 5946,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWE3ZDc1MTkxNjU5MGYzNjU0Y2I2M2ZhN2JhMGNkYWM0OGNlMTM3",
+  "snapshot_id": "MCxhYzBjMzJmNmY1Y2NkYThhOWQ5ODk3MjFjNTFhYTcxNjc4YmE5NjE2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Flipside",
+        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 191453,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 155414,
       "name": "Out The Way",
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Flipside",
-        "url": "https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 191453,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "November (feat. Hak Baker)",
         "url": "https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 195937,
       "name": "November (feat. Hak Baker)",
       "url": "https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2022-10-01 16:00:00",

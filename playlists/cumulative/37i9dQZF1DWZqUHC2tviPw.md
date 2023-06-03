@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-194 songs - 8 hr 47 min
+195 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Churchill](https://open.spotify.com/track/4YyPOwTe5sXVJLXGqqVhPl) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Churchill](https://open.spotify.com/album/5cSLfFaH4zZVplCsuk6tNQ) | 1:52 | 2021-11-11 | 2022-04-22 |
 | [Classics](https://open.spotify.com/track/46DIcl7UFS8sw7LEJx03zd) | [Type Beats](https://open.spotify.com/artist/63ptKgVn8Gh1Zc8BZMYKze) | [LA instrumentals BKP](https://open.spotify.com/album/4Rjj8lNDBisPqsSTbMgdiT) | 1:33 | 2021-11-11 |  |
 | [Cloak and Dagger](https://open.spotify.com/track/1xUGxXkQk894LVQptxTMcq) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Cloak and Dagger](https://open.spotify.com/album/6RxO1WGSpFM6BdlbzYkkEb) | 2:29 | 2022-09-16 |  |
-| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 |  |
+| [Club404](https://open.spotify.com/track/1IgmsA52OnXHjdgRR5d5zO) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq) | 2:43 | 2022-04-22 | 2023-06-03 |
 | [Club404](https://open.spotify.com/track/5qHusftncCTulnXkHtBJLH) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/0APEJROze2RVENkLriVpy4) | 2:43 | 2023-01-20 | 2023-04-28 |
+| [Club404](https://open.spotify.com/track/7GYCJ10v4NlXnqeFEqmkV4) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/7a3PBf43xExpBixyQZ1pqi) | 2:43 | 2023-03-13 |  |
 | [Club404](https://open.spotify.com/track/2m4A0JpCC4IMLD5RDVZLMv) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Club404](https://open.spotify.com/album/5shgTl2IgyJyH8WIB8n1ig) | 2:43 | 2023-01-06 | 2023-01-20 |
 | [Club404](https://open.spotify.com/track/1FJbNBNewrUA6eVkYgrnZi) | [Rodas with a Blade](https://open.spotify.com/artist/4BBhI7j3lLvaozRFmT9NFj), [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Another Time](https://open.spotify.com/album/0FbXl5B4tW2wg4anMimVgu) | 2:43 | 2022-08-05 | 2022-10-16 |
 | [Club404 \- Remix](https://open.spotify.com/track/6vNJcvgnEQMXsvfwG5RDc8) | [Ebytra](https://open.spotify.com/artist/2IRYEhwiuITvRyXfPbYDBZ) | [Dead & Alive](https://open.spotify.com/album/3L6yqVORgRpJJVidUwjm9U) | 2:43 | 2022-08-05 | 2022-08-17 |

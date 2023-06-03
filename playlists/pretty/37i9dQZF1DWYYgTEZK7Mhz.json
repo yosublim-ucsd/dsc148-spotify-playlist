@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balneare.",
-  "num_followers": 13112,
+  "num_followers": 13191,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWJkZWNkNzViYjJiYmY3NjViNjZiMmQ2N2YyZGMwNWVlZjU2ZWZj",
+  "snapshot_id": "MCw3ZDQxZmJkYmRjYWI2YTk1OGZmYTE3YjM5NTQyZjNiYTU1ZTdlNjk3",
   "tracks": [
     {
       "added_at": "2023-02-27 14:18:15",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-02-27 14:18:15",
       "album": {
-        "name": "Ritratto di Mina: I singoli, Vol. 1",
-        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
+        "name": "I Grandi Successi: Gianni Pettenati",
+        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Gianni Pettenati",
+          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
         }
       ],
-      "duration_ms": 179060,
-      "name": "Tintarella di luna",
-      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
+      "duration_ms": 148826,
+      "name": "Bandiera gialla",
+      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
     },
     {
       "added_at": "2023-02-27 14:18:15",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-02-27 14:18:15",
       "album": {
-        "name": "I Grandi Successi: Gianni Pettenati",
-        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
+        "name": "Ritratto di Mina: I singoli, Vol. 1",
+        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
       },
       "artists": [
         {
-          "name": "Gianni Pettenati",
-          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 148826,
-      "name": "Bandiera gialla",
-      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
+      "duration_ms": 179060,
+      "name": "Tintarella di luna",
+      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
     },
     {
       "added_at": "2023-02-27 14:18:15",

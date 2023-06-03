@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Russ",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 192426,
       "name": "DOPE",
       "url": "https://open.spotify.com/track/0TdNgLC0GuxmWDy2Vwp426"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212147,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/2bj4KknKzsI0BbtTnRu0O4"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 222776,
       "name": "Gold Rings (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 126392,
       "name": "Heroic Villains",
       "url": "https://open.spotify.com/track/7k5BuT9RPG2shzV4slmM0a"
@@ -3866,6 +3866,28 @@
       "duration_ms": 180680,
       "name": "How You Live It (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
+    },
+    {
+      "album": {
+        "name": "hue_man nature",
+        "url": "https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "NO ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100666,
+      "name": "hue_man nature",
+      "url": "https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN"
     },
     {
       "album": {
@@ -5482,7 +5504,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 145670,
       "name": "Monogram",
       "url": "https://open.spotify.com/track/1uVmhpMQ3ELh8grPOg0D82"
@@ -5704,6 +5726,28 @@
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "Nas Morales (Metro Boomin & Nas)",
+      "url": "https://open.spotify.com/track/4mTKCa00WAZS2ag4GYwu0t"
     },
     {
       "album": {
@@ -6850,7 +6894,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 160000,
       "name": "Rap Fix",
       "url": "https://open.spotify.com/track/088AAB1SkCbyzU4I7aTepk"
@@ -7531,6 +7575,24 @@
     },
     {
       "album": {
+        "name": "Since Elementary",
+        "url": "https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Since Elementary",
+      "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
+    },
+    {
+      "album": {
         "name": "Sink",
         "url": "https://open.spotify.com/album/6e6elVmUC70lrRndssuAk5"
       },
@@ -7690,7 +7752,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 220892,
       "name": "Sobering Thoughts From The Mondrian",
       "url": "https://open.spotify.com/track/3XpLvrrfkNpAYXmFxBfUpi"

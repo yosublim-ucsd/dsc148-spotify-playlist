@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 159344,
       "name": "Astusin Sisse (feat. pluuto & Arop)",
       "url": "https://open.spotify.com/track/2i9xV1YjTezmnoBxmLIGqi"
@@ -5850,7 +5850,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
@@ -8042,7 +8042,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
@@ -11526,6 +11526,28 @@
       "duration_ms": 121411,
       "name": "Kommunikatsiooni Probleem",
       "url": "https://open.spotify.com/track/7JDPjTzXu2rIbWjoAmKPLq"
+    },
+    {
+      "album": {
+        "name": "Raha \u00dcle K\u00f5ige",
+        "url": "https://open.spotify.com/album/6bTg23aqiUdVC08D6TCE5n"
+      },
+      "artists": [
+        {
+          "name": "Lil Till",
+          "url": "https://open.spotify.com/artist/20rxrauVfrXfc2vgZNvxot"
+        },
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161682,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/6k5NAeW04OmcoYroSxUPmW"
     },
     {
       "album": {
@@ -15448,7 +15470,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -22960,6 +22982,24 @@
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/4DGrMHTVjxecZbYStawUK1"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/39chHTJO8k5u8iSW5kvZ5V"
+      },
+      "artists": [
+        {
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2dhqUatUZtQZgzomu6rrvl"
     },
     {
       "album": {

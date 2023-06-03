@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 118880,
+  "num_followers": 118953,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTUxOTZlMmQwMDhlNTE4M2NmOGZiNTNlZmU2MTFkZWZiMjcyZGYz",
+  "snapshot_id": "MCxlMmUzNjcxYTJlZGZlYTk0NDg4OWU1NTRiYTFjNGI4ZjNhMDBlMzdl",
   "tracks": [
     {
       "added_at": "2023-04-24 17:42:58",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 97466,
+      "name": "Conmigo te gust\u00f3",
+      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "El Que Siempre Te Espera",
         "url": "https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 173412,
       "name": "El Que Siempre Te Espera",
       "url": "https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 97466,
-      "name": "Conmigo te gust\u00f3",
-      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "La Gira y La Serenata",
-        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 291054,
-      "name": "Pedazo De Papel - En Vivo En El Luna Park",
-      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 457826,
-      "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
-      "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / Ando Buscando / El No Va a Venir / Voy a Morir Dentro Tuyo - En Vivo",
+      "url": "https://open.spotify.com/track/4iy9NqDkaRndLAllVspQHy"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 81813,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 483693,
       "name": "La Ventanita / Beso a Beso",
       "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -851,6 +835,38 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
         "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
       },
@@ -879,38 +895,6 @@
       "duration_ms": 212266,
       "name": "Dime Si Eres Feliz - En Vivo",
       "url": "https://open.spotify.com/track/7tl6gH6Mhaf9tz9JGlXBw6"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -1064,6 +1064,22 @@
       "added_at": "2023-04-24 17:42:58",
       "album": {
         "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "duration_ms": 124253,
+      "name": "La Ultima Cancion - En Vivo",
+      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
+        "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
@@ -1091,22 +1107,6 @@
       "duration_ms": 108129,
       "name": "Que Vuelvas - En Vivo",
       "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cardozo",
-          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
-        }
-      ],
-      "duration_ms": 124253,
-      "name": "La Ultima Cancion - En Vivo",
-      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
     }
   ],
   "unique_name": "Vivo de Cumbia",

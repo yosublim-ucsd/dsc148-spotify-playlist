@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-437 songs - 1 day 1 hr 57 min
+438 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Retrovisor](https://open.spotify.com/track/1M5T9vmjCQDUGSjkhcFHEq) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Bruno Donato](https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq) | [Retrovisor](https://open.spotify.com/album/7meTS5glrfIKXr0zwg7e5K) | 3:09 | 2022-07-01 | 2022-07-29 |
 | [Revolución](https://open.spotify.com/track/7r8QlxThnI4K2tp071TchX) | [Chochin Galleguillo](https://open.spotify.com/artist/58p5WCIxNMmL9LT7ItSHIi) | [Revolución](https://open.spotify.com/album/5hDnjm1BU5AT3l9k8fiGwj) | 4:19 | 2022-07-15 | 2022-07-27 |
 | [Risa](https://open.spotify.com/track/2NbwznlC08MxzvesOSHQy3) | [Prietto Viaja al Cosmos con Mariano](https://open.spotify.com/artist/79KyjLxTR5a6vVpPvljowB) | [Crónicas](https://open.spotify.com/album/43nltoTfJ7OZsprDHEoAqP) | 3:17 | 2022-07-01 | 2022-07-29 |
-| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 |  |
+| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2023-06-03 |
 | [Romántico](https://open.spotify.com/track/3xCJorDA7M5RVEwGlXV4ZC) | [Perez](https://open.spotify.com/artist/2useEnhlzYOXvuvIteaTed) | [Perez 2021](https://open.spotify.com/album/0oxsDoGOfkhyTwtKJ1v7WC) | 3:11 | 2022-07-01 | 2022-07-24 |
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-07-01 | 2022-07-16 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-11 |  |
@@ -405,6 +405,7 @@
 | [Tranki Town](https://open.spotify.com/track/7uLmpyGdYW4Z9Xy163jKE8) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Mitokiota](https://open.spotify.com/artist/1TibukCppwnz6ALvkIhpFy), [Friki Jones](https://open.spotify.com/artist/3OGAcR5Klbhn6GIs8fP4m0) | [Tranki Town](https://open.spotify.com/album/7n6jZ86IvE57Z7EK0x3I4h) | 2:54 | 2022-07-01 | 2022-07-29 |
 | [Transformarme](https://open.spotify.com/track/4rkf8GAsnpt2zed4MVqf7l) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 3:23 | 2022-07-15 | 2022-07-29 |
 | [Transparente \- Lt Session](https://open.spotify.com/track/0z5Grn58q81DPgnQXyoU7b) | [Bicicletas](https://open.spotify.com/artist/1JwKBAe8O6J3z8knUBBIM1) | [Los Transparentes](https://open.spotify.com/album/0bD4ErLB6Z4H05LryfyqeJ) | 5:03 | 2022-07-01 | 2022-07-25 |
+| [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 | 2023-06-02 |  |
 | [Tratame Bien](https://open.spotify.com/track/2opSOuPVBo9L3TO6KhHvlA) | [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve) | [Tratame Bien](https://open.spotify.com/album/4MUv1qkeN2jPVsjjGNdQdk) | 3:39 | 2022-07-01 | 2022-07-24 |
 | [Tripulacion N8](https://open.spotify.com/track/664sLqunOLcM3WfStrqwY7) | [Temporada de Tormentas](https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4) | [La Primera Exploracion](https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU) | 6:02 | 2022-07-01 | 2022-07-25 |
 | [TU MASCOTA](https://open.spotify.com/track/3lZiodTNPnOT4p45XXEIVt) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [TU MASCOTA](https://open.spotify.com/album/2afksjXmdCBZT9ZOXA0RxG) | 3:50 | 2022-07-15 | 2022-08-17 |

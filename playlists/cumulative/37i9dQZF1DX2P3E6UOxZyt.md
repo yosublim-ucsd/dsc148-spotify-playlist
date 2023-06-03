@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Jinbo
+> 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Asiaboy禁藥王&Lizi栗子
 
-343 songs - 20 hr 30 min
+344 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 | 2022-03-25 |
 | [Up In the Air](https://open.spotify.com/track/7eEpzdJJX8AE4Fweh9vx45) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Up In the Air](https://open.spotify.com/album/0wrRmU5Lrv1Zbzlt64qKxJ) | 2:29 | 2022-03-24 | 2022-06-24 |
 | [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/track/2F92epgieVe49h9qkKkQHX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [Utopia Reimagined: 宁静的海洋](https://open.spotify.com/album/006h1eKoIJiDhyC5UdpnIw) | 3:26 | 2023-03-23 | 2023-04-28 |
+| [Vengeance // 直衝地獄](https://open.spotify.com/track/2doqzJTVdH9nNuesRwNXKY) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785), [Asiaboy 禁藥王 & Lizi 栗子](https://open.spotify.com/artist/0ZJJtdrebVOdx8yKeAZogM) | [Vengeance // 直衝地獄](https://open.spotify.com/album/5GUJQEU9GZ7Hv6B9XbCEF1) | 4:08 | 2023-06-02 |  |
 | [Virtual Lover](https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Virtual Lover](https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr) | 2:54 | 2021-12-30 | 2023-01-06 |
 | [WANT TOO](https://open.spotify.com/track/1xBLUezHIborqtET1vkfcY) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [WANT TOO](https://open.spotify.com/album/76c574QgbdN4As2a8yvspS) | 2:43 | 2022-06-02 | 2022-10-07 |
 | [Weirdo \- Acoustic Version](https://open.spotify.com/track/3sgCFqA7PqmMae2zepUIh2) | [HUR](https://open.spotify.com/artist/14cA6ZJHyr9VQpEQ5xzsui), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [Weirdo \(Acoustic Version\)](https://open.spotify.com/album/6iLV2Ew0CYO9zJAgja0sxj) | 3:10 | 2022-08-11 | 2022-10-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera ",
-  "num_followers": 9508,
+  "num_followers": 9545,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2Q0NzU0MjhlMzgyOTVlMjk5MWUxYjcxNTUzYjEyNWE2OGNkZDQ2",
+  "snapshot_id": "MCw1YzZiM2Q0MTdmZjg2YThmMDZiNWI5ODJlYTk2YzBjOGFmMDlkMzg0",
   "tracks": [
     {
       "added_at": "2023-05-26 08:27:44",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "V\u00e1monos a Marte",
-        "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 191851,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "Sin Parar",
         "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 152340,
       "name": "Sin Parar",
       "url": "https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
+        "name": "V\u00e1monos a Marte",
+        "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 191851,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
     },
     {
       "added_at": "2023-05-26 08:27:44",

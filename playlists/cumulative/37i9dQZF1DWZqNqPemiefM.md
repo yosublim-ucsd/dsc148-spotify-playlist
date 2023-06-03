@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-468 songs - 1 day 13 hr 18 min
+469 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 | 2022-09-04 |
 | [Millefeuille](https://open.spotify.com/track/2GlAWOVruoh0tvj99RIYrO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:01 | 2022-03-31 | 2022-07-28 |
 | [minamo](https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [minamo](https://open.spotify.com/album/3tC4jQiF2Lga3NFX8YonKf) | 2:40 | 2023-04-06 | 2023-04-21 |
-| [Misunderstood](https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH) | 5:44 | 2023-06-01 |  |
+| [Misunderstood](https://open.spotify.com/track/0oxrapKkwUQf865tPTOByL) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/4kyh3E4DolanD3BMxcxG04) | 5:44 | 2023-06-01 |  |
+| [Misunderstood](https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH) | 5:44 | 2023-06-01 | 2023-06-03 |
 | [Miyukinohama \(Day\)](https://open.spotify.com/track/1wm8v8VZPSiGncUxclG7Pr) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Private Cottage](https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF) | 6:56 | 2022-03-31 | 2022-04-17 |
 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 | 2022-07-28 | 2022-10-02 |
 | [Mkwaju](https://open.spotify.com/track/6EXxt6R2ziKNUeClSiLg1L) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/2PeTfaXfMczJeduhKAMsZV) | 6:28 | 2022-03-31 | 2022-04-19 |

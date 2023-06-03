@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-171 songs - 9 hr 6 min
+172 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
+| [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 |  |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
 | [True Colours \- Acoustic](https://open.spotify.com/track/5Yx9ReP3EazFEfqrPAwIos) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05), [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [True Colours \(Acoustic\)](https://open.spotify.com/album/2OEt8n5TKNKKaPV947Zr2O) | 3:06 | 2023-04-10 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 | 2023-05-10 |

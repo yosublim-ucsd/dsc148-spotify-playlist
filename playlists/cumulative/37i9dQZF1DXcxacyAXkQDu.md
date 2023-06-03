@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-877 songs - 2 day 4 hr 0 min
+878 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 | 2021-12-21 |  |
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2022-03-24 | 2022-04-02 |
 | [3 Rounds and a Sound](https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [3 Rounds and a Sound](https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1) | 4:26 | 2022-03-24 | 2022-04-02 |
+| [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2023-05-30 |  |
 | [A Case Of You](https://open.spotify.com/track/39PCdFgfywR9PbCl1q3wHU) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/10ezzZAhOon51wDVhXgB77) | 2:57 | 2022-03-24 | 2022-04-21 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2021-12-21 |  |
 | [A Thousand Hues](https://open.spotify.com/track/6h5b61rVGKTlAiDrxFCNS2) | [Sean Christopher](https://open.spotify.com/artist/0e4vnHBYwY6LQqrhutIcnj) | [Yonder](https://open.spotify.com/album/6TZgdBL9ZTsWGGLOOjGSRW) | 4:30 | 2022-01-05 | 2022-07-29 |
@@ -249,7 +250,7 @@
 | [Fortress](https://open.spotify.com/track/3ri08lx68DvAbQuqLuZoFM) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Love, me](https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6) | 2:54 | 2022-07-08 | 2022-11-12 |
 | [Fortress](https://open.spotify.com/track/6rZGmXgK5CHbsJGwjiPFd4) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Fortress](https://open.spotify.com/album/1hLl55XdlEx4TTMSKzX7Fp) | 2:54 | 2022-03-24 | 2022-04-21 |
 | [Fraction](https://open.spotify.com/track/2UK4vzZm9WintkWU5ES7t4) | [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Fraction](https://open.spotify.com/album/6y5VQTtS9Cbj8bhjKCCRhi) | 3:15 | 2021-12-21 | 2022-07-29 |
-| [Fraction](https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:15 | 2022-07-08 |  |
+| [Fraction](https://open.spotify.com/track/0W15FUJGqqbVNvHGYR8nZk) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [ALIUS](https://open.spotify.com/artist/0OZHXLUlvJWfHKrdlHhkFU) | [Love & Hurt](https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t) | 3:15 | 2022-07-08 | 2023-06-03 |
 | [Freaking Out!](https://open.spotify.com/track/3san0Uyl11zEKigulyI2nt) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [Freaking Out!](https://open.spotify.com/album/7LJ3mxZxiL6HhXm1kp30Nb) | 3:07 | 2022-03-24 | 2022-04-19 |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2021-12-21 |  |
 | [Free](https://open.spotify.com/track/7gLdCsimRDhH0PtZoFwOAR) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [People](https://open.spotify.com/album/2ZspHdWlWxc0zig3O6VC1X) | 3:00 | 2021-12-21 | 2022-07-29 |

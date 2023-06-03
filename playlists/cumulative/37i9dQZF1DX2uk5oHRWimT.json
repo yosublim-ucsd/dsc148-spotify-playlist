@@ -814,10 +814,28 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 193100,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq"
+    },
+    {
+      "album": {
+        "name": "Father Christmas",
+        "url": "https://open.spotify.com/album/67Cc0oA2zbfJQDs1V0kFSY"
+      },
+      "artists": [
+        {
+          "name": "Cary Brothers",
+          "url": "https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193100,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ"
     },
     {
       "album": {

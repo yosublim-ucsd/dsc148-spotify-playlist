@@ -4,11 +4,12 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-121 songs - 7 hr 8 min
+123 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2022-05-25 | 2022-06-28 |
+| [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 | 2023-06-02 |  |
 | [Agua Salada](https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Agua Salada](https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB) | 3:12 | 2023-04-14 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-06-27 |  |
 | [Amnesia](https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu) | 3:08 | 2022-05-25 | 2022-07-29 |
@@ -34,6 +35,7 @@
 | [Cuatro Paredes](https://open.spotify.com/track/5YzYf1636ixpWoLYuQZ9O6) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cuatro Paredes](https://open.spotify.com/album/2QUCFoOF9BiRyVE4SReMJ9) | 3:15 | 2022-05-25 | 2022-06-17 |
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-05-25 |  |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-05-25 |  |
+| [Desde Que Te Bese](https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Desde Que Te Bese](https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17) | 3:02 | 2023-06-02 |  |
 | [Dibújame](https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Dibújame](https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0) | 3:56 | 2022-05-25 |  |
 | [Dulcinea \(La Buena\)](https://open.spotify.com/track/5E84YLrIhAIvL29wcl56dd) | [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Dulcinea \(La Buena\)](https://open.spotify.com/album/1HbpRgqJGYOSPZktNyFbcw) | 3:52 | 2023-05-29 |  |
 | [Déjame Entrar](https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Déjame Entrar](https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K) | 3:37 | 2022-05-25 | 2022-06-28 |

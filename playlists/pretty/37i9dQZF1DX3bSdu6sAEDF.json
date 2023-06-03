@@ -1,29 +1,13 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 487417,
+  "num_followers": 487547,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjRmOGYwNGFkYmNlMDA5NmU5ZWFmMzc3OThlY2MzNmExODJkOThl",
+  "snapshot_id": "MCw1ZmQ2N2IyMDg4OGQ3YjQ3NTcyYTY1ZGM3NjI5ZjBhZDI3ZjI2MTI0",
   "tracks": [
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Greenlight",
-        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Greenlight",
-      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
-    },
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
@@ -41,6 +25,22 @@
       "url": "https://open.spotify.com/track/2WSORfJyTbgy90ZtJYcOZX"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Greenlight",
+        "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Greenlight",
+      "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "When You\u2019re Breaking My Heart",
@@ -55,6 +55,22 @@
       "duration_ms": 184005,
       "name": "When You\u2019re Breaking My Heart",
       "url": "https://open.spotify.com/track/0D0oMP3byoKW7vOcI51LlG"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Ghost Me",
+        "url": "https://open.spotify.com/album/1Dd3ntyPF4UswRkRLi8BLi"
+      },
+      "artists": [
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Ghost Me",
+      "url": "https://open.spotify.com/track/7oz8BEyCK6d48YzxLVxv19"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 131249,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/5G8SKxTc9IyEztS6moUTo0"
-    },
-    {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "State of Flight",
-        "url": "https://open.spotify.com/album/0sunBQLEqyaT1iojx2XoYV"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "State of Flight",
-      "url": "https://open.spotify.com/track/21DOy3oZ7aKupTpVADoe09"
     },
     {
       "added_at": "2022-05-20 04:01:00",

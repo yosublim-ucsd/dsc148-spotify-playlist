@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 107770,
       "name": "Allra k\u00e4raste barn",
       "url": "https://open.spotify.com/track/5arPYmjgjEAn8bOVDya2hb"
@@ -560,6 +560,24 @@
       "duration_ms": 120874,
       "name": "An Angel Goes To Bed",
       "url": "https://open.spotify.com/track/1EOBqDXmXYQ1OK6Orubc9n"
+    },
+    {
+      "album": {
+        "name": "Angel Sleep",
+        "url": "https://open.spotify.com/album/35SovzjcvrTycpYzv9Vuh2"
+      },
+      "artists": [
+        {
+          "name": "Niels Olaf",
+          "url": "https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103046,
+      "name": "Angel Sleep",
+      "url": "https://open.spotify.com/track/6GeggDH5YZ2t9xq57052Ic"
     },
     {
       "album": {
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 88000,
       "name": "Bj\u00f6rnen sover",
       "url": "https://open.spotify.com/track/2XYcp7kT5BxrhCEFykj3jA"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 136000,
       "name": "Bl\u00e5sippor (Blue Anemone)",
       "url": "https://open.spotify.com/track/7MD68crke6EwhfqDvw26ys"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 87205,
       "name": "Brevet Fr\u00e5n Lillan - Piano Version",
       "url": "https://open.spotify.com/track/3assP9NaW5ZNAORBULFOn2"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 80000,
       "name": "B\u00e4, b\u00e4, vita lamm",
       "url": "https://open.spotify.com/track/6j05XbgyLgFLU1ehdyEKwy"
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 87000,
       "name": "De gelukkige olifant",
       "url": "https://open.spotify.com/track/6NlNhFxuE70uhafa8qII6f"
@@ -2507,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Starlit Dreams",
+        "url": "https://open.spotify.com/album/0ABckNHR2AX30O3Ul9xkl7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Fischer",
+          "url": "https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81812,
+      "name": "Dreamer's Haven",
+      "url": "https://open.spotify.com/track/2N0RwdlQ5HnnAPFcLcfHVY"
+    },
+    {
+      "album": {
         "name": "Dreaming of Sweets",
         "url": "https://open.spotify.com/album/4xR10UOpMUHnWAPUivHOFM"
       },
@@ -2540,6 +2576,24 @@
       "duration_ms": 116500,
       "name": "Dreaming Slowly",
       "url": "https://open.spotify.com/track/77nUsgxLfvUUHCZIeTQSYg"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Of Dreams",
+        "url": "https://open.spotify.com/album/1RqpjIoEAKSjA4yZ4traEo"
+      },
+      "artists": [
+        {
+          "name": "Paul Ellier",
+          "url": "https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133965,
+      "name": "Dreamland Serenade",
+      "url": "https://open.spotify.com/track/6Uj1Q4hlJkzYj2ecO7Z84i"
     },
     {
       "album": {
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 79249,
       "name": "Du k\u00e4re lille snickerbo",
       "url": "https://open.spotify.com/track/4JfzM9YSMnitlTEdUTCuVm"
@@ -2824,7 +2878,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145091,
       "name": "En Vacker Dr\u00f6m",
       "url": "https://open.spotify.com/track/1yHRXABWC80wQ6m51lYjN4"
@@ -2860,7 +2914,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 104250,
       "name": "Es hora de acostarse",
       "url": "https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH"
@@ -3209,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Forever My Angel",
+        "url": "https://open.spotify.com/album/62WyiYyAlpXBwaymywnAkh"
+      },
+      "artists": [
+        {
+          "name": "Nattkvisten",
+          "url": "https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92420,
+      "name": "Forever My Angel",
+      "url": "https://open.spotify.com/track/2jxCDxDoQFDIWraoUezXvi"
+    },
+    {
+      "album": {
         "name": "Forty Winks",
         "url": "https://open.spotify.com/album/02Nt429fqotbeN3OUb0xxr"
       },
@@ -3292,7 +3364,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 66753,
       "name": "F\u00e4rgerna",
       "url": "https://open.spotify.com/track/0AXPJJ4BYpaKOGjTUk53yk"
@@ -3710,7 +3782,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 49680,
       "name": "Gubben i l\u00e5dan",
       "url": "https://open.spotify.com/track/4QwTU7lEFSeFHDIMhwj7sS"
@@ -3764,7 +3836,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 87506,
       "name": "G\u00e5tfulla Folket - Piano Version",
       "url": "https://open.spotify.com/track/2BrRNjUtY4RQ88qwsHF4yX"
@@ -3890,7 +3962,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 94832,
       "name": "Head and Shoulders",
       "url": "https://open.spotify.com/track/2hvXLj1JlHLXIvTGsRL3mr"
@@ -3948,6 +4020,24 @@
       "duration_ms": 61658,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/2WEY4VI0zgLGsQLQWdNRC4"
+    },
+    {
+      "album": {
+        "name": "The Sleepy Land",
+        "url": "https://open.spotify.com/album/6AJtiNfmuWfqyfhk3rPYb7"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119650,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/3lc3L8xxba56WeH5ThXfo7"
     },
     {
       "album": {
@@ -4052,7 +4142,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 84002,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/5R0Ltvrb5N8FnXOIbLUAos"
@@ -4340,7 +4430,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 62000,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/2MGquKw40obiAUR8gA6IMX"
@@ -4448,7 +4538,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 83320,
       "name": "H\u00e4r kommer Pippi L\u00e5ngstrump",
       "url": "https://open.spotify.com/track/6pPKsXco1LF5kG9BGaXocm"
@@ -4848,6 +4938,24 @@
       "duration_ms": 87421,
       "name": "In the Clouds",
       "url": "https://open.spotify.com/track/6DA1DUAv1S8hpW16wElDRM"
+    },
+    {
+      "album": {
+        "name": "In The Forest",
+        "url": "https://open.spotify.com/album/1XSLY14OWbpWNCXDsIb4Kq"
+      },
+      "artists": [
+        {
+          "name": "Stella Maria",
+          "url": "https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74017,
+      "name": "In The Forest",
+      "url": "https://open.spotify.com/track/3zuscW3oBBvdVymKafXuhP"
     },
     {
       "album": {
@@ -5600,7 +5708,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 102652,
       "name": "Litet bo jag s\u00e4tta vill",
       "url": "https://open.spotify.com/track/7H5hjRByXu7qV8zQsQtPP4"
@@ -6140,7 +6248,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 85458,
       "name": "Majas visa",
       "url": "https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD"
@@ -6968,7 +7076,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 77579,
       "name": "M\u00e5nen vakar \u00f6ver dig",
       "url": "https://open.spotify.com/track/3Mut5TKtCr0Q26XiH55S9g"
@@ -7515,6 +7623,24 @@
     },
     {
       "album": {
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/1KRXc6Syep1qAIENwFJjvC"
+      },
+      "artists": [
+        {
+          "name": "Sky Holland",
+          "url": "https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101953,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/76uTqyHnM2QeuQRH45nN60"
+    },
+    {
+      "album": {
         "name": "Hush Little Baby - Piano Lullaby Hits",
         "url": "https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI"
       },
@@ -7588,6 +7714,24 @@
       "duration_ms": 100500,
       "name": "Peace At Last",
       "url": "https://open.spotify.com/track/24m5S5142ix00vPzBBmfET"
+    },
+    {
+      "album": {
+        "name": "Peaceful Nights",
+        "url": "https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR"
+      },
+      "artists": [
+        {
+          "name": "Dore Mi",
+          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78308,
+      "name": "Peaceful Nights",
+      "url": "https://open.spotify.com/track/1vf669tNeSL1g0vUKi7UEz"
     },
     {
       "album": {
@@ -7840,6 +7984,24 @@
       "duration_ms": 114550,
       "name": "Puffy the Penguin",
       "url": "https://open.spotify.com/track/7hxP5fMSUovpSgKJs76wVp"
+    },
+    {
+      "album": {
+        "name": "Pumpkin Pie",
+        "url": "https://open.spotify.com/album/1JJsniJr177zM12sDXOSJQ"
+      },
+      "artists": [
+        {
+          "name": "Baby Queenie",
+          "url": "https://open.spotify.com/artist/6AwIskMLg31uvFciCCWxjR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199969,
+      "name": "Pumpkin Pie",
+      "url": "https://open.spotify.com/track/7LWMmfNT45q9Y36HcFDgE0"
     },
     {
       "album": {
@@ -9244,7 +9406,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 81101,
       "name": "Som En Saga",
       "url": "https://open.spotify.com/track/7e87LdroN5zBYSDiwLHuEx"
@@ -9262,7 +9424,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 75803,
       "name": "Som stj\u00e4rnor sm\u00e5",
       "url": "https://open.spotify.com/track/4zkjDKRClIoGCjzVzh4x6R"
@@ -9298,7 +9460,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 111000,
       "name": "Sommars\u00e5ngen",
       "url": "https://open.spotify.com/track/7aOwNHkXRFJLW9yzjk2HxS"
@@ -9316,7 +9478,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 86207,
       "name": "Somna min v\u00e4n",
       "url": "https://open.spotify.com/track/43NVRWN6YezdBSC69DzsXC"
@@ -9334,7 +9496,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 129080,
       "name": "Somna, min k\u00e4ra",
       "url": "https://open.spotify.com/track/0FvvCVzzDKv8OhqiWWN7Bj"
@@ -9424,7 +9586,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 92690,
       "name": "Sova Lite",
       "url": "https://open.spotify.com/track/0AFeMWTE1IqPPut93ACOLN"
@@ -9539,6 +9701,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams My Love",
+        "url": "https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Eli",
+          "url": "https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141188,
+      "name": "Sweet Dreams My Love",
+      "url": "https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ"
+    },
+    {
+      "album": {
         "name": "Sweet Little Child",
         "url": "https://open.spotify.com/album/05tiRDCwaNWWirtybfHYAG"
       },
@@ -9640,7 +9820,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 130269,
       "name": "S\u00f6mniga \u00d6gon",
       "url": "https://open.spotify.com/track/6D8blsYLr2kmTvZIJsAzRv"
@@ -9820,7 +10000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 93500,
       "name": "The alphabet song",
       "url": "https://open.spotify.com/track/74GqJ7aet6OgNHltJF0dnk"
@@ -10511,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Three Little Foxes",
+        "url": "https://open.spotify.com/album/6p67dI1tgVy6xAGpvvkxfb"
+      },
+      "artists": [
+        {
+          "name": "Laurel Hoh",
+          "url": "https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113624,
+      "name": "Three Little Foxes",
+      "url": "https://open.spotify.com/track/7B3obFgv2Rw688A1nusXik"
+    },
+    {
+      "album": {
         "name": "Through The Clouds",
         "url": "https://open.spotify.com/album/020WFbYulGFbLNEOzX2rdv"
       },
@@ -10925,6 +11123,24 @@
     },
     {
       "album": {
+        "name": "Twinkling Stars",
+        "url": "https://open.spotify.com/album/4QJiU7CETBBYr3EbuWfXM5"
+      },
+      "artists": [
+        {
+          "name": "Anita Nightingale",
+          "url": "https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112399,
+      "name": "Twinkling Stars",
+      "url": "https://open.spotify.com/track/7nyR0UlDhFkwSqJQi3Jwox"
+    },
+    {
+      "album": {
         "name": "John Jacob Jingleheimer Schmidt",
         "url": "https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I"
       },
@@ -11062,7 +11278,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 92483,
       "name": "Ute Bl\u00e5ser Sommarvind (Summer Winds)",
       "url": "https://open.spotify.com/track/0cq9FwkKf99VJ8gPoLYuiD"
@@ -11152,7 +11368,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 111500,
       "name": "Vargs\u00e5ngen",
       "url": "https://open.spotify.com/track/5Lh0wf1GEOKJ7pYXM4qTs3"
@@ -11717,6 +11933,24 @@
     },
     {
       "album": {
+        "name": "Your Best Friend",
+        "url": "https://open.spotify.com/album/3iPujqVjuFxdUFUpQGtm6x"
+      },
+      "artists": [
+        {
+          "name": "Julius Nilsson",
+          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146284,
+      "name": "Your Best Friend",
+      "url": "https://open.spotify.com/track/7wxRcViG0DDUU0J1cgcYm1"
+    },
+    {
+      "album": {
         "name": "Your Dreams",
         "url": "https://open.spotify.com/album/1AhbCgfNXekJc19LZk3Abh"
       },
@@ -11732,6 +11966,24 @@
       "duration_ms": 83478,
       "name": "Your Dreams",
       "url": "https://open.spotify.com/track/4ofrtW6Nkb7qUxyhwp67kq"
+    },
+    {
+      "album": {
+        "name": "Moonlight Reverie",
+        "url": "https://open.spotify.com/album/4SMxMb5lvtLFBdIU7gsWEC"
+      },
+      "artists": [
+        {
+          "name": "Jim Fauer",
+          "url": "https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109941,
+      "name": "Your Own Bedtime Lullaby",
+      "url": "https://open.spotify.com/track/3xOTmMXM9gk4BieY6VxM48"
     },
     {
       "album": {

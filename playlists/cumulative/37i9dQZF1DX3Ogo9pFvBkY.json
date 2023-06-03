@@ -7483,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "Cipher",
+        "url": "https://open.spotify.com/album/2jBr8FtJiUIW5KuklZAaxa"
+      },
+      "artists": [
+        {
+          "name": "Sir Dejvid",
+          "url": "https://open.spotify.com/artist/0pwSi22Ps7HUNFmaAQHTJF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183201,
+      "name": "Mindvibe",
+      "url": "https://open.spotify.com/track/3aROTIlJEYc90xE8hlm4Be"
+    },
+    {
+      "album": {
         "name": "Miraculous",
         "url": "https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1"
       },
@@ -12816,7 +12834,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 191000,
       "name": "Voronezh Violin",
       "url": "https://open.spotify.com/track/6lkDLWCYpmVActgK7ZkLwZ"

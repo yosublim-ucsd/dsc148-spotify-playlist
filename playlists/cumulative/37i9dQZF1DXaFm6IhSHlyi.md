@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-246 songs - 15 hr 24 min
+248 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,11 +73,12 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-11-19 |  |
 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 | 2021-11-19 |  |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-11-19 |  |
+| [Forever & Always](https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq) | 3:42 | 2022-10-17 |  |
 | [Forever & Always](https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1) | 3:42 | 2021-11-19 | 2023-05-04 |
 | [Forever And Ever](https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Forever And Ever](https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o) | 3:11 | 2021-11-19 | 2022-08-09 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-16 |  |
 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 | 2021-11-19 | 2022-06-17 |
-| [Hanggang Sa Huli \- From "24/7"](https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hanggang Sa Huli \(From "24/7"\)](https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO) | 4:18 | 2021-11-19 |  |
+| [Hanggang Sa Huli \- From "24/7"](https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hanggang Sa Huli \(From "24/7"\)](https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO) | 4:18 | 2021-11-19 | 2023-06-03 |
 | [Happy Ending](https://open.spotify.com/track/6bby3tvJGR4eGcQzFDehWY) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Happy Ending](https://open.spotify.com/album/1pWSyrTpHW5e8rL9I4vg04) | 3:03 | 2021-11-19 |  |
 | [Heaven](https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 | 2021-11-19 |  |
 | [Here I Am Again](https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 | 2022-06-16 |  |
@@ -153,7 +154,8 @@
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2022-10-17 |  |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-11-19 | 2023-03-01 |
 | [Patience](https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10) | 2:50 | 2022-10-17 |  |
-| [Paubaya](https://open.spotify.com/track/6KfGuMyhHwuQtMSBvQ02pI) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Paubaya](https://open.spotify.com/album/10rSYwOZH2D4t1J3iu70Jz) | 4:42 | 2021-11-19 |  |
+| [Paubaya](https://open.spotify.com/track/1OfrAWBcGEsKKUSdMnfs0A) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Patawad \(Deluxe Edition\)](https://open.spotify.com/album/1TfPu2pTLXKrQRCXb9oJHx) | 4:42 | 2022-10-17 |  |
+| [Paubaya](https://open.spotify.com/track/6KfGuMyhHwuQtMSBvQ02pI) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Paubaya](https://open.spotify.com/album/10rSYwOZH2D4t1J3iu70Jz) | 4:42 | 2021-11-19 | 2023-06-03 |
 | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O) | 4:25 | 2021-11-19 |  |
 | [Photo of My Mind](https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs) | 4:32 | 2021-11-19 | 2022-07-29 |
 | [Photo of My Mind](https://open.spotify.com/track/6ySOgvVNAx7qfWQjAuygwU) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/7DDssx4nZHYShZUSGEoMom) | 4:32 | 2022-06-16 |  |

@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "Amor de Mari",
+        "url": "https://open.spotify.com/album/60mBWKk4jq4imHvfrykCkR"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Amor de Mari",
+      "url": "https://open.spotify.com/track/5tfOFkDQTTbanBS9hRbsKC"
+    },
+    {
+      "album": {
         "name": "Anormal",
         "url": "https://open.spotify.com/album/0bQLohOdGuWywpKztVMR2V"
       },
@@ -338,7 +364,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
@@ -456,7 +482,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 134638,
       "name": "Bellaqueo",
       "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
@@ -1470,7 +1496,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
@@ -1594,6 +1620,28 @@
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
     },
     {
       "album": {
@@ -1931,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "La M\u00e1s Linda",
+        "url": "https://open.spotify.com/album/6GF8sUee8vHLzq3OFAW81J"
+      },
+      "artists": [
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "La M\u00e1s Linda",
+      "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"
+    },
+    {
+      "album": {
         "name": "Le Encanta",
         "url": "https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G"
       },
@@ -1978,7 +2044,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 138589,
       "name": "Liberache",
       "url": "https://open.spotify.com/track/09kxHgZk9WPBfi5KVb1YhK"
@@ -2736,7 +2802,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 135303,
       "name": "Papi Quiero Perrear",
       "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
@@ -2928,7 +2994,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 146666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
@@ -4440,6 +4506,32 @@
       "duration_ms": 176993,
       "name": "X2",
       "url": "https://open.spotify.com/track/4OjIDpty93Wk3OAsG3YDS6"
+    },
+    {
+      "album": {
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     },
     {
       "album": {

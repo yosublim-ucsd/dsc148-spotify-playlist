@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-319 songs - 1 day 8 hr 11 min
+320 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-13 | 2022-11-12 |
 | [Lo Hicimos](https://open.spotify.com/track/7HdXLscvW9kyuFMYsAY6x6) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Lo Hicimos](https://open.spotify.com/album/0k13T5zISUkpxWuEkgqcaY) | 7:38 | 2022-09-13 |  |
 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 | 2023-02-23 | 2023-03-18 |
-| [Losing My Religion](https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA) | 4:28 | 2023-05-24 |  |
+| [Losing My Religion](https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA) | 4:28 | 2023-05-24 | 2023-06-03 |
+| [Losing My Religion](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK) | 4:28 | 2023-05-31 |  |
 | [Lost](https://open.spotify.com/track/4Ou3n93tUOCswlXXMSbtoX) | [G\-Wash10](https://open.spotify.com/artist/2P4NB1H98x8JlCYRbOR9xm), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire On The Mountain EP](https://open.spotify.com/album/4P2uUDW2G6vPXcHAWapGsu) | 6:17 | 2023-01-12 |  |
 | [Lost \(with Angelos feat\. Jinadu\)](https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:04 | 2022-09-13 |  |
 | [Lost In Space \- Enchanted Mix](https://open.spotify.com/track/6aFTXshPBn0TMu2SVJNxBI) | [Tea White](https://open.spotify.com/artist/4MpPHRxgfWKnBUoAGCBx45), [Kholo](https://open.spotify.com/artist/5FugHkVOjWAyAwSx5z63wo) | [Between Planets](https://open.spotify.com/album/5erGhG4lOc6EtfMSygpq4B) | 8:27 | 2023-02-09 | 2023-03-18 |

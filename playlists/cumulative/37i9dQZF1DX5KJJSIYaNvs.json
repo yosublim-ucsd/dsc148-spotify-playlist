@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2rAJ3PA5JGMktxYiSg53Um"
@@ -1686,6 +1686,32 @@
       "duration_ms": 215565,
       "name": "Jee Jeha Karda",
       "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
+    },
+    {
+      "album": {
+        "name": "Jee Karda - Title Track (From \"Jee Karda\")",
+        "url": "https://open.spotify.com/album/2UTdRqpY7UcKuUZLosIoJl"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160066,
+      "name": "Jee Karda - Title Track (From \"Jee Karda\")",
+      "url": "https://open.spotify.com/track/4xpy4CifUgT5BHLIkYnc9j"
     },
     {
       "album": {

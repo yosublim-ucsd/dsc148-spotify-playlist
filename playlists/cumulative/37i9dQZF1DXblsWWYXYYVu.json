@@ -1315,6 +1315,24 @@
     },
     {
       "album": {
+        "name": "Wide Open Light",
+        "url": "https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164873,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB"
+    },
+    {
+      "album": {
         "name": "Me, My Old Man and Steely Dan",
         "url": "https://open.spotify.com/album/3lC8XBp5SC40kVFsXLMn5l"
       },
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 244146,
       "name": "Safe",
       "url": "https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ"

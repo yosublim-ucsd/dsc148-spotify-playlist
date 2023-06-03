@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Straw Hat (Remix)",
+        "url": "https://open.spotify.com/album/0pJXTY98lf1T6OScJEr1Va"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164550,
+      "name": "Straw Hat - Remix",
+      "url": "https://open.spotify.com/track/4SgOKIQLkGlW8RH2v2vgLx"
+    },
+    {
+      "album": {
         "name": "Teenage Dream 2 (with Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/462FYqbPKtgQrdP390TKuA"
       },

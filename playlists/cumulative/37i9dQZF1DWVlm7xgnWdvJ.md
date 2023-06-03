@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-105 songs - 10 hr 6 min
+106 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-17 |  |
 | [Praia \- Yuksek Remix](https://open.spotify.com/track/5OnXpUXJfArXpxWIskl1E1) | [Nathalie Duchene](https://open.spotify.com/artist/31QreE8xTvA8Rdq9UXCvnC), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Praia \(Yuksek Remix\)](https://open.spotify.com/album/5HL75LL4ZgsNrsItVYYvLX) | 5:56 | 2022-12-20 |  |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-05-11 |  |
-| [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 | 2022-12-20 |  |
+| [Pressure](https://open.spotify.com/track/1AaDIOjJHuUYygQqhaAKkH) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/09ViJlYhlXIRSB0rg17OSw) | 2:48 | 2023-05-16 |  |
+| [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 | 2022-12-20 | 2023-06-03 |
 | [Reflex \- Manqo Remix](https://open.spotify.com/track/7IaHMukUvlQCDAjvzzCwza) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Manqo](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Day/Night Remixed](https://open.spotify.com/album/3dYicMi9AWSw7ZO56J8ehf) | 7:02 | 2023-05-14 |  |
 | [Revision A \- Black Coco](https://open.spotify.com/track/5sNmRWmAjtswqY3QQvS8sP) | [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Revision A \(Black Coco\)](https://open.spotify.com/album/0y79Pfdc1UgdJR2IWILEJx) | 5:05 | 2022-12-20 |  |
 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 | 2022-12-20 |  |

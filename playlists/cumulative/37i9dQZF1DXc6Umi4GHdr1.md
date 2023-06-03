@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-221 songs - 9 hr 58 min
+223 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 | 2022-10-14 | 2023-05-27 |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 |  |
+| [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 |  |
 | [Lettre encore](https://open.spotify.com/track/7fMaXYCcmEt2rDcXcGpYMl) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Elena Papandreou](https://open.spotify.com/artist/79nEvQEOGsm8elVnhpeiP3) | [Dyens: Guitar Music](https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq) | 1:39 | 2021-12-10 | 2022-07-22 |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-03-10 |  |
 | [Little Brook](https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Little Brook](https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX) | 2:22 | 2022-12-09 |  |
@@ -210,6 +211,7 @@
 | [Ungebunden](https://open.spotify.com/track/6gzhnN8gcWTyyU9TRAEyCP) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Ungebunden](https://open.spotify.com/album/4kmDAFoVpyDrDN70opmXnY) | 1:37 | 2022-10-07 |  |
 | [Unsung Heroes](https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Unsung Heroes](https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ) | 2:29 | 2022-01-07 | 2022-05-27 |
 | [Until Then](https://open.spotify.com/track/6AEU8t2mTdeVdfP5JyIUUf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:07 | 2022-03-03 |  |
+| [Urban legends](https://open.spotify.com/track/2x4K624CyAI8DQShtVIypD) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Urban legends](https://open.spotify.com/album/3KXstkEWsSKCtwFKhaYyzo) | 2:36 | 2023-06-02 |  |
 | [Valentine](https://open.spotify.com/track/2iRhWAN9jmQSb43ucKRiJJ) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Valentine](https://open.spotify.com/album/4gHQh1PpIXkBOd4VHtPG3i) | 2:18 | 2021-12-10 | 2023-03-31 |
 | [Valsa Sem Fim](https://open.spotify.com/track/309fOMTlQ4uqIq85Uj1EDw) | [Vincente Kayur](https://open.spotify.com/artist/25vzXhzKXpVJmDPidt6xYE) | [Promessas](https://open.spotify.com/album/5fBRfmRUoA5E8D8PxwAqpE) | 3:13 | 2021-12-10 |  |
 | [Voluntad](https://open.spotify.com/track/5XHgDP6VEOqMbhFLqh78Xx) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Voluntad](https://open.spotify.com/album/2rV6cBlzGCjPaQZDTSbbWJ) | 2:51 | 2021-12-10 | 2023-03-10 |

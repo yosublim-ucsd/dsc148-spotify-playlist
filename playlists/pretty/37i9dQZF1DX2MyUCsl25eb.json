@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 980904,
+  "num_followers": 980914,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDM2OWFkOGVlNDY2OGQzOWNjNzE3MmIwM2Y4N2U4ZTQ5NDk2Y2Vj",
+  "snapshot_id": "MCxkZGZiMDM1Njk2MzMyZDQzNTI5OGZjYTRkYjA3ZjU4NWMyY2E0ZGEw",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 243520,
       "name": "Go Getter",
       "url": "https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W"
+      },
+      "artists": [
+        {
+          "name": "Francisco Martin",
+          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -629,22 +645,6 @@
       "url": "https://open.spotify.com/track/4K9ZhFfPbXbmznYX5EffPE"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
       "added_at": "2023-04-07 04:01:00",
       "album": {
         "name": "Love You Anyway",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180248,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "All Her Favorite Songs (with Little Stranger)",
@@ -1243,26 +1227,6 @@
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1563,30 +1527,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/5dN8SzoEvajUrvo7wsI9WS"
-      },
-      "artists": [
-        {
-          "name": "Joel Baker",
-          "url": "https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        },
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 219597,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/118U6zKxuDA6DDGGAnKtJC"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
@@ -1599,22 +1539,6 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "No Reservations",
-        "url": "https://open.spotify.com/album/0eG3xAfpbnkfytXoElMF8b"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "No Reservations",
-      "url": "https://open.spotify.com/track/60DFlM3IXtn4y1yvbbGbfO"
     },
     {
       "added_at": "2023-02-17 05:01:00",

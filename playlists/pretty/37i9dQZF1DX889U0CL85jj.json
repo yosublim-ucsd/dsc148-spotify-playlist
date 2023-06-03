@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2434812,
+  "num_followers": 2435003,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGExN2U0NTBkYjM1Y2U0NjZlNDA5ZTk2MmIyMzc2NTYxZGU1OTI0",
+  "snapshot_id": "MCw3NzkzZDQ2ODdlN2E2ODkyODljNzg4YWQ1YjI0YTIzMTU1NDc5NjJj",
   "tracks": [
     {
       "added_at": "2023-04-28 05:07:49",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz"
     },
     {
-      "added_at": "2023-04-28 05:07:49",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 169103,
-      "name": "Bright Red",
-      "url": "https://open.spotify.com/track/46yZvVAKWuvp6sV0OciMLt"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -161,6 +145,22 @@
       "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
     },
     {
+      "added_at": "2023-06-02 13:35:22",
+      "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "IV",
@@ -195,6 +195,22 @@
       "duration_ms": 234174,
       "name": "Pistol",
       "url": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7"
+    },
+    {
+      "added_at": "2023-06-02 13:35:22",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
     },
     {
       "added_at": "2023-05-31 17:15:01",
@@ -301,6 +317,26 @@
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
+      "added_at": "2023-06-02 13:35:22",
+      "album": {
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
+      },
+      "artists": [
+        {
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Ride",
@@ -369,6 +405,22 @@
       "url": "https://open.spotify.com/track/0jydPpKYApxg7ZkUfYARVH"
     },
     {
+      "added_at": "2023-04-28 05:07:49",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 169103,
+      "name": "Bright Red",
+      "url": "https://open.spotify.com/track/46yZvVAKWuvp6sV0OciMLt"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Like I Do",
@@ -415,6 +467,30 @@
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
+    },
+    {
+      "added_at": "2023-06-02 13:35:22",
+      "album": {
+        "name": "I'll Wait for You",
+        "url": "https://open.spotify.com/album/1NBQeDOqJ1TushojX4Jw4A"
+      },
+      "artists": [
+        {
+          "name": "Tsuwavii",
+          "url": "https://open.spotify.com/artist/0D9qyJ0MxZf1QhrtbK0By7"
+        },
+        {
+          "name": "Abi Bernadoth",
+          "url": "https://open.spotify.com/artist/0kqNd43r9g26Rn23EsSxCW"
+        },
+        {
+          "name": "rayo",
+          "url": "https://open.spotify.com/artist/0tf8gcppeW1Essa4WXbMsX"
+        }
+      ],
+      "duration_ms": 180806,
+      "name": "I'll Wait for You",
+      "url": "https://open.spotify.com/track/7aubsiy3BNL0umbXaHtPro"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -507,22 +583,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -551,6 +611,22 @@
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+    },
+    {
+      "added_at": "2023-06-02 13:35:22",
+      "album": {
+        "name": "Everything You've Always Wanted",
+        "url": "https://open.spotify.com/album/36ow8IpG5355jkilVe48kD"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "duration_ms": 190616,
+      "name": "Everything You've Always Wanted",
+      "url": "https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa"
     },
     {
       "added_at": "2023-05-04 17:51:18",
@@ -1863,22 +1939,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Godzilla",
-        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
-      },
-      "artists": [
-        {
-          "name": "Nanna",
-          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
-        }
-      ],
-      "duration_ms": 289045,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -2123,26 +2183,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "sleepover",
-        "url": "https://open.spotify.com/album/4CGcPFpcJ3Shfvh4lf0Mms"
-      },
-      "artists": [
-        {
-          "name": "VELVETEARS",
-          "url": "https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS"
-        },
-        {
-          "name": "eli filosov [ p h i l o ]",
-          "url": "https://open.spotify.com/artist/69C7agUvyZMUv0P58MvBwc"
-        }
-      ],
-      "duration_ms": 209788,
-      "name": "trustfall",
-      "url": "https://open.spotify.com/track/2i5prz1qSaqSoZbzFFftG9"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Bicycle (Rework)",
         "url": "https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK"
       },
@@ -2207,22 +2247,6 @@
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -2379,22 +2403,6 @@
       "duration_ms": 176089,
       "name": "Running",
       "url": "https://open.spotify.com/track/32ehY1sbKp8U3wGkV6SkOq"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Heart Break Escape",
-      "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
     },
     {
       "added_at": "2023-05-12 04:00:00",

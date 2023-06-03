@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-383 songs - 21 hr 33 min
+384 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [I Want You Back](https://open.spotify.com/track/2vtJ4rBe0LTbbMeaNaEMey) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Never Can Say Goodbye](https://open.spotify.com/album/5883OS71ULt0vnreAUe9hV) | 2:41 | 2021-03-12 |  |
 | [I Want You Back](https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Tyler Ward Covers, Vol\. 5](https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt) | 2:10 | 2021-03-12 |  |
 | [I Wish You Were Here \- Acoustic](https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Wish You Were Here \(Acoustic\)](https://open.spotify.com/album/73NEA3N9onO77kK6ijm7aY) | 2:06 | 2021-11-09 |  |
+| [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 | 2023-06-02 |  |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2021-03-12 |  |
 | [I'm In A Hurry](https://open.spotify.com/track/7rDq2VT10fuTB0h4Hwx7oC) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm In A Hurry](https://open.spotify.com/album/6pqH5ma768YLRh1OQd6HCV) | 2:33 | 2021-03-12 | 2022-07-29 |
 | [I'm in a Hurry \(Live from Boca Grande\)](https://open.spotify.com/track/6G5b1UmULnwGOIo7xKwcn3) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Covering the World, Vol\. 2](https://open.spotify.com/album/0bh6SOs8IsLrpNMYHRPgyy) | 2:33 | 2022-04-22 |  |

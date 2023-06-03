@@ -8042,7 +8042,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 288426,
       "name": "Idol Eyes",
       "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
@@ -11323,6 +11323,28 @@
     },
     {
       "album": {
+        "name": "One Step at a Time",
+        "url": "https://open.spotify.com/album/5M8qwElAbAHisdS1HgEeaB"
+      },
+      "artists": [
+        {
+          "name": "RJ's Latest Arrival",
+          "url": "https://open.spotify.com/artist/5361LbYWxT72VuVvTgbg7f"
+        },
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "One Step at a Time",
+      "url": "https://open.spotify.com/track/73jM1Q5ONacOHpHqzsoi8B"
+    },
+    {
+      "album": {
         "name": "One Step at a Time (Extended)",
         "url": "https://open.spotify.com/album/5YNrM872mlrEl6K3x6d0rx"
       },
@@ -11338,7 +11360,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 268235,
       "name": "One Step at a Time (Extended)",
       "url": "https://open.spotify.com/track/642toN80ZnZKSsPPtgxLJO"
@@ -17678,7 +17700,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"

@@ -418,6 +418,24 @@
     {
       "album": {
         "name": "Supreme",
+        "url": "https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272381,
+      "name": "Black Dynamite",
+      "url": "https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP"
+    },
+    {
+      "album": {
+        "name": "Supreme",
         "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
       },
       "artists": [
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"

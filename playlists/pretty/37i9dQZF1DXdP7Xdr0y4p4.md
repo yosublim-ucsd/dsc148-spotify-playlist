@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,178 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,198 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 38 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
 | 39 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 40 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
-| 41 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 |
-| 42 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
+| 41 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
+| 42 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 |
 | 43 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
 | 44 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 |
 | 45 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 55 | [Brighten The Corner Where You Are \- Radio Edit](https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brighten The Corner Where You Are \(Radio Edit\)](https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y) | 2:29 |
 | 56 | [He Touched Me](https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok) | [The Singing Contractors](https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u) | [He Touched Me](https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo) | 3:27 |
 | 57 | [Something Bigger Than Me](https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [Find My Joy](https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN) | 4:09 |
-| 58 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 |
-| 59 | [Rock My Soul](https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 1:48 |
+| 58 | [Rock My Soul](https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Front Porch Singin'](https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY) | 1:48 |
+| 59 | [Every Other Throne](https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig) | [Hebron Road](https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51) | [In a Moment](https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe) | 5:06 |
 | 60 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 |
 | 61 | [Give Me Jesus](https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Kimberly Schlapman](https://open.spotify.com/artist/7ySCRbA1659u0QQUsDekoI) | [Give Me Jesus](https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg) | 3:17 |
 | 62 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [King of Kings](https://open.spotify.com/track/5moV2vWD0lThAkubmsRYHU) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [I Am Not Alone](https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA) | 2:58 |
 | 80 | [I Don't Belong](https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [I Don't Belong](https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC) | 4:51 |
 
-Snapshot ID: `MCwwM2ZlOGJhMmU2ZmViOWE1MDBiOTJmMzcxYzAxMDYxYzcyMjVhODNm`
+Snapshot ID: `MCxlZWMyYTIzN2U0ZTg0YTYwY2VmY2VhZDAzMmYwNDgyZWI5NjI3NWFk`

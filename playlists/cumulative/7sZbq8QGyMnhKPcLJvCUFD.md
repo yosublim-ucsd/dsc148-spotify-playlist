@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-282 songs - 14 hr 13 min
+284 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Beam \(ft\. Gabriella\)](https://open.spotify.com/track/0rE2636V6lX6xqlqILnRzS) | [Zeneth](https://open.spotify.com/artist/1Q0zpcJr81syOnC7SnbEGe), [Knoir](https://open.spotify.com/artist/7Knv331TlVGpUA1vRMZxZW), [Gabriella](https://open.spotify.com/artist/6SqSiJfIdigfPGJFq0DW9m) | [Beam \(ft\. Gabriella\)](https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx) | 3:34 | 2022-04-05 | 2023-04-28 |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-28 | 2023-04-28 |
 | [Believe Me](https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [SIMONNE](https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD) | [Believe Me](https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt) | 3:16 | 2022-08-04 | 2023-04-28 |
+| [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 |  |
 | [Blade Fury](https://open.spotify.com/track/0Ft0JLSiJ8IRPJeE3SHZK8) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW) | [Blade Fury](https://open.spotify.com/album/3KX7PcCiSCXOJO6vVErbTb) | 2:00 | 2023-03-30 |  |
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-01 | 2023-04-28 |
 | [Blind Heart](https://open.spotify.com/track/13JoRkSnyap5xLLgJOZ6Dg) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [Blind Heart](https://open.spotify.com/album/4NL1J5S9Eucz3GEY0Tr9o1) | 2:25 | 2022-09-28 | 2023-04-28 |
@@ -84,6 +85,7 @@
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 | 2023-04-28 |
 | [Emotions](https://open.spotify.com/track/220ruturt9KcBkc4DCYAN4) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Emotions](https://open.spotify.com/album/4PqX0mPwf8NC5I9qnLdcBZ) | 3:44 | 2022-05-26 | 2023-04-28 |
 | [Enemies](https://open.spotify.com/track/5OkJvUvwFbbiejQ2Tsv2pE) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [Enemies](https://open.spotify.com/album/1FGSlHg8ZaXHBVVH4pBQad) | 1:54 | 2023-02-23 |  |
+| [Erase You](https://open.spotify.com/track/4mmPsJTV2twCYemol5RX5a) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Erase You](https://open.spotify.com/album/1pMl4WAEaWVNnGjWKuhuwu) | 2:46 | 2023-06-02 |  |
 | [Erased](https://open.spotify.com/track/5qstwrd8TfZHP01Dx3R6Dz) | [Thymen Wiendels](https://open.spotify.com/artist/4AoUUjAhARgjpTeo6vmRG5), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Erased](https://open.spotify.com/album/2jJIV7E91WZud6aYJn6u24) | 2:20 | 2023-05-10 |  |
 | [Escape](https://open.spotify.com/track/6JgwctY56HApwUulKv7S1I) | [Keerthin](https://open.spotify.com/artist/1Oz7qUi3GFmZiwAaMmyNjt) | [Escape](https://open.spotify.com/album/2IfWnh5Z3PvgwHxX20qCE8) | 2:38 | 2022-05-10 | 2023-04-28 |
 | [Escape](https://open.spotify.com/track/3pr8PMLXqvDWVIB0pAP1Kq) | [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [AKIAL](https://open.spotify.com/artist/75llQ03L6DeBiswluXIMWn), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [Escape](https://open.spotify.com/album/2pWEZNtbgw1OriZClqaNLD) | 2:22 | 2022-04-16 | 2023-04-28 |

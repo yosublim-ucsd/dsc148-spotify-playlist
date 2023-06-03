@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Valgur.",
+  "description": "como en una nube. Bedroom pop vibes featuring Los Aptos y Cuco.",
   "name": "\u2728 dreamy \u2728",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237142,
       "name": "Hola Lola",
       "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
@@ -2635,6 +2635,28 @@
     },
     {
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217135,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "album": {
         "name": "Mirando",
         "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
       },
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182426,
       "name": "n la disco",
       "url": "https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14"
@@ -2824,6 +2846,28 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "album": {
+        "name": "Nada Que Perder",
+        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
     },
     {
       "album": {
@@ -2914,7 +2958,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 210989,
       "name": "No drama",
       "url": "https://open.spotify.com/track/7GSO4ELAP08oZs3VtIJPZa"
@@ -3959,6 +4003,28 @@
     },
     {
       "album": {
+        "name": "Sleep Alone",
+        "url": "https://open.spotify.com/album/01izvkpGOqU5WcnUgSiCpE"
+      },
+      "artists": [
+        {
+          "name": "Dawn Haze",
+          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
+        },
+        {
+          "name": "Mariana Taylor",
+          "url": "https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Sleep Alone",
+      "url": "https://open.spotify.com/track/6ANq1HPXOlCxBwQGgOMwvU"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/52bp8T4Xw0C8Cm24rA4FR6"
       },
@@ -4220,6 +4286,24 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "album": {
+        "name": "Torre de Control",
+        "url": "https://open.spotify.com/album/0o5kMILqAEb0qc00js9n1X"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Torre de Control",
+      "url": "https://open.spotify.com/track/6VioN8k9Gd2ENRzSbNRUfA"
     },
     {
       "album": {

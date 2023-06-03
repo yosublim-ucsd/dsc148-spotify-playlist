@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 195937,
       "name": "2B Luv Part 3 - Todd Terry Radio Cut",
       "url": "https://open.spotify.com/track/5xwv4MS7fkr0lvMlWlwn2E"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 217738,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7"
@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Dirty Secret",
+        "url": "https://open.spotify.com/album/3wj6rlwOQtvaRdvF60Y12B"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139888,
+      "name": "Dirty Secret",
+      "url": "https://open.spotify.com/track/7BnnEny1hfJYK8bkq45R0D"
+    },
+    {
+      "album": {
         "name": "DM (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/3TqsYRWpK1BM6O5QBEl6qh"
       },
@@ -494,6 +512,28 @@
       "duration_ms": 399360,
       "name": "Don't Stop - Original Mix",
       "url": "https://open.spotify.com/track/5MGZOF0M788PsrNi8rlW6e"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Fall In Love",
+        "url": "https://open.spotify.com/album/6oN2BDLyZY2F85noRXFGK3"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Don't Wanna Fall In Love - Edit",
+      "url": "https://open.spotify.com/track/3Dkv6E0tUrZ6WzIIcYcUd2"
     },
     {
       "album": {
@@ -856,7 +896,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142200,
       "name": "I Need Some",
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
@@ -988,7 +1028,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 181874,
       "name": "It's Like This - Edit",
       "url": "https://open.spotify.com/track/6hgbJDivrseU40c2G6WQaP"
@@ -1094,7 +1134,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
@@ -1282,7 +1322,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 163500,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
@@ -1536,7 +1576,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
@@ -1590,7 +1630,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222580,
       "name": "Oh Why - Edit",
       "url": "https://open.spotify.com/track/4kuvUV3BqWEkY3SWRFRG2K"
@@ -1758,7 +1798,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 216794,
       "name": "Revolution - House Masters Edit",
       "url": "https://open.spotify.com/track/0mUNTG0barFNz6rVnFBLET"
@@ -1802,6 +1842,28 @@
       "duration_ms": 184761,
       "name": "Rider - Edit",
       "url": "https://open.spotify.com/track/1qmZSebyLneylQFhZ85Gt8"
+    },
+    {
+      "album": {
+        "name": "Salty",
+        "url": "https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176494,
+      "name": "Salty",
+      "url": "https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU"
     },
     {
       "album": {
@@ -1978,6 +2040,42 @@
       "duration_ms": 218709,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5NvvhO0HVXh9ykljt6bUyo"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3ARbCi8sat6FYkO3xqCS58"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200318,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
     },
     {
       "album": {
@@ -2250,6 +2348,24 @@
       "duration_ms": 192401,
       "name": "This Is The Sound",
       "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
+    },
+    {
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3NRoXf6bsDfw0rHvxEwIau"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "To The Sky - Edit",
+      "url": "https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY"
     },
     {
       "album": {

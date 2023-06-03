@@ -5317,6 +5317,24 @@
     },
     {
       "album": {
+        "name": "Mastermind",
+        "url": "https://open.spotify.com/album/5F1yoqSTnOwpncRGT8nV9D"
+      },
+      "artists": [
+        {
+          "name": "Josef Briem",
+          "url": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178300,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/3lt88w6SiiTWWvG0LYXRjx"
+    },
+    {
+      "album": {
         "name": "Beyond Exploding Stars",
         "url": "https://open.spotify.com/album/1eiqm039IN4hvY85s8VgQP"
       },
@@ -5512,6 +5530,24 @@
       "duration_ms": 141613,
       "name": "Midnight Land",
       "url": "https://open.spotify.com/track/1bUiyTithUxLGEMZ2RD8US"
+    },
+    {
+      "album": {
+        "name": "Midnight Mirage",
+        "url": "https://open.spotify.com/album/17FfPZ34ViabESKqC0se4D"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/1pAVd4cWDRhFi8aTVIIasI"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137909,
+      "name": "Midnight Mirage",
+      "url": "https://open.spotify.com/track/1xohijLMPeS2kW0h9nzoK3"
     },
     {
       "album": {

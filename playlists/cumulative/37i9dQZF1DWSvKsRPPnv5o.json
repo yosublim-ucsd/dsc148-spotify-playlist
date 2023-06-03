@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: BlueBucksClan",
+  "description": "Holdin' it down for the westside. Cover: DaBoii",
   "name": "Westside Story",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 98037,
       "name": "..... Realest Nigga Eva",
       "url": "https://open.spotify.com/track/08DKx4vVFuSfsHXsa2k5hB"
+    },
+    {
+      "album": {
+        "name": "10 Percent",
+        "url": "https://open.spotify.com/album/40YKwkn63j05LgiI6MvVyg"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "10 Percent",
+      "url": "https://open.spotify.com/track/7GlrD61Rnp3pjOeUwvnFFy"
     },
     {
       "album": {
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 132737,
       "name": "Champagne Tears",
       "url": "https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw"
@@ -1690,6 +1708,28 @@
       "duration_ms": 183633,
       "name": "Check In",
       "url": "https://open.spotify.com/track/4Hpv7FUy6cFLvLR8DSRruJ"
+    },
+    {
+      "album": {
+        "name": "Choose Up (feat. 03 Greedo)",
+        "url": "https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ"
+      },
+      "artists": [
+        {
+          "name": "ASM Bopster",
+          "url": "https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "Choose Up (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO"
     },
     {
       "album": {
@@ -4386,7 +4426,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 161052,
       "name": "Ice Spice",
       "url": "https://open.spotify.com/track/49f5Oe4fSDacBfoaNa9lmL"
@@ -4506,7 +4546,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142417,
       "name": "In The Field 2",
       "url": "https://open.spotify.com/track/5SicfA2kHF7MXIT83xyUFc"
@@ -5268,7 +5308,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 154880,
       "name": "Limoncello",
       "url": "https://open.spotify.com/track/1yIJZPDmD1HwxR6SJYYQWA"
@@ -6511,6 +6551,28 @@
     },
     {
       "album": {
+        "name": "Oh Dear",
+        "url": "https://open.spotify.com/album/0dMyvCia0k4W7OCLffGtjd"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "UglyMarco",
+          "url": "https://open.spotify.com/artist/04XhpJC5DKbeCFhTTUrUHi"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141875,
+      "name": "Oh Dear",
+      "url": "https://open.spotify.com/track/3yRcWcjTcavCsclobLlx6W"
+    },
+    {
+      "album": {
         "name": "Dawgybone",
         "url": "https://open.spotify.com/album/4Q4TR9gcpJjm3xtm8uHNQX"
       },
@@ -7221,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "RACK CITY",
+        "url": "https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w"
+      },
+      "artists": [
+        {
+          "name": "Lil Vada",
+          "url": "https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB"
+        },
+        {
+          "name": "DonnySolo",
+          "url": "https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129724,
+      "name": "RACK CITY",
+      "url": "https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2"
+    },
+    {
+      "album": {
         "name": "2 Aliv\u00eb",
         "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
       },
@@ -7280,6 +7364,28 @@
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
+      "album": {
+        "name": "RECKLESS & RATCHET",
+        "url": "https://open.spotify.com/album/2zMD1vqD5pXsVBPSKMeDwx"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177933,
+      "name": "RECKLESS & RATCHET",
+      "url": "https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2"
     },
     {
       "album": {
@@ -7608,7 +7714,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 169500,
       "name": "Self Esteem (featuring NLE Choppa)",
       "url": "https://open.spotify.com/track/4rithk0wQbWsppbWiaFFgE"
@@ -7974,6 +8080,40 @@
       "duration_ms": 166224,
       "name": "Special Delivery (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/7y4lH2lX55Drq1FkQzl8p8"
+    },
+    {
+      "album": {
+        "name": "Soakin Game",
+        "url": "https://open.spotify.com/album/4nkOCaoK62y6u4dYdEXsix"
+      },
+      "artists": [
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "The Mekanix",
+          "url": "https://open.spotify.com/artist/0sJOeCMBvIDiHJ9Ct5h7IF"
+        },
+        {
+          "name": "Philthy Rich",
+          "url": "https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3"
+        },
+        {
+          "name": "Mac J",
+          "url": "https://open.spotify.com/artist/35jCvzv4P88FtaqOVXezKk"
+        },
+        {
+          "name": "4 rAx",
+          "url": "https://open.spotify.com/artist/4f0JIvLda5Q2TeqaOJaW68"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234519,
+      "name": "Stand On It (feat. Philthy Rich, Mac J & 4 rAx)",
+      "url": "https://open.spotify.com/track/6apHoG0pxkO5UFCZIpTmN7"
     },
     {
       "album": {
@@ -9134,7 +9274,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165319,
       "name": "What You Doin",
       "url": "https://open.spotify.com/track/3FlvdsRxDZz7kAEsgcspt5"

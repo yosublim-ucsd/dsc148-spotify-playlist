@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF_w\"> Efya</a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8?si=XNRPFm0zROiKSBJM5LJWmw\">Darkovibes</a>,  <a href=\"https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF_w\"> Efya</a>  and <a href=\"https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI?si=5PQnav-3QC-fE1NHfSS8oQ\"> Shatta Wale</a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 137946,
       "name": "Adoley",
       "url": "https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22"
+    },
+    {
+      "album": {
+        "name": "Adomaa",
+        "url": "https://open.spotify.com/album/4HkLKbDS0CjcyyJnrDpKR5"
+      },
+      "artists": [
+        {
+          "name": "Genna",
+          "url": "https://open.spotify.com/artist/2ML4G2egB1izEQeNDbP24d"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202015,
+      "name": "Adomaa",
+      "url": "https://open.spotify.com/track/3S4chGK4MIzbk65aWFdipz"
     },
     {
       "album": {
@@ -368,7 +386,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 187245,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V"
@@ -455,6 +473,28 @@
     },
     {
       "album": {
+        "name": "L.I.T.A",
+        "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188415,
+      "name": "Brown Skin Girl",
+      "url": "https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn"
+    },
+    {
+      "album": {
         "name": "Builsa Gokta",
         "url": "https://open.spotify.com/album/4OSfmT3xCqTljt6P5Ptb1I"
       },
@@ -510,6 +550,36 @@
       "duration_ms": 171556,
       "name": "Carry Go",
       "url": "https://open.spotify.com/track/25q4sk7mFORsQ3Kn6bqUbO"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/37rh4lkXWmFNSKT4Sduw3y"
+      },
+      "artists": [
+        {
+          "name": "Boomski Radio",
+          "url": "https://open.spotify.com/artist/6KN6uOM3j4npLjbyL2MKHQ"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0EonV0jQGifRKj22ZBVY6l"
     },
     {
       "album": {
@@ -674,7 +744,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 220674,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/2jdSMlaKrW0lnMAqrHz4TU"
@@ -2530,7 +2600,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189322,
       "name": "Password",
       "url": "https://open.spotify.com/track/0YOYvVo7fBQkPp0yDVkEcH"

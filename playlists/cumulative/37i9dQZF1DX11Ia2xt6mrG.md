@@ -2,9 +2,9 @@
 
 ### [mint MX](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
+> Descubre lo más fresco de la electrónica mexicana\. Nortec: Bostich + Fussible en portada.
 
-197 songs - 11 hr 16 min
+198 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 | 2023-02-28 |  |
 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 | 2022-05-06 |  |
 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 | 2022-05-06 |  |
+| [Tijuana Sound Machine](https://open.spotify.com/track/2faIJVTSxTOkZmM4rjv81q) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(REMIXES\)](https://open.spotify.com/album/4WXNnk3Z7ULIBAC9azZ4e8) | 3:02 | 2023-06-02 |  |
 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 | 2022-05-06 |  |
 | [To The Top](https://open.spotify.com/track/4gXBqKIx8bCR5d1BZ5D4GV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [To The Top](https://open.spotify.com/album/6Y1gNtIMIVHvhtBjprkErG) | 2:40 | 2022-07-28 | 2023-03-25 |
 | [Tomaza](https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Piq Montano](https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1) | [Tomaza](https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd) | 3:13 | 2022-05-06 | 2023-03-25 |

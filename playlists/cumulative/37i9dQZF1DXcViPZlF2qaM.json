@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Algo Est\u00e1 Pasando",
+        "url": "https://open.spotify.com/album/361bDQTsRAM8cnZ19z0uJv"
+      },
+      "artists": [
+        {
+          "name": "Amparanoia",
+          "url": "https://open.spotify.com/artist/23xlCr6Espgfu0IQExvjU6"
+        },
+        {
+          "name": "Artistas del Gremio",
+          "url": "https://open.spotify.com/artist/0Kat39J9rHV3jXOqlZxa2i"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195014,
+      "name": "Algo Est\u00e1 Pasando",
+      "url": "https://open.spotify.com/track/59eEkxtW8l9OzjsyFi6K9y"
+    },
+    {
+      "album": {
         "name": "Alma Carnavalera",
         "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
       },
@@ -936,7 +958,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 245280,
       "name": "Cumbia Espacial",
       "url": "https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg"
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 300746,
       "name": "Guacamole",
       "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
@@ -2684,6 +2706,28 @@
       "duration_ms": 222191,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/6WskIARuYkGOhfHWbmVDiL"
+      },
+      "artists": [
+        {
+          "name": "Sanje",
+          "url": "https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx"
+        },
+        {
+          "name": "Y\u00f6els",
+          "url": "https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260066,
+      "name": "Mejor Que Antes",
+      "url": "https://open.spotify.com/track/3gYISdxnffMaR9AYzuJCRf"
     },
     {
       "album": {

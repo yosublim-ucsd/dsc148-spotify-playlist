@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Bedtime story",
+        "url": "https://open.spotify.com/album/3BfmT1iMcwezqwNzcXkjyN"
+      },
+      "artists": [
+        {
+          "name": "Angeline Delauna",
+          "url": "https://open.spotify.com/artist/5ayBD5Xgmy1ZeAlwBeZxeg"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97581,
+      "name": "Bedtime story",
+      "url": "https://open.spotify.com/track/2T7MN24qGcIpbFKB8fC4zo"
+    },
+    {
+      "album": {
         "name": "Being With You",
         "url": "https://open.spotify.com/album/2Yvhmu2QKWQ7AWiO9jYH1S"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 102807,
       "name": "Bredvid Dig",
       "url": "https://open.spotify.com/track/2XN4TGkQYND2X9BCdzXKqX"
@@ -916,7 +934,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 102379,
       "name": "Det g\u00e5tfulla folket",
       "url": "https://open.spotify.com/track/3ysXp3PEaSxrT7ycMPtDlh"
@@ -1730,6 +1748,24 @@
       "duration_ms": 82250,
       "name": "I Don't Like Peas",
       "url": "https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX"
+    },
+    {
+      "album": {
+        "name": "I Love Us",
+        "url": "https://open.spotify.com/album/6MC8GrQKb0kfjHWzBRYtyL"
+      },
+      "artists": [
+        {
+          "name": "Deanna Lyles",
+          "url": "https://open.spotify.com/artist/4jwsZTsLuuek8koKSClnDw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84278,
+      "name": "I Love Us",
+      "url": "https://open.spotify.com/track/0FlxHJjxFQNjQMyvXlZPpY"
     },
     {
       "album": {
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 119069,
       "name": "N\u00e5r du sovnet",
       "url": "https://open.spotify.com/track/3E1HUM219guDCovVxKINMX"
@@ -3224,6 +3260,24 @@
       "duration_ms": 148000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI"
+    },
+    {
+      "album": {
+        "name": "Something There",
+        "url": "https://open.spotify.com/album/7lk5RkoZ2k0JNLIIHj7zZh"
+      },
+      "artists": [
+        {
+          "name": "Elin Svensson",
+          "url": "https://open.spotify.com/artist/7B1EUSbXfPfvKyuYlO0SYp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123092,
+      "name": "Something There",
+      "url": "https://open.spotify.com/track/6tIIdGntB4kn9eWgbk1gsg"
     },
     {
       "album": {
@@ -3832,7 +3886,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 93804,
       "name": "Ute Bl\u00e5ser Sommarvind (Summer Winds)",
       "url": "https://open.spotify.com/track/562NWFYtbkiYHG1DvUmxeu"
@@ -4034,6 +4088,24 @@
       "duration_ms": 140653,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB"
+    },
+    {
+      "album": {
+        "name": "Winnie the Pooh",
+        "url": "https://open.spotify.com/album/7I09xkoJdR1blurIQDUXIi"
+      },
+      "artists": [
+        {
+          "name": "Lola Hides",
+          "url": "https://open.spotify.com/artist/3gquuIaOSVVh8knCaQXV1w"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103647,
+      "name": "Winnie the Pooh",
+      "url": "https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe"
     },
     {
       "album": {

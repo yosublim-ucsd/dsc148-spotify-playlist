@@ -2,7 +2,7 @@
 
 ### [Iconos del Rock Mexicano](https://open.spotify.com/playlist/37i9dQZF1DWYMHB55fgZrY)
 
-> Los próceres de la historia del rock nacional\. Julieta Venegas en portada.
+> Los próceres de la historia del rock nacional\. Enjambre en portada.
 
 222 songs - 14 hr 29 min
 

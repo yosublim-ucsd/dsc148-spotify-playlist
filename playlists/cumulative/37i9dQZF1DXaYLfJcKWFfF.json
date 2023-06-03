@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "It Ain't Right",
+        "url": "https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225884,
+      "name": "It AIn't Right",
+      "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
+    },
+    {
+      "album": {
         "name": "JI",
         "url": "https://open.spotify.com/album/54tBFtklctJSt9ZUC9WtFa"
       },
@@ -916,7 +938,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 240000,
       "name": "Lucky Now",
       "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
@@ -1456,7 +1478,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 218538,
       "name": "River",
       "url": "https://open.spotify.com/track/7Ilb1rJj0ZwfeCnNFJu2EL"
@@ -1916,6 +1938,24 @@
       "duration_ms": 182000,
       "name": "Thunderstorm In Surulere - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/5LWDDwfXxb0ggIKeElCiF1"
+      },
+      "artists": [
+        {
+          "name": "Alisha Popat",
+          "url": "https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146764,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/5YkCm6xWVVDOujVNkjK8Vg"
     },
     {
       "album": {

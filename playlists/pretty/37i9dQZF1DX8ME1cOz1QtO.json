@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 66512,
+  "num_followers": 66598,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmRkYWY1YjAyMjAwZmM5MDVmMWRiM2JmMGRhNjc1NmQwNjRmM2Yx",
+  "snapshot_id": "MCwwZjA1OTM1NGJmOTUxMDk3YTc1MDZmN2Q2MmNiNmM2MmM3MTYxNGFj",
   "tracks": [
     {
       "added_at": "2022-10-04 12:35:58",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Oxyg\u00e8ne",
         "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 460640,
       "name": "Oxygene, Pt. 1",
       "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -139,6 +139,26 @@
       "duration_ms": 499266,
       "name": "Kindred Spirit",
       "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Desert Vision",
+        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        },
+        {
+          "name": "Paul Speer",
+          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -179,26 +199,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Desert Vision",
-        "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        },
-        {
-          "name": "Paul Speer",
-          "url": "https://open.spotify.com/artist/2VUPYdEFwt0kuKadgXhpRe"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Desert Rain",
-      "url": "https://open.spotify.com/track/5wz4ls3Rik7XSKTgdNvFDn"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Tubular Bells",
         "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+        "name": "Equinoxe",
+        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
       },
       "artists": [
         {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+      "duration_ms": 425133,
+      "name": "Equinoxe, Pt. 4",
+      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -271,42 +271,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Equinoxe",
-        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
       },
       "artists": [
         {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
         }
       ],
-      "duration_ms": 425133,
-      "name": "Equinoxe, Pt. 4",
-      "url": "https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "White Winds (Seeker's Journey)",
-        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Flight Feet and Root Hands",
-      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -339,6 +315,46 @@
       "duration_ms": 349666,
       "name": "Deep Distance",
       "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Oxygene, Pt. 3",
+      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "White Winds (Seeker's Journey)",
+        "url": "https://open.spotify.com/album/3wrWgRYqBkpE5gE6Csl5FN"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Flight Feet and Root Hands",
+      "url": "https://open.spotify.com/track/64iGkQy5fe5gKVTpIvPtOX"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -387,6 +403,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -399,62 +431,6 @@
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        },
-        {
-          "name": "Pedro Haldemann",
-          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        }
-      ],
-      "duration_ms": 440440,
-      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
-      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Oxygene, Pt. 3",
-      "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -495,22 +471,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Inside The Taj Mahal",
         "url": "https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP"
       },
@@ -523,6 +483,22 @@
       "duration_ms": 204000,
       "name": "Mumtaz Mahal",
       "url": "https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -543,8 +519,8 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Caverna Magica (...Under The Tree - In The Cave...)",
-        "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
+        "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+        "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
       },
       "artists": [
         {
@@ -558,15 +534,27 @@
         {
           "name": "Pedro Haldemann",
           "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
-        },
-        {
-          "name": "Corin Curschellas",
-          "url": "https://open.spotify.com/artist/6C4K00EeKEHDbezeRiEL4o"
         }
       ],
-      "duration_ms": 320493,
-      "name": "Belladonna",
-      "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
+      "duration_ms": 440440,
+      "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
+      "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -603,22 +591,6 @@
       "duration_ms": 185773,
       "name": "Aldebaran",
       "url": "https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "Albedo 0.39",
-        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 344293,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -687,18 +659,30 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
+        "name": "Caverna Magica (...Under The Tree - In The Cave...)",
+        "url": "https://open.spotify.com/album/6RL8XkIxNFhMEwXeiNepu4"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        },
+        {
+          "name": "Pedro Haldemann",
+          "url": "https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2"
+        },
+        {
+          "name": "Corin Curschellas",
+          "url": "https://open.spotify.com/artist/6C4K00EeKEHDbezeRiEL4o"
         }
       ],
-      "duration_ms": 206146,
-      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+      "duration_ms": 320493,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/1YQENHyvQPW2NZ9buace7G"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -719,18 +703,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 206146,
+      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -763,6 +747,22 @@
       "duration_ms": 314333,
       "name": "Keys To Imagination",
       "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+        "name": "Best Of Tim Weisberg: Smile!",
+        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
       },
       "artists": [
         {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+          "name": "Tim Weisberg",
+          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
         }
       ],
-      "duration_ms": 275560,
-      "name": "Ancient Leaves",
-      "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
+      "duration_ms": 209973,
+      "name": "Dion Blue",
+      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
         }
       ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+      "duration_ms": 275560,
+      "name": "Ancient Leaves",
+      "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Best Of Tim Weisberg: Smile!",
-        "url": "https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox"
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
       },
       "artists": [
         {
-          "name": "Tim Weisberg",
-          "url": "https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v"
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Dion Blue",
-      "url": "https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS"
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Judith Tripp",
+          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
+        }
+      ],
+      "duration_ms": 399560,
+      "name": "Li Sun",
+      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Judith Tripp",
-          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
-        }
-      ],
-      "duration_ms": 399560,
-      "name": "Li Sun",
-      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Flowers of Our Childhood",
+      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Images of Flutes in Nature",
-        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vandroogenbroeck",
-          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
-        },
-        {
-          "name": "Carole Muriel",
-          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Forest Spirit",
-      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+        "name": "Images of Flutes in Nature",
+        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
       },
       "artists": [
         {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+          "name": "Joel Vandroogenbroeck",
+          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
         },
         {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+          "name": "Carole Muriel",
+          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
         }
       ],
-      "duration_ms": 308360,
-      "name": "Flowers of Our Childhood",
-      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
+      "duration_ms": 201186,
+      "name": "Forest Spirit",
+      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+        "name": "Pathless Path",
+        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+      "duration_ms": 226826,
+      "name": "Koto",
+      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1407,18 +1407,38 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Pathless Path",
-        "url": "https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok"
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 226826,
-      "name": "Koto",
-      "url": "https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD"
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Timeless Love",
+      "url": "https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1455,26 +1475,6 @@
       "duration_ms": 1394160,
       "name": "Garden Of Paradise - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
-      },
-      "artists": [
-        {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Timeless Love",
-      "url": "https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC"
     },
     {
       "added_at": "2022-10-04 12:35:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 553800,
-      "name": "Elysian E",
-      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Schoener, Eberhard: Meditation",
         "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "Hear and Be Yonder",
         "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "In the Beginning",
-      "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
-    },
-    {
-      "added_at": "2022-10-04 12:35:58",
-      "album": {
         "name": "Aum",
         "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1041569,
+      "name": "Pagnifico - Remastered",
+      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
+    },
+    {
+      "added_at": "2022-10-04 12:35:58",
+      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2022-10-04 12:35:58",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
       "artists": [
         {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
         }
       ],
-      "duration_ms": 1041569,
-      "name": "Pagnifico - Remastered",
-      "url": "https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd"
+      "duration_ms": 481320,
+      "name": "In the Beginning",
+      "url": "https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR"
     },
     {
       "added_at": "2022-10-04 12:35:58",

@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Dimension
+> The world's biggest Drum 'n' Bass playlist! Cover: Turno, Skepsis, Charlotte Plank
 
 408 songs - 1 day 2 hr 42 min
 

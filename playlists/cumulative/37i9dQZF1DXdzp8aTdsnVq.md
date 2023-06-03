@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Daniel Caldrón y Los Gigantes
 
-103 songs - 7 hr 17 min
+104 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ella Es La Que Manda](https://open.spotify.com/track/6yN62z36DL4HBfwC56n3YH) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Ella Es La Que Manda](https://open.spotify.com/album/2JpYEmqBLHAI9IhhKAs9nf) | 3:57 | 2022-09-02 |  |
 | [Es Mejor No Decirlo](https://open.spotify.com/track/4dnqlAVeaEb69s7sXAK8Cr) | [Alex Martinez](https://open.spotify.com/artist/1mI8LQvP73Y5IMXN0KstBZ), [Tavo Montiel](https://open.spotify.com/artist/0YY5wGjkB19VWOJ9N6n1dr) | [Es Mejor No Decirlo](https://open.spotify.com/album/1778QxBnBDY5YmbieRKzV4) | 4:52 | 2022-09-02 |  |
 | [Estoy Como un Quiquí](https://open.spotify.com/track/3mMEqtvJBjjaeDFefTgUgA) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Estoy Como un Quiquí](https://open.spotify.com/album/1un0c85dgcDajCPIAD9rwm) | 4:40 | 2023-04-05 | 2023-04-15 |
-| [Fanático](https://open.spotify.com/track/4FYukPeQ6S9IxNaWXS9BRm) | [Cayito Dangond](https://open.spotify.com/artist/2MxGUuafZLk4Hgrlk88wbC), [chide garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [Fanático](https://open.spotify.com/album/71Ve79IkSzUSXtbTWDVSFR) | 3:25 | 2023-04-05 |  |
+| [Fanático](https://open.spotify.com/track/4FYukPeQ6S9IxNaWXS9BRm) | [Cayito Dangond](https://open.spotify.com/artist/2MxGUuafZLk4Hgrlk88wbC), [chide garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [Fanático](https://open.spotify.com/album/71Ve79IkSzUSXtbTWDVSFR) | 3:25 | 2023-04-05 | 2023-06-03 |
 | [Feliz Aniversario](https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Feliz Aniversario](https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12) | 4:20 | 2022-09-02 | 2022-12-17 |
 | [Ganas Locas](https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Ganas Locas](https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf) | 3:55 | 2022-09-02 |  |
 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 | 2022-09-02 |  |
@@ -106,6 +106,7 @@
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 |  |
 | [Un Beso Y Una Flor](https://open.spotify.com/track/5wVv9KObFL175Ng3Qlyd2i) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Un Beso Y Una Flor](https://open.spotify.com/album/37s4nHhHGs9wGOwxXwNdtR) | 4:16 | 2022-10-21 | 2023-04-06 |
 | [Un Ser Extraño](https://open.spotify.com/track/6tOCCQOAeYQEzERHAXSqrd) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Ser Extraño](https://open.spotify.com/album/0f5LtYautf6UfoVdoTXS9k) | 4:22 | 2022-10-21 | 2023-02-18 |
+| [Una Salidita](https://open.spotify.com/track/4gGPjhcTVVQOJWP7tsimQn) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx) | [Una Salidita](https://open.spotify.com/album/2Rx1gctOQ6BIh5Y1wzvAdk) | 3:29 | 2023-06-02 |  |
 | [Vivito y Coleando](https://open.spotify.com/track/6VmAAyizCOQbilBaxnE4mC) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [EL DE SIEMPRE](https://open.spotify.com/album/7xqSdlFFTvyw66hLx6fQJZ) | 3:53 | 2022-09-02 | 2023-02-18 |
 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 | 2022-09-02 |  |
 | [Ya No Somos Nada](https://open.spotify.com/track/6kliDqdZj1TKHEpuuI0QhW) | [Los K Morales](https://open.spotify.com/artist/1fGyfOQwyXQgEPePzrFQ63) | [Se Subió la Nota](https://open.spotify.com/album/53Imi3PCN06wdHRijazqsl) | 3:35 | 2023-04-05 | 2023-05-20 |

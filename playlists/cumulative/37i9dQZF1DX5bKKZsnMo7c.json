@@ -382,10 +382,28 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 131344,
       "name": "Better People to Leave on Read",
       "url": "https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4"
+    },
+    {
+      "album": {
+        "name": "Better People To Leave On Read",
+        "url": "https://open.spotify.com/album/0NgH4voVLGCHFkQSJ12sNO"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131344,
+      "name": "Better People To Leave On Read",
+      "url": "https://open.spotify.com/track/7uHW7QLDmTflVGHN31KBno"
     },
     {
       "album": {
@@ -494,7 +512,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 222403,
       "name": "Blow My Brains Out",
       "url": "https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB"
@@ -714,7 +732,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
       "url": "https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 171360,
       "name": "Costume",
       "url": "https://open.spotify.com/track/6tQnC1uIY62jSpBPgVRrZZ"
@@ -1306,6 +1324,24 @@
       "duration_ms": 180186,
       "name": "engravings",
       "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
+    },
+    {
+      "album": {
+        "name": "Everyday is the Best Day of My Life",
+        "url": "https://open.spotify.com/album/7jlVqJqJBJ7yewZ31whhjQ"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132353,
+      "name": "Everyday is the Best Day of My Life",
+      "url": "https://open.spotify.com/track/4vB1VyZYSSdZYH9QNaSJIa"
     },
     {
       "album": {
@@ -2377,6 +2413,24 @@
     },
     {
       "album": {
+        "name": "stuck in a bad place",
+        "url": "https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Jewell",
+          "url": "https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "just last week",
+      "url": "https://open.spotify.com/track/6ZaONgEsATQp3q0fxJ8inz"
+    },
+    {
+      "album": {
         "name": "kill myself",
         "url": "https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm"
       },
@@ -3236,7 +3290,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219266,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/0xDR3F8eOQirXPWE5npmaO"
@@ -3654,6 +3708,24 @@
       "duration_ms": 170892,
       "name": "sausalito",
       "url": "https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ"
+    },
+    {
+      "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92"
+      },
+      "artists": [
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181273,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7"
     },
     {
       "album": {
@@ -4242,7 +4314,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157884,
       "name": "Top of My School",
       "url": "https://open.spotify.com/track/5OKyAO31eOeJV5qEx2lv4k"

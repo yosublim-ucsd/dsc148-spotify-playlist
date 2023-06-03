@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-373 songs - 19 hr 1 min
+374 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Crystal Clear](https://open.spotify.com/track/0Ogm2QwgnGabdYA24p59Q4) | [Luminous](https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u) | [Crystal Clear](https://open.spotify.com/album/1tfeajzxADOTdv6bISDtqP) | 3:46 | 2022-04-05 | 2022-07-01 |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-09-09 |  |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
-| [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 |  |
+| [Daft Kids](https://open.spotify.com/track/4nJvbH8x3yugwGtF2S0xfX) | [Sonaya](https://open.spotify.com/artist/6RUxinrtMPQKQElph9PaN9) | [Daft Kids](https://open.spotify.com/album/0sjg0cUWNvvaha0TvksAZW) | 2:54 | 2022-12-09 | 2023-06-03 |
 | [Dance The Occasion](https://open.spotify.com/track/30j0gaJZmJeIQGMKfrQN1Y) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Dance The Occasion](https://open.spotify.com/album/2FzVH5Ej9lHSJOzC0vs5qZ) | 3:11 | 2023-01-20 |  |
 | [David's House](https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW) | [Larry Poppinz](https://open.spotify.com/artist/16CYOuSOMLdhvKDWr5f65A) | [David's House](https://open.spotify.com/album/76saSRyM5eymCJFacvJYed) | 2:50 | 2022-10-14 |  |
 | [Deep \- Dirk 81 Remix](https://open.spotify.com/track/23OHsWIvFTqOc8fOHBdTfp) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [DIRK 81](https://open.spotify.com/artist/4q7ST2CYBFIK4TTL1sNCpk) | [Deep \(Dirk 81 Remix\)](https://open.spotify.com/album/6B02NazCKfqv0JZY7Yhrx3) | 4:42 | 2022-05-20 | 2022-05-27 |
@@ -96,7 +96,7 @@
 | [El Nido](https://open.spotify.com/track/5y4jIRCzdlaMVGiT4P9HPl) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [El Nido](https://open.spotify.com/album/4F84GW4s5CDhSGUz0xKBOG) | 2:52 | 2022-11-25 |  |
 | [Electric Moon](https://open.spotify.com/track/1vAORWsOWbYpFyxUjWIvRP) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Electric Moon](https://open.spotify.com/album/3FV2nTiKyWzRATZ1ghgeP6) | 3:16 | 2022-04-05 | 2022-07-29 |
 | [electric sea](https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [electric sea](https://open.spotify.com/album/7pQe4O9rXC4PeRMn92dLzA) | 2:33 | 2022-10-07 |  |
-| [Elevate](https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Elevate](https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM) | 3:17 | 2022-09-02 |  |
+| [Elevate](https://open.spotify.com/track/3CkWkWAhZii9OWuQJw0NTe) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Elevate](https://open.spotify.com/album/53k8qzmKzuo6zxjEpeTSsM) | 3:17 | 2022-09-02 | 2023-06-03 |
 | [Elysian Breeze](https://open.spotify.com/track/0XmKh6wAF5RGyBTB9R1lTM) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Elysian Breeze](https://open.spotify.com/album/1mxEZKsPn8dzvzIcK1wgO1) | 2:31 | 2022-04-05 |  |
 | [embrace](https://open.spotify.com/track/3plZSRM45AgutYEAsQCZ0j) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [embrace](https://open.spotify.com/album/0QUAVjr8P0jffmbgL6YYwE) | 2:39 | 2022-09-02 |  |
 | [Equanimity](https://open.spotify.com/track/5isIut0C8hN4bId0imeKog) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [Zachary Bowe](https://open.spotify.com/artist/49flxx7eVrsc0uBG1KolV6) | [Equanimity](https://open.spotify.com/album/7xhqEbF1zKfa3ONmbSwIyQ) | 2:33 | 2022-04-05 | 2022-09-02 |
@@ -131,6 +131,7 @@
 | [Forest Spirit](https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm) | [Koke Ki](https://open.spotify.com/artist/1PPu0ysYNA8rWJKXwQ0cGP) | [Cabana Boy](https://open.spotify.com/album/6LxrC3VnSgTtwuMl01LesL) | 4:12 | 2022-04-05 |  |
 | [Forwards](https://open.spotify.com/track/21HrP7Sdy5phE3BoxOMD2s) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Forwards](https://open.spotify.com/album/58ZW1Ll7XhQ7vTcZGPsvlr) | 2:58 | 2023-02-24 |  |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2022-04-05 |  |
+| [Freeze Frame](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Freeze Frame](https://open.spotify.com/album/70vK7Xzq5uyhENPHo78qbH) | 3:05 | 2023-06-02 |  |
 | [From the Heart](https://open.spotify.com/track/0EdgohABs9avmcSSI71aBh) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [From the Heart](https://open.spotify.com/album/1JH584zwgeLYauEmsPRt2f) | 3:32 | 2022-07-29 |  |
 | [Generate!](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Generate!](https://open.spotify.com/album/4hhL13mgv1K8L1ApSndOIa) | 2:37 | 2023-04-21 |  |
 | [Get Down](https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud) | [Pafka](https://open.spotify.com/artist/0JUvxzz5fMMYFMCoBP9NU2) | [Get Down](https://open.spotify.com/album/3PcVhPxZ7f1x6eAznLGgoj) | 2:55 | 2022-04-05 |  |
@@ -190,7 +191,7 @@
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-05 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2022-04-05 |  |
 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 | 2022-09-02 |  |
-| [Lisboa](https://open.spotify.com/track/4im9kPVTBfV5n7iR3sHwu1) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Lisboa](https://open.spotify.com/album/1lPu8vPvymLsCC5xH2DF10) | 2:34 | 2022-09-02 |  |
+| [Lisboa](https://open.spotify.com/track/4im9kPVTBfV5n7iR3sHwu1) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Lisboa](https://open.spotify.com/album/1lPu8vPvymLsCC5xH2DF10) | 2:34 | 2022-09-02 | 2023-06-03 |
 | [Lobby](https://open.spotify.com/track/2SYNph4RlGOSqW7h681G8D) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Lobby](https://open.spotify.com/album/53bhBGHmCq4XdN3lM785zZ) | 2:32 | 2022-10-28 |  |
 | [locking lips](https://open.spotify.com/track/0f3wjVx1UuOYiABzQlE2sW) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [locking lips](https://open.spotify.com/album/28M6S2X1BaPQI0IcJ6ju55) | 3:37 | 2022-10-14 |  |
 | [Long Time No See](https://open.spotify.com/track/4am2IwoKTQxH1yiHQWDbBF) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Long Time No See](https://open.spotify.com/album/5W9lOAVWxcyxbxi2nSX0Qv) | 3:36 | 2022-09-23 |  |

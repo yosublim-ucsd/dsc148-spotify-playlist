@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 61963,
+  "num_followers": 62104,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjlhZThiMGFlNDE0N2QyMDZiZGRmM2JkOTU3Mzc2MTJmODkyNWFk",
+  "snapshot_id": "MCxiZjFiY2E0MjYwZTViMGQ0ODExNTc2M2I5Y2I2ODEzOWU4MDI4Zjdm",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Ongiara",
         "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216453,
       "name": "Your Rocky Spine",
       "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Glow, Pt. 2",
-        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
-      },
-      "artists": [
-        {
-          "name": "The Microphones",
-          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
-        }
-      ],
-      "duration_ms": 332880,
-      "name": "I Want Wind to Blow",
-      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 286880,
       "name": "Roscoe",
       "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Glow, Pt. 2",
+        "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
+      },
+      "artists": [
+        {
+          "name": "The Microphones",
+          "url": "https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO"
+        }
+      ],
+      "duration_ms": 332880,
+      "name": "I Want Wind to Blow",
+      "url": "https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Caught In The Trees",
-        "url": "https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Sheets",
-      "url": "https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Advisory Committee",
         "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 152346,
       "name": "Special Death",
       "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Caught In The Trees",
+        "url": "https://open.spotify.com/album/1otbhWVT1kRAlebcY0IQaO"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Sheets",
+      "url": "https://open.spotify.com/track/186Ohwb48uzHROQwos6yBS"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Convict Pool",
-        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Alone Again Or",
-      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 200853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Convict Pool",
+        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Alone Again Or",
+      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Upper Air",
-        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
+        "name": "In The Reins",
+        "url": "https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921"
       },
       "artists": [
         {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
+      "duration_ms": 223773,
+      "name": "He Lays In The Reins",
+      "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
     }
   ],
   "unique_name": "00s Indie Folk",

@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-168 songs - 8 hr 52 min
+171 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [I Never Say No](https://open.spotify.com/track/1tANZucrXcUr5hInaRu3JC) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [I Never Say No](https://open.spotify.com/album/3CMlcfXUxJekmXEYYrneXi) | 3:18 | 2023-02-03 |  |
 | [I Stole Your Jumper](https://open.spotify.com/track/5nuROIVvYDED6r0akmIwXT) | [Eaves Wilder](https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ) | [I Stole Your Jumper](https://open.spotify.com/album/5NxaINFTcSNBXAiNnacHFM) | 3:54 | 2023-01-13 | 2023-02-03 |
 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 | 2023-01-13 | 2023-02-10 |
+| [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 | 2023-06-02 |  |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-03 |  |
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-13 | 2023-03-11 |
 | [Jellyfish](https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/5lYRdMHU1chHG2AKzkO72o) | 3:32 | 2023-03-03 | 2023-04-22 |
@@ -118,6 +119,7 @@
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-03-03 |  |
 | [Nostalgia \(ft\. Patty Walters\)](https://open.spotify.com/track/7urqfz7paOyKHayDEa7uGC) | [Bleak Soul](https://open.spotify.com/artist/2iMxVnS6Ovd7R0C5kHdo6p), [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Nostalgia](https://open.spotify.com/album/6K6oiAZS3oOlH9VEAIbL2U) | 3:18 | 2023-03-17 | 2023-04-22 |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
+| [parasite](https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [parasite](https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm) | 3:33 | 2023-06-02 |  |
 | [Past Vibration](https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q) | [Supera Morza](https://open.spotify.com/artist/1On3aSzms3SvHl2obPqAx5) | [Past Vibration](https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C) | 2:36 | 2023-02-10 |  |
 | [Points of View](https://open.spotify.com/track/3RnHVxYDzYHjAXIiSPrxUN) | [Hotel Lux](https://open.spotify.com/artist/6tdX8iW13i9uRwGzyfRFMR) | [Points of View](https://open.spotify.com/album/475DvjXowIrzPg0t6R7Ymk) | 3:37 | 2023-01-13 | 2023-03-11 |
 | [Prettier](https://open.spotify.com/track/5GS5Na3mniJLdcD92SFrQd) | [bexx](https://open.spotify.com/artist/6tXuCxJODkifV9zdPsA1G6) | [Prettier](https://open.spotify.com/album/2Evdn2clIwpJ3gj4oLyQI4) | 3:10 | 2023-01-13 | 2023-03-25 |
@@ -137,6 +139,7 @@
 | [Save It For Myself](https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [You Over Me](https://open.spotify.com/artist/5se7CBddY96rvFP3oQ6Pim) | [Save It For Myself](https://open.spotify.com/album/5bzfUN9nM3mCr7goLdbrVF) | 3:19 | 2023-01-13 | 2023-03-25 |
 | [She's So](https://open.spotify.com/track/4tgO5KlvsiW2sMeuqNnUki) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [She's So](https://open.spotify.com/album/5jOkQr3txEQKryTmroXOzy) | 2:10 | 2023-02-03 | 2023-02-10 |
 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 | 2023-01-13 |  |
+| [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 | 2023-06-02 |  |
 | [Sleep](https://open.spotify.com/track/5fbZVhEcjSma29ifhegrdR) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sleep](https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq) | 3:13 | 2023-04-21 |  |
 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 | 2023-02-17 |  |
 | [Small Matters](https://open.spotify.com/track/4Sk854TnjHO9egHz9VpPQo) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Small Matters](https://open.spotify.com/album/0ya8cuwKlFlOvFrlgvdD37) | 3:36 | 2023-01-13 | 2023-03-25 |

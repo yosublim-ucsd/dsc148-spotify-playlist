@@ -1899,6 +1899,28 @@
     },
     {
       "album": {
+        "name": "A Short Story About A War",
+        "url": "https://open.spotify.com/album/3H838yGtnwjCLEz0nOQ4kO"
+      },
+      "artists": [
+        {
+          "name": "Shad",
+          "url": "https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "The Fool Pt 3 (Frame Of Mind)",
+      "url": "https://open.spotify.com/track/39GtnryS9CEHmXmJlrwTpq"
+    },
+    {
+      "album": {
         "name": "THE MOVE (prod. KAYTRANADA)",
         "url": "https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU"
       },

@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 242600,
       "name": "Fun Fun Fun",
       "url": "https://open.spotify.com/track/74IAPp9HNahxgEnPeZ5bAc"
@@ -626,6 +626,24 @@
       "duration_ms": 243053,
       "name": "Fun Fun Fun",
       "url": "https://open.spotify.com/track/35oj2W03uwOiZhVVKG42OI"
+    },
+    {
+      "album": {
+        "name": "50 Big Ones: Greatest Hits",
+        "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/4T5SR1krNuVLOnxSjYb8nW"
     },
     {
       "album": {
@@ -770,7 +788,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "Hawaii - Remastered 2001",
       "url": "https://open.spotify.com/track/2coG8jl7JVo7hg0XNAay4a"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 121360,
       "name": "Stoked - Remastered 2001",
       "url": "https://open.spotify.com/track/3rxEuNCh8TJkbbVIGs7zBd"

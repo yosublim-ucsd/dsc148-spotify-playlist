@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 8284,
+  "num_followers": 8302,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmRmNjNmYzk1NmNmNjRmZDZhMmE5MWUwYjU5MmY1ZDk1MGVlM2E2",
+  "snapshot_id": "MCwzOTU0OWRmNmJiM2M0NmY5MjA5MzNkMGQ5YTRkMjEwYzkzMWJmNWM5",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
+        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc0ac\uc790 Taesaja",
+          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "\ub3c4 The Way",
+      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Cyber Yoo Sueng Jun",
         "url": "https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD"
       },
@@ -1439,38 +1455,6 @@
       "duration_ms": 234066,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
-        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
-      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Funky Diva",
-        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
-      },
-      "artists": [
-        {
-          "name": "Diva",
-          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
-        }
-      ],
-      "duration_ms": 210076,
-      "name": "\uadf8\ub798",
-      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Funky Diva",
+        "url": "https://open.spotify.com/album/4lRrvmz53grVtlVdRPU2UU"
+      },
+      "artists": [
+        {
+          "name": "Diva",
+          "url": "https://open.spotify.com/artist/0CI6MkDddUbiuI8T7V5ZcF"
+        }
+      ],
+      "duration_ms": 210076,
+      "name": "\uadf8\ub798",
+      "url": "https://open.spotify.com/track/3z6VUjAfvYveNtr31Mxe4V"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Suprise Party Collection",
         "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
-        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
+        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
+        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
       },
       "artists": [
         {
-          "name": "\ud0dc\uc0ac\uc790 Taesaja",
-          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 222250,
-      "name": "\ub3c4 The Way",
-      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
+      "duration_ms": 185939,
+      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
+      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "One Flew over the Cuckoo's Nest",
+      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Come Come Come baby",
         "url": "https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 231888,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "DJ. DOC 4th Album",
-        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 202318,
-      "name": "Let's Go to the Beach Pt. 2",
-      "url": "https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+        "name": "DJ. DOC 4th Album",
+        "url": "https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
         }
       ],
-      "duration_ms": 203693,
-      "name": "One Flew over the Cuckoo's Nest",
-      "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+      "duration_ms": 202318,
+      "name": "Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6"
     },
     {
       "added_at": "2021-03-11 16:28:13",

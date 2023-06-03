@@ -1,13 +1,29 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Mnelia",
-  "num_followers": 37336,
+  "description": "R&B of the moment by the artists of the future. Cover: No Guidnce",
+  "num_followers": 37358,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjMyYzk5OGM5NmE1OTc4MjQ1MzQ1OTAxYjI5OTQyY2RmNzJiZDQ5",
+  "snapshot_id": "MCwwZmUzNjc2MGEwYTEzMzNlNjQ3ZDRiMmQwMzYxM2M0NzE4YWU3ZWZj",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Is It A Crime? EP",
+        "url": "https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 142041,
+      "name": "Is It A Crime?",
+      "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
+    },
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B-gkqPYAQ3CDQqrj40ZpDQ\"> Kwesi Arthur</a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS?si=_bn36cCwR1ibGuYVXTz8jQ\"> Nxwrth</a> ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -737,6 +737,36 @@
     },
     {
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp"
+      },
+      "artists": [
+        {
+          "name": "Nxwrth",
+          "url": "https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS"
+        },
+        {
+          "name": "RJZ",
+          "url": "https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb"
+        },
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Shy Kuu",
+          "url": "https://open.spotify.com/artist/2G8BQnHecgoOBzIqmKH8mL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137283,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh"
+    },
+    {
+      "album": {
         "name": "BEEN ONE",
         "url": "https://open.spotify.com/album/3nhemfoUj5gWPmzAwg6nHg"
       },
@@ -1184,7 +1214,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157366,
       "name": "Dem Deh Try",
       "url": "https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b"
@@ -1670,6 +1700,24 @@
       "duration_ms": 122517,
       "name": "Feelingx",
       "url": "https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v"
+    },
+    {
+      "album": {
+        "name": "Big Mafioso Not Guilty",
+        "url": "https://open.spotify.com/album/2gDFdv7wzMnzApKlIBYGud"
+      },
+      "artists": [
+        {
+          "name": "Chicogod",
+          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206654,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/6mEANMBVUXc5TS996pevl8"
     },
     {
       "album": {
@@ -2404,7 +2452,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 214000,
       "name": "KASAPA!",
       "url": "https://open.spotify.com/track/73fEBJAdGj2r7leRgledUR"
@@ -2508,7 +2556,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 188416,
       "name": "King Talk (feat. Shaquille O'Neal)",
       "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
@@ -3086,6 +3134,24 @@
       "duration_ms": 279008,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/6wehEcOgdc1ODpxWrJqEQ9"
+    },
+    {
+      "album": {
+        "name": "No Warning",
+        "url": "https://open.spotify.com/album/5515FyYn7WI1F07lNonAni"
+      },
+      "artists": [
+        {
+          "name": "Zotto",
+          "url": "https://open.spotify.com/artist/6rsvaN73Iw2t9otnsdhT4Y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "No Warning",
+      "url": "https://open.spotify.com/track/7h7DxskWu6P3aFCrlw7xqe"
     },
     {
       "album": {

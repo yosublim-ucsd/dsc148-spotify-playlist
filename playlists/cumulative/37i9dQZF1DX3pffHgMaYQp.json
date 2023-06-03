@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Luces Azules",
+        "url": "https://open.spotify.com/album/2FLfZfDsmFQy4JDdfviYf1"
+      },
+      "artists": [
+        {
+          "name": "Animales Muertos",
+          "url": "https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Luces Azules",
+      "url": "https://open.spotify.com/track/7K4YSopo7UhoGqMCey0N4W"
+    },
+    {
+      "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/3o0emNyeX0yyYhoycpn96X"
       },
@@ -886,6 +904,24 @@
       "duration_ms": 240234,
       "name": "Manifiesto Surrealista",
       "url": "https://open.spotify.com/track/73vq8vT0gjbZTemuvOWeIn"
+    },
+    {
+      "album": {
+        "name": "Marta, Sebas, Guille y los dem\u00e1s",
+        "url": "https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220269,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1"
     },
     {
       "album": {

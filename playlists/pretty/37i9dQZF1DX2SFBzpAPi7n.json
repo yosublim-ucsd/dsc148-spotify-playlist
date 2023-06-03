@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KyoungSeo(\uacbd\uc11c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 213208,
+  "num_followers": 213225,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzI5MGFjOTI2ZGE0MzZlOTg2NmQ2NjI4Nzc5MDc4MTRlMTJhNzUz",
+  "snapshot_id": "MCxiNmI1NmFlMTA5MWVmMzAwMmQ4NGIyMzdjNDAzZDNjY2VkOGIxNDZh",
   "tracks": [
     {
       "added_at": "2023-06-01 15:03:19",
@@ -66,10 +66,14 @@
         {
           "name": "B.I",
           "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
         }
       ],
       "duration_ms": 187326,
-      "name": "Beautiful Life",
+      "name": "Beautiful Life (feat. CRYING NUT)",
       "url": "https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk"
     },
     {
@@ -315,18 +319,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+        "name": "daisy.",
+        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+      "duration_ms": 218500,
+      "name": "daisy.",
+      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -347,18 +351,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "daisy.",
-        "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 218500,
-      "name": "daisy.",
-      "url": "https://open.spotify.com/track/6TRPSdNLeh5BZdsi9FdfNR"
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -491,18 +495,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "FLY HIGH PROJECT #2 'Rooftop'",
-        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 210652,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -523,18 +527,18 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+        "name": "FLY HIGH PROJECT #2 'Rooftop'",
+        "url": "https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+      "duration_ms": 210652,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
     },
     {
       "added_at": "2023-06-01 15:03:19",
@@ -635,6 +639,22 @@
     {
       "added_at": "2023-06-01 15:03:19",
       "album": {
+        "name": "pueblo",
+        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "pueblo",
+      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
+    },
+    {
+      "added_at": "2023-06-01 15:03:19",
+      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -663,22 +683,6 @@
       "duration_ms": 241692,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-06-01 15:03:19",
-      "album": {
-        "name": "pueblo",
-        "url": "https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "pueblo",
-      "url": "https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA"
     },
     {
       "added_at": "2023-06-01 15:03:19",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49504,
+  "num_followers": 49508,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjdlODIzZjQ0NjcyZjY3M2FjYjUzMzU3NGY3MTA2NWM2NzEwOWFi",
+  "snapshot_id": "MCwzZGZmZjM2NmU4MTk4NjI2MGRlZjFmZTAwZWIyODgyMzUxMzk3NTAx",
   "tracks": [
     {
       "added_at": "2023-05-29 08:32:58",
@@ -107,6 +107,30 @@
       "duration_ms": 238080,
       "name": "Preethisuve (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/7bWl4jcNOXNEniw8T61CqL"
+    },
+    {
+      "added_at": "2023-06-02 08:38:27",
+      "album": {
+        "name": "Endu Endendu (From \"Melody Drama\")",
+        "url": "https://open.spotify.com/album/06DaLhtUFfH7oYPyqXu9tN"
+      },
+      "artists": [
+        {
+          "name": "Kiran Ravindranath",
+          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        }
+      ],
+      "duration_ms": 238461,
+      "name": "Endu Endendu (From \"Melody Drama\")",
+      "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
     },
     {
       "added_at": "2023-05-26 10:03:05",
@@ -231,6 +255,30 @@
       "duration_ms": 288913,
       "name": "Poovonji Porlu",
       "url": "https://open.spotify.com/track/3XTg8t9CukGsZjhTfdDNcH"
+    },
+    {
+      "added_at": "2023-06-02 08:33:58",
+      "album": {
+        "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
+        "url": "https://open.spotify.com/album/6UQHF0v6t3opBWTiwgECKY"
+      },
+      "artists": [
+        {
+          "name": "Sangeetha Hegde",
+          "url": "https://open.spotify.com/artist/4c1vRxGzHO3hbE2hnWpwWP"
+        },
+        {
+          "name": "Ravi Prakash",
+          "url": "https://open.spotify.com/artist/7LNnXRZnqkKVS2koSi26J8"
+        },
+        {
+          "name": "Sricharan Pakala",
+          "url": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
+      "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
     },
     {
       "added_at": "2023-06-01 10:48:33",

@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Kassi Valazza
 
-159 songs - 9 hr 42 min
+160 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 |  |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 |  |
 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
-| [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 |  |
+| [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 | 2023-06-03 |
 | [Hurtin' For A Letdown](https://open.spotify.com/track/0XMBic5RxL53u8Ec9NYpFi) | [The Whitmore Sisters](https://open.spotify.com/artist/6LDUQ8ecAEvFDWE2khOE8h) | [Hurtin' For A Letdown](https://open.spotify.com/album/7jQGgDRrSnK4W4tIndigra) | 3:39 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/2A4439ueegEvIHcJKi7020) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:35 | 2022-01-28 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2022-01-28 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 |  |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 | 2023-01-14 |
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2022-01-28 |  |
+| [Old Kanawha](https://open.spotify.com/track/5AKOojMtH8VWV1hlAk3mg1) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Old Kanawha](https://open.spotify.com/album/2L6tOFIueh5O5VB0Vxbvh5) | 4:25 | 2023-06-02 |  |
 | [On My Way](https://open.spotify.com/track/066EK5seeF2Q2t7AGQbWy2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0VRthYeVxSlu8bbfpIbJVa) | 4:27 | 2023-04-07 |  |
 | [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 | 2022-02-04 | 2023-04-30 |
 | [One Little Feeling](https://open.spotify.com/track/1ysYW8z0yPkhRlITrAHcsj) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [One Little Feeling](https://open.spotify.com/album/2Lrv7yl3r4gnVgEixUKv7n) | 3:33 | 2022-01-28 |  |

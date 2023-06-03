@@ -1219,6 +1219,32 @@
     },
     {
       "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Roisee",
+          "url": "https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
+    },
+    {
+      "album": {
         "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN"
       },
@@ -1234,7 +1260,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE"
@@ -1574,6 +1600,24 @@
       "duration_ms": 198823,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/3dqIIPHyhVVbN1mnShVAhT"
+    },
+    {
+      "album": {
+        "name": "I've Loved You For So Long",
+        "url": "https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169683,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1KQRJQhB5W0eb68bhPaebT"
     },
     {
       "album": {
@@ -2674,7 +2718,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 167613,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs"
@@ -2992,6 +3036,28 @@
       "duration_ms": 196680,
       "name": "Brightsider",
       "url": "https://open.spotify.com/track/45r6xQhf7hKsefH0FEUPVH"
+    },
+    {
+      "album": {
+        "name": "BRING BACK THE COLOR (feat. AURORA)",
+        "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168545,
+      "name": "BRING BACK THE COLOR (feat. AURORA)",
+      "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
     },
     {
       "album": {
@@ -3931,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/5GsSoccwm4oOWG2l50yM8B"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6jSnUhuqsXWsmlTxvRDzl3"
+    },
+    {
+      "album": {
         "name": "Clearview",
         "url": "https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg"
       },
@@ -4142,7 +4226,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 216721,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4HicKQPdT1iUZoU5iDijNl"
@@ -4808,7 +4892,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -8041,6 +8125,24 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155970,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6"
+    },
+    {
+      "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH"
       },
@@ -8538,6 +8640,24 @@
     {
       "album": {
         "name": "Happiness",
+        "url": "https://open.spotify.com/album/5lq9upCwDod0UuxXrtHmrn"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186296,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5MhJbPH4kC3gnb8uHycV55"
+    },
+    {
+      "album": {
+        "name": "Happiness",
         "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
       },
       "artists": [
@@ -8811,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Have Fun!",
+        "url": "https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270453,
+      "name": "Have Fun!",
+      "url": "https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R"
+    },
+    {
+      "album": {
         "name": "Have It All (feat. Franky)",
         "url": "https://open.spotify.com/album/0NHCitf8CZjmXsUmAJ6tWM"
       },
@@ -9056,7 +9194,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 217971,
       "name": "Heartbreak Baby",
       "url": "https://open.spotify.com/track/0pnLKuTr9dt1442AiXcn3K"
@@ -9074,7 +9212,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 202279,
       "name": "Heartbreak Denial",
       "url": "https://open.spotify.com/track/5Y0LURPFQr2o6fTrlHEP3A"
@@ -9150,6 +9288,24 @@
       "duration_ms": 234418,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1NZKXJskXhXJivaH6JcwWa"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232944,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ"
     },
     {
       "album": {
@@ -9707,6 +9863,24 @@
     },
     {
       "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "album": {
         "name": "Home To You",
         "url": "https://open.spotify.com/album/7d9uINjyNayVjn00b913Ah"
       },
@@ -9740,6 +9914,24 @@
       "duration_ms": 404906,
       "name": "Homosexual (Act One)",
       "url": "https://open.spotify.com/track/47V7UEkexU99DoX8PLTkXI"
+    },
+    {
+      "album": {
+        "name": "BEIGE",
+        "url": "https://open.spotify.com/album/2evikoMhheFgk9gQB7Vd1S"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181734,
+      "name": "HONDA !",
+      "url": "https://open.spotify.com/track/0yurxXDL2EC9dFyZJXy39y"
     },
     {
       "album": {
@@ -10254,6 +10446,24 @@
       "duration_ms": 248600,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/141e0reRfyYtcyITYUUe48"
+    },
+    {
+      "album": {
+        "name": "I like u",
+        "url": "https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190902,
+      "name": "I like u",
+      "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
     },
     {
       "album": {
@@ -11122,7 +11332,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
@@ -11224,6 +11434,28 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "album": {
+        "name": "It's Euphoric (Georgia Remix)",
+        "url": "https://open.spotify.com/album/6HuxEcWwJeMLMmndIugtWt"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214634,
+      "name": "It's Euphoric - Georgia Remix",
+      "url": "https://open.spotify.com/track/5IJ15LSmdUsmWnsRwcsth1"
     },
     {
       "album": {
@@ -11586,7 +11818,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 201493,
       "name": "Karma (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
@@ -11958,7 +12190,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228173,
       "name": "L'amour (feat. \u00d3lafur Darri)",
       "url": "https://open.spotify.com/track/6iYvz1kQQzmq9v7ieoNyP0"
@@ -12030,7 +12262,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 291040,
       "name": "Last Man Dancing",
       "url": "https://open.spotify.com/track/76ihnJWk4waMJpWEQiUaBg"
@@ -13339,6 +13571,24 @@
     },
     {
       "album": {
+        "name": "The Circus",
+        "url": "https://open.spotify.com/album/0UKKOlWxULikuShUHDhQbF"
+      },
+      "artists": [
+        {
+          "name": "briskin",
+          "url": "https://open.spotify.com/artist/51FA8LjCafyBHGHJo3AC6y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152096,
+      "name": "Love Songs In The Rain",
+      "url": "https://open.spotify.com/track/0TpYqVOCzWgNJ2GzP9vI3Z"
+    },
+    {
+      "album": {
         "name": "Love Under The Influence",
         "url": "https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d"
       },
@@ -13851,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "me, my girls & i",
+        "url": "https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149512,
+      "name": "me, my girls & i",
+      "url": "https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU"
+    },
+    {
+      "album": {
         "name": "Meltdown",
         "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
       },
@@ -14236,7 +14504,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176222,
       "name": "MMMBop 2.0",
       "url": "https://open.spotify.com/track/3lngW7QTDn2ZsWTuRgGyIT"
@@ -15148,7 +15416,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
@@ -15530,7 +15798,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 125346,
       "name": "Not A Lot Left To Say",
       "url": "https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv"
@@ -19062,7 +19330,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 225518,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6"
@@ -19973,6 +20241,24 @@
     },
     {
       "album": {
+        "name": "Spaceship",
+        "url": "https://open.spotify.com/album/3q6IkJ4jV6qX4g6ZM9UQVs"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/25JgFc6e28yXV6B9IizfgC"
+    },
+    {
+      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/5OkPS4db29TTA4FAMnbTly"
       },
@@ -20158,7 +20444,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 191338,
       "name": "Standing Up For The Lonely",
       "url": "https://open.spotify.com/track/4W4HNv0r1DFpQfH91eCNlS"
@@ -20206,6 +20492,28 @@
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
+    },
+    {
+      "album": {
+        "name": "Stars Are Blind (Paris' Version) [feat. Kim Petras]",
+        "url": "https://open.spotify.com/album/5dEiXfnGyPT4FhM7eJ4I1H"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259594,
+      "name": "Stars Are Blind (Paris' Version) [feat. Kim Petras]",
+      "url": "https://open.spotify.com/track/5GUZiPY2HnJMk6ZMpevpMS"
     },
     {
       "album": {
@@ -20698,7 +21006,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 213269,
       "name": "Sun Sex Party",
       "url": "https://open.spotify.com/track/3FoPZbJUonyMeShxHm8JTI"
@@ -21050,7 +21358,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186458,
       "name": "TA MIG (f\u00f6r den jag \u00e4r)",
       "url": "https://open.spotify.com/track/7DU5kQfHNDr3WmkIIGHAbf"
@@ -21178,6 +21486,28 @@
       "duration_ms": 132673,
       "name": "Take Me To Hell",
       "url": "https://open.spotify.com/track/2rmTtv5xWuqHiKzM4i0QjQ"
+    },
+    {
+      "album": {
+        "name": "Take Me To The Sun",
+        "url": "https://open.spotify.com/album/6Jsh25aVmAZgeFR100E137"
+      },
+      "artists": [
+        {
+          "name": "MEDUN",
+          "url": "https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184380,
+      "name": "Take Me To The Sun",
+      "url": "https://open.spotify.com/track/4tKYca6a7pdwVqOib3m97T"
     },
     {
       "album": {
@@ -23040,7 +23370,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178414,
       "name": "Used to love you",
       "url": "https://open.spotify.com/track/4laljsUqeYkQLWoI9dh3D0"
@@ -23271,6 +23601,28 @@
     },
     {
       "album": {
+        "name": "Last Man Dancing",
+        "url": "https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Voices (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/4NwqRvKoLaREF9Nt11sOka"
+    },
+    {
+      "album": {
         "name": "PORTALS",
         "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
       },
@@ -23442,7 +23794,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 147840,
       "name": "Waste A Tear",
       "url": "https://open.spotify.com/track/0q95y4MRVrqGaJNtz98Eb6"
@@ -24359,6 +24711,24 @@
     },
     {
       "album": {
+        "name": "Worst Boyfriend Award",
+        "url": "https://open.spotify.com/album/0v3UEhMmXcYwtkoN5nxlBn"
+      },
+      "artists": [
+        {
+          "name": "Emilia Tarrant",
+          "url": "https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175266,
+      "name": "Worst Boyfriend Award",
+      "url": "https://open.spotify.com/track/3rPoShpRY4qZyQM2nMGEVq"
+    },
+    {
+      "album": {
         "name": "Worst Taste In Girls",
         "url": "https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq"
       },
@@ -24612,7 +24982,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"

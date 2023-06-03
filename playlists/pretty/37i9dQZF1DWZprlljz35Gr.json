@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7650,
+  "num_followers": 7661,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDBmZWRjM2JlMTdjNjQ0ZWY0N2VlMDNlNTU5ODhiYjAwMjRiMDQw",
+  "snapshot_id": "MCxmNWQzZjI0MmNiNWQwZTk4ZDQ2ZmEwZDI0NjZjZDU5MjRlYTQ0ODIx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
-      },
-      "artists": [
-        {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Dirty Blues",
@@ -639,6 +623,22 @@
       "duration_ms": 166574,
       "name": "Dirty Blues",
       "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Heavy On My Heart",
-        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
       "artists": [
         {
-          "name": "Caiti Baker",
-          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 210430,
-      "name": "Heavy On My Heart",
-      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
+      "duration_ms": 321375,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
+        "name": "Heavy On My Heart",
+        "url": "https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf"
       },
       "artists": [
         {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+          "name": "Caiti Baker",
+          "url": "https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P"
         }
       ],
-      "duration_ms": 321375,
-      "name": "Ride On",
-      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
+      "duration_ms": 210430,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Delta Disco",
         "url": "https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 255840,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Good Girl Blues",
+        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
+      },
+      "artists": [
+        {
+          "name": "The Soul Of John Black",
+          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Swamp Thang",
+      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Good Girl Blues",
-        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/1kw3Ixj3jFCe153TQcicpB"
       },
       "artists": [
         {
-          "name": "The Soul Of John Black",
-          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Swamp Thang",
-      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
+      "duration_ms": 243986,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/1GSa7lngY88UwrL1WulxJ0"
     },
     {
       "added_at": "2022-03-01 20:08:23",

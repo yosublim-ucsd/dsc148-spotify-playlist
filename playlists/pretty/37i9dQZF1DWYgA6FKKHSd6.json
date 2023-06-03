@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 212650,
+  "num_followers": 212675,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU2YjY2NDk0YTU1OTI5NjQ1MGMxZGI2MzNmNTdmZmJjZGY0OGY4",
+  "snapshot_id": "MCwxZmExYzE0YTdjMDg1MzNhZWVlMGQxYWU0NWQ3NTdhMTJjMTZiOWU0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Align",
-        "url": "https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        },
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        }
-      ],
-      "duration_ms": 244613,
-      "name": "Solux",
-      "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Morning After",
         "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
@@ -581,6 +561,22 @@
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Solid",
@@ -597,20 +593,24 @@
       "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+        "name": "Align",
+        "url": "https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
+        },
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+      "duration_ms": 244613,
+      "name": "Solux",
+      "url": "https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Can't Stop Now",
@@ -753,6 +737,22 @@
       "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "30",
@@ -767,26 +767,6 @@
       "duration_ms": 245989,
       "name": "Chill AF",
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Tender (Remix)",
-        "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Chia",
-          "url": "https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79"
-        },
-        {
-          "name": "Colin Watson",
-          "url": "https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f"
-        }
-      ],
-      "duration_ms": 303046,
-      "name": "Tender - Remix",
-      "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -807,6 +787,26 @@
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Tender (Remix)",
+        "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Chia",
+          "url": "https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79"
+        },
+        {
+          "name": "Colin Watson",
+          "url": "https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f"
+        }
+      ],
+      "duration_ms": 303046,
+      "name": "Tender - Remix",
+      "url": "https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Horns II From A To Z",
         "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Smooth Jazz SAX Showcase",
-        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
-      },
-      "artists": [
-        {
-          "name": "Uko",
-          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
-        }
-      ],
-      "duration_ms": 296475,
-      "name": "Got To Be Real",
-      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "West Coast Soul",
@@ -1139,6 +1123,22 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Smooth Jazz SAX Showcase",
+        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
+      },
+      "artists": [
+        {
+          "name": "Uko",
+          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
+        }
+      ],
+      "duration_ms": 296475,
+      "name": "Got To Be Real",
+      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
       "added_at": "2022-06-03 04:02:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+      },
+      "artists": [
+        {
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 310480,
       "name": "Another Part Of Me",
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
-      },
-      "artists": [
-        {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
-        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Barack's Groove",
-      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
-    },
-    {
       "added_at": "2022-06-24 04:02:00",
       "album": {
         "name": "Play",
@@ -1399,6 +1383,22 @@
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "The Best of Walter Beasley: The Affable Years, Vol. 1",
+        "url": "https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Barack's Groove",
+      "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1455,6 +1455,26 @@
       "duration_ms": 254011,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -1519,26 +1539,6 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "City Life",
-        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Dave Stewart",
-          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
-        }
-      ],
-      "duration_ms": 294346,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1617,6 +1617,22 @@
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Break the Ice",
+      "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "I Feel It Coming",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Carnival Fever",
-        "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
-      },
-      "artists": [
-        {
-          "name": "Elan Trotman",
-          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
-        }
-      ],
-      "duration_ms": 263083,
-      "name": "Carnival Fever",
-      "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM"
       },
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/6XCbKSocHmrPg2w4P16FXZ"
+        "name": "Carnival Fever",
+        "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+          "name": "Elan Trotman",
+          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
         }
       ],
-      "duration_ms": 249320,
-      "name": "Break the Ice",
-      "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
+      "duration_ms": 263083,
+      "name": "Carnival Fever",
+      "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",

@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 220720,
+  "num_followers": 220851,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzJkNjM0ZTAxOWYzYWQ3OTM4MWE2ZGQyYTU2NDZjNDIwMzRkOTA2",
+  "snapshot_id": "MCwzMDU1MTQ5MDVjYTBhYzU5MzFkZThhZjUzMTNkMWQ0OTRkODZiYWYw",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -907,6 +907,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Something / Anything?",
+        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Hello It's Me",
+      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 198946,
       "name": "Key Largo",
       "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Something / Anything?",
-        "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Hello It's Me",
-      "url": "https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc"
     },
     {
       "added_at": "2020-01-07 15:31:11",

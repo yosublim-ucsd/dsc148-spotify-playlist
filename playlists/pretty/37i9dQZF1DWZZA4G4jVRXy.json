@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 120779,
+  "num_followers": 120829,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjQ4NzJkZGE3NDY4NmFlYTZiODMyMDQxNDI1ZDc1MGI2NmVjNThk",
+  "snapshot_id": "MCxkMjJlYTEyNTkxNmJhNWI0NjRiNTYxODk4N2NjNjgwNzA1NDkxYzI3",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Tiny Bubbles",
-        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
-      },
-      "artists": [
-        {
-          "name": "Don Ho",
-          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Tiny Bubbles",
-      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Enchanted Sea",
         "url": "https://open.spotify.com/album/5GkmwrmDAeNW83ZCmcLKom"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 121106,
       "name": "The Enchanted Sea",
       "url": "https://open.spotify.com/track/5EJ9MfO86fEG7ICjhciyd1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Tiny Bubbles",
+        "url": "https://open.spotify.com/album/12jlS1kFwsM3EP6PrKYj9y"
+      },
+      "artists": [
+        {
+          "name": "Don Ho",
+          "url": "https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Tiny Bubbles",
+      "url": "https://open.spotify.com/track/5xQLjEHGibyfh8YkAtMuWx"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hawaiian Blossom",
-        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
-      },
-      "artists": [
-        {
-          "name": "Raiatea Helm",
-          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Ahulili",
-      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -283,6 +267,22 @@
       "duration_ms": 153493,
       "name": "Chant Of The Moon",
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+      },
+      "artists": [
+        {
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
+        "name": "Voodoo!",
+        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
+      },
+      "artists": [
+        {
+          "name": "Robert Drasnin",
+          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
         "url": "https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 140721,
       "name": "Palmeras",
       "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Voodoo!",
-        "url": "https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892"
-      },
-      "artists": [
-        {
-          "name": "Robert Drasnin",
-          "url": "https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "On A Magic Carpet",
-        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
-      },
-      "artists": [
-        {
-          "name": "The Three Suns",
-          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Terry's Theme (From \"Limelight)",
-      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Latin-Esque",
@@ -559,6 +543,22 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "On A Magic Carpet",
+        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
+      },
+      "artists": [
+        {
+          "name": "The Three Suns",
+          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Terry's Theme (From \"Limelight)",
+      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",

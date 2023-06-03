@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-383 songs - 1 day 4 hr 12 min
+385 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,9 @@
 | [El Africano](https://open.spotify.com/track/1F7EGYVJiBusFa9AYML6j9) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/2CC43bAaJtJpDpbIr2fqZ8) | 4:33 | 2021-02-02 | 2022-10-14 |
 | [El Africano](https://open.spotify.com/track/50OiTaO9Dra9hBKuKRTFmT) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:33 | 2021-02-02 | 2023-04-05 |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2021-02-02 |  |
+| [El Cantante del Amor](https://open.spotify.com/track/6Tj7rpzgCrQxK9r6WgZk81) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 3:45 | 2021-02-02 |  |
 | [El Cantante del Amor](https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 3:48 | 2021-02-02 | 2023-05-24 |
-| [El Cantante del Amor](https://open.spotify.com/track/6EYHX8INfdK3SXuaPTiHgJ) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U) | 3:48 | 2021-02-02 |  |
+| [El Cantante del Amor](https://open.spotify.com/track/6EYHX8INfdK3SXuaPTiHgJ) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U) | 3:48 | 2021-02-02 | 2023-06-03 |
 | [El Desdichado](https://open.spotify.com/track/2ouXAE3QSBfJCE5Zv7UnYH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 3:50 | 2021-02-02 | 2022-07-29 |
 | [El Desdichado](https://open.spotify.com/track/1SS8g2Jp2C086gxYYI6m7T) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 3:52 | 2021-02-02 |  |
 | [El Desdichado](https://open.spotify.com/track/4qIPMgu4lKdEfzzW1fU7Dm) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/7FCEGdY1gVowEqvyhoY7IT) | 3:52 | 2021-02-02 | 2022-10-15 |
@@ -155,7 +156,7 @@
 | [Feliz Cumbé](https://open.spotify.com/track/6Znkj4JOj6nQYM7A0iXKoO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 3:13 | 2021-02-02 | 2022-07-29 |
 | [Gotas De Pena](https://open.spotify.com/track/5KrEQ87uKvRMdUohfl9ACg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:31 | 2021-02-02 | 2022-07-22 |
 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 | 2021-02-02 |  |
-| [Hay No Se Que Hacer](https://open.spotify.com/track/2P1fLX8PDgF7Jo0nlfcO1i) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U) | 4:17 | 2021-02-02 |  |
+| [Hay No Se Que Hacer](https://open.spotify.com/track/2P1fLX8PDgF7Jo0nlfcO1i) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/5oxjeVeQkatCs8ntXejI3U) | 4:17 | 2021-02-02 | 2023-06-03 |
 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 | 2021-02-02 | 2023-05-26 |
 | [Hecha Para Mi](https://open.spotify.com/track/1DbtNvGpWDRf2tD68leVQy) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:25 | 2021-02-02 | 2022-07-25 |
 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 | 2021-02-02 |  |
@@ -255,6 +256,7 @@
 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 | 2021-02-02 |  |
 | [No Me Importa, No](https://open.spotify.com/track/3sW9KHmpSIh19ESJO2Qbol) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/4qxrLBXemtIN9pUphKSCfb) | 3:55 | 2021-02-02 | 2022-07-29 |
 | [No Me Importa, No](https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj) | 3:55 | 2021-02-02 |  |
+| [No Se Que Hacer](https://open.spotify.com/track/6Vk9edqtgXB5BiHfeOgaF1) | [El Zafiro](https://open.spotify.com/artist/7gkL5E5Ci6Lrq9cjvwMUXA) | [El Cantante del Amor](https://open.spotify.com/album/0eYzVn91ToDjfDa0ivFe7G) | 4:13 | 2021-02-02 |  |
 | [Noche de Fantasia](https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:16 | 2021-02-02 | 2022-07-27 |
 | [Noche Eterna](https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [Ring...Ring](https://open.spotify.com/album/3H00vhCcHbxZBk2QzGagQP) | 4:36 | 2021-02-02 | 2022-07-26 |
 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 | 2021-02-02 |  |

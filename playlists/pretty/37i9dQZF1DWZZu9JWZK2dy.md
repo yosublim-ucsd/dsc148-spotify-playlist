@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,979 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,122 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 56 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 |
 | 57 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 |
 | 58 | [プリズム](https://open.spotify.com/track/7IMoiKwhGgECXyV9DvHImQ) | [Ayako Ikeda](https://open.spotify.com/artist/5JNDexaGyXylLDla0vmbtf) | [プリズム / 空の欠片](https://open.spotify.com/album/7796xTdWXoOllKCZagQZPV) | 4:04 |
-| 59 | [Gamble Rumble](https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:27 |
+| 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCxkOTRkODVhNzI2MmFmOWRjYjBkN2ViYmQ1YmY1NmRjOTY0NDE1YjYz`
+Snapshot ID: `MCw5ZjRlNzQyOTA3ZjhkYmM4MTgzYTVlZDE1OTliYmE3YjdmNTZmODll`

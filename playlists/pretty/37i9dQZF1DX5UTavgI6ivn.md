@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > ¡Manuel Turizo nos presenta sus favoritas colombianas de los 2000 y alrededores!
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,563 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,666 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 29 | [Waka Waka \(Esto es Africa\) \(feat\. Freshlyground\)](https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(Esto es Africa\) \(feat\. Freshlyground\)](https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj) | 3:22 |
 | 30 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 |
 | 31 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
-| 32 | [No Money, No Pussy](https://open.spotify.com/track/390YXZ8KdlM4Jfxbl0O7ln) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [No Money, No Pussy](https://open.spotify.com/album/7eQYjFyAhojRnfYRQKxeAa) | 2:32 |
+| 32 | [No Money No](https://open.spotify.com/track/390YXZ8KdlM4Jfxbl0O7ln) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [No Money No](https://open.spotify.com/album/7eQYjFyAhojRnfYRQKxeAa) | 2:32 |
 | 33 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
 | 34 | [TQG](https://open.spotify.com/track/2oMjKuKUEJFuLiVmTq7Vjx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TQG](https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa) | 3:18 |
 | 35 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 99 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 100 | [Mocca \- Remix](https://open.spotify.com/track/1usoXi4f0BnMART4uActEA) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [Mocca \(Remix\)](https://open.spotify.com/album/5e17MvJeEUfTQJ2Ygu6acn) | 3:22 |
 
-Snapshot ID: `MCxkNDBiZGViOGNiNzBlZDEzZWZkYjkzOTgxY2I0N2VmY2QwZTM4YmZk`
+Snapshot ID: `MCxlMGQzMDA2ZTdkZGE2MTNiMjU3YTY0ZDk4MTI1NTNlOTU2ZWE2M2Iz`

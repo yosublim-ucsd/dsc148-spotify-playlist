@@ -2,7 +2,7 @@
 
 ### [Easy](https://open.spotify.com/playlist/37i9dQZF1DX2czWA9hqErK)
 
-> Laid back sounds to see you through your day.
+> 
 
 494 songs - 1 day 3 hr 44 min
 

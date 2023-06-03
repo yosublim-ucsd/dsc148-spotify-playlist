@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 2 | [Are We Still Good?](https://open.spotify.com/track/41VojbdDH5qfSQB16MAqsb) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Are We Still Good?](https://open.spotify.com/album/7hCujP4LNU9dKP89u5S6hE) | 3:32 |
 | 3 | [Luga Pandemic](https://open.spotify.com/track/0O2wVyNkepLJcEmcJbDTix) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Luga Pandemic](https://open.spotify.com/album/3J4Ej6runJXjT4iQxF8cSR) | 3:06 |
 | 4 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 |
-| 5 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ug Mob](https://open.spotify.com/artist/54pTX9pmQOazq1fpl3SpJc) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
+| 5 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
 | 6 | [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 |
 | 7 | [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 |
 | 8 | [Belong](https://open.spotify.com/track/1BxdWcqrXT7DBrPXAwHacK) | [KeDi](https://open.spotify.com/artist/3aaq8ReIvKF925g2qtGnV7) | [Belong](https://open.spotify.com/album/07MimenonWNMJeSgQYpUyz) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Skin Care](https://open.spotify.com/track/24ToDCZUSlY2mCHFR5YOVO) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ) | [Skin Care](https://open.spotify.com/album/72oEAxauWEA7liK85rYnee) | 3:14 |
 | 60 | [Ndolelele](https://open.spotify.com/track/644cjZFzNtNz5dNYwvSuH9) | [Byg Ben Sukuya](https://open.spotify.com/artist/2FU7huRrOYj7J461geVgXH), [Sharon Sento](https://open.spotify.com/artist/0HQs6VxGr3meRHHTkvObxy) | [NDURA EP](https://open.spotify.com/album/4DWD8hAqgT9nzglxp1dVSG) | 3:23 |
 
-Snapshot ID: `MCw5MmE5MzJmODdkNTEzYWIzNmYyMGE2ODc1ZDZiY2FiYzI5NWI3Yzc4`
+Snapshot ID: `MCxiZmI3ZjQyZmE0OWMwMGRjOGIxZjJhYjllOTQyOGY0N2EyN2NkYzU5`

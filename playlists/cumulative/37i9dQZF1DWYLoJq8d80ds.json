@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "La Otra Estrella",
+        "url": "https://open.spotify.com/album/4eEv0ca3Y0uo26gySixvxi"
+      },
+      "artists": [
+        {
+          "name": "La Cantada",
+          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "La Otra Estrella",
+      "url": "https://open.spotify.com/track/3MoJok6W9Ps8RYzvGkXK8o"
+    },
+    {
+      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },

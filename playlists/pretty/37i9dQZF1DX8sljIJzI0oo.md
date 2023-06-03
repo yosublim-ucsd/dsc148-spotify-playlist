@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Santea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,261 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890,206 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 |
 | 25 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
 
-Snapshot ID: `MCxlN2VhNjk0NGQ5ZjA5NDVkNzY1YzQzMDJkYmNjNmE0MThjOTBhYmU0`
+Snapshot ID: `MCxlMWQ4Y2UyMGZkMTMxZWZiZjlmN2E5NWQ1YjZhMWUxN2E0NGU3YTMy`

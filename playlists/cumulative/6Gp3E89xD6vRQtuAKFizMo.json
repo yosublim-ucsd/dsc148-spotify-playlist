@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146190,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS"
+    },
+    {
+      "album": {
         "name": "GOIN' ROUND",
         "url": "https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto"
       },
@@ -2126,6 +2144,24 @@
       "duration_ms": 140701,
       "name": "Move It",
       "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/79GIJFnwlmxctKHpo0dLqJ"
+      },
+      "artists": [
+        {
+          "name": "MT11",
+          "url": "https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168035,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/3sX6nnMGqC5WS88TcaOBfM"
     },
     {
       "album": {

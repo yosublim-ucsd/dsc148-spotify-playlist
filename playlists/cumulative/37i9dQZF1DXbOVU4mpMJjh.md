@@ -4,12 +4,13 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-708 songs - 2 day 3 hr 18 min
+710 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Deed I Do](https://open.spotify.com/track/2ZFXhQDfyv1KpE2FNCWU4T) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie](https://open.spotify.com/album/257Zqx0pvRdixYMbXwKHQN) | 2:13 | 2022-04-14 | 2022-07-29 |
 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 | 2022-06-30 | 2022-11-11 |
+| ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 | 2023-06-01 |  |
 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 | 2022-04-14 | 2022-11-11 |
 | [A Capriscious Stroll](https://open.spotify.com/track/7CnLK8jEEL1O7VcK2nHrx2) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [A Capriscious Stroll](https://open.spotify.com/album/10DBsEqIxXYAgK2bUXpaw4) | 3:24 | 2023-03-16 | 2023-04-25 |
 | [A Certain Smile](https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [A Certain Smile](https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS) | 3:50 | 2023-04-14 |  |
@@ -74,7 +75,7 @@
 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 | 2022-04-14 | 2022-07-29 |
 | [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-06-30 | 2022-09-16 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-09 |  |
-| [Beautiful You](https://open.spotify.com/track/70vLPHSEkQTOT7qUF6Qfgj) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Beautiful You](https://open.spotify.com/album/3HphJAVX5k4o619Hc1jGas) | 3:27 | 2023-03-09 |  |
+| [Beautiful You](https://open.spotify.com/track/70vLPHSEkQTOT7qUF6Qfgj) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Beautiful You](https://open.spotify.com/album/3HphJAVX5k4o619Hc1jGas) | 3:27 | 2023-03-09 | 2023-06-03 |
 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 | 2022-04-14 | 2022-10-08 |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-22 |  |
 | [Bess Is My Woman Now](https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Faraò Plays the Great Jazz American Composers \- George Gershwin, Vol\. 3](https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC) | 4:28 | 2022-06-02 | 2023-05-09 |
@@ -420,6 +421,7 @@
 | [My Heart Is For You](https://open.spotify.com/track/7tDpSRvJUjQ4kfjQK1pIkc) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:34 | 2022-06-30 | 2023-04-18 |
 | [My Heart Is For You](https://open.spotify.com/track/3u6fXPiITVsTNolEqapeBU) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:39 | 2022-04-14 | 2022-07-29 |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-08 |  |
+| [My Home](https://open.spotify.com/track/3KdDCxjdjKcGPkzWvRK6O4) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [My Home](https://open.spotify.com/album/0LOEMiRv333HtclEArNGjC) | 2:41 | 2023-06-01 |  |
 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 | 2023-04-27 |  |
 | [My Ideal](https://open.spotify.com/track/0DEnkUHQ2ORI84fIwRCJYD) | [Solomon Rogers Band](https://open.spotify.com/artist/2k7YvEJ606E7fTWeKdINv8) | [My Ideal](https://open.spotify.com/album/4XybR9h4pjJZ2GHXKlVcjb) | 4:35 | 2022-04-14 | 2022-06-09 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-01-19 |  |
@@ -591,7 +593,7 @@
 | [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 | 2022-04-14 | 2022-10-08 |
 | [That's All](https://open.spotify.com/track/79MOPpvNSagTPcwnx4Ct2b) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Pick Yourself Up](https://open.spotify.com/album/5kdCmgqTuAvaIcjh46usah) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2022-09-23 |
-| [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |
+| [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 | 2023-06-03 |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-28 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |

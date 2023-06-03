@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Dani Ribba.",
+  "description": "Rimas argentinas. Foto: Soui Uno.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 138342,
       "name": "90's",
       "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
@@ -2724,6 +2724,24 @@
       "duration_ms": 176394,
       "name": "MEL\u00d3N VINO",
       "url": "https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi"
+    },
+    {
+      "album": {
+        "name": "Merito Propio",
+        "url": "https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Merito Propio",
+      "url": "https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5"
     },
     {
       "album": {

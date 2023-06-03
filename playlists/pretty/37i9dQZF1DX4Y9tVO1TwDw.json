@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Poe Leos",
-  "num_followers": 19822,
+  "num_followers": 19821,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmQzODRmZjFkM2RmNDQxYWFhY2JhMGEyM2E4YzRhZWUwYWMzZTcx",
+  "snapshot_id": "MCxkYTZmYWYyMmY3ZTgzZmQwNzg5YTE0NGU0ZGMyMTNjNmY4NGQ4OTVi",
   "tracks": [
     {
       "added_at": "2023-05-26 22:07:46",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-26 22:07:46",
       "album": {
-        "name": "Mi Gran Error",
-        "url": "https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM"
-      },
-      "artists": [
-        {
-          "name": "Mxuroo",
-          "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
-        }
-      ],
-      "duration_ms": 248708,
-      "name": "Mi Gran Error",
-      "url": "https://open.spotify.com/track/2JFiSScWPx53pMUYHLdO6j"
-    },
-    {
-      "added_at": "2023-05-26 22:07:46",
-      "album": {
         "name": "Mi Error",
         "url": "https://open.spotify.com/album/0Odak28sLk2nII6qJX5QQC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 222167,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/1AktxtPO11d9jRVqIU5Ixc"
+    },
+    {
+      "added_at": "2023-05-26 22:07:46",
+      "album": {
+        "name": "Mi Gran Error",
+        "url": "https://open.spotify.com/album/2uc2NaKtj4MGY19eyEnBLM"
+      },
+      "artists": [
+        {
+          "name": "Mxuroo",
+          "url": "https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD"
+        }
+      ],
+      "duration_ms": 248708,
+      "name": "Mi Gran Error",
+      "url": "https://open.spotify.com/track/2JFiSScWPx53pMUYHLdO6j"
     },
     {
       "added_at": "2023-05-26 22:07:46",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-26 22:07:46",
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
-    },
-    {
-      "added_at": "2023-05-26 22:07:46",
-      "album": {
         "name": "Would You Still Love Me",
         "url": "https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 256532,
       "name": "Would You Still Love Me",
       "url": "https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq"
+    },
+    {
+      "added_at": "2023-05-26 22:07:46",
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": "2023-05-26 22:07:46",

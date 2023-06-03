@@ -2,7 +2,7 @@
 
 ### [Beast Mode](https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP)
 
-> Get your beast mode on!
+> 
 
 1,262 songs - 2 day 20 hr 45 min
 

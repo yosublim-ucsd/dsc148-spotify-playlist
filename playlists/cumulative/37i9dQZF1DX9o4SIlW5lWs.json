@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5sd9B32isq2fTuFqoKGr6X"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221112,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/1vIJPZWmytDolCVxXU9SyE"
+    },
+    {
+      "album": {
         "name": "Corazon Destrozado",
         "url": "https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 264149,
       "name": "Cumbia de los Dos",
       "url": "https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q"
@@ -1494,6 +1512,24 @@
       "duration_ms": 167680,
       "name": "El Gil de Tu Ex",
       "url": "https://open.spotify.com/track/3BoHuCCm0Dr8TGtKV9kl4g"
+    },
+    {
+      "album": {
+        "name": "El peor de todos",
+        "url": "https://open.spotify.com/album/3gFqBt6sJB3U2ELobduQ5G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218922,
+      "name": "El peor de todos",
+      "url": "https://open.spotify.com/track/6aGccdABE1JuDb3NSSaibQ"
     },
     {
       "album": {
@@ -2044,7 +2080,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 196120,
       "name": "Fabricando Fantas\u00edas",
       "url": "https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN"
@@ -2280,6 +2316,28 @@
       "duration_ms": 199268,
       "name": "Hoy Quiero Verte",
       "url": "https://open.spotify.com/track/6KejUDGAYcKwvs0EXkQLxg"
+    },
+    {
+      "album": {
+        "name": "Hoy Te Vas",
+        "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188133,
+      "name": "Hoy Te Vas",
+      "url": "https://open.spotify.com/track/20iwP3Qzh9AnLJRguIKWqN"
     },
     {
       "album": {
@@ -2696,7 +2754,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 235035,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
@@ -2888,7 +2946,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170000,
       "name": "Me Voy De Tu Vida",
       "url": "https://open.spotify.com/track/0r0qLYeKqh5z09fYlzxMEA"
@@ -3757,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Un Dia sin ti / Perdida en ti / Digale",
+        "url": "https://open.spotify.com/album/1HPGcouk9Hex12Hs9G2foR"
+      },
+      "artists": [
+        {
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186238,
+      "name": "Perdida en Ti",
+      "url": "https://open.spotify.com/track/2e80JiBWajKMkPOIeDw4Kp"
+    },
+    {
+      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/6r0KL8RMANGN9gyiSetBrz"
       },
@@ -4014,6 +4090,24 @@
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "album": {
+        "name": "Que Vuelvas",
+        "url": "https://open.spotify.com/album/4WovYXrsDxqaUgtMLF9LUq"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "Que Vuelvas",
+      "url": "https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI"
     },
     {
       "album": {

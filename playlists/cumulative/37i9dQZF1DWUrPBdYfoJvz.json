@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "J\u014dhatsu (\u84b8\u767a)",
+        "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302984,
+      "name": "Kamikakushi (\u795e\u96a0\u3057)",
+      "url": "https://open.spotify.com/track/4HdsV5kyQhBMuTofIWGEaM"
+    },
+    {
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },

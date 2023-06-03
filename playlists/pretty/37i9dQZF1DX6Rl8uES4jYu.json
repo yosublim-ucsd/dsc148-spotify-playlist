@@ -1,13 +1,61 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240923,
+  "num_followers": 240918,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGMwMTMyZTM1MDExYTVkZDE0N2E4NTc3ZWYxOTc0NzlkYzMzYjA4",
+  "snapshot_id": "MCwwN2ZjZWI3MWY5OWJhMzYyMDRmMmRiNGVlYzBmYjI1M2E4NTVjZjE0",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Be Who You Are (Real Magic)",
+        "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
+      "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "Rothstein",
+          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
+        }
+      ],
+      "duration_ms": 117927,
+      "name": "Home Improvement",
+      "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
@@ -1721,22 +1769,6 @@
       "url": "https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe"
-      },
-      "artists": [
-        {
-          "name": "Arkells",
-          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
-        }
-      ],
-      "duration_ms": 184204,
-      "name": "Floating Like",
-      "url": "https://open.spotify.com/track/4MDPyqKZLDYd1PsGGYMThw"
-    },
-    {
       "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Keeping You",
@@ -1799,22 +1831,6 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     }
   ],
   "unique_name": "Ready for the Day",

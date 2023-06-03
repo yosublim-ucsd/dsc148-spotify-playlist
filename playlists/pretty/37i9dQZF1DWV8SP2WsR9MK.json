@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 65996,
+  "num_followers": 66071,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk2ZmIxMDc5YjdjZmUzNjU0ZDgzMWIyNDQ4ZmU5ZTNkYzYxNmMy",
+  "snapshot_id": "MCwwNGI0OTk5M2RmMGUxMTVmMjE4NDFhZTljMTY5ZjY3N2MzMTE3ZmY0",
   "tracks": [
     {
       "added_at": "2023-05-31 07:21:37",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-05-31 07:21:37",
       "album": {
+        "name": "Idle Moments",
+        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 409880,
+      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
+      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
+    },
+    {
+      "added_at": "2023-05-31 07:21:37",
+      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 209053,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
-    },
-    {
-      "added_at": "2023-05-31 07:21:37",
-      "album": {
-        "name": "Idle Moments",
-        "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 409880,
-      "name": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
-      "url": "https://open.spotify.com/track/6ZniDtZIvYjdYHG8sHh2jD"
     },
     {
       "added_at": "2023-05-31 07:21:37",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-05-31 07:21:37",
       "album": {
+        "name": "At the Garden Party",
+        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
+      },
+      "artists": [
+        {
+          "name": "Don Thompson",
+          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
+        },
+        {
+          "name": "Ed Bickert",
+          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
+        }
+      ],
+      "duration_ms": 394560,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
+    },
+    {
+      "added_at": "2023-05-31 07:21:37",
+      "album": {
         "name": "Good Pickin's",
         "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 267800,
       "name": "Let's Say We Did",
       "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2023-05-31 07:21:37",
-      "album": {
-        "name": "At the Garden Party",
-        "url": "https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q"
-      },
-      "artists": [
-        {
-          "name": "Don Thompson",
-          "url": "https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX"
-        },
-        {
-          "name": "Ed Bickert",
-          "url": "https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA"
-        }
-      ],
-      "duration_ms": 394560,
-      "name": "You Are Too Beautiful",
-      "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
     },
     {
       "added_at": "2023-05-31 07:21:37",

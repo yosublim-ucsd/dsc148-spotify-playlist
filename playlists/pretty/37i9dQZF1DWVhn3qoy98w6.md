@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: stivijoes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,671 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,683 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 32 | [Mis miedos han huido](https://open.spotify.com/track/7waJJHNhnucqI5yxyVoKyz) | [Claudia del Valle](https://open.spotify.com/artist/5GJ2spByl9PVhXmw3rEeg2) | [Mis miedos han huido](https://open.spotify.com/album/1Xp7wBHrdu2Q0gQrI9XPWH) | 4:02 |
 | 33 | [Vaya tarde de calor](https://open.spotify.com/track/3w3oKTxAloTyJUYay6g1gl) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [Vaya tarde de calor](https://open.spotify.com/album/6yOYxHqzyDlquJhrhHn8Kv) | 3:21 |
 | 34 | [Carita](https://open.spotify.com/track/0rYyEQ1ywSuIcUK5vj6lZa) | [Pirámide](https://open.spotify.com/artist/78PdITr5DhicJ7b1E6Mhe6) | [Carita](https://open.spotify.com/album/5jmJfE7IDrcCh3auvzxkhi) | 3:23 |
-| 35 | [Alacay \- Banda Sonora Oficial Documental Tañen Furo](https://open.spotify.com/track/1SN9WMI6Ral3XycJm336fV) | [Idoipe](https://open.spotify.com/artist/6fQf8huuC5Obj3dpGxppug) | [Alacay \(Banda Sonora Oficial Documental Tañen Furo\)](https://open.spotify.com/album/2KswSBnrDMyFDZtrHSvWTt) | 2:34 |
+| 35 | [Alacay \- Banda Sonora Original Documental Tañen Furo](https://open.spotify.com/track/1SN9WMI6Ral3XycJm336fV) | [Idoipe](https://open.spotify.com/artist/6fQf8huuC5Obj3dpGxppug) | [Alacay \(Banda Sonora Original Documental Tañen Furo\)](https://open.spotify.com/album/2KswSBnrDMyFDZtrHSvWTt) | 2:34 |
 | 36 | [demolición](https://open.spotify.com/track/61FPKErHn6wh4eGYe9FGTk) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [demolición](https://open.spotify.com/album/3RA47b2VZ2mAGYpVBFgaDb) | 2:46 |
 | 37 | [OJITOS ROJOS](https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [OJITOS ROJOS](https://open.spotify.com/album/38An6jNp5N2fbq5yPj1bcu) | 2:19 |
 | 38 | [MARADONA](https://open.spotify.com/track/4ws2eYzKkordX3Z25QYccf) | [Madk!d](https://open.spotify.com/artist/3pBHKIi7Urdn6Ap0aNpkoA), [Besako](https://open.spotify.com/artist/3ZGvIbWdW7LeMEQMI8QACa), [Polanskyy](https://open.spotify.com/artist/3WvxBLMPfbpHdwd2xmI3nH) | [MARADONA](https://open.spotify.com/album/0YxovV64GpDNdx2vjBfyay) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Tristón Sin Tus Nudes](https://open.spotify.com/track/3htWcyLeeIMjQMmhZJMdKA) | [RedMoon](https://open.spotify.com/artist/0t2rb4QTiu2QwJNuOZlLJj) | [Tristón Sin Tus Nudes](https://open.spotify.com/album/6hx5KNnN9b6rogCdRypLuy) | 2:51 |
 | 50 | [ROCKY BALBOA](https://open.spotify.com/track/6WEpElvzPajwRynKPzUxsI) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f), [Poseck](https://open.spotify.com/artist/0dWyIaWqqzs3K3upRuw1rM) | [ROCKY BALBOA](https://open.spotify.com/album/6GIFcY9tGZaUg73aGBqjYU) | 2:18 |
 
-Snapshot ID: `MCxlNTcwMjVkYjdkMTQ3MTY4ZmU3NGUyZDI0MjY1MTI2ZTIzNzE3ZmMz`
+Snapshot ID: `MCxiYWI1NjBiNDM5MTk2ODJmZDYxZDM1ODNlMTMwYmE3MjUzMzVlMzM3`

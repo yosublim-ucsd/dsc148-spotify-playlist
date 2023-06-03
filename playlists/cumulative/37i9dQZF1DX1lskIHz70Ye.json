@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Longing For Some Sunshine",
+        "url": "https://open.spotify.com/album/0KPkh56c8ctM3Z6pcwMPpw"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192070,
+      "name": "Longing For Some Sunshine",
+      "url": "https://open.spotify.com/track/2th2s4TDymYISksJgJCyT4"
+    },
+    {
+      "album": {
         "name": "Lost Love Letters",
         "url": "https://open.spotify.com/album/1yGo5sPJUWA72PVkYPhHNo"
       },

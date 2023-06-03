@@ -2,12 +2,13 @@
 
 ### [unleashed](https://open.spotify.com/playlist/37i9dQZF1DXdJa941ExayM)
 
-> maybe it's punk, maybe it's not\. Cover: 100 gecs
+> maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-222 songs - 11 hr 28 min
+224 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-06-02 |  |
 | [2 MUCH](https://open.spotify.com/track/5rStXNNkYIN1GMq8OIWrOy) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [2 MUCH](https://open.spotify.com/album/6Y76D62j01Kux6tcG60yyR) | 2:12 | 2021-12-20 | 2022-02-16 |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2022-01-21 | 2022-11-18 |
 | [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 | 2022-08-11 |  |
@@ -118,7 +119,7 @@
 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 | 2022-08-25 | 2023-05-13 |
 | [In the Dark Times](https://open.spotify.com/track/0QI9LKldMD03gfU7U6pTQn) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [In the Dark Times](https://open.spotify.com/album/3Lfzg4awJ0ZonBsn8GChvG) | 3:16 | 2021-12-20 | 2022-07-29 |
 | [In the Dark Times](https://open.spotify.com/track/1uprgaMy777icaL9Jmir7X) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Extinction Ballads](https://open.spotify.com/album/5eKDVADjZz0v2FePmts8j7) | 3:16 | 2022-07-07 | 2022-08-26 |
-| [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 | 2023-02-17 |  |
+| [Inmyhead](https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Inmyhead](https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy) | 2:48 | 2023-02-17 | 2023-06-03 |
 | [It's Permanent](https://open.spotify.com/track/23q1TXvVESU4qh8GckHvM0) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:32 | 2022-09-29 | 2023-02-04 |
 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 | 2023-02-17 |  |
 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 | 2021-12-20 | 2022-10-14 |
@@ -166,7 +167,7 @@
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-12-20 | 2022-06-16 |
 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 | 2021-12-20 | 2023-02-17 |
 | [People](https://open.spotify.com/track/3ERlkLtr5K5C7VUqlDcNSR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:38 | 2022-08-28 |  |
-| [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-15 |  |
+| [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-15 | 2023-06-03 |
 | [Pizza](https://open.spotify.com/track/3a1Xbl2cvJIMSpU3oMf4Vq) | [Shybaby](https://open.spotify.com/artist/6yKDvAzKT1QSl8ErqT0n0a) | [Pizza](https://open.spotify.com/album/6nVDvtVPgEqj1bqLKL8xB7) | 2:35 | 2021-12-20 | 2022-02-16 |
 | [PLANT THE FANGS](https://open.spotify.com/track/6AKsTbsS7RJ3oBBlmrkss4) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [PLANT THE FANGS](https://open.spotify.com/album/3xKtJyeWidxEkuZ1KC5AIl) | 2:05 | 2022-03-18 | 2022-08-26 |
 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 | 2022-01-21 | 2022-11-20 |
@@ -197,6 +198,7 @@
 | [Show Me How to Live Again](https://open.spotify.com/track/47P6jUCBMMFfwe0evjXADx) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Show Me How to Live Again](https://open.spotify.com/album/4COC6ERKXeFhmuMgyL2xQO) | 3:31 | 2021-12-20 | 2022-11-27 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-07-29 |
 | [Silly Boy](https://open.spotify.com/track/6dVCwIlxXWjyOumob05IPQ) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [MEN](https://open.spotify.com/album/4g0eoSt8b8hsXudzxwhbV1) | 3:18 | 2022-07-07 |  |
+| [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 | 2023-06-02 |  |
 | [So You Don't Get In Trouble](https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu) | [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [So You Don't Get In Trouble](https://open.spotify.com/album/6lFhQlG8PC9byMDPccFNW6) | 3:06 | 2021-12-20 | 2022-11-18 |
 | [SOBER](https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [SOBER](https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn) | 2:33 | 2022-08-05 | 2022-12-09 |
 | [something about the sky](https://open.spotify.com/track/5iKPJOA5c2wfaxoAIgHEIq) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [something about the sky](https://open.spotify.com/album/06mHXwletIsI39HtTIfuQO) | 3:36 | 2022-08-05 | 2023-02-17 |

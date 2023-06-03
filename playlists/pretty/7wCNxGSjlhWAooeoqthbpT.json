@@ -6,8 +6,24 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjE0MCxjOTQwMjM0NzM2OTBmNmRlMjMyZjhiZDFlZDJkN2I5ZDBmMWIzMjdj",
+  "snapshot_id": "MjE1Myw1NmE0ZTg5NzEwZTZlMjRmMWRjZDIxZmNjZGFmYjM0YTdlZDJiNjdh",
   "tracks": [
+    {
+      "added_at": "2023-06-02 15:58:15",
+      "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
     {
       "added_at": "2023-05-19 15:13:55",
       "album": {
@@ -151,22 +167,6 @@
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
-      "added_at": "2023-05-12 15:40:37",
-      "album": {
-        "name": "fund$",
-        "url": "https://open.spotify.com/album/2ijUGC3jwcZO6lNLDdEcUR"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "fund$",
-      "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
     },
     {
       "added_at": "2023-04-28 04:30:27",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2023-03-31 14:44:36",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/2jBKKyyYCY4OawmOGNJbsq"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/63nPz8Y0oPCvGDcmDdLs9Z"
-    },
-    {
       "added_at": "2022-08-26 13:44:59",
       "album": {
         "name": "GOD DID",
@@ -577,6 +561,22 @@
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
     },
     {
+      "added_at": "2023-06-02 15:58:30",
+      "album": {
+        "name": "No Boys Allowed",
+        "url": "https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS"
+      },
+      "artists": [
+        {
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
+        }
+      ],
+      "duration_ms": 178531,
+      "name": "No Boys Allowed",
+      "url": "https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe"
+    },
+    {
       "added_at": "2022-10-21 14:47:09",
       "album": {
         "name": "Sex Symbol",
@@ -627,22 +627,6 @@
       "duration_ms": 117543,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
-    },
-    {
-      "added_at": "2022-10-14 12:53:51",
-      "album": {
-        "name": "Showed Me (How I Fell In Love With You)",
-        "url": "https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 195845,
-      "name": "Showed Me (How I Fell In Love With You)",
-      "url": "https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf"
     },
     {
       "added_at": "2022-11-18 15:27:05",
@@ -1065,30 +1049,26 @@
       "url": "https://open.spotify.com/track/5jKlavWDPp4oEjvBx0VBMa"
     },
     {
-      "added_at": "2022-04-22 13:12:13",
+      "added_at": "2023-06-02 15:27:21",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/4v85yfAxKBBY9xjOLnJocg"
+        "name": "Neck of the Woods",
+        "url": "https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI"
       },
       "artists": [
         {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "Yoshi Flower",
-          "url": "https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il"
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
         }
       ],
-      "duration_ms": 129056,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/1lHPNdcjlgNFfuc9pYvwGi"
+      "duration_ms": 129570,
+      "name": "Neck of the Woods",
+      "url": "https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2"
     },
     {
-      "added_at": "2023-05-19 15:14:26",
+      "added_at": "2023-06-02 15:27:29",
       "album": {
-        "name": "Flamerz 6",
-        "url": "https://open.spotify.com/album/0REes2g3elezmkW6DcvXNT"
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/7h8LaxuFKKjRP5ur4wL4YC"
       },
       "artists": [
         {
@@ -1096,9 +1076,25 @@
           "url": "https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0"
         }
       ],
-      "duration_ms": 150097,
-      "name": "Flamerz 6",
-      "url": "https://open.spotify.com/track/4zhXoppw3anp4mmA9UuHKQ"
+      "duration_ms": 135197,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/4FOHCHOhzKVbouBJjE21By"
+    },
+    {
+      "added_at": "2023-06-02 15:58:43",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6er37pHuc7Y1AWtwJXwc8l"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 169366,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4CAX5XgZuPCQHXLcZUSQWb"
     }
   ],
   "unique_name": "EPIC VIBES",

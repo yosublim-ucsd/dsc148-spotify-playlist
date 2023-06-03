@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-732 songs - 1 day 17 hr 52 min
+733 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
 | [gozennreiji、gatasunokutsuha](https://open.spotify.com/track/2O3MN7anJ1TeBOTztMJ2mV) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [soukutomaerchensanka](https://open.spotify.com/album/4uXZxB5lmd7cTTaECdLZ3l) | 4:18 | 2022-10-04 | 2022-10-12 |
 | [Grumpy](https://open.spotify.com/track/0PdzZmwowBtH83VnVP2Q3C) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif) | [Grumpy](https://open.spotify.com/album/3Ro8wDSqxyxEOluacB5ZyG) | 2:38 | 2022-06-09 | 2022-07-22 |
-| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-27 | 2023-05-10 |
+| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-27 |  |
 | [Haikei Kamisama Hotokesama](https://open.spotify.com/track/6RTveHUksJwYeVJTwgteeh) | [stellafia](https://open.spotify.com/artist/4SiWD9hBt7DwgaxAfdbIZi) | [Haikei Kamisama Hotokesama](https://open.spotify.com/album/4yg3Bc5M9zHqzTBkYeEQWy) | 2:58 | 2022-09-20 | 2022-09-28 |
 | [Hanabie Ressha](https://open.spotify.com/track/5uYMEDfnSCe3wQXaiZTyVC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [Hanabie Ressha](https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep) | 3:43 | 2022-06-09 | 2022-07-21 |
 | [Happiness](https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw) | [Nano](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Happiness](https://open.spotify.com/album/3JMDEQxkO3m9utSvlcn8hl) | 3:47 | 2022-06-09 | 2022-06-13 |
@@ -387,7 +387,8 @@
 | [シュガーロス](https://open.spotify.com/track/1BIg3o88H8OSPkQuEY4F1v) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [シュガーロス](https://open.spotify.com/album/6mh1S2u14AIxqfUvIha9Jj) | 3:20 | 2022-06-21 | 2022-07-25 |
 | [シューティングスター](https://open.spotify.com/track/4ZBlNa1XnHrawhS2dTf2Qq) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [朝昼晩](https://open.spotify.com/album/6FbpxhT8gawpWlZXWPjHJJ) | 3:56 | 2022-07-04 | 2022-07-08 |
 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 | 2022-07-28 | 2022-09-15 |
-| [シンフォニア](https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G) | 3:32 | 2023-06-01 |  |
+| [シンフォニア](https://open.spotify.com/track/4BI7QHY481QCAYgLemJxNh) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/3zyEtqwolzpnKjEOvkAt0G) | 3:32 | 2023-06-01 | 2023-06-03 |
+| [シンフォニア](https://open.spotify.com/track/7jZ9GZQnHTNn4kySCCNbQd) | [Keichan](https://open.spotify.com/artist/63sjExP5Hu9osGe05tfgTG) | [シンフォニア](https://open.spotify.com/album/6vubk9sWvB3vEo7As5hSQt) | 3:32 | 2023-06-01 |  |
 | [シン・タンタカタンタンタンタンメン](https://open.spotify.com/track/7jNjBwv4dU3VuP6a1TKk4A) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [シン・タンタカタンタンタンタンメン](https://open.spotify.com/album/7BQxLXf2g9sv9GGLjB7hCY) | 4:00 | 2022-10-04 | 2022-10-19 |
 | [シーサイド](https://open.spotify.com/track/6mpRgbaT1HC5UwbI3WEAzx) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シーサイド](https://open.spotify.com/album/28e4ZmCCbxnMxzL2iHB0Q6) | 4:13 | 2022-06-14 | 2022-07-25 |
 | [ジオラマの中で](https://open.spotify.com/track/7uZQZfz2mRpAucZunWydQ8) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [ジオラマの中で](https://open.spotify.com/album/7pChWKuAstGML5aZocCViQ) | 3:44 | 2022-06-09 | 2022-07-11 |
@@ -559,7 +560,7 @@
 | [宇宙の季節](https://open.spotify.com/track/1GKx2QlBo2IeXK9ecJniQy) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [suis](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [宇宙の季節](https://open.spotify.com/album/6rKljFsKgX7F8PdLgnDkTs) | 4:22 | 2022-06-13 | 2022-07-27 |
 | [寡欲](https://open.spotify.com/track/4owtFEC5oxti5csYaDo2bP) | [shoose](https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634) | [寡欲](https://open.spotify.com/album/0xogwlxq2FQYlB8ZWavdvI) | 3:12 | 2022-11-15 | 2022-11-17 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-07-28 | 2023-03-10 |
-| [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2022-07-26 |  |
+| [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 | 2022-07-26 | 2023-06-03 |
 | [常夜灯](https://open.spotify.com/track/01G8DBO1vGToXaaDCw1V4J) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [常夜灯](https://open.spotify.com/album/2dGGoQkcQWq7w8tzzfyMw5) | 4:00 | 2022-06-16 | 2022-07-15 |
 | [弱虫のラブソング](https://open.spotify.com/track/0M7ZN4vDM3RsOTvb1G8H8z) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [弱虫のラブソング](https://open.spotify.com/album/2Os4vEqSNwNtX0xzsgDV6b) | 4:42 | 2022-07-28 | 2022-08-17 |
 | [彼此のコレカラ](https://open.spotify.com/track/0RZ0eeWpnMBcH0MVKIqTsx) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [彼此のコレカラ](https://open.spotify.com/album/69P9sIpAVY3mcUrzhwRKTX) | 2:33 | 2022-08-25 | 2022-09-07 |

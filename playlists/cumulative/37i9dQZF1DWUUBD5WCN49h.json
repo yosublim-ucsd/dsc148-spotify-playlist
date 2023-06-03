@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL?si=cWR_tC2BQmWNvhPwHwyT5w\"> Rebecca Garton</a>  and <a href=\"https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo?si=l0hmhiOZQpiwKspg3SkMWQ\"> Tay Iwar</a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP?si=B9TKamF1R4W9XvEafD-jtg\"> Darkua</a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "All Over You / Mon B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140246,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168626,
       "name": "BBBBBB",
       "url": "https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg"
@@ -1906,6 +1924,24 @@
       "duration_ms": 165957,
       "name": "Dunia",
       "url": "https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0FvnSxzhdYUeHwOHCnC5H1"
+      },
+      "artists": [
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184519,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0OYjR9VR2c7ZTRdW58nTtl"
     },
     {
       "album": {
@@ -3641,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "It Ain't Right",
+        "url": "https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225884,
+      "name": "It AIn't Right",
+      "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
+    },
+    {
+      "album": {
         "name": "Iyanu (Twenty Somethin')",
         "url": "https://open.spotify.com/album/4cwdioZioTp5WHSmuyxSZS"
       },
@@ -3704,6 +3762,24 @@
       "duration_ms": 149052,
       "name": "Jam One Kele",
       "url": "https://open.spotify.com/track/76QO1kpcj4a2loIWPT3oCn"
+    },
+    {
+      "album": {
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
     },
     {
       "album": {
@@ -3946,7 +4022,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 118125,
       "name": "Lala",
       "url": "https://open.spotify.com/track/0Zh0FsYoflsqI4ac7JwXCh"
@@ -3986,7 +4062,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 156911,
       "name": "Lean In (feat. Bayanni)",
       "url": "https://open.spotify.com/track/6qn6p5ew4CpkxwiWfcapeO"
@@ -4698,7 +4774,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 219428,
       "name": "MOM",
       "url": "https://open.spotify.com/track/5nXYYx38giBas42ZjmVprZ"
@@ -5522,7 +5598,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 163424,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7yrTTV7W5i5hIg6u0rcqQ7"
@@ -6729,6 +6805,54 @@
     },
     {
       "album": {
+        "name": "So Fine",
+        "url": "https://open.spotify.com/album/5p4aJphQqkNIS4HbfALRrE"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        },
+        {
+          "name": "Duduboy",
+          "url": "https://open.spotify.com/artist/5mN4AXzaSe1YwGAzqPTL8k"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176590,
+      "name": "So Fine",
+      "url": "https://open.spotify.com/track/0waLu5oG6nSUBfNHlkYMNH"
+    },
+    {
+      "album": {
+        "name": "Soak Garri",
+        "url": "https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211807,
+      "name": "Soak Garri",
+      "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6"
       },
@@ -7193,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "Take Your Time",
+        "url": "https://open.spotify.com/album/5AXqGvPrSeYKAYXSbQ15ba"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150649,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/15YMhMgR7BxWdipR8Y33Oi"
+    },
+    {
+      "album": {
         "name": "The End (Nicotine)",
         "url": "https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS"
       },
@@ -7414,7 +7556,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224855,
       "name": "Time Heals",
       "url": "https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp"
@@ -7552,7 +7694,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 131500,
       "name": "TWIST N TURN",
       "url": "https://open.spotify.com/track/59HlYXhIJ5iIfLyGBaV2GO"
@@ -7822,6 +7964,28 @@
       "duration_ms": 267000,
       "name": "What you wanna do?",
       "url": "https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc"
+    },
+    {
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/307CWBEY8Lz0bV7xmqLWew"
+      },
+      "artists": [
+        {
+          "name": "Jamopyper",
+          "url": "https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155692,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2EB8dy6UjaMrNofI6fe0Ml"
     },
     {
       "album": {
@@ -8122,7 +8286,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231111,
       "name": "\u0218\u00ecj\u00fa",
       "url": "https://open.spotify.com/track/1AdtVUOSzAP3gqVfPFwaAF"

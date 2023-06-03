@@ -6,29 +6,49 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwODQ1NjAsMDAwMDAwMDA5MjA4NzQ1MTM2NzNiMTEyZTFkZTUyMTJiZGYyZjBjNg==",
+  "snapshot_id": "MjgwOTQ2NDAsMDAwMDAwMDA1OGRkYTUwODY3ZTI4MWM4ODZiOGUxMjMwODJkZjVjOA==",
   "tracks": [
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Wintry Heart",
-        "url": "https://open.spotify.com/album/6g9lJt5A576k7xT7AGKvKX"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
       },
       "artists": [
         {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Wintry Heart",
-      "url": "https://open.spotify.com/track/4MNqPm5ue0peQNiPlWpbG6"
+      "duration_ms": 167993,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/7hIAlVLwTfcGEcs2Pw3MDp"
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2530kifFXpe5SJyGbTZh0z"
       },
       "artists": [
         {
@@ -48,12 +68,440 @@
           "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
         }
       ],
-      "duration_ms": 93658,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4OjGNDHkFYFT8Zw5P62epQ"
+      "duration_ms": 112000,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/6jOmhvPUOapM0RuTaDUqg9"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "I Got Mine (Live at Montreux 2007)",
+        "url": "https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 284733,
+      "name": "I Got Mine - Live at Montreux, 2007",
+      "url": "https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Headline",
+        "url": "https://open.spotify.com/album/7zhz4943vUrU5JiUWVPaOK"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "duration_ms": 248739,
+      "name": "Headline",
+      "url": "https://open.spotify.com/track/1EZAkgTt2ByrrgQRbNV2KY"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Shadow Kingdom",
+        "url": "https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 195386,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3jDuXdGHAvCFOuCTbwYUhw"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Atomic Punk",
+        "url": "https://open.spotify.com/album/3MkqtonMItMQnix7BxI3U1"
+      },
+      "artists": [
+        {
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
+        }
+      ],
+      "duration_ms": 180190,
+      "name": "Atomic Punk",
+      "url": "https://open.spotify.com/track/1s9XjQrapQl5JhEjVhAKXS"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Louie Louie",
+        "url": "https://open.spotify.com/album/1AoiNcmFsAfTp0UiPne3JF"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 274014,
+      "name": "Wild Love - 2023 Mix",
+      "url": "https://open.spotify.com/track/7hwFJ4XTiVOrk12z7SvQUT"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Dawn Of The Dolls (2023 Re-Mastered)",
+        "url": "https://open.spotify.com/album/6YsVCbi2JvM9GogyW0EweG"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 216111,
+      "name": "Bad Girl (2023 Re-Mastered) [Studio Demo]",
+      "url": "https://open.spotify.com/track/0jSs5bQusVHqLVM6WovUyo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Dasilexo",
+        "url": "https://open.spotify.com/album/3UGDbUPFM541dQGqgv9Oln"
+      },
+      "artists": [
+        {
+          "name": "Le Fruto",
+          "url": "https://open.spotify.com/artist/6El3qd8ve5uZ2VQAoFFqRF"
+        },
+        {
+          "name": "Vitami",
+          "url": "https://open.spotify.com/artist/31UlQ2ue3AUFaSlAzo94Gv"
+        }
+      ],
+      "duration_ms": 198429,
+      "name": "Dasilexo",
+      "url": "https://open.spotify.com/track/1Pr8CW2Gn8ixb0uekRufqe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Childhood Eyes",
+        "url": "https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 193801,
+      "name": "Childhood Eyes",
+      "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Open The Door, See What You Find",
+        "url": "https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 247590,
+      "name": "Open The Door, See What You Find",
+      "url": "https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3C1pdtmQ4LW6Z5ewA13OAy"
+      },
+      "artists": [
+        {
+          "name": "ADIONE",
+          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 221162,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/3q22GRJJcFSn3DGQmFG0xs"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - The Darkness Tour '78",
+        "url": "https://open.spotify.com/album/09rNh6weVS43LVc4sRt5WV"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Badlands - Live at Capitol Theatre, Passaic, NJ - Sep. 19, 1978",
+      "url": "https://open.spotify.com/track/3ATwNopieLhHvem7FEW7C4"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1QmznZxsQ9lUSEYO8KK58j"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4NH496Sf2JEOvDRxEuIBc4"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "OTHER SIDE OF THE RAINBOW",
+        "url": "https://open.spotify.com/album/5QgCivRhYEnEScaCdoJyfr"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "OTHER SIDE OF THE RAINBOW",
+      "url": "https://open.spotify.com/track/5GPGVzJh1RNdR238j9FxZh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Therapy session",
+        "url": "https://open.spotify.com/album/2oKPQSu3BD4MU19aIU2KWo"
+      },
+      "artists": [
+        {
+          "name": "Dr3ylo",
+          "url": "https://open.spotify.com/artist/6gKwpQmP30p0vTySUAaHRd"
+        },
+        {
+          "name": "Robin Gibb",
+          "url": "https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV"
+        },
+        {
+          "name": "Kylee Russell",
+          "url": "https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1"
+        },
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Therapy session",
+      "url": "https://open.spotify.com/track/5UMGRcEzN4UPpcb9AEy4zb"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Percibal & The Wawis",
+        "url": "https://open.spotify.com/album/0sZYkh5lLv5aEeAMb4aPCE"
+      },
+      "artists": [
+        {
+          "name": "Mente Sabia Cr\u00fa",
+          "url": "https://open.spotify.com/artist/4BVarZvmLXaXGwBvjt8HEZ"
+        },
+        {
+          "name": "Frainstrumentos",
+          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
+        }
+      ],
+      "duration_ms": 323669,
+      "name": "Te Digo y Te Dedico",
+      "url": "https://open.spotify.com/track/5V81LsV9Zq5BHc9owCvAos"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Never Dawn",
+        "url": "https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 289346,
+      "name": "Never Dawn",
+      "url": "https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Live Evil (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2eWjV3Vrs1BYJyJtvOdRhy"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 275687,
+      "name": "Neon Knights (Live in Seattle, April 24, 1982) - 2023 Remix",
+      "url": "https://open.spotify.com/track/7F4pLdbUWrLWUj0XJFHump"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Walking in Memphis (Shut Up and Dance Vocal Mix) [2023 Remaster]",
+        "url": "https://open.spotify.com/album/503dfB16uM3a4z4VSC5CWx"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Shut Up and Dance",
+          "url": "https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej"
+        }
+      ],
+      "duration_ms": 307133,
+      "name": "Walking in Memphis - (Shut Up and Dance Vocal Mix) [2023 Remaster]",
+      "url": "https://open.spotify.com/track/1WGBQmC9tipRx7WDeQbX2f"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Wintry Heart",
+        "url": "https://open.spotify.com/album/6g9lJt5A576k7xT7AGKvKX"
+      },
+      "artists": [
+        {
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Wintry Heart",
+      "url": "https://open.spotify.com/track/4MNqPm5ue0peQNiPlWpbG6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Need You Tonight (Phil St George Remix)",
+        "url": "https://open.spotify.com/album/6KPTKsiPAtvtcjMnID2a7T"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Phil St George",
+          "url": "https://open.spotify.com/artist/3QgA3lacu4NXEQCSAZaOIy"
+        }
+      ],
+      "duration_ms": 339840,
+      "name": "Need You Tonight - Phil St George Remix",
+      "url": "https://open.spotify.com/track/4gDsp6eChtck1xX6FB8bx0"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "\u00bfD\u00f3nde Se Llora Cuando Se Llora?",
         "url": "https://open.spotify.com/album/4Ofgas2jQXJWocHwRyqrcS"
@@ -69,7 +517,7 @@
       "url": "https://open.spotify.com/track/3gOLaMEE4RnH5AQrzHwCZB"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6JccE4SXQxUFv7R722bPEA"
@@ -85,7 +533,7 @@
       "url": "https://open.spotify.com/track/3hUYsNBRDXV7QZTzqzUGpu"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Diamante Negro (Live)",
         "url": "https://open.spotify.com/album/0Dyx1CV3jhZz28ceBmEMUZ"
@@ -101,7 +549,7 @@
       "url": "https://open.spotify.com/track/0EaP1HbeQjVKsz7cnvwsC8"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Calm Down (A Little Bit Calmer Now)",
         "url": "https://open.spotify.com/album/3fDkswLzRGVWKXR8Mxkn3t"
@@ -117,7 +565,7 @@
       "url": "https://open.spotify.com/track/1ubpxD40x6D9eI5jFqq8qq"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/19O46pvAPG1Xg6fxAuSU5F"
@@ -137,7 +585,7 @@
       "url": "https://open.spotify.com/track/71koLb7kowtfrjvJF00tTb"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Echoes (Seven24 & Rediit Acoustic Remix)",
         "url": "https://open.spotify.com/album/1uUbnvnV8u3lgN6VjymTaY"
@@ -173,23 +621,7 @@
       "url": "https://open.spotify.com/track/0knc2hfZ0QwmImYMOV3tW6"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Devil In Disguise",
-        "url": "https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 118618,
-      "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Infinito Misterio",
         "url": "https://open.spotify.com/album/5Oe4KH7AnZvz74LcJaLQvE"
@@ -209,7 +641,7 @@
       "url": "https://open.spotify.com/track/04UkRZqa3C5rGBXVIdOVba"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Barcarolle. Piano Evocations from the Golden Age",
         "url": "https://open.spotify.com/album/73EHQJ9YvvxTkF9oRnv0QF"
@@ -233,7 +665,7 @@
       "url": "https://open.spotify.com/track/1IFsfMi8wkRrNJgRmg3JLE"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Somos el presente",
         "url": "https://open.spotify.com/album/7pKC2QqGYbj6DskPv4wyE2"
@@ -253,23 +685,7 @@
       "url": "https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0DaqN9VLqYWDmVafEaNyWl"
@@ -285,7 +701,7 @@
       "url": "https://open.spotify.com/track/5UKLNmBQ7gAbNqyfFs0kOP"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
@@ -301,7 +717,7 @@
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Drastic Symphonies",
         "url": "https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR"
@@ -329,7 +745,7 @@
       "url": "https://open.spotify.com/track/0VdBxLmYD7dN7SOZZ4TEoO"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Mirror To The Sky",
         "url": "https://open.spotify.com/album/260tAYjC3uOU9Xdrslckje"
@@ -345,7 +761,7 @@
       "url": "https://open.spotify.com/track/7ss9jndV1RjZKgD5r1pczG"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Knockin' On Heaven's Door (Live at The Royal Albert Hall)",
         "url": "https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7"
@@ -361,7 +777,7 @@
       "url": "https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Take The Highway (Live)",
         "url": "https://open.spotify.com/album/1zODXAvlJanhqV9WNIQrdV"
@@ -372,12 +788,12 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 273559,
-      "name": "Warning Sign - Live 1978",
-      "url": "https://open.spotify.com/track/1aA6w496GtasaDXEFuU2sr"
+      "duration_ms": 250112,
+      "name": "The Girls Want To Be With The Girls - Live 1978",
+      "url": "https://open.spotify.com/track/0oTx1etU4WlbT99FiZ1yqr"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Outland (Live 1986)",
         "url": "https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR"
@@ -388,12 +804,12 @@
           "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 512875,
-      "name": "Stone In Love/Keep On Runnin\ufffd - Live 1981",
-      "url": "https://open.spotify.com/track/7pIq2A7MKObHg0Aq5RADvc"
+      "duration_ms": 292742,
+      "name": "Be Good To Yourself - Live 1986",
+      "url": "https://open.spotify.com/track/029TCbrJdTPfnSbzqheTHy"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
@@ -409,7 +825,7 @@
       "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Anomaly / Drift",
         "url": "https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A"
@@ -425,7 +841,7 @@
       "url": "https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Sleep, and I Will Sing",
         "url": "https://open.spotify.com/album/1Uzm2LM1hoellDYBaTgL0p"
@@ -441,7 +857,7 @@
       "url": "https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "All Nights, All Days",
         "url": "https://open.spotify.com/album/1sG6knJH4lEWNxvJ5A3NZi"
@@ -457,7 +873,7 @@
       "url": "https://open.spotify.com/track/0hIYVHio9wHLYdBrqiHSsg"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Ni\u00f1x",
         "url": "https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4"
@@ -473,7 +889,7 @@
       "url": "https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
@@ -489,7 +905,7 @@
       "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Carteo",
         "url": "https://open.spotify.com/album/3tBKlMlb4v5omPj9jZfXjO"
@@ -513,7 +929,7 @@
       "url": "https://open.spotify.com/track/1TZhXgVbwVmPDFBTIhxkzH"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Weight Of The World (feat. We Came As Romans & Brand Of Sacrifice)",
         "url": "https://open.spotify.com/album/1SgOWPcWCm3QL1JxFvjSUY"
@@ -537,7 +953,7 @@
       "url": "https://open.spotify.com/track/3q9ZMDGbCBKQ7rfChHolXO"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
@@ -553,7 +969,7 @@
       "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Na' Es Pa' Siempre",
         "url": "https://open.spotify.com/album/3JSBb5G6v2CgUUdeD2Bm5Y"
@@ -569,7 +985,7 @@
       "url": "https://open.spotify.com/track/4af5d05U6nFtt6geyfcT1n"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
@@ -593,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "When Love Sucks (feat. Dido)",
         "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
@@ -613,7 +1029,7 @@
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Passenger (Jeff Parker Interpolation)",
         "url": "https://open.spotify.com/album/6RMdgUt2dLv3kTvoIfZNwK"
@@ -633,7 +1049,7 @@
       "url": "https://open.spotify.com/track/59HvDoNpqh1NrgRYo3kCkq"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Riders On The Storm",
         "url": "https://open.spotify.com/album/2cvwu3N5we9ShQ6xiU0LjX"
@@ -657,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5sMu4Fd9ToffxuHLQWMkGH"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Four Kinds of Horses (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/46ccwoyj78k8Ewopu2IbQN"
@@ -673,7 +1089,7 @@
       "url": "https://open.spotify.com/track/66TRWkNGr2krTV5MJMlGj7"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Cecilia (feat. Juan Luis Guerra)",
         "url": "https://open.spotify.com/album/3WfiftlzBXOAPkor0DdxeI"
@@ -693,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6hNviV6KGestCBC62F7oFY"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Cualquier Cosa Es Papel",
         "url": "https://open.spotify.com/album/0VW20XBrQ1Wsm6frdSOif9"
@@ -717,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6mGzZ8mMH16OKMDDDD2S5w"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "A Lo Humano, A Lo Divino",
         "url": "https://open.spotify.com/album/30FQh38Gx1Sl2l9C3Rv07N"
@@ -733,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6pQZ6v3WVO16zMdUxcVSi7"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Wires...And The Concept Of Breathing - Live at The Glasshouse",
         "url": "https://open.spotify.com/album/2EMn2sD1Qnf6iPRELL9CSA"
@@ -749,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0hAMrYf7OZCHokXW4velyX"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "What If There Were No Sides At All",
         "url": "https://open.spotify.com/album/2Yw2nqYEgw2PHFpJfkxoYd"
@@ -765,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2yzFHrj9wQLkBtF87dwIHh"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Depraved Mind Murder",
         "url": "https://open.spotify.com/album/6sZY1rg4jVeL5lBDjD7e9P"
@@ -781,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1i9KWkqEOEA876V0J9V2D2"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Hare Hare",
         "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
@@ -797,23 +1213,7 @@
       "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "You Drive Me Nervous (Live at Mar Y Sol Pop Festival, Puerto Rico, April 2, 1972)",
         "url": "https://open.spotify.com/album/0oqKoXvVPiq0IQ2IGU3Ygj"
@@ -829,7 +1229,7 @@
       "url": "https://open.spotify.com/track/4oRoieR5RNcMBJOAfTbsXD"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Un:Sterblich: Our Souls Will Never Die",
         "url": "https://open.spotify.com/album/0wHHO4fKWWmxHOoxqrYEKe"
@@ -845,23 +1245,7 @@
       "url": "https://open.spotify.com/track/6SpGa1uZ4gWZgZx1Jcf3SZ"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Let the Sun Come In",
-        "url": "https://open.spotify.com/album/17kNNfn5Ke37yZC0dtRk1g"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 233332,
-      "name": "Let the Sun Come In",
-      "url": "https://open.spotify.com/track/2uopLAXm05NAxUnjIZ3Lbl"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "To The Wolves",
         "url": "https://open.spotify.com/album/63bozpf8jMR6RlP49RtQPt"
@@ -881,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0cFjCCxy7O6DOaefPsItCq"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Kismet",
         "url": "https://open.spotify.com/album/656UNZqNUoKoELeJlDnwjB"
@@ -897,7 +1281,31 @@
       "url": "https://open.spotify.com/track/0wArdkLtaDwBRJoOAz6DR4"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "The Golden Trail",
+        "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "duration_ms": 280903,
+      "name": "The Golden Trail",
+      "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "I Can't Take It",
         "url": "https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT"
@@ -921,23 +1329,7 @@
       "url": "https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Migajas",
-        "url": "https://open.spotify.com/album/78bbs8PS1CzwdnE5K8niS3"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 165447,
-      "name": "Migajas",
-      "url": "https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "I Wanna Dance with Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/1fY9pAx0sUxfnkVAVU7bn0"
@@ -953,7 +1345,7 @@
       "url": "https://open.spotify.com/track/3uvxNyFioZb9lFJxTTq2eB"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
@@ -973,27 +1365,7 @@
       "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Council Skies (The Reflex Revision)",
-        "url": "https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        },
-        {
-          "name": "The Reflex",
-          "url": "https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA"
-        }
-      ],
-      "duration_ms": 325549,
-      "name": "Council Skies - The Reflex Revision",
-      "url": "https://open.spotify.com/track/50aTa1VLDpcXXmAZdBwAlc"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
@@ -1009,7 +1381,7 @@
       "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Kreel's Magic Staff",
         "url": "https://open.spotify.com/album/1HR1SvaD6gFTZMvJWsQIsm"
@@ -1025,7 +1397,7 @@
       "url": "https://open.spotify.com/track/6eWhmfOxOPClp7IZO7LeOl"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Golden Years (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
@@ -1045,7 +1417,7 @@
       "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Everything Destroys You",
         "url": "https://open.spotify.com/album/5HxJGedU8hLULalg1ktLgb"
@@ -1061,7 +1433,7 @@
       "url": "https://open.spotify.com/track/02WsLeepRUELUmfxC31QTc"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "ATUM",
         "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
@@ -1077,7 +1449,7 @@
       "url": "https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Ghosts Again (Remixes)",
         "url": "https://open.spotify.com/album/24fKIcwvP22B7F4q96jL12"
@@ -1097,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "My Light",
         "url": "https://open.spotify.com/album/6irtWp3Qur19xXsLJ1I1oa"
@@ -1113,7 +1485,7 @@
       "url": "https://open.spotify.com/track/1p2NZRtAhMVfdgJamzM3RC"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Rarezas (En Vivo)",
         "url": "https://open.spotify.com/album/2QyR6wZhkdupylpFigFgWB"
@@ -1129,7 +1501,7 @@
       "url": "https://open.spotify.com/track/069BSvEsxvbPc8WBxfiOjz"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "The Wretched; The Ruinous",
         "url": "https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34"
@@ -1145,7 +1517,7 @@
       "url": "https://open.spotify.com/track/08T53CS6m0R54NMDCwTIcF"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "More Like A Crash",
         "url": "https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0"
@@ -1161,7 +1533,7 @@
       "url": "https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Color Decay (Deluxe)",
         "url": "https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf"
@@ -1177,7 +1549,7 @@
       "url": "https://open.spotify.com/track/1iwu5kAyMMY8QAuITmsItP"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "\u00bfCu\u00e1les Fronteras?",
         "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
@@ -1197,7 +1569,7 @@
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"

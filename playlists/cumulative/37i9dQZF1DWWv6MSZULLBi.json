@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Leith Ross",
+  "description": "A laid-back trip in the folk scene. Cover: Half Moon Run",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246454,
+      "name": "9beat",
+      "url": "https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0"
+    },
+    {
+      "album": {
         "name": "A Different Kind of Light",
         "url": "https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 317106,
       "name": "A Little Bit of Everything - Spotify Singles",
       "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "album": {
+        "name": "A Little Older",
+        "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182452,
+      "name": "A Little Older",
+      "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
     },
     {
       "album": {
@@ -196,7 +232,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228690,
       "name": "Alco",
       "url": "https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po"
@@ -813,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Better Somehow",
+        "url": "https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Better Somehow",
+      "url": "https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX"
+    },
+    {
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/7dHICPrlwTqefBtmCIkwpv"
       },
@@ -932,7 +986,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 232440,
       "name": "Broken Heart of Mine",
       "url": "https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X"
@@ -1350,6 +1404,24 @@
       "duration_ms": 182083,
       "name": "Concussion",
       "url": "https://open.spotify.com/track/44QZDutuB7stlBUk7fH5O3"
+    },
+    {
+      "album": {
+        "name": "condition of us",
+        "url": "https://open.spotify.com/album/4bGPhjwqWjUfkR0ZcgCftm"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "condition of us",
+      "url": "https://open.spotify.com/track/7vAY7UDYCEdHORizieZ39t"
     },
     {
       "album": {
@@ -1788,7 +1860,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231113,
       "name": "Don\u2019t Listen to Me",
       "url": "https://open.spotify.com/track/3p4o3npb3XvHNtdNNfXdYO"
@@ -2140,7 +2212,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 180976,
       "name": "Everblue",
       "url": "https://open.spotify.com/track/6WTOYQ99emHjz4LsHQps8e"
@@ -2671,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Flower Heart",
+        "url": "https://open.spotify.com/album/4Kcpt100arj8ncUgyZmt4m"
+      },
+      "artists": [
+        {
+          "name": "Genesis Ritchot",
+          "url": "https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm"
+        },
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Flower Heart",
+      "url": "https://open.spotify.com/track/4HeLzsRQB3lhDMfWXl1QxB"
+    },
+    {
+      "album": {
         "name": "flowers in the garden",
         "url": "https://open.spotify.com/album/1KQvHodSIwDWG6R2Oevl5L"
       },
@@ -3133,6 +3227,28 @@
     },
     {
       "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "album": {
         "name": "That Was You and Me",
         "url": "https://open.spotify.com/album/02erdeh5796mUBRQLIi6qH"
       },
@@ -3412,7 +3528,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 181111,
       "name": "I Believe in Something More",
       "url": "https://open.spotify.com/track/7eOYNPtD0tq3Q0JJ7JxwjQ"
@@ -3502,7 +3618,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 292293,
       "name": "I Left the Light on",
       "url": "https://open.spotify.com/track/2NHlgfB2HhNFBylwwMeRow"
@@ -4503,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "Long Overdue",
+        "url": "https://open.spotify.com/album/0BpaWD72gyBDM6AS0jaVoi"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242929,
+      "name": "Long Overdue",
+      "url": "https://open.spotify.com/track/4whkOVWt0QpzecWHMoxEax"
+    },
+    {
+      "album": {
         "name": "Look At Us Now (Honeycomb)",
         "url": "https://open.spotify.com/album/3vNpYNX7g5Mdljl65tKM30"
       },
@@ -4550,10 +4684,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 215280,
       "name": "Looking For Love",
       "url": "https://open.spotify.com/track/4HaVJ5EePm2ABB6CP2Ff5X"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Looking For Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
     },
     {
       "album": {
@@ -4658,7 +4810,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178041,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W"
@@ -4680,6 +4832,24 @@
       "duration_ms": 191413,
       "name": "Make No Mistakes",
       "url": "https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5"
+    },
+    {
+      "album": {
+        "name": "Wide Open Light",
+        "url": "https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164873,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB"
     },
     {
       "album": {
@@ -5422,7 +5592,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158400,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/0YdXvFAUApwJXIoIeizVBJ"
@@ -6595,6 +6765,24 @@
     },
     {
       "album": {
+        "name": "Spring Bug",
+        "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207928,
+      "name": "Spring Bug",
+      "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/7LuB2Eyyz5Oj6RpX0fLinQ"
       },
@@ -6798,7 +6986,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179666,
       "name": "Summertime Whiskey",
       "url": "https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ"
@@ -7018,6 +7206,24 @@
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
+    },
+    {
+      "album": {
+        "name": "Ten Hands",
+        "url": "https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147121,
+      "name": "Ten Hands",
+      "url": "https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc"
     },
     {
       "album": {
@@ -7332,6 +7538,24 @@
       "duration_ms": 185917,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
+    },
+    {
+      "album": {
+        "name": "This",
+        "url": "https://open.spotify.com/album/5XVZrjXcbGgAtkyPGHF2Wv"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296678,
+      "name": "This",
+      "url": "https://open.spotify.com/track/21M73RYOXZw9QaI9u6b7bj"
     },
     {
       "album": {
@@ -8454,7 +8678,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 269800,
       "name": "Willow",
       "url": "https://open.spotify.com/track/4ERM0QdLgq9HvZ7zUsiimB"

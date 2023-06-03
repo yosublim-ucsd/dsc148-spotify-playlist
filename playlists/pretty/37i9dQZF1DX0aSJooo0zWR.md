@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,966 likes - 80 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,045 likes - 80 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 54 | [Be Happy](https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [Visions of the Emerald Beyond](https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo) | 3:32 |
 | 55 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
 | 56 | [Spacy Country](https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff) | [Uzeb](https://open.spotify.com/artist/4luPcLmS8skJAinfcNb2iU) | [Between The Lines](https://open.spotify.com/album/14GNP2QxNPG3DKBrUv3HqR) | 5:09 |
-| 57 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 |
-| 58 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 |
+| 57 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 |
+| 58 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 |
 | 59 | [Truth](https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp) | [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Space\-Time](https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W) | 4:35 |
-| 60 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
-| 61 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
+| 60 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
+| 61 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
 | 62 | [Seventh String](https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:05 |
 | 63 | [Catch Me If U Can](https://open.spotify.com/track/7v2fGPImOz4aefRJXXIJJ6) | [Vital Techtones](https://open.spotify.com/artist/5bTuLRDkYL8yx8uf7CIsk2) | [Vtt2](https://open.spotify.com/album/5VrlAIQBz86g1zANJKtR7T) | 4:24 |
 | 64 | [Escher Sketch \(A Tale Of Two Rhythms\)](https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Now You See It ..\. \(Now You Don't\)](https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo) | 5:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Big Bang](https://open.spotify.com/track/5D3qsYYQev3PM5I2e7spp5) | [Klaus Doldinger's Passport](https://open.spotify.com/artist/4EjjMTj801PRhn5aje8gsp) | [Garden Of Eden](https://open.spotify.com/album/3ftpM0sGdtCqJl0DnO8RJD) | 3:54 |
 | 80 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 |
 
-Snapshot ID: `MCw3NmFhYjI5M2RkNzVkOTEzMzQ1N2YzNjYwOTY0MzM2OWIyNTE0MjU5`
+Snapshot ID: `MCxlYzE3N2ZhZTIwMjQzNjZiMmViYzM4Yzk5ZGE0MGZhMjRiM2EyZmU5`

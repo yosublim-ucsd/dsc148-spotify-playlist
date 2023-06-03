@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:  <a href=\"https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd?si=twkGnBOtSiWqYBth0VFXtA\">Alex Zurdo</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=bvfKUp81R5a_TmF_aTXv5w\">Miel San Marcos</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2695,6 +2695,32 @@
     },
     {
       "album": {
+        "name": "El Rey Jud\u00edo",
+        "url": "https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333267,
+      "name": "El Rey Jud\u00edo",
+      "url": "https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p"
+    },
+    {
+      "album": {
         "name": "En \u00d3rbita",
         "url": "https://open.spotify.com/album/46HdJMhs9goXDs06f3AJQa"
       },
@@ -3672,7 +3698,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 492335,
       "name": "Hermoso Dios",
       "url": "https://open.spotify.com/track/0wFQSfzlcqszUHyMSvI3TM"
@@ -4723,6 +4749,36 @@
     },
     {
       "album": {
+        "name": "EVANGELIO (En Vivo)",
+        "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Luis Morales Jr.",
+          "url": "https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 722770,
+      "name": "Medley Evangelio (En Vivo)",
+      "url": "https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG"
+    },
+    {
+      "album": {
         "name": "Mi Alma Clama",
         "url": "https://open.spotify.com/album/5z2pRMl0mN3tQvJsZ1hbrI"
       },
@@ -5008,6 +5064,24 @@
       "duration_ms": 334008,
       "name": "Mil Veces (En vivo desde Buenos Aires, Argentina)",
       "url": "https://open.spotify.com/track/6qVUoKXaEBQVr89xakrUcD"
+    },
+    {
+      "album": {
+        "name": "Milagro de Amor",
+        "url": "https://open.spotify.com/album/4soGJLVgt9IQI5rT98ZxUa"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195584,
+      "name": "Milagro de Amor",
+      "url": "https://open.spotify.com/track/4FkwzleyGqcBmEqrFZ8RKz"
     },
     {
       "album": {
@@ -8210,7 +8284,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 285518,
       "name": "Una Canci\u00f3n para la Comuni\u00f3n",
       "url": "https://open.spotify.com/track/2EPDHHtdQS1Iz9owtiXdbH"
@@ -8600,7 +8674,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 323365,
       "name": "Yeshua el Sonido de Libertad",
       "url": "https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn"

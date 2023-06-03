@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Dezinho.
 
-490 songs - 1 day 0 hr 45 min
+492 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-05-12 |
 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 | 2022-10-06 | 2023-01-27 |
 | [Backseat](https://open.spotify.com/track/4VWadGkXMcUPstPbg8Oz08) | [juri](https://open.spotify.com/artist/5UttZDIowGofKYbbZqSx0O), [Guii](https://open.spotify.com/artist/0YCzur9vTCSmievDpR3s7h) | [Backseat](https://open.spotify.com/album/4qZrQDICBbssRq3oPEQ9OG) | 3:56 | 2023-02-28 | 2023-04-28 |
-| [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 | 2023-03-24 |  |
+| [BAD](https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [BAD](https://open.spotify.com/album/1rm8wxsO4JFwV3Qt4hVgtH) | 2:39 | 2023-03-24 | 2023-06-03 |
 | [BAD BOY](https://open.spotify.com/track/57zxovJPN372GQSUTTI9Zf) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [BAD BOY](https://open.spotify.com/album/4bPbsZ4Y2z5oeZQOyogVB7) | 1:59 | 2023-01-20 | 2023-04-07 |
 | [BAG](https://open.spotify.com/track/1RVx5RzVcALnTgLY8RbUnt) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC), [Qayin](https://open.spotify.com/artist/6A4P6OwLlEDzPMUKQguXRf) | [BAG](https://open.spotify.com/album/2PjQaJZ265qNLcFjYUWjJI) | 2:42 | 2022-08-04 | 2022-10-21 |
 | [Bagagem](https://open.spotify.com/track/1L0E92ZXvTuV4c22fe1eoi) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Ricardo Ribeiro](https://open.spotify.com/artist/3MBRBHfVbEyQB1FqByWR7B) | [Bagagem](https://open.spotify.com/album/4UzVhNv7CG3u4sxwF0bA7m) | 3:03 | 2023-04-13 |  |
@@ -216,6 +216,7 @@
 | [Jovem E Rico](https://open.spotify.com/track/4lhXJj93jtHdsGXM1NMlsg) | [PNG](https://open.spotify.com/artist/4NxktUavjn7CoMmpDZOZwq) | [Jovem E Rico](https://open.spotify.com/album/3eFagVVj302kiDTQd6Y60f) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Juro](https://open.spotify.com/track/7IZTC3jmalSs6n3hQM1FDo) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Juro](https://open.spotify.com/album/3d13DtxCQ3N2OFcVMaVd2J) | 2:54 | 2022-08-04 | 2022-09-21 |
 | [Juventus](https://open.spotify.com/track/1IPYFY0PNMUeSLNXM2vcnZ) | [Kaps](https://open.spotify.com/artist/3LHoFLdOjSILRX0fMvfrjT) | [Juventus](https://open.spotify.com/album/5GN0awoQzVrwJBL0L6yxIz) | 2:31 | 2022-07-07 | 2022-08-12 |
+| [Karma](https://open.spotify.com/track/4NVkR10qkADrFrQnQ23l2c) | [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Karma](https://open.spotify.com/album/0uAosRh2GbvWojGO1DMq5d) | 2:33 | 2023-06-01 |  |
 | [Key](https://open.spotify.com/track/1LvMj6CbSF6wDcbtnfCMxF) | [SAUCYPEPPE](https://open.spotify.com/artist/5XACdFNoLC08t2JRJqmykh), [Yunk Kng](https://open.spotify.com/artist/1O7qT6ezknwcPSojD7gwVU) | [Key](https://open.spotify.com/album/7FjnrZS5QUq7EeHeyj0ZVy) | 2:32 | 2022-10-06 | 2022-10-28 |
 | [Kilates](https://open.spotify.com/track/50aFCOTvcZvsRYyVlomizt) | [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Kilates](https://open.spotify.com/album/6ooY2zQ2dlYcmdjPzD85cp) | 3:22 | 2023-06-01 |  |
 | [KIWI](https://open.spotify.com/track/6Ccwm792CDDxGsaCXnzDP6) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [KIWI](https://open.spotify.com/album/6vpxyaBE5Fbt26igJAvxt3) | 3:05 | 2022-10-27 | 2023-02-03 |
@@ -483,6 +484,7 @@
 | [Visão](https://open.spotify.com/track/2weWvs8ezDfSCdsFw4BsfX) | [Caetano](https://open.spotify.com/artist/4aqasGVO55fAjt2wmZ9jS4) | [Visão](https://open.spotify.com/album/35KVKQTMmxlTd5pyWlOY0D) | 2:25 | 2022-10-27 | 2023-01-27 |
 | [Voando Alto](https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Voando Alto](https://open.spotify.com/album/5FzYx0EtmdDq66FYObztp2) | 3:43 | 2023-05-18 |  |
 | [Volta Pá Casa](https://open.spotify.com/track/3K0wXTTJiBIuUSRr77IQe2) | [Mr.RastaFlame](https://open.spotify.com/artist/5Azqkb62OwKGcNH9ucNwcd), [JoBeatz4ever](https://open.spotify.com/artist/7DbAUL53ZfWUiuT461grvD) | [Volta Pá Casa](https://open.spotify.com/album/3vV6vjYVLIEXFsroo4Gib1) | 2:53 | 2022-08-11 | 2022-12-02 |
+| [VOLTAS](https://open.spotify.com/track/3tjDDai6NTO2bGkmvlmvUo) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Foco](https://open.spotify.com/album/7yVYfkZn3KzZMlds4WKAzk) | 3:34 | 2023-06-02 |  |
 | [Voltas](https://open.spotify.com/track/2QxuKYDPFmvsOnlKGWKDSq) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [Voltas](https://open.spotify.com/album/526Vh66gz5Dzg9jF0MW3PI) | 3:35 | 2022-10-20 | 2023-01-06 |
 | [Wannabe](https://open.spotify.com/track/3dCiCqF57OdMhT9L46j5mM) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc) | [Autoconsciência](https://open.spotify.com/album/0XD90MMmV766X9K0nNpnYC) | 2:00 | 2023-01-20 | 2023-03-31 |
 | [We Go](https://open.spotify.com/track/6msG1xV3gfepRRiicrnAwa) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [We Go](https://open.spotify.com/album/0yqavmWWOOLsDGUjJyAM8s) | 2:15 | 2022-07-07 | 2022-07-22 |

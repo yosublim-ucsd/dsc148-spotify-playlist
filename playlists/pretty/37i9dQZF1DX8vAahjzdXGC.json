@@ -1,12 +1,12 @@
 {
   "description": "Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat. Cover: Tiara Andini",
-  "num_followers": 164330,
+  "num_followers": 164466,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGJiODQ0ZjcxMTEyMjRkYmZiNGY1Njg1N2QzYjJiNzRmOWY3Y2Y0",
+  "snapshot_id": "MCw5N2ZmYmNkYmVlZjEzYThkYzI3Y2MxMDUxOWEzMzBhNjY3ZmQ4ZGZh",
   "tracks": [
     {
       "added_at": "2023-06-01 17:00:00",
@@ -27,7 +27,47 @@
     {
       "added_at": "2023-06-01 17:00:00",
       "album": {
-        "name": "Kami Khawatir Kawan",
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "added_at": "2023-06-01 17:00:00",
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "S-Class",
+      "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
+    },
+    {
+      "added_at": "2023-06-01 17:00:00",
+      "album": {
+        "name": "Kami Khawatir, Kawan",
         "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
       },
       "artists": [
@@ -37,7 +77,7 @@
         }
       ],
       "duration_ms": 265316,
-      "name": "Kami Khawatir Kawan",
+      "name": "Kami Khawatir, Kawan",
       "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
     },
     {
@@ -135,6 +175,22 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "added_at": "2023-06-02 02:48:29",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
       "added_at": "2023-06-01 17:00:00",
@@ -567,6 +623,26 @@
     {
       "added_at": "2023-06-01 17:00:00",
       "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1LzVjYnUJwqZHBVI8KRUBJ"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "duration_ms": 268759,
+      "name": "Ransome (Feat. BILL STAX)",
+      "url": "https://open.spotify.com/track/31HhKQyZZI0PEzdrhZ4IGo"
+    },
+    {
+      "added_at": "2023-06-01 17:00:00",
+      "album": {
         "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
         "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
@@ -619,6 +695,26 @@
       "duration_ms": 200099,
       "name": "The Fire Inside (From The Original Motion Picture \"Flamin' Hot\")",
       "url": "https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy"
+    },
+    {
+      "added_at": "2023-06-01 17:00:00",
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": "2023-06-01 17:00:00",
@@ -1195,6 +1291,26 @@
       "duration_ms": 115764,
       "name": "PICK ME UP",
       "url": "https://open.spotify.com/track/3Lnng6IQr5r03XweHyP3NI"
+    },
+    {
+      "added_at": "2023-06-01 17:00:00",
+      "album": {
+        "name": "Sad & Alone",
+        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 165431,
+      "name": "Sad & Alone",
+      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
     },
     {
       "added_at": "2023-06-01 17:00:00",

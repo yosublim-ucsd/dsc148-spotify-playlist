@@ -2570,7 +2570,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
@@ -3342,6 +3342,24 @@
       "duration_ms": 197480,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL"
+    },
+    {
+      "album": {
+        "name": "Viajera",
+        "url": "https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225875,
+      "name": "Se\u00f1al de Fuego",
+      "url": "https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq"
     },
     {
       "album": {

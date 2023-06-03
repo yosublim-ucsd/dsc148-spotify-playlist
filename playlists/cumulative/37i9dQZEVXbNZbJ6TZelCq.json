@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 121263,
       "name": "Antalya",
       "url": "https://open.spotify.com/track/3ELepxj3JfSWBMcAacT8d8"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145846,
       "name": "CONTACT FATAL 2",
       "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
@@ -4736,6 +4736,32 @@
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/5j7U60K6QxaOdLtLzegk7V"
+      },
+      "artists": [
+        {
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/35T0fdUa7Qashe5sNAYib8"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/5QBV9qdxNLdPr1fEzE6HwU"
     },
     {
       "album": {
@@ -11880,7 +11906,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 166788,
       "name": "Lumea asta",
       "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
@@ -12274,7 +12300,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -17666,7 +17692,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "Scrie-mi orice",
       "url": "https://open.spotify.com/track/5zAMFqnzUVXlWHqCqydFPT"
@@ -18932,7 +18958,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"
@@ -19538,7 +19564,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 139145,
       "name": "SWAG & CASH",
       "url": "https://open.spotify.com/track/51A6ZoY6MPDL64kkKr1JLW"
@@ -19894,7 +19920,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 139780,
       "name": "Tarabanele",
       "url": "https://open.spotify.com/track/6r2UqgPxaMxZEXwrOnZ7bm"
@@ -19934,7 +19960,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
@@ -21805,6 +21831,24 @@
     },
     {
       "album": {
+        "name": "Vara nu dorm",
+        "url": "https://open.spotify.com/album/55LY4OhsEfPGQIJkYcPgrJ"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182194,
+      "name": "Vara nu dorm",
+      "url": "https://open.spotify.com/track/2X93wwCV7j4ruNcgJzuvQF"
+    },
+    {
+      "album": {
         "name": "RMN",
         "url": "https://open.spotify.com/album/0kYZkGelkajt8OufvSU2qm"
       },
@@ -23284,7 +23328,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 156734,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"

@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
-  "num_followers": 256327,
+  "num_followers": 256433,
   "original_name": "90s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzFkNzA3YmE3OTlkMjEzZjc2YjNjYTVlOGRlZjEwZTc4OWFjMGI1",
+  "snapshot_id": "MCw5ZTUxZGQ4YmNmYzk2ZjkxZGJlMTRmNTYwYzZjYzUwYzM1NzNmZDcy",
   "tracks": [
     {
       "added_at": "2023-02-17 21:06:33",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "En Extasis",
         "url": "https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 282893,
       "name": "Piel Morena",
       "url": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 269613,
-      "name": "Como Te Deseo",
-      "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
+      "duration_ms": 269613,
+      "name": "Como Te Deseo",
+      "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1071,6 +1055,22 @@
       "duration_ms": 251440,
       "name": "No Llores por Mi",
       "url": "https://open.spotify.com/track/1qZPQqoomnPzHKGjvn136r"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 306973,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3j5BMF5Pco451TqCo3YuCJ"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/183XphT974zDxwM5QxETET"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 214066,
       "name": "Bailamos",
       "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 306973,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3j5BMF5Pco451TqCo3YuCJ"
     },
     {
       "added_at": "2023-02-17 21:06:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-02-17 21:06:33",
       "album": {
-        "name": "Hold Me, Thrill Me, Kiss Me",
-        "url": "https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb"
-    },
-    {
-      "added_at": "2023-02-17 21:06:33",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 206453,
       "name": "Vida",
       "url": "https://open.spotify.com/track/6i8KuACD15eZ84THZaG19i"
+    },
+    {
+      "added_at": "2023-02-17 21:06:33",
+      "album": {
+        "name": "Hold Me, Thrill Me, Kiss Me",
+        "url": "https://open.spotify.com/album/0gAN0kuGJrIZXVq8jG8sij"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/5EExhZiAXIqw6M5FFGAiUb"
     },
     {
       "added_at": "2023-02-17 21:06:33",

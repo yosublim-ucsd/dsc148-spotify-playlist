@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/4haGf3yfqq8nspnUHyhhdg"
+      },
+      "artists": [
+        {
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154350,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3ev4euHrYhHvlfC8rvKCXG"
+    },
+    {
+      "album": {
         "name": "Blues Music for Dogs",
         "url": "https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa"
       },

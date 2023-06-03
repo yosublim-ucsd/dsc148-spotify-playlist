@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 257424,
       "name": "Ab Mori Chhaad De",
       "url": "https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf"
@@ -630,6 +630,54 @@
       "duration_ms": 330921,
       "name": "Garaj Garaj Jugalbandi",
       "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
+    },
+    {
+      "album": {
+        "name": "Garjat Aayi Re",
+        "url": "https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Kumar Sharma",
+          "url": "https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6"
+        },
+        {
+          "name": "Kathak Rockers",
+          "url": "https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359834,
+      "name": "Garjat Aayi Re - Miyan Malhaar - Teentaal",
+      "url": "https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh"
+    },
+    {
+      "album": {
+        "name": "Ghan Garjat",
+        "url": "https://open.spotify.com/album/2YzQd8ncqjU2cSyyAR8TgF"
+      },
+      "artists": [
+        {
+          "name": "Raga Boyz",
+          "url": "https://open.spotify.com/artist/49egqatijUFHovUpyNjOx2"
+        },
+        {
+          "name": "Wali Hamid Ali Khan",
+          "url": "https://open.spotify.com/artist/0bUBeMl5dsE3LxBOofcswt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179039,
+      "name": "Ghan Garjat",
+      "url": "https://open.spotify.com/track/2YnDcmHbXSnbOAisOMggYb"
     },
     {
       "album": {
@@ -2702,7 +2750,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 200396,
       "name": "Rutho Na",
       "url": "https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv"

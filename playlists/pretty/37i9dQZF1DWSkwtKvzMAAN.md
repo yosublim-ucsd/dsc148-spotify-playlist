@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,275 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,285 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 30 | [Body Work](https://open.spotify.com/track/5gcLUfLPnfi8GMkRSrM2gO) | [Hot Streak](https://open.spotify.com/artist/4xzzrt8hBV9crpgXcLKXyd) | [Breakin' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX) | 4:25 |
 | 31 | [Loopzilla \- Broadcast Version; 2000 Digital Remaster](https://open.spotify.com/track/1uDo3aV0mG2SDkSMoPwm0m) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Greatest Hits: Straight Up](https://open.spotify.com/album/73RNO2BAAyYy4kq0gP9Szu) | 5:57 |
 | 32 | [Space is the Place](https://open.spotify.com/track/4bXCEav8yrgwAaHZzGXeUK) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:28 |
-| 33 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
+| 33 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
 | 34 | [Call Me Up](https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW) | [Bromar](https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S) | [Call Me Up](https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d) | 6:43 |
-| 35 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
-| 36 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
+| 35 | [Electricity](https://open.spotify.com/track/1pSI4VjT9OD0lk6wcrBUjI) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Greatest Hits](https://open.spotify.com/album/4s7ceLc5ZtNLxPOiWOFXay) | 6:59 |
+| 36 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
 | 37 | [Sticky Situation](https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu) | [Tyrone Brunson](https://open.spotify.com/artist/2iOW6LuBHr1Qzb9gtu6ZMn) | [Sticky Situation \(Expanded\)](https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts) | 6:32 |
 | 38 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
 | 39 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw2ZjcwMzdiMjk1NWMwZjdmNzBjN2I4YzliMTJhY2JmMTQzMWIwNGU4`
+Snapshot ID: `MCwwM2RhOTUzZGIxOGYyZDFhMjA3Nzg1OGIxOTgxZDZhNzNkOTFhM2Fk`

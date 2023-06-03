@@ -353,6 +353,46 @@
     },
     {
       "album": {
+        "name": "Canibales",
+        "url": "https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171735,
+      "name": "Canibales",
+      "url": "https://open.spotify.com/track/4yGyV9C9RleOjWQdDWtUxW"
+    },
+    {
+      "album": {
+        "name": "Certezas de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
+      },
+      "artists": [
+        {
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218499,
+      "name": "Certezas de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY"
       },
@@ -519,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Cordura",
+        "url": "https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Cordura",
+      "url": "https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3"
+    },
+    {
+      "album": {
         "name": "Cosa M\u00eda",
         "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
       },
@@ -578,6 +636,24 @@
       "duration_ms": 215717,
       "name": "CULPA",
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
+    },
+    {
+      "album": {
+        "name": "Temor",
+        "url": "https://open.spotify.com/album/04x545owsC3bnx17iQdnMj"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126014,
+      "name": "Dame Rock",
+      "url": "https://open.spotify.com/track/5idUaRJBOn7bSYjP6B7PcZ"
     },
     {
       "album": {
@@ -907,6 +983,24 @@
     },
     {
       "album": {
+        "name": "En este barco",
+        "url": "https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu"
+      },
+      "artists": [
+        {
+          "name": "Arbolito",
+          "url": "https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242489,
+      "name": "En este barco",
+      "url": "https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4"
+    },
+    {
+      "album": {
         "name": "En la Vereda del Sol",
         "url": "https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F"
       },
@@ -1176,7 +1270,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 217715,
       "name": "Fuego Eterno",
       "url": "https://open.spotify.com/track/0qJ9B3TEky2xt6xKnObtK8"
@@ -1306,7 +1400,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 259040,
       "name": "Impulsando El Encuentro",
       "url": "https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym"
@@ -2018,7 +2112,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl"
@@ -2130,7 +2224,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178300,
       "name": "Nada que Perder",
       "url": "https://open.spotify.com/track/6c7hF6JiUy0HAsmMoANzcw"
@@ -2380,7 +2474,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 148106,
       "name": "Otras Puertas Otros Mundos",
       "url": "https://open.spotify.com/track/39p5pfqX8AJlnmI1jw2dzF"
@@ -2724,7 +2818,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212810,
       "name": "Sentimientos Encontrados",
       "url": "https://open.spotify.com/track/1TFS64QKUI7iZoiKYJpjaw"
@@ -3075,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179872,
+      "name": "TRAS",
+      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+    },
+    {
+      "album": {
         "name": "Trinchera - Single",
         "url": "https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm"
       },
@@ -3281,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199901,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f"
+    },
+    {
+      "album": {
         "name": "Volver a Nacer",
         "url": "https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz"
       },
@@ -3314,7 +3444,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 346655,
       "name": "Vuelos",
       "url": "https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk"

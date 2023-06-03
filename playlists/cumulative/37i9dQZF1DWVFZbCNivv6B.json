@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Cypher",
+        "url": "https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU"
+    },
+    {
+      "album": {
         "name": "Cypher 1: Ella (feat. Delfina Dib)",
         "url": "https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD"
       },
@@ -4149,6 +4171,36 @@
     },
     {
       "album": {
+        "name": "MEXplico",
+        "url": "https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO"
+      },
+      "artists": [
+        {
+          "name": "LOS MUCHACHOS",
+          "url": "https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133899,
+      "name": "MEXplico",
+      "url": "https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns"
+    },
+    {
+      "album": {
         "name": "Mi Fucking Vida Loca",
         "url": "https://open.spotify.com/album/5FYjXEhiF2tJ3mNXGoe079"
       },
@@ -4939,6 +4991,28 @@
     },
     {
       "album": {
+        "name": "Pa Arriba",
+        "url": "https://open.spotify.com/album/2rXzKNVYlPsgEN4yYUVy33"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Pa Arriba",
+      "url": "https://open.spotify.com/track/7eQMkuflKhCY1MDHriexeo"
+    },
+    {
+      "album": {
         "name": "Pa Mis Enemigos",
         "url": "https://open.spotify.com/album/6YCFImRXWL7zPfLk4HiPNQ"
       },
@@ -5020,7 +5094,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 169906,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/0JAxf6vf8Lppihm55k13zv"
@@ -5242,6 +5316,32 @@
       "duration_ms": 192048,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw"
+    },
+    {
+      "album": {
+        "name": "Pipa de la Paz",
+        "url": "https://open.spotify.com/album/2lxTJ1ekn6b8BP47CV0Iks"
+      },
+      "artists": [
+        {
+          "name": "twiiDA",
+          "url": "https://open.spotify.com/artist/6ew7pVWnUuLP6aMcMIYxrf"
+        },
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Pipa de la Paz",
+      "url": "https://open.spotify.com/track/6dvc12sfLteJ8NwLDlqd5k"
     },
     {
       "album": {
@@ -5874,7 +5974,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 200986,
       "name": "Random",
       "url": "https://open.spotify.com/track/4an1pQ9S5NNuPG8pG27eca"
@@ -5984,6 +6084,60 @@
       "duration_ms": 184000,
       "name": "Rick y Morty",
       "url": "https://open.spotify.com/track/72UCFt7VPQolM1Pcul5Beo"
+    },
+    {
+      "album": {
+        "name": "Rolando Hits Vol. 3",
+        "url": "https://open.spotify.com/album/0CDQr3ndjAc0X7fShcQt6h"
+      },
+      "artists": [
+        {
+          "name": "Rolando Hits",
+          "url": "https://open.spotify.com/artist/0D7jzM1bFHm8PZacEOUDyR"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Vandalic",
+          "url": "https://open.spotify.com/artist/6JAxeQXL5JSyAbTcFPWny0"
+        },
+        {
+          "name": "Kallpa RH",
+          "url": "https://open.spotify.com/artist/3EBoQE8ME7XdtduNxFHNqF"
+        },
+        {
+          "name": "\u00d1engo El Quetzal",
+          "url": "https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6"
+        },
+        {
+          "name": "Dank SA",
+          "url": "https://open.spotify.com/artist/7tpPh8KSOzd5l9m3hDelKl"
+        },
+        {
+          "name": "The Seler",
+          "url": "https://open.spotify.com/artist/07H7kklAEFGHh0VxZNJ9bD"
+        },
+        {
+          "name": "Weros LCK",
+          "url": "https://open.spotify.com/artist/6VTeKyMKg8vi6aC6jprwzL"
+        },
+        {
+          "name": "Saiko Hem",
+          "url": "https://open.spotify.com/artist/3Bny8lzlRGbiUbbXxu2PQh"
+        },
+        {
+          "name": "Little Smoking",
+          "url": "https://open.spotify.com/artist/5mFSaUUW9ZwqpWN39fmbuZ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 658545,
+      "name": "Rolando Hits Vol. 3",
+      "url": "https://open.spotify.com/track/1HOePouytVeIMcP33YIaTy"
     },
     {
       "album": {
@@ -7106,7 +7260,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 136894,
       "name": "TITAN",
       "url": "https://open.spotify.com/track/5NNe8wKIGW9PJqC6NWbpLK"
@@ -7722,7 +7876,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 187600,
       "name": "Vivir Es So\u00f1ar",
       "url": "https://open.spotify.com/track/3IcM8rJFPBKF1dAIAPSBQg"
@@ -7980,7 +8134,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 276635,
       "name": "Yubona",
       "url": "https://open.spotify.com/track/3fOphNOBQo0XBQ28GHd1HE"

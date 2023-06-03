@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-496 songs - 1 day 4 hr 27 min
+497 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2023-02-17 | 2023-05-27 |
 | [Me preguntaba](https://open.spotify.com/track/6YG8kAm1kWwLsDY9eTHlUN) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Me preguntaba](https://open.spotify.com/album/61okGT4nZSPCihWVSPztxN) | 3:21 | 2022-05-06 | 2022-05-09 |
 | [Me Voy](https://open.spotify.com/track/7i7muHdNcm4rHNv1SDVjoD) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:31 | 2022-01-14 |  |
+| [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-06-02 |  |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-14 |  |
 | [Mi Barrio](https://open.spotify.com/track/5akQjeg228NBrfq61qHnmK) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Mi Barrio](https://open.spotify.com/album/6nUeKwD9qcF2Xe0ISUB6ys) | 2:42 | 2022-05-20 | 2022-07-28 |
 | [Mi Casa](https://open.spotify.com/track/4JwYIRa4hdXJfXhmzzST5E) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Mi Casa](https://open.spotify.com/album/6iFtUllX7WuymOx05Kmlg3) | 4:01 | 2022-02-11 | 2022-07-26 |
@@ -320,7 +321,7 @@
 | [Nunca haría lo que me hiciste](https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Nunca haría lo que me hiciste](https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p) | 3:11 | 2022-12-16 | 2023-02-03 |
 | [NUNCA PUDIMOS](https://open.spotify.com/track/5KyTt6vJU0yh8R8Q46e4TB) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [NUNCA PUDIMOS](https://open.spotify.com/album/0hyPn8QJLC6GNiDflt1lj2) | 3:25 | 2022-01-21 | 2022-07-28 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-02-03 |  |
-| [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 |  |
+| [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 | 2023-06-03 |
 | [Ordenar](https://open.spotify.com/track/6cMAjbEM3SDBBWFwvx4qSl) | [VETRA](https://open.spotify.com/artist/7obSoqTA0ah9tLNktBUNU7) | [Liberarnos Es Placer](https://open.spotify.com/album/2f920Ow1P5wRwMgSYjr7eC) | 3:03 | 2022-01-21 | 2022-07-25 |
 | [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 |  |
 | [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 | 2022-07-28 |

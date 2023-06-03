@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,618 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,733 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 25 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 26 | [Oh Klahoma](https://open.spotify.com/track/6SZwj6cjc8JQbkrr8cbIUn) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:05 |
 | 27 | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/track/1Vchex0xowRj9k59RLvRfo) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [God Bless Tiny Tim](https://open.spotify.com/album/6Oimi4JAkSAH3qhZmswoE9) | 1:50 |
-| 28 | [u and i \- original version](https://open.spotify.com/track/3XRLyWAabvLKH8sLXKQ0hB) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/0zBjrxV5UaU4UD95jq0owD) | 2:03 |
+| 28 | [u and i](https://open.spotify.com/track/3HvgYuJX72wO515RG4aQz2) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/5LtQfvIeTCgvD2xx6jI4ck) | 2:03 |
 | 29 | [Fallen Down \(Reprise\)](https://open.spotify.com/track/23b9BdZ2WZnDSeDzNUTVvZ) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 2:30 |
 | 30 | [We'll Meet Again](https://open.spotify.com/track/6WdcvzQADmrL8nucimUV6r) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS), [Sailors, Soldiers & Airmen of Her Majesty's Forces](https://open.spotify.com/artist/1OOpgf6NT46tOGAgjgZtzl), [Roland Shaw And His Orchestra](https://open.spotify.com/artist/62iRboFRt3fBndcWdXMyL2) | [Silver Memories: Our Vera](https://open.spotify.com/album/79w6b4DZnsVFbHELqs04Do) | 3:03 |
 | 31 | [The Lobotomy](https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf) | [Maebi](https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu) | [The Lobotomy](https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ) | 1:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 79 | [ijustwanttobetheoneyoulove](https://open.spotify.com/track/1lwU8b05tGTvXCxgySuMh5) | [leydown n chill](https://open.spotify.com/artist/5EKYmdWFCxbTsg2wGfgVtl) | [ijustwanttobetheoneyoulove](https://open.spotify.com/album/4EsBCjFbHBbe8F9O2KNVmA) | 1:20 |
 | 80 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 |
 
-Snapshot ID: `MCxhMTNiNGZlMWIzMzQzYmZhNWJkYzFjZTU5NGQzNWEwZTVjOTlhM2Fi`
+Snapshot ID: `MCw3NmJmZjA3NDczMjEwYTVmZmMwNjM0ZDRiNTYwMzM4OWQyNDBkNTY0`

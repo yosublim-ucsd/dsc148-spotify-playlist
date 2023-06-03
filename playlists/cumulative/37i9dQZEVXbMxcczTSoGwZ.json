@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 121960,
       "name": "Amatimies",
       "url": "https://open.spotify.com/track/0WzmYcHhfkchwvZagvItxK"
@@ -4568,7 +4568,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 234226,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO"
@@ -10411,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "J\u00e4lkeek\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156919,
+      "name": "J\u00e4lkeek\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/39RqJCSBMKkNGiNAnuUMH6"
+    },
+    {
+      "album": {
         "name": "NON2EN2E",
         "url": "https://open.spotify.com/album/07585rByEzjeng7KSShEFK"
       },
@@ -15366,7 +15384,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197419,
       "name": "Mic Mac",
       "url": "https://open.spotify.com/track/6pPWnfAzUL1tpCpyeKtgqr"

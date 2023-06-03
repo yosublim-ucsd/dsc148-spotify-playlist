@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 122400,
       "name": "Cheio De \u00d3dio",
       "url": "https://open.spotify.com/track/4j9DHnPE6n6sMz4TsuXLTA"
@@ -1410,6 +1410,24 @@
       "duration_ms": 121379,
       "name": "Cria da BXD",
       "url": "https://open.spotify.com/track/1eA0BSAtKGOOyjddOLBigX"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/3SnU28sYDOXSnw7tG4r8wZ"
+      },
+      "artists": [
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100122,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/7ekzDnDXofXkeJHTcSi6uP"
     },
     {
       "album": {
@@ -2191,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Capital",
+        "url": "https://open.spotify.com/album/1sv8A0I1KnOkeIVBGCYnPM"
+      },
+      "artists": [
+        {
+          "name": "Alccantarx084",
+          "url": "https://open.spotify.com/artist/1yChszykPy3QQAz30Wh2Mt"
+        },
+        {
+          "name": "AlefBeatz",
+          "url": "https://open.spotify.com/artist/2Wf7hiRypjFJgMkdx9TCvb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Hit dos cria",
+      "url": "https://open.spotify.com/track/3TpSk8jnrW9y7EIDgQr1OL"
+    },
+    {
+      "album": {
         "name": "Hoje Eu Vou pro Baile",
         "url": "https://open.spotify.com/album/7fDdSbq7z3yk6zYu9czxKJ"
       },
@@ -2786,7 +2826,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 256000,
       "name": "Malandrex",
       "url": "https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi"
@@ -3846,7 +3886,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 143004,
       "name": "Para o Baile",
       "url": "https://open.spotify.com/track/5OwhyEznMGm4iJDpTTp1h8"
@@ -5414,6 +5454,44 @@
       "duration_ms": 177322,
       "name": "Turista",
       "url": "https://open.spotify.com/track/78OWuPL27aLMkDKdFNNnuH"
+    },
+    {
+      "album": {
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Theu$",
+          "url": "https://open.spotify.com/artist/3fQdiBzHZmIODkc3jwdhdS"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/0jFEunmpCB3mRsi8E6aWKT"
     },
     {
       "album": {

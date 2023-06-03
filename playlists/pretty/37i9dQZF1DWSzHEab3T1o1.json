@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7439,
+  "num_followers": 7438,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTM2ZmMzYjhiZGZlMTI5N2E0Y2U3ZTcyZjYzN2YyODRhZmJjN2Zh",
+  "snapshot_id": "MCxjN2ExOTAzOTVhZDkxOTM0MmVlMzZhN2IwZmRiOTgzOTc4NjcyYWM0",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -563,30 +563,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Dancing On Dangerous",
-        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous",
-      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Boomshakalaka",
         "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 211920,
       "name": "Boomshakalaka",
       "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Dancing On Dangerous",
+        "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous",
+      "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -755,6 +755,26 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Do It!",
         "url": "https://open.spotify.com/album/4lmWnKbt4wJ9KqFGnORsY2"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 157444,
       "name": "Do It! - Dimitri Vegas Radio Edit",
       "url": "https://open.spotify.com/track/6kLrO8KR0sx5nwyWL40d2u"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
     },
     {
       "added_at": "2021-12-31 04:31:13",

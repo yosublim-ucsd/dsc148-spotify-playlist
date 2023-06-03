@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-453 songs - 13 hr 35 min
+455 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Big Fat Cat](https://open.spotify.com/track/4eiyPqAO6nQoRASqxcptL6) | [Sophie Turnberry](https://open.spotify.com/artist/3MN0u1ZzvzfVsRuTa1smgf) | [Big Fat Cat](https://open.spotify.com/album/2jbjXlL2adMy67cHvLzrlG) | 2:00 | 2021-10-07 | 2022-12-24 |
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-07 |  |
 | [Blossom](https://open.spotify.com/track/55U4PGCJt22q75JPXiUfoj) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Blossom](https://open.spotify.com/album/3wln5OEsdxPWHVaFl9EhEz) | 1:37 | 2023-05-11 |  |
-| [Blott en dag](https://open.spotify.com/track/49XkXcSroi01dECBeMf1wJ) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 |  |
+| [Blott en dag](https://open.spotify.com/track/49XkXcSroi01dECBeMf1wJ) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
 | [Blueberry Muffins](https://open.spotify.com/track/5bbGsX1DgwUYjoQ9diFqVn) | [Rachel Birkes](https://open.spotify.com/artist/46dwJ4pRnNjShZqsj3wOaD) | [Blueberry Muffins](https://open.spotify.com/album/5Q0jjE7plhJ0uBeLTpggdG) | 1:09 | 2021-10-07 |  |
 | [Bonne nuit mon prince](https://open.spotify.com/track/5W03XGSGZLULtu0UykT4iv) | [Gabriele Valois](https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5) | [Bonne nuit mon prince](https://open.spotify.com/album/09f5AoxyFNYxiB5RvhL8MU) | 2:03 | 2023-04-07 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/6BYKWcHi1QjG8AtPkKFD4C) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Twinkle, Twinkle, Little Star](https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH) | 1:59 | 2022-12-23 |  |
@@ -241,6 +241,7 @@
 | [Lullaby and Good Night](https://open.spotify.com/track/10Oygwl9Jtxnm7R8ybjRuP) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [Lullaby and Good Night](https://open.spotify.com/album/2bF4lupeo6aJQfGVQc0O1T) | 2:01 | 2021-10-07 | 2022-10-08 |
 | [Lullaby and Goodnight](https://open.spotify.com/track/5ZFmZ7zA1pdc1eJyukia5r) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Lullaby and Goodnight](https://open.spotify.com/album/4UnLWekJt1qqHlniVVLeEH) | 1:52 | 2022-10-07 | 2022-10-29 |
 | [Lullaby for Coraline](https://open.spotify.com/track/3Wd9UnoXS5UnNDriobeiyX) | [Kura Scarlato](https://open.spotify.com/artist/2cDFhGu5p6ip2EVWRXUSCQ) | [Lullaby for Coraline](https://open.spotify.com/album/7dbRwJLcMoxEZy4YkUgqxj) | 2:44 | 2021-10-07 |  |
+| [Lunar Lullaby](https://open.spotify.com/track/6CSj6jObt28HvdJpZEFBiA) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Nighttime Wonders](https://open.spotify.com/album/568efehzAB9hRRrxziKo7I) | 1:48 | 2023-06-02 |  |
 | [Magical Dreamtime](https://open.spotify.com/track/75aq1o4kjHR4OE9FVvnKji) | [Elsa Widerberg](https://open.spotify.com/artist/7vnRkaKl9mRzGx5TGmaXme) | [Magical Dreamtime](https://open.spotify.com/album/4OiHMSyOjnpRsDeYhvpzJk) | 1:59 | 2021-10-07 |  |
 | [Magical Kitties](https://open.spotify.com/track/2J2wzEUVjWCFbDsZHrLtPh) | [Jimmy Rockford](https://open.spotify.com/artist/31D0l33ag3WnAe6BtrXK7e) | [Kitties](https://open.spotify.com/album/1wg19rtaYLpzdc2dRjomdW) | 2:26 | 2021-10-07 |  |
 | [Mana skaistā meita](https://open.spotify.com/track/768ZCifbuF19PJYTGK5oC0) | [Sofia Ilves](https://open.spotify.com/artist/6uzwRsbAQINtnVfKKIbEs7) | [Mana skaistā meita](https://open.spotify.com/album/7xeAspmTdQ4miPemMvD0On) | 1:25 | 2021-10-07 |  |
@@ -287,7 +288,7 @@
 | [Night Boy](https://open.spotify.com/track/3GNI4cnUTmdVwuRZ7KInoz) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [Night Boy](https://open.spotify.com/album/3dYfPUkzN5rbaP7A65Uilz) | 1:36 | 2021-10-07 |  |
 | [Night Comfort \- Piano](https://open.spotify.com/track/3fPOBNNlM8cD2zzqpZNdN7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Night Comfort \(Piano\)](https://open.spotify.com/album/3pFMjiYRLoPcVir6Ipf9qR) | 3:14 | 2022-01-21 | 2023-02-10 |
 | [När Lillan Kom Till Jorden](https://open.spotify.com/track/5ecHn2F3nNYx0mMOSJvqSI) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [När Lillan Kom Till Jorden](https://open.spotify.com/album/5pkDvvSYc5xwAYx5AckMMD) | 2:37 | 2023-02-10 | 2023-02-24 |
-| [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 |  |
+| [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 | 2023-06-03 |
 | [Ocean Lullaby](https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Ocean Lullaby](https://open.spotify.com/album/1adRvl9STHysdmmtpGMxPN) | 1:53 | 2021-10-07 | 2022-12-24 |
 | [Ode to You](https://open.spotify.com/track/31hIWFZWIRYnKnt0dkuVPi) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Tiny Hands](https://open.spotify.com/album/0AExtvXunsJ5fHeSV2Gqif) | 1:53 | 2022-10-28 |  |
 | [Oh! Susanna](https://open.spotify.com/track/4BTJpnBQdOVcILo8LdPAdj) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:18 | 2021-10-07 | 2022-09-03 |
@@ -389,6 +390,7 @@
 | [The farmer in the dell](https://open.spotify.com/track/47dfnROFpFJJDD6oCWWbSj) | [Sophie Eichmann](https://open.spotify.com/artist/2kzsfr4PAIwyoSPrBq9Xdx) | [The farmer in the dell](https://open.spotify.com/album/6odz7oeiLNgklTnDTx0psg) | 1:00 | 2021-10-07 | 2022-12-10 |
 | [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-02-10 |  |
 | [The Grand Old Duke Of York](https://open.spotify.com/track/5haTOyj3fd2iVNwDpidiIi) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:35 | 2021-10-07 | 2022-10-29 |
+| [The Magic Boat Ride](https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Peaceful Nights](https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR) | 1:59 | 2023-06-02 |  |
 | [The Moon And The Stars](https://open.spotify.com/track/2FROaOKmXqqJfcgSpy7Gu2) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Moon And The Stars](https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE) | 2:19 | 2023-03-17 |  |
 | [The Moon Looks Like A Cake](https://open.spotify.com/track/2plQn19ZnV5cquaAPu3NZc) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:43 | 2022-06-07 |  |
 | [The More We Get Together](https://open.spotify.com/track/1SGEkhOnL90QTGbH0hmKyK) | [Felix Scott](https://open.spotify.com/artist/52P6o31sXSSZBcTHwveYx8) | [The More We Get Together](https://open.spotify.com/album/4l5Olw1FvBLTDNv64hXJKD) | 2:15 | 2021-10-07 | 2022-09-03 |
@@ -439,7 +441,7 @@
 | [Until morning light](https://open.spotify.com/track/4CqPp4KenTy68DLT9optnH) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [Until morning light](https://open.spotify.com/album/58FSNhzOxK0x494h7KmmFb) | 2:00 | 2021-10-07 |  |
 | [Us Two](https://open.spotify.com/track/13qSDvDmpnwghzIvIAbvmI) | [Laurie Finney](https://open.spotify.com/artist/6vB5cW7hsQg9L9k4vyT7TH) | [Us Two](https://open.spotify.com/album/7rZ1ZoICW7cLVETZwCZjrq) | 1:25 | 2021-10-07 |  |
 | [Vamos a contar ovejitas](https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI) | [Emelina Moreno](https://open.spotify.com/artist/2Ab8GKO7SbR91GngNUdC6O) | [Vamos a contar ovejitas](https://open.spotify.com/album/5Vc0hnygzWWIoFZSgavBNN) | 1:32 | 2021-10-07 |  |
-| [Var bor du lilla råtta?](https://open.spotify.com/track/4rbSsFJeWvZKjKgzLtkRf1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 |  |
+| [Var bor du lilla råtta?](https://open.spotify.com/track/4rbSsFJeWvZKjKgzLtkRf1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2022-09-02 | 2023-02-10 |
 | [What A Wonderful World](https://open.spotify.com/track/2rvH33qiSxBPYXB2nMeYGt) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:55 | 2021-10-07 | 2023-05-12 |
 | [When A Child Is Born](https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY) | [Charles Conte](https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS) | [Little Donkey](https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM) | 2:16 | 2021-10-07 | 2022-02-11 |

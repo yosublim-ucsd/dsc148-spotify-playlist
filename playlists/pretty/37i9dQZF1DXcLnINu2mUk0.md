@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,751 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,790 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 36 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 37 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 38 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
-| 39 | [Lisabonna](https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Lisabonna](https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a) | 3:14 |
-| 40 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 39 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 40 | [Lisabonna](https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Lisabonna](https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a) | 3:14 |
 | 41 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 42 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 43 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
-| 44 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
-| 45 | [On My Mind](https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Rosa Negra](https://open.spotify.com/album/3E8EybslEXDt6Yl1oxSI9C) | 2:27 |
+| 44 | [On My Mind](https://open.spotify.com/track/1ihz7Lhk9M5IjKJN4Ofz0A) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Rosa Negra](https://open.spotify.com/album/3E8EybslEXDt6Yl1oxSI9C) | 2:27 |
+| 45 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
 | 46 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
 | 47 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 48 | [Tê Menos 1](https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ) | [EU.CLIDES](https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY) | [DECLIVE](https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT) | 3:30 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 65 | [Tempo](https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM) | [Afonso](https://open.spotify.com/artist/19ZWrFOuK5OEk7SaALa6fr) | [Tempo](https://open.spotify.com/album/1jj39TNoO0el3RWJHauVg9) | 3:03 |
 | 66 | [Tá tarde](https://open.spotify.com/track/4cEfYp7XDrGewieq10tc5h) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Tá tarde](https://open.spotify.com/album/1ZSCM6ieyNDFPe4r1ZEEuz) | 3:59 |
 | 67 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 |
-| 68 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
-| 69 | [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 |
+| 68 | [Money Talk](https://open.spotify.com/track/0MfyCFvkPGbozEFQbkut0a) | [Zu](https://open.spotify.com/artist/0f4PxCuYzB7B9cQu5kymKe), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Money Talk](https://open.spotify.com/album/6sDPMi5e270d8lWnqreHq9) | 3:04 |
+| 69 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
 | 70 | [So In Love](https://open.spotify.com/track/2Nc8rUi8Hqnfnqr1FtCR9y) | [Also](https://open.spotify.com/artist/2nmwVsly6vXKUSKy6MW0Xm), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4) | [So In Love](https://open.spotify.com/album/5xb7REvTxublNuPzzat1Fz) | 3:45 |
 | 71 | [Lágrimas](https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [Lágrimas](https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf) | 3:03 |
-| 72 | [Faltou Mais Amor](https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg) | [DJ Edson Kulembe](https://open.spotify.com/artist/0AHLV1obvqEboZpOmsrqGJ), [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Faltou Mais Amor](https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY) | 3:04 |
-| 73 | [Esticão](https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35) | [Esticão](https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd) | 3:13 |
+| 72 | [Esticão](https://open.spotify.com/track/1J1jKUR1qHkDoTt7NMn7Yj) | [Ary Bronze](https://open.spotify.com/artist/15Ed4QMaHiRDiuwb32QBVZ), [DELOSBOY](https://open.spotify.com/artist/5fPa8wSKInlLgvixLBGS35) | [Esticão](https://open.spotify.com/album/5N5dlHwrT4sV0s1a6ubUWd) | 3:13 |
+| 73 | [Faltou Mais Amor](https://open.spotify.com/track/3Q38gjfJGqWMh792iL6Owg) | [DJ Edson Kulembe](https://open.spotify.com/artist/0AHLV1obvqEboZpOmsrqGJ), [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Faltou Mais Amor](https://open.spotify.com/album/6OqWMI2Y7hTpeCrsJVqTAY) | 3:04 |
 | 74 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 75 | [Tá Doce](https://open.spotify.com/track/0dTqngNXGA0QuGpdMeiOQq) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [Tá Doce](https://open.spotify.com/album/2IMxtFwJn3joV8RnsaRkSc) | 3:24 |
 
-Snapshot ID: `MCxjZTcxODgzNTVkZDdmMDRkYjE3NzM0M2RhNGVkODgyNWI4NTNiY2Vk`
+Snapshot ID: `MCwwMGM0M2EwMzVmMmZkYmU5M2JlOTE1MGY5ODFlMDRiYzEwOWUyYmQz`

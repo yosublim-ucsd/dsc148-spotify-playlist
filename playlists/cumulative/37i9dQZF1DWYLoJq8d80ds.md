@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Soledad
 
-144 songs - 8 hr 3 min
+145 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [La Noche Salteña](https://open.spotify.com/track/4EYyuY7x7OsbzC6MzkusHM) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Noche Salteña](https://open.spotify.com/album/5HSE5Sx8MmtWdb66EmR3yj) | 2:52 | 2021-12-31 | 2022-08-12 |
 | [La Noche Salteña](https://open.spotify.com/track/6VRrhvfIn4tZUx0R37hOtD) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Fiesta del Alma](https://open.spotify.com/album/5c4Yz6YfBCQ73hj1fn5Rrh) | 2:52 | 2022-07-01 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2021-12-31 |  |
+| [La Otra Estrella](https://open.spotify.com/track/3MoJok6W9Ps8RYzvGkXK8o) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Otra Estrella](https://open.spotify.com/album/4eEv0ca3Y0uo26gySixvxi) | 2:47 | 2023-06-02 |  |
 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 | 2022-11-04 |  |
 | [La Sachapera](https://open.spotify.com/track/4AtnAMuqST1ZkEaTaXr2fa) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [La Sachapera](https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth) | 3:25 | 2021-12-31 |  |

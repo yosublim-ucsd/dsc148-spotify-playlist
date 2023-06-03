@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 202266,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
@@ -2212,6 +2212,28 @@
       "duration_ms": 209000,
       "name": "Ton\u00b4s Que Mi Reina",
       "url": "https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0"
+    },
+    {
+      "album": {
+        "name": "Trenes Y Gatos",
+        "url": "https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185237,
+      "name": "Trenes Y Gatos",
+      "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
     },
     {
       "album": {

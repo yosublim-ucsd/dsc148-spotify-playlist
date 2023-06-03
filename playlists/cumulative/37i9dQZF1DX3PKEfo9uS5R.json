@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 185705,
       "name": "Azucena",
       "url": "https://open.spotify.com/track/0BZofsSA03xAkBeEwNYzH3"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165714,
       "name": "Billson",
       "url": "https://open.spotify.com/track/1QILyPPSrMfb10YjyFPH0r"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158100,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 238112,
       "name": "Make it Count",
       "url": "https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144642,
       "name": "Postcard Paradise",
       "url": "https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155374,
       "name": "saturday thunder",
       "url": "https://open.spotify.com/track/3TXyytRgN8IoyOxoAQ41cd"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 192300,
       "name": "Star Reflections",
       "url": "https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0"
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Island Bypass",
+        "url": "https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4"
+      },
+      "artists": [
+        {
+          "name": "WingIt",
+          "url": "https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Think im falling",
+      "url": "https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu"
+    },
+    {
+      "album": {
         "name": "Another Dream Room EP",
         "url": "https://open.spotify.com/album/2pe3jQkLqd0vjnxxxJuSDW"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 188208,
       "name": "Together Potion",
       "url": "https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR"
@@ -3074,7 +3092,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158969,
       "name": "Watchtower",
       "url": "https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT"

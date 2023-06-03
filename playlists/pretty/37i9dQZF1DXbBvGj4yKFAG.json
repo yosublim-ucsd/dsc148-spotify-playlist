@@ -1,48 +1,60 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 37702,
+  "num_followers": 37864,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzE4YmY1NGQ1MjQ0MzQzZTA3Y2E1YzJmNTI1MGEwMzhhZTY0NzQy",
+  "snapshot_id": "MCw2NDIyNjM4MWFlMDY4Y2JkNmUxOTY3NjdkYzQ0NjAwNDAxZTE4OTlm",
   "tracks": [
     {
-      "added_at": "2023-05-19 12:25:14",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "In Theory Depression",
-        "url": "https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR"
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
       },
       "artists": [
         {
-          "name": "THALA",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         }
       ],
-      "duration_ms": 189120,
-      "name": "In Theory Depression",
-      "url": "https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ"
+      "duration_ms": 156000,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp"
     },
     {
-      "added_at": "2023-05-19 12:25:14",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV"
+        "name": "melanchole (remaster)",
+        "url": "https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT"
       },
       "artists": [
         {
-          "name": "Rob Moose",
-          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         }
       ],
-      "duration_ms": 294208,
-      "name": "Wasted (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv"
+      "duration_ms": 84500,
+      "name": "(dream) - remaster",
+      "url": "https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
       "added_at": "2023-05-19 12:25:14",
@@ -96,7 +108,7 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+        "url": "https://open.spotify.com/album/2rAaK13iXekyefycEQBIxX"
       },
       "artists": [
         {
@@ -106,23 +118,7 @@
       ],
       "duration_ms": 142615,
       "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
+      "url": "https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -173,6 +169,26 @@
       "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "you without me",
+        "url": "https://open.spotify.com/album/3DSzE2XUYgBCof4KFAc9qp"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        },
+        {
+          "name": "julietta star",
+          "url": "https://open.spotify.com/artist/63mnXo3QJOX6MjW3yj6VQW"
+        }
+      ],
+      "duration_ms": 226174,
+      "name": "you without me",
+      "url": "https://open.spotify.com/track/5n40TTgoENVfNj9sfMhM9N"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Elizabethtown.",
@@ -221,6 +237,22 @@
       "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Sleep Walking",
@@ -267,6 +299,22 @@
       "duration_ms": 196815,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Jealous of a Kid",
+        "url": "https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Jealous of a Kid",
+      "url": "https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -331,6 +379,22 @@
       "duration_ms": 141698,
       "name": "Suicide Cleanup",
       "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW"
+      },
+      "artists": [
+        {
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
+        }
+      ],
+      "duration_ms": 146331,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -491,6 +555,22 @@
       "duration_ms": 218060,
       "name": "Hole in My Pocket",
       "url": "https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "SPILL",
+        "url": "https://open.spotify.com/album/5b6XhNME9lNAQiT2NrZzJU"
+      },
+      "artists": [
+        {
+          "name": "STACY OUTRAGEOUS",
+          "url": "https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "SPILL",
+      "url": "https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -1567,166 +1647,6 @@
       "duration_ms": 563740,
       "name": "Paradise Is Mine",
       "url": "https://open.spotify.com/track/2bywSV7Z2yjC0JlP79sZC8"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Dear Jewell",
-        "url": "https://open.spotify.com/album/6lFVEGdRSY6mRRKnEszHUj"
-      },
-      "artists": [
-        {
-          "name": "Night Beds",
-          "url": "https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd"
-        }
-      ],
-      "duration_ms": 298110,
-      "name": "Velvet River",
-      "url": "https://open.spotify.com/track/4uTA2zBDjO3lVrMS9z73i0"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "GIZMO",
-        "url": "https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 153880,
-      "name": "A Bad Dream",
-      "url": "https://open.spotify.com/track/2Y6f8XwwUyPYn1VLpjMFkN"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "a/b__2",
-        "url": "https://open.spotify.com/album/78KsEzasQQFF9QktDTaa35"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 154052,
-      "name": "epitaph",
-      "url": "https://open.spotify.com/track/4DQZidEAwjPT8MswCITWTX"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/10xHNga4erJpRZTAU4JdSO"
-      },
-      "artists": [
-        {
-          "name": "Leon Santana",
-          "url": "https://open.spotify.com/artist/2h9w7Ko9db7p0mDGfiL6vS"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Worlds Away",
-      "url": "https://open.spotify.com/track/0prQCTD21VDitSeQA0gcHe"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "fingers through my hair",
-        "url": "https://open.spotify.com/album/4n1BftyPbar1dDf8sAI4VV"
-      },
-      "artists": [
-        {
-          "name": "Sfven",
-          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
-        }
-      ],
-      "duration_ms": 140840,
-      "name": "fingers through my hair",
-      "url": "https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "deep cut",
-        "url": "https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Rose Benjamin",
-          "url": "https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe"
-        }
-      ],
-      "duration_ms": 314189,
-      "name": "deep cut",
-      "url": "https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Omit",
-        "url": "https://open.spotify.com/album/3DglweTTqaGzB198Ex36vF"
-      },
-      "artists": [
-        {
-          "name": "Grivo",
-          "url": "https://open.spotify.com/artist/0NsL0iHM7x5iahPLXXGf9C"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "Fatal Blue",
-      "url": "https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Like You Do",
-        "url": "https://open.spotify.com/album/1qtek4ncBDO5HYjOrbUTbX"
-      },
-      "artists": [
-        {
-          "name": "Lennie Rayen",
-          "url": "https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP"
-        }
-      ],
-      "duration_ms": 235172,
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Small",
-        "url": "https://open.spotify.com/album/0d9OmH7pZgv2FhGpJqZyvp"
-      },
-      "artists": [
-        {
-          "name": "Laney Tripp",
-          "url": "https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Bury Me",
-      "url": "https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Burns Effect",
-        "url": "https://open.spotify.com/album/25jtHTJhG1J5TGoqLjwqax"
-      },
-      "artists": [
-        {
-          "name": "Tanlines",
-          "url": "https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Burns Effect",
-      "url": "https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC"
     }
   ],
   "unique_name": "side effects",

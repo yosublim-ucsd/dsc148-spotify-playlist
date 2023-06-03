@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "melanchole (remaster)",
+        "url": "https://open.spotify.com/album/1CU4dfIskXlgz5vSssB7IT"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84500,
+      "name": "(dream) - remaster",
+      "url": "https://open.spotify.com/track/6DjNn3yQ53XwGyDTJBKBEz"
+    },
+    {
+      "album": {
         "name": "plunge deep golden knife",
         "url": "https://open.spotify.com/album/5IkfsCgOxmviOp3cKXlHiL"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 153880,
       "name": "A Bad Dream",
       "url": "https://open.spotify.com/track/2Y6f8XwwUyPYn1VLpjMFkN"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 206853,
       "name": "Burns Effect",
       "url": "https://open.spotify.com/track/1UOmRFTqjNBLfKklHEw7CC"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 147066,
       "name": "Bury Me",
       "url": "https://open.spotify.com/track/1RQ95XIUXRUNAZgMqSa3La"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 314189,
       "name": "deep cut",
       "url": "https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 154052,
       "name": "epitaph",
       "url": "https://open.spotify.com/track/4DQZidEAwjPT8MswCITWTX"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 334106,
       "name": "Fatal Blue",
       "url": "https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw"
@@ -852,7 +870,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 140840,
       "name": "fingers through my hair",
       "url": "https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189120,
       "name": "In Theory Depression",
       "url": "https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ"
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Jealous of a Kid",
+        "url": "https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212288,
+      "name": "Jealous of a Kid",
+      "url": "https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO"
+    },
+    {
+      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
@@ -1368,7 +1404,7 @@
     {
       "album": {
         "name": "Lay Low",
-        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+        "url": "https://open.spotify.com/album/2rAaK13iXekyefycEQBIxX"
       },
       "artists": [
         {
@@ -1379,6 +1415,24 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 142615,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0cH8U1daDLdpioFHXzbK3S"
+    },
+    {
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/3xhF5I7uVcBHWWabkOk9Km"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
       "duration_ms": 142615,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1W2jSHDSshu2l5mQL5dmT2"
@@ -1396,7 +1450,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 235172,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP"
@@ -1526,6 +1580,24 @@
       "duration_ms": 125419,
       "name": "miss",
       "url": "https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF"
+    },
+    {
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "album": {
@@ -2089,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "SPILL",
+        "url": "https://open.spotify.com/album/5b6XhNME9lNAQiT2NrZzJU"
+      },
+      "artists": [
+        {
+          "name": "STACY OUTRAGEOUS",
+          "url": "https://open.spotify.com/artist/2SCaiLKNpndcf4FYvoortL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "SPILL",
+      "url": "https://open.spotify.com/track/2KGG4wCYyILicxRazWpFTK"
+    },
+    {
+      "album": {
         "name": "trauma ray",
         "url": "https://open.spotify.com/album/6DxOT2chpx586JqiRbqviT"
       },
@@ -2443,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/2WFCybtwzBPm7HlUedTgXW"
+      },
+      "artists": [
+        {
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146331,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/5rOpcoSV3iWfoMo3LOKMuJ"
+    },
+    {
+      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -2562,7 +2670,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 298110,
       "name": "Velvet River",
       "url": "https://open.spotify.com/track/4uTA2zBDjO3lVrMS9z73i0"
@@ -2620,7 +2728,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 294208,
       "name": "Wasted (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv"
@@ -2681,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "i'll be okay",
+        "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/50hxpwsOJzyixVu9e02Dm3"
       },
@@ -2710,7 +2836,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 163350,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/0prQCTD21VDitSeQA0gcHe"
@@ -2772,6 +2898,28 @@
       "duration_ms": 197333,
       "name": "You Know",
       "url": "https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU"
+    },
+    {
+      "album": {
+        "name": "you without me",
+        "url": "https://open.spotify.com/album/3DSzE2XUYgBCof4KFAc9qp"
+      },
+      "artists": [
+        {
+          "name": "familypet",
+          "url": "https://open.spotify.com/artist/0qrKkQFiL3vftNOhGuIJEX"
+        },
+        {
+          "name": "julietta star",
+          "url": "https://open.spotify.com/artist/63mnXo3QJOX6MjW3yj6VQW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226174,
+      "name": "you without me",
+      "url": "https://open.spotify.com/track/5n40TTgoENVfNj9sfMhM9N"
     },
     {
       "album": {

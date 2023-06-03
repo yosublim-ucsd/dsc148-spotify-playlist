@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,202 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,195 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,10 +177,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 167 | [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 |
 | 168 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 |
 | 169 | [Rexroth's Daughter](https://open.spotify.com/track/0Yj8SWQh7DAKlzLmvFjkyD) | [Winterbloom](https://open.spotify.com/artist/7px8GPCFd83A8CWTstThGQ) | [Winterbloom: Traditions Rearranged](https://open.spotify.com/album/5aAsQgYXJADCo6JUcw9iww) | 4:18 |
-| 170 | [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 |
+| 170 | [Christmas Tree](https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/67Cc0oA2zbfJQDs1V0kFSY) | 3:13 |
 | 171 | [If We Make It Through December](https://open.spotify.com/track/5tuAa5RlaA3X3WXfGkOiDY) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 2:38 |
 | 172 | [Baby It's Cold Outside](https://open.spotify.com/track/13jXcI3wLW2C3SRvga26h3) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o), [Julie Davis](https://open.spotify.com/artist/35Cw4y5MjO4vdkYhFPGaKt) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:16 |
 | 173 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 174 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MCwwODFhNjE3NzJiMmVkYjdiYmQzNzFhMjYwNGMzNWUwNDY0M2QyYjgy`
+Snapshot ID: `MCw0ZTQ0OGI0NjcxNWMzODcxY2ExNDk3ZjJkZGUyYTNmNjMzYjQwOWE3`

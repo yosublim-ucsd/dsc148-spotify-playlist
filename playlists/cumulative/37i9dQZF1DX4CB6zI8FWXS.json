@@ -2135,6 +2135,32 @@
     },
     {
       "album": {
+        "name": "Popular [From The Idol Vol. 1 (Music from the HBO Original Series)]",
+        "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna)",
+      "url": "https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR"
+    },
+    {
+      "album": {
         "name": "Pray It Away",
         "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
       },
@@ -2754,7 +2780,7 @@
     {
       "album": {
         "name": "A Kid From Yerevan",
-        "url": "https://open.spotify.com/album/15faNhkthd1ph8RFvsuB2o"
+        "url": "https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu"
       },
       "artists": [
         {
@@ -2773,6 +2799,32 @@
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 317647,
+      "name": "Text Me When You Get Home",
+      "url": "https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt"
+    },
+    {
+      "album": {
+        "name": "A Kid From Yerevan",
+        "url": "https://open.spotify.com/album/15faNhkthd1ph8RFvsuB2o"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Lola Vialet",
+          "url": "https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD"
+        },
+        {
+          "name": "UHMEER",
+          "url": "https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
       "duration_ms": 317647,
       "name": "Text Me When You Get Home",
       "url": "https://open.spotify.com/track/3smoRPTQLhVoKbSX9kX5Y2"

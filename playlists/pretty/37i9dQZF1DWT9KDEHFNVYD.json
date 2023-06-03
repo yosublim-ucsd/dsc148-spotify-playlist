@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9776,
+  "num_followers": 9781,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTY2YmFiYjVlZTdhM2I3NWViYjJjMzk1NzIyMTE1MjhmMDY4Yzc0",
+  "snapshot_id": "MCwzODI2NjNkZDJjY2NlZGVlMjg3NmVjMzA0NjEwMjI1OTc1MzZhNjhj",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Silver Apples",
-        "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
+        "name": "Masana Temples",
+        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
       "artists": [
         {
-          "name": "Silver Apples",
-          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Program",
-      "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
+      "duration_ms": 193530,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Masana Temples",
-        "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
+        "name": "Silver Apples",
+        "url": "https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya"
       },
       "artists": [
         {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+          "name": "Silver Apples",
+          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
         }
       ],
-      "duration_ms": 193530,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/0thTo7umyVGvfnaQmQUuZX"
+      "duration_ms": 245400,
+      "name": "Program",
+      "url": "https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
-    },
-    {
       "added_at": "2023-01-12 03:40:17",
       "album": {
         "name": "Ghost Power",
@@ -835,6 +819,22 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 141800,
       "name": "Han-Tyumi, The Confused Cyborg",
       "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Boxed In",
-        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
-      },
-      "artists": [
-        {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "All Your Love is Gone",
-      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+        "name": "Boxed In",
+        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
       "artists": [
         {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
         }
       ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+      "duration_ms": 310040,
+      "name": "All Your Love is Gone",
+      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Codes and Keys",
         "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 387200,
       "name": "Autoroute",
       "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "void beats/invocation trex",
+        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 233903,
+      "name": "melody in high feedback tones",
+      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "void beats/invocation trex",
-        "url": "https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 233903,
-      "name": "melody in high feedback tones",
-      "url": "https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "With Dim Light",
         "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
-      },
-      "artists": [
-        {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Switched On",
         "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 322360,
       "name": "Super-Electric",
       "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Emperor Tomato Ketchup",
-        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
+        "name": "Interloper",
+        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Holy Wave",
+          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Les Yper-Sound",
-      "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
+      "duration_ms": 247900,
+      "name": "I'm Not Living in the Past Anymore",
+      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Emperor Tomato Ketchup",
+        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Les Yper-Sound",
+      "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Power Out",
         "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 273840,
       "name": "Only One Thing Is Needed",
       "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Interloper",
-        "url": "https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 247900,
-      "name": "I'm Not Living in the Past Anymore",
-      "url": "https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     },
     {
-      "added_at": "2022-08-19 02:50:25",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+        "name": "Proper Music",
+        "url": "https://open.spotify.com/album/0Ls3mve0dhnvVFUA4w9muR"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "MADMADMAD",
+          "url": "https://open.spotify.com/artist/7y4JZjyr1HUM5b4mvtk1fJ"
         }
       ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+      "duration_ms": 232146,
+      "name": "Kraut",
+      "url": "https://open.spotify.com/track/5ByCDTluMI9sZhwFAyj0Oc"
     }
   ],
   "unique_name": "Krautrock Highway",

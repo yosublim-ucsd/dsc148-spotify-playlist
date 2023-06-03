@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-626 songs - 1 day 2 hr 29 min
+627 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Always](https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9) | [Shin Suzuma](https://open.spotify.com/artist/6a3Jke3IQZCLtEkZOjro89) | [Introspect](https://open.spotify.com/album/6AxKd6jWuhiHs5hiVPi92Y) | 3:18 | 2023-05-09 |  |
 | [Always Be Mine](https://open.spotify.com/track/3ZNTziffuR64dmdeUW7MUm) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Always Be Mine](https://open.spotify.com/album/25JlVcp9yswRjYpzsllnzB) | 2:20 | 2022-05-27 | 2022-09-24 |
 | [Am Leipzig Zeit](https://open.spotify.com/track/2qVvVAJvZegbHkYciOlnts) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [Am Leipzig Zeit](https://open.spotify.com/album/1Yz0G7wyJMMVQcq2eCfsPG) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Amble](https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Amble](https://open.spotify.com/album/4EU2EZj2ocsJTYEgCAUAVA) | 2:36 | 2022-05-27 |  |
+| [Amble](https://open.spotify.com/track/5gvjOIFPr6moYBmWSV7B0V) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Amble](https://open.spotify.com/album/4EU2EZj2ocsJTYEgCAUAVA) | 2:36 | 2022-05-27 | 2023-06-03 |
 | [Amitié éternelle](https://open.spotify.com/track/7Kcs72BhrZBttmuwt2g77K) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amitié éternelle](https://open.spotify.com/album/3WFkYJ4WoNs0SXUz3vcF3R) | 2:15 | 2022-05-27 | 2022-09-24 |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-05-27 | 2023-01-21 |
 | [Anointed](https://open.spotify.com/track/1Rl0houECoVSeNPp8VXC1m) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Anointed](https://open.spotify.com/album/39CNJPF5pFr35SjTYMDWjE) | 2:01 | 2023-04-18 |  |
@@ -189,6 +189,7 @@
 | [Freedom](https://open.spotify.com/track/5PHIGFF2ikcf0lEGH5D9fZ) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Freedom](https://open.spotify.com/album/4ekcFTkZHjuLXCYMFxZ8Ug) | 2:16 | 2022-05-27 | 2022-09-24 |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2022-05-27 | 2023-05-10 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-05-27 |  |
+| [Frühlingserwachen](https://open.spotify.com/track/1L54P6yrhLNADvO50r5XbT) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Frühlingserwachen](https://open.spotify.com/album/5TfHigXqrAYvlx4JXjJlMS) | 2:20 | 2023-05-19 |  |
 | [Fulfilled](https://open.spotify.com/track/4rHaA21L4F8ScRLCCOZsCM) | [Alejandro Seitz](https://open.spotify.com/artist/3uRK0WRR8JCS6mlkg3NHej) | [Fulfilled](https://open.spotify.com/album/750a4bHkMhjvPdSTbLxLWN) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-05-27 | 2023-01-03 |
 | [Gaillardia](https://open.spotify.com/track/69d0gZwwmPtEKC69IANjWW) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Gaillardia](https://open.spotify.com/album/1IkqsEsJ6KoFgzb2shp98P) | 2:11 | 2022-05-27 |  |

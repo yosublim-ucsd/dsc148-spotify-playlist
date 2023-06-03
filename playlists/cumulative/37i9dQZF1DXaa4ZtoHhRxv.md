@@ -4,7 +4,7 @@
 
 > hey it's Diplo taking over Country Club 🐊 here are some of my favorite country tracks for the club.
 
-147 songs - 8 hr 5 min
+148 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-10 |  |
 | [Coulda Loved You Longer \- Petey Martin Remix](https://open.spotify.com/track/5C4IBWesuAEC98pkN4I3uc) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Coulda Loved You Longer \(Petey Martin Remix\)](https://open.spotify.com/album/1Hmtk5kiXOBMkz3OeFDSfs) | 2:28 | 2021-12-10 |  |
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-02-18 |  |
+| [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 | 2023-06-02 |  |
 | [Coyote Ugly \(Dave Audé MegaMix\)](https://open.spotify.com/track/6eEAcjkSy4fQ2HXAPJChP1) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Coyote Ugly \(Dave Audé MegaMix\)](https://open.spotify.com/album/0Kp8UdAga05TcR9uXQEtBR) | 4:18 | 2021-12-10 |  |
 | [Cruise \- Remix](https://open.spotify.com/track/2IQIp6AvSm7OJ3y2yp8use) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Big Machine Dance Party](https://open.spotify.com/album/7gGlDoGV5Oc1PGT92fu7cM) | 3:27 | 2021-12-10 |  |
 | [Cut Me Loose \- Harris & Hurr Remix](https://open.spotify.com/track/4eE1ZdBoLpgYFhqDzUw71Y) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Cut Me Loose \(Harris & Hurr Remix\)](https://open.spotify.com/album/0nci4XAlOufPc6FpJv4wLa) | 3:11 | 2022-04-22 |  |

@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-128 songs - 6 hr 33 min
+129 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-11-11 | 2023-01-21 |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 |  |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 | 2022-12-17 |
-| [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/album/55lcfTtyhfPTptxe738Pno) | 2:35 | 2023-04-21 |  |
+| [Looking At You](https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You](https://open.spotify.com/album/3SS9gjPL8kG4WMg6T20FUk) | 2:35 | 2023-05-19 |  |
+| [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You \(feat\. Kruizz\)](https://open.spotify.com/album/55lcfTtyhfPTptxe738Pno) | 2:35 | 2023-04-21 | 2023-06-03 |
 | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Ghosts!](https://open.spotify.com/artist/7n6zkjRcVcm27g5HJWKU58) | [Lose Your Love \(feat\. Ghosts!\)](https://open.spotify.com/album/7v0M7q5dtXfvlD2HYaOstf) | 2:58 | 2021-12-24 | 2022-04-23 |
 | [Lost For Days \- Remix](https://open.spotify.com/track/7eUv5Miiq8xSbEKpzI2zJd) | [DJ Valle](https://open.spotify.com/artist/5cYXpZE0nMP9yKot4mb32e) | [Lost For Days \(Remix\)](https://open.spotify.com/album/03kcd2pUOAq7BFD6l54akK) | 2:35 | 2021-12-24 | 2022-03-05 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 |  |

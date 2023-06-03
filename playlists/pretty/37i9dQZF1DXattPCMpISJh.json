@@ -1,13 +1,33 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 88760,
+  "num_followers": 88858,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjk5OGQxNzM1YmQwYTMwOWFmZWU3OTg1ZmNjYjFiODNhNWE5MDI1",
+  "snapshot_id": "MCxmZmQzZGUxMTBmZGZiMDEyMjVhMjZlODdkZTZmYTE5MzNhOTVlNTQy",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Last Man Dancing",
+        "url": "https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "Voices (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY"
+    },
     {
       "added_at": "2023-05-26 04:01:00",
       "album": {
@@ -139,6 +159,26 @@
       "duration_ms": 211049,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Boogie Oogie",
+        "url": "https://open.spotify.com/album/3b3LZpUOr6Jg2XH2qFqm9W"
+      },
+      "artists": [
+        {
+          "name": "Ryan Prewett",
+          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
+        },
+        {
+          "name": "Kiley Dean",
+          "url": "https://open.spotify.com/artist/5DwwWqoLNvjK2DwIh0Ofy2"
+        }
+      ],
+      "duration_ms": 204807,
+      "name": "Boogie Oogie",
+      "url": "https://open.spotify.com/track/1LBgQDXAX5cuzJyeJIyfIa"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -655,22 +695,6 @@
       "duration_ms": 421054,
       "name": "Still In Love - Dave Lee Solar Powered Club Mix",
       "url": "https://open.spotify.com/track/44uMMMbmxXEKLL1ijxUsyw"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/2yXcDJCkVy5aEgkEzI1cxO"
-      },
-      "artists": [
-        {
-          "name": "Gjon's Tears",
-          "url": "https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/4Wi7j71MROAcJPSTT11HQy"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1599,30 +1623,6 @@
       "duration_ms": 211016,
       "name": "Crazy World - Opolopo Radio Remix",
       "url": "https://open.spotify.com/track/3UZOU7uOqYcf5oPCLf5Hyo"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Climbing Up (Colour Castle Dub Mix I)",
-        "url": "https://open.spotify.com/album/0CGhXrgyw2MIQ4cOEVVfqb"
-      },
-      "artists": [
-        {
-          "name": "Colour Castle",
-          "url": "https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS"
-        },
-        {
-          "name": "Clicks",
-          "url": "https://open.spotify.com/artist/3Bn9LAqhJqcTWngq8RWh7P"
-        },
-        {
-          "name": "Fleur De Mur",
-          "url": "https://open.spotify.com/artist/1T8GyoQt9cAAsIFPEzRxzD"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Climbing Up (Colour Castle Dub Edit Mix I)",
-      "url": "https://open.spotify.com/track/7zOLHyza9544S7MqPDEdl0"
     },
     {
       "added_at": "2022-10-14 04:00:00",

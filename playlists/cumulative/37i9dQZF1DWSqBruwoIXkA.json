@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Somehow heartbreak feels good in a place like this. Cover: Maisie Peters",
+  "description": "Somehow heartbreak feels good in a place like this. Cover: Khloe Rose",
   "name": "sad hour",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 213583,
       "name": "Bodybag",
       "url": "https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 148822,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/7IZayFpRYZ3htkcotaigL2"
@@ -7684,7 +7684,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 173954,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW"
@@ -7916,6 +7916,24 @@
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+    },
+    {
+      "album": {
+        "name": "The Other POV",
+        "url": "https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3"
+      },
+      "artists": [
+        {
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179880,
+      "name": "The Other POV",
+      "url": "https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk"
     },
     {
       "album": {

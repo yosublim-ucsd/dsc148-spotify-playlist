@@ -194,7 +194,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 264750,
       "name": "Aonde Est\u00e1 Deus",
       "url": "https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 403932,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Guerreiro",
+        "url": "https://open.spotify.com/album/2XNQurgWJc02kEChTOW8vb"
+      },
+      "artists": [
+        {
+          "name": "William Graziane",
+          "url": "https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267051,
+      "name": "Guerreiro",
+      "url": "https://open.spotify.com/track/0ZIrku5nIXgzRG3tW2Cc5L"
+    },
+    {
+      "album": {
         "name": "HEREGE",
         "url": "https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv"
       },
@@ -1054,6 +1072,24 @@
       "duration_ms": 220128,
       "name": "Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
+    },
+    {
+      "album": {
+        "name": "Mais Amor",
+        "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268786,
+      "name": "Mais Amor",
+      "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
     },
     {
       "album": {

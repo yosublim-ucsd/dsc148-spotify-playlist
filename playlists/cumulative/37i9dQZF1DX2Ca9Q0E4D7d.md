@@ -4,7 +4,7 @@
 
 > Beta frequencies for increased concentration.
 
-71 songs - 3 hr 42 min
+72 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/4BXh6etJ4wKucRbT5oU6kG) | [Beta Gamma](https://open.spotify.com/artist/6zycKAX0nUJe4naz7BthZk) | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/album/0bGcqwRtvhRkBEzAbipJqM) | 2:22 | 2022-09-06 |  |
 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/727VTdgkCBN4zumcmpcfK2) | [Phil O Sophie](https://open.spotify.com/artist/4j7JJYsEkFjo8wcVJMdDcq) | [Binaural Delta Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/1KhUasLZZC8QJUSkihGBGu) | 2:22 | 2022-09-06 |  |
 | [Binaural Beta Sinus 150 Hz \- L 158 Hz \- R](https://open.spotify.com/track/6O41DAhpUb1SfLZli2DzXv) | [Isochrone](https://open.spotify.com/artist/2AeECKGelGkRXNte7JEHBG) | [Gamma \- Beta Focus & Attention](https://open.spotify.com/album/4ZIZZQixuRthfufbemnwrS) | 3:18 | 2022-09-06 |  |
+| [Binaural Beta Sinus 190 Hz \- L 220 Hz \- R](https://open.spotify.com/track/79hcQYMpG00C0I3sdwxEEu) | [FX FORGERS](https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm) | [Sonic Mindset: Binaural Beta Tones for Concentration](https://open.spotify.com/album/3wWaXmUQzOzzCOwPMgIg1u) | 3:28 | 2023-06-02 |  |
 | [Binaural Beta Sinus 200 Hz \- 230 Hz](https://open.spotify.com/track/3w2Vh41pyxunSNvqIKczJG) | [Livia Binaural](https://open.spotify.com/artist/2FTx7K05TT9GciCP1xN8DD) | [Binaural Beta Sinus 200 Hz \- 230 Hz](https://open.spotify.com/album/1Z0eKMSRxkP9cWRtPZLAva) | 2:47 | 2022-09-06 |  |
 | [Binaural Beta Sinus 200 Hz \- 230 Hz](https://open.spotify.com/track/5An2d48EKVtexM6lbOW20u) | [Melatonin Release](https://open.spotify.com/artist/7x4DcBRL3gFsiHZBhMixGO) | [Binaural Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/album/0QzqV0znChOX8CE8Lq8urS) | 2:48 | 2022-09-06 |  |
 | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/track/6P6stOHWAUcbwpLjaPBkNH) | [Electonic Arts](https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB) | [Binaural Beta Sinus 200 Hz \- L 230 Hz \- R](https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX) | 2:33 | 2022-09-06 |  |

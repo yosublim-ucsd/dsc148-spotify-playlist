@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Selwyn Birchwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,289 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,338 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 |
-| 2 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 |
+| 1 | [Love Me Harder](https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Love Me Harder](https://open.spotify.com/album/6RhNHCiWxHVavY7OYWk9UW) | 3:36 |
+| 2 | [LOST IN THE CITY](https://open.spotify.com/track/7bHz0ZMFED3ZN39InD2YmZ) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LEGACY](https://open.spotify.com/album/74v3ofUMm9rHBHV8u0a5sr) | 3:13 |
 | 3 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 |
 | 4 | [Lips Are Movin'](https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB) | 2:42 |
 | 5 | [Rippin' And Runnin'](https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Death Wish Blues](https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCw3MDQyNWU0OTllYThlNDMzYzIzNzQyZjY3MjRlMmQ0YWI5ZTk4NWNh`
+Snapshot ID: `MCxjMjUwNDI3MmE4YmU3ZmU0YWI0ZjM1NTUzMjdmYzc0MmNjNjkxMDQz`

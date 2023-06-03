@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 245125,
       "name": "Almighty",
       "url": "https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH"
@@ -1158,6 +1158,24 @@
       "duration_ms": 152424,
       "name": "another late night",
       "url": "https://open.spotify.com/track/6BYOpXiuO1NAZeMtw2tlmn"
+    },
+    {
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "album": {
@@ -2323,6 +2341,24 @@
     },
     {
       "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/2jVuesqx0nwRmf3us1GMIk"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189338,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/0HOGhI5rJXiDaNI3DQ43dz"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs"
       },
@@ -3330,7 +3366,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 159880,
       "name": "BUMMER!",
       "url": "https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3"
@@ -8739,6 +8775,24 @@
     },
     {
       "album": {
+        "name": "get a load of this guy",
+        "url": "https://open.spotify.com/album/7xobdrJBqStpQfYakz8I3m"
+      },
+      "artists": [
+        {
+          "name": "contradash",
+          "url": "https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119258,
+      "name": "get a load of this guy",
+      "url": "https://open.spotify.com/track/4ktuAb4zWsZ9Ceev7vCleB"
+    },
+    {
+      "album": {
         "name": "Get Inspired",
         "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
@@ -11648,7 +11702,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 140124,
       "name": "Ibuprofen",
       "url": "https://open.spotify.com/track/2ZEGluhGO9zXiJp2ANmTIS"
@@ -16396,7 +16450,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186940,
       "name": "Oatmeal Pancakes",
       "url": "https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a"
@@ -17046,6 +17100,24 @@
       "duration_ms": 126278,
       "name": "PACK 4 DA LOW",
       "url": "https://open.spotify.com/track/77bvhrf6eY9V7eDku7TYs3"
+    },
+    {
+      "album": {
+        "name": "Painless",
+        "url": "https://open.spotify.com/album/5srVsRgd3pNpsc8ccpAGL7"
+      },
+      "artists": [
+        {
+          "name": "grandma",
+          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194878,
+      "name": "Painless",
+      "url": "https://open.spotify.com/track/4hMjAmwoUCDCXHO0aAnshF"
     },
     {
       "album": {
@@ -21049,6 +21121,24 @@
     },
     {
       "album": {
+        "name": "snow globe",
+        "url": "https://open.spotify.com/album/4S4n7ahgjiVLDbVA2dyTK0"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota",
+          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127270,
+      "name": "snow globe",
+      "url": "https://open.spotify.com/track/335AAv8ROSDj8cnm7NrSG1"
+    },
+    {
+      "album": {
         "name": "SNOWCONE",
         "url": "https://open.spotify.com/album/4niafdNQY4a0pNDNFQq4vv"
       },
@@ -22152,7 +22242,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144537,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/5dUw33Ixf3sX87VqrPi2dK"

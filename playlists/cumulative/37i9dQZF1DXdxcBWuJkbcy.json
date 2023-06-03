@@ -785,6 +785,36 @@
     },
     {
       "album": {
+        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Joel Corry Remix]",
+        "url": "https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A"
+    },
+    {
+      "album": {
         "name": "Back It Up (feat. Laidback Luke)",
         "url": "https://open.spotify.com/album/1TbQnw4zjL0peePNtcVi3K"
       },
@@ -3723,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "album": {
         "name": "Ecuador",
         "url": "https://open.spotify.com/album/5aFEFBc0dRvIw5toM4K7oQ"
       },
@@ -6002,7 +6054,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 125624,
       "name": "I'm So Excited - Siks Remix",
       "url": "https://open.spotify.com/track/5lvXklAtsaPvyxZFxRx9oC"
@@ -6270,6 +6322,28 @@
       "duration_ms": 176097,
       "name": "Insomnia - King Topher Remix",
       "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/042dgI8wqRLRoXSwM8oBcU"
+      },
+      "artists": [
+        {
+          "name": "Andrew Meller",
+          "url": "https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140390,
+      "name": "Insomnia - Matt Sassari Remix",
+      "url": "https://open.spotify.com/track/2vG4vPqF8gHtGSjoE0YckH"
     },
     {
       "album": {
@@ -9701,6 +9775,28 @@
     },
     {
       "album": {
+        "name": "Queen of Kings (Gabry Ponte Remix)",
+        "url": "https://open.spotify.com/album/2N42REw8waw1JxcwyxO5ac"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Queen of Kings - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/6I0t9btY1MH0tdSj2qdTr3"
+    },
+    {
+      "album": {
         "name": "Rays Of Gold",
         "url": "https://open.spotify.com/album/62pmsFfhlK0ebn9AKZuDZn"
       },
@@ -12398,7 +12494,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 202941,
       "name": "The Otherside (feat. Paige Cavell)",
       "url": "https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH"
@@ -13068,7 +13164,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170000,
       "name": "Unholy (feat. Kim Petras) - David Guetta Acid Remix",
       "url": "https://open.spotify.com/track/6uZ6M4MAhDQJDmjCcKDdVf"
@@ -14406,7 +14502,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"

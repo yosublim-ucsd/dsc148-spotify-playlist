@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 55927,
+  "num_followers": 55983,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWNmOGI5MDdjMmQ1M2Q2NjQ3NmYzYWJiZDMyODMxOTEyYzgxNTBk",
+  "snapshot_id": "MCw4NWY0ZDVhZGI2ZWQ2OWI1NGY3YTA0NDZmNDcwMWZjMzVkYjViYjlk",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 375636,
-      "name": "Star People - Live",
-      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 375636,
+      "name": "Star People - Live",
+      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 265520,
-      "name": "Take A Chance On Me - Live",
-      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 270840,
       "name": "Animals - Live In Manchester",
       "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Lost - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Lost - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
+      "duration_ms": 265520,
+      "name": "Take A Chance On Me - Live",
+      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 413776,
-      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
         "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 240165,
       "name": "I Won't Let You Go - Live At The Hospital Club",
       "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     }
   ],
   "unique_name": "Pop Live",

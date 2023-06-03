@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTZhZTdlZDRiOGNmYTM4MGM5NGJjYTAxNzk3YmQzMWNkZDFhMzlm",
+  "snapshot_id": "MCw1YWZkYjg0NmFjYjEzZTFjZDAzZTZiMTNhM2ZhYTE0M2ZiMzc4Y2Jm",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 120933,
-      "name": "Never Felt This Way",
-      "url": "https://open.spotify.com/track/6FyPqOyyNJt5t7FICy1cdm"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Danity Kane",
         "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 104093,
       "name": "Come Over Interlude",
       "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 120933,
+      "name": "Never Felt This Way",
+      "url": "https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Nobody Not Really (Interlude)",
+      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 42693,
       "name": "Intermission-lude",
       "url": "https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Nobody Not Really (Interlude)",
-      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 70386,
-      "name": "Definition of a Bad Girl (Interlude)",
-      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Frank (US Clean e-Version)",
         "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 39026,
       "name": "Teo Licks",
       "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 70386,
+      "name": "Definition of a Bad Girl (Interlude)",
+      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 116306,
-      "name": "Stay (Interlude)",
-      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
+      "duration_ms": 101866,
+      "name": "Tears Away (Interlude)",
+      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 101866,
-      "name": "Tears Away (Interlude)",
-      "url": "https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe"
+      "duration_ms": 116306,
+      "name": "Stay (Interlude)",
+      "url": "https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA"
     },
     {
       "added_at": "2022-12-03 05:29:16",

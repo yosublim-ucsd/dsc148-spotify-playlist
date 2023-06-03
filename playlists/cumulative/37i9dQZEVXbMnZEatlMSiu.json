@@ -7103,6 +7103,28 @@
     },
     {
       "album": {
+        "name": "\u4e00\u9996\u6b4c",
+        "url": "https://open.spotify.com/album/3Z9chypYz0Qqbpk3K7rBtc"
+      },
+      "artists": [
+        {
+          "name": "\u5a41\u5cfb\u78a9",
+          "url": "https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118784,
+      "name": "\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/2gy0I9WTZh4Xg0DrV6wtFG"
+    },
+    {
+      "album": {
         "name": "TALENT",
         "url": "https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF"
       },
@@ -7494,7 +7516,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 218333,
       "name": "\u4ed7\u7740",
       "url": "https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC"
@@ -7530,7 +7552,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142266,
       "name": "\u4f46",
       "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
@@ -10140,7 +10162,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"

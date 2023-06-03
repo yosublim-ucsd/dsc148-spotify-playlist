@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bChoi HEART(\ucd5c\ud558\ud2b8)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 41065,
+  "num_followers": 41115,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWUwZTAwODQ2MTA2NzQwNWVmZjkwM2Q5N2IxOGE4NjRmODJmYjc0",
+  "snapshot_id": "MCxjNDhhZTkxZDE5ODM4YzZkM2NmMjA1OTVjZGIyZmUzNDRhNGZhYWRh",
   "tracks": [
     {
       "added_at": "2023-05-05 08:27:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Onstage Digging Club Seoul THEME 04",
-        "url": "https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF"
-      },
-      "artists": [
-        {
-          "name": "jeebanoff",
-          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
-        }
-      ],
-      "duration_ms": 198050,
-      "name": "The girl in my memories (Digging club Seoul Ver.)",
-      "url": "https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 04",
+        "url": "https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "duration_ms": 198050,
+      "name": "The girl in my memories (Digging club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Sweet Girl",
-        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "Sweet Girl",
-      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Onstage Digging Club Seoul THEME 01",
         "url": "https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Elastic Love",
-        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
       },
       "artists": [
         {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
         }
       ],
-      "duration_ms": 218880,
-      "name": "Elastic Love",
-      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -927,6 +911,22 @@
       "duration_ms": 194373,
       "name": "Love Note!",
       "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Elastic Love",
+        "url": "https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Elastic Love",
+      "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 212137,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.03",
         "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 270270,
       "name": "Orange Road (with YUKIKA)",
       "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1147,22 +1131,6 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1231,26 +1199,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 223351,
-      "name": "Haru (with meenoi)",
-      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1267,6 +1215,42 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 223351,
+      "name": "Haru (with meenoi)",
+      "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
         "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
       },
@@ -1351,6 +1319,22 @@
       "duration_ms": 294700,
       "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
       "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1483,6 +1467,38 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 191587,
+      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
+      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2023-05-05 08:27:44",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
@@ -1531,22 +1531,6 @@
       "duration_ms": 219666,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
-    },
-    {
-      "added_at": "2023-05-05 08:27:44",
-      "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 191587,
-      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
-      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
     },
     {
       "added_at": "2023-05-05 08:27:44",
@@ -1659,6 +1643,22 @@
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "added_at": "2023-05-05 08:27:44",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 70055,
+  "num_followers": 70059,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM4OTg1ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM5MDcyMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "FELDOBOM A K\u00d6VET",
+      "url": "https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/3UlXaigjBM3sHyOpDbh1RI"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -105,39 +105,7 @@
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "FELDOBOM A K\u00d6VET",
-        "url": "https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "FELDOBOM A K\u00d6VET",
-      "url": "https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -157,10 +125,10 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
@@ -168,28 +136,12 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 263980,
-      "name": "Delirium",
-      "url": "https://open.spotify.com/track/7AQgdMSlaJCU1J75INPyK1"
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Egyed\u00fcl a s\u00f6t\u00e9tben",
-        "url": "https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt"
-      },
-      "artists": [
-        {
-          "name": "Follow The Flow",
-          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
-        }
-      ],
-      "duration_ms": 158955,
-      "name": "Sz\u00e9lcsend",
-      "url": "https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Csakaszesz",
         "url": "https://open.spotify.com/album/3bvEZQLNygrRkdyf5J9I8k"
@@ -205,7 +157,87 @@
       "url": "https://open.spotify.com/track/623u7OpPyVRc77cGOlX65n"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Inkassz\u00f3",
+        "url": "https://open.spotify.com/album/2IiR6Ip9HYivEVScMaLpmv"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 149673,
+      "name": "Inkassz\u00f3",
+      "url": "https://open.spotify.com/track/7n5JBAnjVBTFgTEsd27bTU"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "FANTOMREZG\u00c9S",
+      "url": "https://open.spotify.com/track/3D2uXB3SZoDX6dUfI6sYbh"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 263980,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/7AQgdMSlaJCU1J75INPyK1"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Egyed\u00fcl a s\u00f6t\u00e9tben",
+        "url": "https://open.spotify.com/album/5r3kAKa7EP0BnAzIvQN3kt"
+      },
+      "artists": [
+        {
+          "name": "Follow The Flow",
+          "url": "https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC"
+        }
+      ],
+      "duration_ms": 158955,
+      "name": "Sz\u00e9lcsend",
+      "url": "https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/3viRS8dmqrg2j71qisdECB"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "V\u00e1rn\u00e9k",
         "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
@@ -261,27 +293,7 @@
       "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "DESHPERADO",
-        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 140480,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Csavarg\u00f3",
         "url": "https://open.spotify.com/album/7brKQyvjCymITjb8SEZiZe"
@@ -301,7 +313,79 @@
       "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "DESHPERADO",
+        "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "VIGY\u00c1ZZ, K\u00c9SZ, RAJT",
+      "url": "https://open.spotify.com/track/2ugEbxVy9KE0r82w7mIMUk"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "F\u00e9lek",
+        "url": "https://open.spotify.com/album/4giDd1iLLSpbZjZHuI1IEl"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "F\u00e9lek",
+      "url": "https://open.spotify.com/track/79djK7ACKQHCrIXOZozQv0"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Pullup",
+      "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
@@ -325,7 +409,7 @@
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
@@ -341,59 +425,7 @@
       "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Inkassz\u00f3",
-        "url": "https://open.spotify.com/album/2IiR6Ip9HYivEVScMaLpmv"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 149673,
-      "name": "Inkassz\u00f3",
-      "url": "https://open.spotify.com/track/7n5JBAnjVBTFgTEsd27bTU"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Pullup",
-      "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -409,7 +441,23 @@
       "url": "https://open.spotify.com/track/4BHHsydPdymvTW0cmasgAR"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "NEH\u00c9Z DAL",
+      "url": "https://open.spotify.com/track/3ByxlgjXgRPpeO7MN5s1ec"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -425,10 +473,10 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "FANTOMREZG\u00c9S",
-        "url": "https://open.spotify.com/album/0aOXRujpIOiyLTLhvgGZi1"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
       },
       "artists": [
         {
@@ -436,28 +484,60 @@
           "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         }
       ],
-      "duration_ms": 145946,
-      "name": "FANTOMREZG\u00c9S",
-      "url": "https://open.spotify.com/track/1q1qHGBqlmueSgrctJkuPt"
+      "duration_ms": 221746,
+      "name": "DR. DOKTOR",
+      "url": "https://open.spotify.com/track/4gfImvR9eqBRjBwYeMxj1k"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "F\u00e9lek",
-        "url": "https://open.spotify.com/album/4giDd1iLLSpbZjZHuI1IEl"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
         }
       ],
-      "duration_ms": 171707,
-      "name": "F\u00e9lek",
-      "url": "https://open.spotify.com/track/79djK7ACKQHCrIXOZozQv0"
+      "duration_ms": 205133,
+      "name": "NAGYKAB\u00c1T (ne j\u00e1tszd az agyad)",
+      "url": "https://open.spotify.com/track/2E1E9HnhYHAbiwkBorPV1Q"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Sose Alszok",
+        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+      },
+      "artists": [
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "Csokko",
+        "url": "https://open.spotify.com/album/72PNr1fXIAE9PXpbMaIT7o"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 162820,
+      "name": "Csokko",
+      "url": "https://open.spotify.com/track/38qhsm0c4QVk6BMhtvZFWv"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -477,55 +557,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "Sose Alszok",
-        "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
       "artists": [
         {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Smash!",
-      "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "SZ\u00cdNVAK",
-        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "SZ\u00cdNVAK",
-      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "F\u00fcgg\u0151",
-        "url": "https://open.spotify.com/album/4sjnVOB3UFMS1WiZkKOgB6"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "F\u00fcgg\u0151",
-      "url": "https://open.spotify.com/track/2WO6S8AQfpwB7QVqvaOnDP"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -545,23 +593,23 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "Csokko",
-        "url": "https://open.spotify.com/album/72PNr1fXIAE9PXpbMaIT7o"
+        "name": "F\u00fcgg\u0151",
+        "url": "https://open.spotify.com/album/4sjnVOB3UFMS1WiZkKOgB6"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 162820,
-      "name": "Csokko",
-      "url": "https://open.spotify.com/track/38qhsm0c4QVk6BMhtvZFWv"
+      "duration_ms": 200000,
+      "name": "F\u00fcgg\u0151",
+      "url": "https://open.spotify.com/track/2WO6S8AQfpwB7QVqvaOnDP"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -577,7 +625,23 @@
       "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "INKOGNIT\u00d3",
+      "url": "https://open.spotify.com/track/3fOI6XtrFOWx50mChlbhi0"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "Rosszl\u00e1ny",
         "url": "https://open.spotify.com/album/412yyBe1KPIfPxXH0aRTrV"
@@ -593,67 +657,7 @@
       "url": "https://open.spotify.com/track/2DlC1q5HjHwf4VAxDOvfPR"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 161082,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "Mind1",
-      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Topshit",
-        "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 166164,
-      "name": "Topshit",
-      "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -681,10 +685,114 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "100 l\u00e1ny",
-        "url": "https://open.spotify.com/album/71ImtXkRcjWqT1TUl7UeeP"
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 161082,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "Mind1",
+      "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 31653,
+      "name": "M3",
+      "url": "https://open.spotify.com/track/1mr4BzyaEMawNo1KqnaEyn"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "BANKRABL\u00c1S ATIVAL",
+      "url": "https://open.spotify.com/track/6brORzQPXSuQ1K5c3HybEv"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "SZ\u00d3LJATOK R\u00c1M",
+      "url": "https://open.spotify.com/track/2oJxV5AET8l2VGE238J2Zf"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "POKOL",
+      "url": "https://open.spotify.com/track/4e1PTBGTM0JwwVAIOhwxzt"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "SZ\u00cdNVAK",
+        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
       },
       "artists": [
         {
@@ -692,12 +800,48 @@
           "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
         }
       ],
-      "duration_ms": 127556,
-      "name": "100 l\u00e1ny",
-      "url": "https://open.spotify.com/track/1Is1orea1vY8ZF4pnyZHBQ"
+      "duration_ms": 198278,
+      "name": "SZ\u00cdNVAK",
+      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "A l\u00f3 t\u00faloldal\u00e1n",
+        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 180749,
+      "name": "Tiszt\u00e1n iszom",
+      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "duration_ms": 218853,
+      "name": "NEM A TE DOLGOD",
+      "url": "https://open.spotify.com/track/5jsXTjwU9IzPIY6ysTR6Eb"
+    },
+    {
+      "added_at": "2023-06-02 10:08:59",
       "album": {
         "name": "KDT",
         "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
@@ -725,184 +869,20 @@
       "url": "https://open.spotify.com/track/6WBuRbov384zl6wPJ49piD"
     },
     {
-      "added_at": "2023-06-01 09:37:15",
+      "added_at": "2023-06-02 10:08:59",
       "album": {
-        "name": "A l\u00f3 t\u00faloldal\u00e1n",
-        "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
+        "name": "100 l\u00e1ny",
+        "url": "https://open.spotify.com/album/71ImtXkRcjWqT1TUl7UeeP"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
         }
       ],
-      "duration_ms": 180749,
-      "name": "Tiszt\u00e1n iszom",
-      "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "t\u00e9veszm\u00e9k",
-      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Forog a vil\u00e1g",
-        "url": "https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5"
-      },
-      "artists": [
-        {
-          "name": "Ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Forog a vil\u00e1g",
-      "url": "https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 206718,
-      "name": "Hessdalen",
-      "url": "https://open.spotify.com/track/4MKnUrPgpE61RbKriwQLBf"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Idegen",
-        "url": "https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 191204,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Gett\u00f3 csirke",
-        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 136286,
-      "name": "Gett\u00f3 csirke",
-      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
-    },
-    {
-      "added_at": "2023-06-01 09:37:15",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 127556,
+      "name": "100 l\u00e1ny",
+      "url": "https://open.spotify.com/track/1Is1orea1vY8ZF4pnyZHBQ"
     }
   ],
   "unique_name": "Top 50 - Hungary",

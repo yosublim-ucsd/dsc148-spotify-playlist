@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq?si=0YxHYu-STdOTRYIZnMoAzQ\">CAIN</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=d92da505684846fe\">Naomi Raine</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211499,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
       },
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
@@ -5693,7 +5711,7 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183520,
+      "duration_ms": 183558,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/3xXbmW2ONUQzlBG7WLmxI1"
     },
@@ -8013,6 +8031,28 @@
     },
     {
       "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504992,
+      "name": "Sing Hallelujah (with Natalie Grant) - Live",
+      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
+    },
+    {
+      "album": {
         "name": "Sing, Sing, Sing",
         "url": "https://open.spotify.com/album/2pAEWheqB6vomKLBpqVDA9"
       },
@@ -9754,7 +9794,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 190733,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd"

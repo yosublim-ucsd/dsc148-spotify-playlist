@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 28892,
+  "num_followers": 29054,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGRlNzA2NzE5OWYxODg1MjRmNGNmNmY2MjdhOTYyNDlmZDQ4Nzg4",
+  "snapshot_id": "MCw4MmFmODJhZjgyMmE2MWY0NjdhYWQwNzg5Mzg1ZmJiYjA3MTJkODdi",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live Art",
-        "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 326560,
-      "name": "Stomping Grounds - Live Version",
-      "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "After Midnight: Kean College, 2/28/80",
         "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 200186,
       "name": "Eleanor Rigby - Live",
       "url": "https://open.spotify.com/track/24HAdFPR0bkgoyGrRWToF4"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Live Art",
+        "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "duration_ms": 326560,
+      "name": "Stomping Grounds - Live Version",
+      "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
-        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
-      },
-      "artists": [
-        {
-          "name": "Phil Lesh & Communion",
-          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
-        }
-      ],
-      "duration_ms": 1020206,
-      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
-      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live From The Fall",
         "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 281960,
       "name": "Regarding Steven",
       "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Communion",
+          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+        }
+      ],
+      "duration_ms": 1020206,
+      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
+      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands (The Fillmore, San Francisco)",
-        "url": "https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 586520,
-      "name": "Soul Singing",
-      "url": "https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live at House of Blues Boston (12/31/2018)",
         "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 430066,
       "name": "Lost in the Cold (Live)",
       "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands (The Fillmore, San Francisco)",
+        "url": "https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 586520,
+      "name": "Soul Singing",
+      "url": "https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir"
     },
     {
       "added_at": "2023-04-06 15:04:32",

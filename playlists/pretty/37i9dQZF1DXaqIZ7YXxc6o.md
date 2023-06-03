@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Club Angel & Becca Hatch
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,884 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,911 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 17 | [Da Da Da](https://open.spotify.com/track/6zRoWwfWwk90gIQpjdiOBd) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Da Da Da](https://open.spotify.com/album/5ALu0NSTz8Xl5Pa93Y8y77) | 2:42 |
 | 18 | [Don't Let Me Down \(feat\. BENEE\) \[Willo Remix\]](https://open.spotify.com/track/22LKhiF30OUAgkoNCWEVXW) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down \(feat\. BENEE\) \[Willo Remix\]](https://open.spotify.com/album/30JePWdMxsO2fhXq0ChsVz) | 3:43 |
 | 19 | [A New Day](https://open.spotify.com/track/3atjwnaXAuhLlKwfNYfSVS) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [A New Day](https://open.spotify.com/album/7gLxf9O3nzi5itOPEvHsNa) | 3:30 |
-| 20 | [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 |
+| 20 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 21 | [Untamed](https://open.spotify.com/track/7LeHl1tlcqRCJPX1S8h3EZ) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo), [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [Untamed](https://open.spotify.com/album/2Cj1Ot9J6PxYcQhQ3jGFJn) | 4:15 |
 | 22 | [Find Love](https://open.spotify.com/track/0RSeZsQ2AwR6FSidj6G6QN) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Find Love](https://open.spotify.com/album/7rgzTxxUqi2hgXNntYcJCn) | 3:36 |
 | 23 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Eucharist](https://open.spotify.com/track/4xjDHLjV7TQDKoCISQbmQr) | [Tyson O'brien](https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL) | [Eucharist](https://open.spotify.com/album/2zdt55b4pymPDAv6sHw9DA) | 3:58 |
 | 100 | [Feel So Right](https://open.spotify.com/track/413ohAXKzfLwQk5UWlOTH9) | [Borj.](https://open.spotify.com/artist/3O7bD1NOJOWs4cokNjNcEr) | [Feel So Right](https://open.spotify.com/album/7Gl2PcRu0ckytidELBgfCU) | 2:09 |
 
-Snapshot ID: `MCwwNjIyMTFjNmUxMTdkN2YyNzg4ZGM3ZDIwMDc1ZDFlNGY4ZTQ4YjAz`
+Snapshot ID: `MCxlOWU1MjIyYjVjNzA3NTg3Y2FiZTgzM2I1ZGRlYzM4YzY3ZTg4ZTJm`

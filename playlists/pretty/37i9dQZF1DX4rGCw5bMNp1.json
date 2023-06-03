@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 127144,
+  "num_followers": 127185,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmI0OTY4Y2JmYTYwMjA1ZWYwYjBiZmM5Nzk5MWJjNDVjNzczZWVm",
+  "snapshot_id": "MCw1ZDRiZmVmMDQ5MTE4NzJlZjU5NDQ5M2Q4NmZlNGE5N2NiNTAxMjRm",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "The Essential Little Walter",
@@ -375,6 +359,22 @@
       "duration_ms": 174506,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -507,22 +507,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power]",
         "url": "https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 437573,
       "name": "Kold Actions",
       "url": "https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2018-02-27 18:08:29",

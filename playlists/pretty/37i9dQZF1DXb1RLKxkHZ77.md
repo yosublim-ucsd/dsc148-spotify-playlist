@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,945 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,044 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 |
 | 50 | [Rindunya Rindu](https://open.spotify.com/track/3nfrPh4JIl4l4JmIkf07gl) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Rindunya Rindu](https://open.spotify.com/album/0FVUWzwJOrbZtX5cZgId6b) | 4:19 |
 
-Snapshot ID: `MCxkNDQxNDc3NWQyNDU1YjI5YTQxZjk5OTA4YzNkYjQ1NmRiNWVkZWE5`
+Snapshot ID: `MCxlZTU1MmM0MjAzZDc3NTAyY2RiNTAxOTAwMWExOWI0YzRlZjQ5MjE4`

@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 47578,
+  "num_followers": 47616,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTRlYTU1ZmVkMGQ2ZDA2MGQ4YWRiNWUzY2IzNzI5YTgyZTMxYjE0",
+  "snapshot_id": "MCxmMGJiNmViNzg5YzZmNGRlYTYyNWE1NTVjNGFjNzVkZjg3ZTI4NDcx",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/3plZvUdCRuc5h5PzzoEs7S"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 232654,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl"
+    },
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 212200,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Two Of A Kind",
+        "url": "https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        }
+      ],
+      "duration_ms": 235908,
+      "name": "Two Of A Kind",
+      "url": "https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -129,26 +165,6 @@
       "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
     },
     {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Highway Child",
-        "url": "https://open.spotify.com/album/5h2QjoLFHdRuYLcY4HYMF3"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 212601,
-      "name": "Highway Child",
-      "url": "https://open.spotify.com/track/3DPTfbre7I9FHWnY1SgHLe"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Last Time",
@@ -183,22 +199,6 @@
       "duration_ms": 221053,
       "name": "Down On The South Side",
       "url": "https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "One Monkey Can Stop a Show",
-        "url": "https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 221145,
-      "name": "One Monkey Can Stop a Show",
-      "url": "https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ"
     },
     {
       "added_at": "2023-02-17 05:01:00",

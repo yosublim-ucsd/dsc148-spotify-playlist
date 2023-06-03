@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60EDqDORwwI.md) - [plain]
 
 > The essential <a href="spotify:artist:23fqKkggKUBHNkbKtXEls4">Norwegian DJ</a>'s tracks and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,317 likes - 63 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,440 likes - 63 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60EDqDORwwI.md) - [plain]
 | 62 | [Oasis \(feat\. Foxes\)](https://open.spotify.com/track/59JreAiZzOF6pB8nIqEi20) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:57 |
 | 63 | [Cruise](https://open.spotify.com/track/2RUw2LryDJn4zqj6uN4TWw) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Andrew Jackson](https://open.spotify.com/artist/5RSplWKaHB1rliCI4CNSQO) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:44 |
 
-Snapshot ID: `MCwyOGFhNjllZjgwNTdmZjhiY2Y0Y2IxNjM0YjFhMzY1M2EwYmQzMzhm`
+Snapshot ID: `MCw0ZDg0ODljOWRlZDM0MDZjY2RiODJhYmI3ZWVlYWRmZjI3NmYzY2Ex`

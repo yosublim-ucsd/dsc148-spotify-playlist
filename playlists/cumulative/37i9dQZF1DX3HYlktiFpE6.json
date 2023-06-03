@@ -104,7 +104,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 116280,
       "name": "Any Way You Want It (World Championship Medley) - From \"Pitch Perfect 2\" Soundtrack",
       "url": "https://open.spotify.com/track/0gzErVl20ICsw6LmoPIdqb"
@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2JiSCBhXuT7wpFHAVqkqyt"
+      },
+      "artists": [
+        {
+          "name": "Distilled Harmony",
+          "url": "https://open.spotify.com/artist/2oYLwmWHaHrK4suIVZh8SU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197187,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/5ACHI9SsKvZXiBY3sUqGKd"
+    },
+    {
+      "album": {
         "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 206135,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/4LDuSfbXupGKg6RpkgTAij"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 240526,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/3PuyxXYV56lFfak4aHgKKQ"
@@ -1650,6 +1668,24 @@
       "duration_ms": 204160,
       "name": "Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love",
       "url": "https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67"
+    },
+    {
+      "album": {
+        "name": "Old Latrobe",
+        "url": "https://open.spotify.com/album/73ybz73Oq4wxIY8jvwqs7E"
+      },
+      "artists": [
+        {
+          "name": "Rip_Chord",
+          "url": "https://open.spotify.com/artist/2hiesdWNHR4JDDs4q1ByCL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/1QI4OkBnvOxhOIIyGxLYyX"
     },
     {
       "album": {
@@ -2630,6 +2666,24 @@
       "duration_ms": 190960,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/0TTgxsnxlokIfNlVYm323b"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/79gsUaXg0Gexdo1NHQsUUF"
+      },
+      "artists": [
+        {
+          "name": "OneVoice",
+          "url": "https://open.spotify.com/artist/4Tcxn9SymP465LZWa2xFO6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/7jrEh3csdQr1jGNuGBD7nd"
     },
     {
       "album": {

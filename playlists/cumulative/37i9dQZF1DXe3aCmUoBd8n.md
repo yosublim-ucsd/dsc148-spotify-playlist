@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Mohanad Zaiter & Al Shami .
 
-118 songs - 6 hr 45 min
+119 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-05-04 | 2023-03-14 |
 | [Bala Ma Nhess \- Always April Remix](https://open.spotify.com/track/6keIGjWMM4J9sO6uZjF6GN) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bala Ma Nhess \(Always April Remix\)](https://open.spotify.com/album/0WgGBcWLyWxGk4cIAvZkYP) | 3:05 | 2022-06-20 |  |
 | [Bde'ellak](https://open.spotify.com/track/4g3dSoIjesUCD7MoyHD9zz) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Bde'ellak](https://open.spotify.com/album/6qMYqrsovsovPbl6EkSkhI) | 2:54 | 2022-05-04 | 2023-03-14 |
+| [Befdiki](https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Befdiki](https://open.spotify.com/album/6r1mLrD5uhYoWTDFexOGDa) | 3:34 | 2023-06-02 |  |
 | [Bel Ahlam](https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [بالأحلام](https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop) | 2:49 | 2022-10-09 |  |
 | [Bel Hob Majnoun](https://open.spotify.com/track/5Doc92ztOc9jo3Y3DFD6vb) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Bel Hob Majnoun](https://open.spotify.com/album/0i9SOPyx6n34D0fwthUQyu) | 2:56 | 2023-01-05 |  |
 | [Betwale3 Nar](https://open.spotify.com/track/7fVZ6x92fzG2pXXyz47cKw) | [Hazem Al Sadeer](https://open.spotify.com/artist/0RvHbOVS3Cs26h9oQvORrQ) | [Betwale3 Nar](https://open.spotify.com/album/1CmaOgULKrGgELbpizwXUC) | 3:52 | 2022-05-04 | 2022-06-21 |
 | [Bhebik Men Albi](https://open.spotify.com/track/6yFd2IpEob9kFyv8kVLdDx) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Bhebik Men Albi](https://open.spotify.com/album/0qFcuLS5osJSsKSqRS44tW) | 3:25 | 2023-05-19 |  |
 | [Bi Amro](https://open.spotify.com/track/6rwmGovvGuA89IED5UTd6A) | [Majd Moussally](https://open.spotify.com/artist/3rkjF41xaOv7YIOhylmoIc) | [Bi Amro](https://open.spotify.com/album/6vVGzovhYC1Q8k7KQ5bq7x) | 3:28 | 2022-06-20 |  |
 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 | 2022-05-04 | 2023-03-14 |
-| [Bkhounak](https://open.spotify.com/track/3OJavGar3xFkSaEyEZQG7O) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Bkhounak](https://open.spotify.com/album/2vCxyxg3tr3H7IwLVizPn2) | 3:15 | 2023-01-05 |  |
+| [Bkhounak](https://open.spotify.com/track/3OJavGar3xFkSaEyEZQG7O) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Bkhounak](https://open.spotify.com/album/2vCxyxg3tr3H7IwLVizPn2) | 3:15 | 2023-01-05 | 2023-06-03 |
 | [Byekhtelif El Hadis](https://open.spotify.com/track/6cy3DFiCOxFPFvqJB4Yhqe) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Byekhtelif El Hadis](https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf) | 3:13 | 2022-05-04 | 2022-07-17 |
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-19 |  |
 | [Dawri Sar](https://open.spotify.com/track/7swi5ILNDVCNhW1ApDPLmD) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Dawri Sar](https://open.spotify.com/album/4XnQZAbNysFQyFlYSHEzw4) | 3:28 | 2022-05-04 | 2023-03-14 |
@@ -51,7 +52,7 @@
 | [El M3alim \- وديع الشيخ \- المعلم](https://open.spotify.com/track/3AB1VEVI7OvhTb8G5L3UGR) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [El M3alim \(وديع الشيخ \- المعلم\)](https://open.spotify.com/album/1ZmeRfx7JcUbRaGAh5uYTF) | 3:54 | 2022-07-04 |  |
 | [Elli Baana](https://open.spotify.com/track/28bdcUznUDPjJEujZCABes) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Elli Baana](https://open.spotify.com/album/23Khcpq38kMe3FsIiV8Mbu) | 4:24 | 2022-05-04 | 2022-06-21 |
 | [Enta Eli](https://open.spotify.com/track/3J7sclIMiseZABX8RedFoh) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [Enta Eli](https://open.spotify.com/album/4si6u0GkICCUzzthCzSkzq) | 2:34 | 2022-06-04 | 2023-03-14 |
-| [Enta Wala Shi](https://open.spotify.com/track/4gxANSjG77cE2f8yLNdg4Q) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Wala Shi](https://open.spotify.com/album/32SyguSDB4FWRPdp86TkvD) | 3:23 | 2022-05-04 |  |
+| [Enta Wala Shi](https://open.spotify.com/track/4gxANSjG77cE2f8yLNdg4Q) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Wala Shi](https://open.spotify.com/album/32SyguSDB4FWRPdp86TkvD) | 3:23 | 2022-05-04 | 2023-06-03 |
 | [Enta Zaalan Meni](https://open.spotify.com/track/2AGHWbmR6YAgJJ8fXy4o3G) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Enta Zaalan Meni](https://open.spotify.com/album/0Uynztqh75HbmBU9obrLh7) | 3:38 | 2022-05-04 | 2022-06-21 |
 | [Enti El Asas](https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Enti El Asas](https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9) | 4:03 | 2023-05-19 |  |
 | [Enti W Ana](https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Enti W Ana](https://open.spotify.com/album/3aN1sOJg4kCaVpJbNfq3Cw) | 3:28 | 2022-05-04 | 2022-07-05 |

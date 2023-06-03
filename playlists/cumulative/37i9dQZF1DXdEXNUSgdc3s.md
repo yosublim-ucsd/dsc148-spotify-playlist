@@ -4,10 +4,12 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-66 songs - 3 hr 26 min
+69 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [110 Hz \- 123 Hz Alpha Soundscape](https://open.spotify.com/track/3alCs4bLSLEVmq0f8pMy3V) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:00 | 2023-06-02 |  |
+| [92 Hz \- 100 Hz Alpha Soundscape](https://open.spotify.com/track/19OrKcIbpm8JyN416MrqnR) | [Underscores And Drones](https://open.spotify.com/artist/4o2si54bTht8Zqe73sAHJb) | [Binaural Alpha Soundscapes for Deep Relaxation](https://open.spotify.com/album/4tIovUJTFv0rbj146oK5pi) | 3:07 | 2023-06-02 |  |
 | [Alpha 6HZ](https://open.spotify.com/track/0D32zKm96iknCXO4fZDZKe) | [Amulett](https://open.spotify.com/artist/5jEi7bFTyCKl7NUgVtO90x) | [Binaural Movement](https://open.spotify.com/album/1hfV1O1wccF6G0IpR1Xnix) | 2:31 | 2023-04-28 |  |
 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 | 2023-04-28 |  |
 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 | 2023-04-28 |  |
@@ -29,6 +31,7 @@
 | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/track/2Q1tvcxY1AURUd0Qh6707l) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/album/4KeshHI1lJjb7LTiex6J2L) | 2:31 | 2023-04-28 |  |
 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 | 2023-04-28 |  |
 | [Alpha Universe 64+66 hz](https://open.spotify.com/track/7Hbgr7d97YAxvZE0gufBWO) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:45 | 2023-04-28 |  |
+| [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/track/1iUPb3Uw65EBlhAo5gDDE6) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Alpha Vocantes 54Hz\-62Hz](https://open.spotify.com/album/2kyCvfTIMvavgFc9IGP8K6) | 2:29 | 2023-06-02 |  |
 | [Binaural Alpha : Ajna chakra](https://open.spotify.com/track/5Ng9BFy18wc1jXadJPzyZ5) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 1:32 | 2023-04-28 |  |
 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 | 2023-04-28 |  |
 | [Binaural Alpha Drone](https://open.spotify.com/track/57Ilh5Ja4DipqilIkfcYYW) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:22 | 2023-04-28 |  |

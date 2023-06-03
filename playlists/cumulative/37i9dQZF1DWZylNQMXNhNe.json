@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 153917,
       "name": "Arrasany 3.0",
       "url": "https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245"
@@ -604,6 +604,24 @@
       "duration_ms": 209249,
       "name": "Contra Corrente",
       "url": "https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx"
+    },
+    {
+      "album": {
+        "name": "deu pra sentir?",
+        "url": "https://open.spotify.com/album/0GQQnrdqZsLcbiebflnDXT"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144896,
+      "name": "deu pra sentir?",
+      "url": "https://open.spotify.com/track/0NILfuLrTeAxhdDRFRsOcG"
     },
     {
       "album": {

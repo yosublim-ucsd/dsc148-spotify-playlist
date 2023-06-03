@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Ton Carfi, Brunno Ramos, Paloma Possi
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Silas Magalhães
 
-105 songs - 6 hr 25 min
+106 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2022-08-05 |  |
 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 | 2022-08-05 |  |
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-03-17 |  |
-| [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 | 2022-08-05 |  |
+| [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 | 2022-08-05 | 2023-06-03 |
 | [Espelhos](https://open.spotify.com/track/5c7Ua3kWdYtg0WrL0VrPOd) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Espelhos](https://open.spotify.com/album/5l8HGwOHkfH4GTXYNb16ip) | 3:21 | 2022-08-05 | 2022-10-15 |
 | [Esperança](https://open.spotify.com/track/14NgY0UGVkXNU28ccCnHny) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Esperança](https://open.spotify.com/album/2t90XCpgcrEloG0djF7Z9Q) | 5:04 | 2023-03-24 | 2023-04-16 |
 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 | 2022-08-05 |  |
@@ -50,6 +50,7 @@
 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 | 2022-08-05 |  |
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-03-17 |  |
 | [Faz Parte](https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Faz Parte](https://open.spotify.com/album/1Op8EBccQRtltpW8eOGZPe) | 2:59 | 2023-02-03 | 2023-04-16 |
+| [Fim de Tarde](https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fim de Tarde](https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh) | 2:18 | 2023-06-02 |  |
 | [GPS](https://open.spotify.com/track/41o7R8todwMq1U9SEhSgB9) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [GPS](https://open.spotify.com/album/0RP1BkkknVO5bYYSUMjp2b) | 3:35 | 2022-08-05 |  |
 | [Infinitamente Mais](https://open.spotify.com/track/56Dnb2DiKv5NMfUdNi4cEK) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Infinitamente Mais](https://open.spotify.com/album/2fXIyecuAPscFk25k9Lawy) | 3:43 | 2022-08-05 |  |
 | [Levanto um Aleluia](https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS) | [Anna Fernandes](https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Levanto um Aleluia](https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U) | 3:53 | 2022-08-05 |  |

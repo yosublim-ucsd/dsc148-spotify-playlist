@@ -1175,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Un Indio Quiere Llorar",
+        "url": "https://open.spotify.com/album/19MliibgMaxQ07cPAUhkin"
+      },
+      "artists": [
+        {
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+        },
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Un Indio Quiere Llorar",
+      "url": "https://open.spotify.com/track/3v1h62mV72dBV16Jb5pcrc"
+    },
+    {
+      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"

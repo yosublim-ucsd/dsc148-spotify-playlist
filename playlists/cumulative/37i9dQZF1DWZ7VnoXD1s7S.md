@@ -4,7 +4,7 @@
 
 > no\-clip out of reality
 
-128 songs - 5 hr 43 min
+129 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [The Lobotomy](https://open.spotify.com/track/6U15XUlSWG6RGx4OhAHKHf) | [Maebi](https://open.spotify.com/artist/6tVxgFV9M1sqlTWUnQOhlu) | [The Lobotomy](https://open.spotify.com/album/3U9MYZmNOkSsfgz4OKxHOZ) | 1:07 | 2023-01-23 |  |
 | [Tip Toe Thru' the Tulips with Me](https://open.spotify.com/track/1Vchex0xowRj9k59RLvRfo) | [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC) | [God Bless Tiny Tim](https://open.spotify.com/album/6Oimi4JAkSAH3qhZmswoE9) | 1:50 | 2023-03-20 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2022-08-22 | 2022-08-24 |
-| [u and i \- original version](https://open.spotify.com/track/3XRLyWAabvLKH8sLXKQ0hB) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/0zBjrxV5UaU4UD95jq0owD) | 2:03 | 2022-11-23 |  |
+| [u and i](https://open.spotify.com/track/3HvgYuJX72wO515RG4aQz2) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/5LtQfvIeTCgvD2xx6jI4ck) | 2:03 | 2022-11-23 |  |
+| [u and i \- original version](https://open.spotify.com/track/3XRLyWAabvLKH8sLXKQ0hB) | [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [u and i](https://open.spotify.com/album/0zBjrxV5UaU4UD95jq0owD) | 2:03 | 2022-11-23 | 2023-06-03 |
 | [void\_\_19\#\#\#\-A](https://open.spotify.com/track/1suY5lVFFjVvkeMkrzyHf9) | [No Love In The House Of Gold](https://open.spotify.com/artist/5gqzWJS2sbYm3zoKFsC38L) | [void\_\_19\#\#\#](https://open.spotify.com/album/7qS36GXzqhI8GXg6TN8SFZ) | 1:22 | 2022-08-22 |  |
 | [Waltzing](https://open.spotify.com/track/02nicqq35voFB9h2SUXpSK) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Carousel](https://open.spotify.com/album/5LfyG0hpTmZQ9sVrF4Upm6) | 2:21 | 2022-08-22 | 2022-09-07 |
 | [watching the stars](https://open.spotify.com/track/321PCApeQiLLrf03k83cCb) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [watching the stars](https://open.spotify.com/album/3bfpLvhbLmO5tekoSz2rWo) | 1:39 | 2023-03-08 |  |

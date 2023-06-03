@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Dillom en portada.
 
-85 songs - 4 hr 41 min
+87 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,11 @@
 | [Lo Hice Por El Punk](https://open.spotify.com/track/16R71sPcHhpB8N9Hlvso8r) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Gazapo](https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT) | 2:49 | 2022-03-25 |  |
 | [Los Blake](https://open.spotify.com/track/747mWXYziAUdhNhzw5O87j) | [Papá Enojado](https://open.spotify.com/artist/6egJ8CflXTDNSFdIBduJUp) | [Enojado Maiden](https://open.spotify.com/album/4LYs0cNrc7g6OTocIyzpk0) | 2:46 | 2023-04-14 |  |
 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 | 2022-03-25 |  |
+| [Luces Azules](https://open.spotify.com/track/7K4YSopo7UhoGqMCey0N4W) | [Animales Muertos](https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ) | [Luces Azules](https://open.spotify.com/album/2FLfZfDsmFQy4JDdfviYf1) | 2:39 | 2023-06-02 |  |
 | [Mala Suerte](https://open.spotify.com/track/4H1LS6KIu23cBpA2Ef3zEt) | [Mala Suerte](https://open.spotify.com/artist/1ep3yvyz1gCFZxxjn0jJGA) | [Mala Suerte](https://open.spotify.com/album/3o0emNyeX0yyYhoycpn96X) | 2:22 | 2022-03-25 |  |
 | [Manifiesto Surrealista](https://open.spotify.com/track/3TAmPsGYSC8gugzBGguj63) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/2QDHd8s8nzlEfjZwfqZLZR) | 4:00 | 2022-03-25 | 2022-12-12 |
 | [Manifiesto Surrealista](https://open.spotify.com/track/73vq8vT0gjbZTemuvOWeIn) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/6BDjbnIo1QsJUFweLCqwfl) | 4:00 | 2022-03-25 |  |
+| [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Marta, Sebas, Guille y los demás](https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G) | 3:40 | 2023-06-02 |  |
 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 | 2022-03-25 |  |
 | [Mosca Muerta](https://open.spotify.com/track/2XL2lxTKKJXYjGjaGN0Mea) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Mosca Muerta / Pop Pop Hell](https://open.spotify.com/album/48uZ5PsEyMNdXdoDuObOMY) | 1:57 | 2022-03-25 |  |
 | [Muñeca](https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 3:25 | 2023-05-19 |  |

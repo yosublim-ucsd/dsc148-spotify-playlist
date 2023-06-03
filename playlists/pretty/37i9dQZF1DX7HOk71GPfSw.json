@@ -1,13 +1,65 @@
 {
-  "description": "this heylog song is crazy. Cover: 100 gecs",
-  "num_followers": 398545,
+  "description": "cant wait till hyperpop2 drops [Cover: Madge]",
+  "num_followers": 398778,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzVlY2YzNGIxYjM5N2I5NDkxZGI2NjdjMjMwODBjOTkwZDljYWMx",
+  "snapshot_id": "MCw5Nzg3Njg2ZDZkYmMyNTRhMzcxZjZjZjVkZjg3MjQwNGJjMjkxNDU0",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "PURPLE APE",
+        "url": "https://open.spotify.com/album/4m5vlm9Ov71ASdcwUQYYLj"
+      },
+      "artists": [
+        {
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 190214,
+      "name": "PURPLE APE",
+      "url": "https://open.spotify.com/track/0ZpKseo8xDyCcX9SVmZHRm"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "notss",
+        "url": "https://open.spotify.com/album/0bDtGytEl8vZXpoeA2bUUd"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 162909,
+      "name": "notss",
+      "url": "https://open.spotify.com/track/3rd0fsUY1CXj3rkiaPygAu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "brainfreeze",
+        "url": "https://open.spotify.com/album/5MDmvBCWLgiKxbP27Iixjp"
+      },
+      "artists": [
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 112722,
+      "name": "brainfreeze",
+      "url": "https://open.spotify.com/track/3xrgxsAR0xNqSgSsQHHfWe"
+    },
     {
       "added_at": "2023-05-19 12:30:59",
       "album": {
@@ -27,38 +79,6 @@
       "duration_ms": 130560,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
-    },
-    {
-      "added_at": "2023-04-12 14:00:55",
-      "album": {
-        "name": "NARCISSISTIC PERSONALITY DISORDER",
-        "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 110510,
-      "name": "NARCISSISTIC PERSONALITY DISORDER",
-      "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 126426,
-      "name": "757",
-      "url": "https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -81,6 +101,94 @@
       "url": "https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 126426,
+      "name": "757",
+      "url": "https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd"
+    },
+    {
+      "added_at": "2023-05-31 17:21:00",
+      "album": {
+        "name": "music 2",
+        "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
+      },
+      "artists": [
+        {
+          "name": "estelle allen",
+          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
+        }
+      ],
+      "duration_ms": 100562,
+      "name": "dui",
+      "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "gf",
+        "url": "https://open.spotify.com/album/2AvJRCsDGQyDS2EqCnOktd"
+      },
+      "artists": [
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 113250,
+      "name": "gf",
+      "url": "https://open.spotify.com/track/55IRGQQOMiYQORMEA4yhEI"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "better outside",
+        "url": "https://open.spotify.com/album/4U31cMz4TiLy1zbmq7tzX5"
+      },
+      "artists": [
+        {
+          "name": "Jae Luna",
+          "url": "https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU"
+        },
+        {
+          "name": "Chris Moon",
+          "url": "https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "better outside",
+      "url": "https://open.spotify.com/track/7fhe5bUjmWgYs0dxjRhQtk"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "dygytaldysmorphya (expanded)",
+        "url": "https://open.spotify.com/album/6hAfuRW7hQnRgBUM1sTDIF"
+      },
+      "artists": [
+        {
+          "name": "Elko",
+          "url": "https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU"
+        },
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 139056,
+      "name": "mindurnonsense",
+      "url": "https://open.spotify.com/track/6AV7XQHCgbHWVtCrKl91dF"
+    },
+    {
       "added_at": "2023-03-07 05:00:00",
       "album": {
         "name": "prism",
@@ -95,6 +203,54 @@
       "duration_ms": 152967,
       "name": "prism",
       "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
+    },
+    {
+      "added_at": "2023-04-12 14:00:55",
+      "album": {
+        "name": "NARCISSISTIC PERSONALITY DISORDER",
+        "url": "https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 110510,
+      "name": "NARCISSISTIC PERSONALITY DISORDER",
+      "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "finally home",
+        "url": "https://open.spotify.com/album/03FDLpvwL5MBA5uMvGL1jy"
+      },
+      "artists": [
+        {
+          "name": "mental",
+          "url": "https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4"
+        }
+      ],
+      "duration_ms": 155410,
+      "name": "finally home",
+      "url": "https://open.spotify.com/track/0YGCvN4NojcluEF79c4qh7"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Highland Cow Plushies",
+        "url": "https://open.spotify.com/album/2ytjY6Nfmr62q5RUTpFZWs"
+      },
+      "artists": [
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "Highland Cow Plushies",
+      "url": "https://open.spotify.com/track/3eUwn1MamssECHjvZYOw7C"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -117,54 +273,6 @@
       "url": "https://open.spotify.com/track/4uRlCLIdCetmRMYC5QFluW"
     },
     {
-      "added_at": "2023-05-19 12:34:54",
-      "album": {
-        "name": "ORANGES",
-        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
-      },
-      "artists": [
-        {
-          "name": "Jaron",
-          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
-        }
-      ],
-      "duration_ms": 123272,
-      "name": "ORANGES",
-      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
-    },
-    {
-      "added_at": "2023-05-31 17:21:00",
-      "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "buttonss",
-        "url": "https://open.spotify.com/album/6knSBNRGWMvB0WS5kAdGHG"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "buttonss",
-      "url": "https://open.spotify.com/track/6DTgPHA2GAPhhFCa8j6C2N"
-    },
-    {
       "added_at": "2023-05-19 12:30:59",
       "album": {
         "name": "Most Viewed (Himera\u2019s Dream)",
@@ -183,22 +291,6 @@
       "duration_ms": 209777,
       "name": "Most Viewed (Himera's Dream)",
       "url": "https://open.spotify.com/track/2TrvMlffH5wuqAaU17t50K"
-    },
-    {
-      "added_at": "2023-05-31 17:21:00",
-      "album": {
-        "name": "music 2",
-        "url": "https://open.spotify.com/album/3mtpXUqqBnIkbEM9xauIRL"
-      },
-      "artists": [
-        {
-          "name": "estelle allen",
-          "url": "https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4"
-        }
-      ],
-      "duration_ms": 100562,
-      "name": "dui",
-      "url": "https://open.spotify.com/track/3RLI8S7KpEZs4SqePGjM2R"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -233,6 +325,22 @@
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "girl i never met",
+        "url": "https://open.spotify.com/album/2VVWSgO7MPewDzqrJRd8LJ"
+      },
+      "artists": [
+        {
+          "name": "syris",
+          "url": "https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE"
+        }
+      ],
+      "duration_ms": 95331,
+      "name": "girl i never met",
+      "url": "https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Contest",
@@ -247,6 +355,22 @@
       "duration_ms": 96000,
       "name": "Contest",
       "url": "https://open.spotify.com/track/2tBihXIDl8dkIVd6qoGK7A"
+    },
+    {
+      "added_at": "2023-05-31 17:21:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
     },
     {
       "added_at": "2023-05-31 17:21:00",
@@ -369,6 +493,22 @@
       "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3wU9qKcAkD39ocxbb7yd7p"
+      },
+      "artists": [
+        {
+          "name": "Hunnygloss",
+          "url": "https://open.spotify.com/artist/7onlSHoWhsACf62nMcr780"
+        }
+      ],
+      "duration_ms": 189850,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5wbJcabQPxly1VtLaJw8xb"
+    },
+    {
       "added_at": "2023-04-26 14:03:35",
       "album": {
         "name": "w.t.f.",
@@ -431,6 +571,22 @@
       "duration_ms": 177000,
       "name": "BENDER",
       "url": "https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "brain scratch",
+        "url": "https://open.spotify.com/album/4nJqLGnJcOYIbI0t7fl1fz"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "brain scratch 11: play in the dirt",
+      "url": "https://open.spotify.com/track/2nduIRkbsonef6it438hXw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -503,6 +659,22 @@
       "duration_ms": 140016,
       "name": "Play Poker Remix - Remix",
       "url": "https://open.spotify.com/track/4HwClUHxzTmCgKkfUFPfxU"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "memorandum",
+        "url": "https://open.spotify.com/album/1ilizemdHndV8o8BYthIjy"
+      },
+      "artists": [
+        {
+          "name": "Ace Pariston",
+          "url": "https://open.spotify.com/artist/0CXoZzRGEPhD6tLZuhNhZ5"
+        }
+      ],
+      "duration_ms": 163422,
+      "name": "iceprince",
+      "url": "https://open.spotify.com/track/6DVSEhgc6dT4TY2AmlcS29"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -679,6 +851,22 @@
       "duration_ms": 152013,
       "name": "My Brain is Lasers",
       "url": "https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K"
+    },
+    {
+      "added_at": "2023-06-02 15:56:21",
+      "album": {
+        "name": "Pink flame",
+        "url": "https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ"
+      },
+      "artists": [
+        {
+          "name": "Nuvfr",
+          "url": "https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy"
+        }
+      ],
+      "duration_ms": 254119,
+      "name": "Pink flame",
+      "url": "https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1559,214 +1747,6 @@
       "duration_ms": 187826,
       "name": "GOD",
       "url": "https://open.spotify.com/track/0QozTtDAwSRv9FW5tWiaH4"
-    },
-    {
-      "added_at": "2023-01-24 15:21:57",
-      "album": {
-        "name": "food house",
-        "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
-      },
-      "artists": [
-        {
-          "name": "food house",
-          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
-        },
-        {
-          "name": "Gupi",
-          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 209295,
-      "name": "8 now",
-      "url": "https://open.spotify.com/track/3lzX0mU3pfXOQRnH0ryZJR"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "no more feelings",
-        "url": "https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI"
-      },
-      "artists": [
-        {
-          "name": "Reikko",
-          "url": "https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP"
-        }
-      ],
-      "duration_ms": 160592,
-      "name": "i wrote this song for you",
-      "url": "https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm"
-    },
-    {
-      "added_at": "2023-03-15 19:56:04",
-      "album": {
-        "name": "Hey QT",
-        "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
-      },
-      "artists": [
-        {
-          "name": "QT",
-          "url": "https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z"
-        }
-      ],
-      "duration_ms": 235567,
-      "name": "Hey QT",
-      "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
-    },
-    {
-      "added_at": "2023-03-15 19:56:04",
-      "album": {
-        "name": "Shine (Remixes)",
-        "url": "https://open.spotify.com/album/1AyMpwI7q981qUagFXMCa9"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 210211,
-      "name": "Shine - Danny L Harle Remix",
-      "url": "https://open.spotify.com/track/11EpzafkUbR78lrhefm1Hn"
-    },
-    {
-      "added_at": "2022-09-23 07:48:00",
-      "album": {
-        "name": "boythots",
-        "url": "https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 137844,
-      "name": "boythots",
-      "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
-    },
-    {
-      "added_at": "2022-10-28 04:05:00",
-      "album": {
-        "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-        "url": "https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 149691,
-      "name": "where\u2019d u go? o(\u2565_\u2565)o .\u3002*\u309a+",
-      "url": "https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan"
-    },
-    {
-      "added_at": "2022-11-25 05:02:00",
-      "album": {
-        "name": "short + sweet.\u3002oO",
-        "url": "https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 181031,
-      "name": "short + sweet.\u3002oO",
-      "url": "https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw"
-    },
-    {
-      "added_at": "2023-03-15 19:56:04",
-      "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 253642,
-      "name": "911 - Charli XCX & A. G. Cook Remix",
-      "url": "https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "pls (\u2212_\u2212;)",
-        "url": "https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        },
-        {
-          "name": "Deko",
-          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
-        }
-      ],
-      "duration_ms": 126432,
-      "name": "pls (\u2212_\u2212;)",
-      "url": "https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "u. (silent boy remix)",
-        "url": "https://open.spotify.com/album/1ljgLkdNp9oDBSqGNnOjBm"
-      },
-      "artists": [
-        {
-          "name": "Silent Boy",
-          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
-        },
-        {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "u. (silent boy remix)",
-      "url": "https://open.spotify.com/track/2kWGVs653dDld8TlQAJttN"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "SCREAMER",
-        "url": "https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM"
-      },
-      "artists": [
-        {
-          "name": "BABii",
-          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
-        },
-        {
-          "name": "Pholo",
-          "url": "https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a"
-        }
-      ],
-      "duration_ms": 261678,
-      "name": "NECTA_ (V.5)",
-      "url": "https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7"
     }
   ],
   "unique_name": "hyperpop",

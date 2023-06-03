@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,274 songs - 5 day 10 hr 24 min
+2,275 songs - 5 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Every Time I Hear That Song](https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:01 | 2021-08-28 | 2021-09-11 |
 | [every word](https://open.spotify.com/track/5n1OVZPVXJvUaN9EicgOxm) | [Animal Sun](https://open.spotify.com/artist/0OnT3pRDWGcgcz1iYv0OnV) | [every word](https://open.spotify.com/album/6av8xVB5w9W0kqykQpA8kU) | 3:26 | 2021-04-10 | 2021-04-26 |
 | [Every Year Is My Year](https://open.spotify.com/track/3xf9caCX1ZK2Nd0XJWtOe0) | [Dove Dupree](https://open.spotify.com/artist/1PycxS8xMVI8vqtqFwpTIz), [Darrell Maurice](https://open.spotify.com/artist/36gtPqAvfZF4GtVLF3JBFA) | [Every Year Is My Year](https://open.spotify.com/album/1hgTRx4dlH7P5YWKi7ScLR) | 3:13 | 2022-01-28 | 2022-02-13 |
+| [Everybody Knows \- New Evidence Neo Soul Remix](https://open.spotify.com/track/3CGCyIvNf7oDcTqKxQme9G) | [Eve Gallagher](https://open.spotify.com/artist/3qnAV28sOSJx6Y0LzDbl65), [Uli Heinzler](https://open.spotify.com/artist/4jxBj2bCdew7wFVtC7X6VD), [New Evidence](https://open.spotify.com/artist/5k3aUtTj3hI7gPoNffjLHB) | [Everybody Knows](https://open.spotify.com/album/6fj5VMy5EJawCGOwAr0MIX) | 3:17 | 2023-06-02 |  |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 | 2021-07-11 |  |
 | [Everyday](https://open.spotify.com/track/3K2oPaUAXDrRQuA84xVB8x) | [Logan Richard](https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o) | [Logan Richard](https://open.spotify.com/album/11evvnEdQomY7zQ3zM5Gfc) | 3:16 | 2021-05-21 | 2021-06-06 |
 | [Everyone's Crushed](https://open.spotify.com/track/4BxMHyOM33CNbExjurjAut) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 4:01 | 2023-06-01 |  |
@@ -1564,7 +1565,7 @@
 | [Preach](https://open.spotify.com/track/108RyMYug0hkC4awLjqjqo) | [Sir Jude](https://open.spotify.com/artist/1okdhcXCnhCsMGzPmDmDzG), [Maxim](https://open.spotify.com/artist/4u9qdvmpsHXYqL6PIxu9Dd) | [Preach](https://open.spotify.com/album/2D8gvmZO1Wtw2VLqqIzWMd) | 4:10 | 2022-09-16 | 2022-10-04 |
 | [preshure](https://open.spotify.com/track/6Hvh3BG1CXohwLlp1CTpJx) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [preshure](https://open.spotify.com/album/6GQyE6jbtClKvRZEdGFhsY) | 3:34 | 2022-09-09 | 2022-09-25 |
 | [Pretend Goodbye](https://open.spotify.com/track/7xGpghpnQHIphKwvSUtYTi) | [Houis](https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Pretend Goodbye](https://open.spotify.com/album/53BVYFhYGuZdfNsZY0wRHJ) | 3:38 | 2020-02-16 | 2020-02-24 |
-| [Pretty Wing \- Demo](https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb) | [Native Son](https://open.spotify.com/artist/0SfWfkaC6bXSQjoHF0qg77) | [Pretty Wing \(Demo\)](https://open.spotify.com/album/5RsBdTC1MF0CIuHQ97mImw) | 3:14 | 2023-05-15 |  |
+| [Pretty Wing \- Demo](https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb) | [Native Son](https://open.spotify.com/artist/0SfWfkaC6bXSQjoHF0qg77) | [Pretty Wing \(Demo\)](https://open.spotify.com/album/5RsBdTC1MF0CIuHQ97mImw) | 3:14 | 2023-05-15 | 2023-06-03 |
 | [Privacy](https://open.spotify.com/track/5Ir2u1IUY2M4JnpJPDKnfx) | [Brex](https://open.spotify.com/artist/2n7X2PbIVqENWflJnW9QQ9), [Yakey](https://open.spotify.com/artist/5u28u1cQhlBokIsqMyjaJ5) | [Privacy](https://open.spotify.com/album/4r5fRXTDZFNZ4L6sSe9MJu) | 3:03 | 2020-05-25 | 2020-06-10 |
 | [Procrastinating](https://open.spotify.com/track/4sIOvktWsUIKEIUALX0ItC) | [Levi Mitchell](https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr) | [Procrastinating](https://open.spotify.com/album/7f1SovVhz80yTmo4aXSiFt) | 3:18 | 2023-04-21 | 2023-05-09 |
 | [Promise U](https://open.spotify.com/track/61HzZXOygQY5qtRgDRlDqO) | [Lando](https://open.spotify.com/artist/43U26vTfMoUUHLUMljHXav) | [Promise U](https://open.spotify.com/album/032zxZaKLzi1gJ1xVTYOP7) | 3:46 | 2019-12-25 | 2020-01-01 |

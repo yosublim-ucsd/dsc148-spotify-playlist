@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,698 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,703 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 18 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 |
 | 19 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 |
 | 20 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 |
-| 21 | [Webale](https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci) | [Shifah Musisi](https://open.spotify.com/artist/19ilv4fZylrIlPBV5FtRaI) | [Webale](https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef) | 4:19 |
+| 21 | [Webale](https://open.spotify.com/track/1Vlms9uSRDXErvFGzTbLaj) | [Shifah Musisi](https://open.spotify.com/artist/2z5UFg4Wb5lePi7pKoDyyN) | [Webale](https://open.spotify.com/album/7gD8QBQcLDDsueUb9eN08T) | 4:19 |
 | 22 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 |
 | 23 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 |
 | 24 | [Muunda](https://open.spotify.com/track/2Ce8M6T6HihuA8m0I17GlZ) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Muunda](https://open.spotify.com/album/2ImbElVQUItrSNaWJB5VMG) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Machozi Machoni](https://open.spotify.com/track/7LmsBwJdArqh6HSpOwzpr9) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [Radio And Weasel](https://open.spotify.com/artist/6T7qNEpvmBKYKIOtr7GQeP) | [Speaking Vernacular](https://open.spotify.com/album/08LOeBsrzYZekjfFPoPgpp) | 4:01 |
 | 60 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 |
 
-Snapshot ID: `MCw3OGVhNWQxYWZhODQ3ODIxMmViOWQzMmM1YjE0YWM2N2JiMjM3OWI5`
+Snapshot ID: `MCw4NDM2NjBlZjUzOGJkMThlOTExOTY2ZjZjYmQ2NjQ2OGM3MjllZDNm`

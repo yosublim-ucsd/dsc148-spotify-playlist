@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 148053,
+  "num_followers": 148073,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEwNzIxM2I1ZDljZmM0ODU1NmIxNTgxNGQzOWRjYTY2NjBlZWYx",
+  "snapshot_id": "MCwyMmE5ODdiMDY0NWJjYTAxY2U4YjQ4YjM1MmJjNjYwYzQ3ZTY3MDY1",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -255,30 +255,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Pouca Pausa",
         "url": "https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1"
       },
@@ -299,6 +275,30 @@
       "duration_ms": 279756,
       "name": "Pouca Pausa",
       "url": "https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Praia do Rosa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 256523,
+      "name": "Praia do Rosa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1415,6 +1415,34 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Interfone",
+        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
+      },
+      "artists": [
+        {
+          "name": "Sergin",
+          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Juan Branco",
+          "url": "https://open.spotify.com/artist/4IeVdoR6r3NmxRDZIeVhU3"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Interfone",
+      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Pelo Mundo",
         "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
       },
@@ -1455,34 +1483,6 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Interfone",
-        "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
-      },
-      "artists": [
-        {
-          "name": "Sergin",
-          "url": "https://open.spotify.com/artist/45lMcW3J9GBxK5zdc6bOlW"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/5OQwCMHaNZ6FtVcVNkkShY"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Juanzin",
-          "url": "https://open.spotify.com/artist/2PWtdYOUTo0ZBgHbCab8H0"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Interfone",
-      "url": "https://open.spotify.com/track/2BKAS8KxZW3AlAqHzFjACm"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Lance Casual",
         "url": "https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 181546,
       "name": "Lance Casual",
       "url": "https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2023-05-19 03:01:00",

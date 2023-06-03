@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 101467,
+  "num_followers": 101488,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDcwNSwwYmFjZThmODI4MmUyMGNiZTc0NzZiMWYzMGI3ZmM2OWNjMjczNzc4",
+  "snapshot_id": "NDcwNywwNWE0Y2EwMDFmMTcyYTQ0NmZkNGZiODA3YjVhMTAzNzJmYzVmODlj",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -343,6 +343,30 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "added_at": "2023-06-02 23:32:17",
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/6fj5VMy5EJawCGOwAr0MIX"
+      },
+      "artists": [
+        {
+          "name": "Eve Gallagher",
+          "url": "https://open.spotify.com/artist/3qnAV28sOSJx6Y0LzDbl65"
+        },
+        {
+          "name": "Uli Heinzler",
+          "url": "https://open.spotify.com/artist/4jxBj2bCdew7wFVtC7X6VD"
+        },
+        {
+          "name": "New Evidence",
+          "url": "https://open.spotify.com/artist/5k3aUtTj3hI7gPoNffjLHB"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Everybody Knows - New Evidence Neo Soul Remix",
+      "url": "https://open.spotify.com/track/3CGCyIvNf7oDcTqKxQme9G"
     },
     {
       "added_at": "2022-07-26 20:08:16",
@@ -1967,22 +1991,6 @@
       "duration_ms": 187250,
       "name": "Murdered By Words",
       "url": "https://open.spotify.com/track/7dOvWP3LVXXKqTZfVHjQwu"
-    },
-    {
-      "added_at": "2023-05-15 13:42:38",
-      "album": {
-        "name": "Pretty Wing (Demo)",
-        "url": "https://open.spotify.com/album/5RsBdTC1MF0CIuHQ97mImw"
-      },
-      "artists": [
-        {
-          "name": "Native Son",
-          "url": "https://open.spotify.com/artist/0SfWfkaC6bXSQjoHF0qg77"
-        }
-      ],
-      "duration_ms": 194725,
-      "name": "Pretty Wing - Demo",
-      "url": "https://open.spotify.com/track/6tKGOvK8swBflO0C9it2nb"
     },
     {
       "added_at": "2023-05-16 13:47:23",

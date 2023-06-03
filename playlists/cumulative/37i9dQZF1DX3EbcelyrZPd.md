@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Otile Brown
 
-239 songs - 13 hr 34 min
+240 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Rafiki](https://open.spotify.com/track/4lh8Whj4Uk8o4c4LWelSfc) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rafiki](https://open.spotify.com/album/55TGRN5FPMfEz42zQSmjRr) | 4:42 | 2023-04-20 |  |
 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
 | [Rockabye](https://open.spotify.com/track/20QBNMa1J6DgJErBLLF9ZM) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Rockabye](https://open.spotify.com/album/0jLdOcmIppSM5XCIMZIAtd) | 3:08 | 2023-04-27 |  |
+| [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2023-06-01 |  |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Sawa](https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sawa](https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8) | 3:23 | 2023-03-02 |  |
 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 | 2022-02-10 | 2022-11-18 |

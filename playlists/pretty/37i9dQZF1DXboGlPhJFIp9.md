@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,245 likes - 130 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,264 likes - 129 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,23 +120,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 110 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 |
 | 111 | [Friendly Reminder](https://open.spotify.com/track/1ir72qlHY0xDSGsUeray4m) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [Friendly Reminder](https://open.spotify.com/album/4zvYzzyBSoutiQBvh3w7IH) | 2:22 |
 | 112 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 |
-| 113 | [Let Me in](https://open.spotify.com/track/2xCrfVj6YtPcov8kuW3hU8) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [If I'm Gonna See You](https://open.spotify.com/album/11uXDArfb3fe5ortxBZTN3) | 3:01 |
-| 114 | [Fairydust](https://open.spotify.com/track/5kxb2HoHMpIb5jrpPNbSfC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Fairydust](https://open.spotify.com/album/1ukCkF4pmtmbHn1gwM7CB2) | 2:30 |
-| 115 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 |
-| 116 | [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 |
-| 117 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 |
-| 118 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 |
-| 119 | [So Smooth](https://open.spotify.com/track/4v0UsJ0beNVxLwml6yod9m) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Solus](https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw) | 2:13 |
-| 120 | [Summer Tales](https://open.spotify.com/track/40qA5hA8RuOpIe6RzPL9Wo) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:16 |
-| 121 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 |
-| 122 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 |
-| 123 | [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 |
-| 124 | [Sun Rays Like Stilts](https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetual](https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3) | 2:07 |
-| 125 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 |
-| 126 | [Sigulda](https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa) | [Revolutions](https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T) | [Sigulda](https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS) | 4:26 |
-| 127 | [Distant Roads](https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Distant Roads](https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6) | 2:47 |
-| 128 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 |
-| 129 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 |
-| 130 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 |
+| 113 | [Fairydust](https://open.spotify.com/track/5kxb2HoHMpIb5jrpPNbSfC) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Fairydust](https://open.spotify.com/album/1ukCkF4pmtmbHn1gwM7CB2) | 2:30 |
+| 114 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 |
+| 115 | [Towards Daylight](https://open.spotify.com/track/6zHVtnqzmL0cNG3KFBJv0H) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Towards Daylight](https://open.spotify.com/album/52kuliw2gKIqyaZbdJMe6z) | 2:27 |
+| 116 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 |
+| 117 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 |
+| 118 | [So Smooth](https://open.spotify.com/track/4v0UsJ0beNVxLwml6yod9m) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Solus](https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw) | 2:13 |
+| 119 | [Summer Tales](https://open.spotify.com/track/40qA5hA8RuOpIe6RzPL9Wo) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:16 |
+| 120 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 |
+| 121 | [Hidden Chambers](https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH) | [Marlee Tuaine](https://open.spotify.com/artist/2qRSibliMCzMBIIUqMqaRB) | [Fragmented Thoughts](https://open.spotify.com/album/0aZWKOxr4JMCSIpVAmBR2T) | 2:49 |
+| 122 | [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 |
+| 123 | [Sun Rays Like Stilts](https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetual](https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3) | 2:07 |
+| 124 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 |
+| 125 | [Sigulda](https://open.spotify.com/track/46WRSVjU9OwepvlCcBLvFa) | [Revolutions](https://open.spotify.com/artist/0RjqXCIIlAUNd0APK0cE8T) | [Sigulda](https://open.spotify.com/album/4ftPJ2WTzpMa4Lb4ckUqIS) | 4:26 |
+| 126 | [Distant Roads](https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Distant Roads](https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6) | 2:47 |
+| 127 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 |
+| 128 | [Scattered](https://open.spotify.com/track/0LdmeJoh43rLqNsTmDg3Ed) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 3:38 |
+| 129 | [Dunlin](https://open.spotify.com/track/7LQGIJsi90gdSKo5yzEDOb) | [Dust Follows](https://open.spotify.com/artist/5ANgyunkGzckn6Pn0AK5FC) | [Swan](https://open.spotify.com/album/3CcjnNWOPCrrDBKEgUQ3Mk) | 2:22 |
 
-Snapshot ID: `MCxkNDkxYjk2YTkzMDM3Mjk5MWNmMWJiYjc5MTc2OGE4MzFjMTA2OWU0`
+Snapshot ID: `MCw3NTI0MTNjZGY5NzhiY2E1YjU0MmEwODhmZWMyNzYyNWVhZDk2MTNm`

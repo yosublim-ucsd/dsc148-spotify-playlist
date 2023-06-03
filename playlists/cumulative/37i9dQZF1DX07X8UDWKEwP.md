@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Vicente García
+> Lo nuevo del mundo tropical\. Cover: Natti Natasha
 
-270 songs - 16 hr 7 min
+271 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 Años](https://open.spotify.com/track/6pQiERfIQAdfX6w1UFdlE7) | [Sexappeal](https://open.spotify.com/artist/46aJHc5ahjcNZfiS44i1zo) | [100 Años](https://open.spotify.com/album/6R8nYSvwsrd1sIBMU4wpAt) | 4:20 | 2022-01-01 | 2022-01-29 |
 | [50/50](https://open.spotify.com/track/6OMRRYsSxvwAfFxkFfzn4L) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [50/50](https://open.spotify.com/album/7pqN4Gjy61BPFqpbJ8Vqjf) | 3:46 | 2022-01-01 | 2022-06-30 |
 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 | 2023-05-05 | 2023-05-13 |
-| [A Escondidas](https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:39 | 2023-05-19 |  |
+| [A Escondidas](https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Voy a Ti](https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe) | 3:39 | 2023-05-19 | 2023-06-03 |
 | [A Partir De Hoy](https://open.spotify.com/track/4qlnsZUoAbvpjgpStiKIcH) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [J.O Music](https://open.spotify.com/artist/0kPQLtKqUTZPp7pDQAGzau) | [A Partir De Hoy](https://open.spotify.com/album/5Sr211iHVs2uy2tf0mzAhj) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 | 2022-08-12 | 2023-01-21 |
 | [ADIÓS](https://open.spotify.com/track/0oCg7mNg3DDcKsB5wfWo9r) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:40 | 2023-01-20 | 2023-04-01 |
@@ -121,6 +121,7 @@
 | [La Culpa](https://open.spotify.com/track/5OkBHe7uEoC03x7x4sckQG) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [La Culpa](https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR) | 3:24 | 2022-07-19 | 2023-01-24 |
 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 | 2023-01-20 |  |
 | [La Despedida](https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [La Despedida](https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2) | 3:20 | 2023-04-21 | 2023-05-27 |
+| [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 | 2023-06-02 |  |
 | [La Foto Se Me Borró \- Bachata](https://open.spotify.com/track/7lQXFaerELCnqOWIk1VxGk) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap) | [Regresó el Jefe 2.0](https://open.spotify.com/album/7D21gZNHtQdIlc3pFotIiO) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-03 |  |
 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 | 2023-04-21 |  |

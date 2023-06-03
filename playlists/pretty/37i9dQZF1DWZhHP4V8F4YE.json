@@ -1,12 +1,12 @@
 {
   "description": "Viral hits in Africa",
-  "num_followers": 7121,
+  "num_followers": 7224,
   "original_name": "Viral Hits Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2FjYzc3MGFlMmEyNTNiN2JkY2VhZTQ5Y2U1NzYxNGU0ZmRmZTVi",
+  "snapshot_id": "MCw1ZTVlYWQ2MzdiMGM0ZGFhN2IxMmMyZWFiMWJlNDViMDMzMTg3YmQ5",
   "tracks": [
     {
       "added_at": "2023-05-29 10:01:14",
@@ -119,6 +119,26 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2023-06-02 05:25:23",
+      "album": {
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-05-29 10:01:14",
@@ -899,34 +919,6 @@
       "duration_ms": 238032,
       "name": "Sosh Plata - Remix",
       "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
-    },
-    {
-      "added_at": "2023-05-29 10:01:14",
-      "album": {
-        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 350309,
-      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
       "added_at": "2023-05-29 10:01:14",

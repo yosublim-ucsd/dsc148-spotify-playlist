@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "234 (PRBLMS)",
+        "url": "https://open.spotify.com/album/5PYhGPNQLtnQSawhjaHzq3"
+      },
+      "artists": [
+        {
+          "name": "2AAB",
+          "url": "https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "234 (PRBLMS)",
+      "url": "https://open.spotify.com/track/1uXvDZoNNJmXPNt6dGJ9fV"
+    },
+    {
+      "album": {
         "name": "500 DEGREES",
         "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
       },
@@ -634,7 +656,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
@@ -656,7 +678,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 178421,
       "name": "Born To Win",
       "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
@@ -796,6 +818,36 @@
       "duration_ms": 201979,
       "name": "Budget (feat. Latto)",
       "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp"
+      },
+      "artists": [
+        {
+          "name": "Nxwrth",
+          "url": "https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS"
+        },
+        {
+          "name": "RJZ",
+          "url": "https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb"
+        },
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Shy Kuu",
+          "url": "https://open.spotify.com/artist/2G8BQnHecgoOBzIqmKH8mL"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137283,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh"
     },
     {
       "album": {
@@ -986,7 +1038,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 179580,
       "name": "Come & Go - Black Sherif Remix",
       "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
@@ -1004,7 +1056,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 100424,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz"
@@ -1518,7 +1570,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 201360,
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
@@ -2428,7 +2480,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 188416,
       "name": "King Talk (feat. Shaquille O'Neal)",
       "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
@@ -2756,7 +2808,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144000,
       "name": "More More",
       "url": "https://open.spotify.com/track/1nHxwydpZWlsJ1DXPV99pD"
@@ -2814,7 +2866,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 120933,
       "name": "My Body",
       "url": "https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH"
@@ -2909,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "NEW ID",
+        "url": "https://open.spotify.com/album/0JbESFTgsAYBkaR0qa97fn"
+      },
+      "artists": [
+        {
+          "name": "Moyoswrld",
+          "url": "https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109757,
+      "name": "NEW ID",
+      "url": "https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC"
+    },
+    {
+      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -2987,6 +3057,28 @@
     },
     {
       "album": {
+        "name": "Gbagada Express Vol 2: Moving Mad",
+        "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152947,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
+    },
+    {
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -3046,7 +3138,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 214280,
       "name": "Nyash (Current & Savings)",
       "url": "https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p"
@@ -3140,7 +3232,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
@@ -3162,7 +3254,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
@@ -3359,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/7DZ3BGq2isyCsEw0d9A6hs"
+      },
+      "artists": [
+        {
+          "name": "Brainee",
+          "url": "https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128282,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/6LkQCxb5nGusuucpL1OKKE"
+    },
+    {
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
@@ -3374,7 +3484,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
@@ -3582,7 +3692,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -3800,7 +3910,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164946,
       "name": "ROLL THE DICE (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
@@ -3974,7 +4084,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
@@ -4120,6 +4230,28 @@
       "duration_ms": 143466,
       "name": "Split",
       "url": "https://open.spotify.com/track/3HqGDrSOZ6LbBfX5EsiaAj"
+    },
+    {
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "album": {
@@ -4288,7 +4420,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 227633,
       "name": "THE FORMULA",
       "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
@@ -4328,7 +4460,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "The Views",
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
@@ -4410,7 +4542,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"

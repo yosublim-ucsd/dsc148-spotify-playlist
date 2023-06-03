@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,886 likes - 50 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,927 likes - 50 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aa Vasant Rajni](https://open.spotify.com/track/2eiOOMb5V2tPY9VTmBbMME) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Aa Vasant Rajni](https://open.spotify.com/album/5KOiUoOwgiyLQdDQEwR8VW) | 4:49 |
 | 2 | [Chaiti \- Raat Hum Dekhli Sapanwa](https://open.spotify.com/track/0AJJvNFYrXJIofnpguOOaS) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Sur Tarangini Part 2](https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3) | 11:16 |
-| 3 | [Bindiya Ka Rang Uda Jaye \- Raga Bhairavi \- Tala Dadra](https://open.spotify.com/track/6sVEyEssNWWbX8eABiNfdN) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Chaitanya Kunte](https://open.spotify.com/artist/3eWmQr836d0WvH4Fid3oj6), [Prashant Pandav](https://open.spotify.com/artist/2lHCSPBPOfpetcA99KlhYR) | [Bindiya Ka Rang \- Dadra](https://open.spotify.com/album/6qaUTjlKmx2mkOz8drtklF) | 8:07 |
+| 3 | [Garjat Aayi Re \- Miyan Malhaar \- Teentaal](https://open.spotify.com/track/0dFhCT3tJ73gQYPHM0dbNh) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Kumar Sharma](https://open.spotify.com/artist/7ub0qIn7JQe3XCqzULgec6), [Kathak Rockers](https://open.spotify.com/artist/4JlRWfdSxNUonT3X0h12q3) | [Garjat Aayi Re](https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I) | 5:59 |
 | 4 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
 | 5 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 |
 | 6 | [Vrindavan Sojourn](https://open.spotify.com/track/4P1I8fZOObedYQoftl6Vqn) | [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy), [Subhen Chatterjee](https://open.spotify.com/artist/6rDPZYMMhIHdzIBRelxqB7), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Tamal Kanti Halder](https://open.spotify.com/artist/1FEXQ23yxjNYaKJXK0IxiW), [Sambit Chatterjee](https://open.spotify.com/artist/1k1JTLGm0dUcSIflDlZ6tb) | [Vrindavan Sojourn \(From the Album "Manoyatri"\)](https://open.spotify.com/album/2G0NX8PGJkRCdn1beqaQ65) | 11:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 49 | [Raga Bibhasi: He Shyam, Shyami](https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 24:46 |
 | 50 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |
 
-Snapshot ID: `MCxiZTI0YjFhN2UwZDVhZjg5MDI1NzQ5NzFkMWNkNTI2ODE5MmYxZGQ2`
+Snapshot ID: `MCwwOTUwMTk5NzBmODYxMzllNDU5NzdkNDIzODllYTgzYzYwNmMwNWQw`

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 146815,
+  "num_followers": 147058,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmIxYTNmNTIzYTUzNWZmMjA5ZjU3ODBlNjFhMmJlYTM2YTM1OThj",
+  "snapshot_id": "MCw2Njc4YjMzZjBjMzM2MzZiNjk2NGRkYTI0ZTA1NWY1MmFlNmExYTAx",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Don't You Feel Amazing?",
-        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Don't You Feel Amazing?",
-      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+        "name": "Don't You Feel Amazing?",
+        "url": "https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3"
       },
       "artists": [
         {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
+      "duration_ms": 225841,
+      "name": "Don't You Feel Amazing?",
+      "url": "https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -343,6 +327,22 @@
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Happy",
-        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 158372,
-      "name": "Always Happy",
-      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "gasoline",
-        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
-      },
-      "artists": [
-        {
-          "name": "Baby Guts",
-          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
-        }
-      ],
-      "duration_ms": 114053,
-      "name": "Staplegun",
-      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Mayo Supreme",
         "url": "https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Grrrl Angst",
-        "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
+        "name": "gasoline",
+        "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
       "artists": [
         {
-          "name": "She/Her/hers",
-          "url": "https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg"
+          "name": "Baby Guts",
+          "url": "https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR"
         }
       ],
-      "duration_ms": 230350,
-      "name": "Nvr Pass",
-      "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
+      "duration_ms": 114053,
+      "name": "Staplegun",
+      "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+        "name": "Grrrl Angst",
+        "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
       },
       "artists": [
         {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+          "name": "She/Her/hers",
+          "url": "https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
+      "duration_ms": 230350,
+      "name": "Nvr Pass",
+      "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -663,6 +647,22 @@
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Night in the Woods",
         "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 183000,
       "name": "Night in the Woods",
       "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
-      },
-      "artists": [
-        {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
-        }
-      ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Sorry, Mom",
         "url": "https://open.spotify.com/album/2S2SJWfVZ7KWjz8tfrYSvh"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 369213,
       "name": "Word Salad",
       "url": "https://open.spotify.com/track/69j7HErLMwAtvPCtR74tKa"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+      },
+      "artists": [
+        {
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+        }
+      ],
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Personal Best",
         "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 165560,
       "name": "Fagetarian and Dyke",
       "url": "https://open.spotify.com/track/5tO8kFjt6vhHVAFzRxDaYK"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "babyface",
-        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
-      },
-      "artists": [
-        {
-          "name": "Sorry Mom",
-          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
-        }
-      ],
-      "duration_ms": 74437,
-      "name": "I Saw Jesus Hanging on a Basketball Hoop",
-      "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Dream Wife",
         "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "babyface",
+        "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
+      },
+      "artists": [
+        {
+          "name": "Sorry Mom",
+          "url": "https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX"
+        }
+      ],
+      "duration_ms": 74437,
+      "name": "I Saw Jesus Hanging on a Basketball Hoop",
+      "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Already",
-        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
-      },
-      "artists": [
-        {
-          "name": "La Luna",
-          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
-        }
-      ],
-      "duration_ms": 113413,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Every Now and Then",
-        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
-      },
-      "artists": [
-        {
-          "name": "Wolf Girl",
-          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Dream Partner",
-      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Divine Violence",
         "url": "https://open.spotify.com/album/5F3NCovJyL6jjJevjEp5Q4"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 202231,
       "name": "Divine Violence",
       "url": "https://open.spotify.com/track/20XjbnBPSXQCRPzNHUwcNl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Every Now and Then",
+        "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
+      },
+      "artists": [
+        {
+          "name": "Wolf Girl",
+          "url": "https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Dream Partner",
+      "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
     }
   ],
   "unique_name": "Queercore",

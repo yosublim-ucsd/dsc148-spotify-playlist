@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-418 songs - 1 day 5 hr 10 min
+419 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Dream Walker \- Daigo Hanada Rework](https://open.spotify.com/track/7h6m35Qe729LBjo09X8FXG) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt), [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dream Walker \(Daigo Hanada Rework\)](https://open.spotify.com/album/2sVlsdKQCshFCxBzUaBjQZ) | 3:38 | 2021-05-10 | 2022-07-25 |
 | [Drifting Circles](https://open.spotify.com/track/456R4K85K04qITDh2vagal) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Drifting Circles](https://open.spotify.com/album/3V81X62zd5WYssTQHoI4tW) | 7:00 | 2020-10-20\* | 2022-06-23 |
 | [Dropar](https://open.spotify.com/track/2THglvTPmrgDMz6SgY5oFi) | [Atli Örvarsson](https://open.spotify.com/artist/2fqgzLpPOMc7GMw9qcOfQT), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Dropar](https://open.spotify.com/album/4A4b0gon2rzt9z7PWc5cWv) | 6:00 | 2021-01-25 | 2022-04-21 |
-| [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2023-05-05 |  |
+| [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2023-05-05 | 2023-06-03 |
 | [Dvergmál \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Dvergmál](https://open.spotify.com/album/3sEsQzwdu8GATbacKJfDBw) | 7:37 | 2020-10-23 | 2022-04-17 |
 | [Earnest Leslye](https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3) | 3:49 | 2020-10-20\* | 2022-07-29 |
 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 | 2023-03-03 | 2023-05-01 |
@@ -129,6 +129,7 @@
 | [Epilogue](https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Nomadland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq) | 4:06 | 2021-02-19 | 2022-08-05 |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ) | 4:27 | 2022-07-22 |  |
 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/69jp6YlrX8mxw26mbOuOpu) | 4:27 | 2020-10-21 | 2022-04-26 |
+| [Esja](https://open.spotify.com/track/3c3i9icjd5mMi8z9NJhRHv) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3), [Alix Vaillot\-Szwarc](https://open.spotify.com/artist/6aML5wmfX9G35f0SefMvn0), [Özgür Kaya](https://open.spotify.com/artist/2NIJXCrR8rog7GWW2njcV7) | [Esja](https://open.spotify.com/album/3aBD10mWdF7VfHpMRl9u1t) | 2:18 | 2023-05-12 |  |
 | [Etude](https://open.spotify.com/track/26I8Se3pMUKf56A2NAL9va) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 4:35 | 2021-02-06 | 2021-02-12 |
 | [Etude No\. 2](https://open.spotify.com/track/5bi8ryL6gy6a1BRXOf43y9) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Etudes for Piano Vol 1 No\. 1\-10](https://open.spotify.com/album/5Ya7ft5JteI5pIS4eCMKOC) | 4:55 | 2021-02-06 | 2021-02-12 |
 | [Etudes Instrumentales: b\) Flute Mexicaine](https://open.spotify.com/track/3l604Urtsbyu4GHYEoFrHM) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [1st panorama de musique concrete \(Remastered\)](https://open.spotify.com/album/7BIGumADSOqwUPay2wCCZw) | 3:08 | 2021-02-06 | 2021-02-12 |

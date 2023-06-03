@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
+        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188207,
+      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
+    },
+    {
+      "album": {
         "name": "Baskotaya M2armesha",
         "url": "https://open.spotify.com/album/0L5HPsf9TBTQaJESlx8JmC"
       },
@@ -1050,6 +1068,32 @@
       "duration_ms": 199334,
       "name": "Dalaa Dalouna",
       "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
+    },
+    {
+      "album": {
+        "name": "DARBA 9ADIYA",
+        "url": "https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149209,
+      "name": "DARBA 9ADIYA",
+      "url": "https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4"
     },
     {
       "album": {
@@ -1898,7 +1942,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 175506,
       "name": "Ghareeb Alay",
       "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
@@ -2062,7 +2106,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155998,
       "name": "Habitha Ya Nas - From Bhabak",
       "url": "https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1"
@@ -4245,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "Tigi Netjawaz Bilser",
+        "url": "https://open.spotify.com/album/6ZMkHd8mFGFx2XFL5WNXmE"
+      },
+      "artists": [
+        {
+          "name": "Sara Al Zakaria",
+          "url": "https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535092,
+      "name": "Tigi Netjawaz Bilser",
+      "url": "https://open.spotify.com/track/14lf86kzJWv7QXp0zCpYPF"
+    },
+    {
+      "album": {
         "name": "TMO",
         "url": "https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ"
       },
@@ -4566,7 +4628,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 172711,
       "name": "Ya Khabar",
       "url": "https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU"

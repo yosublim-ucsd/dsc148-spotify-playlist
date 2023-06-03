@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 137004,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/4hShW5zZGC09Wzam5e76AW"
@@ -2791,6 +2791,32 @@
     },
     {
       "album": {
+        "name": "Territ\u00f3rio",
+        "url": "https://open.spotify.com/album/2degQsOcDxD9CmfwE7gFf7"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183938,
+      "name": "Territ\u00f3rio",
+      "url": "https://open.spotify.com/track/5PdXjjxtXFph228HxlHHV1"
+    },
+    {
+      "album": {
         "name": "Teu Beijo Faz Efeito",
         "url": "https://open.spotify.com/album/4MOiXIywL49JhXT8m4gS3m"
       },
@@ -2880,7 +2906,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 208000,
       "name": "Uma Linda Mulher",
       "url": "https://open.spotify.com/track/1XqWGzOdE6Q6FgFwAg0t9R"

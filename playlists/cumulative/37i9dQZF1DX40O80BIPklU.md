@@ -2,9 +2,9 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Zxmyr y Sandro Malandro en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Nicki Nicole en portada.
 
-189 songs - 10 hr 36 min
+191 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [CALIENTE](https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [CALIENTE](https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT) | 5:02 | 2023-05-05 |  |
 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 | 2023-03-17 |  |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2022-09-09 |  |
+| [CERO$](https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CERO$ / LATI2](https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX) | 2:34 | 2023-06-02 |  |
 | [Chambean](https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Chambean](https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3) | 3:12 | 2022-01-28 | 2023-03-04 |
 | [CLASE G](https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [CashMoneyAp](https://open.spotify.com/artist/0vMv24BXeZOK8l3S5SMLri) | [CLASE G](https://open.spotify.com/album/6SuRkKnWq0XW9K0XuwcZpQ) | 2:07 | 2021-12-30 | 2022-10-07 |
 | [CLOACA](https://open.spotify.com/track/0hsE4KoZ14iXURFc8Lf4dU) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Doktor Rheal](https://open.spotify.com/artist/6RLtMINjyT15TfS3enUhFF) | [YEYO](https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp) | 2:59 | 2022-03-15 | 2022-09-10 |
@@ -61,6 +62,7 @@
 | [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 |  |
 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 |  |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 |  |
+| [El Mundo Es Mío](https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9) | [Sr\. Wilson](https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy), [Griffi](https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD) | [El Mundo Es Mío](https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT) | 3:36 | 2023-06-02 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 | 2022-07-29 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-24 |  |
 | [El Precio del Valor](https://open.spotify.com/track/69Xy0ICKMuL96Kq95wHcmd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [El Precio del Valor](https://open.spotify.com/album/5XlUfc0NrmKhZZ55VWlkEv) | 3:14 | 2023-05-12 |  |

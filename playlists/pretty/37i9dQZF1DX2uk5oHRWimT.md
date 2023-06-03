@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,223 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,211 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 102 | [Christmas Alone](https://open.spotify.com/track/6CiWjivcgYzpHZ44XiHoqW) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Maybe This Christmas, Vol 4: Holiday Folk](https://open.spotify.com/album/2081ZONNeBVsfDhuXw86JI) | 3:48 |
 | 103 | [O Holy Night](https://open.spotify.com/track/4t00TeUJmmFg9tZoJ0twpx) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 5:15 |
 | 104 | [A Child's Christmas in Wales](https://open.spotify.com/track/4gydEH2RTA91rV5F8NkonM) | [Al Lewis](https://open.spotify.com/artist/6uOcVdgW1WKRk2K6ufcIi7) | [A Child's Christmas in Wales](https://open.spotify.com/album/2ixBkmoRp6Mnt6irGcr9B1) | 3:53 |
-| 105 | [Christmas Tree](https://open.spotify.com/track/1DauQsxBWMtYJmiV6iIKHq) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/3tIAOisF8RB8jiJdCgMIwN) | 3:13 |
+| 105 | [Christmas Tree](https://open.spotify.com/track/3gKRfnGUslHVHIA0EhkucQ) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Father Christmas](https://open.spotify.com/album/67Cc0oA2zbfJQDs1V0kFSY) | 3:13 |
 | 106 | [Christmas Time Is Here](https://open.spotify.com/track/737QrlDXQ60hnDCkzUDxhK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [The Christmas EP](https://open.spotify.com/album/7yjyuhHmTnwnqIMGYzWU1F) | 2:59 |
 | 107 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
 | 108 | [What Are You Doing New Years Eve](https://open.spotify.com/track/5HhcXgRU7kYszL7OQZtNlc) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:53 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 133 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 134 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MCxjODQzNDNmYzg2MWIxMGFjZTY1NTkyZjRjZjUxYjc1ODg4MWI1MGZl`
+Snapshot ID: `MCxjNDU4ZTEzY2M4NTVjNDhhNGExYjk3M2U0OTNmYTVlNTFmNmZhZWE0`

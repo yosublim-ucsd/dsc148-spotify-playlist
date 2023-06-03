@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-302 songs - 15 hr 13 min
+304 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Growing Through](https://open.spotify.com/track/5ecrC16hKs2IhKScUCiXTg) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Growing Through](https://open.spotify.com/album/1GR6IOFLhfMBgZT5TMRgMQ) | 1:54 | 2022-05-20 |  |
 | [Habits](https://open.spotify.com/track/7x508VL7l1oKprXAlyKCr4) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Habits](https://open.spotify.com/album/5DheiEg0IKr4iadlv0hn7F) | 3:25 | 2022-07-08 |  |
 | [Hanalei](https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Hanalei](https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa) | 2:11 | 2023-03-03 |  |
+| [Hanoue](https://open.spotify.com/track/7slXJO3MVWwQ4XXeTy2QBR) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Hanoue](https://open.spotify.com/album/67FMM29TvRk4uMktyUNEsE) | 2:43 | 2023-06-02 |  |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2022-05-20 |  |
 | [Hard Rains](https://open.spotify.com/track/7ahltR1lAfvO7wAwzYgQSM) | [Strawberry Girl](https://open.spotify.com/artist/4I2RGdUYejDTGonhomBWKS) | [Hard Rains](https://open.spotify.com/album/3w5YcgPIZFedMO9KfqAqJN) | 3:55 | 2022-05-20 | 2022-08-05 |
 | [Head Start](https://open.spotify.com/track/0KKgRBtM1I3TxDoFmdjKAU) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Head Start](https://open.spotify.com/album/2Pkce8Rq52uQtaNd6m6tbP) | 3:07 | 2022-05-20 | 2022-09-09 |
@@ -178,6 +179,7 @@
 | [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 | 2022-09-17 |
 | [Midside](https://open.spotify.com/track/4eUvFf6qOaJ5WN0NiPy0LV) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Midside](https://open.spotify.com/album/6MhfXpAV2fDGLsuPJrN5w7) | 2:45 | 2022-10-28 |  |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-05-20 |  |
+| [Milquetoasts](https://open.spotify.com/track/4qW1Ge31IDc6UJ9aU3Q95N) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Milquetoasts](https://open.spotify.com/album/6ifwt4nNsm3ThBFtheeu6t) | 2:59 | 2023-06-02 |  |
 | [Miss U](https://open.spotify.com/track/4bLjS9vd86lvIddRDQZnSw) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Miss U](https://open.spotify.com/album/4dDBVWAKOmOd5CY52Nw7Ad) | 3:07 | 2022-10-07 |  |
 | [Monday Beat](https://open.spotify.com/track/4LmN2h64LJHhN8ZiiwiwOY) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Monday Beat](https://open.spotify.com/album/6eQDuOdTk1UOXNRdQ0cHNX) | 2:55 | 2022-05-20 |  |
 | [Moonage Love](https://open.spotify.com/track/6vkNiVaQI8bTCF2lAhABCz) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Moonage Love](https://open.spotify.com/album/0ZL52ybH6vsWnE5bFcZuvX) | 3:02 | 2023-01-06 |  |

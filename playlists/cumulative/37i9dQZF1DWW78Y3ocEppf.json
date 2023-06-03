@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: Slim & Eric Bellinger",
+  "description": "Let the songs speak. Cover: Fridayy",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157714,
       "name": "About You",
       "url": "https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc"
@@ -2069,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
+    },
+    {
+      "album": {
         "name": "Don't Love Me",
         "url": "https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM"
       },
@@ -2196,6 +2218,24 @@
       "duration_ms": 194679,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/6NstAfTbr3F6PnvGuis1YK"
+    },
+    {
+      "album": {
+        "name": "Don't Mind Me",
+        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189929,
+      "name": "Don\u2019t Mind Me",
+      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
     },
     {
       "album": {
@@ -4287,6 +4327,28 @@
     },
     {
       "album": {
+        "name": "Indecisive (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/6BoP06yDsAaqNqiQwBbkcp"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219259,
+      "name": "Indecisive (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
+    },
+    {
+      "album": {
         "name": "Indifferent",
         "url": "https://open.spotify.com/album/7kLfcydCvC99ExE7Sogptd"
       },
@@ -4932,7 +4994,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
@@ -9336,7 +9398,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 190188,
       "name": "Worked Up",
       "url": "https://open.spotify.com/track/1vE21myOaFwE4GQzTfXKfS"

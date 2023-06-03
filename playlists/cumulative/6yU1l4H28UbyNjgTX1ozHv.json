@@ -2655,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "Total Eclipse of the Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        },
+        {
+          "name": "Mateo Oxley",
+          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160883,
+      "name": "Total Eclipse of the Heart - Acoustic",
+      "url": "https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ"
+    },
+    {
+      "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },

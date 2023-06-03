@@ -4,7 +4,7 @@
 
 > Celebrating the music of Aretha Franklin with the songs she inspired.
 
-24 songs - 1 hr 34 min
+25 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Jump to It](https://open.spotify.com/track/3MWoJGrKXOTlEBIZzDoZkx) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Jump to It \(Expanded Edition\)](https://open.spotify.com/album/10uiEA15LdTEsjO1xJZVt4) | 6:40 | 2021-03-23 |  |
 | [Laila’s Wisdom](https://open.spotify.com/track/1EzniRQ6UM9Y5xGrmfqCgy) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Laila’s Wisdom](https://open.spotify.com/album/0IkioqpdjITJwhbRliLoCx) | 3:14 | 2021-03-23 |  |
 | [Let's Get Away](https://open.spotify.com/track/7pjl3P3jnqdItN1beCrJS1) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Muzik](https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl) | 4:38 | 2021-03-23 |  |
-| [Lovin U](https://open.spotify.com/track/40UjDmQuYPOpa0zki1udgC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:48 | 2021-03-23 |  |
+| [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 | 2021-03-23 |  |
+| [Lovin U](https://open.spotify.com/track/40UjDmQuYPOpa0zki1udgC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:48 | 2021-03-23 | 2023-06-03 |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2021-03-23 |  |
 | [No Respect](https://open.spotify.com/track/0kkb3Cs6V7oUuYuC8eOOC1) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 5:24 | 2021-03-23 |  |
 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 | 2021-03-23 |  |

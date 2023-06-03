@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 10 | [Limpieza](https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 0:34 |
 | 11 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 |
 | 12 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
-| 13 | [Clean Up Your Toys](https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 1:49 |
-| 14 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
+| 13 | [Al agua patos](https://open.spotify.com/track/2FLv7uVCeSonmiYPUDFt2S) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Transportes en mis vacaciones](https://open.spotify.com/album/0fRPfcwOayugABKgIPtJIE) | 1:10 |
+| 14 | [Clean Up Your Toys](https://open.spotify.com/track/55mGuJIzV9aTW85NXs4FQ8) | [We Kids Rock](https://open.spotify.com/artist/11w4XkomQWLgLIcx90igCT) | [Let The Sun Shine](https://open.spotify.com/album/5abWJo4J0NxR4pVgkkjHCx) | 1:49 |
 | 15 | [Wash Your Hands with Baby Shark](https://open.spotify.com/track/5hf6QzXXpaJOzS7UHMXCXQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Wash Your Hands with Baby Shark](https://open.spotify.com/album/3Fjfrc6xmbPee9QPHBKPZC) | 1:27 |
 | 16 | [Canción para la hora del baño \(Agua, jabón\)](https://open.spotify.com/track/530Obi3SgOJuKe3H4OzLSq) | [Nene León](https://open.spotify.com/artist/77KB559uFak8dFDQNrfz6q) | [Canciones Infantiles, Vol\. 2](https://open.spotify.com/album/2uMGB4cOYTat3Z5mJmydNE) | 1:32 |
 | 17 | [Mi Merienda](https://open.spotify.com/track/4G5XxbE4p0D6sg5i0F2bBR) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:59 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 41 | [Canción De Tomar El Té](https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Chicos](https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn) | 1:50 |
 | 42 | [A Comer Que la Mesa Está Servida](https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW), [Edith Hermida](https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh), [Mauricio D'Alessandro](https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr) | [CD8: Llegó Panam](https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW) | 2:30 |
 | 43 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
-| 44 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
-| 45 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
+| 44 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
+| 45 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
 | 46 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
 | 47 | [Snack Time \(Juice and Cookies\)](https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:33 |
 | 48 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
 | 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 
-Snapshot ID: `MCw2MWQ1NjNiODc5MWQ5NDZjOTA5MDZlMDNkYjAzODk3NDc0OTkxYjk0`
+Snapshot ID: `MCw1N2ViZmM1MzhhY2VjNGNiZmVmMGE5OTY5NTA2NjE3ZjgwNmJhMzNi`

@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 22235,
+  "num_followers": 22257,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmE3ZmVmMTI5ODk4NjMyOGNmOWNiZjUxMTQxZThhOTgxYzc2NGU3",
+  "snapshot_id": "MCw5NTJlODhlMmY0NTQ0MGNkYzEzMjNjNjE5MmUwMmUzMTMzOTY3Zjcx",
   "tracks": [
     {
       "added_at": "2023-05-27 04:26:33",
@@ -491,22 +491,26 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "Props",
-        "url": "https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
       },
       "artists": [
         {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
         },
         {
-          "name": "Mah",
-          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Tony Choc",
+          "url": "https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE"
         }
       ],
-      "duration_ms": 174065,
-      "name": "Props",
-      "url": "https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc"
+      "duration_ms": 153600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
     },
     {
       "added_at": "2023-05-27 04:26:33",
@@ -531,26 +535,22 @@
     {
       "added_at": "2023-05-27 04:26:33",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
+        "name": "Props",
+        "url": "https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz"
       },
       "artists": [
         {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
         },
         {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Tony Choc",
-          "url": "https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE"
+          "name": "Mah",
+          "url": "https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
+      "duration_ms": 174065,
+      "name": "Props",
+      "url": "https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc"
     },
     {
       "added_at": "2023-05-27 04:26:33",

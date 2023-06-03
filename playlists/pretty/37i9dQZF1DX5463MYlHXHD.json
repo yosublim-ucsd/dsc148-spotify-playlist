@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: Santa Fe Klan & Dj Tao.",
-  "num_followers": 544065,
+  "num_followers": 544303,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGU1OTEzYWE5MjM1ZDc4ZTg2YWNkODQ1OTVhYjFkNDk0ZTkxMjQ2",
+  "snapshot_id": "MCxmNTJhN2NlMDcxNDkzZGJiNjRmMGIxMzQyZmEyZWUxZWU0NDQ4Y2Q5",
   "tracks": [
     {
       "added_at": "2023-05-29 16:04:37",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -478,6 +478,10 @@
         {
           "name": "La Joaqui",
           "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
       "duration_ms": 204146,
@@ -583,22 +587,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Me Declaro Culpable",
-        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Bailan Rochas y Chetas",
-      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -619,6 +607,22 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "Me Declaro Culpable",
+        "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Bailan Rochas y Chetas",
+      "url": "https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -727,22 +731,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Session en el Barrio #4",
-        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
       "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 152176,
-      "name": "Session en el Barrio #4",
-      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -763,18 +763,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+        "name": "Session en el Barrio #4",
+        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+      "duration_ms": 152176,
+      "name": "Session en el Barrio #4",
+      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -935,22 +939,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "No Es Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
       },
@@ -963,6 +951,22 @@
       "duration_ms": 193813,
       "name": "Soltero Hasta la Tumba",
       "url": "https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1423,26 +1427,18 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "DALE DALE",
-        "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
         }
       ],
-      "duration_ms": 183418,
-      "name": "DALE DALE",
-      "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
+      "duration_ms": 152125,
+      "name": "El Whatsapp",
+      "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1499,18 +1495,26 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+        "name": "DALE DALE",
+        "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
       "artists": [
         {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
-      "duration_ms": 152125,
-      "name": "El Whatsapp",
-      "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
+      "duration_ms": 183418,
+      "name": "DALE DALE",
+      "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1715,26 +1719,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "ROCAMORA",
-        "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
-      },
-      "artists": [
-        {
-          "name": "Tirri La Roca",
-          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
-        },
-        {
-          "name": "Juan FLP",
-          "url": "https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "ROCAMORA",
-      "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "El Manual",
         "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
       },
@@ -1755,18 +1739,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+        "name": "ROCAMORA",
+        "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        },
+        {
+          "name": "Juan FLP",
+          "url": "https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Dale Zorrita",
-      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
+      "duration_ms": 158181,
+      "name": "ROCAMORA",
+      "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1783,6 +1771,22 @@
       "duration_ms": 158145,
       "name": "No Te Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dale Zorrita",
+      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -1875,6 +1879,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
+        "name": "Una Vela",
+        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 124563,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1903,22 +1923,6 @@
       "duration_ms": 268720,
       "name": "Pocos Quedan",
       "url": "https://open.spotify.com/track/1u2IbfH3dDRURiowHVul46"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
-        "name": "Una Vela",
-        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 124563,
-      "name": "Una Vela",
-      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
       "added_at": "2023-05-29 16:04:37",
@@ -2199,22 +2203,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Yo Fumo",
-        "url": "https://open.spotify.com/album/33FknRCSpak207j4cmiApB"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 190849,
-      "name": "Yo Fumo",
-      "url": "https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "M\u00e1s Negro Que la Noche",
         "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
       },
@@ -2263,6 +2251,22 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
+        "name": "Yo Fumo",
+        "url": "https://open.spotify.com/album/33FknRCSpak207j4cmiApB"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 190849,
+      "name": "Yo Fumo",
+      "url": "https://open.spotify.com/track/2AOiUFvBd1AbUtEnmwqhaI"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
         "name": "Pase y Vea, Ac\u00e1 Suena la Cumbia",
         "url": "https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm"
       },
@@ -2307,22 +2311,6 @@
     {
       "added_at": "2023-05-29 16:04:37",
       "album": {
-        "name": "Ojos Color Fernet",
-        "url": "https://open.spotify.com/album/0cT0ygX5Ir9CRNSQIYH41q"
-      },
-      "artists": [
-        {
-          "name": "Mak Donal",
-          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Ojos Color Fernet",
-      "url": "https://open.spotify.com/track/3NCtczoyFW0qRxCXqLg7wt"
-    },
-    {
-      "added_at": "2023-05-29 16:04:37",
-      "album": {
         "name": "La Mano de Dios",
         "url": "https://open.spotify.com/album/2L6G8RA5pqd2XB9Pv8tIhJ"
       },
@@ -2339,6 +2327,22 @@
       "duration_ms": 169795,
       "name": "La Mano de Dios",
       "url": "https://open.spotify.com/track/0rbBliLgUiiuZBLAOf2gQb"
+    },
+    {
+      "added_at": "2023-05-29 16:04:37",
+      "album": {
+        "name": "Ojos Color Fernet",
+        "url": "https://open.spotify.com/album/0cT0ygX5Ir9CRNSQIYH41q"
+      },
+      "artists": [
+        {
+          "name": "Mak Donal",
+          "url": "https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM"
+        }
+      ],
+      "duration_ms": 143011,
+      "name": "Ojos Color Fernet",
+      "url": "https://open.spotify.com/track/3NCtczoyFW0qRxCXqLg7wt"
     },
     {
       "added_at": "2023-05-29 16:04:37",

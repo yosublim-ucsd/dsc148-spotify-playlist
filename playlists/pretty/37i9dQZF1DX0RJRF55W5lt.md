@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,851 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,069 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 45 | [R U Sleeping \- Bump 'N' Flex Remix](https://open.spotify.com/track/1iNeRmlqIPPcxyCAuCOi3m) | [Indo](https://open.spotify.com/artist/4gt3u2InsxUukBFlEpri1l), [Bump N Flex](https://open.spotify.com/artist/0LvmNTiOy87XfAsYd1ubZp) | [R U Sleeping](https://open.spotify.com/album/2nRTDFUgW236bepQTOA5ST) | 5:04 |
 | 46 | [Sincere](https://open.spotify.com/track/2bbIrLn5rnn8uCsPBwf8vA) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Clubbed To Death](https://open.spotify.com/album/0OstemuKkqQrvIieOxmQzh) | 3:58 |
 | 47 | [Sometimes It Snows in April \- Dreem House Dub Radio Edit](https://open.spotify.com/track/3nIWuSwR8iIyew22d6mICJ) | [Amar](https://open.spotify.com/artist/6QdjZOuApe5DjregmD5BLj) | [Sometimes It Snows In April](https://open.spotify.com/album/5b7XYJnXatCeqBBRNlBPuO) | 3:52 |
-| 48 | [Get Down \- We Can Get Down](https://open.spotify.com/track/2IrVQQ9cR0W0igKz661O4p) | [Groove Chronicles \(Noodles\)](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Get Down \(We Can Get Down\)](https://open.spotify.com/album/2RhvJDMfC7Ps9k34RDSSar) | 5:12 |
-| 49 | [Try Me Out \- Let Me Lick It](https://open.spotify.com/track/09WSDEUOZeRRtPf7ypQVoo) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau), [Anita Kelsey](https://open.spotify.com/artist/5ZH3ADznCGt5IWQ0yi9Vjn) | [Try Me Out](https://open.spotify.com/album/0lawHOxvdFwQVQZNLHSPKm) | 5:43 |
+| 48 | [Try Me Out \- Let Me Lick It](https://open.spotify.com/track/09WSDEUOZeRRtPf7ypQVoo) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau), [Anita Kelsey](https://open.spotify.com/artist/5ZH3ADznCGt5IWQ0yi9Vjn) | [Try Me Out](https://open.spotify.com/album/0lawHOxvdFwQVQZNLHSPKm) | 5:43 |
+| 49 | [Get Down \- We Can Get Down](https://open.spotify.com/track/2IrVQQ9cR0W0igKz661O4p) | [Groove Chronicles \(Noodles\)](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Get Down \(We Can Get Down\)](https://open.spotify.com/album/2RhvJDMfC7Ps9k34RDSSar) | 5:12 |
 | 50 | [I Don't Smoke \- Original Mix](https://open.spotify.com/track/1DQTqy12WHN9drwf0X8YK8) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Don't Smoke \('09 Mixes\)](https://open.spotify.com/album/6UGLROryBo6NVifmOHbMJ7) | 6:02 |
 | 51 | [Sunshine \- Wookie Main Mix](https://open.spotify.com/track/0crvolcKNxcfLMBFt8I9Hx) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Now And Always: 20 Years Of Dreaming](https://open.spotify.com/album/7loeQSRUbnvwYLcmgt70D0) | 4:27 |
 | 52 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [Just Gets Better \- Extended Dub](https://open.spotify.com/track/4yF939fEIyto1xOaxb6GmA) | [TJR](https://open.spotify.com/artist/2mOi0sQN0m20JitMkBLkWP), [Xavier](https://open.spotify.com/artist/6CO9AMgdkYPAC1rPyChGwB) | [Just Gets Better](https://open.spotify.com/album/3WSB8rJfDTxT192dR3ZXkR) | 7:19 |
 | 73 | [Buddy X '99 \- Dreem House Edit](https://open.spotify.com/track/5NqKNGegPd7IBAZORoK0sb) | [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [The Dreem Teem](https://open.spotify.com/artist/1Q60RIUO8DaJqi1bU2oFTE), [B Simms](https://open.spotify.com/artist/3KRl3x5ii6cK06QiW2na3j) | [Buddy X '99](https://open.spotify.com/album/2uErcMEL1ul0hABDrxMJFv) | 3:21 |
 | 74 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
-| 75 | [Destiny \- Dem 2 Radio Mix](https://open.spotify.com/track/793c172sg8q7S4yIVdolYy) | [Dem 2](https://open.spotify.com/artist/32bkV540WQJ4K9tVfLdNYQ) | [Destiny](https://open.spotify.com/album/33edSIlo2PL5bY1hNvlCgA) | 4:05 |
+| 75 | [Let Me Be Your Fantasy \- Trick Or Treat Remix Edit](https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc), [MC Tails](https://open.spotify.com/artist/3vPcO95a6acN37Kvuhw9Co) | [Let Me Be Your Fantasy](https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9) | 3:52 |
 
-Snapshot ID: `MCwyMDZiZWM0ODc2MmI1YjM3ZTI0YjcwY2JlODA5YTg0YzQxZDhkOTdl`
+Snapshot ID: `MCxmNTU5MDgxYjk5OTdlOTNlMWQxMjdmZjFkYjkzNTkxYjkyMTc5ZDZh`

@@ -979,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/7M9zww6ioXcaXbVM9fwFuC"
+      },
+      "artists": [
+        {
+          "name": "LAUTRE.",
+          "url": "https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6"
+        },
+        {
+          "name": "Calli Boom",
+          "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/6NtS4R8BNjdiPVwV7ZdIdx"
+    },
+    {
+      "album": {
         "name": "ASTER",
         "url": "https://open.spotify.com/album/2Dw0JKcTxtgeJCT6rRQmd6"
       },
@@ -1150,6 +1172,28 @@
       "duration_ms": 154058,
       "name": "Baby Loop",
       "url": "https://open.spotify.com/track/135xiI6VPiNp5cSkdkjJsD"
+    },
+    {
+      "album": {
+        "name": "Back Now",
+        "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "Ethan Dufault",
+          "url": "https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Back Now",
+      "url": "https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH"
     },
     {
       "album": {
@@ -1530,7 +1574,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189375,
       "name": "Bloody Mary - (Trap Version)",
       "url": "https://open.spotify.com/track/2SyBUij9c86g2bVbCuo50y"
@@ -4502,7 +4546,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 184162,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0G79CSNwUGMEGoJ8Fq3ASb"
@@ -5730,7 +5774,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 153600,
       "name": "Hands On My Body",
       "url": "https://open.spotify.com/track/7a2JaqaXhE63MBimY7mcGz"
@@ -6252,7 +6296,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 210782,
       "name": "Hollywood Hills",
       "url": "https://open.spotify.com/track/54LlZMD2ZnQXHsiiIMaos7"
@@ -6336,7 +6380,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 281800,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
@@ -6362,7 +6406,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228000,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/5wKxi3JW9BTfJAo1BgkiK6"
@@ -7000,7 +7044,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 178673,
       "name": "In The End",
       "url": "https://open.spotify.com/track/0TljHP6WiN2kOoUEShqJlW"
@@ -7092,7 +7136,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 122812,
       "name": "Industrial",
       "url": "https://open.spotify.com/track/4Vd9jcF3kTYmrVDNq3eU2c"
@@ -11500,7 +11544,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 137777,
       "name": "Red Or Blue",
       "url": "https://open.spotify.com/track/5ItAI99ySNjoS5rfzo1f6T"
@@ -13366,7 +13410,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 166153,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/6dzgD9TYa77Um3BNhRRp3i"
@@ -15034,7 +15078,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 158896,
       "name": "Voices - revisioned",
       "url": "https://open.spotify.com/track/0q5wpRIzgNLWEM4ohN8wOv"
@@ -16174,7 +16218,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164500,
       "name": "Your Boyfriend's Car",
       "url": "https://open.spotify.com/track/093QE3w0St1rytpC6Rf7Ie"

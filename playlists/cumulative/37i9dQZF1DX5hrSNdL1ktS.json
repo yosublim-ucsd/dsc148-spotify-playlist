@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 170494,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E"
@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Emoji de diabla",
+        "url": "https://open.spotify.com/album/4cDmqdOSvYemxkcJk9SUxN"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "KarloH",
+          "url": "https://open.spotify.com/artist/0QOlyFDAVDrZbnfS9zUQNk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168487,
+      "name": "Emoji de Diabla",
+      "url": "https://open.spotify.com/track/5v89Riv1pAuaFxhmlFN7vL"
+    },
+    {
+      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/38pp7lSGyrfc8Wm9jokuA0"
       },
@@ -1362,6 +1384,24 @@
       "duration_ms": 212471,
       "name": "Est\u00e1 cabron",
       "url": "https://open.spotify.com/track/6I08cF09s0NQ434DInqdrH"
+    },
+    {
+      "album": {
+        "name": "Explicaciones",
+        "url": "https://open.spotify.com/album/53zrqyTLPG6SvnF0vQSa4h"
+      },
+      "artists": [
+        {
+          "name": "Kerox",
+          "url": "https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Explicaciones",
+      "url": "https://open.spotify.com/track/7HVSa4it1ejFjtOEytQ7Zk"
     },
     {
       "album": {
@@ -2170,7 +2210,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 207499,
       "name": "La Oportunidad - Spotify Singles",
       "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
@@ -2246,7 +2286,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 146303,
       "name": "Las Gatas",
       "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
@@ -2444,7 +2484,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 308000,
       "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
@@ -2466,7 +2506,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 177446,
       "name": "LUZ APAG\u00c1",
       "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
@@ -2528,7 +2568,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
@@ -2740,7 +2780,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 135797,
       "name": "Maviri",
       "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
@@ -2804,6 +2844,24 @@
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+    },
+    {
+      "album": {
+        "name": "Me Lastimas",
+        "url": "https://open.spotify.com/album/7yQtlPWIwS2w9p9LBSaJuQ"
+      },
+      "artists": [
+        {
+          "name": "Nyquest",
+          "url": "https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145402,
+      "name": "Me Lastimas",
+      "url": "https://open.spotify.com/track/3tQIF5D5tZtmNmjSnO4bkN"
     },
     {
       "album": {
@@ -2900,7 +2958,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
@@ -3374,7 +3432,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164000,
       "name": "Numero 1",
       "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
@@ -3642,7 +3700,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
@@ -4280,7 +4338,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
@@ -4324,7 +4382,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 146840,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
@@ -4360,7 +4418,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 122986,
       "name": "SESENTAYNUEVE",
       "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
@@ -4850,7 +4908,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 203478,
       "name": "Toketeo",
       "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
@@ -5179,6 +5237,50 @@
     },
     {
       "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/6KVdzdnXHb9gWWfWTxBLnY"
+      },
+      "artists": [
+        {
+          "name": "Vanillamilkshake",
+          "url": "https://open.spotify.com/artist/4NBCWmojfdzwHIImMmFkRl"
+        },
+        {
+          "name": "Gats. B",
+          "url": "https://open.spotify.com/artist/1HmRqLMbuen6z9ApUFkp6F"
+        },
+        {
+          "name": "J Mauri",
+          "url": "https://open.spotify.com/artist/5e2QMokByimjpy5prPACGj"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/6OlF9IPCCVc6vtxvqtvp96"
+    },
+    {
+      "album": {
+        "name": "Viralizando",
+        "url": "https://open.spotify.com/album/6bcJdspcnVaezjRzYNhP0B"
+      },
+      "artists": [
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Viralizando",
+      "url": "https://open.spotify.com/track/7vESM7YLN1URW3yLZjPI5W"
+    },
+    {
+      "album": {
         "name": "Waii",
         "url": "https://open.spotify.com/album/2lWsYpwRzt5eocRtcFaaB9"
       },
@@ -5311,6 +5413,28 @@
     },
     {
       "album": {
+        "name": "ZIPLOCK",
+        "url": "https://open.spotify.com/album/6Rt0QL26rTniN1ZucDfVyG"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177962,
+      "name": "ZIPLOCK",
+      "url": "https://open.spotify.com/track/76ImqIwLnBXGFj721jf5tF"
+    },
+    {
+      "album": {
         "name": "\u00d1ero Session 2",
         "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
       },
@@ -5334,6 +5458,28 @@
       "duration_ms": 146938,
       "name": "\u00d1ero Session 2",
       "url": "https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 4",
+        "url": "https://open.spotify.com/album/1OtP2XObNNtmkQAGfRuTgn"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Agus Padilla",
+          "url": "https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161194,
+      "name": "\u00d1ero Session 4",
+      "url": "https://open.spotify.com/track/28LzTKSNoR7a0kcTdFgpmS"
     },
     {
       "album": {

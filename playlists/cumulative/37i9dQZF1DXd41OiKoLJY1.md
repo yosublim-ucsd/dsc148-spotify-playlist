@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: $ho Artwork: Isu Kim
 
-1,259 songs - 3 day 3 hr 9 min
+1,260 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1019,6 +1019,7 @@
 | [Simulan \(from "Dirty Linen"\)](https://open.spotify.com/track/4a0nV7vaaK8SpQhT6EbitJ) | [Kice](https://open.spotify.com/artist/6kIMW8iywqC1dphocNKtgC) | [Simulan \(from "Dirty Linen"\)](https://open.spotify.com/album/2G6UrD6DaP1hSUFO2Xl65B) | 3:20 | 2023-02-02 | 2023-02-17 |
 | [Sinasabi Ko Na](https://open.spotify.com/track/2rBWYmHeELKBEm4YEk5Q27) | [Eunice Janine](https://open.spotify.com/artist/0CLUxhc0U9fZp3Oc5ec0nu), [Bendeatha](https://open.spotify.com/artist/1JSj8kDb48WmDoOact9uop) | [Sinasabi Ko Na](https://open.spotify.com/album/0HtazqUrFcO42Cmn4aXjPX) | 2:48 | 2022-03-10 | 2022-04-01 |
 | [Sinayang](https://open.spotify.com/track/5w6T71pWL8fC8x81h9eSUM) | [Myko Mañago](https://open.spotify.com/artist/4rLjmdSXq2xNqbIGs9Vq2s) | [Sinayang](https://open.spotify.com/album/1I2gCgXoz0ryU7xTWCUkVe) | 3:13 | 2023-03-16 | 2023-04-07 |
+| [Sindi](https://open.spotify.com/track/37xkVt6LDjHOy2Ty0NLHIt) | [Arvien](https://open.spotify.com/artist/79Nz2Qrqv3s49MoCBCBX2o) | [Sindi](https://open.spotify.com/album/0UGjNSwSIA2HHumuCBnqwV) | 3:24 | 2023-06-01 |  |
 | [Sino Ba Sila](https://open.spotify.com/track/79GyME6g0EN0Kh65oGB4jD) | [Z2Z](https://open.spotify.com/artist/26IPaLiQmjviEda655dFFe) | [GENE:ZIIZ](https://open.spotify.com/album/6pMWTpXNMQHwwEc5wuGas8) | 2:14 | 2023-03-16 | 2023-04-07 |
 | [Sinta](https://open.spotify.com/track/06Nn2ZbkZl74aR5Tu7hrFd) | [Antipara](https://open.spotify.com/artist/2DV2cN7Cj7rGknQw5YkZO7) | [Sinta](https://open.spotify.com/album/5UWLSoPW1H0agqtL8CRJbT) | 5:55 | 2022-08-19 | 2022-09-23 |
 | [Sinta](https://open.spotify.com/track/5dWi2obpLGO3edaYvdia8K) | [Quaderno](https://open.spotify.com/artist/6gW0p0JnjDSXDDhE0llqdN) | [Sinta](https://open.spotify.com/album/2CTEzyBlsVXJ0lSgVrwacR) | 4:39 | 2022-03-03 | 2023-01-13 |

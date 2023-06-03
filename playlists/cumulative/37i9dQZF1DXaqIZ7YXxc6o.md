@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Club Angel & Becca Hatch
 
-810 songs - 1 day 20 hr 55 min
+811 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Back To You](https://open.spotify.com/track/7gmncQyMKLW6rSxlW6hExz) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli), [Jade Alice](https://open.spotify.com/artist/3RtGhwOeishzd1HIceHzrp) | [Back To You](https://open.spotify.com/album/5p4fIxTv21izsQk1OCoO7p) | 5:00 | 2022-12-22 | 2023-01-27 |
 | [Back To You](https://open.spotify.com/track/47jk6lI3sXV4hDtJiTFucQ) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Back To You](https://open.spotify.com/album/41xXvfoMC5FwlE7IJRyQrv) | 3:03 | 2023-03-09 | 2023-03-31 |
 | [Bad Behaviour](https://open.spotify.com/track/6BFyixMYTmPeF4d4Ao8oUm) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [T95](https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Bad Behaviour](https://open.spotify.com/album/1t3tZpBPSI8R7NA2cqGH1w) | 4:05 | 2023-01-19 | 2023-02-03 |
-| [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-01 |  |
+| [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 | 2023-06-01 | 2023-06-03 |
+| [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-01 |  |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-03-23 | 2023-04-21 |
 | [Bad Juice \- BROODS Remix](https://open.spotify.com/track/0KKlrAWyFoFW4GLh5nAwfN) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Bad Juice \(BROODS Remix\)](https://open.spotify.com/album/6z2TcWBWAPk7SUjAMxKOOa) | 3:00 | 2022-12-08 | 2022-12-24 |
 | [Badman](https://open.spotify.com/track/0niGISINRsw8x9XgGgk6lE) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Badman](https://open.spotify.com/album/5ZPwLhXzPeTG8Iu72LSAVr) | 3:36 | 2023-05-18 |  |

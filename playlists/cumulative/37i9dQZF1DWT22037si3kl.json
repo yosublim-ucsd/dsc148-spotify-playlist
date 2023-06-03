@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Vulgo FK, Kyan",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Tz da Coronel",
   "name": "O Drip",
   "tracks": [
     {
@@ -205,6 +205,32 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "album": {
         "name": "Ampliando a Vis\u00e3o",
         "url": "https://open.spotify.com/album/1aG1R2ksgJaszj0Ww83k2l"
       },
@@ -216,7 +242,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142080,
       "name": "Ampliando a Vis\u00e3o",
       "url": "https://open.spotify.com/track/6IGrmySfg2tZ6BG3I1cN6F"
@@ -1036,7 +1062,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 136875,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/4W73K97eCNM6mUJFfIAHpH"
@@ -1435,6 +1461,44 @@
     },
     {
       "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188497,
+      "name": "Engana Dizendo Que Ama",
+      "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
+    },
+    {
+      "album": {
         "name": "Envolvido",
         "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
       },
@@ -1670,7 +1734,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 210000,
       "name": "Filho do Dono",
       "url": "https://open.spotify.com/track/0EuRZKWzNptC1ZuIMFKLxz"
@@ -1730,6 +1794,32 @@
       "duration_ms": 149707,
       "name": "Ford Ka",
       "url": "https://open.spotify.com/track/7g18mpJuwUeWhUIEczyFqw"
+    },
+    {
+      "album": {
+        "name": "Frozone",
+        "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "prod by bila",
+          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178119,
+      "name": "Frozone",
+      "url": "https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT"
     },
     {
       "album": {
@@ -1864,6 +1954,24 @@
       "duration_ms": 198620,
       "name": "Grife",
       "url": "https://open.spotify.com/track/0mtxZdz5ISNK7X2T0slm8d"
+    },
+    {
+      "album": {
+        "name": "Grifes (Conhe\u00e7o bem)",
+        "url": "https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Grifes (Conhe\u00e7o bem)",
+      "url": "https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu"
     },
     {
       "album": {
@@ -2595,6 +2703,32 @@
     },
     {
       "album": {
+        "name": "lobby",
+        "url": "https://open.spotify.com/album/1ehCUTfatBsdCD5qU3ZW3C"
+      },
+      "artists": [
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        },
+        {
+          "name": "N\u00facleo Label",
+          "url": "https://open.spotify.com/artist/6VAhN8DojlOaHm37LEVc55"
+        },
+        {
+          "name": "Oushanz",
+          "url": "https://open.spotify.com/artist/3Fh99Av2TM4lnJT2KBXElb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155647,
+      "name": "lobby",
+      "url": "https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM"
+    },
+    {
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -3228,7 +3362,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189795,
       "name": "Nao Me Chama De Neguin",
       "url": "https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0"
@@ -3706,7 +3840,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155480,
       "name": "Ouro Rose",
       "url": "https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov"
@@ -4307,6 +4441,32 @@
     },
     {
       "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/3MvAXFfiUn9o3RvdYc9ol9"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Ozelami",
+          "url": "https://open.spotify.com/artist/46PMSGreQpT1JclBbOEpjd"
+        },
+        {
+          "name": "FUNNI'E",
+          "url": "https://open.spotify.com/artist/5qGiMrL9ktgBTKqTTntPLT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197355,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/0ERDOEfSi7dwOY02PSpsKY"
+    },
+    {
+      "album": {
         "name": "Quadriciclo",
         "url": "https://open.spotify.com/album/4HsEBX999Dg4OHYPAWULJC"
       },
@@ -4426,7 +4586,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 160796,
       "name": "Rel\u00f3gio",
       "url": "https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb"
@@ -4743,6 +4903,58 @@
     },
     {
       "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+    },
+    {
+      "album": {
+        "name": "Seu Namorado \u00e9 Playboy",
+        "url": "https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz"
+      },
+      "artists": [
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Nord Gang",
+          "url": "https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159701,
+      "name": "Seu Namorado \u00e9 Playboy",
+      "url": "https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0"
+    },
+    {
+      "album": {
         "name": "Silenciador",
         "url": "https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM"
       },
@@ -4762,7 +4974,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164571,
       "name": "Silenciador",
       "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
@@ -5384,7 +5596,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168750,
       "name": "Vim de L\u00e1",
       "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"

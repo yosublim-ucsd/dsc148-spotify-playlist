@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Yas Werneck
 
-119 songs - 6 hr 7 min
+120 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Azul \- Ao Vivo](https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Melly No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK) | 3:03 | 2022-12-23 | 2023-02-25 |
 | [Bahamas](https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z) | [Jota SF](https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib) | [Éramos](https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i) | 3:38 | 2022-11-18 |  |
 | [Bem Calma](https://open.spotify.com/track/6c3b87lxij2i7A4uFpcd1t) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Bem Calma](https://open.spotify.com/album/3yWAlfv8Jyw8ddRiLqWECS) | 3:00 | 2022-11-18 | 2023-01-14 |
-| [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 |  |
+| [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 | 2023-01-20 | 2023-06-03 |
 | [Brigas Demais](https://open.spotify.com/track/210u8GSVwq7anEWu0e6wzL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 4:08 | 2023-03-24 |  |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 |  |
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-11-18 |  |
@@ -77,6 +77,7 @@
 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 | 2023-04-23 |  |
 | [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 |  |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 | 2023-04-01 |
+| [Nos Meus Sonhos](https://open.spotify.com/track/71OYvWfgOrjZ24aZO37fof) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Nos Meus Sonhos](https://open.spotify.com/album/3IqsAzB9DiO2SaB93295lj) | 3:33 | 2023-06-02 |  |
 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 | 2023-04-24 |
 | [Não Quero Te Perder](https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Não Quero Te Perder](https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0) | 2:49 | 2022-11-18 |  |
 | [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 | 2023-01-28 |

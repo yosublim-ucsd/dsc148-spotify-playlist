@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Hanoue",
+        "url": "https://open.spotify.com/album/67FMM29TvRk4uMktyUNEsE"
+      },
+      "artists": [
+        {
+          "name": "Pancake Cult",
+          "url": "https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163088,
+      "name": "Hanoue",
+      "url": "https://open.spotify.com/track/7slXJO3MVWwQ4XXeTy2QBR"
+    },
+    {
+      "album": {
         "name": "Happy Days",
         "url": "https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw"
       },
@@ -3070,6 +3088,24 @@
       "duration_ms": 176495,
       "name": "milanaze",
       "url": "https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot"
+    },
+    {
+      "album": {
+        "name": "Milquetoasts",
+        "url": "https://open.spotify.com/album/6ifwt4nNsm3ThBFtheeu6t"
+      },
+      "artists": [
+        {
+          "name": "Drunk Archer",
+          "url": "https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179247,
+      "name": "Milquetoasts",
+      "url": "https://open.spotify.com/track/4qW1Ge31IDc6UJ9aU3Q95N"
     },
     {
       "album": {

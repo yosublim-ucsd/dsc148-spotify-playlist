@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid icebreaker in your love pursuit.
+> Exceptionally vivid Swahili love stories for you and yours
 
-84 songs - 4 hr 52 min
+85 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-05 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2022-12-17 |
+| [Dawa](https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr) | [Love & Vibes](https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa) | 3:15 | 2023-06-02 |  |
 | [Dusuma](https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1) | 3:33 | 2022-05-26 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 | 2023-01-13 |
 | [Everybody \(feat\. Nadia Mukami\)](https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [Love & Vibes](https://open.spotify.com/album/5siLX3JnBQwSCMUgPM3Gjp) | 3:11 | 2023-04-20 |  |
@@ -68,7 +69,7 @@
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 |  |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 |  |
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
-| [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 |  |
+| [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 | 2023-06-03 |
 | [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 | 2023-04-14 |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2023-02-10 |
 | [Nitakupenda](https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h) | [Lafrik](https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr) | [Love Freaks](https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT) | 4:05 | 2022-11-17 | 2023-01-20 |

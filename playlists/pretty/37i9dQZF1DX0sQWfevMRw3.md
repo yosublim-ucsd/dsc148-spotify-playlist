@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VAD HÄNDER YRAN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,823 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,136 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Mer ikväll](https://open.spotify.com/track/2nyflmRbD7SPnY6BwLWYEj) | [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y), [Mojnz](https://open.spotify.com/artist/61cp16xuPyKTvJYmaAY6st) | [Mer ikväll](https://open.spotify.com/album/4w20W8xnMaRkP2KkMawfYB) | 2:11 |
 | 100 | [RAGGEN GÅR](https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [RAGGEN GÅR](https://open.spotify.com/album/30p5LHwQPCPkjJMvlFoyOs) | 2:58 |
 
-Snapshot ID: `MCw2MTY3YWIzZjRhNzliMWI3OTViN2IwMmY1YWNkZWZhZDM1ODJlYjM0`
+Snapshot ID: `MCw5ODA5MzgyNGQ0MmY2NzYzNzk3YTJmZTE0YzE4NGQzY2Y1OTQzOWFj`

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks from Tiësto, David Guetta, BROHUG, Guz and many more.
 
-215 songs - 10 hr 23 min
+217 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [House Your Body](https://open.spotify.com/track/1MNPJDbFmTLZ2eD5jGipad) | [Frivolous Jackson](https://open.spotify.com/artist/48jmr1k54Rz3O9RwutfalM) | [House Your Body](https://open.spotify.com/album/1nzGgT38oH4YZvPnLpwsh2) | 3:00 | 2023-02-12 |  |
 | [I Go](https://open.spotify.com/track/1dQHiFfT6vQDVazuyiS8LN) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Anna De Ferran](https://open.spotify.com/artist/0uGRpGp5fkrpsq7PC20Rz7) | [I Go](https://open.spotify.com/album/7hiOELvKrnBvAkFQMrvMdb) | 2:28 | 2023-05-05 |  |
 | [I Need You](https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [I Need You](https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H) | 2:35 | 2023-04-14 |  |
+| [I've Been Thinking](https://open.spotify.com/track/3JLY4RCxFfhz42d3TGLrPb) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [I've Been Thinking](https://open.spotify.com/album/2lBU0DcNLpBA41sjpNo9t4) | 2:22 | 2023-06-02 |  |
 | [ICANEXPLAINIT](https://open.spotify.com/track/6XM5bcDkY3IcRblU4TQguz) | [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF) | [ICANEXPLAINIT](https://open.spotify.com/album/5Uk0vSb5T0C7Vf47LGvDgg) | 2:49 | 2023-04-27 | 2023-05-24 |
 | [IDGAF](https://open.spotify.com/track/2NDU2YmIjgyOjiDx5rKK3O) | [Blaikz](https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde), [Robaer](https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5), [lisawanderlust](https://open.spotify.com/artist/73mCiGGnWwrRiUQBCaj8DF) | [IDGAF](https://open.spotify.com/album/2C4BfIuaOsejtPb6efGfOM) | 2:10 | 2023-04-14 | 2023-04-28 |
 | [IFLDM \(feat\. GLASGOW KI$$\)](https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB) | [IFLDM \(feat\. GLASGOW KI$$\)](https://open.spotify.com/album/5JHu6XWFumcF3aT1P0B6pP) | 2:49 | 2023-02-12 |  |
@@ -221,6 +222,7 @@
 | [Xanadu \(Lizzy Wang Remix\)](https://open.spotify.com/track/4iOont4lQXZEE9GqlBGpER) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp) | [Xanadu \(Lizzy Wang Remix\)](https://open.spotify.com/album/31WmuJsHgNxislVF0v4ZCJ) | 2:24 | 2023-02-12 | 2023-04-13 |
 | [You Are](https://open.spotify.com/track/3smSBKf1rot6aY2ScAMO8p) | [Lost Capital](https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t) | [Overture EP](https://open.spotify.com/album/0fA7O4H8tEI6NBk4U9jqsm) | 2:23 | 2023-02-12 | 2023-04-13 |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2023-02-12 | 2023-04-13 |
+| [You Talkin'](https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [You Talkin'](https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY) | 2:47 | 2023-06-02 |  |
 | [You're Makin Me High](https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ) | [Hi\_Tack](https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN) | [You're Makin Me High](https://open.spotify.com/album/1FbZJC14ukWYQcPGo6zggH) | 2:27 | 2023-02-12 | 2023-04-13 |
 | [Zombie \(feat\. Sam Stray Wood & Kiirah\)](https://open.spotify.com/track/1DzhpS9SP57PHHVO5HEewk) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [Alterboy](https://open.spotify.com/artist/4yR4Yc8RhsKBEwJ3JQQcY3), [Sam Stray Wood](https://open.spotify.com/artist/4X1oGt6g3c7h9UFTmwYDhF), [Kiirah](https://open.spotify.com/artist/5dOP9Sfrydo6TqNsX7oPhv) | [Zombie \(feat\. Sam Stray Wood & Kiirah\)](https://open.spotify.com/album/0D2UuEfuO21LT5al7X1Ygv) | 3:07 | 2023-03-10 |  |
 

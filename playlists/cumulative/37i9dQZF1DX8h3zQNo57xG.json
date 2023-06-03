@@ -1337,6 +1337,42 @@
     },
     {
       "album": {
+        "name": "Delta Mind",
+        "url": "https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "Delta Sleep Waves 103Hz - 105Hz",
+      "url": "https://open.spotify.com/track/0CRyhNaJfwot8QtdbZffnb"
+    },
+    {
+      "album": {
+        "name": "Delta Mind",
+        "url": "https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn"
+      },
+      "artists": [
+        {
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Delta Sleep Waves 82.3Hz - 84Hz",
+      "url": "https://open.spotify.com/track/1JqJX0GWATHbQGSxbSpBd7"
+    },
+    {
+      "album": {
         "name": "Delta Explorer",
         "url": "https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023"
       },
@@ -1964,6 +2000,24 @@
       "duration_ms": 228000,
       "name": "Sternenhimmel Delta Sinus 110Hz - 112Hz",
       "url": "https://open.spotify.com/track/3p8gv3EWLeXBWr7NlTRgN9"
+    },
+    {
+      "album": {
+        "name": "Stillness Delta Sinus 102-106 Hz",
+        "url": "https://open.spotify.com/album/0i0lqIgFhcNML0onjBMneh"
+      },
+      "artists": [
+        {
+          "name": "Chome",
+          "url": "https://open.spotify.com/artist/7qoGac7BPc1n3vkOSaRCjC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Stillness Delta Sinus 102-106 Hz",
+      "url": "https://open.spotify.com/track/7sP5Vv5i6ZzVi6Vi75zezb"
     },
     {
       "album": {

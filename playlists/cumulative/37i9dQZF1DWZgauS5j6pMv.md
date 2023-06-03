@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Cory Wong
 
-320 songs - 18 hr 53 min
+321 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,8 +151,9 @@
 | [I Ain't Perfect](https://open.spotify.com/track/5aFmPqvtEPF8qYOJQZJ1Er) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [FALL](https://open.spotify.com/album/7z0evm6hjFVuDzigZkB33b) | 3:18 | 2022-09-30 | 2022-11-26 |
 | [I Can’t Party](https://open.spotify.com/track/00oQQmRQTVONwfEnoSxG97) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/6bs8wgjvtiI34BbchC56uB) | 2:25 | 2023-04-28 | 2023-05-14 |
 | [I Can’t Party](https://open.spotify.com/track/31gtPpV9n1BA6gPEWvTSwe) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5) | 2:25 | 2023-04-28 | 2023-05-20 |
-| [I Can’t Party](https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 2:25 | 2023-04-28 |  |
+| [I Can’t Party](https://open.spotify.com/track/3MDGnw9xLwkKAWugbmHmg8) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/1VssssiNfQbGIg4o9v7Q5H) | 2:25 | 2023-04-28 | 2023-06-03 |
 | [I Can’t Party](https://open.spotify.com/track/4pFrDeqwMlqbrwDldsrrFY) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/album/2V1CcJjn3BnrSgHAhwqdjV) | 2:25 | 2023-04-28 | 2023-05-27 |
+| [I Can’t Party](https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Vulfnik](https://open.spotify.com/album/5j70jrJlMUJq2vDcJHf2zU) | 2:25 | 2023-04-28 |  |
 | [I Can’t Party](https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [I Can’t Party](https://open.spotify.com/album/3DO4ANRqeIoaVPc4ALnhkz) | 2:25 | 2023-04-28 | 2023-05-13 |
 | [I Did It For You](https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:01 | 2020-11-20 | 2022-04-09 |
 | [I Found You \(feat\. Benjamin Ingrosso\) \- Dimitri From Paris Remix](https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [I Found You \(feat\. Benjamin Ingrosso\) \[Dimitri From Paris Remix\]](https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX) | 2:43 | 2021-09-17 | 2022-09-17 |

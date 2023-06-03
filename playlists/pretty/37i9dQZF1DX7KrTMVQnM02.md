@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 
 > Gentle classical music to help you relax and reflect.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,391 likes - 28 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,427 likes - 28 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KrTMVQnM02.md) - [plain]
 | 24 | [Goldberg Variations, BWV 988: Variation 9\. Canone alla Terza \(Arr\. for Harp\)](https://open.spotify.com/track/35AQfhPnVJ76YLZfF1kYDd) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations \(Arranged for Harp\)](https://open.spotify.com/album/07idNELix1kop3z4wVUMz8) | 1:49 |
 | 25 | [Bach, JS: Well\-Tempered Clavier, Book 2, Prelude and Fugue No\. 7 in E\-Flat Major, BWV 876: I\. Prelude](https://open.spotify.com/track/5C2oghM3zT7QOYZD5tBbeW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Piotr Anderszewski](https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9) | [Bach: Well\-Tempered Clavier, Book 2 \(Excerpts\)](https://open.spotify.com/album/4GkkbD7DaqH8wPqN0WF8n0) | 2:12 |
 | 26 | [Tempelhof \(Arr\. for Viola & Piano\)](https://open.spotify.com/track/3yblFlwWzkW5LeVxSe8NXZ) | [Adrien La Marca](https://open.spotify.com/artist/2qzpSZAf2BgnOlNVGliHKP), [Danae Dörken](https://open.spotify.com/artist/4a1RQnX1cbtYySbQl2f7zt) | [Chanson bohème](https://open.spotify.com/album/2e3KWoeu1Di24TlYx0g2ZR) | 2:41 |
-| 27 | [Suite Bergamasque, L\. 75, CD 82: Suite bergamasque, L\. 75, CD 82: III\. Clair de Lune](https://open.spotify.com/track/3l0xM8zkfnIkrw1i1kFyeq) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano, Vol\. 3](https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j) | 4:50 |
+| 27 | [Suite Bergamasque, L\. 75, CD 82: III\. Clair de Lune](https://open.spotify.com/track/3l0xM8zkfnIkrw1i1kFyeq) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Efflam Bavouzet](https://open.spotify.com/artist/4BcOHdtzeyl8hX3zUId6hZ) | [Debussy: Complete Works for Piano, Vol\. 3](https://open.spotify.com/album/01ofr7grBeNmvO5Gh61j4j) | 4:50 |
 | 28 | [Lyric Pieces, Book 9, Op\. 68: No\. 5, Bådnlåt](https://open.spotify.com/track/0jgTiWDihmyzRVumDa7oD7) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alessandro Deljavan](https://open.spotify.com/artist/60YDZf6o3FXnne3f6rlxHM) | [Grieg: Lyric Pieces](https://open.spotify.com/album/01eQgKjvGfr1xhjvzNOi3V) | 2:20 |
 
-Snapshot ID: `MCw3ZDZhMzY0MmRlZWVmODNmN2M1Y2FhYjM3NTkzNjhkZjJiZmQ2NGZh`
+Snapshot ID: `MCwxN2IyYzQzYTUwN2U0MmFiNGY5N2NhN2M3ZGJhOTE4MjJlOTRhMTdm`

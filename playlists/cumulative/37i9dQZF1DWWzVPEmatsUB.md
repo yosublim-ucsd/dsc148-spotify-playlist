@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-353 songs - 21 hr 21 min
+354 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Carry You](https://open.spotify.com/track/6ffJ9jgxnipGi0SBzDAbqY) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:32 | 2020-10-17 | 2022-09-15 |
 | [Celebrate Life](https://open.spotify.com/track/7qoJwPYtnQUEmltftJc7Id) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5VtZ3j3pxbWT8MEqalffjK) | 3:55 | 2020-10-17 | 2022-04-17 |
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-17 |  |
+| [Changes \(feat\. Laura Elliott\)](https://open.spotify.com/track/6jnpmyEFhz9Y4ASLZ48rGJ) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [More Better](https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA) | 4:00 | 2023-06-02 |  |
 | [Changing](https://open.spotify.com/track/7gH7ypqeTfrzfGAGLMXxTN) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 4:03 | 2020-10-17 | 2022-04-19 |
 | [Chasing Ghosts](https://open.spotify.com/track/67abo3o0GemMBmypVt6A92) | [Janelle Arthur](https://open.spotify.com/artist/6mKOqlRuNGivh0qDkrAB7l) | [Chasing Ghosts](https://open.spotify.com/album/4ua2x5Oj3ZbWnycA4lxDiA) | 3:37 | 2020-10-17 | 2022-07-29 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-01-21 |  |
@@ -190,7 +191,7 @@
 | [Love Letter](https://open.spotify.com/track/18hPvq4l7aiolR6NenxBz6) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Something New](https://open.spotify.com/album/0Co5DrMqChlTZiZ5oT3gjZ) | 3:25 | 2022-03-25 |  |
 | [Love Like Before](https://open.spotify.com/track/2ZvLSpQhOTWIVxXQlNHnxq) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 3:28 | 2020-10-17 | 2022-07-28 |
 | [Love More](https://open.spotify.com/track/1O3cAX8gOFljEpMaJmhdwL) | [Sundai](https://open.spotify.com/artist/3HdljaO2HIx0O7H44X17u1) | [Only Child](https://open.spotify.com/album/2qrrrbUXkL5mksIvvC1lV2) | 3:39 | 2020-10-17 | 2022-04-19 |
-| [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-02-11 | 2023-06-01 |
+| [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-02-11 |  |
 | [Lovin' You Is Easy](https://open.spotify.com/track/5gymzsD0vPHUNAcQioB1Zv) | [Vanmiran](https://open.spotify.com/artist/7AQmzPYke7fmBDOvTCIxPO) | [Lovin' You Is Easy](https://open.spotify.com/album/5jqhttN809Cz2orcp04RHE) | 2:57 | 2020-10-17 | 2022-07-29 |
 | [Loving You](https://open.spotify.com/track/2kR7VxLTxX3hPcXKKz2qkk) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:06 | 2022-04-15 |  |
 | [Loving You](https://open.spotify.com/track/4ZRJUckYejIPkHYoeut789) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Loving You](https://open.spotify.com/album/4Lre0d9YIRu1XZJYkf5e4T) | 3:06 | 2022-04-08 | 2022-07-29 |
@@ -302,7 +303,7 @@
 | [Stay The Same](https://open.spotify.com/track/2gTjoqM7H982Tt4pZlqvK9) | [Cindy Zhang](https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz) | [Songs for Rainy Days](https://open.spotify.com/album/0rz68chCF7fIUSkfsAkUCD) | 3:41 | 2022-11-11 |  |
 | [Still Blue](https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K) | [Cypress](https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu) | [A Fine Line](https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV) | 5:00 | 2020-10-17 | 2022-07-25 |
 | [Storms](https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Storms](https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT) | 2:56 | 2020-10-17 | 2022-07-29 |
-| [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-05-31 |  |
+| [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-05-31 | 2023-06-03 |
 | [Strangers](https://open.spotify.com/track/00u9VXj7jnmE60OUtFkZpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:02 | 2020-10-17 | 2022-04-19 |
 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/5unLOBl5QNJX50EVVr0tF6) | [Paul Loren](https://open.spotify.com/artist/2nDJWmL1CFvojp0T9FFOPt) | [Stuck In A Moment](https://open.spotify.com/album/0rlUp5UcdlNfxDauM54rM2) | 4:27 | 2022-06-03 |  |
 | [Stupid Me](https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Stupid Me](https://open.spotify.com/album/2e0sawtfwsMGQWd1RLvM2I) | 3:47 | 2021-11-19 | 2022-07-29 |
@@ -331,7 +332,7 @@
 | [This Is My Home](https://open.spotify.com/track/1r6b4fRi0ISdju9oV5sioI) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 4:53 | 2020-10-17 | 2022-04-19 |
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2020-10-17 | 2023-02-04 |
 | [Til You're Home \- From "A Man Called Otto" Soundtrack](https://open.spotify.com/track/4Ah5mAqvkmw5Hz2n6g5l0k) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Til You’re Home \(From "A Man Called Otto " Soundtrack\)](https://open.spotify.com/album/5GXMVCZstkoXrH0F021CK2) | 3:05 | 2022-12-02 |  |
-| [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-25 |  |
+| [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-25 | 2023-06-03 |
 | [Turn off the Sky](https://open.spotify.com/track/1woBBFHSYO1TBkAUj3e07Y) | [Gideon King & City Blog](https://open.spotify.com/artist/33fXxnMHm3wCJk6p1sje7i) | [Turn off the Sky](https://open.spotify.com/album/4HPIdpdQ5EOeSwZ5JilXzN) | 3:43 | 2023-05-05 |  |
 | [Underdog](https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec) | [Mayaeni](https://open.spotify.com/artist/6y4YyYCKvhxv5OYIMjbNo1) | [Underdog](https://open.spotify.com/album/0IXTedVYmBB42Dmh4UzJZE) | 3:01 | 2020-10-17 | 2022-07-29 |
 | [Underneath](https://open.spotify.com/track/3n93ndjS1jPBLRByWlOSnq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Something/Anything](https://open.spotify.com/album/5ckacfPD0itaUMnzrzceZX) | 4:20 | 2022-05-06 |  |

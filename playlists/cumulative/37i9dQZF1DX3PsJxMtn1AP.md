@@ -2,9 +2,9 @@
 
 ### [Kaleidoscope](https://open.spotify.com/playlist/37i9dQZF1DX3PsJxMtn1AP)
 
-> A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
+> A sonic wonderland of mesmerizing tunes...
 
-143 songs - 9 hr 24 min
+144 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 | 2023-05-09 |
 | [Club Level](https://open.spotify.com/track/4fqa5nT2RJGAw0OjY1u6b6) | [79.5](https://open.spotify.com/artist/2czOrtIVegf3rq5pabX21O) | [79.5](https://open.spotify.com/album/36k8DBPYW8EvH6Gsdn9ls7) | 4:13 | 2023-05-24 |  |
 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 | 2023-01-07 | 2023-03-23 |
+| [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-06-02 |  |
 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 | 2023-04-09 |
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-03 | 2023-04-09 |
 | [Death in a Constellation](https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Levingtquatre](https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA) | [Death in a Constellation](https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A) | 4:29 | 2023-01-07 | 2023-03-25 |
@@ -129,7 +130,7 @@
 | [Strung Out Johnny](https://open.spotify.com/track/6OGIBcJV5qV1FF5uiofnX0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:13 | 2023-01-07 | 2023-03-25 |
 | [Stumbling Still](https://open.spotify.com/track/6z3tjEXbu7aqKalO6lfggo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Stumbling Still](https://open.spotify.com/album/728ee6HkTcuWTtlbvCFAvh) | 4:39 | 2023-05-24 |  |
 | [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-29 | 2023-04-03 |
-| [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 |  |
+| [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 | 2023-06-03 |
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 |  |
 | [tens morada em mim](https://open.spotify.com/track/3Cw2TWb0LgtY9vegjf0o9m) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:21 | 2023-03-31 | 2023-04-13 |
 | [tens morada em mim](https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:21 | 2023-03-31 | 2023-04-20 |

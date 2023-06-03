@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-400 songs - 23 hr 39 min
+401 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dahlia](https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz) | [Sébastien Lafleur](https://open.spotify.com/artist/11LGwSo80r2I7W6rZbUrCc) | [Dahlia](https://open.spotify.com/album/2JIQTUXCAVjUq0LvLbZFMr) | 4:17 | 2021-01-03\* | 2022-07-23 |
 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 | 2021-11-28 |  |
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
+| [Dead Shopping Mall](https://open.spotify.com/track/53YJFdzWn606fbJc9ngrm8) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mitshuap \(Deluxe\)](https://open.spotify.com/album/7afIEP4llzhNpu5xo43jOj) | 4:13 | 2023-06-02 |  |
 | [Defunct Baseball Team](https://open.spotify.com/track/528146UttVCudD2otAEkEI) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Defunct Baseball Team](https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG) | 2:28 | 2022-12-16 | 2022-12-29 |
 | [Demain nous nous verrons](https://open.spotify.com/track/1dRgHx8QuWoz2ApVgxOR46) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Entre deux éboulements](https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN) | 2:34 | 2021-01-03\* | 2021-01-18 |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 | 2023-01-24 |
@@ -98,7 +99,7 @@
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
 | [Entre deux montagnes](https://open.spotify.com/track/4ZMMRQAoDqftCgABEKwE1A) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 2:59 | 2022-07-08 | 2022-09-09 |
 | [Entre deux montagnes](https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 2:59 | 2021-01-03\* | 2022-07-26 |
-| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* |  |
+| [Espoir](https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Espoir](https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2) | 3:30 | 2021-01-03\* | 2023-06-03 |
 | [Et faire comme si](https://open.spotify.com/track/1XGPYFtg7ZDNlaPuAbAa4v) | [Laurent Paquin](https://open.spotify.com/artist/7qaeNMC2MtIbokELJs2P2V) | [Et faire comme si](https://open.spotify.com/album/6C34uSVNhrp9IrkCHfK3by) | 1:46 | 2021-05-04 | 2021-09-27 |
 | [Et je cours](https://open.spotify.com/track/5g2x5jFdQMJxbpYAbCTK4W) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Bunny](https://open.spotify.com/album/0jgFMFLNU4fgV2KtqpER9A) | 3:45 | 2021-01-03\* | 2022-07-19 |
 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 | 2022-01-21 |  |

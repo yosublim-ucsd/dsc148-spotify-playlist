@@ -2,7 +2,7 @@
 
 ### [Indie Twang](https://open.spotify.com/playlist/37i9dQZF1DWZ1RmpoqILAO)
 
-> indie tunes with country experimentation Cover: Bedroom
+> indie tunes with country experimentation Cover: boygenius
 
 97 songs - 6 hr 43 min
 

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,578 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,616 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
-| 2 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
-| 3 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 |
-| 4 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 |
-| 5 | [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 |
-| 6 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
-| 7 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 |
-| 8 | [Highway Child](https://open.spotify.com/track/3DPTfbre7I9FHWnY1SgHLe) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Highway Child](https://open.spotify.com/album/5h2QjoLFHdRuYLcY4HYMF3) | 3:32 |
-| 9 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 |
-| 10 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 |
-| 11 | [One Monkey Can Stop a Show](https://open.spotify.com/track/1bqc5cCLaJj2QYqkJcmZRJ) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [One Monkey Can Stop a Show](https://open.spotify.com/album/1785Aty0XBeXkqP8jpWICN) | 3:41 |
+| 1 | [I'm The One](https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm The One](https://open.spotify.com/album/3plZvUdCRuc5h5PzzoEs7S) | 3:52 |
+| 2 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 |
+| 3 | [Caldonia](https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Savoy](https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF) | 3:32 |
+| 4 | [Two Of A Kind](https://open.spotify.com/track/5EKupwZWSVPRA3o59YswXX) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743) | [Two Of A Kind](https://open.spotify.com/album/6KXvNgEI9YdqXclKBuwDEE) | 3:55 |
+| 5 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 |
+| 6 | [Tell Everybody](https://open.spotify.com/track/2NGMAdhKhuQzk2Q5VqJLO0) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Tell Everybody](https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG) | 4:58 |
+| 7 | [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 |
+| 8 | [Coal Black Mattie](https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Coal Black Mattie](https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1) | 3:49 |
+| 9 | [Hey Sweet Mama](https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Hey Sweet Mama](https://open.spotify.com/album/0jWYluOK8PM8cF33IwooLo) | 3:36 |
+| 10 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 |
+| 11 | [Down On The South Side](https://open.spotify.com/track/3bEvr0dRJeQ02PynkdmXuV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Oscar's Motel](https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4) | 3:41 |
 | 12 | [Count Your Chickens](https://open.spotify.com/track/7JwSmQPWQCm6MlPZndoQNz) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Weight of the World](https://open.spotify.com/album/2upuqUhXRGi2J1P8KIgGdv) | 3:50 |
 | 13 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 |
 | 14 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw5OTRlYTU1ZmVkMGQ2ZDA2MGQ4YWRiNWUzY2IzNzI5YTgyZTMxYjE0`
+Snapshot ID: `MCxmMGJiNmViNzg5YzZmNGRlYTYyNWE1NTVjNGFjNzVkZjg3ZTI4NDcx`

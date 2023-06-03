@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 28335,
+  "num_followers": 28342,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ1NjdkNjMxOGRjNzUzZDkxMzBkOWNjZmZhYWI0YmVlZTg2ZDcy",
+  "snapshot_id": "MCwzYzc4NzE0OGMyYjMyMGZiZjI2MDA1MDg5MGZiZTc0NWYyMjZiZTlm",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1051,30 +1051,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Give It 2 Em (Remix)",
-        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
+        "name": "(Respectfully)",
+        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+          "name": "DJ Swisha",
+          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
         },
         {
-          "name": "Tre Oh Fie",
-          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        },
-        {
-          "name": "DJ TBoogie",
-          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
+          "name": "Kush Jones",
+          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
         }
       ],
-      "duration_ms": 120333,
-      "name": "Give It 2 Em - Remix",
-      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+      "duration_ms": 210461,
+      "name": "(Respectfully)",
+      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1099,22 +1091,30 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "(Respectfully)",
-        "url": "https://open.spotify.com/album/0DvxMb8aQvBZJWfQ5ndkmG"
+        "name": "Give It 2 Em (Remix)",
+        "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
       "artists": [
         {
-          "name": "DJ Swisha",
-          "url": "https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
-          "name": "Kush Jones",
-          "url": "https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm"
+          "name": "Tre Oh Fie",
+          "url": "https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        },
+        {
+          "name": "DJ TBoogie",
+          "url": "https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz"
         }
       ],
-      "duration_ms": 210461,
-      "name": "(Respectfully)",
-      "url": "https://open.spotify.com/track/7tdGheXhPIHEvolLpfBHzq"
+      "duration_ms": 120333,
+      "name": "Give It 2 Em - Remix",
+      "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1171,26 +1171,6 @@
       "duration_ms": 376888,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 143399,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1315,6 +1295,50 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 143399,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
+      },
+      "artists": [
+        {
+          "name": "leanon",
+          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
+        },
+        {
+          "name": "Fatou",
+          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
+        },
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 113493,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "Nzinga",
         "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
       },
@@ -1347,30 +1371,6 @@
       "duration_ms": 151965,
       "name": "I Don't Like You",
       "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
-      },
-      "artists": [
-        {
-          "name": "leanon",
-          "url": "https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ"
-        },
-        {
-          "name": "Fatou",
-          "url": "https://open.spotify.com/artist/3Cv8Mlj2kEGomJuHHfMKHZ"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 113493,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/0QgY9Q8KMFgL8Z9BACWdsR"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
-        {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 170981,
       "name": "Blessed - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/0K7U3HXP57djVDMYEha4m4"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     },
     {
       "added_at": "2023-05-26 04:00:00",

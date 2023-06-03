@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 271133,
       "name": "Never Call You By Yours (Mother)",
       "url": "https://open.spotify.com/track/6H26Mm9CIMrCfJI2jAUb15"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 283080,
       "name": "Piet\u00e0",
       "url": "https://open.spotify.com/track/1P8bsOkYZLoWhGYeHAzv5R"
@@ -2202,6 +2202,24 @@
       "duration_ms": 274064,
       "name": "Syncopation",
       "url": "https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou"
+    },
+    {
+      "album": {
+        "name": "Syntax",
+        "url": "https://open.spotify.com/album/45CGm3hNDfYcacvfukU2Ee"
+      },
+      "artists": [
+        {
+          "name": "Signe",
+          "url": "https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282333,
+      "name": "The Day",
+      "url": "https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4"
     },
     {
       "album": {

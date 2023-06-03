@@ -4,14 +4,14 @@
 
 > Listen to Indian women, at full volume\. Cover: Harshdeep Kaur
 
-188 songs - 10 hr 53 min
+189 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 0:00 | 2022-02-15 |  |
 | [](https://open.spotify.com/track/0zEc0X8eKTfoiIqW77ugyB) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7tuED48YasDaTCKYBc1KUy) | 0:00 | 2022-03-07 | 2022-09-09 |
 | [](https://open.spotify.com/track/1bx6spmieE655BQvWdTYKA) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-03-02 | 2023-04-06 |
-| [](https://open.spotify.com/track/2rAJ3PA5JGMktxYiSg53Um) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-03-02 |  |
+| [](https://open.spotify.com/track/2rAJ3PA5JGMktxYiSg53Um) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 0:00 | 2023-03-02 | 2023-06-03 |
 | [](https://open.spotify.com/track/3HhzqHPEN33a5UCKSfZpgi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2jw92hf4mnISbYywvU3Anj) | 0:00 | 2023-03-02 |  |
 | [](https://open.spotify.com/track/7IP72Pw6reOTDZrpLVtOFT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1fkasXpHNnNfgs3iByPoQc) | 0:00 | 2022-03-07 | 2023-03-03 |
 | [52 Gaj Ka Daman \(Hindi\)](https://open.spotify.com/track/5cTu0oBXVOKOQIXBmMYshJ) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [52 Gaj Ka Daman \(Hindi\)](https://open.spotify.com/album/5FkWrtyfbhuTt30JTNFM58) | 2:58 | 2021-12-10 | 2022-02-02 |
@@ -80,6 +80,7 @@
 | [Jab Saiyaan](https://open.spotify.com/track/3igjvls6LMb3TncpfSxVda) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Jab Saiyaan \- Gangubai Kathiawadi](https://open.spotify.com/album/2CHbEekNuuDav3srTCfGxY) | 4:07 | 2022-04-05 | 2022-07-29 |
 | [Jab Saiyaan \(From "Gangubai Kathiawadi"\)](https://open.spotify.com/track/4VdgJO1wxgcykHYmXSZxcR) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Jab Saiyaan \(From "Gangubai Kathiawadi"\) \- Single](https://open.spotify.com/album/1pTi7xcFAVyo3T0Zdt4Cpq) | 4:07 | 2022-07-06 | 2023-01-04 |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2022-11-09 | 2022-12-01 |
+| [Jee Karda \- Title Track \(From "Jee Karda"\)](https://open.spotify.com/track/4xpy4CifUgT5BHLIkYnc9j) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op) | [Jee Karda \- Title Track \(From "Jee Karda"\)](https://open.spotify.com/album/2UTdRqpY7UcKuUZLosIoJl) | 2:40 | 2023-06-02 |  |
 | [Jhoota Lagda](https://open.spotify.com/track/5Tr70ItxynLz401WhN0emT) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sourav Joshi](https://open.spotify.com/artist/19aoUtw12uHpLFtRbHVAl7), [Anagha Bhosale](https://open.spotify.com/artist/6LCbZQSTHSpjX7ipkg4ITF), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Jhoota Lagda](https://open.spotify.com/album/293qFLOzumn6Byqw74s9qK) | 2:28 | 2021-12-10 | 2022-02-02 |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2021-12-10 | 2022-02-02 |
 | [Joganiya](https://open.spotify.com/track/5QaWv9HwEKsS4gqXOD7UtX) | [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [Joganiya](https://open.spotify.com/album/0pVdgilx9HG5Qmf2XKPBI6) | 3:24 | 2021-12-10 | 2022-02-02 |

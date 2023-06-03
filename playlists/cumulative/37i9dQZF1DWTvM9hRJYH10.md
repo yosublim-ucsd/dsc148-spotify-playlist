@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Tiera Kennedy
 
-273 songs - 14 hr 26 min
+283 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,14 @@
 | [Addicted](https://open.spotify.com/track/5SZRA1aAqnHBUt5edqY8OM) | [Marisa McKaye](https://open.spotify.com/artist/0fHHqRhyzE4VquF6JrYGar) | [Addicted](https://open.spotify.com/album/5K8BnbzuEmhfWDkj4m6gzU) | 3:36 | 2021-12-31 | 2022-02-12 |
 | [Ain't Gonna Lie](https://open.spotify.com/track/1htLrwuSGkNj90H9u6tSQx) | [Lauren Hall](https://open.spotify.com/artist/2Qb27JzTmCKVBDmeaiEvCf) | [Ain't Gonna Lie](https://open.spotify.com/album/0pZrdfFqbFsHu9UZG99M5O) | 3:10 | 2021-12-31 | 2023-01-14 |
 | [Ain't Got A Shot](https://open.spotify.com/track/6a2fq1YWUjR2dDDMl1sIv4) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/1ai40yy9DyrO8YxyI31zm6) | 3:23 | 2021-12-31 | 2022-02-12 |
+| [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2023-06-02 |  |
 | [Alone Some](https://open.spotify.com/track/03lMS8wm9oa3xHCJMQ4KM3) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Alone Some](https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8) | 2:52 | 2022-09-23 |  |
 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 | 2021-12-31 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-31 | 2023-01-14 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 |  |
 | [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 | 2023-05-03 |  |
 | [As Close As I Can Get To You](https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [As Close As I Can Get To You](https://open.spotify.com/album/68VzH6Py1gE7BXQ0s8Blhx) | 3:17 | 2022-06-10 | 2023-05-07 |
+| [As I Go](https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [As I Go](https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5) | 3:22 | 2023-06-02 |  |
 | [Bar Friends](https://open.spotify.com/track/5NfFDWE3FzgXo0Mg7N4MEm) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends](https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 | 2022-04-08 |  |
 | [Because of You](https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK) | 3:05 | 2022-04-29 |  |
@@ -75,10 +77,13 @@
 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 | 2021-12-31 |  |
 | [Fix You Too](https://open.spotify.com/track/2dOz227iHvVgTiVDVHOicN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Fix You Too](https://open.spotify.com/album/2OJmbi6N4nP1yDIJRYdHot) | 3:07 | 2022-07-15 | 2023-01-06 |
 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 | 2023-01-06 |  |
+| [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 | 2023-06-02 |  |
+| [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 | 2023-06-02 |  |
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2022-07-29 |  |
 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-19 |  |
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-18 |  |
 | [God Only Knows](https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [God Only Knows](https://open.spotify.com/album/6tUWgnrqrDo001L5hDTnC6) | 3:00 | 2023-05-19 |  |
+| [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 | 2023-06-02 |  |
 | [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-01-21 |  |
@@ -101,10 +106,12 @@
 | [Honeydew & Hennessy](https://open.spotify.com/track/1zOn6DATC1kL7cfPz7JiuP) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Honeydew & Hennessy](https://open.spotify.com/album/49s6EwjZHmGY7e5I8kTyj6) | 3:59 | 2023-04-14 |  |
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 |  |
 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 | 2021-12-31 |  |
+| [How It Looks From Here](https://open.spotify.com/track/4hAfjznZNYNHDUwk8blpTb) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [How It Looks From Here](https://open.spotify.com/album/2xjT6X1tTBsuwjMFU8KrME) | 2:51 | 2023-06-02 |  |
 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 | 2021-12-31 | 2023-01-14 |
 | [I Could Use A Drink](https://open.spotify.com/track/26754eQNqDxCnQWwLoqFoD) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [I Could Use A Drink](https://open.spotify.com/album/2ROQ9qQLVrAPsJ5R4SSoGt) | 3:05 | 2022-07-01 |  |
 | [I Go Back to You](https://open.spotify.com/track/4KJWXMMbapd4ZzEFJiV2kk) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Go Back to You](https://open.spotify.com/album/3zMThHPhNdD6dTNJLG6wL4) | 3:17 | 2021-12-31 | 2022-01-08 |
 | [I Got You](https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [40 East](https://open.spotify.com/album/301nj6ofxdFt37H33Nd9k5) | 2:57 | 2022-03-25 |  |
+| [I Hate Airplanes](https://open.spotify.com/track/14ZSuAaYFhkzndL7dl3dMe) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [I Hate Airplanes](https://open.spotify.com/album/04Esw3tpeyec7D9zxmEq7r) | 3:04 | 2023-06-02 |  |
 | [I Hate You, I Miss You](https://open.spotify.com/track/5poM4F7HghGQYZaL9Y7DuS) | [Kelci Ashton](https://open.spotify.com/artist/1LoPrAqvgkgd0zJgCKll6h) | [I Hate You, I Miss You](https://open.spotify.com/album/7p6DF9uWZyN3OkyXin3fi7) | 3:22 | 2022-01-07 |  |
 | [I Still Do](https://open.spotify.com/track/3F9EapDhISD4RPbJRNCcnd) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [I Still Do](https://open.spotify.com/album/7hbSZShyCn9RikSyFfSb5R) | 3:02 | 2021-12-31 | 2022-01-08 |
 | [I Still Think About You](https://open.spotify.com/track/3DeGzDk6bWzl4OH0LSbZrr) | [Rackley](https://open.spotify.com/artist/0GufVCqBIQMgGorRAeIMda) | [I Still Think About You](https://open.spotify.com/album/4dyAHZVVrCTN8CW2wXzZFq) | 3:38 | 2022-04-01 |  |
@@ -114,6 +121,7 @@
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-05-01 | 2022-09-24 |
 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 | 2022-09-23 |  |
+| [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 | 2023-06-02 |  |
 | [In Denial](https://open.spotify.com/track/0VbjCDupilMeIaOS7u11bT) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [In Denial](https://open.spotify.com/album/3faTxfyUZdmYeQJwv4Sbvj) | 3:37 | 2021-12-31 | 2022-01-08 |
 | [In My Head](https://open.spotify.com/track/6Nk2OjwtxyrNeP6v8Y5s8b) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [In My Head](https://open.spotify.com/album/6aFXC1z6tjtpYfS2CylqeW) | 3:30 | 2022-06-24 |  |
 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 | 2021-12-31 | 2023-02-25 |
@@ -258,6 +266,7 @@
 | [Tired of Moving On](https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Songs About You](https://open.spotify.com/album/3xmyOVok0ZLFHy0xMVkY1V) | 3:12 | 2021-12-31 |  |
 | [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 | 2021-12-31 |  |
 | [Truth Is](https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is](https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK) | 2:58 | 2022-10-14 |  |
+| [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 | 2023-06-02 |  |
 | [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 |  |
 | [Vegas](https://open.spotify.com/track/0qY0AvQ0nutIE7ksHRbwi3) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:13 | 2023-05-19 |  |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 | 2023-05-26 |
@@ -280,6 +289,7 @@
 | [Wounded](https://open.spotify.com/track/5vkHln7TXHYhFNeiUXjSPb) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [Wounded](https://open.spotify.com/album/1fXxJ7qUgm0aJCap9qCq8d) | 3:48 | 2021-12-31 | 2022-07-02 |
 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 | 2022-06-10 |  |
 | [You Just Get Older](https://open.spotify.com/track/00ffQISSDvdkURhzk5K45B) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN), [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [You Just Get Older](https://open.spotify.com/album/4DKjuDuJCTmoi7e62n5UnF) | 3:32 | 2022-04-01 |  |
+| [You Were Right \- Nat's Song](https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Were Right \(Nat's Song\)](https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR) | 3:49 | 2023-06-02 |  |
 | [Young](https://open.spotify.com/track/4xzyFu4b6Q1xNOfoJkQrOV) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Young](https://open.spotify.com/album/0hXdIfoRDUhc2GAqBOQ4nA) | 3:07 | 2021-12-31 | 2022-02-12 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

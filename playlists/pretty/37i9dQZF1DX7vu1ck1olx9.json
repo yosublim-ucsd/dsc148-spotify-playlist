@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 56213,
+  "num_followers": 56237,
   "original_name": "Lo-Fi Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjNhYzg3MDM1NjE1ZWM4OWE3NDM4ZTlhZmUyYmU0M2RjYzc0ZTNl",
+  "snapshot_id": "MCwxODhkYzVmZTRjNzRhNDU0ZGExZTRjYzdjODg0MWRiYWJjYzdhYmZj",
   "tracks": [
     {
       "added_at": "2020-11-12 22:28:34",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Transitions",
-        "url": "https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg"
-      },
-      "artists": [
-        {
-          "name": "Jinsang",
-          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Blue Haze",
-      "url": "https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Silience",
         "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "late night bumps, Vol. 4",
-        "url": "https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY"
+        "name": "Transitions",
+        "url": "https://open.spotify.com/album/45VGwNszNhpqKcYgo3dpZg"
       },
       "artists": [
         {
-          "name": "bsd.u",
-          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
         }
       ],
-      "duration_ms": 116119,
-      "name": "blueberry",
-      "url": "https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE"
+      "duration_ms": 157605,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/1mxjvX6NeHYGSW7bpgtRfy"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -547,6 +531,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "late night bumps, Vol. 4",
+        "url": "https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY"
+      },
+      "artists": [
+        {
+          "name": "bsd.u",
+          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
+        }
+      ],
+      "duration_ms": 116119,
+      "name": "blueberry",
+      "url": "https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Motor City",
         "url": "https://open.spotify.com/album/7L7QkmT3PIgU37NKAO6xnQ"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "3 Am",
-        "url": "https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm"
+        "name": "belonging",
+        "url": "https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL"
       },
       "artists": [
         {
-          "name": "Oui Lele",
-          "url": "https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY"
+          "name": "Sw\u00f8rn",
+          "url": "https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc"
         }
       ],
-      "duration_ms": 124734,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY"
+      "duration_ms": 121925,
+      "name": "belonging",
+      "url": "https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "3 Am",
+        "url": "https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm"
+      },
+      "artists": [
+        {
+          "name": "Oui Lele",
+          "url": "https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY"
+        }
+      ],
+      "duration_ms": 124734,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Nightcrawler",
         "url": "https://open.spotify.com/album/2RTAQzO3WCaMn5lcpiC7hP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 225997,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/2qjPTOzkXdR32LF9udVEdl"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "belonging",
-        "url": "https://open.spotify.com/album/2kezrPntHgLokffEDoGzwL"
-      },
-      "artists": [
-        {
-          "name": "Sw\u00f8rn",
-          "url": "https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc"
-        }
-      ],
-      "duration_ms": 121925,
-      "name": "belonging",
-      "url": "https://open.spotify.com/track/2qoWmynrssGi78Bz6AJCuE"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/62SSYJZ70LM4WjPfZZlvQs"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Close Distance (Deluxe)",
-        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "K, Le Maestro",
-          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Solst\u00e5nd - Bonus Track",
-      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
-    },
-    {
       "added_at": "2020-11-12 22:28:34",
       "album": {
         "name": "Diamonds",
@@ -811,6 +791,26 @@
       "duration_ms": 150000,
       "name": "Oracle Night",
       "url": "https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Close Distance (Deluxe)",
+        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Solst\u00e5nd - Bonus Track",
+      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
     },
     {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Chillhop Essentials Fall 2018",
+        "url": "https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl"
+      },
+      "artists": [
+        {
+          "name": "Plusma",
+          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
+        }
+      ],
+      "duration_ms": 132058,
+      "name": "mochus",
+      "url": "https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO"
+    },
+    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Granat Session Vol. II",
@@ -1003,22 +1019,6 @@
       "duration_ms": 150507,
       "name": "The Soul of Things",
       "url": "https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "Chillhop Essentials Fall 2018",
-        "url": "https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl"
-      },
-      "artists": [
-        {
-          "name": "Plusma",
-          "url": "https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH"
-        }
-      ],
-      "duration_ms": 132058,
-      "name": "mochus",
-      "url": "https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
-      },
-      "artists": [
-        {
-          "name": "Yestalgia",
-          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
-        }
-      ],
-      "duration_ms": 143376,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu"
       },
@@ -1109,20 +1093,20 @@
       "url": "https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
+      "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Bing Bong",
-        "url": "https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
       },
       "artists": [
         {
-          "name": "Augie Haas",
-          "url": "https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh"
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
         }
       ],
-      "duration_ms": 116994,
-      "name": "Bing Bong",
-      "url": "https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO"
+      "duration_ms": 143376,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
     },
     {
       "added_at": "2020-12-04 05:02:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 148500,
       "name": "Act I",
       "url": "https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Bing Bong",
+        "url": "https://open.spotify.com/album/09IebgiVmovUCMx7RcyFWT"
+      },
+      "artists": [
+        {
+          "name": "Augie Haas",
+          "url": "https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh"
+        }
+      ],
+      "duration_ms": 116994,
+      "name": "Bing Bong",
+      "url": "https://open.spotify.com/track/6ZZ3aexUFYKMTlrvGqM9mO"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "Sonar",
+        "url": "https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Kamae",
+          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5fyichdZZd9eay631EGKHj"
       },
@@ -1427,46 +1447,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Sonar",
-        "url": "https://open.spotify.com/album/2gppwhmAbBtAb7Qx3vzI7U"
+        "name": "weak",
+        "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
       },
       "artists": [
         {
-          "name": "Sebastian Kamae",
-          "url": "https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe"
-        },
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
         }
       ],
-      "duration_ms": 118518,
-      "name": "Sonar",
-      "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Chasing Sunsets",
-        "url": "https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
+      "duration_ms": 71111,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
     },
     {
       "added_at": "2020-11-12 22:28:34",

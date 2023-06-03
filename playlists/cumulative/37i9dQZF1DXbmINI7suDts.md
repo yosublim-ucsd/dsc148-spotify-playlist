@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-80 songs - 4 hr 30 min
+81 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 |  |
 | [Wandiisa Ki](https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Wandiisa Ki](https://open.spotify.com/album/6SYvCQHJcZBBJKkADXL32z) | 3:13 | 2022-06-06 | 2022-09-02 |
 | [WANO](https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv) | [NTAATE](https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9) | [WANO](https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t) | 3:31 | 2022-06-06 |  |
-| [Webale](https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci) | [Shifah Musisi](https://open.spotify.com/artist/19ilv4fZylrIlPBV5FtRaI) | [Webale](https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef) | 4:19 | 2022-06-06 |  |
+| [Webale](https://open.spotify.com/track/1Vlms9uSRDXErvFGzTbLaj) | [Shifah Musisi](https://open.spotify.com/artist/2z5UFg4Wb5lePi7pKoDyyN) | [Webale](https://open.spotify.com/album/7gD8QBQcLDDsueUb9eN08T) | 4:19 | 2023-03-31 |  |
+| [Webale](https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci) | [Shifah Musisi](https://open.spotify.com/artist/19ilv4fZylrIlPBV5FtRaI) | [Webale](https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef) | 4:19 | 2022-06-06 | 2023-06-03 |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

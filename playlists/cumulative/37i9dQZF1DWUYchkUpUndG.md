@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"> Grace Lokwa </a>
 
-74 songs - 7 hr 38 min
+75 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Faraway](https://open.spotify.com/track/5tiqR6s5xXPAZRXmmJuAKh) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Faraway](https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2) | 2:25 | 2023-05-26 |  |
 | [Farawe \- Live at KDB Studios](https://open.spotify.com/track/1ayjh8vDhZ3VgREcv05Rh1) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Farawe](https://open.spotify.com/album/2MzVwxkf2d4LHH9XbJGC2r) | 3:40 | 2023-05-19 | 2023-06-02 |
 | [Follow \- Remix](https://open.spotify.com/track/3gSkKzZ7eCZn6xOjUBbGTx) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Follow \(Remix\)](https://open.spotify.com/album/2czsZtZaUyPXnLTwCmW9Y3) | 2:41 | 2023-06-02 |  |
+| [For my good](https://open.spotify.com/track/5Rm7NeUXtHYJrfwNmHKg0s) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:59 | 2023-06-02 |  |
 | [For my mind](https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [For my mind](https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm) | 2:33 | 2023-05-19 | 2023-06-02 |
 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 | 2023-06-02 |  |
 | [God Show Your Glory](https://open.spotify.com/track/1V0CBUAfOiwEejwmj4R29F) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [God Show Your Glory](https://open.spotify.com/album/6pEXQD0r9SywxMFtmyQydl) | 1:52 | 2023-06-02 |  |

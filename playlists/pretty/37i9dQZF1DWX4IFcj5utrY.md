@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C?si=Kjnu6Xy4SuqnEzK8bcP6BQ">Prince Kaybee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,456 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,488 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 29 | [Heavy Heat](https://open.spotify.com/track/0DAobIglQNN9kGO0Im21ia) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heavy Heat](https://open.spotify.com/album/2NSLSvBHrwq34D2N5Lkey7) | 6:58 |
 | 30 | [Asanda](https://open.spotify.com/track/4iq6mQd3Hkj1BUYC09t3rP) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Asanda](https://open.spotify.com/album/6vCt7Qg2q1ayRZd8vL1IOn) | 5:22 |
 | 31 | [Sound Of The Dragonfly](https://open.spotify.com/track/3xJkUQe1KVrO1tqJ7mxC2y) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Sound Of The Dragonfly](https://open.spotify.com/album/1r9GUiZzineJIF19j2ftU6) | 6:19 |
-| 32 | [Silence](https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD), [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Silence](https://open.spotify.com/album/5i4Ud0tx3TqARZnEZmZ9xd) | 6:48 |
+| 32 | [Silence](https://open.spotify.com/track/3tWIHTxK4cH0OUBlzcb97b) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Silence](https://open.spotify.com/album/5i4Ud0tx3TqARZnEZmZ9xd) | 6:48 |
 | 33 | [Maphuma \(feat\. Lizwi\)](https://open.spotify.com/track/5ceRrauIyROtPwWyVTmGDs) | [Obdurate](https://open.spotify.com/artist/1ZA8wH5L88Frvfz0RL58Yb), [DarQknight](https://open.spotify.com/artist/06ZoVzhjF2rUgcl0czXpOD), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Maphuma \(feat\. Lizwi\)](https://open.spotify.com/album/5POx8s8nl1lOYcEDrgf0qH) | 3:42 |
 | 34 | [Don’t Let Me See \- Jimpster Remix Edit](https://open.spotify.com/track/3anqGyfRthhSK3P1zmJKWu) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Ray T](https://open.spotify.com/artist/16qLezAXthtabM2KemEN5Q), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Don’t Let Me See \(Jimpster Remixes\)](https://open.spotify.com/album/2sKHqW46XMT1NACxibp4hh) | 4:16 |
 | 35 | [Summer Breeze \- Fka Mash Re\-glitch Edit](https://open.spotify.com/track/3vW0t4lGNMSt0WapWyuOvR) | [N'Dinga Gaba](https://open.spotify.com/artist/5BfkFx1yfPJprDZtQCIvfr), [Sahffi](https://open.spotify.com/artist/3TyywXbTQ2lm4IMGrv6o1e), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Summer Breeze \(Fka Mash Remixes\)](https://open.spotify.com/album/6K4SVK0akM39aICwype1wY) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Lobela](https://open.spotify.com/track/195c6cDeMpBqYxaSQ65cwZ) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Lobela](https://open.spotify.com/album/0CeY1p6mvixO7vDTeyIOWX) | 7:37 |
 | 50 | [Phambili](https://open.spotify.com/track/04ZqwR6S9KRMEPMBtgHjAu) | [Claudio Wade](https://open.spotify.com/artist/6UdImHYJJIQrSLA1lpI7ya), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D), [Claudio](https://open.spotify.com/artist/3yZTQuteUZgfg58YrcnjHc) | [WIND & WAVES](https://open.spotify.com/album/0e3ie0yx8hNDpAbh4uiuYz) | 3:52 |
 
-Snapshot ID: `MCw1MGY0ZTMyNThkMjUzMTljMmYyMDRmMjU0MTdlNzlmMjhjZTZlMDVi`
+Snapshot ID: `MCxjNjhlMTBmYWYxNDdkN2JjODY0MTRkYTdjOTExM2M3YzBhNTg4YTAx`

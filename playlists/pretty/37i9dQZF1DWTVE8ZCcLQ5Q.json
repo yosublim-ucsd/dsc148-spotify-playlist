@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421790,
+  "num_followers": 421780,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2Y3M2Q4NmMzOTFhY2YxMGRkZmI1N2EwOGVjNDE1ZWI1Mjc4OTM0",
+  "snapshot_id": "MCw0NzdmMTY4OTBlOGQzYzFjZGRiMzVhZjc0ZDY3MTM0Y2NiOTYzMDIz",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/0F2IcMGRpEcv7JHEjLo2VZ"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 168312,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7eYroumRabQtxydskr25zI"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "COSTA QUENTE",
         "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 166285,
       "name": "COSTA QUENTE",
       "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/0F2IcMGRpEcv7JHEjLo2VZ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7eYroumRabQtxydskr25zI"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -547,30 +547,6 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
+    },
+    {
+      "added_at": "2023-04-24 21:27:43",
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/0LoNbzVBsDjLIVT7HkwDOe"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 218038,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4LVy45tSEfOwGA9Pp1Kho6"
-    },
-    {
-      "added_at": "2023-04-24 21:27:43",
-      "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
     },
     {
       "added_at": "2023-04-24 21:27:43",

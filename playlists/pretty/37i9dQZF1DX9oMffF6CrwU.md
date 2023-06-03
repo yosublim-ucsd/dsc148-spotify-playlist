@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,410 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,426 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 36 | [Old devils](https://open.spotify.com/track/5cNvmC1jEnA6QwnOvHpUo7) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Animals In The Dark](https://open.spotify.com/album/5oD05jbDmF4rIENz7te94J) | 3:38 |
 | 37 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 |
 | 38 | [Afraid](https://open.spotify.com/track/5RqzmyZZTB35lb4Rc1FKAA) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:57 |
-| 39 | [Feast Of The Dead](https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B) | [Buddy & Julie Miller](https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV) | [Breakdown On 20th Ave\. South](https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z) | 3:59 |
+| 39 | [Feast Of The Dead](https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B) | [Buddy & Julie Miller](https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Julie Miller](https://open.spotify.com/artist/1LpjGrgy09O2ElDMR3TDfu) | [Breakdown On 20th Ave\. South](https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z) | 3:59 |
 | 40 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 |
 | 41 | [Ghosts That We Knew](https://open.spotify.com/track/4OwUzSEXxSZXpCfdjKGzpD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:39 |
 | 42 | [Long Black Veil](https://open.spotify.com/track/4Cl4CwxNKrMjq2OHeujr9E) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 4:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 69 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 70 | [Bad Magic](https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h) | 5:54 |
 
-Snapshot ID: `MCwwZmY0ODY5YjI1ZTllYjhhNmE3NzFmOTYzOWFkMTEwYjk2OTM5YmRk`
+Snapshot ID: `MCxhZTgwODg4NTQ1ODVmMzEzOTJjZmY2YTZlNjFjZTQ4NGY0ZTQwYzg1`

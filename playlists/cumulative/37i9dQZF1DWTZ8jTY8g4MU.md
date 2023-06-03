@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-152 songs - 10 hr 0 min
+153 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [حياة وروح](https://open.spotify.com/track/4zEEvdJ6LEm2qMxeLg1kMI) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [حياة وروح](https://open.spotify.com/album/0TJIwfyGTMec9Bs9pcs2f1) | 3:15 | 2022-12-13 | 2023-02-23 |
 | [خاويت ذكراه](https://open.spotify.com/track/73xOibl20hlunR0U0oYBA0) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [خاويت ذكراه](https://open.spotify.com/album/64jWjJ9jxpM4spXX9QDqaf) | 3:40 | 2023-03-03 |  |
 | [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-03-30 | 2022-06-14 |
-| [ركبوني فوق طياره](https://open.spotify.com/track/4DLRpoNORbVCoJDyHAAkQN) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/4z82K4NZ8c5UcZQ2Y3Izyv) | 5:14 | 2022-08-31 |  |
+| [ركبوني فوق طياره](https://open.spotify.com/track/4DLRpoNORbVCoJDyHAAkQN) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/4z82K4NZ8c5UcZQ2Y3Izyv) | 5:14 | 2022-08-31 | 2023-06-03 |
 | [ركبوني فوق طياره](https://open.spotify.com/track/5Cz2OytkhByFhPubZVDXv5) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [ركبوني فوق طياره](https://open.spotify.com/album/04q2QDocqTA4o8vOvp9leU) | 5:14 | 2022-03-30 | 2022-11-03 |
 | [رهين الذكريات](https://open.spotify.com/track/1R6ZbF9uHDH9lkoaP0bvR9) | [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [رهين الذكريات](https://open.spotify.com/album/2alnpftldSK6UQLcNPzrt3) | 4:07 | 2023-02-22 | 2023-02-25 |
 | [روح الروح](https://open.spotify.com/track/3dcTAReKwy1FOUurL2H97I) | [ابو حنظله](https://open.spotify.com/artist/6VKZZWZui2euVAS6CbIbbj) | [روح الروح](https://open.spotify.com/album/6DEPTHShfyN0pfLapHQ8WC) | 3:10 | 2022-06-13 | 2022-12-14 |
@@ -146,6 +146,7 @@
 | [يا أصيلة](https://open.spotify.com/track/4HqBacXw1IKtaL9eQNhJ12) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [يا أصيلة](https://open.spotify.com/album/5uBPZ8QDsSL3xaZ6F9Pbws) | 3:56 | 2022-08-31 |  |
 | [يا ابن خماش](https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [يا ابن خماش](https://open.spotify.com/album/4Ib0kCcN26ueEBQ1v5De6C) | 4:02 | 2022-08-09 | 2022-09-20 |
 | [يا ابن خماش](https://open.spotify.com/track/2un4SG41aPvyQEJ6yzC2nT) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [مرحبا بك ياهلا](https://open.spotify.com/album/29azwTntzqRx0fBxu1pqKt) | 4:02 | 2022-08-08 | 2022-08-11 |
+| [يا صديقي](https://open.spotify.com/track/5pn2Efk7QurZz4kRrE1OmT) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [يا صديقي](https://open.spotify.com/album/4ytrFFuw0xqaqyhJM7zKYH) | 3:04 | 2023-06-02 |  |
 | [يا وجهها](https://open.spotify.com/track/7beLoCGGkVrZ2gCAu0FVSQ) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [يا وجهها](https://open.spotify.com/album/3bvULNlQUvgCv4j9CfVp5n) | 5:47 | 2022-03-30 | 2022-11-02 |
 | [يا وجهها](https://open.spotify.com/track/22pv1j3A9If7qKkav4LQTu) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [يا وجهها](https://open.spotify.com/album/5UiBSqN7lz3e3XJ70gqrx8) | 5:47 | 2022-08-31 | 2023-02-23 |
 | [ياروح الروح](https://open.spotify.com/track/2mdLayaVobaBpMFbbecPXC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ياروح الروح](https://open.spotify.com/album/5dTsNHlqR9RWphiGRawNgY) | 2:56 | 2022-08-31 | 2023-03-15 |

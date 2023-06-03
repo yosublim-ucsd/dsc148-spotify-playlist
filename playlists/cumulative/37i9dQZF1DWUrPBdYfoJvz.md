@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-176 songs - 21 hr 4 min
+177 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 | 2022-07-11 |  |
 | [Jimmy V](https://open.spotify.com/track/4R8lTXhSoaNPtbda76jSWh) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/2PLJneMiP3ADrN6hD9hfjL) | 5:57 | 2022-07-11 |  |
 | [Jimmy V](https://open.spotify.com/track/4tm5s2BzVorHwmxTbnhM3i) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/21WPKbevLh1bhIEWwx7Z5r) | 5:57 | 2021-12-22 | 2022-07-29 |
+| [Kamikakushi \(神隠し\)](https://open.spotify.com/track/4HdsV5kyQhBMuTofIWGEaM) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 5:02 | 2023-06-02 |  |
 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 | 2021-12-22 |  |
 | [Le Jardin De Barbican](https://open.spotify.com/track/1G1VzFavmUG2CPoIymIWKA) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [3 Commissions](https://open.spotify.com/album/3GdkaScNw9laSshDku9grB) | 11:39 | 2022-03-29 | 2023-02-03 |
 | [Le Jardin De Barbican](https://open.spotify.com/track/1ZxUx7Yff4DabKmlpwISHY) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [3 Commissions](https://open.spotify.com/album/3y1PLX4D9iUkeSlKI0M8dF) | 11:39 | 2023-01-27 |  |

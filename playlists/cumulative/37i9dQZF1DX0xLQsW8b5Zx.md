@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-181 songs - 8 hr 4 min
+182 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Rockabilly Rebel](https://open.spotify.com/track/0CKYAhx3EzIg19GUkXhJWA) | [Orion](https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU) | [Sun Collector Classics \- Rockabilly](https://open.spotify.com/album/0T8bNZn4Gy55Sz0PIeaMEv) | 2:43 | 2022-09-02 | 2022-11-12 |
 | [Rockabilly Rebel](https://open.spotify.com/track/6kSXIXxIv6edvYm7cRV4Jz) | [Orion](https://open.spotify.com/artist/4k7v8UC7BAe31BeADfuAQU) | [Sun Collector Classics \- Rockabilly](https://open.spotify.com/album/1RlKHwfQJLx9GQsjb1Y5QF) | 2:43 | 2022-05-06 | 2022-07-28 |
 | [Rocket to the Moon](https://open.spotify.com/track/7E1XmqVGR1GfAPa6LYEYM0) | [Pepita Slappers](https://open.spotify.com/artist/5QrPasvRZt9axhtr96a54Z) | [Rocket to the Moon](https://open.spotify.com/album/63sO9QAPD2hjpNh98WFiwC) | 3:34 | 2022-05-06 | 2022-07-28 |
-| [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 | 2022-07-05 |  |
+| [Rockin' the Night Away](https://open.spotify.com/track/5jt2cfZCz9L0f3LqAgktSs) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' the Night Away](https://open.spotify.com/album/1eWWmQYAkAnthpK6W6VuVZ) | 2:53 | 2022-07-05 | 2023-06-03 |
 | [Rockin' The Night Away](https://open.spotify.com/track/7fnlgiottlzCU3Q42ClGza) | [The Jetaways](https://open.spotify.com/artist/4d6H6DOyHM4g55AY3fIQxy) | [Rockin' The Night Away](https://open.spotify.com/album/7Lwi2V27gMNZPrAOBgvIXR) | 2:53 | 2022-05-06 | 2022-07-29 |
 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 | 2022-07-05 |  |
 | [Rocky Road Blues](https://open.spotify.com/track/42hJcIKQ1OEeriwE9ERDJr) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/7xv9TdxQWJLyx8wDpcyAAf) | 3:27 | 2022-05-06 | 2022-07-29 |
@@ -168,6 +168,7 @@
 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 | 2022-05-06 | 2022-11-14 |
 | [Tainted Love](https://open.spotify.com/track/0Y1BHJjQjDhTnKCAsUEmGJ) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/3BNRNDUotlBZGQmurOu0lj) | 2:45 | 2022-05-06 | 2022-07-28 |
 | [Tainted Love](https://open.spotify.com/track/71iCLishjeRC9YLVf9BVIb) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Mayhem](https://open.spotify.com/album/6QLKR2LZaSZzZuZpiosZNR) | 2:45 | 2022-07-05 |  |
+| [Teddy Boy Flick Knife Rock'n'Roll](https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4) | [Esa Pulliainen](https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra), [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Happy Rokkenrol! Vol\. 2](https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr) | 2:21 | 2023-06-02 |  |
 | [Tempo Tantrum](https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2) | [Hillbilly Frankenstein](https://open.spotify.com/artist/3yVkfbmGfkQDMRbktbZn74) | [American Rumble, Vol\. 1](https://open.spotify.com/album/4l2lMwNC31nbwR1PRTuhrW) | 3:27 | 2022-05-06 | 2022-11-13 |
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-07-05 |  |
 | [That'll Be The Day](https://open.spotify.com/track/69F1iyhE7ef4iRCaeCzjeT) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:15 | 2022-09-02 | 2022-11-14 |

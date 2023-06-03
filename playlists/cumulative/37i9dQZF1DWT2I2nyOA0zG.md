@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-212 songs - 12 hr 12 min
+213 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/track/25NrAXAOBj1KOuTpJYs11g) | [KaniBeatz](https://open.spotify.com/artist/5Y0tEjj93Yl493o4pyx2Yc), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Do For Me \(feat\. YKB & Alana Maria\)](https://open.spotify.com/album/35NxKefzUejvCXEKAYUDG3) | 2:36 | 2022-08-12 | 2023-01-28 |
 | [Down](https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Home Run \- EP](https://open.spotify.com/album/6LySZ3EOrnNCceaWkkt3EX) | 3:22 | 2021-12-09 | 2022-02-25 |
 | [Down by the River](https://open.spotify.com/track/4B7sxQLWCgQ6GvZac3Dazz) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Down by the River](https://open.spotify.com/album/2HgoVUGoxyJLVl7efSYneM) | 2:34 | 2022-02-17 | 2022-03-11 |
-| [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 |  |
+| [Earth Song](https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo) | 3:03 | 2023-05-11 |  |
+| [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 |  |
 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 | 2022-01-27 | 2022-03-25 |
 | [Eshu](https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp) | [Amai Kuda Et Les Bois](https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw) | [Eshu](https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd) | 3:20 | 2022-04-28 | 2022-07-26 |

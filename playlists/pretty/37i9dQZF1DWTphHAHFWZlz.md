@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Escuchá lo nuevo de C.R.O y las canciones que lo inspiraron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,655 likes - 35 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,070 likes - 35 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 34 | [Yo Caníbal](https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 2:56 |
 | 35 | [About A Girl](https://open.spotify.com/track/55yvzYuvJYG2RUEnMK78tr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 2:46 |
 
-Snapshot ID: `MCxlMWIwZDZhOTRlMDAzM2JhOTY3Yjc2MzY2ZTM1MDczMmZhNzEyZGIy`
+Snapshot ID: `MCxiMjQ1ZDc3ZTBlMTYzMGFkZjQxZTg1MzM3MzhjNDk3MGJhN2ZlZjA2`

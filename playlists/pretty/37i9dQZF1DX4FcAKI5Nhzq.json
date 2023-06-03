@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: AB6IX",
-  "num_followers": 761064,
+  "num_followers": 761173,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWMwYjJiNWNjYWRmYzUxMjdhMDI3YmVmZDgzMDI4OGZiZjQ3MTUz",
+  "snapshot_id": "MCw4ODlkZDE5MzEyZWUzOTA2MzNlMDA4YjU2NGMxMGYwODkxOWE5ZGI5",
   "tracks": [
     {
       "added_at": "2023-05-30 07:39:49",
@@ -23,6 +23,22 @@
       "duration_ms": 210400,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/2jSKhV7zSImRqT4jBCFnEE"
+    },
+    {
+      "added_at": "2023-06-02 04:21:52",
+      "album": {
+        "name": "CIX 6th EP Album 'OK' Episode 2 : I'm OK",
+        "url": "https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Save me, Kill me",
+      "url": "https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK"
     },
     {
       "added_at": "2023-05-30 07:39:49",

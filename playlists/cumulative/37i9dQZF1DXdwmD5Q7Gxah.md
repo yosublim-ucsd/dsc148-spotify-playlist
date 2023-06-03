@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> All the indescribable feelings that music gives you\. cover: Hannah Jadagu
+> All the indescribable feelings that music gives you\. cover: Ryan Beatty
 
-2,246 songs - 5 day 0 hr 49 min
+2,249 songs - 5 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Cause and Effect](https://open.spotify.com/track/5nrod69NCUKOru6iMfqIyz) | [Tony22](https://open.spotify.com/artist/72WtJOdm9BlSXYm1Xd0Drm), [Brian Austin](https://open.spotify.com/artist/460LpXD2aDD0WHZhwpiymj) | [Earth Boy](https://open.spotify.com/album/0kR7MqklL8vFXV7v3LqCrb) | 3:24 | 2019-08-10 | 2019-10-10 |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 | 2022-05-13 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-04-09 | 2022-04-29 |
+| [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 | 2023-06-02 |  |
 | [CHA](https://open.spotify.com/track/034IcTy5i48Ck6EEYbrMtX) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/6SHGA5HOlV0pgQNE4EP96t) | 3:24 | 2019-07-30\* | 2019-11-14 |
 | [Chaise Longue \- French Version](https://open.spotify.com/track/6qp2A9wkRd8nM3L48zJtuF) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue \(French Version\)](https://open.spotify.com/album/248thOxBwEa7EzFAZrqIxE) | 3:17 | 2022-11-02 | 2022-11-08 |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2019-11-07 | 2020-05-28 |
@@ -597,7 +598,7 @@
 | [Effy Stonem](https://open.spotify.com/track/6ldcAaO9m1mEA5cPlt7j6B) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Effy Stonem](https://open.spotify.com/album/6kSzgrkTcdI8pzCExx7ShY) | 2:40 | 2020-12-23 | 2021-04-16 |
 | [Ego](https://open.spotify.com/track/2qgXNUKWcCcXjRo2aMLjBa) | [Scruffpuppie](https://open.spotify.com/artist/4sfEJm0Dv8H6RFfeenNJEd) | [Ego](https://open.spotify.com/album/2jfGYnx0a3MrNkwXzn5mRt) | 2:28 | 2020-06-25 | 2020-07-31 |
 | [elastic](https://open.spotify.com/track/6P1OAtvQe1cHPgecI4qwhn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [elastic](https://open.spotify.com/album/4IL4IiCrIxULLgKdCwTai8) | 3:03 | 2022-05-11 | 2022-06-10 |
-| [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2023-04-14 |  |
+| [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2023-04-14 | 2023-06-03 |
 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 | 2022-10-28 | 2023-05-17 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-16 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
@@ -1249,6 +1250,7 @@
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2020-06-29 | 2020-12-23 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-03-16 | 2021-06-05 |
 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 | 2020-01-29 | 2021-04-16 |
+| [Margo](https://open.spotify.com/track/05DNJG679u0mGj81fcBXFA) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Margo](https://open.spotify.com/album/1789js3dmvUewV5an89IyR) | 4:16 | 2023-06-02 |  |
 | [Marigold](https://open.spotify.com/track/4rCqVP8OeyeTLkBVQtFXZA) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 4:03 | 2021-12-01 | 2022-01-08 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-16 | 2021-11-13 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2020-02-20 | 2020-06-19 |
@@ -1411,6 +1413,7 @@
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-02-19 | 2021-08-28 |
 | [Nuclear Seasons](https://open.spotify.com/track/1D77DlGAE1HWBHyXQBCpgT) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 4:41 | 2023-04-14 | 2023-05-26 |
 | [NYC UMTs](https://open.spotify.com/track/7eUU2AYvO1hyGPZhI90ZuL) | [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [NYC UMTs](https://open.spotify.com/album/4w4KuhWvjhLd2gwMaaVl2g) | 2:41 | 2023-05-17 |  |
+| [OBO \(feat\. Kate Bollinger\)](https://open.spotify.com/track/60QQM23tCWizpxyCgt35tR) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Los Angeles Story](https://open.spotify.com/album/6vf8Rgc1F0GSO7g3uFGTy5) | 2:42 | 2023-06-02 |  |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-17 | 2021-11-13 |
 | [Ocean Eyes \- Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2019-07-30\* | 2019-09-27 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-06-02 | 2021-08-14 |

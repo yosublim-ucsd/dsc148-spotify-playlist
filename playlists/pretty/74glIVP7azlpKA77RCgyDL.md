@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Nemophila
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Code Orange
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,778 likes - 418 songs - 1 day 2 hr 51 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,779 likes - 423 songs - 1 day 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -426,5 +426,10 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 416 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 |
 | 417 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 |
 | 418 | [Carousel](https://open.spotify.com/track/1sF9L9uoQG2gRKa2FqxiWu) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [Carousel](https://open.spotify.com/album/6uFjCz8NabOELB10fDSfep) | 4:51 |
+| 419 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 |
+| 420 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 |
+| 421 | [The Customer Is Always Wrong \(TCIAW\)](https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:56 |
+| 422 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 |
+| 423 | [Death Is The Beginning](https://open.spotify.com/track/6Z9I47gF0XIqgZpVZ7fakB) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Death Is The Beginning](https://open.spotify.com/album/3Nv9xXoF8VcDnIEEN0d8Cf) | 5:07 |
 
-Snapshot ID: `MjY4NiwyM2ZiNDhkZDU2Mzk3YzMyNTdjZDhmMzVhMTNlM2ZhMDgxM2M2ODAz`
+Snapshot ID: `MjY5MywzN2MyZjQxMGU0ZjE4NTVlMGVmZGMyMzY0MzE1OTdjOTZhMGRhMTdl`

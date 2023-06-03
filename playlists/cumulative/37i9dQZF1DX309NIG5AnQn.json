@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Hoy Quiero Hacer Lo Que Me Gusta",
+        "url": "https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129912,
+      "name": "Hoy Quiero Hacer Lo Que Me Gusta",
+      "url": "https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k"
+    },
+    {
+      "album": {
         "name": "H\u00e1bitat",
         "url": "https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 232554,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5IlTUPT1eAtt3QsrsaewdU"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 242240,
       "name": "Mirandonos",
       "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
@@ -2084,6 +2102,24 @@
       "duration_ms": 215711,
       "name": "Penso a te",
       "url": "https://open.spotify.com/track/0aKzj1pp5jtEUPf7uV0cvB"
+    },
+    {
+      "album": {
+        "name": "Rompe Paga",
+        "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
+      },
+      "artists": [
+        {
+          "name": "Blanco Teta",
+          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Perro",
+      "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
     },
     {
       "album": {

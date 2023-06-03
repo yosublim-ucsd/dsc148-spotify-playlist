@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "A Girl Like This",
+        "url": "https://open.spotify.com/album/5ep9RrcSBBPSDTgI0z0bvY"
+      },
+      "artists": [
+        {
+          "name": "Someone Who Isn't Me",
+          "url": "https://open.spotify.com/artist/1jLF7ClOMiAPDmilcXPe3w"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255389,
+      "name": "A Girl Like This",
+      "url": "https://open.spotify.com/track/69uEwXoA8PmBMvJy5Rrs8O"
+    },
+    {
+      "album": {
         "name": "Heterosexuality",
         "url": "https://open.spotify.com/album/0DpCo0SXKnfsBx98H2qDVI"
       },
@@ -1541,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Big Boom",
+        "url": "https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134561,
+      "name": "Big Boom",
+      "url": "https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt"
+    },
+    {
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -2101,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4u6ph1IzO8XMoR8PHj4JTh"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/2p32tK826J2ggZi4XxusDm"
+    },
+    {
+      "album": {
         "name": "Broken (Lost Frequencies Cut)",
         "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
       },
@@ -2116,7 +2170,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 172790,
       "name": "Broken - Lost Frequencies Cut",
       "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
@@ -3598,6 +3652,28 @@
       "duration_ms": 222000,
       "name": "Dose",
       "url": "https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ"
+    },
+    {
+      "album": {
+        "name": "Double Yellow",
+        "url": "https://open.spotify.com/album/0tfLWqHSp56vi3YX6KVKW2"
+      },
+      "artists": [
+        {
+          "name": "Ghostryder",
+          "url": "https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw"
+        },
+        {
+          "name": "boy jones",
+          "url": "https://open.spotify.com/artist/5fJ65ad5oG6eKLXI1NgKSu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202043,
+      "name": "Double Yellow",
+      "url": "https://open.spotify.com/track/0xhXzTgmlSXu90D0HN4qUa"
     },
     {
       "album": {
@@ -5444,6 +5520,28 @@
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
       "album": {

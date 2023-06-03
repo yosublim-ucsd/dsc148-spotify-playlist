@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Casuarina Calm",
+        "url": "https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Casuarina Calm",
+      "url": "https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl"
+    },
+    {
+      "album": {
         "name": "Colors Of The Wind",
         "url": "https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 241403,
       "name": "Perennial Waterflow",
       "url": "https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B"

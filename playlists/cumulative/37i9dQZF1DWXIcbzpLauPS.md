@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Spiritbox
+> Metalcore at its finest\. Cover: Make Them Suffer
 
-699 songs - 1 day 20 hr 1 min
+700 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
 | [Composure](https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Composure](https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm) | 3:38 | 2021-12-17 | 2022-04-02 |
 | [Condemned](https://open.spotify.com/track/6KqXs2ac8eXus6s97mexwD) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Condemned](https://open.spotify.com/album/5caXsrxlNAC9YQBVavvPUK) | 4:06 | 2021-12-17 | 2022-01-22 |
+| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-06-02 |  |
 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-07-13 | 2022-07-23 |
 | [Cross My Heart](https://open.spotify.com/track/2icamhwuMDLOPIGcTq3qxg) | [Eyes Wide Open](https://open.spotify.com/artist/1AYs2fxCu0pV8iKaguz4po) | [Cross My Heart](https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p) | 3:18 | 2022-05-13 | 2023-05-23 |
 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 | 2021-12-17 | 2022-03-18 |
@@ -496,7 +497,7 @@
 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 | 2022-09-09 | 2022-12-17 |
 | [Reaching](https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reaching](https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR) | 3:25 | 2023-03-17 |  |
 | [Realistic Flesh Mask](https://open.spotify.com/track/1RKMdt5u0mxJo0QdDrzd48) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx), [Nick Arthur](https://open.spotify.com/artist/7tmbnYJ4nox5mUPKAXNFZa) | [Realistic Flesh Mask](https://open.spotify.com/album/6iAmG9xNEvyadpWjgficUO) | 3:12 | 2022-07-13 | 2022-07-22 |
-| [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 | 2022-06-24 |  |
+| [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 | 2022-06-24 | 2023-06-03 |
 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 | 2022-07-13 | 2022-07-23 |
 | [Recreant](https://open.spotify.com/track/1r20sYN6fO8SeQaCzc4S5r) | [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q) | [Recreant](https://open.spotify.com/album/16TWclehxfP4ECui5fnt7w) | 4:28 | 2022-07-13 | 2022-07-23 |
 | [Red Fur](https://open.spotify.com/track/1jj922BgyJexH19yoHd23L) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Red Fur](https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc) | 3:31 | 2023-04-21 |  |

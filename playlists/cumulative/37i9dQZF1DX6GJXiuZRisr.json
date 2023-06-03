@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 470400,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/4HVHjZ3jLUxMZ1uTypUL3r"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338139,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6tZOXgmWxoQsaJ5Pwbo9pt"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G"
       },
@@ -2422,6 +2440,28 @@
       "duration_ms": 381254,
       "name": "Gamma",
       "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+    },
+    {
+      "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
     },
     {
       "album": {
@@ -4048,7 +4088,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 480000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
@@ -5192,6 +5232,24 @@
       "duration_ms": 209032,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6db3K1345xcIVsYaofJauI"
+    },
+    {
+      "album": {
+        "name": "Yourney",
+        "url": "https://open.spotify.com/album/3P2oam7JHSOjZMH6IVf04U"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/7B2ytzid2B2D1Wg83Iyt66"
     },
     {
       "album": {

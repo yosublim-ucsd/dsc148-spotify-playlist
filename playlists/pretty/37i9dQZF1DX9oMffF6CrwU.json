@@ -1,12 +1,12 @@
 {
   "description": "The creepiest folk and roots songs, sure to raise the hair on your neck.",
-  "num_followers": 21410,
+  "num_followers": 21426,
   "original_name": "Folk Frights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmY0ODY5YjI1ZTllYjhhNmE3NzFmOTYzOWFkMTEwYjk2OTM5YmRk",
+  "snapshot_id": "MCxhZTgwODg4NTQ1ODVmMzEzOTJjZmY2YTZlNjFjZTQ4NGY0ZTQwYzg1",
   "tracks": [
     {
       "added_at": "2022-10-27 16:21:26",
@@ -638,6 +638,14 @@
         {
           "name": "Buddy & Julie Miller",
           "url": "https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV"
+        },
+        {
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+        },
+        {
+          "name": "Julie Miller",
+          "url": "https://open.spotify.com/artist/1LpjGrgy09O2ElDMR3TDfu"
         }
       ],
       "duration_ms": 239466,

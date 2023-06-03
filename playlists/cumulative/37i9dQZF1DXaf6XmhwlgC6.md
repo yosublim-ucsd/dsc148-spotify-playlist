@@ -4,11 +4,12 @@
 
 > Music from the ether to focus to.
 
-204 songs - 10 hr 51 min
+205 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2022-03-30 | 2023-01-14 |
+| [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-02 |  |
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 |  |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 |  |

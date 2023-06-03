@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Zxmyr y Sandro Malandro en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Nicki Nicole en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "CERO$ / LATI2",
+        "url": "https://open.spotify.com/album/47LBnwJDhEr9orf488dmnX"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "CERO$",
+      "url": "https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy"
+    },
+    {
+      "album": {
         "name": "Chambean",
         "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
       },
@@ -1180,6 +1202,28 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es M\u00edo",
+        "url": "https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT"
+      },
+      "artists": [
+        {
+          "name": "Sr. Wilson",
+          "url": "https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy"
+        },
+        {
+          "name": "Griffi",
+          "url": "https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "El Mundo Es M\u00edo",
+      "url": "https://open.spotify.com/track/6xpBiLizBvv1F54QT14er9"
     },
     {
       "album": {

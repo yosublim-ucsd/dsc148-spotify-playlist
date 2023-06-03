@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Can You Stand the Rain",
+        "url": "https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i"
+      },
+      "artists": [
+        {
+          "name": "Brian Lenair",
+          "url": "https://open.spotify.com/artist/5yqmxKpOCtz0LAjPNlvf68"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244270,
+      "name": "Can You Stand the Rain",
+      "url": "https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -3762,7 +3780,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182685,
       "name": "Melting - Instrumental",
       "url": "https://open.spotify.com/track/1Rj1zWs3klF4a22wSmTp2M"
@@ -3996,6 +4014,28 @@
       "duration_ms": 184285,
       "name": "Newfound Treasure",
       "url": "https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm"
+    },
+    {
+      "album": {
+        "name": "Nice and Easy (Walter's Version)",
+        "url": "https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        },
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256057,
+      "name": "Nice and Easy (Walter's Version)",
+      "url": "https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx"
     },
     {
       "album": {
@@ -5710,7 +5750,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 244440,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
@@ -6194,6 +6234,24 @@
       "duration_ms": 242181,
       "name": "Uluwatu",
       "url": "https://open.spotify.com/track/3qZWEsYLCRTR5YCArqIdra"
+    },
+    {
+      "album": {
+        "name": "Undulation",
+        "url": "https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293026,
+      "name": "Undulation",
+      "url": "https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH"
     },
     {
       "album": {

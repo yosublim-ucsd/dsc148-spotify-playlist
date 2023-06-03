@@ -4176,7 +4176,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168880,
       "name": "Community service",
       "url": "https://open.spotify.com/track/2fsN1mjdT4QCfRZhPQRkck"
@@ -6932,6 +6932,24 @@
       "duration_ms": 174545,
       "name": "FOMO - Dm",
       "url": "https://open.spotify.com/track/0QRbqGX3VNCoTGj2fz9Q2t"
+    },
+    {
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
     },
     {
       "album": {
@@ -19360,7 +19378,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -20778,7 +20796,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 207482,
       "name": "STARGAZING",
       "url": "https://open.spotify.com/track/4nMUKRsyvffuyQNqnbXKRk"

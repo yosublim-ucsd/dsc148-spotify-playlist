@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring emei
 
-610 songs - 1 day 10 hr 54 min
+612 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 | 2022-03-04 | 2022-09-03 |
 | [DRM](https://open.spotify.com/track/7z0Zr23nnYM7RWem0rFviY) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Simmer](https://open.spotify.com/album/5AUMIbcAEn7BLBu3slRIDA) | 8:19 | 2022-07-08 | 2022-08-27 |
 | [drop kick](https://open.spotify.com/track/4koPlGtAIvagp7QNZCgCOU) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [drop kick](https://open.spotify.com/album/1gv7IkTkzXCGkCHi2xSdeH) | 2:40 | 2023-04-21 |  |
+| [Drugs In The Bathroom](https://open.spotify.com/track/1niRjpbrpkQ7yUFpQVyQbz) | [xJermsx](https://open.spotify.com/artist/2bgmwJQQk8m5GpQwEj6mKf) | [Drugs In The Bathroom](https://open.spotify.com/album/3KTAZlhvd4bMv2GdnnmRuM) | 4:45 | 2023-06-02 |  |
 | [Dumb \- dnb edit](https://open.spotify.com/track/5VspIe3SteTgIT8jJA3V7J) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Dumb \(dnb edit\)](https://open.spotify.com/album/66lKWt1amMXKhZLGKt96rd) | 3:48 | 2022-02-18 | 2022-12-10 |
 | [dune](https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [dune](https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9) | 2:29 | 2022-05-27 | 2022-10-29 |
 | [E\-girl](https://open.spotify.com/track/2iSFVgxi3QrZCRMeklBnMH) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5) | [E\-girl](https://open.spotify.com/album/1bNVXG3Hj1q17yn8mKX7y8) | 2:42 | 2022-05-06 | 2022-06-04 |
@@ -399,6 +400,7 @@
 | [noise reduction](https://open.spotify.com/track/0sAUU1Ah3BWwNH3013NPL2) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [dialogue tree](https://open.spotify.com/album/3sONtkjvho6UJmu2jZ0GSF) | 2:40 | 2022-11-18 | 2023-02-04 |
 | [Non\-Fungible Memory](https://open.spotify.com/track/5NHSjW8cnpzK6gEIA2pWn1) | [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [Non\-Fungible Memory](https://open.spotify.com/album/7Ei4jGZgktpTI1bbIFmiXO) | 3:56 | 2022-12-23 |  |
 | [Noodle Poodle \- Tommy Villiers Remix](https://open.spotify.com/track/3Iqd1QXYAChLtYDWCMYgBi) | [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Noodle Poodle \(Tommy Villiers Remix\)](https://open.spotify.com/album/7lYRpV61gd7klERMu7nyaO) | 3:51 | 2022-11-11 | 2023-05-19 |
+| [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-02 |  |
 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 | 2022-09-16 | 2022-12-03 |
 | [ode to girlhood](https://open.spotify.com/track/1L5Za6GWzAqJTlTC2wYf9N) | [klurax](https://open.spotify.com/artist/74CONfALMyKd8tbE0yiMT8) | [ode to girlhood](https://open.spotify.com/album/1BY16stCGBI3NSVivqRiXX) | 3:18 | 2021-08-25 | 2022-02-24 |
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 | 2023-05-26 |

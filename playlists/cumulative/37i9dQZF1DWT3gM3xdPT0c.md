@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-283 songs - 12 hr 6 min
+290 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alt Evolution](https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU) | [Nicole Ellis](https://open.spotify.com/artist/29i78ujvmrXRSFg9nZYaVK) | [Alt Evolution](https://open.spotify.com/album/4faddULwhKK0FTU1IrXCRL) | 3:11 | 2022-03-04 |  |
 | [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-03-04 | 2022-03-19 |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-21 |  |
+| [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-02 |  |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-05-09 |  |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-03-04 | 2022-11-18 |
 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 |  |
@@ -105,6 +106,7 @@
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 |  |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
+| [Geiranger](https://open.spotify.com/track/00VfPleq7One3xcddII48n) | [Felix Day](https://open.spotify.com/artist/1nNLAz1wsnh8FfcdeBYWEF) | [Geiranger](https://open.spotify.com/album/2pSJ62moAENPpLP5Ge4rQf) | 2:19 | 2023-06-02 |  |
 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 | 2022-09-02 |  |
 | [Georgia](https://open.spotify.com/track/5WuytpdrS1L3JFGxZsT4mi) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/73fRkeHZHcw2K7PhLEz67y) | 2:21 | 2022-10-28 | 2023-02-25 |
 | [Georgia](https://open.spotify.com/track/5WzMVccC8N5HRM0rKqXlx9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/7dUntBYdb3nf6KZCvFm2Md) | 2:21 | 2022-09-16 | 2022-11-04 |
@@ -132,6 +134,7 @@
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |
 | [Hometown](https://open.spotify.com/track/5lvCd2cod6ehTI6rCXgW9x) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA) | 2:02 | 2022-10-28 | 2022-12-10 |
 | [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 | 2022-11-05 |
+| [Human](https://open.spotify.com/track/5W188DNbU0X0WsxA0f4vsK) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Human](https://open.spotify.com/album/2raYowNzP5KrWjYaMVcVoF) | 2:16 | 2023-06-02 |  |
 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 | 2022-03-04 | 2022-05-27 |
 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 | 2022-03-04 | 2022-07-22 |
 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 | 2022-03-04 |  |
@@ -155,6 +158,7 @@
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-05-09 |  |
 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 | 2022-05-27 |  |
 | [Lavendel](https://open.spotify.com/track/4z9Qej0akvAJ9SRbSa4LGY) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Green Fields](https://open.spotify.com/album/2Tlm0lRIBuVsLhxPJiJc39) | 2:57 | 2023-02-24 |  |
+| [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 | 2023-06-02 |  |
 | [leaving the city](https://open.spotify.com/track/0QdlI30DozlVnyCk52uveP) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 2:53 | 2022-03-04 | 2022-04-06 |
 | [Light on the Horizon](https://open.spotify.com/track/0ZJ3l5D3mVtv7JPS63OITC) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Light on the Horizon](https://open.spotify.com/album/6UVIzwrAE25SibE8HWlrFP) | 2:29 | 2022-10-07 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-03-04 | 2022-09-17 |
@@ -183,6 +187,7 @@
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 | 2022-09-17 |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-03-04 | 2022-07-08 |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2022-03-04 | 2022-04-22 |
+| [Nebraska](https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Nebraska](https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK) | 2:31 | 2023-06-02 |  |
 | [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 | 2022-11-25 |  |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-21 |  |
 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 | 2022-03-04 | 2022-05-27 |
@@ -217,6 +222,7 @@
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 |  |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-21 |  |
+| [Seaside](https://open.spotify.com/track/3D3XY8qFF14XSFqhuTi63U) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Seaside](https://open.spotify.com/album/5aTyBkh2qENyZ2yLKuzQUb) | 2:30 | 2023-06-02 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-03-04 |  |
 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 | 2022-03-04 | 2022-04-06 |
 | [Shivers](https://open.spotify.com/track/4rTVUL4nvoRtKEuAarST2c) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Shivers](https://open.spotify.com/album/64hzAuUBRzJKjWR4OXX9SS) | 3:13 | 2022-06-10 | 2022-07-08 |
@@ -286,6 +292,7 @@
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-03-04 | 2022-04-06 |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-03-04 | 2022-07-22 |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
+| [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |

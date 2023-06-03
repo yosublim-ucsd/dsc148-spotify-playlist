@@ -2,7 +2,7 @@
 
 ### [EXTASE](https://open.spotify.com/playlist/37i9dQZF1DX0lyPY3TrtOd)
 
-> Extatische gevoelens met prachtige muziek
+> FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
 117 songs - 6 hr 42 min
 

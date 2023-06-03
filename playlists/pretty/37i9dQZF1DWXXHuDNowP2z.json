@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 89345,
+  "num_followers": 89490,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTVhNjFlN2UyMGE0ZjljOTJmYmQ0MTAxMTUzYWM2N2MzNGYyZGRk",
+  "snapshot_id": "MCw5ZjUwNDFhODNkNzhlNjVmMGMzNjIwMDQzNDk4NmM3MDNjMTEyZjNh",
   "tracks": [
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+        "name": "Fuiste Mala",
+        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+      "duration_ms": 204013,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
         "name": "Aclarando la Mente",
         "url": "https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 205156,
       "name": "La Bailadora",
       "url": "https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
-        "name": "Fuiste Mala",
-        "url": "https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Y Su Torbellino",
-          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "Micaela/El Agua Lulco/Camaron Pelao (En Vivo)",
-      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Que Se Arme la Fiesta",
         "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 240000,
       "name": "Molinos de Viento",
       "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Y Su Torbellino",
+          "url": "https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "Micaela/El Agua Lulco/Camaron Pelao (En Vivo)",
+      "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Huapangos Mix 2017",
-        "url": "https://open.spotify.com/album/7s6NmP8nfQCGNXO2ge6Kjn"
-      },
-      "artists": [
-        {
-          "name": "Estilo Chihuahua",
-          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
-        }
-      ],
-      "duration_ms": 314012,
-      "name": "Huapangos Mix 2017",
-      "url": "https://open.spotify.com/track/1ovy2FvWabQu3bGdik8g7o"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Los Amos del Norte\u00f1o Sax",
         "url": "https://open.spotify.com/album/3y0EMw7EMNra80UBx1bMAM"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 191320,
       "name": "El Sandwich",
       "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Huapangos Mix 2017",
+        "url": "https://open.spotify.com/album/7s6NmP8nfQCGNXO2ge6Kjn"
+      },
+      "artists": [
+        {
+          "name": "Estilo Chihuahua",
+          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
+        }
+      ],
+      "duration_ms": 314012,
+      "name": "Huapangos Mix 2017",
+      "url": "https://open.spotify.com/track/1ovy2FvWabQu3bGdik8g7o"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "De Parranda Lives Vol. 1",
-        "url": "https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 242229,
-      "name": "Dime donde y cuando - Live",
-      "url": "https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Limonadas Verdes",
         "url": "https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 179212,
       "name": "Cuando Los Frijoles Bailan",
       "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "De Parranda Lives Vol. 1",
+        "url": "https://open.spotify.com/album/2kUdqdhDF2HocpD7WSwjkr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 242229,
+      "name": "Dime donde y cuando - Live",
+      "url": "https://open.spotify.com/track/04FuzddvcEMzYIbJZR302j"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Una No Es Ninguna",
-        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
+        "name": "El Viej\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
       },
       "artists": [
         {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
-      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+      "duration_ms": 172392,
+      "name": "Huapango Flor de Pi\u00f1a",
+      "url": "https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "El Viej\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea"
+        "name": "Una No Es Ninguna",
+        "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
         }
       ],
-      "duration_ms": 172392,
-      "name": "Huapango Flor de Pi\u00f1a",
-      "url": "https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB"
+      "duration_ms": 251933,
+      "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
+      "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
     },
     {
       "added_at": "2023-04-21 19:03:12",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-04-21 19:03:12",
       "album": {
-        "name": "Solo Un Dia\u2026",
-        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
-      },
-      "artists": [
-        {
-          "name": "Adan Romero",
-          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "La Cara Sucia",
-      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
-    },
-    {
-      "added_at": "2023-04-21 19:03:12",
-      "album": {
         "name": "Puro Cumbi\u00f3n Bien Loco",
         "url": "https://open.spotify.com/album/7m5Ldielk5zsiPv9gTCQ0J"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 264520,
       "name": "No Bailes De Caballito / Mambo Lupita - Medley",
       "url": "https://open.spotify.com/track/6epL6q0D2Rei2ek1au5uc9"
+    },
+    {
+      "added_at": "2023-04-21 19:03:12",
+      "album": {
+        "name": "Solo Un Dia\u2026",
+        "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
+      },
+      "artists": [
+        {
+          "name": "Adan Romero",
+          "url": "https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "La Cara Sucia",
+      "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
     },
     {
       "added_at": "2023-04-21 19:03:12",

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 121859,
+  "num_followers": 121944,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDZkOTRiYjA0YjYyZTRlOWVhYmQ3MTUzZjMzM2U2MGFmODRiMTkz",
+  "snapshot_id": "MCw0Mjg3NTJjOTk5NjM4YzliYzI4Njk3M2FhN2ZmYzNiZWUzNTBjNDRh",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 216786,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/6gKgpHghyWdA1YkzsUWTRe"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Dara Starr Tucker",
+        "url": "https://open.spotify.com/album/2CbNLlrzaRHuJ0j4Sgtkhv"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 333259,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/0e5lg6vfChbb3IX8LCF3mO"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -107,6 +123,26 @@
       "duration_ms": 225068,
       "name": "One Night in NY",
       "url": "https://open.spotify.com/track/6fqwMAh10hGQtug0vis0ZY"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Impressions of Ella",
+        "url": "https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 257795,
+      "name": "I Won't Dance",
+      "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -219,22 +255,6 @@
       "duration_ms": 273266,
       "name": "I Want To Talk About You",
       "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
-    },
-    {
-      "added_at": "2023-05-08 13:12:08",
-      "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/3xF1pelUYiatHGpsIljO2T"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 281722,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/3N3Q6TOYkqKOvpqp7vlly1"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1755,38 +1775,6 @@
       "duration_ms": 302852,
       "name": "Take Love Easy",
       "url": "https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/7gzHf9YPAQUKBt7vdl0vl2"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "duration_ms": 321485,
-      "name": "Day Dream",
-      "url": "https://open.spotify.com/track/73meRvUTsRHm6Rf0klY4Jf"
     },
     {
       "added_at": "2022-05-27 04:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,614 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,669 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Care Anymore](https://open.spotify.com/track/0N7kGiAyk3pqMxuysrJDCJ) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [Care Anymore](https://open.spotify.com/album/2roI2rpeN5RGWEUCDcEHY7) | 3:10 |
 | 100 | [Ripe For Filth](https://open.spotify.com/track/2KjeVr9Wb68loyrPCQNnQw) | [Collarbones](https://open.spotify.com/artist/6y9lvZaKtNLru9bQyLajy9) | [Ripe For Filth](https://open.spotify.com/album/019t5VDdtLOCu5d1z5IsW5) | 4:08 |
 
-Snapshot ID: `MCw3MzVmMTA4NTc4NTNiYTEwODczZTgzOGQzYTk3OGM4MjJkZTIwYjQ5`
+Snapshot ID: `MCw1ODZiNzZmNTRjNDk0MTVmMDM3ZDZiYTI0YWMzNzQxYTZlMDU5ZGZm`

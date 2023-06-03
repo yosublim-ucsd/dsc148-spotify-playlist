@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Galileo Galilei \*👉 <a href="https://spice.eplus.jp/articles/318754?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,255 likes - 79 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,283 likes - 79 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 75 | [It’s show time](https://open.spotify.com/track/6ggbyYlbMCzrnVKpb9jFMy) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/0Px4NJvliqMfduD1NP16ts) | 3:27 |
 | 76 | [大事なお知らせ。](https://open.spotify.com/track/1Ei3DGdcshetCXZGpIxoQ7) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [大事なお知らせ。](https://open.spotify.com/album/4DgRT6tykvY6VypjXKXDvw) | 4:33 |
 | 77 | [ランデブー](https://open.spotify.com/track/2f8uKvA1wnSilrmcneWfkP) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [ランデブー](https://open.spotify.com/album/7DjcXiLM2tXSJvIWXfBwgF) | 5:02 |
-| 78 | [dawn break](https://open.spotify.com/track/26e7gjbVjxjWBnucSOJ66X) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [dawn brake](https://open.spotify.com/album/1JEVV143Zg0HX5eEHFCGsc) | 2:36 |
+| 78 | [dawn break](https://open.spotify.com/track/26e7gjbVjxjWBnucSOJ66X) | [periwinkles](https://open.spotify.com/artist/40iKR3QciuMqwtQyd50Q71) | [dawn break](https://open.spotify.com/album/1JEVV143Zg0HX5eEHFCGsc) | 2:36 |
 | 79 | [透明少女 \- 4 / LIVE](https://open.spotify.com/track/4w7NG7srCNipghjLJxvUhK) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:47 |
 
-Snapshot ID: `MCwxYzk1MjJiMjAyYjdkMDExYjRhYjY5NTMyZmQxN2I3NGU1OWRlM2Vh`
+Snapshot ID: `MCw3MmU2YTRjZGMxOTdjNWUyYzJjMWFiOGVhNTg3ZmNjNGU1MTE3YzFk`

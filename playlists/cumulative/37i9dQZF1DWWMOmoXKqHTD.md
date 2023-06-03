@@ -2,7 +2,7 @@
 
 ### [Songs to Sing in the Car](https://open.spotify.com/playlist/37i9dQZF1DWWMOmoXKqHTD)
 
-> Sing along and enjoy the drive...
+> 
 
 823 songs - 2 day 2 hr 44 min
 

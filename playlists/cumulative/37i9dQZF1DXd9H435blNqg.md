@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-104 songs - 5 hr 50 min
+105 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 | 2021-02-12 |  |
 | [Keep Diggin'](https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:13 | 2022-08-31 |  |
 | [Keep Diggin’](https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:13 | 2021-02-12 | 2023-03-05 |
-| [Kingdom Will Come](https://open.spotify.com/track/0qGYwQLrvI5qSIf5GRTGZm) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Kingdom Will Come](https://open.spotify.com/album/1bxTScZjdZih4Fsvp8d5V5) | 4:58 | 2023-03-17 |  |
+| [Kingdom Will Come](https://open.spotify.com/track/0qGYwQLrvI5qSIf5GRTGZm) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Kingdom Will Come](https://open.spotify.com/album/1bxTScZjdZih4Fsvp8d5V5) | 4:58 | 2023-03-17 | 2023-06-03 |
+| [Kingdom Will Come](https://open.spotify.com/track/2ONh8m8VMZc0uBlxghOTsp) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 4:58 | 2023-03-17 |  |
 | [Little Liars](https://open.spotify.com/track/4cHO8Z1MKY5mqKAciwVzlT) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Little Liars](https://open.spotify.com/album/2lySeBntwop5obrKfYEXl6) | 3:55 | 2021-05-14 |  |
 | [Live Forever](https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd) | [Daniel Spaleniak](https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs) | [Tape V](https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw) | 2:57 | 2022-02-25 |  |
 | [Lo/Hi](https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Lo/Hi](https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply) | 2:57 | 2021-02-12 | 2022-07-29 |

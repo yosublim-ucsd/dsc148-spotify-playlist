@@ -4,7 +4,7 @@
 
 > 
 
-455 songs - 20 hr 18 min
+457 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [DayCare](https://open.spotify.com/track/4pfKtIZ72ue8kCRaA1YN64) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [DayCare](https://open.spotify.com/album/2SOWsVk19fmFxBeRQJ55Et) | 2:03 | 2022-07-23 |  |
 | [DeathStar \(feat\. Trippie Redd, KanKan\)](https://open.spotify.com/track/2h7enN7cXVsN6s54d9oGqA) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [Sexually Active](https://open.spotify.com/album/2jNzC0Im9D4XyFxL8C6A7R) | 4:21 | 2022-02-26 |  |
 | [Demon](https://open.spotify.com/track/3m2r08Ylrjz6BdL735auPh) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 2:27 | 2022-10-18 |  |
+| [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 |  |
 | [Dingaling \(Lil Keed\)](https://open.spotify.com/track/2s4FCo9qPtI621UZ8PalQP) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Final Fantasy: The Finale](https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM) | 1:40 | 2022-10-16 | 2023-04-12 |
 | [Dirty Demon](https://open.spotify.com/track/0d2qg6CfYsWJZy0csJiNuZ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave 2](https://open.spotify.com/album/0nQtPHNSiy2I151G4YmOwU) | 3:09 | 2022-09-01 | 2023-05-09 |
 | [Dirty Money](https://open.spotify.com/track/5N9oDpshl2kfazjIwjNpCQ) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Dirty Money](https://open.spotify.com/album/6MZeTxU57UIgJmKOfqftb8) | 1:48 | 2022-10-21 | 2023-05-09 |
@@ -427,6 +428,7 @@
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2021-11-17 | 2023-05-09 |
 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 | 2023-05-31 |  |
+| [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-06-02 |  |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 |  |
 | [Uncle Phil](https://open.spotify.com/track/0Lf4lhGWMan0D4kL66Insu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:37 | 2023-01-03 |  |
 | [Under Me](https://open.spotify.com/track/6ugMMzjEgL7xqNyrgwCCKh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:23 | 2022-07-28 |  |

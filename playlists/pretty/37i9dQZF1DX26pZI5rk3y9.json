@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 5312,
+  "num_followers": 5328,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjczOGVlNDNmODMxNzBiZDNiY2MxZTM4ODYyYjNmYjFmZmE3Mzk0",
+  "snapshot_id": "MCw0ZDMwZGU2NGJlODQ0NDRiZWRiMTZkOWNhOGNmMmFiMGVlZmQ0ZjE2",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 329626,
-      "name": "Country Child",
-      "url": "https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 289666,
       "name": "Shake 'Em on Down",
       "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Country Child",
+      "url": "https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/4QkHAvGUd8OYR5iiVFyxwu"
     },
     {
-      "added_at": "2023-06-02 02:12:17",
+      "added_at": "2023-06-03 02:17:15",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Groove Juice: The Norman Granz Recordings + More",
         "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 149893,
       "name": "Chicken Rhythm",
       "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Guitar Women, Vol.4",
+        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 148093,
       "name": "Wet Hayshark",
       "url": "https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Guitar Women, Vol.4",
-        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "The Fish",
-      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Best Of Rhythm & Blues",
         "url": "https://open.spotify.com/album/5sPN3eUflNZkCAecJYENg4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 191093,
       "name": "Cole Slaw (Sorghum Switch)",
       "url": "https://open.spotify.com/track/65IsjanqyiA4RD8n564Po6"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
       "added_at": "2022-12-02 14:28:08",

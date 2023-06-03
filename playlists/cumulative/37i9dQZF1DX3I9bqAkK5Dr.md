@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-109 songs - 6 hr 32 min
+110 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,11 +68,12 @@
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 |  |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
+| [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 4:46 | 2023-06-02 |  |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 |  |
 | [Nee Kosam](https://open.spotify.com/track/4P7t79MRfREzq1Je631jpj) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nee Kosam](https://open.spotify.com/album/6P4m7QctAiX2WBjX8HJyNI) | 2:59 | 2023-05-19 | 2023-05-26 |
 | [Nee Mayalle](https://open.spotify.com/track/5TSYat36WSJnohMX2Vh9w4) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nee Mayalle](https://open.spotify.com/album/2wqQzZ8OoBGrkO560T65UR) | 4:20 | 2023-05-25 |  |
 | [Nee Vallane](https://open.spotify.com/track/6j7rVNsyDzoFPNhGmNy0k2) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nee Vallane](https://open.spotify.com/album/6hZWewhZ3b2Q4CJxK3wU2C) | 3:45 | 2023-02-13 |  |
-| [Nee Vente](https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Nee Vente](https://open.spotify.com/album/0OtksZElojFdeGaM52yPLB) | 2:32 | 2023-02-14 |  |
+| [Nee Vente](https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Nee Vente](https://open.spotify.com/album/0OtksZElojFdeGaM52yPLB) | 2:32 | 2023-02-14 | 2023-06-03 |
 | [Needhe Aakasam](https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4) | [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Needhe Aakasam](https://open.spotify.com/album/5Ntckz3IDYKwyVIvEra0Zh) | 3:13 | 2022-11-30 |  |
 | [Neelo Cherela](https://open.spotify.com/track/7HNVLIZginOyHJvlChvsqm) | [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Neelo Cherela](https://open.spotify.com/album/3KCR9M9ELkSP5r3MnguSnU) | 3:13 | 2023-02-09 | 2023-05-23 |
 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 | 2022-07-18 |  |

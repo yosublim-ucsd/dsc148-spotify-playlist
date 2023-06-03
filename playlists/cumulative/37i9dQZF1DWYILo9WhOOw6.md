@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-96 songs - 4 hr 57 min
+98 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Binaural Delta 110\-112 Hz](https://open.spotify.com/track/3kZpjmsjqQW56uOxxHBMII) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Binaural Delta 110\-112 Hz](https://open.spotify.com/album/0Ah1ciN69hSt2YtZB1YTiE) | 2:55 | 2023-04-13 |  |
 | [Binaural Delta 2 Hz](https://open.spotify.com/track/4HbRNPuvixnD5XDlIK6AnO) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 | 2023-01-20 |  |
 | [Binaural Delta Sinus 100 Hz \- 104 Hz](https://open.spotify.com/track/1LSQ8a2oFahaR1pxzXdUMc) | [Heals My Heart](https://open.spotify.com/artist/5QPA7LX2GxnEwy9Fybc6ge) | [Binaural Delta Sinus 100 Hz \- 101 Hz](https://open.spotify.com/album/0jH9JHE9uqA3lYgDMBQR2S) | 2:24 | 2023-01-20 |  |
+| [Binaural Delta Sinus 100 Hz \- L 104 Hz \- R](https://open.spotify.com/track/1pnQJQaFaeJbSpq42ofWmV) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Enhanced Focus and Concentration: Harnessing Binaural Delta Tones](https://open.spotify.com/album/5hdscV6O2ezFnpLyAC5tTI) | 3:29 | 2023-06-02 |  |
 | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/track/6JXlGLYJT2DnpM9yzmJSGG) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/album/1pP5mixoFr0RTFJ3SzKQji) | 2:21 | 2023-01-20 |  |
 | [Binaural Delta Sinus 125 Hz \- 128 Hz](https://open.spotify.com/track/5jJ7EiQ0Ls2n7BGmM4vI0k) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Binaural Gamma Sinus 120 Hz \- 170 Hz](https://open.spotify.com/album/6RQNAwfBLqs9YYxEmGP5CF) | 2:36 | 2023-01-20 |  |
 | [Binaural Delta Sinus 90 Hz \- L 94 Hz \- R](https://open.spotify.com/track/70PN99PsC7BoqAmmrdxj0H) | [No Placebo](https://open.spotify.com/artist/6PfMowhcQPSNiPw4Fag26i) | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/album/7E9Zfn9aGdJOSp1YxBiGZg) | 2:16 | 2023-01-20 |  |
@@ -68,6 +69,7 @@
 | [Delta Sleep Binaural 84Hz \- 85.4Hz](https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:15 | 2023-03-10 |  |
 | [Delta Sleep Waves 87.2Hz \- 88.6Hz](https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:11 | 2023-04-07 |  |
 | [Delta Sleep Waves 88.8Hz \- 90.2Hz](https://open.spotify.com/track/5QsYuzWo2yegOxhVuGhYnk) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:24 | 2023-04-07 |  |
+| [Delta Sleep Waves 98Hz \- 99.6Hz](https://open.spotify.com/track/51US4kWdKFk1uWhRXG1LbV) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Delta Mind](https://open.spotify.com/album/3fUJVv905XG6LDsQc0s0Zn) | 2:52 | 2023-06-02 |  |
 | [Delta Texture](https://open.spotify.com/track/6mOIw0WpfWuPck0t9fxNsn) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:27 | 2023-01-20 |  |
 | [Delta Waves Beauty 73 Hz \- 74 Hz](https://open.spotify.com/track/7E0oNouL0E2RkYSlhxcMWP) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:58 | 2023-01-20 |  |
 | [Delta Waves for Sleep](https://open.spotify.com/track/1nwZaKS7S65x7w4LXwVXDN) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r), [Deep Sleep Music Collective](https://open.spotify.com/artist/6XJykeImeaTIiXaeoORBs5), [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Deep Sleep: Binaural Beats, Theta Waves, Alpha Waves and Ambient Music For Sleep, Sleeping Music, Sleep Aid and Soft Sleep Music](https://open.spotify.com/album/7Dce3HJwAMp41a5OXd7Dzw) | 2:08 | 2023-01-20 |  |

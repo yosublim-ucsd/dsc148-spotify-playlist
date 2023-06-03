@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Rancid
 
-1,099 songs - 2 day 6 hr 48 min
+1,100 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-01 |  |
 | [Children](https://open.spotify.com/track/46trsAdZqXxxxUlorxDyQH) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [Children](https://open.spotify.com/album/7JkZ3LlMp0ZTvCoQRVMxVI) | 3:47 | 2023-04-20 |  |
 | [Chunker](https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Chunker](https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU) | 4:17 | 2023-05-18 |  |
+| [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Cigarettes \(feat\. Travis Barker\)](https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H) | 2:36 | 2023-06-01 |  |
 | [Circuitry's God](https://open.spotify.com/track/403vJALozVD8tK8WMtk02F) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 1:45 | 2022-09-29 | 2022-11-11 |
 | [City](https://open.spotify.com/track/4lUWT0HdlZAOmy5fOJoIyO) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 3:03 | 2022-08-04 | 2022-09-23 |
 | [CITY OF ANGELS](https://open.spotify.com/track/2bi50NN02pkUKLKphROHd9) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:51 | 2022-08-18 | 2022-10-07 |

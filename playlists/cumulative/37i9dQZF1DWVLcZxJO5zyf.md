@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Juliette
 
-205 songs - 9 hr 33 min
+206 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [CALCINHA](https://open.spotify.com/track/035u3dyaYDS9AXUNLFD5af) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [CALCINHA](https://open.spotify.com/album/4XjW0haEoeMTh7FbKArR6x) | 2:14 | 2022-02-18 | 2022-03-12 |
 | [Cancelaram o Carnaval](https://open.spotify.com/track/3gUs7mbRVLaGAKOcSuUHXU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Cancelaram o Carnaval](https://open.spotify.com/album/7qkynGkf30AuUc7jbPaedY) | 2:21 | 2022-03-18 | 2022-06-04 |
 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 | 2022-08-26 | 2022-12-24 |
+| [Combinadinho](https://open.spotify.com/track/3o1wkALMRxFgotr82yUnSY) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Combinadinho](https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm) | 2:43 | 2023-06-02 |  |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 |  |
 | [Coração de Gelo](https://open.spotify.com/track/5tx0bbEsMwk7luBItngfrX) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Coração de Gelo](https://open.spotify.com/album/6QUWmfP8I7IF2PRhKvDuKS) | 2:34 | 2022-02-04 | 2022-05-07 |
 | [DANÇARINA](https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [CHAMA MEU NOME](https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1) | 1:50 | 2022-02-04 | 2023-02-04 |
@@ -78,7 +79,7 @@
 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 | 2023-01-27 | 2023-03-25 |
 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 | 2022-02-11 | 2022-08-13 |
 | [fugitivos :\)](https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [fugitivos :\)](https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu) | 3:26 | 2022-01-14 | 2022-02-05 |
-| [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 | 2023-03-06 |  |
+| [Fui Eu](https://open.spotify.com/track/0WNvVEICbJHAqNzGFCDbGy) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [ESTEVEZ](https://open.spotify.com/artist/5yH9W1LzE41x3JLYZg3Bkb) | [Maloqueiro Romântico](https://open.spotify.com/album/7Bxps6gouwgh9yoUuDx78K) | 2:32 | 2023-03-06 | 2023-06-03 |
 | [Funcionária do Mês](https://open.spotify.com/track/7Jr6xISYcYlDMA3IaogzE4) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Funcionária do Mês](https://open.spotify.com/album/3spB25PZFR2g6FRa1md26w) | 2:50 | 2022-01-14 | 2022-01-30 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-03 |  |
 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 | 2022-01-14 | 2023-02-04 |

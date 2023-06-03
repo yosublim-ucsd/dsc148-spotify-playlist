@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 159394,
       "name": "BAD",
       "url": "https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp"
@@ -4294,6 +4294,24 @@
       "duration_ms": 151351,
       "name": "Juventus",
       "url": "https://open.spotify.com/track/1IPYFY0PNMUeSLNXM2vcnZ"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0uAosRh2GbvWojGO1DMq5d"
+      },
+      "artists": [
+        {
+          "name": "Carlito Lagangzz",
+          "url": "https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4NVkR10qkADrFrQnQ23l2c"
     },
     {
       "album": {
@@ -9588,6 +9606,24 @@
       "duration_ms": 173836,
       "name": "Volta P\u00e1 Casa",
       "url": "https://open.spotify.com/track/3K0wXTTJiBIuUSRr77IQe2"
+    },
+    {
+      "album": {
+        "name": "Foco",
+        "url": "https://open.spotify.com/album/7yVYfkZn3KzZMlds4WKAzk"
+      },
+      "artists": [
+        {
+          "name": "Azart",
+          "url": "https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "VOLTAS",
+      "url": "https://open.spotify.com/track/3tjDDai6NTO2bGkmvlmvUo"
     },
     {
       "album": {

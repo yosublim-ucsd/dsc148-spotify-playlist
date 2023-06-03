@@ -1,12 +1,12 @@
 {
   "description": "aquele rod\u00edzio de pizza com sushi e frango com farofa do jeitinho q o brasileiro gosta",
-  "num_followers": 364484,
+  "num_followers": 364785,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk3NTA2ODNiMWY5ZjhlNzYwM2YyNGMxYTQyYzczNWE3M2Y5NTFm",
+  "snapshot_id": "MCxjOWExZmE0ZDYwNTc3MTkwMjU1ZDJiNzZmMmNmZGY3MjQ4OTlhZmI2",
   "tracks": [
     {
       "added_at": "2023-06-01 15:28:22",
@@ -299,6 +299,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Confia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 159322,
+      "name": "Lapada Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Vacil\u00e3o",
         "url": "https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 130403,
       "name": "Vacil\u00e3o",
       "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Confia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 159322,
-      "name": "Lapada Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -439,6 +439,30 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "N\u00e3o Para",
+        "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
+      },
+      "artists": [
+        {
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "Charles New",
+          "url": "https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "N\u00e3o Para",
+      "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Zona De Perigo",
         "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
       },
@@ -475,30 +499,6 @@
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "N\u00e3o Para",
-        "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
-      },
-      "artists": [
-        {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        },
-        {
-          "name": "Charles New",
-          "url": "https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "N\u00e3o Para",
-      "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Facilita A\u00ed",
-        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Facilita A\u00ed",
-      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Vai Vendo",
         "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "Facilita A\u00ed",
+        "url": "https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 143830,
+      "name": "Facilita A\u00ed",
+      "url": "https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Nu",
+        "url": "https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "Nu",
+      "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Se Melhorar Estraga (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oITwDGkkWE8RxG8LQ6AV6"
       },
@@ -891,22 +911,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Nu",
-        "url": "https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR"
+        "name": "Cama Embrasa",
+        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         },
         {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 167076,
-      "name": "Nu",
-      "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
+      "duration_ms": 178000,
+      "name": "Cama Embrasa",
+      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -931,26 +951,6 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Cama Embrasa",
-        "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Cama Embrasa",
-      "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 453018,
-      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
-      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 453018,
+      "name": "At\u00e9 Que Durou / Tu Mandas No Meu Cora\u00e7\u00e3o / Adorei / Supera",
+      "url": "https://open.spotify.com/track/1TFqH3zKOiTZoVe0OQuJte"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Boy da Hilux",
         "url": "https://open.spotify.com/album/6NwMc4Vozpc2dJMnVbyDA0"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Piseiro Tocando Alto",
         "url": "https://open.spotify.com/album/0ys6ZnPJnccUAvK4p5L34X"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 108931,
       "name": "Piseiro Tocando Alto",
       "url": "https://open.spotify.com/track/74DKhVs1mFJGpdcpWOntVT"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "No Ouvidinho",
+        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "No Ouvidinho",
+      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1163,26 +1179,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Eu Me Rendo",
-        "url": "https://open.spotify.com/album/4Vtxu380WeNHfIZ2ryBQvb"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "Iguinho e Lulinha",
-          "url": "https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C"
-        }
-      ],
-      "duration_ms": 177972,
-      "name": "Eu Me Rendo (feat. Iguinho e Lulinha)",
-      "url": "https://open.spotify.com/track/37U1pieDm2xSUe8jbb3p6Z"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Deixa Eu Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
       },
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Original, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7rm682SIO62xtzYeJ8Aqxs"
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4Vtxu380WeNHfIZ2ryBQvb"
       },
       "artists": [
         {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Iguinho e Lulinha",
+          "url": "https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C"
         }
       ],
-      "duration_ms": 217509,
-      "name": "Planejei - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tt0kaL2vefCw19a2bk54N"
+      "duration_ms": 177972,
+      "name": "Eu Me Rendo (feat. Iguinho e Lulinha)",
+      "url": "https://open.spotify.com/track/37U1pieDm2xSUe8jbb3p6Z"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Original, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7rm682SIO62xtzYeJ8Aqxs"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 217509,
+      "name": "Planejei - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tt0kaL2vefCw19a2bk54N"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Pagode do Peric\u00e3o II, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Virq85dv3I2i50RwJemfI"
       },
@@ -1251,42 +1267,6 @@
       "duration_ms": 174285,
       "name": "Nosso Amor Quer Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/6styQIEeflfqXDljJLzcen"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "N\u00e3o Manda \u00c1udio",
-        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "N\u00e3o Manda \u00c1udio",
-      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "No Ouvidinho",
-        "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "No Ouvidinho",
-      "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1335,6 +1315,42 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 163038,
+      "name": "Diferent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "N\u00e3o Manda \u00c1udio",
+        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "N\u00e3o Manda \u00c1udio",
+      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Pode Apostar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Diferent\u00e3o - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eYzFUOOiaSq8pp7ftEfX3"
+        "name": "POLLY HITMADO",
+        "url": "https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Oh Pol\u00eamico",
+          "url": "https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW"
         }
       ],
-      "duration_ms": 163038,
-      "name": "Diferent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6KqDX602MYtNGTbSpSzNxd"
+      "duration_ms": 251072,
+      "name": "Pitbull Enraivado",
+      "url": "https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1387,22 +1403,6 @@
       "duration_ms": 182640,
       "name": "Onde Tu Vai Sentar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "POLLY HITMADO",
-        "url": "https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80"
-      },
-      "artists": [
-        {
-          "name": "Oh Pol\u00eamico",
-          "url": "https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW"
-        }
-      ],
-      "duration_ms": 251072,
-      "name": "Pitbull Enraivado",
-      "url": "https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
+        "name": "Welcome To The Mato",
+        "url": "https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL"
+      },
+      "artists": [
+        {
+          "name": "Marco Brasil Filho",
+          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
+        },
+        {
+          "name": "Dj Kevin",
+          "url": "https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Welcome To The Mato",
+      "url": "https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
         "name": "Wesley Safad\u00e3o Ao Vivo em Fortaleza - EP.01",
         "url": "https://open.spotify.com/album/3rlBnUvwFdWTdEzlaakPfg"
       },
@@ -1523,42 +1543,6 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "Welcome To The Mato",
-        "url": "https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL"
-      },
-      "artists": [
-        {
-          "name": "Marco Brasil Filho",
-          "url": "https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb"
-        },
-        {
-          "name": "Dj Kevin",
-          "url": "https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Welcome To The Mato",
-      "url": "https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
         "name": "Ela se Envolve",
         "url": "https://open.spotify.com/album/1hLg8fcSHpGZi052d2ZZdS"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 144043,
       "name": "Ela se Envolve",
       "url": "https://open.spotify.com/track/1dMUsdVtoSLVkaJVMBk8Rk"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1783,18 +1783,30 @@
     {
       "added_at": "2023-06-01 15:28:22",
       "album": {
-        "name": "No Som do Pared\u00e3o",
-        "url": "https://open.spotify.com/album/58datGfKJ5XzmPzCu7WB9W"
+        "name": "Mec Life",
+        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
       },
       "artists": [
         {
-          "name": "Forr\u00f3 Boys",
-          "url": "https://open.spotify.com/artist/0iEEXnLK5t87wh91rNYozv"
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "MC Bob Anne",
+          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
         }
       ],
-      "duration_ms": 191967,
-      "name": "No Som do Pared\u00e3o",
-      "url": "https://open.spotify.com/track/4g4Saf3cpS10gQ7W86rYby"
+      "duration_ms": 195706,
+      "name": "Mec Life",
+      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1815,6 +1827,22 @@
       "duration_ms": 163102,
       "name": "085 RMX",
       "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": "2023-06-01 15:28:22",
+      "album": {
+        "name": "No Som do Pared\u00e3o",
+        "url": "https://open.spotify.com/album/58datGfKJ5XzmPzCu7WB9W"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 Boys",
+          "url": "https://open.spotify.com/artist/0iEEXnLK5t87wh91rNYozv"
+        }
+      ],
+      "duration_ms": 191967,
+      "name": "No Som do Pared\u00e3o",
+      "url": "https://open.spotify.com/track/4g4Saf3cpS10gQ7W86rYby"
     },
     {
       "added_at": "2023-06-01 15:28:22",
@@ -1847,34 +1875,6 @@
       "duration_ms": 114573,
       "name": "S\u00e3o Jo\u00e3o Chegou",
       "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
-    },
-    {
-      "added_at": "2023-06-01 15:28:22",
-      "album": {
-        "name": "Mec Life",
-        "url": "https://open.spotify.com/album/5Dm3FmMinm97vsBU5UtfRx"
-      },
-      "artists": [
-        {
-          "name": "DJ ESCOBAR",
-          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
-        },
-        {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "MC Bob Anne",
-          "url": "https://open.spotify.com/artist/6GMmFqiKnDdTDgxPqcdBg5"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Mec Life",
-      "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
     },
     {
       "added_at": "2023-06-01 15:28:22",

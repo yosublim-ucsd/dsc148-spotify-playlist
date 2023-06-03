@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Harry Nach.",
+  "description": "Flow sudamericano con Gino Mella.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 173793,
       "name": "'Ta Conmigo",
       "url": "https://open.spotify.com/track/4q7VsuFHeglzawWjqNBvgl"
+    },
+    {
+      "album": {
+        "name": "+ Q LA XUXA",
+        "url": "https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160961,
+      "name": "+ Q LA XUXA",
+      "url": "https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50"
     },
     {
       "album": {
@@ -178,6 +196,24 @@
       "duration_ms": 157090,
       "name": "150 Mil",
       "url": "https://open.spotify.com/track/2DFx3pZrvo4Tp3BFU2mHt1"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176130,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS"
     },
     {
       "album": {
@@ -388,6 +424,28 @@
       "duration_ms": 172229,
       "name": "737",
       "url": "https://open.spotify.com/track/6zT237u8Kb2VTtwBVTPpbe"
+    },
+    {
+      "album": {
+        "name": "ALMA",
+        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147603,
+      "name": "8 AM",
+      "url": "https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM"
     },
     {
       "album": {
@@ -1072,7 +1130,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 140000,
       "name": "Alzypher Vol. 12",
       "url": "https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N"
@@ -1368,7 +1426,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 181604,
       "name": "Aunque Me Caigo Me Paro",
       "url": "https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF"
@@ -2514,7 +2572,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 214695,
       "name": "Caminemos de la Mano",
       "url": "https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe"
@@ -5794,7 +5852,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 202760,
       "name": "FE",
       "url": "https://open.spotify.com/track/3wmWPER9TP2RHhBu4VF0zd"
@@ -6156,6 +6214,24 @@
       "duration_ms": 181951,
       "name": "Flow Violento",
       "url": "https://open.spotify.com/track/4J0DlHHZTDZH3heuV05f5u"
+    },
+    {
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3sOFRrSp4OZB6cQ0WjScLb"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237272,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/348hkzsDDBKrBDOMc5b1Qf"
     },
     {
       "album": {
@@ -6962,7 +7038,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 147692,
       "name": "Hice Lo Que Quise",
       "url": "https://open.spotify.com/track/396kLCfCYPErXk1DxhLiPM"
@@ -7110,7 +7186,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 154999,
       "name": "HONG KONG",
       "url": "https://open.spotify.com/track/6kLzCjDUYV9b6jRykKAd8e"
@@ -7506,7 +7582,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 171341,
       "name": "INFIEL",
       "url": "https://open.spotify.com/track/1MFdpnlOR2dKyl4qoT3aU8"
@@ -8078,7 +8154,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 139518,
       "name": "La Chain",
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
@@ -8392,6 +8468,32 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
+    },
+    {
+      "album": {
+        "name": "Beivip",
+        "url": "https://open.spotify.com/album/1pxnHWYPK67qato4SYjNut"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "La Uno",
+      "url": "https://open.spotify.com/track/7lxaZQJVnbChXUDXdKewse"
     },
     {
       "album": {
@@ -9600,7 +9702,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 165750,
       "name": "MARIL\u00da",
       "url": "https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj"
@@ -9912,7 +10014,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 221647,
       "name": "Me Llevas",
       "url": "https://open.spotify.com/track/1GqxhYjCfR5OmjEDzMe4ND"
@@ -10436,7 +10538,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 156734,
       "name": "Mi Washa Loca",
       "url": "https://open.spotify.com/track/60M7pe18zsjQ6vseWoi3PY"
@@ -11135,6 +11237,54 @@
     },
     {
       "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/3C1pdtmQ4LW6Z5ewA13OAy"
+      },
+      "artists": [
+        {
+          "name": "ADIONE",
+          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/3q22GRJJcFSn3DGQmFG0xs"
+    },
+    {
+      "album": {
+        "name": "Municiones",
+        "url": "https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204074,
+      "name": "Municiones",
+      "url": "https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI"
+    },
+    {
+      "album": {
         "name": "Muy Enfierrado",
         "url": "https://open.spotify.com/album/5dTOmRWMGhs8BGwWpVRICI"
       },
@@ -11346,7 +11496,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 139428,
       "name": "Naipe",
       "url": "https://open.spotify.com/track/6HdezDOdd1VIPeR5LzXGzz"
@@ -12640,7 +12790,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 146250,
       "name": "Org\u00e1niko",
       "url": "https://open.spotify.com/track/2FvTM7DCb2rjIPjyLQRXCR"
@@ -13896,7 +14046,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179190,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/0DfOXlt6uochARULQqBajf"
@@ -14772,7 +14922,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179393,
       "name": "Relax",
       "url": "https://open.spotify.com/track/50nOege5wZgsARHydcDt9w"
@@ -15054,7 +15204,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/6QxjQa0Kdf7a1oRrGCQqEX"
@@ -15094,7 +15244,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 171134,
       "name": "Sabor A Miel",
       "url": "https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE"
@@ -15194,7 +15344,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237551,
       "name": "Salgo Pa La Calle (feat. Omar Varela)",
       "url": "https://open.spotify.com/track/4Nc3nDNakJDAcmC8cxSucp"
@@ -15234,7 +15384,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "Salimos Del Tarro",
       "url": "https://open.spotify.com/track/21BoBFBeh49Vrl9DRUsOu8"
@@ -15534,7 +15684,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -16216,7 +16366,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145617,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/7oZLCoxcIMZzBE9hEHCWR0"

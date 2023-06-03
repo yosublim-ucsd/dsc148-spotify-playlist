@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 193714,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/3Vr1DtJ30TMsFZBs9WJIvM"
@@ -2688,6 +2688,24 @@
       "duration_ms": 187200,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
+    },
+    {
+      "album": {
+        "name": "Rhea",
+        "url": "https://open.spotify.com/album/63fo6N6jVdBHz8WSf8CVpk"
+      },
+      "artists": [
+        {
+          "name": "tentasphere",
+          "url": "https://open.spotify.com/artist/2h58DjUDFwVLThGJfwShJs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "Rhea",
+      "url": "https://open.spotify.com/track/6V4IEFjcu0pA54fcP3GqgR"
     },
     {
       "album": {

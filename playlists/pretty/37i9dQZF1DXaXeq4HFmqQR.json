@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDVlNmZjM2Y0MDE1ZjNhNDkxZDAwODEyODUzMGZlZDIxMzU3ZjI4",
+  "snapshot_id": "MCw0NzBmYTJmY2EzZjFlMGI0YzE0OTdkNDA4MmExODI4MjhmMDVjOTM0",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -54,6 +54,10 @@
         {
           "name": "Aura BAE",
           "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
         }
       ],
       "duration_ms": 191739,
@@ -183,18 +187,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "MONA XINA",
-        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
+        "name": "Guilla",
+        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         }
       ],
-      "duration_ms": 152516,
-      "name": "MONA XINA",
-      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
+      "duration_ms": 139428,
+      "name": "Guilla",
+      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -219,18 +223,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
+        "name": "MONA XINA",
+        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
+      "duration_ms": 152516,
+      "name": "MONA XINA",
+      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -303,18 +307,30 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "VATA",
-        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
+        "name": "Mami Trap",
+        "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
       },
       "artists": [
         {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
           "name": "AKRIILA",
           "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Cheskv Liz",
+          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
         }
       ],
-      "duration_ms": 96969,
-      "name": "VATA",
-      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
+      "duration_ms": 220800,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -387,30 +403,18 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Mami Trap",
-        "url": "https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc"
+        "name": "VATA",
+        "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
           "name": "AKRIILA",
           "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Cheskv Liz",
-          "url": "https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X"
+      "duration_ms": 96969,
+      "name": "VATA",
+      "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -567,6 +571,26 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "No Ver\u00e1n",
+        "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
+      },
+      "artists": [
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 205712,
+      "name": "No Ver\u00e1n",
+      "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z"
       },
@@ -587,26 +611,6 @@
       "duration_ms": 227769,
       "name": "Mi Cula (Remix)",
       "url": "https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "No Ver\u00e1n",
-        "url": "https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK"
-      },
-      "artists": [
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 205712,
-      "name": "No Ver\u00e1n",
-      "url": "https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -687,22 +691,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "KTM",
-        "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
-      },
-      "artists": [
-        {
-          "name": "VaniaJoplin",
-          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "KTM",
-      "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "\u00c0 plus",
         "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
       },
@@ -715,6 +703,22 @@
       "duration_ms": 190197,
       "name": "Brillando alto",
       "url": "https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/1K4MCwzabYrHKStunPKVmR"
+      },
+      "artists": [
+        {
+          "name": "VaniaJoplin",
+          "url": "https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3rA2LeNavJ9MyyG1SFhwcD"
     },
     {
       "added_at": "2023-05-03 03:00:00",

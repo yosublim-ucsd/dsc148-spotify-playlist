@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: 10cm) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "num_followers": 258769,
+  "num_followers": 258973,
   "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Nzk5Njk4MmJjOWI3MzJjYTM4MDMyOWJiMzYxYzVhNTAxOTM1M2E4",
+  "snapshot_id": "MCw0ZjRhYWZmZDE2ZmIwZjdhMmUxYWQ0OGJmMWI2ZGJkN2QzNGU1MDJh",
   "tracks": [
     {
       "added_at": "2023-05-15 04:51:05",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "The Dream Chapter: ETERNITY",
-        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 226083,
-      "name": "Maze in the Mirror",
-      "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "Ordinary Confession",
         "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228173,
       "name": "Ordinary Confession",
       "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Maze in the Mirror",
+      "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+        "name": "O_ne",
+        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
       },
       "artists": [
         {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+      "duration_ms": 263453,
+      "name": "How's your night",
+      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "O_ne",
-        "url": "https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C"
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
         }
       ],
-      "duration_ms": 263453,
-      "name": "How's your night",
-      "url": "https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8"
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2023-05-15 04:51:05",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-15 04:51:05",
       "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
-    },
-    {
-      "added_at": "2023-05-15 04:51:05",
-      "album": {
         "name": "When The Wind Blows - SM STATION",
         "url": "https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
+    },
+    {
+      "added_at": "2023-05-15 04:51:05",
+      "album": {
+        "name": "The 3rd EP",
+        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Yesterday You Left Me",
+      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
     }
   ],
   "unique_name": "K-Pop Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shafira Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,764 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,763 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 59 | [Cast Away](https://open.spotify.com/track/1JnceBHlBla6ClLxoXQEdV) | [Comatra](https://open.spotify.com/artist/0wQG0wMIyif5vczfspwiE6) | [Cast Away](https://open.spotify.com/album/3y43dCrO7VaOeY3KdlAsP9) | 4:05 |
 | 60 | [isaac dont pick up the call](https://open.spotify.com/track/6DUubIxyJIqMvift0tLdFG) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s) | [isaac dont pick up the call](https://open.spotify.com/album/14DG2r6BOd4p6WxEs7KsqY) | 1:52 |
 
-Snapshot ID: `MCwyMGZmNDA0ZDljZGQ5MTVmMmM5NTA0ODQxNmQyMzYxYzY0OTY4Yzdl`
+Snapshot ID: `MCxjMjJkY2NiMDQxZjhhZjQyYWNhODEzZjM4YWI3MjBkZDQ0NzcxMmFj`

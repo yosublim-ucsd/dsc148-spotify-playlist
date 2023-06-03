@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Charlotte Cardin",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Helena Deland",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186581,
       "name": "Bruits blancs",
       "url": "https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq"
@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD"
+      },
+      "artists": [
+        {
+          "name": "Alex Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181018,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2"
       },
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 267522,
       "name": "Far From Here",
       "url": "https://open.spotify.com/track/63jeZf8ae05NB2AKpSURk9"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 201634,
       "name": "Flash",
       "url": "https://open.spotify.com/track/6QidTb1L7KCdbLmu7j0WIB"
@@ -2637,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
+        "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Intense City",
+      "url": "https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr"
+    },
+    {
+      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y"
       },
@@ -3144,6 +3180,24 @@
       "duration_ms": 234240,
       "name": "Le calme",
       "url": "https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV"
+    },
+    {
+      "album": {
+        "name": "Air Molo",
+        "url": "https://open.spotify.com/album/2QLSf8BMWjrEun5lhmVjj4"
+      },
+      "artists": [
+        {
+          "name": "le.Panda",
+          "url": "https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "Le Fleuve",
+      "url": "https://open.spotify.com/track/7muEnAc7ijPmWwmYCM7iAG"
     },
     {
       "album": {
@@ -4682,7 +4736,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 342280,
       "name": "Pourtant",
       "url": "https://open.spotify.com/track/1npKOQwxUWDGKQr10Rd8I9"
@@ -4718,7 +4772,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 232115,
       "name": "Prettier Things",
       "url": "https://open.spotify.com/track/1jFAREzr20dvAfkegfEbTV"
@@ -5283,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Spring Bug",
+        "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207928,
+      "name": "Spring Bug",
+      "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "album": {
         "name": "Stand Tall",
         "url": "https://open.spotify.com/album/7AgW641KN9rBQxN6AuVM5f"
       },
@@ -5537,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Bravo!",
+        "url": "https://open.spotify.com/album/6xaz2AoyyNki9QejVb1aZ6"
+      },
+      "artists": [
+        {
+          "name": "Sorry Girls",
+          "url": "https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202446,
+      "name": "The Exiles",
+      "url": "https://open.spotify.com/track/3WzakEyusKz9x4TUxZmLH7"
+    },
+    {
+      "album": {
         "name": "The Leash",
         "url": "https://open.spotify.com/album/5D6d0Wvf10kBGqhf4kHzsz"
       },
@@ -5548,7 +5638,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 252116,
       "name": "The Leash",
       "url": "https://open.spotify.com/track/19xJaRGgOTrrQ7f75MaSkL"
@@ -5783,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Un jour \u00e0 la fois",
+        "url": "https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257420,
+      "name": "Un jour \u00e0 la fois",
+      "url": "https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj"
+    },
+    {
+      "album": {
         "name": "Un soleil toujours",
         "url": "https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh"
       },
@@ -5838,6 +5946,28 @@
       "duration_ms": 184728,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/4SMtKuHmFgx98KizcSCj5m"
+    },
+    {
+      "album": {
+        "name": "Vague de Chaleur",
+        "url": "https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC"
+      },
+      "artists": [
+        {
+          "name": "Bazzart",
+          "url": "https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa"
+        },
+        {
+          "name": "William Papillon",
+          "url": "https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Vague de Chaleur",
+      "url": "https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S"
     },
     {
       "album": {
@@ -6114,7 +6244,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224946,
       "name": "Yuteman Denis (feat. Charlotte Cardin & Zibz)",
       "url": "https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz"

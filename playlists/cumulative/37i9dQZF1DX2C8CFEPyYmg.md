@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2C8CFEPyYmg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2C8CFEPyYmg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2C8CFEPyYmg)
 
-### [Soothing Strings For Sleeping Babies](https://open.spotify.com/playlist/37i9dQZF1DX2C8CFEPyYmg)
+### [Soothing Strings for Sleeping Babies](https://open.spotify.com/playlist/37i9dQZF1DX2C8CFEPyYmg)
 
 > Soothing strings for our sleepy little ones.
 
-438 songs - 13 hr 27 min
+443 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [I Gave my Love a Cherry](https://open.spotify.com/track/3KaA1A8cvZsQQugNj8eQDg) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [I Gave my Love a Cherry](https://open.spotify.com/album/39h04qkVfRj1wRNcDEgF2J) | 1:42 | 2023-05-19 |  |
 | [I Jump To Grab A Star](https://open.spotify.com/track/1DPotsjdKBF7HicSOwvGt2) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I Jump To Grab A Star](https://open.spotify.com/album/12Rms3EhCNA2N1OLmbffy3) | 2:55 | 2022-12-23 | 2023-05-19 |
 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 | 2023-05-19 |  |
+| [I Love Us](https://open.spotify.com/track/0FlxHJjxFQNjQMyvXlZPpY) | [Deanna Lyles](https://open.spotify.com/artist/4jwsZTsLuuek8koKSClnDw) | [I Love Us](https://open.spotify.com/album/6MC8GrQKb0kfjHWzBRYtyL) | 1:24 | 2023-06-02 |  |
 | [I Stay Until You Sleep](https://open.spotify.com/track/4RbBxl2t2gLPcs465yX4pP) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [I Stay Until You Sleep](https://open.spotify.com/album/137c1tSYODEXlIFdAOebp3) | 4:02 | 2022-08-11 | 2023-04-22 |
 | [I stilhed](https://open.spotify.com/track/2xy71tw29P53B6jO3w69T2) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [I stilhed](https://open.spotify.com/album/65sy3rMMNGNAYEqxtTJzrr) | 2:07 | 2023-02-17 |  |
 | [I trollskogen](https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [I trollskogen](https://open.spotify.com/album/1vC9LVXA3ifzigFY332i0q) | 1:37 | 2022-11-25 |  |
@@ -199,6 +200,7 @@
 | [Joyful Dreams](https://open.spotify.com/track/1FF6kQGLkSexxQ0FxWPCCL) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Joyful Dreams](https://open.spotify.com/album/2jOyYbb3igxJOMidFYCePu) | 1:23 | 2022-08-11 |  |
 | [Juliette la rainette](https://open.spotify.com/track/4SEwRdM99oGODGD957dnFf) | [Alexandrie Giguère](https://open.spotify.com/artist/6v3qBiSqMtyHBXHB5kUYuU) | [Juliette la rainette](https://open.spotify.com/album/4BIX2mOOLCEq1sjZxKdkgy) | 1:24 | 2022-08-11 |  |
 | [Jumpin Bumpin Bounce](https://open.spotify.com/track/7a2OEKKGw9vO3aYIIoRvcF) | [Boris Vlašic](https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ) | [Jumpin Bumpin Bounce](https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw) | 3:16 | 2022-08-11 | 2022-10-29 |
+| [Jumping In The Puddle](https://open.spotify.com/track/6N3Tx16SWULq3znz9FuYST) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Jumping In The Puddle](https://open.spotify.com/album/1NUyIqfTSOXBpHToFy0Kpg) | 2:06 | 2023-06-02 |  |
 | [Kling och klang](https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Kling och klang](https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe) | 2:27 | 2022-08-11 |  |
 | [La Magia del Alma](https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [La Magia del Alma](https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py) | 2:04 | 2022-08-11 | 2023-05-19 |
 | [La Vie En Rose](https://open.spotify.com/track/1ARtrIphQA80XDVp4rZpyv) | [Troll Woods](https://open.spotify.com/artist/5KXlJyBOkWpXv4lO68O0CA) | [La Vie En Rose](https://open.spotify.com/album/2yMv8Q79GKK3nSoH1o1h1D) | 1:38 | 2023-03-17 |  |
@@ -248,6 +250,7 @@
 | [Moon Light](https://open.spotify.com/track/58jyu4SUTC7OqvKaWOtY46) | [Merlin Allsopp](https://open.spotify.com/artist/37hx9bkkuBbG9n991iw27h) | [Moon Light](https://open.spotify.com/album/2uI58czxwcUQC4Zbr30xi8) | 1:33 | 2022-11-25 |  |
 | [Moon River](https://open.spotify.com/track/3J6dgORs9qkS4nJwctiMdp) | [Emilee Ness](https://open.spotify.com/artist/1fPd9o5MEt6E49AnWODQ7M) | [Sov På Min Arm](https://open.spotify.com/album/7GySg5RGGfASZpjTZn07vG) | 1:22 | 2023-02-17 |  |
 | [Moonchild](https://open.spotify.com/track/1lLcowZxEQAxUUrVsQmtmM) | [Lucy H Williams](https://open.spotify.com/artist/1I2p8bUKoWVc9JxNwDfG6Y) | [Moonchild](https://open.spotify.com/album/6UlvUbYKOTJdnGSGiz3EOl) | 1:39 | 2022-08-11 | 2022-09-23 |
+| [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 | 2023-06-02 |  |
 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 | 2022-08-11 | 2023-04-22 |
 | [Morning Has Broken](https://open.spotify.com/track/1o9wSgY433ioAFNZ8jU71C) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Morning Has Broken](https://open.spotify.com/album/6wSSK8A5xa7hsmF9IgKVJ1) | 1:55 | 2023-05-19 |  |
 | [Morning will come](https://open.spotify.com/track/1nD0qnUnr91DryAr98Y5Vk) | [Granville Anderson](https://open.spotify.com/artist/4s404Rqm5KCM94kqRVVzPg) | [Morning will come](https://open.spotify.com/album/5PO7e023gWC6eVYe5PV6HG) | 1:37 | 2022-08-11 |  |
@@ -333,6 +336,7 @@
 | [So Many Stars](https://open.spotify.com/track/54Mmafmblu61obktO4hibb) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 2:55 | 2022-08-11 |  |
 | [Sol, Vind Och Vatten](https://open.spotify.com/track/25965GjEebgh84GJuk4mjn) | [Eloise Gardner](https://open.spotify.com/artist/7AlKxvAw1X6hclw7qoDEqz) | [Sol, Vind Och Vatten](https://open.spotify.com/album/1nlRf8ZrcsMT8QSrwoAjAw) | 1:44 | 2023-02-17 | 2023-05-19 |
 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Sia Bradley](https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 | 2023-01-20 |  |
+| [Something There](https://open.spotify.com/track/6tIIdGntB4kn9eWgbk1gsg) | [Elin Svensson](https://open.spotify.com/artist/7B1EUSbXfPfvKyuYlO0SYp) | [Something There](https://open.spotify.com/album/7lk5RkoZ2k0JNLIIHj7zZh) | 2:03 | 2023-06-02 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1ttWM9cbhZWmrjiE1VpLw1) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Somewhere Over The Rainbow](https://open.spotify.com/album/3fAP4yyaXCuDFz6wMeJDyM) | 2:19 | 2023-02-17 |  |
 | [Sommerdrøm](https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sommerdrøm](https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0) | 1:16 | 2023-03-17 |  |
 | [Song Of The Small Bear](https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP) | [Jacob Radcliff](https://open.spotify.com/artist/48yYO2xrZxzM3xEjDujE0d) | [Song Of The Small Bear](https://open.spotify.com/album/7v3O7qxke2x91cxQDmUv8G) | 1:44 | 2022-08-11 |  |
@@ -429,6 +433,7 @@
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-08-11 |  |
 | [White Pyjamas](https://open.spotify.com/track/2dsE2HXXX88x38idJQ6Nhh) | [Tyler Abney](https://open.spotify.com/artist/4eMNLIDXtUKtztNhEVr8tY) | [White Pyjamas](https://open.spotify.com/album/7E1S7PPtG3jSPfOkV92QZL) | 1:31 | 2022-08-11 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/430vTXvfipiOzgWFAkfNDB) | [Espen Ahl](https://open.spotify.com/artist/6s99Zvn7tubqMmfawFW3vW) | [White Winter Hymnal](https://open.spotify.com/album/3hR33q1nVK9ENI5WXxtcWf) | 2:20 | 2022-09-22 |  |
+| [Winnie the Pooh](https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe) | [Lola Hides](https://open.spotify.com/artist/3gquuIaOSVVh8knCaQXV1w) | [Winnie the Pooh](https://open.spotify.com/album/7I09xkoJdR1blurIQDUXIi) | 1:43 | 2023-06-02 |  |
 | [Wished For, Longed For](https://open.spotify.com/track/2BNXwUiXFLrdiTlyANDjya) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Wished For, Longed For](https://open.spotify.com/album/2xmYOx5eA0iWLY7OQSMPBS) | 2:41 | 2023-01-20 |  |
 | [With My Toes In The Lake](https://open.spotify.com/track/6K8gN2HJJbeRSHnawuyAHl) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [With My Toes In The Lake](https://open.spotify.com/album/1ROYUuVzjEENXzPTwD8MBf) | 1:37 | 2022-08-11 |  |
 | [With You By My Side](https://open.spotify.com/track/6UFjCV3KcMHjq4J96IVXrL) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [With You By My Side](https://open.spotify.com/album/4JTWjznbMaz9ALtqE4LLAw) | 1:48 | 2022-08-11 |  |

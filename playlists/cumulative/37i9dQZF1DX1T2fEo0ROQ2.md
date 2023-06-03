@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-401 songs - 21 hr 0 min
+402 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Ending In Mist](https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Ending In Mist](https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3) | 3:04 | 2022-08-05 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2022-05-26 |  |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
+| [Esoteric](https://open.spotify.com/track/4vqWzfK3IIE0HwEbAtcUGk) | [Sirozza](https://open.spotify.com/artist/5wGpeSaToESKYtSW5Is674) | [Esoteric](https://open.spotify.com/album/4HSJhq19oCN0NHVHZUrOb8) | 2:43 | 2023-06-02 |  |
 | [Esther Island](https://open.spotify.com/track/5Lli2PWFMf07nGTgmS4dI2) | [Everaire](https://open.spotify.com/artist/1XXCZ1aVZDPxP4pXYm3YfV) | [Esther Island](https://open.spotify.com/album/2u0AamZdPXUXqM8dB0wmQA) | 2:53 | 2022-12-02 |  |
 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 | 2022-05-26 |  |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2022-05-26 |  |
@@ -188,7 +189,7 @@
 | [Kaikoura](https://open.spotify.com/track/6VbbLSIgEMklrpKjdhwtpF) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Kaikoura](https://open.spotify.com/album/6GdrIIHxUkFJWYhOEYsKC5) | 3:15 | 2022-12-02 |  |
 | [Kamala Whispers](https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Kamala Whispers](https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR) | 2:18 | 2023-04-07 |  |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-05-26 |  |
-| [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2022-05-26 |  |
+| [Kvikkjokk](https://open.spotify.com/track/5fqtStRCkILhIDMdQFyg9K) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 3:21 | 2022-05-26 | 2023-06-03 |
 | [Lacertae](https://open.spotify.com/track/5hIzQvHumDF2AVVgv6eXZs) | [Poppy Robson](https://open.spotify.com/artist/0KVvMwaSeA2MtZyHV9aH4o) | [Lacertae](https://open.spotify.com/album/61kE0QSkTIhy2PZ3qj2CrH) | 3:07 | 2022-06-16 |  |
 | [Lacuna](https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Lacuna](https://open.spotify.com/album/6cfCcvxN1aCYWgkl5H1YSB) | 3:09 | 2022-05-26 |  |
 | [Lakeshore](https://open.spotify.com/track/5NRhAVJrW5o4FK1OKKgbgQ) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Frostbite](https://open.spotify.com/album/0R3T36NUjlBouJiz4OK1h2) | 2:30 | 2022-05-26 | 2023-03-04 |

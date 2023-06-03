@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Joost, Otto Waalkes
 
-940 songs - 1 day 20 hr 56 min
+941 songs - 1 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-20 | 2022-11-11 |
 | [Polly Pocket](https://open.spotify.com/track/6CFtBCvcEVuhiWCvd1b0r4) | [Nya Polo](https://open.spotify.com/artist/7cAgZXBekLII0vU3Q4V2qS) | [Polly Pocket](https://open.spotify.com/album/0hRfkP9Nz3HMVs26xBeIpF) | 2:49 | 2023-05-11 | 2023-05-26 |
 | [POOL](https://open.spotify.com/track/0FOiymr4EaIZio96IYCxoj) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Themba](https://open.spotify.com/artist/3S4BtEcxyyMFyJpDy5GfV3) | [MADEIRA MADNESS](https://open.spotify.com/album/1UpIYat89xq5ivr1CzpDKl) | 2:53 | 2022-10-13 | 2022-11-04 |
+| [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-01 |  |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-04-27 |  |
 | [Power Ranger](https://open.spotify.com/track/2HEPWGriMpXtjoXdWLXbzH) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Power Ranger](https://open.spotify.com/album/45JUiVN0SLNlC0EtwWM3Zd) | 2:18 | 2023-01-19 | 2023-02-03 |
 | [Powerade](https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Powerade](https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE) | 2:22 | 2022-06-09 | 2022-09-30 |

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: CMAT
 
-1,542 songs - 3 day 19 hr 27 min
+1,543 songs - 3 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1500,6 +1500,7 @@
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2022-07-08 |
 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 | 2022-07-01 | 2022-09-09 |
 | [White Dress](https://open.spotify.com/track/4Hl9rOqYomojCmxYfr25im) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:33 | 2021-03-19 | 2021-04-16 |
+| [Who Is Afraid Of Blue](https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:35 | 2023-06-02 |  |
 | [Whoosh](https://open.spotify.com/track/5le8Gs9XT4As7UAs084mIg) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Whoosh](https://open.spotify.com/album/0z4w9hOCgHQDL20sLXWMuS) | 2:44 | 2020-10-02 | 2021-03-09 |
 | [Widow](https://open.spotify.com/track/3rp4zud6BsKASB1RsVXM3m) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Widow](https://open.spotify.com/album/2hToqbk4QAfI4fhUKFlr7F) | 3:54 | 2022-03-25 | 2022-05-20 |
 | [Widows](https://open.spotify.com/track/7uekrO5T87CllybcQdhRVd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Driving Just To Drive](https://open.spotify.com/album/28DLjjQKZ9qRvKFSu5Y7QM) | 3:48 | 2023-04-27 |  |

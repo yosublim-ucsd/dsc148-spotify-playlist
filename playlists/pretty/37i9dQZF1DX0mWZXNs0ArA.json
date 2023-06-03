@@ -1,12 +1,12 @@
 {
-  "description": "",
-  "num_followers": 1522166,
+  "description": "150%",
+  "num_followers": 1524880,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2Q3OTQwZjdiNDdkNjY0ZTBhZGQ5NmM2MWZkM2FjNTdhZjMzYzNl",
+  "snapshot_id": "MCxlOGMxN2IzNjI5ZGQyM2IyZDllYzkxYWJhOTYyYTVmMGZmZmJmZWNl",
   "tracks": [
     {
       "added_at": "2023-05-22 14:41:15",
@@ -275,6 +275,22 @@
       "duration_ms": 167658,
       "name": "Those Eyes - Sped Up",
       "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "In The Stars (Sped Up)",
+        "url": "https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 170505,
+      "name": "In The Stars - Sped Up",
+      "url": "https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -931,26 +947,6 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "Cool for the Summer [Sped Up (Nightcore)]",
-        "url": "https://open.spotify.com/album/410MZofhiv240ybaWhUxpc"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Cool for the Summer - Sped Up (Nightcore)",
-      "url": "https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
         "name": "the way you looked - sped up / slowed",
         "url": "https://open.spotify.com/album/7zc8cMAGuUBE4oHbdSbpV6"
       },
@@ -1067,18 +1063,26 @@
     {
       "added_at": "2023-05-22 14:41:15",
       "album": {
-        "name": "Under the Influence (Sped Up) - Your Body Language Speaks to Me",
-        "url": "https://open.spotify.com/album/0zJyKDyf1ukaR3TD8mYHTy"
+        "name": "Under the Influence (Sped Up)",
+        "url": "https://open.spotify.com/album/22XVSTUct9mrBprysq3cC7"
       },
       "artists": [
         {
-          "name": "Hiko",
-          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+          "name": "Nawrras Music",
+          "url": "https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y"
+        },
+        {
+          "name": "Speed Up Unlimited",
+          "url": "https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95"
+        },
+        {
+          "name": "Abra Salem",
+          "url": "https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6"
         }
       ],
-      "duration_ms": 123814,
-      "name": "Under the Influence (Sped Up) - Your Body Language Speaks to Me",
-      "url": "https://open.spotify.com/track/3qG3S4Ptt7EFCtKi5ZroG2"
+      "duration_ms": 133668,
+      "name": "Under the Influence - Sped Up",
+      "url": "https://open.spotify.com/track/6SUIrlOC0OhDzH6qp0Pwcl"
     },
     {
       "added_at": "2023-05-22 14:41:15",

@@ -1,12 +1,12 @@
 {
   "description": "Puras morras rifadas. \u00a1S\u00fabele al volumen! En portada: Vondr\u00e9",
-  "num_followers": 7042,
+  "num_followers": 7066,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmEyYjBjZGJhMGNkMjg4NjVmNTdhNWEzZmIzOTM2MzJlYTRlMjA0",
+  "snapshot_id": "MCwyNWI1OTg1ZTM3OWJiMmZlNjAzM2FlYzI5NjczY2Q1NTk5OGU3Mjdi",
   "tracks": [
     {
       "added_at": "2023-05-15 15:55:42",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "No era para tanto",
-        "url": "https://open.spotify.com/album/5YbzZLp4ooWjIbgefT7CnM"
+        "name": "L\u00c1 L\u00c1",
+        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 231627,
-      "name": "No era para tanto",
-      "url": "https://open.spotify.com/track/62m3GKHn5Q6d7Qnt6RBcSk"
+      "duration_ms": 164095,
+      "name": "L\u00c1 L\u00c1",
+      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "L\u00c1 L\u00c1",
-        "url": "https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x"
+        "name": "No era para tanto",
+        "url": "https://open.spotify.com/album/5YbzZLp4ooWjIbgefT7CnM"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 164095,
-      "name": "L\u00c1 L\u00c1",
-      "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+      "duration_ms": 231627,
+      "name": "No era para tanto",
+      "url": "https://open.spotify.com/track/62m3GKHn5Q6d7Qnt6RBcSk"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Paralizado",
-        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Paralizado",
-      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
         "name": "Soda de Uva",
         "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 154576,
       "name": "\u00bfCu\u00e1ndo Pero Cu\u00e1ndo?",
       "url": "https://open.spotify.com/track/3LV2ZZW474RFPJFJolaJLZ"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
+        "name": "Paralizado",
+        "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Paralizado",
+      "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
+        "name": "tuviste",
+        "url": "https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "tuviste",
+      "url": "https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
         "name": "Let Me Do One More",
         "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 284809,
       "name": "u v v p (feat. Buck Meek)",
       "url": "https://open.spotify.com/track/3WjjfLHUHM2an4j5NkjGUa"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
-        "name": "tuviste",
-        "url": "https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl"
     },
     {
       "added_at": "2023-05-15 15:55:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-15 15:55:42",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
-      },
-      "artists": [
-        {
-          "name": "Norwayy",
-          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
-    },
-    {
-      "added_at": "2023-05-15 15:55:42",
-      "album": {
         "name": "La Ciudad Que Dejamos",
         "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 274414,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3"
+    },
+    {
+      "added_at": "2023-05-15 15:55:42",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5"
+      },
+      "artists": [
+        {
+          "name": "Norwayy",
+          "url": "https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f"
     },
     {
       "added_at": "2023-05-15 15:55:42",

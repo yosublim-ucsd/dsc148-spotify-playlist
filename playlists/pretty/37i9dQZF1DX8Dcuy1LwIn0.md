@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 
 > The best in recent hits from your favorite  Contemporary Christian artists all in one list\.  Sit back and let it play!  Cover: Matt Maher
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,254 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,264 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dcuy1LwIn0.md) - [plain]
 | 44 | [The Cross Has the Final Word](https://open.spotify.com/track/0LPiTwaf28kZyrDTQPjuV3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW), [Peter Furler](https://open.spotify.com/artist/6xShY4pstJdzVCrWyeqbCL) | [The Cross Has the Final Word](https://open.spotify.com/album/4uhp1XazR7Ri0JmW1d0L00) | 3:41 |
 | 45 | [He Always Wins](https://open.spotify.com/track/2wVA4sr9udqGhPtm83M4EN) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Matt Hammitt](https://open.spotify.com/album/74QTqE5vbEGP0M6012yyos) | 4:12 |
 | 46 | [Real Love](https://open.spotify.com/track/6IDublzxvKOiKi8ZmlPHOL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:52 |
-| 47 | [You're Gonna Be OK \- Radio Version](https://open.spotify.com/track/2bU8srYdcvGhJ9G0MtyLF3) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [You're Gonna Be OK \(Radio Version\)](https://open.spotify.com/album/042O956okRqRTqSr6Owa6J) | 3:37 |
+| 47 | [You're Gonna Be Ok \- Radio Version](https://open.spotify.com/track/2bU8srYdcvGhJ9G0MtyLF3) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [You're Gonna Be Ok \(Radio Version\)](https://open.spotify.com/album/042O956okRqRTqSr6Owa6J) | 3:37 |
 | 48 | [Spirit Of The Living God \(Radio Edit\)](https://open.spotify.com/track/0ZyahJmVL6LinKWKpczdXB) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Spirit Of The Living God \(Radio Edit\)](https://open.spotify.com/album/1LXaJOiWPLNMk5jfh9xAUr) | 4:06 |
 | 49 | [No One Like Our God](https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [No One Like Our God](https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR) | 4:09 |
 | 50 | [I Won't Let You Go](https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [I Won't Let You Go](https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R) | 4:07 |
 
-Snapshot ID: `MCxjMjRkN2U2NzI3N2E1ZGU4YWVjNDU4NGY5NmY4YmU5OGVkNmRjOTcz`
+Snapshot ID: `MCxlMzExMjNmNDU2NDhhNTZhYmFmYmFjMzE5ZWIwOWQzNWVmY2FjZjQ4`

@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 119034,
       "name": "Alla ska sova f\u00f6r nu \u00e4r det natt",
       "url": "https://open.spotify.com/track/4G5KQTrgJX9Io58KbCY3gy"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 106973,
       "name": "Alla vi barn i Bullerbyn",
       "url": "https://open.spotify.com/track/33hKjKbqKABTo3wRDVebp4"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 98000,
       "name": "Bj\u00f6rnen sover",
       "url": "https://open.spotify.com/track/2179FfIqKBSjRq5fjjUuJX"
@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/0KDTovzrkdvYgiYnTlW1ow"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lloyd",
+          "url": "https://open.spotify.com/artist/2rxmb9Wqs2GFwtlCeaJkHx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191887,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/4k8PsNke200tm0FxrtT02X"
+    },
+    {
+      "album": {
         "name": "Deep Blue Sky",
         "url": "https://open.spotify.com/album/5vtAh1OudwHUiwtGs6aeED"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 110448,
       "name": "Den blomstertid nu kommer",
       "url": "https://open.spotify.com/track/5LvHG0ItC54Tue5XmOinfn"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 79665,
       "name": "En kulen natt",
       "url": "https://open.spotify.com/track/08IdJf3DFg1uBLGjt7FGhO"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 72874,
       "name": "En liten b\u00e5t",
       "url": "https://open.spotify.com/track/1fvMQNbu7yX0h85ZEi0WxW"
@@ -3044,6 +3062,24 @@
       "duration_ms": 134811,
       "name": "G'night My Love",
       "url": "https://open.spotify.com/track/2rOwgklfd427LFRZjQH72P"
+    },
+    {
+      "album": {
+        "name": "The Sleepy Land",
+        "url": "https://open.spotify.com/album/6AJtiNfmuWfqyfhk3rPYb7"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108281,
+      "name": "Gently Dreaming",
+      "url": "https://open.spotify.com/track/7mK7LYIBsdP25WGsYHM06l"
     },
     {
       "album": {
@@ -3778,7 +3814,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 77829,
       "name": "Hujedamej s\u00e5nt barn han var",
       "url": "https://open.spotify.com/track/0B3aR4unKE3LmioY2GjSdK"
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 103197,
       "name": "Hush My Little Child",
       "url": "https://open.spotify.com/track/36LrbV85C89X3hSbXVNu6S"
@@ -4786,7 +4822,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 86373,
       "name": "Liten vaggvisa",
       "url": "https://open.spotify.com/track/5b29ygGm7He52E94AeAFzE"
@@ -5290,7 +5326,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 83210,
       "name": "Mamma och barn",
       "url": "https://open.spotify.com/track/6QZB9eUAqytlLyfFcEFO0Z"
@@ -5420,6 +5456,24 @@
       "duration_ms": 176791,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0QYKiEyJptH4BP5XxiWPRF"
+    },
+    {
+      "album": {
+        "name": "Merrily we march",
+        "url": "https://open.spotify.com/album/4OdJxP9v6mpnwxmlpNRKXo"
+      },
+      "artists": [
+        {
+          "name": "Amina Barnes",
+          "url": "https://open.spotify.com/artist/29qIZoNWKuYY82fF9EjB3P"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119671,
+      "name": "Merrily we march",
+      "url": "https://open.spotify.com/track/35EJ5Ifb9AN5xUogT87y8F"
     },
     {
       "album": {
@@ -5668,7 +5722,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 51284,
       "name": "Mors Lilla Olle - Piano Version",
       "url": "https://open.spotify.com/track/77X9hoxQd2nmxNbLqniA9Z"
@@ -6298,7 +6352,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 123145,
       "name": "N\u00e4r mamma var liten",
       "url": "https://open.spotify.com/track/19ZyJbKrgEOGb47SDJgCDu"
@@ -7036,7 +7090,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 117330,
       "name": "Rock-A-Bye Baby (Piano Version)",
       "url": "https://open.spotify.com/track/6WuXpEDnevdok1wn7VxiHO"
@@ -7090,7 +7144,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 91231,
       "name": "R\u00f6vers\u00e5ngen",
       "url": "https://open.spotify.com/track/20mCWm7oKXLutGE47jTCnC"
@@ -7756,7 +7810,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 106507,
       "name": "Sol, vind och vatten",
       "url": "https://open.spotify.com/track/7rvHEW5eMTnM80dNUTpTOb"
@@ -7936,7 +7990,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 135437,
       "name": "Sov s\u00e5 gott",
       "url": "https://open.spotify.com/track/46vrQs8tIYWxCB4DBknc7k"
@@ -8098,7 +8152,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 109801,
       "name": "Supercalifragilisticexpialidocious",
       "url": "https://open.spotify.com/track/1TkbTWOVowgdzIS3juJb4v"
@@ -8170,7 +8224,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 57174,
       "name": "Teddybj\u00f6rnen Fredriksson",
       "url": "https://open.spotify.com/track/3ysifvqGtUHRrac14vmnK0"
@@ -9268,7 +9322,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 88760,
       "name": "Vart ska du g\u00e5?",
       "url": "https://open.spotify.com/track/6aoI8F4a2DZ0iVBf9z7xuf"

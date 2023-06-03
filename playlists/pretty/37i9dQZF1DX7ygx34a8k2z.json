@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 138634,
+  "num_followers": 138930,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjYyZTk2NDYzOWQyOWVmNDgyYjQ2MThhNDk5ODVkZTAyMWZiMmY3",
+  "snapshot_id": "MCw3MzI3YWIyYjJjMzI5M2FjZmE3NmMxMjI5NWJjMGIyZGI5ODc4Mzdm",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Kerosene Hat",
-        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
-      },
-      "artists": [
-        {
-          "name": "Cracker",
-          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 322040,
       "name": "Grace",
       "url": "https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Kerosene Hat",
+        "url": "https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO"
+      },
+      "artists": [
+        {
+          "name": "Cracker",
+          "url": "https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Only Happy When It Rains",
-      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Kill the Moonlight",
         "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 159386,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 215825,
-      "name": "French Disko",
-      "url": "https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Under the Western Freeway",
         "url": "https://open.spotify.com/album/32xzfjENpVMzOCMAiiY1YA"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 200666,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/60SskFg8mhPrzBLLZJ1BK7"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT"
     },
     {
       "added_at": "2023-01-10 19:08:23",

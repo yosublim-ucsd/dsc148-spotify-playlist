@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-237 songs - 8 hr 2 min
+238 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Midnight Menuette](https://open.spotify.com/track/0C8SeH9vQP6gB4B9DsCnnq) | [Schlaf Hilfe](https://open.spotify.com/artist/0jcfbSKBBWLP199T78UyOt) | [Midnight Menuette](https://open.spotify.com/album/0ldXfVn53sgwykfOq1DeJj) | 1:41 | 2021-11-11 |  |
 | [Midnight Stars](https://open.spotify.com/track/3AuEiYI7R0iboNJxdHa9Sr) | [Gary the Canary](https://open.spotify.com/artist/0grdiHwZLQCROzeAPQzNFY) | [Fairy Snail Tale](https://open.spotify.com/album/0UbO9GlYl22DqBaMUkpPaw) | 2:53 | 2023-02-17 |  |
 | [Moonlight](https://open.spotify.com/track/6HjGZns9Umkfllzifv5Cxx) | [Marius Hallman](https://open.spotify.com/artist/0UPmd3m1jLjkDWZVdIMsel) | [Moonlight](https://open.spotify.com/album/55KSFSpaZ22Bfdp9avt9zE) | 1:19 | 2021-11-11 | 2023-01-28 |
+| [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 | 2023-06-02 |  |
 | [Mother's Waltz](https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Mother's Waltz](https://open.spotify.com/album/1n9x0IjxN4hWtOqtp19HLZ) | 1:55 | 2021-11-11 |  |
 | [My Bed](https://open.spotify.com/track/4EsDXeCeFgLEEDMQGBIXSj) | [The Easy Peasy](https://open.spotify.com/artist/4ABRagNQJwJqLUxgQw2WM2) | [My Bed](https://open.spotify.com/album/3PKwLGdrqdjdVshN4H0PUu) | 1:14 | 2021-11-11 | 2023-04-26 |
 | [My Bonnie Lies Over the Ocean](https://open.spotify.com/track/1IEJzJhBH5EUExBZRNr90E) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:45 | 2021-11-11 |  |

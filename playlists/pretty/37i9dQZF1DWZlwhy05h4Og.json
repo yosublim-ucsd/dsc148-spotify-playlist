@@ -1,12 +1,12 @@
 {
   "description": "The sweetest bops. Cover: (G)I-DLE",
-  "num_followers": 32281,
+  "num_followers": 32406,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDVlNjExY2U0NjM1NjA2MTMzNmYwOWYxY2EwMDNlOTllNGRkMWJl",
+  "snapshot_id": "MCxmYzdjMWU1YzMwNzY1NWRjYzMwZDNiZDA4MGExMjk3YWYwN2E0Mzg3",
   "tracks": [
     {
       "added_at": "2023-05-15 23:13:04",
@@ -39,6 +39,22 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "me, my girls & i",
+        "url": "https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "duration_ms": 149512,
+      "name": "me, my girls & i",
+      "url": "https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU"
     },
     {
       "added_at": "2023-05-15 23:13:04",
@@ -863,22 +879,6 @@
       "duration_ms": 177720,
       "name": "Keeping Tabs",
       "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2023-05-15 23:13:04",
-      "album": {
-        "name": "SO WHAT",
-        "url": "https://open.spotify.com/album/3D6M63EmnCN1v4owYNnwFW"
-      },
-      "artists": [
-        {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
-        }
-      ],
-      "duration_ms": 136004,
-      "name": "SO WHAT",
-      "url": "https://open.spotify.com/track/1kMGYdQmHWU8uiBo8h9yez"
     },
     {
       "added_at": "2023-05-15 23:13:04",

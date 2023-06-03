@@ -228,7 +228,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197080,
       "name": "4SEASONS",
       "url": "https://open.spotify.com/track/6kahpDP8SCtBZtuFi6dKm2"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 202158,
       "name": "8 O 8",
       "url": "https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2"
@@ -836,6 +836,24 @@
       "duration_ms": 134475,
       "name": "Beach Boys",
       "url": "https://open.spotify.com/track/0aHcPO9MloEnchhbBAZeIa"
+    },
+    {
+      "album": {
+        "name": "BEEN A MINUTE",
+        "url": "https://open.spotify.com/album/4DittqvsbGb2fZb6wCFiJG"
+      },
+      "artists": [
+        {
+          "name": "LXXIV",
+          "url": "https://open.spotify.com/artist/2VODsbG4u2ixw0AqOs7fnY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100219,
+      "name": "BEEN A MINUTE",
+      "url": "https://open.spotify.com/track/1gW2jn81vi8PNrkOvhrV5f"
     },
     {
       "album": {
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 144000,
       "name": "BOMBS AWAY",
       "url": "https://open.spotify.com/track/6JOw76PRfcxW6Vkaav9tjr"
@@ -3492,6 +3510,28 @@
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+    },
+    {
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4HHG7br8173ZfJkhYfLWv5"
+      },
+      "artists": [
+        {
+          "name": "Hanislip",
+          "url": "https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F"
+        },
+        {
+          "name": "BLACK ARISTO",
+          "url": "https://open.spotify.com/artist/2oQnLAPqu0DBf2BHGTOXvY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136579,
+      "name": "GILGAMESH",
+      "url": "https://open.spotify.com/track/1COJYeChm37jTZWFAGfdcB"
     },
     {
       "album": {
@@ -7808,6 +7848,24 @@
       "duration_ms": 143105,
       "name": "Stick Out When I'm Live",
       "url": "https://open.spotify.com/track/7MINVWP52eYRpaKZeMrjVP"
+    },
+    {
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6xn0UHdx3teWPJcblsCeLl"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178983,
+      "name": "STORM",
+      "url": "https://open.spotify.com/track/1hLu8lAkeGXsvbQ7KjLNB7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,923 likes - 104 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,942 likes - 104 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 74 | [Promise](https://open.spotify.com/track/6XUH3f6pfvszR8Z9cQGl1D) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Promise](https://open.spotify.com/album/06VVEg6ZKBSdffLW55bLId) | 4:28 |
 | 75 | [The Lord Is My Strength](https://open.spotify.com/track/2h3ijpjDCPUT8Xk0dSamdP) | [Winter Lines](https://open.spotify.com/artist/4nn7aCP8zkNozTIk0corHJ) | [The Lord Is My Strength](https://open.spotify.com/album/5yp8ku9AspiR681MinboV9) | 3:03 |
 | 76 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
-| 77 | [Change My Heart, Oh God](https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj) | 5:24 |
+| 77 | [Change My Heart, Oh God](https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr) | [Lyle Lopez](https://open.spotify.com/artist/5PEXx58BRuOq6D3CbBnx5M) | [Burst into Songs Ministries](https://open.spotify.com/album/4ReU3oj9zCbpLm42d70cRY) | 5:24 |
 | 78 | [Sinasamba Kita](https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH) | [Benjamin Angeles](https://open.spotify.com/artist/3xvz4vKojMUraZ8aR92Hbx) | [Sinasamba Kita](https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM) | 4:16 |
 | 79 | [Panaginip](https://open.spotify.com/track/5AzItYJaYpu36CTSK9ZvKj) | [Sasaya](https://open.spotify.com/artist/0nTnDnS4mFcZHI2O8OmZ3u) | [Panaginip](https://open.spotify.com/album/6BLaL8oRhm8AXzCQGYbx98) | 5:11 |
-| 80 | [Beautiful](https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli) | 5:34 |
+| 80 | [Beautiful](https://open.spotify.com/track/3q7FPEDlu4LPAt51vovq82) | [Ogie Alcasid](https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful](https://open.spotify.com/album/3yhuVybhx9FmLa5LPJFqhF) | 5:34 |
 | 81 | [Incredible](https://open.spotify.com/track/4irfvqovhqNcmZ6fMfDVCS) | [Liveloud Worship](https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY) | [Make Room](https://open.spotify.com/album/78tYA5dpbLsaD3GYiLZT4U) | 4:13 |
 | 82 | [Rise](https://open.spotify.com/track/6nf6Cxq4oHCdbjRRSl4O9x) | [Snow Toledo](https://open.spotify.com/artist/5PQHP12lp6eyjBjIdMXESj) | [Rise](https://open.spotify.com/album/4OColfyGElToe70XzNKfpm) | 4:55 |
 | 83 | [Grace](https://open.spotify.com/track/3IKjZWUe8xnV98x17Pehvc) | [Mansville Worship](https://open.spotify.com/artist/0QEPHzdypXwFJStRnhHau0), [Georg Laurente](https://open.spotify.com/artist/0E3GfAoEP9sF0LGTCNK34t) | [Grace](https://open.spotify.com/album/3OEdV5rSGQxZ3BNxX3a7pj) | 4:46 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 103 | [Where Would I Be](https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/3TsuS8ao3G2Q3HdNF16Iq5) | 4:04 |
 | 104 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MCxkYzNmMzVhNDRjNGMzOTAwOTQzNjUwMmRhOTU2ZDMwNDIzZDdkZTcw`
+Snapshot ID: `MCw3NGFjNjZlZGRjMWY1ZmEyYjZkZjQyMzM4ZTU4ZmVkMjFiNGM5YTIy`

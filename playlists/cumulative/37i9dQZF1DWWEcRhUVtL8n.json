@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "100 Degrees",
+        "url": "https://open.spotify.com/album/1gXllHQq0TLUjpD6sSWOOl"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202712,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/3rfMbh0ZIJyPR9IjrW3Y0s"
+    },
+    {
+      "album": {
         "name": "123",
         "url": "https://open.spotify.com/album/3I58KIXmWpkeC4f5QW2IKy"
       },
@@ -7158,7 +7176,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222756,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/2JAZdnv9oWBOZKIwlH3xVN"
@@ -9234,7 +9252,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
@@ -12626,7 +12644,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 188213,
       "name": "I Smile for E",
       "url": "https://open.spotify.com/track/5ui5Wk6zMALtwtYIHaB9a6"
@@ -15441,6 +15459,24 @@
     },
     {
       "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "album": {
         "name": "Lizzy",
         "url": "https://open.spotify.com/album/6Y183V3T55txTmHKcjtv9N"
       },
@@ -17632,7 +17668,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 214625,
       "name": "name everywhere",
       "url": "https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk"
@@ -24349,6 +24385,24 @@
     },
     {
       "album": {
+        "name": "When We Were Younger",
+        "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159477,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+    },
+    {
+      "album": {
         "name": "Stupid Boys",
         "url": "https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk"
       },
@@ -27708,6 +27762,24 @@
       "duration_ms": 172219,
       "name": "What You're Made Of",
       "url": "https://open.spotify.com/track/3yarLd7RGr79F1jUk5WLlX"
+    },
+    {
+      "album": {
+        "name": "What's up",
+        "url": "https://open.spotify.com/album/1lGnDRTi33cAHyqyUH1bCk"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/21wo3BJ0vbBkNOYHAFQVTO"
     },
     {
       "album": {

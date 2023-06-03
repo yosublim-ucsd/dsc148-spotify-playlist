@@ -2,7 +2,7 @@
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Jordyn Shellhart
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Brandy Clark
 
 236 songs - 13 hr 43 min
 

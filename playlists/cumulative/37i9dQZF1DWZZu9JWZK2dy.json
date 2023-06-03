@@ -464,10 +464,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 267800,
       "name": "Gamble Rumble",
       "url": "https://open.spotify.com/track/6oT735CbhxWY1ZsvHRg6u4"
+    },
+    {
+      "album": {
+        "name": "Gamble Rumble",
+        "url": "https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU"
+      },
+      "artists": [
+        {
+          "name": "m.o.v.e",
+          "url": "https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267800,
+      "name": "Gamble Rumble",
+      "url": "https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq"
     },
     {
       "album": {

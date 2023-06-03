@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 216131,
       "name": "Costear",
       "url": "https://open.spotify.com/track/5SPBF2GzXi4OXyrTk9Kcfz"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197608,
       "name": "Culito",
       "url": "https://open.spotify.com/track/6ZndSNse8aw5IKafbp3poh"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 211826,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/5sGRdsr2bl8JSNV2TA5u2M"
@@ -1589,6 +1589,36 @@
     },
     {
       "album": {
+        "name": "La Ruta",
+        "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221100,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
+    },
+    {
+      "album": {
         "name": "La Sesi\u00f3n #47",
         "url": "https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm"
       },
@@ -1678,7 +1708,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 151111,
       "name": "Las Paredes",
       "url": "https://open.spotify.com/track/7up6PZ77hriEYAHS5XU8Ac"
@@ -2132,7 +2162,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 332216,
       "name": "Movie (feat. Yemil & Akim) - Remix",
       "url": "https://open.spotify.com/track/1kvfpYpt8omN84qv9vBSFi"
@@ -2250,6 +2280,40 @@
       "duration_ms": 266788,
       "name": "No Love",
       "url": "https://open.spotify.com/track/4E5hI2hDq4hLFg7m9fCHcJ"
+    },
+    {
+      "album": {
+        "name": "Smile Riddim",
+        "url": "https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj"
+      },
+      "artists": [
+        {
+          "name": "LH",
+          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
+        },
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "Robi Guid",
+          "url": "https://open.spotify.com/artist/57GVeZvmrO7oCLm0Uacrjy"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "Johnny Jey B",
+          "url": "https://open.spotify.com/artist/3g5oHgO5sO7uzkz67EZbzO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "Noche de gala",
+      "url": "https://open.spotify.com/track/0mMsceNQlCGM9F400l5FOd"
     },
     {
       "album": {

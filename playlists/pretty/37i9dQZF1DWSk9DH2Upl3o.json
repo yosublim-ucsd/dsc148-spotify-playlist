@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 19051,
+  "num_followers": 19102,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTk2OGMzM2JlYTA3NmFiOTRkYTJjMWQ1NzhhNjk5ODA4NWIzMmIw",
+  "snapshot_id": "MCw2NzhlZGExNjRiMjU2ZTYxMDM5OGEwZjQ3YzEzZTQxNTNhMmNlYjEz",
   "tracks": [
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Fossilize",
+        "url": "https://open.spotify.com/album/3nXD82sZiTjesVEhO3MO0D"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 242062,
+      "name": "Fossilize",
+      "url": "https://open.spotify.com/track/24jLSXJDqYx0TIqaYWIWSY"
+    },
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
@@ -113,6 +129,22 @@
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7eYgDcaqyfI4ZGn0cZseoo"
+      },
+      "artists": [
+        {
+          "name": "Hedonistas",
+          "url": "https://open.spotify.com/artist/75pLAZ0NsopVsrFUHN1Mn1"
+        }
+      ],
+      "duration_ms": 235833,
+      "name": "Unchained",
+      "url": "https://open.spotify.com/track/6fK9qzWh0uM4JZRdKhiaLN"
+    },
+    {
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "One Turn",
@@ -127,6 +159,38 @@
       "duration_ms": 297720,
       "name": "One Turn",
       "url": "https://open.spotify.com/track/5wotgIhvk6lJfNCqnUJO6d"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy"
+      },
+      "artists": [
+        {
+          "name": "Shambala",
+          "url": "https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8"
+        }
+      ],
+      "duration_ms": 199898,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP"
+    },
+    {
+      "added_at": "2023-06-02 04:01:00",
+      "album": {
+        "name": "Nautical Nonsense",
+        "url": "https://open.spotify.com/album/7LTdiWx72gqlfLPMd6dInK"
+      },
+      "artists": [
+        {
+          "name": "Desert Jellies",
+          "url": "https://open.spotify.com/artist/0d2tTkLVOJzwlirrcISQX0"
+        }
+      ],
+      "duration_ms": 287143,
+      "name": "Settin' Sail",
+      "url": "https://open.spotify.com/track/34bpCZJYVa0YxUxENbVXWU"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -295,22 +359,6 @@
       "duration_ms": 471426,
       "name": "Mcmansion",
       "url": "https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -639,22 +687,6 @@
       "duration_ms": 579373,
       "name": "Kitty Chaser (Explosions)",
       "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Scary Blankets",
-        "url": "https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh"
-      },
-      "artists": [
-        {
-          "name": "Mungion",
-          "url": "https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK"
-        }
-      ],
-      "duration_ms": 558079,
-      "name": "Myrtle",
-      "url": "https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1041,22 +1073,6 @@
       "url": "https://open.spotify.com/track/5w8pjWJBU0rvimt284Qk24"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "You're a Catman",
-        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 342994,
-      "name": "You\u2019re a Catman",
-      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Fuzzy Ride",
@@ -1403,22 +1419,6 @@
       "duration_ms": 532666,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Foggy Days",
-        "url": "https://open.spotify.com/album/0u3fsoByiOKsHSqaBoqpeG"
-      },
-      "artists": [
-        {
-          "name": "David Henriksson & Daze Delight",
-          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Foggy Days",
-      "url": "https://open.spotify.com/track/1JAJSf52angUw88cDf4KOP"
     },
     {
       "added_at": "2023-04-07 04:01:00",

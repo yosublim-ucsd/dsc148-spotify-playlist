@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Kuremino in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,223 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,226 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 42 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
 | 43 | [FIGLIO DI PAPI](https://open.spotify.com/track/72YluxGFurbKqbplTgWFBp) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [FIGLIO DI PAPI](https://open.spotify.com/album/33oNXsuhEYkNVDrl2qBFhr) | 1:41 |
 | 44 | [Gotham](https://open.spotify.com/track/5ALHHGqwpvatwStskfvouv) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP), [Rei Santana](https://open.spotify.com/artist/1wQKdfPI4TSxeYFMNpgbGq) | [Gotham](https://open.spotify.com/album/1COQPs3c2CFRx9lPxOMgTQ) | 2:46 |
-| 45 | [CREME DE LA CREME](https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Vuem](https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK), [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [CREME DE LA CREME](https://open.spotify.com/album/5dlf92nPLOto9dcb9gKGKe) | 3:25 |
+| 45 | [CRÈME DE LA CRÈME](https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Vuem](https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK), [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [CRÈME DE LA CRÈME](https://open.spotify.com/album/5dlf92nPLOto9dcb9gKGKe) | 3:25 |
 | 46 | [Cartellate](https://open.spotify.com/track/5Je9KYjoG1LWRRtjdw7SXh) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [NENNO](https://open.spotify.com/artist/7IADlwb8drI8AC1fpbvbla), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [Cartellate](https://open.spotify.com/album/4mL94h0yztqxZ67HoqOdGa) | 2:27 |
 | 47 | [MALOCCHIO \#1](https://open.spotify.com/track/4GlnTz0XDB3saXOYGubuml) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [MALOCCHIO \#1](https://open.spotify.com/album/2RgRIgtrFOweJ9jPWeix2P) | 1:13 |
 | 48 | [SUV NERO](https://open.spotify.com/track/34BSDQZhCLyEdknhW6fg3H) | [Astro Centauri](https://open.spotify.com/artist/027y7WtCHLPyUJr50Q0p6E), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [DRILLSTAR](https://open.spotify.com/album/0hYqjJdQO5twl5Mh8Hc2q5) | 2:08 |
 | 49 | [Corri Garçon](https://open.spotify.com/track/7MD3sUhXdfvHndXZ90uXwP) | [Manu Skar](https://open.spotify.com/artist/592TSNOHonUcOHcEorAGgV) | [Corri Garçon](https://open.spotify.com/album/4h7MaKhZyEQDQKl6g1IMHX) | 2:37 |
 | 50 | [Stessi Posti](https://open.spotify.com/track/2cgnxJTioTZQDy6L0dL8so) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Stessi Posti](https://open.spotify.com/album/4HPhagjmND79u9LrnBeEoL) | 2:50 |
 
-Snapshot ID: `MCw3N2IxNDI0YTRjZWRhNTVkYmZiOWRkMDQ2NGE1MDIxYTg2ZTQ4NWIz`
+Snapshot ID: `MCw0NzM1ZTY2N2IzMjQyMjdhYTc1NmZlMzczNGM2ZWFiNDUzN2Y3MDdm`

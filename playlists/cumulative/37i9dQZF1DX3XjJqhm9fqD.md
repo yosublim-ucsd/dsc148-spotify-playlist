@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-183 songs - 10 hr 55 min
+184 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Akouna](https://open.spotify.com/track/1entjt5jTZ7KGCKdOUvq8o) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/1Nnf8hO2TJxRiyewuiJpeo) | 3:50 | 2022-04-15 | 2022-11-06 |
 | [Akouna](https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5) | [Manno Beats](https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj), [Afrotronix](https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr), [Vox Sambou](https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b) | [Akouna](https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp) | 3:50 | 2022-10-16 |  |
 | [All on Me](https://open.spotify.com/track/3q3o1X4nGTeaBKeUmotLx4) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk), [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 3:07 | 2021-12-06 | 2023-02-18 |
-| [Ann sove peyi a](https://open.spotify.com/track/6SWvNpUkToWeDtZUWrfNpq) | [Doremi](https://open.spotify.com/artist/3gahHEkgRYjxKF5PvIyzFr) | [Ann sove peyi a](https://open.spotify.com/album/32EFrlSI1VCbaoXw4wP2Zj) | 4:26 | 2023-05-26 |  |
+| [Ann sove peyi a](https://open.spotify.com/track/6SWvNpUkToWeDtZUWrfNpq) | [Doremi](https://open.spotify.com/artist/3gahHEkgRYjxKF5PvIyzFr) | [Ann sove peyi a](https://open.spotify.com/album/32EFrlSI1VCbaoXw4wP2Zj) | 4:26 | 2023-05-26 | 2023-06-03 |
 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 | 2021-12-06 |  |
 | [Ayibobo](https://open.spotify.com/track/6NALXWBiw7iCydGxxKoSVI) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Lenny Auguste](https://open.spotify.com/artist/3pwVQFBfXLboDOnLCfPezC) | [Ayibobo](https://open.spotify.com/album/1xnzux2cqtpKfiWVIi5PLJ) | 3:28 | 2022-07-14 | 2023-03-18 |
 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 | 2022-11-18 |  |
@@ -150,6 +150,7 @@
 | [Sammy Sosa](https://open.spotify.com/track/27gKiEShJtM0aUGN2brwEn) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Sammy Sosa](https://open.spotify.com/album/1WrEcubpRe8wHHzmZqRJ1p) | 2:31 | 2022-09-30 | 2023-02-18 |
 | [Sauce](https://open.spotify.com/track/2ejorilxdO80UI3XbCgMt6) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Sauce](https://open.spotify.com/album/1uaC95bWjnpUuAzlG9EeIy) | 2:06 | 2021-12-06 | 2022-10-13 |
 | [Sauce](https://open.spotify.com/track/5G6Tcd8ANHBnR7SKku8IpN) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Sauce](https://open.spotify.com/album/75SjI27z4XQRUgrhQwzxvk) | 2:06 | 2022-09-30 | 2023-02-18 |
+| [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 | 2023-05-26 |  |
 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 | 2022-07-14 |  |
 | [Shake Your Body](https://open.spotify.com/track/6jQ63ksDeBryPN51dP9yf9) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Shake Your Body](https://open.spotify.com/album/11drZ2tGHfzfxRi11vs4oW) | 1:08 | 2021-12-06 | 2022-05-13 |
 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 | 2022-07-14 |  |

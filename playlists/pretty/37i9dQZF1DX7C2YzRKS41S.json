@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de folk, MPB e indie para acordar com o p\u00e9 na estrada.",
-  "num_followers": 83499,
+  "num_followers": 83653,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjA4MGFmN2YyNDgwNDMxYzJkNjJiNTYwNGZhNDJlZDM4MmM5MDMw",
+  "snapshot_id": "MCwxOTE3NTM3N2IwOTQ2MmIxMjVkMWVmNzc1OWMwMzUyYTNmYTQyMTQ2",
   "tracks": [
     {
       "added_at": "2023-05-12 20:52:22",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-12 20:52:22",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 225273,
-      "name": "I Went Hunting",
-      "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
-    },
-    {
-      "added_at": "2023-05-12 20:52:22",
-      "album": {
         "name": "Era amor",
         "url": "https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 199552,
       "name": "Era amor",
       "url": "https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi"
+    },
+    {
+      "added_at": "2023-05-12 20:52:22",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 225273,
+      "name": "I Went Hunting",
+      "url": "https://open.spotify.com/track/6CUts1EBhKu60Z7Q5qoT6S"
     },
     {
       "added_at": "2023-05-12 20:52:22",

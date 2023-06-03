@@ -9488,7 +9488,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -14978,7 +14978,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 132258,
       "name": "\u041a\u041e\u0417\u0410\u0426\u042c\u041a\u041e\u041c\u0423_\u0420\u041e\u0414\u0423",
       "url": "https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0"
@@ -15707,6 +15707,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0430\u0434\u0430\u043c",
+        "url": "https://open.spotify.com/album/4ndDMouRd5gi3utWjs0i32"
+      },
+      "artists": [
+        {
+          "name": "100\u043b\u0438\u0446\u044f",
+          "url": "https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145571,
+      "name": "\u041c\u0430\u0434\u0430\u043c",
+      "url": "https://open.spotify.com/track/7rc8ibFdLCFsoG9MlshpF2"
+    },
+    {
+      "album": {
         "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
         "url": "https://open.spotify.com/album/7FLL81YdbJHC7OB0ntas4C"
       },
@@ -15718,7 +15736,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 109714,
       "name": "\u041c\u0410\u0419 \u041c\u0410\u0419",
       "url": "https://open.spotify.com/track/2t33vDAERvsbqTLQuphuwA"
@@ -15880,7 +15898,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 206746,
       "name": "\u041c\u0430\u044f\u043a",
       "url": "https://open.spotify.com/track/73yFhVfJGEuFbLcJlXvysO"
@@ -16032,6 +16050,24 @@
       "duration_ms": 158000,
       "name": "\u041c\u043e\u043d\u0440\u043e",
       "url": "https://open.spotify.com/track/5sQpS3fyw6VBpPioNlrCn1"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u0445\u043d\u043e\u0444\u0430\u0439\u0442 1999 (\u041f\u0435\u0440\u0435\u0432\u0438\u0434\u0430\u043d\u043d\u044f)",
+        "url": "https://open.spotify.com/album/6qaZrYehJ51nKWJoCTIotV"
+      },
+      "artists": [
+        {
+          "name": "Skryabin",
+          "url": "https://open.spotify.com/artist/5RqIkHQnXRZlm1ozfSS1IO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "\u041c\u043e\u0440\u0435 (\u041d\u0430\u0439 \u0446\u0456\u043b\u0438\u0439 \u0441\u0432\u0456\u0442 \u043f\u0440\u043e\u043f\u0430\u0434\u0435)",
+      "url": "https://open.spotify.com/track/3w2Dkl2j2AwKSB6kFvPAzG"
     },
     {
       "album": {
@@ -17684,7 +17720,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 173142,
       "name": "\u041f\u043e\u0433\u0430\u043d\u0456 \u0441\u0443\u0441\u0456\u0434\u0438",
       "url": "https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg"
@@ -17876,7 +17912,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 137739,
       "name": "\u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z"
@@ -20034,7 +20070,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"
@@ -20644,7 +20680,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 133305,
       "name": "\u0427\u043e\u0440\u043d\u043e\u0431\u0440\u0438\u0432\u0430",
       "url": "https://open.spotify.com/track/4N822HhhcRrVKuX3Ni9L0T"

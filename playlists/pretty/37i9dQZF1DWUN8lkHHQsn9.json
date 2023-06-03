@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: thekayetan",
-  "num_followers": 3276,
+  "num_followers": 3284,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDFiM2QzYzg3YzY2ODU5MjhiY2I5Y2Y0OGRjNGY1OTc3MTdhN2Q2",
+  "snapshot_id": "MCwxNTg3MWIzN2NhYWNhNDI3MjFmM2YxOGJmMjk5NTg3MzNiNDczNWM1",
   "tracks": [
     {
       "added_at": "2023-05-31 22:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Stukamy si\u0119 browarami",
-        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 205502,
-      "name": "Stukamy si\u0119 browarami",
-      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 168224,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Stukamy si\u0119 browarami",
+        "url": "https://open.spotify.com/album/2VLLvagKSj1zD2Bok6F32w"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 205502,
+      "name": "Stukamy si\u0119 browarami",
+      "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G"
     },
     {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
-      },
-      "artists": [
-        {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Lustro",
-      "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
-    },
-    {
       "added_at": "2023-06-01 10:42:42",
       "album": {
         "name": "Maski",
@@ -559,18 +543,18 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
         }
       ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+      "duration_ms": 205306,
+      "name": "Lustro",
+      "url": "https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
         "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
         "url": "https://open.spotify.com/album/61ONsroY4Ugr0vBfByDIri"
       },
@@ -603,38 +603,6 @@
       "duration_ms": 211555,
       "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
       "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "powiedz, \u017ce to blef",
-        "url": "https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 153042,
-      "name": "powiedz, \u017ce to blef",
-      "url": "https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "Kapita\u0142",
-        "url": "https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Kapita\u0142",
-      "url": "https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -659,6 +627,22 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
+        "name": "Kapita\u0142",
+        "url": "https://open.spotify.com/album/3B1tI4mwm8eIVvOeMcssNF"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Kapita\u0142",
+      "url": "https://open.spotify.com/track/076XHfTDuN1nqeseWLNMcj"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
         "name": "psychodynamiczne",
         "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "M\u0142odzi",
-        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
+        "name": "powiedz, \u017ce to blef",
+        "url": "https://open.spotify.com/album/1LQy5Es9uY4hwX4jo2uea7"
       },
       "artists": [
         {
-          "name": "Agata Radziszewska",
-          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 247880,
-      "name": "Cicho",
-      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
+      "duration_ms": 153042,
+      "name": "powiedz, \u017ce to blef",
+      "url": "https://open.spotify.com/track/4NvQFLxywKXxaiyFGanwVs"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -723,22 +707,18 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+        "name": "M\u0142odzi",
+        "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "Nick Sinckler",
-          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
         }
       ],
-      "duration_ms": 174000,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+      "duration_ms": 247880,
+      "name": "Cicho",
+      "url": "https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -759,22 +739,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "Magister",
         "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
       },
@@ -791,18 +755,38 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "S3X EDUCATION",
-        "url": "https://open.spotify.com/album/4cAZu0wXymmnCclvt7Hf3x"
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
         }
       ],
-      "duration_ms": 176103,
-      "name": "S3X EDUCATION",
-      "url": "https://open.spotify.com/track/4qEqxYGN7ijJoXUeafQpsY"
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
+      },
+      "artists": [
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "Nick Sinckler",
+          "url": "https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -823,22 +807,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "OLIMP",
         "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
@@ -855,6 +823,38 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "S3X EDUCATION",
+        "url": "https://open.spotify.com/album/4cAZu0wXymmnCclvt7Hf3x"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 176103,
+      "name": "S3X EDUCATION",
+      "url": "https://open.spotify.com/track/4qEqxYGN7ijJoXUeafQpsY"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -867,6 +867,54 @@
       "duration_ms": 243062,
       "name": "Polska",
       "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Glitterball",
+        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 306056,
+      "name": "Glitterball",
+      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Nie ma",
+        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+      },
+      "artists": [
+        {
+          "name": "Iwona Skv",
+          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "Nie ma",
+      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -891,38 +939,6 @@
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "Glitterball",
-        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 306056,
-      "name": "Glitterball",
-      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
         "name": "Kimkolwiek chc\u0119",
         "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 250729,
       "name": "R\u0119ce w udr\u0119ce",
       "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+      },
+      "artists": [
+        {
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2023-05-31 22:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-05-31 22:00:00",
       "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-05-31 22:00:00",
+      "album": {
         "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
         "url": "https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 395000,
       "name": "Girls, Gays, People",
       "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
-    },
-    {
-      "added_at": "2023-05-31 22:00:00",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-05-31 22:00:00",

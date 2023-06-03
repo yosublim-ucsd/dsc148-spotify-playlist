@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "Proudly marching to the beat of their own drum. Cover: Saya Gray",
+  "description": "Proudly marching to the beat of their own drum. Cover: Panteros666, Zorza",
   "name": "Outliers",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 151320,
       "name": "(She's a) Winner",
       "url": "https://open.spotify.com/track/6oRB9dgD5TeZOhI47Rd2nB"
+    },
+    {
+      "album": {
+        "name": "03:17",
+        "url": "https://open.spotify.com/album/6ewtnYBzfxTjxM7R5fL2qx"
+      },
+      "artists": [
+        {
+          "name": "Harve",
+          "url": "https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx"
+        },
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "03:17",
+      "url": "https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1"
     },
     {
       "album": {
@@ -886,7 +908,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 260962,
       "name": "AMERICA HAS A PROBLEM (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN"
@@ -998,6 +1020,28 @@
       "duration_ms": 168828,
       "name": "Archetype",
       "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
+    },
+    {
+      "album": {
+        "name": "ARE U KIDDING",
+        "url": "https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151755,
+      "name": "ARE U KIDDING",
+      "url": "https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z"
     },
     {
       "album": {
@@ -3156,7 +3200,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 173869,
       "name": "Crush feat. Erika de Casier",
       "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
@@ -3811,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "CURB",
+        "url": "https://open.spotify.com/album/4R9JE7rZGzc2kBzUKgfT5x"
+      },
+      "artists": [
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/5O6OvEmhWKKt6Jpkq4B4g3"
+    },
+    {
+      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -4087,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241979,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
+    },
+    {
+      "album": {
         "name": "Duke Silver's Place",
         "url": "https://open.spotify.com/album/6OP8K9xWnVVaFuVIMNIQUP"
       },
@@ -4342,7 +4422,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155948,
       "name": "enjoy the ride",
       "url": "https://open.spotify.com/track/4lRRYKmoNtDV6g8UaFpyA1"
@@ -4786,7 +4866,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 207486,
       "name": "Familiarity",
       "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
@@ -4906,7 +4986,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 280373,
       "name": "Faux Rouges",
       "url": "https://open.spotify.com/track/0dpKiYTU2oltVeNR8hFaAm"
@@ -6382,6 +6462,24 @@
       "duration_ms": 178390,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/5C2lBA8cceb0EwyCPDEsH8"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260769,
+      "name": "HEATED",
+      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
     },
     {
       "album": {
@@ -8412,7 +8510,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 146565,
       "name": "life of the party",
       "url": "https://open.spotify.com/track/27ouJ1Nx8GHMeYTqGusY3W"
@@ -8598,6 +8696,24 @@
       "duration_ms": 199533,
       "name": "Look At What I'm Doing To You",
       "url": "https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc"
+    },
+    {
+      "album": {
+        "name": "lookinforu",
+        "url": "https://open.spotify.com/album/6vfys58VsWMNQvnaxMzBPs"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176624,
+      "name": "lookinforu",
+      "url": "https://open.spotify.com/track/3LjiJwQbTJmnZ4nuJNv64S"
     },
     {
       "album": {
@@ -9308,7 +9424,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 186853,
       "name": "Midnight Ontario",
       "url": "https://open.spotify.com/track/5tPAaQJwbEsFl3unzrBLdt"
@@ -12809,6 +12925,24 @@
     },
     {
       "album": {
+        "name": "Shine On Us",
+        "url": "https://open.spotify.com/album/4zsttBBjhj4aCEhKr2GJ3t"
+      },
+      "artists": [
+        {
+          "name": "Mont Duamel",
+          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124827,
+      "name": "Shine On Us",
+      "url": "https://open.spotify.com/track/1loLmHjhQopsc1yP075iGF"
+    },
+    {
+      "album": {
         "name": "Shinigami Eyes",
         "url": "https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A"
       },
@@ -14441,6 +14575,28 @@
     },
     {
       "album": {
+        "name": "the moves",
+        "url": "https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg"
+      },
+      "artists": [
+        {
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "the moves",
+      "url": "https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
       },
@@ -15075,6 +15231,28 @@
     },
     {
       "album": {
+        "name": "Ultra Ray",
+        "url": "https://open.spotify.com/album/6zCI5ymc5IlN6IkxtrsQzx"
+      },
+      "artists": [
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        },
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291416,
+      "name": "Ultra Ray",
+      "url": "https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY"
+    },
+    {
+      "album": {
         "name": "You Don't Understand",
         "url": "https://open.spotify.com/album/0QwBq75ljzkUJjO6qcNAVK"
       },
@@ -15376,7 +15554,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"

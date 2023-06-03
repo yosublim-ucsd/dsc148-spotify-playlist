@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-538 songs - 1 day 10 hr 18 min
+539 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Kauko](https://open.spotify.com/track/4I0ddznWdICBWy5RHRzsqE) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Kauko](https://open.spotify.com/album/0jjCPuzHwwjvrInsE6p4r5) | 4:27 | 2020-10-20\* | 2021-06-23 |
 | [Keep Keepin On](https://open.spotify.com/track/3n7zfj79mavt7QnjuTw2QQ) | [Calitto](https://open.spotify.com/artist/0sUKrTh4bykVgGFl67aau5) | [Keep Keepin On](https://open.spotify.com/album/4XpaShZVMOaDaRkO81Hm3Q) | 3:27 | 2021-08-25 |  |
 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2020-10-20\* | 2021-01-15 |
-| [Kerbside Poetry](https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Kerbside Poetry](https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL) | 3:12 | 2022-09-09 |  |
+| [Kerbside Poetry](https://open.spotify.com/track/3TZGETLafJxMADpUqVIYSv) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Kerbside Poetry](https://open.spotify.com/album/6xklTnSYtgOoQSnKd1IkJL) | 3:12 | 2022-09-09 | 2023-06-03 |
 | [KIKAROO](https://open.spotify.com/track/375YSQ8nHPLupqnb7EdTK3) | [2GO](https://open.spotify.com/artist/3H2aSFzZR5u415cYbqijBJ) | [KIKAROO](https://open.spotify.com/album/4TS4nD7m4S25mZhDDFJNXv) | 2:33 | 2021-06-23 | 2022-05-20 |
 | [Kirnua](https://open.spotify.com/track/0rYfDnwdsArNfvV4HWgXvd) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Kirnua](https://open.spotify.com/album/7y4cYA0qeqfOSeTs20OroS) | 3:47 | 2020-10-20\* | 2021-01-15 |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2021-08-25 | 2022-08-05 |
@@ -269,6 +269,7 @@
 | [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-07-01 |  |
 | [Lofi Nights](https://open.spotify.com/track/1G56aVJLUwhQVO0Ke6QwWD) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Lofi Nights](https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC) | 4:25 | 2020-11-28 | 2021-04-15 |
 | [Lola](https://open.spotify.com/track/7tTL846SbtFK05waG77G0B) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Lola](https://open.spotify.com/album/7EeHCYJmcrBeCM8eKXWeRa) | 6:21 | 2021-06-23 | 2021-08-25 |
+| [Loner](https://open.spotify.com/track/4NAotGx7FH4Q014Eyuub6j) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [Loner](https://open.spotify.com/album/44XvxFk642JZL6e7nN1I6v) | 2:37 | 2023-06-02 |  |
 | [Loose Track](https://open.spotify.com/track/2Pb0kFoTW69caBRsiKN4Z8) | [Chilldine](https://open.spotify.com/artist/5iAKjp62cPdw1BgkXruG4O) | [Loose Track](https://open.spotify.com/album/1ujIEH3wOFopsIAKUTHgnX) | 3:11 | 2022-11-25 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2021-02-12 | 2022-08-05 |
 | [Love And Bass \- Art Alfie Remix](https://open.spotify.com/track/0oodhkRajpYiV6fwDU4jJS) | [Maneten](https://open.spotify.com/artist/2aHZqoxlKM0bQJEkgUVxhC), [Art Alfie](https://open.spotify.com/artist/7g9ewvDvPJxRVRCofG9xRY) | [Love And Bass \(Art Alfie Remix\)](https://open.spotify.com/album/4BwceKAMTvFX6pH9ak5hiu) | 8:50 | 2021-01-15 | 2021-03-06 |

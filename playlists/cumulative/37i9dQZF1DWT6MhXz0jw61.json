@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Joey Bada$$",
+  "description": "Chillout hip-hop vibes. Cover: J. Cole",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -704,6 +704,28 @@
       "duration_ms": 120000,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/76aNeKFASLz6UE6rmcZvXz"
+    },
+    {
+      "album": {
+        "name": "ARE U KIDDING",
+        "url": "https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151755,
+      "name": "ARE U KIDDING",
+      "url": "https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z"
     },
     {
       "album": {
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 145606,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/5OD8PgrPPJmkOq79sMeNfm"
@@ -5056,7 +5078,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 118796,
       "name": "Is That Ight?",
       "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
@@ -5104,6 +5126,24 @@
       "duration_ms": 259648,
       "name": "IT BE LIKE THAT",
       "url": "https://open.spotify.com/track/6eEdxS61Sc4ZbBRq2UgPN2"
+    },
+    {
+      "album": {
+        "name": "IT IS WHAT IT IS",
+        "url": "https://open.spotify.com/album/7s4OS2EKUmmEgwqG0KGjIJ"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "IT IS WHAT IT IS",
+      "url": "https://open.spotify.com/track/6SmmBWGRRoRJVpBNum6aOt"
     },
     {
       "album": {
@@ -6482,7 +6522,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224749,
       "name": "More to Go (feat. C.S. Armstrong)",
       "url": "https://open.spotify.com/track/19XtQDFBT5fvRkFKLadtmx"
@@ -8401,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Since Elementary",
+        "url": "https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs"
+      },
+      "artists": [
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Since Elementary",
+      "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
+    },
+    {
+      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -9862,7 +9920,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 184733,
       "name": "Tony Fontana III",
       "url": "https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x"
@@ -10528,6 +10586,24 @@
       "duration_ms": 191088,
       "name": "What's Life - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3"
+    },
+    {
+      "album": {
+        "name": "What's on My Mind",
+        "url": "https://open.spotify.com/album/6b5PWnG1YXmEXLBZMCsXAa"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "What\u2019s on My Mind",
+      "url": "https://open.spotify.com/track/6cFSADQHocJfxpkk76HtJZ"
     },
     {
       "album": {

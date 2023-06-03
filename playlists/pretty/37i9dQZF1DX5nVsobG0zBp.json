@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 46063,
+  "num_followers": 46113,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzY0MTU3Yjc4N2E2NDU5NmYwZGQ0N2RjZjg4NzM0ZjEyNmI3Zjcw",
+  "snapshot_id": "MCw5N2FhNzJiOWQxYjFiZmJkNzM1M2I4NGQxOTUzOWQ3MzM4YWQ4ZmFj",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Mechelas",
+        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+      },
+      "artists": [
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Sendo Assim",
+      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Andal\u00e9",
         "url": "https://open.spotify.com/album/4Z1dmBdlH5t0e9Bhw780gU"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 263131,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Mechelas",
-        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
-      },
-      "artists": [
-        {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Sendo Assim",
-      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1011,26 +1011,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "GOD MODE",
-        "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Prodigio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "benji price",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 254117,
-      "name": "GOD MODE",
-      "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -1055,18 +1047,26 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+        "name": "GOD MODE",
+        "url": "https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         }
       ],
-      "duration_ms": 240594,
-      "name": "La Bella Mafia",
-      "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
+      "duration_ms": 254117,
+      "name": "GOD MODE",
+      "url": "https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj"
     },
     {
       "added_at": "2023-05-25 23:00:00",

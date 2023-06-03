@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Nemophila
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Code Orange
 
-418 songs - 1 day 2 hr 51 min
+423 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Eyes On You](https://open.spotify.com/track/5oCoojHpOtASHLom7rgsLj) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [All Eyes On You](https://open.spotify.com/album/7Gjwvw6ue2wFZ9Ihm09AQy) | 1:32 | 2023-04-07 |  |
 | [All I've Lost](https://open.spotify.com/track/5NCBRQvPOhILMg7ARKTkt3) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Ashes Lie Still](https://open.spotify.com/album/2ChfG1mtw2bhvNY1tO2hzE) | 5:03 | 2022-11-04 |  |
 | [Alone At The Bottom](https://open.spotify.com/track/2uYAw6gPeU8MQ1nXyJsMr7) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Alone At The Bottom](https://open.spotify.com/album/5I2MWP81o1sdBnSGR4o8qb) | 2:22 | 2023-02-10 |  |
+| [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-02 |  |
 | [An Offering to the Night](https://open.spotify.com/track/0EVyJFYojg61MfOHChMEhk) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [An Offering to the Night](https://open.spotify.com/album/7FbcDuhf1XenyNKutT6lZP) | 2:13 | 2022-12-09 |  |
 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 |  |
 | [And How They Wept for Eternity](https://open.spotify.com/track/1gP2jBo31MGT9DySTFM4Lb) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [And How They Wept for Eternity](https://open.spotify.com/album/6jSttvdT0rvDv2SH6EftQQ) | 3:54 | 2022-08-19 |  |
@@ -89,6 +90,7 @@
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 |  |
 | [Death Cantation](https://open.spotify.com/track/3pAHBYxCvJ5GjkeTahTYgc) | [Yatra](https://open.spotify.com/artist/5siBVlARqSszzBborgWF7j) | [Death Cantation](https://open.spotify.com/album/7r1GY0QUqDh3Glxg59iqRD) | 3:56 | 2022-04-29 |  |
 | [Death Is A Relief](https://open.spotify.com/track/3rKVRJE0yFl7Un8fMt4l28) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Death Is A Relief](https://open.spotify.com/album/6zWFEJ9oUQZRyqqLdEnvNt) | 5:53 | 2022-03-18 |  |
+| [Death Is The Beginning](https://open.spotify.com/track/6Z9I47gF0XIqgZpVZ7fakB) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Death Is The Beginning](https://open.spotify.com/album/3Nv9xXoF8VcDnIEEN0d8Cf) | 5:07 | 2023-06-02 |  |
 | [Death Ov Circumstance](https://open.spotify.com/track/4aMw1McEiSKcwVzW2qwt2c) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Death Ov Circumstance](https://open.spotify.com/album/6lXJ45JATRhRieaySjLApg) | 4:33 | 2022-12-02 |  |
 | [Death Won't Stop Me](https://open.spotify.com/track/6KfuErlMswYM7E1vfgfPfu) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Death Won't Stop Me](https://open.spotify.com/album/4zpaNtcVAhRuRmOOs4G774) | 4:26 | 2023-03-24 |  |
 | [DEATHWESTERN](https://open.spotify.com/track/70Uqyz7UjUfmCFQSQN9p6w) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/5yH2KEa6tVTfI9zTgwtVF1) | 3:26 | 2022-09-23 |  |
@@ -156,6 +158,7 @@
 | [From Hollow Words](https://open.spotify.com/track/7c5aXn4zw0wKzBGEmuoOiP) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m), [Sven De Caluwe](https://open.spotify.com/artist/6PnAHo4VtceG6H8Ma0trmd) | [From Hollow Words](https://open.spotify.com/album/2cIshtTABV96F8tpWTTCOD) | 3:54 | 2022-10-07 |  |
 | [FTS \(KYS\)](https://open.spotify.com/track/5BsydUDVEjgyVv2IvKM16d) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [FTS \(KYS\)](https://open.spotify.com/album/1fc5o2ZknByvRcLlT2BYwy) | 2:19 | 2023-03-10 |  |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 |  |
+| [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-02 |  |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 |  |
@@ -165,6 +168,7 @@
 | [Gold Satin Dreamer](https://open.spotify.com/track/7uafnVLlFkHHFeEVG9aRrw) | [Nicole Dollanganger](https://open.spotify.com/artist/0MfC3pip8rY8OFLJVVNvBO) | [Gold Satin Dreamer](https://open.spotify.com/album/1mvv0K0CzcAczG3UByu7kB) | 5:30 | 2022-11-04 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 |  |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 |  |
+| [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-02 |  |
 | [Guided Meditation](https://open.spotify.com/track/0Dq4oDfcDFsOJ5jVhZ07Up) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:35 | 2022-08-12 |  |
 | [Guillotine](https://open.spotify.com/track/5mWs0zabZrREJBFfFCLhyj) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Guillotine](https://open.spotify.com/album/2205MIj3I5b2QXBVZ3n8jJ) | 3:37 | 2022-02-25 |  |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-09-30 |  |
@@ -343,6 +347,7 @@
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 |  |
 | [The Comeback](https://open.spotify.com/track/2EgOUEOtkHc2hgNRYHxpv6) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Unpleasant Living](https://open.spotify.com/album/6w6m1NmBC8Wzsd7Yu856uP) | 2:40 | 2022-07-08 |  |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 |  |
+| [The Customer Is Always Wrong \(TCIAW\)](https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:56 | 2023-06-02 |  |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-07-29 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 |  |
 | [The End of Times](https://open.spotify.com/track/5PREpWSEGXjkmOvLFQ3i0B) | [Defacing God](https://open.spotify.com/artist/1vDFKivJsGreOJhC7aYLus) | [The End of Times](https://open.spotify.com/album/0lVlIuxzG665JhrCCYGSZg) | 4:13 | 2022-08-05 |  |

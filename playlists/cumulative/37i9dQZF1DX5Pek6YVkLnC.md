@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Dei V
 
-253 songs - 14 hr 29 min
+254 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Experimento](https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Experimento](https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv) | 3:42 | 2022-05-25 | 2022-12-08 |
 | [Extrañandote \- Remix](https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Extrañandote \(Remix\)](https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8) | 4:35 | 2022-05-25 | 2022-12-08 |
 | [Fanatica de Mi](https://open.spotify.com/track/0ZMQcL09xZl3CxJp3RaziB) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Fanatica de Mi](https://open.spotify.com/album/4IY2IThuiCuyOWLmILOpms) | 4:19 | 2022-05-25 | 2022-06-17 |
+| [FANTASMA \| AVC](https://open.spotify.com/track/7fsQJ46vwtDi5p9DzeRDzB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [FANTASMA \| AVC](https://open.spotify.com/album/6qgdKe2WdqizZIvO3sRpwP) | 4:45 | 2023-06-02 |  |
 | [Finde](https://open.spotify.com/track/0C9s3OmKgCfHioXDnRoKGd) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Finde](https://open.spotify.com/album/1MNJtSetQcAc4EvyFraxoV) | 3:21 | 2022-05-25 | 2022-11-29 |
 | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Fragancia \(with Jay Wheeler\)](https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK) | 3:57 | 2022-05-25 | 2022-12-08 |
 | [Frontiar](https://open.spotify.com/track/6uU1pbqT24J4zqIGPAP3kn) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Frontiar](https://open.spotify.com/album/6ufmt9i0c4W8z7qNnQwxdE) | 3:05 | 2022-05-25 | 2022-07-27 |

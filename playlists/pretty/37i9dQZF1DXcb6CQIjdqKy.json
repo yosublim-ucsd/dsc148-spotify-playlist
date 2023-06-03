@@ -1,13 +1,33 @@
 {
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq?si=0YxHYu-STdOTRYIZnMoAzQ\">CAIN</a>",
-  "num_followers": 1552030,
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD?si=d92da505684846fe\">Naomi Raine</a>",
+  "num_followers": 1552241,
   "original_name": "Top Christian & Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDZkOTkyYmYxODViY2UwYjhlYjViYWZjZjVhYjFiOWIwYTlhMTRi",
+  "snapshot_id": "MCwwNDNkMDRjNWYwOWQ1NmM5Y2MxMjU4OTkzMjVmOTZlOGM2NDhmOGMz",
   "tracks": [
+    {
+      "added_at": "2023-06-02 10:24:05",
+      "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 504992,
+      "name": "Sing Hallelujah (with Natalie Grant) - Live",
+      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
+    },
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
@@ -301,6 +321,22 @@
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
     },
     {
+      "added_at": "2023-06-02 10:24:05",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 211499,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "A New Thing",
@@ -404,7 +440,7 @@
           "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 183520,
+      "duration_ms": 183558,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/3xXbmW2ONUQzlBG7WLmxI1"
     },
@@ -1399,26 +1435,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Life After Death",
         "url": "https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 163421,
       "name": "The Doxology",
       "url": "https://open.spotify.com/track/3tod3hCUiHZnDUlVc8LSV3"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Baptized Imagination",
-        "url": "https://open.spotify.com/album/1fbxmuiX3FXjhMzwJGYwQE"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/5bCjoSvRrL8YVB0sntBEKd"
     },
     {
       "added_at": "2023-05-26 04:00:00",

@@ -523,6 +523,40 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Altamira #24 - Sentir",
+        "url": "https://open.spotify.com/album/3kzzSI28P4e9Q3MQbCmpEe"
+      },
+      "artists": [
+        {
+          "name": "Igor Bz",
+          "url": "https://open.spotify.com/artist/47uUoDpXa9wZj4obYiDvT2"
+        },
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        },
+        {
+          "name": "Thinker",
+          "url": "https://open.spotify.com/artist/4Dqp4lqNbW4W7Lf6zGG43t"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Ac\u00fastico Altamira #24 - Sentir",
+      "url": "https://open.spotify.com/track/27USPnKrUrB0SJ4Po7h13D"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6NAEOYIRfDpCN5zAICeJ8y"
       },
@@ -3048,7 +3082,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 210012,
       "name": "Pode Me Esperar (feat. Tasdan & Agatha)",
       "url": "https://open.spotify.com/track/62FCtdHru9nNAJOGbzObi4"

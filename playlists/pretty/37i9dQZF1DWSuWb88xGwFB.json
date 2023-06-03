@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 27265,
+  "num_followers": 27286,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M4YmY5MjBiYTk5NjliYjc4OTdkZTA4NWM2MmZkMzZiNjYzYmQ1",
+  "snapshot_id": "MCwwZTRiZDFkMzVhNTQwNzYwMDliYmE1YmM5MDRjM2I2ZmU1YTVkZGNh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn"
-      },
-      "artists": [
-        {
-          "name": "Sir James",
-          "url": "https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ"
-        }
-      ],
-      "duration_ms": 370183,
-      "name": "Special - Club Mix",
-      "url": "https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 374946,
       "name": "Carnival 93 - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3Wa1lKL5IpFzy9D0m16vAn"
+      },
+      "artists": [
+        {
+          "name": "Sir James",
+          "url": "https://open.spotify.com/artist/6PtAs4fQxvRKKMt5TGZymZ"
+        }
+      ],
+      "duration_ms": 370183,
+      "name": "Special - Club Mix",
+      "url": "https://open.spotify.com/track/4PD8xGZquWX8gIGjBB0F1X"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
         }
       ],
-      "duration_ms": 379760,
-      "name": "Muzik - The Siren Mix",
-      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
+      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

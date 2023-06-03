@@ -296,7 +296,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 192599,
       "name": "Ainda Vou Morrer por N\u00e3o Falar",
       "url": "https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar"
@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Cangote",
+        "url": "https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8"
+      },
+      "artists": [
+        {
+          "name": "Davi Sham\u00e1",
+          "url": "https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166577,
+      "name": "Cangote",
+      "url": "https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL"
+    },
+    {
+      "album": {
         "name": "Capa de Revista",
         "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
@@ -4442,6 +4460,28 @@
       "duration_ms": 162188,
       "name": "Pois \u00c9",
       "url": "https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh"
+    },
+    {
+      "album": {
+        "name": "Ponto de Equil\u00edbrio",
+        "url": "https://open.spotify.com/album/47k1Dle4bslceDdSpCMQXj"
+      },
+      "artists": [
+        {
+          "name": "Tibi",
+          "url": "https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL"
+        },
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177158,
+      "name": "Ponto de Equil\u00edbrio",
+      "url": "https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz"
     },
     {
       "album": {

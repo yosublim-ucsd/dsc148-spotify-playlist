@@ -4266,7 +4266,7 @@
     {
       "album": {
         "name": "Junebug Rhapsody",
-        "url": "https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH"
+        "url": "https://open.spotify.com/album/4kyh3E4DolanD3BMxcxG04"
       },
       "artists": [
         {
@@ -4277,6 +4277,24 @@
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/0oxrapKkwUQf865tPTOByL"
+    },
+    {
+      "album": {
+        "name": "Junebug Rhapsody",
+        "url": "https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
       "duration_ms": 344000,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr"

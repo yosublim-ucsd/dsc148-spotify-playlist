@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 162001,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/2yGHTEyYjcx1rnbXnOjYe0"
@@ -3309,6 +3309,32 @@
     },
     {
       "album": {
+        "name": "Fala Pra Mim",
+        "url": "https://open.spotify.com/album/1Ns6fYPE01xuYlE4bkDTc5"
+      },
+      "artists": [
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "Foltran",
+          "url": "https://open.spotify.com/artist/2bjvIbzVp3PIIxVzmTt2ZR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fala Pra Mim",
+      "url": "https://open.spotify.com/track/3YFcWj5J3NizTOFCICudkU"
+    },
+    {
+      "album": {
         "name": "Falsos Amores!!",
         "url": "https://open.spotify.com/album/4x0mSmALz3M7K7cPIiz80U"
       },
@@ -3414,6 +3440,24 @@
       "duration_ms": 197083,
       "name": "Fases",
       "url": "https://open.spotify.com/track/6j33Zfy2COO1YH8v2LvCg7"
+    },
+    {
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/1Bx4P1sloYdu2ZNZ0brlmZ"
+      },
+      "artists": [
+        {
+          "name": "Greg BBX",
+          "url": "https://open.spotify.com/artist/0fanaB7FSXdOetP97ucUMJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/3kxYfCiaVv0UPBMXuhsPCX"
     },
     {
       "album": {
@@ -3686,7 +3730,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 203777,
       "name": "F\u00e3",
       "url": "https://open.spotify.com/track/6yvcMMKuVWYPBcUuSaWz2W"
@@ -3870,7 +3914,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 197203,
       "name": "Ginasta",
       "url": "https://open.spotify.com/track/4VxNDfNfU2C0XigRKpSDLV"
@@ -5600,7 +5644,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 84785,
       "name": "na bala!",
       "url": "https://open.spotify.com/track/7LfLNuX1FeZY3wUZMdLV15"
@@ -6306,6 +6350,24 @@
       "duration_ms": 163221,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/4ub33dXwwV4pSLMsfy8wqv"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/77EjzH7Bv46gZfMVQSPaHD"
+      },
+      "artists": [
+        {
+          "name": "BigJow",
+          "url": "https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156504,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/1uQmYGF2iYjlLTx9Ij5lFZ"
     },
     {
       "album": {
@@ -7592,6 +7654,32 @@
       "duration_ms": 149723,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/6RTFXyKwG1ZxUIyIoHHRyZ"
+    },
+    {
+      "album": {
+        "name": "O Homi \u00e9 Ruim Mas Emociona",
+        "url": "https://open.spotify.com/album/4N1hkzt4WZiE2ajDXsDThY"
+      },
+      "artists": [
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Luiz Brazil",
+          "url": "https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188638,
+      "name": "Se Arruma",
+      "url": "https://open.spotify.com/track/5k92vtxt4avd9w9fXw9JoA"
     },
     {
       "album": {

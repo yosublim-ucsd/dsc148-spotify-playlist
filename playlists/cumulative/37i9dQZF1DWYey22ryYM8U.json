@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Amigos (con Maria Becerra) [Bachata]",
+        "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "Amigos (con Maria Becerra) - Bachata",
+      "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "album": {
         "name": "Amor A Primera Vista",
         "url": "https://open.spotify.com/album/2UMbhed3WWoe88zIkyvWvG"
       },
@@ -474,7 +496,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
@@ -2522,7 +2544,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 184341,
       "name": "Lao' a Lao'",
       "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
@@ -3014,6 +3036,24 @@
       "duration_ms": 270200,
       "name": "Me Enamoro Mas de Ti",
       "url": "https://open.spotify.com/track/11WuRl9efXTiWYtvB2y8X3"
+    },
+    {
+      "album": {
+        "name": "Me EnRD",
+        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185822,
+      "name": "Me EnRD",
+      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
       "album": {
@@ -3524,7 +3564,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 215915,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
@@ -4222,7 +4262,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 203135,
       "name": "Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/7HB7UXn3aQxrQhkb1YS50E"

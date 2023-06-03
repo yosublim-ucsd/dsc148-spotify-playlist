@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "New Jazz",
+        "url": "https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2"
+      },
+      "artists": [
+        {
+          "name": "Lunchbox",
+          "url": "https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU"
+    },
+    {
+      "album": {
         "name": "Final Fantasy: The Finale",
         "url": "https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM"
       },
@@ -8036,6 +8054,24 @@
       "duration_ms": 109852,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ"
+    },
+    {
+      "album": {
+        "name": "U could stay",
+        "url": "https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz"
+      },
+      "artists": [
+        {
+          "name": "Lunchbox",
+          "url": "https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96019,
+      "name": "U could stay",
+      "url": "https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6"
     },
     {
       "album": {

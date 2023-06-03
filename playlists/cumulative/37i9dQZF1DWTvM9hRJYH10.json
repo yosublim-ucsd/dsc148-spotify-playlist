@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Greylan James",
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum. Cover: Tiera Kennedy",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Alabama Nights",
+        "url": "https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190922,
+      "name": "Alabama Nights",
+      "url": "https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5"
+    },
+    {
+      "album": {
         "name": "Alone Some",
         "url": "https://open.spotify.com/album/2M7tI07QU18C9RD5JNjya8"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 197129,
       "name": "As Close As I Can Get To You",
       "url": "https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO"
+    },
+    {
+      "album": {
+        "name": "As I Go",
+        "url": "https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5"
+      },
+      "artists": [
+        {
+          "name": "Remy Garrison",
+          "url": "https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202662,
+      "name": "As I Go",
+      "url": "https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux"
     },
     {
       "album": {
@@ -1219,6 +1255,42 @@
     },
     {
       "album": {
+        "name": "FLA",
+        "url": "https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU"
+      },
+      "artists": [
+        {
+          "name": "Jake Hill",
+          "url": "https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191573,
+      "name": "FLA",
+      "url": "https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO"
+    },
+    {
+      "album": {
+        "name": "Found It In You",
+        "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183444,
+      "name": "Found It In You",
+      "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
+    },
+    {
+      "album": {
         "name": "Front Row Seat",
         "url": "https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2"
       },
@@ -1292,6 +1364,24 @@
       "duration_ms": 180066,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra"
+    },
+    {
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180081,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ"
     },
     {
       "album": {
@@ -1691,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "How It Looks From Here",
+        "url": "https://open.spotify.com/album/2xjT6X1tTBsuwjMFU8KrME"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171320,
+      "name": "How It Looks From Here",
+      "url": "https://open.spotify.com/track/4hAfjznZNYNHDUwk8blpTb"
+    },
+    {
+      "album": {
         "name": "How Many Hangovers",
         "url": "https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk"
       },
@@ -1760,6 +1868,24 @@
       "duration_ms": 177711,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0pScsiLLSdwWVOIzCHJW0M"
+    },
+    {
+      "album": {
+        "name": "I Hate Airplanes",
+        "url": "https://open.spotify.com/album/04Esw3tpeyec7D9zxmEq7r"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184982,
+      "name": "I Hate Airplanes",
+      "url": "https://open.spotify.com/track/14ZSuAaYFhkzndL7dl3dMe"
     },
     {
       "album": {
@@ -1922,6 +2048,24 @@
       "duration_ms": 199493,
       "name": "If You Have To",
       "url": "https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN"
+    },
+    {
+      "album": {
+        "name": "If You Were A Song",
+        "url": "https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259876,
+      "name": "If You Were A Song",
+      "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
     },
     {
       "album": {
@@ -4549,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "TWO BROKE HEARTS",
+        "url": "https://open.spotify.com/album/36H4r65rax4ptGYfds64nC"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "TWO BROKE HEARTS",
+      "url": "https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io"
+    },
+    {
+      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId"
       },
@@ -4958,6 +5120,24 @@
       "duration_ms": 212913,
       "name": "You Just Get Older",
       "url": "https://open.spotify.com/track/00ffQISSDvdkURhzk5K45B"
+    },
+    {
+      "album": {
+        "name": "You Were Right (Nat's Song)",
+        "url": "https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "You Were Right - Nat's Song",
+      "url": "https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU"
     },
     {
       "album": {

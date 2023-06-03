@@ -2,9 +2,9 @@
 
 ### [Folksy Covers](https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa)
 
-> Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
+> Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-243 songs - 15 hr 33 min
+244 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,12 +225,13 @@
 | [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 | 2023-05-30 |
 | [This Land Is Your Land](https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/5gDWqAaDpMooblBYFpUq5l) | 3:40 | 2021-12-13 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-12-13 |  |
-| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 |  |
+| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 | 2023-06-03 |
 | [To Love Somebody](https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [To Love Somebody](https://open.spotify.com/album/1i2I4jCH7ISfrITKPp1vsd) | 3:26 | 2021-12-13 | 2022-07-29 |
 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 | 2021-12-13 |  |
 | [Traveling After Dark](https://open.spotify.com/track/7aPgZfsBEFutmKygEEZWTk) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Traveling After Dark](https://open.spotify.com/album/1xDzNoxT7dn9bG3uyjHRUn) | 3:49 | 2021-12-13 | 2022-07-27 |
 | [True Love Will Find You In The End](https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [True Love Will Find You In The End](https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL) | 2:45 | 2021-12-13 | 2022-07-28 |
 | [Turn! Turn! Turn!](https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Turn! Turn! Turn!](https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC) | 2:57 | 2022-05-13 | 2022-07-21 |
+| [Twelve\-Thirty \(Young Girls Are Coming To The Canyon\) \[feat\. Susanna Hoffs, Chris Stills & Sheryl Crow\]](https://open.spotify.com/track/6wyiD5nZjbBsHnPwgUS6YJ) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Folkocracy](https://open.spotify.com/album/7FGoS4iN1v6SlsiUx1X5Wx) | 3:42 | 2023-06-02 |  |
 | [Under Pressure](https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Under Pressure](https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX) | 4:55 | 2021-12-13 |  |
 | [Union Maid](https://open.spotify.com/track/5lRJJjYg7D3UPpE1i8gMYV) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Union Maid](https://open.spotify.com/album/7iciQuRI8P2WxV9D1mqwpr) | 2:12 | 2023-02-03 | 2023-03-07 |
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 | 2023-03-10 |  |

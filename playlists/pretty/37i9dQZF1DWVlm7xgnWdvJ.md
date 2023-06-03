@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,374 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,394 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 40 | [Atewo\-Lara Ka Tepa Mo'se \- Ben Gomori's Jùish Edit](https://open.spotify.com/track/07ZU8s3fl4mry8BIFxUtuT) | [Segun Adewale](https://open.spotify.com/artist/40iO6iCHrWO8AU857jAntW), [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [Segun Adewale \(Ben Gomori / Smbd Edits\)](https://open.spotify.com/album/5Ms9yyuQQpkoahYejKSqnH) | 8:30 |
 | 41 | [Philosophy! \- Crazy P Remix](https://open.spotify.com/track/2xpLZhgffNgDnq7ImKUSuB) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [Grooves of the World](https://open.spotify.com/album/3C1th5JnoBUj8qxVBhNo61) | 7:27 |
 | 42 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 |
-| 43 | [Pressure](https://open.spotify.com/track/3mXnTPoiO2oluQM6ZtTYys) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/0eLePcFhmLkpmHza95TQXb) | 2:48 |
+| 43 | [Pressure](https://open.spotify.com/track/1AaDIOjJHuUYygQqhaAKkH) | [Jesse Rose](https://open.spotify.com/artist/45k3kmPVYYfmWOTZyby7cq), [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU) | [Alright Mate](https://open.spotify.com/album/09ViJlYhlXIRSB0rg17OSw) | 2:48 |
 | 44 | [On the Rock \- Synapson Remix](https://open.spotify.com/track/57CAYbMGp1yJEvGcKcsTqh) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR) | [On the Rock \(Synapson Remix\)](https://open.spotify.com/album/2JN96d7IymS6xiEVCckWj7) | 5:12 |
 | 45 | [Baikonur](https://open.spotify.com/track/0dxSAG24osIb25Rs8iNkIC) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Soundtrack Of A Space Expedition](https://open.spotify.com/album/7Ji0YDQFQSCkJgqImKJvbM) | 5:18 |
 | 46 | [August Heat \- Club Dub Edit](https://open.spotify.com/track/38d0ibZCfdFw4fzHGTP4xg) | [Leo Leonski](https://open.spotify.com/artist/2Q4xYVGbSIQoC7rqSA6Huo) | [August Heat \(Club Dub Edit\)](https://open.spotify.com/album/6e2MyI4xycub97a7G2DW3M) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlm7xgnWdvJ.md) - [plain]
 | 99 | [Shikiria \- Day Mix](https://open.spotify.com/track/5tNmUCoZuBY4z2oPxENNHJ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 3:59 |
 | 100 | [Oasis](https://open.spotify.com/track/1q8Mv29O7xbvR7Spdn5gM2) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [Oasis](https://open.spotify.com/album/6PC0oDvNSGnPzrpFL2viNI) | 10:22 |
 
-Snapshot ID: `MCwwMGQ4YmRjYzdkY2YyZWRlOGI2NGM2ZDc5ZDk1YTQzNGJhZWFjYjY5`
+Snapshot ID: `MCwyOTUwZGY2MjI0ZmY0YTA4MjAzMmJhNTU3MzZhY2YxZTc3YmM1YmMz`

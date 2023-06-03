@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-128 songs - 7 hr 48 min
+129 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Quisiera Que Estés Acá](https://open.spotify.com/track/6ykcUdGzVRqXRri3JqgLm8) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Quisiera Que Estés Acá](https://open.spotify.com/album/7h8hyIl17lK83coCU4SlsL) | 4:50 | 2023-03-17 | 2023-05-20 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2023-03-17 |  |
 | [Qué piensas hacer sin mi amor?](https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Qué piensas hacer sin mi amor?](https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h) | 4:08 | 2023-03-17 |  |
-| [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2023-03-17 |  |
+| [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2023-03-17 | 2023-06-03 |
 | [Recuerdo Infinito](https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj) | [Christian Jean](https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL) | [Recuerdo Infinito](https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP) | 4:53 | 2023-03-17 |  |
 | [San Menace](https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [San Menace](https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW) | 3:13 | 2023-04-14 |  |
 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 | 2023-04-21 |  |
@@ -125,6 +125,7 @@
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2023-03-17 |  |
 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2023-03-17 |  |
 | [Tu Demente](https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Tu Demente](https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0) | 3:03 | 2023-05-19 |  |
+| [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 | 2023-06-02 |  |
 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 | 2023-04-21 |  |
 | [un sueño raro](https://open.spotify.com/track/2ASygHwRhyPWzh6pdiuWYR) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 3:12 | 2023-03-17 | 2023-04-22 |
 | [Valientes](https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Valientes](https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z) | 4:01 | 2023-03-17 |  |

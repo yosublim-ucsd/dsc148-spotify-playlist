@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "l'\u00cele",
+        "url": "https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U"
+      },
+      "artists": [
+        {
+          "name": "Joseph Carr\u00e9",
+          "url": "https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "l'\u00cele",
+      "url": "https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs"
+    },
+    {
+      "album": {
         "name": "La hi\u00e9rarchill",
         "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
       },
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 187542,
       "name": "Nyx",
       "url": "https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU"

@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Breakfast In Birmingham [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210160,
+      "name": "Breakfast In Birmingham [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/1rN1O6lNjyw1P3SNs3KZzs"
       },
@@ -1624,6 +1646,24 @@
       "duration_ms": 235773,
       "name": "Dance Floor",
       "url": "https://open.spotify.com/track/5ZxAGed5sWi1aBbtItv0m8"
+    },
+    {
+      "album": {
+        "name": "Dancing in the Sky",
+        "url": "https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
     },
     {
       "album": {
@@ -2432,7 +2472,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 214181,
       "name": "Friends (How To Do It)",
       "url": "https://open.spotify.com/track/0JYYCDbiTr9xgrdS0F3S1A"
@@ -3020,7 +3060,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 334600,
       "name": "Hear My Dear",
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
@@ -3266,7 +3306,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q"
@@ -5432,7 +5472,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
@@ -5584,6 +5624,24 @@
       "duration_ms": 169290,
       "name": "Plain Dealing",
       "url": "https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9"
+    },
+    {
+      "album": {
+        "name": "Playin' On The Tracks",
+        "url": "https://open.spotify.com/album/5k3jXuGsFWOIOfsXtP63Wp"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159640,
+      "name": "Playin' On The Tracks",
+      "url": "https://open.spotify.com/track/4YCwBjIphmO1L4eTWbAk0n"
     },
     {
       "album": {
@@ -6093,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Save the World",
+        "url": "https://open.spotify.com/album/2UFaxDNc4afGwqV26fOeQ7"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309098,
+      "name": "Save the World",
+      "url": "https://open.spotify.com/track/6ZSDpQ9SjjH0zvbj6DQtWT"
+    },
+    {
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -6286,6 +6362,28 @@
       "duration_ms": 222320,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3JqWFMXFdMXUS1mwpfOKHX"
+    },
+    {
+      "album": {
+        "name": "What If I EP",
+        "url": "https://open.spotify.com/album/2R49Epd53NfwBsHuPO9PZu"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        },
+        {
+          "name": "Charlie Gabriel",
+          "url": "https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269015,
+      "name": "Slow Pace Of Time [Feat. Charlie Gabriel]",
+      "url": "https://open.spotify.com/track/3BXlWG4SqubAmdcGac4cNR"
     },
     {
       "album": {
@@ -7494,7 +7592,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 239557,
       "name": "They Wait",
       "url": "https://open.spotify.com/track/5F3KK7xrW55qI2Vm7meMnc"

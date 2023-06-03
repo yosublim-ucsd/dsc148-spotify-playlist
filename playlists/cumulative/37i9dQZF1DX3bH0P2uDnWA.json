@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 150589,
       "name": "Lady Bedford",
       "url": "https://open.spotify.com/track/2nyGU7gxs5j9Om3xtjM0Ev"
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 250766,
       "name": "Make Me Dizzy (Radio Edit)",
       "url": "https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3"
@@ -3676,6 +3676,28 @@
       "duration_ms": 213120,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+    },
+    {
+      "album": {
+        "name": "Rug Cutter",
+        "url": "https://open.spotify.com/album/3HLK2bbzAYOfmccK1BIcil"
+      },
+      "artists": [
+        {
+          "name": "The Hebbe Sisters",
+          "url": "https://open.spotify.com/artist/1V0rRSX1qxdIoQySHhSP79"
+        },
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178084,
+      "name": "Rug Cutter",
+      "url": "https://open.spotify.com/track/2cpJJubKd3E8DiRZvnNgJZ"
     },
     {
       "album": {
@@ -5724,6 +5746,28 @@
       "duration_ms": 170273,
       "name": "Why Don't You - Radio Edit",
       "url": "https://open.spotify.com/track/24dr5sIVbMtzBhbXqBUH29"
+    },
+    {
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/5fQOUYgktMreW8D7uAOzIp"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/2FWr5t418BxiNKelwLlxnV"
     },
     {
       "album": {

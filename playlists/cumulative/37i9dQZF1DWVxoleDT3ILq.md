@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Paz Court.
+> Todo el sonido indie de Chile\. Foto: Bocho.
 
-359 songs - 21 hr 48 min
+360 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 | 2022-12-10 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 | 2023-03-26 |
-| [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 | 2023-05-27 |
+| [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 |  |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |
 | [Kurt & Courtney](https://open.spotify.com/track/7E1UM6gU9bKFzfWAivMK4M) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Kurt & Courtney](https://open.spotify.com/album/2ZCQvBGaccRTo4f6pOOn3d) | 3:20 | 2022-04-15 | 2022-07-25 |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-04-15 | 2022-12-10 |
@@ -278,7 +278,7 @@
 | [Ruiseñor](https://open.spotify.com/track/40GU1Arl19P6U2bO25gOq8) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Ruiseñor](https://open.spotify.com/album/3rtVmKiXgVGkzMz4jdhVJ3) | 3:18 | 2022-04-15 | 2022-07-28 |
 | [Río](https://open.spotify.com/track/3fOK6EErTZPEPYfcUP88H9) | [Los Mil Jinetes](https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn) | [Río](https://open.spotify.com/album/35y2ja42BcPxY5P98sARzo) | 3:25 | 2022-04-15 | 2022-07-25 |
 | [Sabes](https://open.spotify.com/track/7ldFXJQVQkyE4sYc3YJf4i) | [Los Tristes](https://open.spotify.com/artist/5QFSZNKhWVCHkA0ZlSYrbK) | [Sabes](https://open.spotify.com/album/52antku4m9Xw7CZceClUIg) | 3:35 | 2022-04-15 | 2022-07-27 |
-| [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 |  |
+| [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 | 2023-06-03 |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |
 | [Secreto de cuatro paredes \- Acoustic](https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP), [MemoDz](https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj) | [Secreto de cuatro paredes \(Acoustic\)](https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3) | 2:13 | 2022-04-15 | 2022-07-21 |
@@ -291,7 +291,7 @@
 | [Sin Ofender](https://open.spotify.com/track/6dNkn16oWASmBhkNrCyLik) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [Sin Ofender](https://open.spotify.com/album/2wDiayqUBx2uOH9paOpVjT) | 4:47 | 2022-04-15 | 2022-08-27 |
 | [SIN TI](https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM) | [Benji B](https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R) | [SIN TI](https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX) | 2:54 | 2023-03-24 |  |
 | [Sin Título](https://open.spotify.com/track/6d8GtfivRUvdI3SU7PFD3t) | [Hija de Rojo](https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd) | [Sin Título](https://open.spotify.com/album/2izT2j03zrRep2fAXwdXGL) | 3:08 | 2022-04-15 | 2022-07-29 |
-| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 |  |
+| [Sincronía Universal \- Edición Deluxe](https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j) | [Landabur](https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Duelo \(Edición Deluxe\)](https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P) | 3:26 | 2023-04-07 | 2023-06-03 |
 | [Sinfonía](https://open.spotify.com/track/4Jr5xnojFBpqe2e0lnor5A) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Sinfonía](https://open.spotify.com/album/5VeegDgRdju23x1HN6Gy2I) | 3:03 | 2022-04-15 | 2022-07-29 |
 | [Sobre la Profundidad](https://open.spotify.com/track/5FWCG1rDK3X2FPMpzmddxd) | [Matorral](https://open.spotify.com/artist/2a8POhVZ2iN9PK21YPygmd) | [Sobre la Profundidad](https://open.spotify.com/album/2dGiRub4mmXwFzRmp9dwJE) | 3:42 | 2022-04-15 | 2022-07-28 |
 | [Solo Solo](https://open.spotify.com/track/16qBTMdJ1aedTCf078l492) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Solo Solo](https://open.spotify.com/album/4fFcQLekE7gINxM2zqd9xo) | 3:07 | 2022-05-27 | 2023-01-28 |
@@ -327,6 +327,7 @@
 | [Tu Centro Se Aferra a Mi](https://open.spotify.com/track/59OQfyqSyAbfJIKIaixaS1) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII), [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [III](https://open.spotify.com/album/2T9nC7wwk50wrpcFwpYxLz) | 3:16 | 2022-04-15 | 2022-07-27 |
 | [Tu Demente](https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Tu Demente](https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0) | 3:03 | 2023-05-19 |  |
 | [Tu Momento](https://open.spotify.com/track/1X5tpJelqlfxewgLmzi5R1) | [Blanco Leal](https://open.spotify.com/artist/43WloHpCaVPjqESUDEDDVq), [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Tu Momento](https://open.spotify.com/album/1Uu7yjZmuz4MbNAyNjJXki) | 3:49 | 2022-10-07 | 2023-04-29 |
+| [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 | 2023-06-02 |  |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-04-15 | 2022-12-10 |
 | [tu voz en mis audífonos](https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [tu voz en mis audífonos](https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS) | 3:13 | 2022-04-15 |  |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-04-29 |  |

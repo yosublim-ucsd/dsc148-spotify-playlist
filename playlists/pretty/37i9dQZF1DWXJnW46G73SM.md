@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية اليوم🤩 الغلاف: مصطفى حجاج
+> أحدث الأغاني المصرية اليوم🤩 الغلاف: مسار إجباري ودياب
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,828 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,886 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 |
-| 2 | [طوب الارض](https://open.spotify.com/track/3rzs9LV0Cxa6VyTXSBkUHI) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [طوب الارض](https://open.spotify.com/album/0oC9xz9pXjJVJOc4XR3AQd) | 2:31 |
-| 3 | [البصة](https://open.spotify.com/track/4kF2FhSmkI8rN3a6OvxThx) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [البصة](https://open.spotify.com/album/5aUdP64reXtlbe21tlu8B6) | 3:13 |
-| 4 | [Habet Tabtaba](https://open.spotify.com/track/31l0bmTZLNaVOysinrJ2R1) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Habet Tabtaba](https://open.spotify.com/album/3pKOzJL8yLs5sTWmze8rJW) | 4:04 |
+| 1 | [Habet Tabtaba](https://open.spotify.com/track/31l0bmTZLNaVOysinrJ2R1) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Habet Tabtaba](https://open.spotify.com/album/3pKOzJL8yLs5sTWmze8rJW) | 4:04 |
+| 2 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 |
+| 3 | [طوب الارض](https://open.spotify.com/track/3rzs9LV0Cxa6VyTXSBkUHI) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [طوب الارض](https://open.spotify.com/album/0oC9xz9pXjJVJOc4XR3AQd) | 2:31 |
+| 4 | [البصة](https://open.spotify.com/track/4kF2FhSmkI8rN3a6OvxThx) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [البصة](https://open.spotify.com/album/5aUdP64reXtlbe21tlu8B6) | 3:13 |
 | 5 | [Met7amelany](https://open.spotify.com/track/269WJylolN9d4Igz7NVvDt) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Met7amelany](https://open.spotify.com/album/63R80jJ48lRDXzgMqJ3SuP) | 4:34 |
 | 6 | [Bent El Nas](https://open.spotify.com/track/61JQ7hNgNjIBdfjOAmrtZC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Bent El Nas](https://open.spotify.com/album/7Mw6RzdygHFoN2Kd9fzSy8) | 3:00 |
 | 7 | [El Baghdada](https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [El Baghdada](https://open.spotify.com/album/5GyhSegrimrOsUJQXWMuif) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [صباح اسكندراني](https://open.spotify.com/track/1XhlXdZEXF6gG0lFnq9iTO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صباح اسكندراني](https://open.spotify.com/album/2GeZia68kzHFeTZfbe1Bhn) | 3:35 |
 | 50 | [El Donia Gamila](https://open.spotify.com/track/45QgBtp6A7yl2Be6KQyryd) | [Royo](https://open.spotify.com/artist/57wDmUaZi3U7qm3mmjC7em) | [El Donia Gamila](https://open.spotify.com/album/6zVAEYiG5GOo4iAYYIeRb1) | 3:45 |
 
-Snapshot ID: `MCwyNTdlNjk3YWFmYzIzMzY4ZmI0NDNlOTgzNTYyNWRiYzc4NDUyMWRk`
+Snapshot ID: `MCxhN2Y1OTA5MDdhMjYzMDA5OTczNjJkYzViMmUxNjNlMGQ4ZTg4M2M2`

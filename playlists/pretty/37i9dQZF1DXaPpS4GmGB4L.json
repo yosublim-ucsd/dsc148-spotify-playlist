@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 45881,
+  "num_followers": 45964,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2VjZTQyM2UyZDFiZGVlNGU2ZjBlZmYzYzZiYzc3ZmZiOTgwZjM3",
+  "snapshot_id": "MCw5M2I4MDAyN2VmMDNiNjZkYjBmMmFhMWViZTA1OWJkYWE4MGRkZThi",
   "tracks": [
     {
       "added_at": "2023-05-26 13:45:42",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-26 13:45:42",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "One Way Out - Mono Version",
-      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
-    },
-    {
-      "added_at": "2023-05-26 13:45:42",
-      "album": {
         "name": "The Very Best of Wilson Pickett",
         "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 187826,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
+    },
+    {
+      "added_at": "2023-05-26 13:45:42",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "One Way Out - Mono Version",
+      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
     },
     {
       "added_at": "2023-05-26 13:45:42",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-05-26 13:45:42",
       "album": {
+        "name": "Cold Black Night (Live at VH1)",
+        "url": "https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cold Black Night - Live at VH1",
+      "url": "https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs"
+    },
+    {
+      "added_at": "2023-05-26 13:45:42",
+      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 217333,
       "name": "Stop Messin' Round",
       "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
-    },
-    {
-      "added_at": "2023-05-26 13:45:42",
-      "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
-      },
-      "artists": [
-        {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Pay the Price",
-      "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
     }
   ],
   "unique_name": "Upbeat Blues",

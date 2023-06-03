@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 577333,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/5Pk2BmxSIFzPrt1P2pfhsT"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 281866,
       "name": "Anc no mori per amor ni per al",
       "url": "https://open.spotify.com/track/4tvTC4nt8LK0GHFtzGOGeV"
@@ -1711,6 +1711,40 @@
     },
     {
       "album": {
+        "name": "Musik der Gotik",
+        "url": "https://open.spotify.com/album/3A2VErz3NbBVFwZsuY6mxN"
+      },
+      "artists": [
+        {
+          "name": "Petrus de Cruce",
+          "url": "https://open.spotify.com/artist/73BuBRlcu2vAbSCy5OUaXn"
+        },
+        {
+          "name": "Charles Brett",
+          "url": "https://open.spotify.com/artist/5T8xTmNbPuKAv40XWHZkWh"
+        },
+        {
+          "name": "Martyn Hill",
+          "url": "https://open.spotify.com/artist/04j7sgxiAlbBtzeoBchvaP"
+        },
+        {
+          "name": "Early Music Consort Of London",
+          "url": "https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd"
+        },
+        {
+          "name": "David Munrow",
+          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Aucun ont trouv\u00e9",
+      "url": "https://open.spotify.com/track/5T9KJGC3x9pZjI3rGv5zLG"
+    },
+    {
+      "album": {
         "name": "Music of the Gothic Era",
         "url": "https://open.spotify.com/album/4R6ivGciSWEBRt7xZZwW1E"
       },
@@ -1738,7 +1772,7 @@
       ],
       "date_added": "2018-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 194000,
       "name": "Aucun ont trouv\u00e9",
       "url": "https://open.spotify.com/track/77mG9Gdo4X8cZBemZqg1HS"
@@ -2310,7 +2344,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224320,
       "name": "Belle Bonne Sage",
       "url": "https://open.spotify.com/track/4ZD1oauOtNBeytq0zYMFOV"
@@ -3694,7 +3728,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 224333,
       "name": "Ce jour de l'an",
       "url": "https://open.spotify.com/track/3jVDpThoBZnoKzVYB944EO"
@@ -4704,7 +4738,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 181973,
       "name": "Congaudeat Turba Fidelium: Trope de Benedicamus",
       "url": "https://open.spotify.com/track/09nkDpQeRx4OYmHrVADuo7"
@@ -4844,7 +4878,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 369400,
       "name": "Crux triumphans",
       "url": "https://open.spotify.com/track/6N34LW1EiCyHVFrKBQTdXp"
@@ -5798,7 +5832,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 193453,
       "name": "Dolce speranza d'amoroso foco",
       "url": "https://open.spotify.com/track/6l1uK1ancbkzBAaekCIk7p"
@@ -6096,7 +6130,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 350373,
       "name": "Dunstable: Crux fidelis",
       "url": "https://open.spotify.com/track/35sX7bYdqX5YruSYA9UMCx"
@@ -7802,7 +7836,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -8399,6 +8433,40 @@
     },
     {
       "album": {
+        "name": "Musik der Gotik",
+        "url": "https://open.spotify.com/album/3A2VErz3NbBVFwZsuY6mxN"
+      },
+      "artists": [
+        {
+          "name": "Philippe de Vitry",
+          "url": "https://open.spotify.com/artist/5Nl8pUjgb9I7fAxbrpmcXh"
+        },
+        {
+          "name": "James Bowman",
+          "url": "https://open.spotify.com/artist/4xxFcRBOp4jUE3tFHEEYeN"
+        },
+        {
+          "name": "Charles Brett",
+          "url": "https://open.spotify.com/artist/5T8xTmNbPuKAv40XWHZkWh"
+        },
+        {
+          "name": "Early Music Consort Of London",
+          "url": "https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd"
+        },
+        {
+          "name": "David Munrow",
+          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Impudenter circumivi",
+      "url": "https://open.spotify.com/track/0qIqJjEbBxvVyuvIOGlI2U"
+    },
+    {
+      "album": {
         "name": "Music of the Gothic Era",
         "url": "https://open.spotify.com/album/4R6ivGciSWEBRt7xZZwW1E"
       },
@@ -8426,7 +8494,7 @@
       ],
       "date_added": "2020-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 189666,
       "name": "Impudenter circumivi",
       "url": "https://open.spotify.com/track/5Fo9auBwwDDCqGKhcOsPX4"
@@ -8684,7 +8752,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 182266,
       "name": "Isorhythmic Motets: Apostolo glorioso - Cum tua doctrina - Andreas, Christi famulus",
       "url": "https://open.spotify.com/track/7nTwlmrw5dRthSvSTmCsKa"
@@ -9486,7 +9554,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "Kyrie - Magne Deus: Trope de Kyrie",
       "url": "https://open.spotify.com/track/6mjanDlk1J90dTicyNLakM"
@@ -10172,7 +10240,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 464960,
       "name": "Lamentations for Holy Saturday (3-8 Voices): Lectio II",
       "url": "https://open.spotify.com/track/1TXNn3lIZpj6xLDwvggmun"
@@ -11285,6 +11353,28 @@
     },
     {
       "album": {
+        "name": "Marie, fleur du Carmel",
+        "url": "https://open.spotify.com/album/01QmhYp7R9DDI3JaJdS4Zt"
+      },
+      "artists": [
+        {
+          "name": "John Dunstable",
+          "url": "https://open.spotify.com/artist/3DL7TTcfjDAJiDrhBl3q2H"
+        },
+        {
+          "name": "Choeur des Moniales de Pecs",
+          "url": "https://open.spotify.com/artist/0UBEkR9at6Ec7rItMEuw98"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366628,
+      "name": "Magnificat",
+      "url": "https://open.spotify.com/track/5dt4WIHaVlfJiWb06LyzI4"
+    },
+    {
+      "album": {
         "name": "Gothic Italy: Johannes Ciconia, Matteo da Perugia, Zaccara da Teramo",
         "url": "https://open.spotify.com/album/2ZYMwxXWFyYoqtCKIAfDeP"
       },
@@ -11640,7 +11730,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 724173,
       "name": "Mevlana",
       "url": "https://open.spotify.com/track/6UakGxhmXoj7mjMGF8LgBg"
@@ -12706,7 +12796,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 501840,
       "name": "Non puesc sofrir (Bornelh) - Contrafactum: Ar me puesc (Cardenal)",
       "url": "https://open.spotify.com/track/4snCx4JKm4l4ougpvJCqmC"
@@ -12826,6 +12916,32 @@
       "duration_ms": 260013,
       "name": "Nunc gaudeant materna viscera (Antiphona)",
       "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
+    },
+    {
+      "album": {
+        "name": "Dufay: The Virgin and the Temple",
+        "url": "https://open.spotify.com/album/52WKbUKg6Gm7YTVpmXh7pq"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Pomerium",
+          "url": "https://open.spotify.com/artist/7bOtcnLJxTHcM3HtLBLGaE"
+        },
+        {
+          "name": "Alexander Blachly",
+          "url": "https://open.spotify.com/artist/63Po7lFRbodEQHZlA9P142"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387000,
+      "name": "Nuper rosarum flores",
+      "url": "https://open.spotify.com/track/5tXOPo8rF6NaX4geCe1poX"
     },
     {
       "album": {
@@ -16100,7 +16216,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 326333,
       "name": "Sancti spiritus assit nobis gratia",
       "url": "https://open.spotify.com/track/6AhzFVGyUCw7HpdKorZ1k6"
@@ -17816,7 +17932,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 416146,
       "name": "Veni Sancte Spiritus - Veni Creator, JD 32",
       "url": "https://open.spotify.com/track/2rTXmscEox4oRfQQdWQuNj"
@@ -17842,7 +17958,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 386533,
       "name": "Veni Sancte Spiritus et emitte/Veni Sancte Spiritus et infunde/Veni Creator Spiritus mentes tu - 1987 Remastered Version",
       "url": "https://open.spotify.com/track/0Kok1yqlbqw4RPAwaq9aPT"
@@ -17975,6 +18091,36 @@
     },
     {
       "album": {
+        "name": "Musik der Gotik",
+        "url": "https://open.spotify.com/album/3A2VErz3NbBVFwZsuY6mxN"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onin",
+          "url": "https://open.spotify.com/artist/6Evn9uslhCQO9UoagwGVDZ"
+        },
+        {
+          "name": "James Bowman",
+          "url": "https://open.spotify.com/artist/4xxFcRBOp4jUE3tFHEEYeN"
+        },
+        {
+          "name": "Early Music Consort Of London",
+          "url": "https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd"
+        },
+        {
+          "name": "David Munrow",
+          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545013,
+      "name": "Viderunt omnes",
+      "url": "https://open.spotify.com/track/5iBW4nHUwb2fRMHjyWnQET"
+    },
+    {
+      "album": {
         "name": "Music of the Gothic Era",
         "url": "https://open.spotify.com/album/4R6ivGciSWEBRt7xZZwW1E"
       },
@@ -17998,7 +18144,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 554000,
       "name": "Viderunt omnes",
       "url": "https://open.spotify.com/track/5zoWCXM4E49X6OYPzEIcOd"
@@ -18176,7 +18322,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 251346,
       "name": "Vous ne me faites morir",
       "url": "https://open.spotify.com/track/1xNyWHmUD7TevlNrmYNXrk"

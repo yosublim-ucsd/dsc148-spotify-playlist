@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,740 likes - 75 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,827 likes - 75 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 31 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 |
 | 32 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 |
 | 33 | [Seemaraja Swag](https://open.spotify.com/track/2aZrRfplV2lvKbhzuEyO3U) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Vignesh Narayanan](https://open.spotify.com/artist/1lSvO0nN0XCmQfOPhL3Oac), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Swetha Suresh](https://open.spotify.com/artist/44vvZVE1qBKy23InVwjnRL) | [Seemaraja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41iC61HwQAga6GAVvOtXAz) | 1:30 |
-| 34 | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/track/5EbAvvCyUFOhixZyCGDfAI) | [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn) | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/album/6w0jwN8WqJ9dzKsat5zAwP) | 1:46 |
-| 35 | [Kabadi](https://open.spotify.com/track/0RVwHo27QrxbC7i6ed6OCq) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mg9ASfIe2gsUbL1JK18JL) | 1:44 |
+| 34 | [Kabadi](https://open.spotify.com/track/0RVwHo27QrxbC7i6ed6OCq) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mg9ASfIe2gsUbL1JK18JL) | 1:44 |
+| 35 | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/track/5EbAvvCyUFOhixZyCGDfAI) | [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn) | [Thangalaan Exclusive Making Theme \(From "Thangalaan"\)](https://open.spotify.com/album/6w0jwN8WqJ9dzKsat5zAwP) | 1:46 |
 | 36 | [Run & Die \(Theme\)](https://open.spotify.com/track/0lGGJoZaNbzbbrXtJmi7g7) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Lavita M\. Lobo](https://open.spotify.com/artist/3hJ618EY1h9PG60hO1GKki) | [Run & Die \(Theme\) \(From "Enemy"\)](https://open.spotify.com/album/2n7a9BCCvdrcF8cKx7EI7b) | 1:46 |
 | 37 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 |
 | 38 | [Veeram \(From "Veeram"\)](https://open.spotify.com/track/1J6ikQBFwj7AzqHc6FbBXv) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [D.S.P Rocks](https://open.spotify.com/album/1uMnKxMY7Ax2siVcySsFgK) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 74 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 75 | [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 |
 
-Snapshot ID: `MCxmNmRkY2Q1ZWYzZGU2Y2VjM2M5YjMwNDVmNDgzMGE5MTc2M2Y0YWRi`
+Snapshot ID: `MCwyY2U1ZmJmMzJmNTk4NGJlNWNlNzY0YTIwMzJhN2E2OTRhYWZmZGQx`

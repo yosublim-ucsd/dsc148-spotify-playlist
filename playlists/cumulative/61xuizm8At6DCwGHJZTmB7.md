@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-277 songs - 1 day 2 hr 53 min
+278 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Every Season](https://open.spotify.com/track/7ufiyvwjHrub0fzrreI6uF) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl) | 4:16 | 2023-04-19 |  |
 | [Every Victory \- Live](https://open.spotify.com/track/43kVMDyDrekHYKio5D6ftF) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Every Victory \(Live\)](https://open.spotify.com/album/1ttOGXPesDYrxBAkkTsoXj) | 8:47 | 2022-02-17 | 2022-04-02 |
 | [Everything Is Changing \- Live](https://open.spotify.com/track/0OuEwptVO30M0Q4MJQCpyL) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP) | [Everything Is Changing \(Live\)](https://open.spotify.com/album/3zZXu0e7cCMYuYVTZ33O50) | 8:23 | 2022-02-25 | 2022-04-05 |
+| [Everything That Has Breath \(Praise\) \- Live](https://open.spotify.com/track/7uHQGA1u5M82LwTJBXvuTy) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Everything That Has Breath \(Praise\) \[Live\]](https://open.spotify.com/album/0aduoecfOr7N3KKHHu4Mck) | 4:28 | 2023-06-02 |  |
 | [Faithful](https://open.spotify.com/track/2VQJFp46zYr6L4QyzstmRz) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Miracle Maker + Faithful](https://open.spotify.com/album/3xbSzDKD6mggwMXii4TiGd) | 4:40 | 2022-02-17 | 2022-04-05 |
 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 | 2022-02-17 | 2022-06-10 |
 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 | 2022-07-13 | 2023-04-15 |

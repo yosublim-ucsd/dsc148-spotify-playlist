@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. lauren sanderson
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,004 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,088 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 46 | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/track/4ii1EP51tte7qqIkqeK49C) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Bears In Trees](https://open.spotify.com/artist/4dAQ5VFw5nhwA6rTf3ENQ2) | [No Point Pretending \(Song For Tour\)](https://open.spotify.com/album/6gmVqEo4VshMfzvb27DmWp) | 2:59 |
 | 47 | [Endless Nightmare](https://open.spotify.com/track/0CTho16ngRNbpEFgWdxXR5) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Maxx Xero](https://open.spotify.com/artist/08uWU3rSpPVM1Ik119duOa) | [Endless Nightmare](https://open.spotify.com/album/2NSJ6GGgSSHtZfsMjwhWqI) | 2:31 |
 | 48 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
-| 49 | [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 |
+| 49 | [cut my hair](https://open.spotify.com/track/26vtFc2QpDI4yZ69B3qC1i) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/41BWjJwCPI8Hg0h3A14flj) | 2:56 |
 | 50 | [BUMMER!](https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL) | 2:39 |
 | 51 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 52 | [Twinkle Twinkle](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 85 | [I Don't Like You..OK](https://open.spotify.com/track/3efDwzM2vqCGXdu1Z98PZb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG), [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Untouched Hearts \- EP](https://open.spotify.com/album/77cx5gmY04AHhTVDG6iitO) | 1:52 |
 
-Snapshot ID: `MCxiMDE4ZDBlMmVlMWE0YTcyZmY5YmQ0YTUwODQ4NTRkYTc0ZjllNjk1`
+Snapshot ID: `MCwyNjQ2Yjg5NWNiNWRiMGVmZGM4NTMyNzM0MDU1NjMxNzZkYjk4M2Y5`

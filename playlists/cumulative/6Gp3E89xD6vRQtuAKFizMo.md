@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-180 songs - 8 hr 57 min
+182 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 | 2022-08-16 | 2023-04-09 |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 | 2022-10-29 |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 | 2022-12-03 |
+| [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 |  |
 | [GOIN' ROUND](https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe) | [SMITHWORKS](https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS) | [GOIN' ROUND](https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto) | 2:25 | 2023-02-14 | 2023-04-01 |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
@@ -110,6 +111,7 @@
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-04-09 |
 | [MOTION](https://open.spotify.com/track/4EzW52mbVR93yJVnHYi710) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [MOTION](https://open.spotify.com/album/7wLPe5WdB6xkxmEEQV1kqy) | 2:14 | 2023-04-07 |  |
 | [Move It](https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Move It](https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo) | 2:20 | 2022-06-24 | 2023-01-28 |
+| [Move Your Body](https://open.spotify.com/track/3sX6nnMGqC5WS88TcaOBfM) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Move Your Body](https://open.spotify.com/album/79GIJFnwlmxctKHpo0dLqJ) | 2:48 | 2023-06-03 |  |
 | [Music Means Love Forever](https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/2Fd0eRQIYmYhmQguxmZH8j) | 3:27 | 2022-05-06 | 2022-09-25 |
 | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/track/5cvbgqwWxlvC5la8h86qRi) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/album/68TkP5GE6s34dBCSdjnajh) | 2:39 | 2023-02-03 | 2023-04-09 |
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-05 |  |

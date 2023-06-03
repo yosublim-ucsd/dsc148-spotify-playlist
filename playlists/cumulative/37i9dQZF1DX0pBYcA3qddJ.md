@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-422 songs - 1 day 4 hr 10 min
+423 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/track/3eBPhA9APSJNZlWv1Rln4j) | [マヌエル・ポンセ](https://open.spotify.com/artist/5skHzNuRMVm4Ky3IAMW00M), [宮田 大](https://open.spotify.com/artist/6NlblLui5L3Nj9yLEa7Tze) | [Estrellita \(Arr\. Mino Kabasawa\)](https://open.spotify.com/album/2E9iaGflaSserIqnoOdE2m) | 5:33 | 2022-10-20 | 2022-11-16 |
 | [Every Breath](https://open.spotify.com/track/2XzlXqeqHeRRfPKKWyhUra) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [Odorata](https://open.spotify.com/album/4Uro4jb3EOXAOe12k8aEPD) | 1:49 | 2023-02-14 | 2023-03-01 |
 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 | 2023-04-20 | 2023-05-05 |
-| [Experience \- Solo Piano](https://open.spotify.com/track/461pYJmtkFP57RTvkISLW0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Music of Care](https://open.spotify.com/album/3ZMw3jfq4MTYJHMEdeTZ3s) | 5:06 | 2023-06-01 |  |
+| [Experience \- Solo Piano](https://open.spotify.com/track/461pYJmtkFP57RTvkISLW0) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Music of Care](https://open.spotify.com/album/3ZMw3jfq4MTYJHMEdeTZ3s) | 5:06 | 2023-06-01 | 2023-06-03 |
+| [Experience \- Solo Piano](https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered Vol.2](https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG) | 5:06 | 2023-06-01 |  |
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-08 | 2023-01-25 |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-10-20 |  |
 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 | 2023-05-18 |  |

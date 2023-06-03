@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> só faixa rosa, tem disposição? 🎀 Foto: slipmami, Maru2D
+> só faixa rosa, tem disposição? 🎀 Foto: Duquesa
 
-127 songs - 6 hr 13 min
+128 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 | 2023-04-14 |  |
 | [Corpo Suado](https://open.spotify.com/track/5K8azpRkjYY9p2OQhpU0dk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq), [O DOBRO](https://open.spotify.com/artist/1tCDW5YntrQPoGAKo52edW) | [Lado B](https://open.spotify.com/album/6Wrug9lSTcq08LQBrFCa7E) | 2:48 | 2022-03-11 | 2022-11-19 |
 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 | 2022-11-11 |  |
-| [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 | 2022-03-11 |  |
+| [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 | 2022-03-11 | 2023-06-03 |
 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 | 2022-04-29 | 2022-11-22 |
 | [Di Cantin](https://open.spotify.com/track/356CwzCo3A8DAePdSEA4u6) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [Manel Beats](https://open.spotify.com/artist/5IU9FllWIyNyECvitNqJ5j) | [VÊNUS 95](https://open.spotify.com/album/72ONRFXSWFtgf5QzZbKeuq) | 3:33 | 2022-11-18 | 2023-04-22 |
 | [Diaba](https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h) | 2:45 | 2022-03-11 | 2022-06-18 |
@@ -125,6 +125,7 @@
 | [Só Aceita](https://open.spotify.com/track/7fELLkDeeQb5xGSuq3BPPm) | [Geho](https://open.spotify.com/artist/4IXA9I2HF1NoBGhFwUTYT2), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Só Aceita](https://open.spotify.com/album/6Aubv1phhmNwiXFgZkThFj) | 2:29 | 2022-03-11 | 2022-06-18 |
 | [Só Você Pelada](https://open.spotify.com/track/1SLmJ8RDHertaYpp2i4OYt) | [Alinega](https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6), [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO) | [Feita para Ser Amada](https://open.spotify.com/album/2LqqEDyWEE79mLy2LSJbAb) | 3:13 | 2022-03-11 | 2023-01-21 |
 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 | 2022-06-17 | 2023-04-29 |
+| [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Ths](https://open.spotify.com/artist/5dT6kOihM0CeJJ8O4JR5sh) | [Taurus](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 | 2023-06-02 |  |
 | [TE AMO!](https://open.spotify.com/track/2UZ7xwWTffAbB6nWa9NAfV) | [Duda Spice](https://open.spotify.com/artist/1xPBtxnaXMu5djES3yvlYt), [Goldlab Records](https://open.spotify.com/artist/6ISiV08ogOBFqv2KFVgmFp) | [TE AMO!](https://open.spotify.com/album/6jqmXRHdKBZUwxR9y6TWkc) | 2:13 | 2023-04-07 |  |
 | [Tonight](https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq) | [Pérola kenia](https://open.spotify.com/artist/3NWZS5KLAa68c19lUTHtui), [T\-Rex](https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS), [Lady Ebony](https://open.spotify.com/artist/6o9CjwTAQKA8G0UE2KEJFS) | [Tonight](https://open.spotify.com/album/5JWiLjK3ldDHbGBGxsJ1xA) | 3:00 | 2022-07-08 | 2022-08-27 |
 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 | 2023-03-10 |  |

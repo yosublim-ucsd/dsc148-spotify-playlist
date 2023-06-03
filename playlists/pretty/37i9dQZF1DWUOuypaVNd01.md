@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Scooby
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,839 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,888 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 38 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 39 | [Sobe O Morro](https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Sobe O Morro](https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl) | 2:42 |
 | 40 | [Edgar Davids](https://open.spotify.com/track/0w2QbGCv0JnoApWEo9BpLD) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Edgar Davids](https://open.spotify.com/album/5mPtaxRSVTVuNgwE42ocMf) | 2:43 |
-| 41 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
-| 42 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
+| 41 | [RJ CLIMA HOSTIL](https://open.spotify.com/track/7MX6Il5Q3GxXVG5DOQG2Jx) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [FILHO PRÓDIGO 2](https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2) | 2:13 |
+| 42 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
 | 43 | [A.T.E](https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Gxrdenx](https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP) | [A.T.E](https://open.spotify.com/album/6Jj5qOkWOGb0HeQbsU1a1g) | 2:22 |
 | 44 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 45 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 46 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 47 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 48 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 |
-| 49 | [Penitência](https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Penitência](https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV) | 2:17 |
-| 50 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 |
+| 49 | [Campeões](https://open.spotify.com/track/1aqGp66Nt1ghQA2hJ1I5vH) | [Tonyyymon](https://open.spotify.com/artist/59BG9lcmyGg7VWC9V5fTuD), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Campeões](https://open.spotify.com/album/7mj1cfsJT5aP5GBFTe1cR3) | 2:53 |
+| 50 | [Penitência](https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Penitência](https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV) | 2:17 |
 
-Snapshot ID: `MCxmOTBhZDk4ZWYxMTU4NWQzYzAwODA0ZDMzMDAzODIyMDBjNDY1MzI2`
+Snapshot ID: `MCw2ZDQzYTZkYzkzNzE1NmY4MTI3Y2QwYWUyMDlmYjU1N2IzMTM3OTE4`

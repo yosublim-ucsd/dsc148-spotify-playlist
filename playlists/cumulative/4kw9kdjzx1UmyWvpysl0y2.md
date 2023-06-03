@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-488 songs - 1 day 4 hr 28 min
+489 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 |  |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
+| [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 |  |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-23 | 2023-05-18 |
 | [fallen](https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [fallen](https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc) | 2:36 | 2022-09-20 | 2022-11-15 |
@@ -166,7 +167,7 @@
 | [Fire](https://open.spotify.com/track/4mqPjnIz3jSsDY7SaNIISD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Elevate](https://open.spotify.com/album/11FB4HqkYVcitO6sD6MjlV) | 3:06 | 2021-12-07 | 2022-03-12 |
 | [Fire In Your Eyes](https://open.spotify.com/track/4YpynGMDLvDLLgjzmKNTMj) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire In Your Eyes](https://open.spotify.com/album/37ujeU0QdOtVYjmHZGj90W) | 2:10 | 2023-03-13 | 2023-06-02 |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-04-22 | 2022-07-02 |
-| [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 |  |
+| [Fix Me](https://open.spotify.com/track/1HLTcIaCy7teNg5HAifIwV) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Fix Me](https://open.spotify.com/album/4Iis1Eijoob88ojKdYQL6X) | 3:45 | 2023-03-13 | 2023-06-03 |
 | [Flow](https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Flow](https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn) | 3:23 | 2023-04-17 |  |
 | [Fly](https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Fly](https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy) | 3:45 | 2022-07-29 | 2022-10-19 |
 | [Fly](https://open.spotify.com/track/2UUQvhfb7Gt0izk5DYfuAe) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Dream Theory](https://open.spotify.com/album/2AXJp4mHs0986xB690fVHg) | 3:35 | 2021-11-19 | 2022-02-12 |

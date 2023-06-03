@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 545825,
+  "num_followers": 546162,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGJjZDAzMTk4ZGIxMjdlM2VkNzQzYThlODEzMjliNTNkYjIyOTk4",
+  "snapshot_id": "MCw0M2QxZTBmMmYyZjJlODk4ZDE4NDNjNTA0YjdjM2RhZDE2YTYxYTA4",
   "tracks": [
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2022-07-25 21:36:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-07-25 21:36:54",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
-    },
-    {
-      "added_at": "2022-07-25 21:36:54",
-      "album": {
         "name": "I Am What I Am (Expanded Edition)",
         "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 189933,
       "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
       "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
+    },
+    {
+      "added_at": "2022-07-25 21:36:54",
+      "album": {
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
     },
     {
       "added_at": "2022-07-25 21:36:54",

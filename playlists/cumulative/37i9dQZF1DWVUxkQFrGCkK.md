@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-114 songs - 8 hr 19 min
+115 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 |  |
 | [Detective Chimp](https://open.spotify.com/track/7H4DeHbqZkeNdJkEequ1sh) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dance Monkey Dance](https://open.spotify.com/album/1k3ppNSi9Ko3oaKVcyUWXW) | 6:06 | 2023-05-11 |  |
 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 | 2023-04-20 |  |
-| [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2023-04-13 |  |
+| [Doin Ya Thang](https://open.spotify.com/track/0fEowZULrTsT0lxtrwyR3X) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/7tM2lyWub7zkimIWzX6Ui2) | 6:55 | 2023-04-13 | 2023-06-03 |
+| [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-06-01 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2023-04-13 |  |
 | [Don't Turn it Off \- Bella Boo Remix](https://open.spotify.com/track/4lJElmOrRO0egVyzyVuJd2) | [40 Thieves](https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc), [Qzen](https://open.spotify.com/artist/20EM84j9V8c6AzgzRyvuFF), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Don't Turn it Off \(Session Victim & Bella Boo Remixes\)](https://open.spotify.com/album/6eBQ6LBEleBkQLhoMr337w) | 5:45 | 2023-04-13 | 2023-04-21 |
 | [efyo](https://open.spotify.com/track/5OMOf2Ouat5egNQZYplarl) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [efyo](https://open.spotify.com/album/4fbtnbXpdOJb4kXm3p2G6w) | 3:35 | 2023-04-20 |  |

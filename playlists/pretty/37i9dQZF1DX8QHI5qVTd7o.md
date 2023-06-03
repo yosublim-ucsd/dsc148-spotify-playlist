@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,676 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,712 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 8 | [WOW](https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH) | 2:28 |
 | 9 | [Five Hours](https://open.spotify.com/track/3haS1MDe2Zh8jJaeiiymSt) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Five Hours](https://open.spotify.com/album/6qBYhiSsjPux8YODj3YX3e) | 5:26 |
 | 10 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
-| 11 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
-| 12 | [Rattle](https://open.spotify.com/track/3uXzBSx2eMKRTEP46SZ2fC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Rattle](https://open.spotify.com/album/6jHJiiVYGWSPI87BFFkpSe) | 4:47 |
+| 11 | [Rattle](https://open.spotify.com/track/3uXzBSx2eMKRTEP46SZ2fC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Rattle](https://open.spotify.com/album/6jHJiiVYGWSPI87BFFkpSe) | 4:47 |
+| 12 | [Forbidden Voices](https://open.spotify.com/track/6EsH66Uto1zwZlDGQ6RokU) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/3COyh97TYskmV4cOqPed49) | 3:50 |
 | 13 | [Repeat After Me](https://open.spotify.com/track/1F9xcExF9W7m5BxTdlJLED) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Repeat After Me](https://open.spotify.com/album/54oOEqQqEckkrlfjwM88v1) | 3:14 |
 | 14 | [Bigroom Never Dies](https://open.spotify.com/track/0g7r4J268kF71T7ChFu8kI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Bigroom Never Dies](https://open.spotify.com/album/4WiCeMODFI3uMXTTHribR5) | 2:55 |
 | 15 | [Won't Stop Rocking](https://open.spotify.com/track/20Q0qLW27rm9Pq2pO1bwzK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Won't Stop Rocking](https://open.spotify.com/album/1hxiEVPiDLAPn4vRasJkel) | 3:07 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 46 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MCw0YjczYWZmYTM3NDJjMDVjMjc2MjQxZWQwNTM5NmJjOGU1NWFmZTM4`
+Snapshot ID: `MCw2M2VmYjEyZDkyNmI3Mjk3ZmVjOWZlOGY1ZDdiMjQwYTY3ZDM1YjBm`

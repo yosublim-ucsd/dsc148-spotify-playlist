@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-132 songs - 8 hr 18 min
+134 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2021-11-25 | 2022-03-25 |
 | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/34MnMmfkCLs4Y4HTXz9fqJ) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [kung nag\-aatubili](https://open.spotify.com/track/6sDrozuLsdLbePAesxDvNy) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [kung nag\-aatubili](https://open.spotify.com/album/0pjg8cFcbZyXiMnYLUx927) | 3:51 | 2021-11-25 | 2022-03-25 |
-| [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 | 2023-04-13 |  |
+| [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 | 2023-04-13 | 2023-06-03 |
+| [Lagi](https://open.spotify.com/track/5YV9UyeC3dMV4kuRiTMGJs) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S) | 4:16 | 2023-04-13 |  |
 | [Lagi](https://open.spotify.com/track/6nyr7jWOZb86Kzjj34buF8) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Lagi](https://open.spotify.com/album/6r0CiOvFP21ea0kuAjorcj) | 4:16 | 2022-06-23 | 2022-12-01 |
 | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw) | 4:00 | 2022-08-26 | 2022-12-01 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
@@ -90,7 +91,8 @@
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2021-11-25 | 2022-03-25 |
-| [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2023-04-13 |  |
+| [Na Na Na](https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Labyu with an Accent \(Original Soundtrack\)](https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9) | 4:11 | 2023-04-13 |  |
+| [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2023-04-13 | 2023-06-03 |
 | [Nangangamba](https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Nangangamba](https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw) | 3:30 | 2021-11-25 | 2022-03-25 |
 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 | 2022-03-24 | 2023-04-14 |
 | [Pagbilang Ng Tatlo](https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili](https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL) | 3:16 | 2022-10-27 | 2022-12-01 |

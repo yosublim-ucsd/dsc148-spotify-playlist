@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "AMEN ALBUM",
+        "url": "https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK"
+      },
+      "artists": [
+        {
+          "name": "MUNGU FENI",
+          "url": "https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "For my good",
+      "url": "https://open.spotify.com/track/5Rm7NeUXtHYJrfwNmHKg0s"
+    },
+    {
+      "album": {
         "name": "For my mind",
         "url": "https://open.spotify.com/album/6M0PfuSP3nnVo1uCpdsTLm"
       },

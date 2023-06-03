@@ -4,7 +4,7 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Majur
 
-99 songs - 4 hr 25 min
+100 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [AMEIANOITE](https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:46 | 2023-02-10 | 2023-02-15 |
 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 | 2022-04-29 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-22 | 2022-10-08 |
-| [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 | 2023-03-17 |  |
+| [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 | 2023-03-17 | 2023-06-03 |
 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 | 2022-11-16 | 2023-02-11 |
 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 | 2023-02-10 |  |
 | [Balinha de Coração](https://open.spotify.com/track/2wBMHYa50dcBf7NJoaHCPE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Balinha de Coração](https://open.spotify.com/album/2B3qZ6SDN8qohOl09NjjQl) | 2:16 | 2023-02-10 | 2023-02-16 |
@@ -37,6 +37,7 @@
 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu) | 3:01 | 2022-04-29 |  |
 | [Cavalona](https://open.spotify.com/track/6rgyzu6AxYyx7Fa9qAxN8W) | [Blogueirinha](https://open.spotify.com/artist/7C9PDbLk94PbL45y8qeavR) | [Quem Me Conhece Sabe](https://open.spotify.com/album/4zu11ms7NSVOfTqmMGWz26) | 1:41 | 2022-04-29 | 2022-07-23 |
 | [Contra Corrente](https://open.spotify.com/track/34Jekz6lvkUk3us5dAQeqx) | [Leandro Buenno](https://open.spotify.com/artist/1CMOP7dPehm12jO9GW2Y1B) | [Contra Corrente](https://open.spotify.com/album/0RK21g7bYrnXDjDcTQ64GD) | 3:29 | 2022-12-02 | 2023-02-11 |
+| [deu pra sentir?](https://open.spotify.com/track/0NILfuLrTeAxhdDRFRsOcG) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [deu pra sentir?](https://open.spotify.com/album/0GQQnrdqZsLcbiebflnDXT) | 2:24 | 2023-06-02 |  |
 | [Diaba](https://open.spotify.com/track/1Wj0h3MIeATuBNnxnbAmEu) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Diaba](https://open.spotify.com/album/7xC3hSIL2joMNxIXxKQa0h) | 2:45 | 2022-04-29 | 2022-06-04 |
 | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU) | 2:48 | 2022-12-02 |  |
 | [Eu Viciei](https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Eu Viciei](https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF) | 2:14 | 2022-04-29 |  |

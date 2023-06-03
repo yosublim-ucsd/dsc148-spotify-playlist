@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs?si=IeiGBgm0S9qGYCVhYILkeQ\">Jimmy D Psalmist</a>",
-  "num_followers": 3996,
+  "num_followers": 4037,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTY0ZjM4NDBhNGY4MTVlNWJiMGRiZTcyN2ZkYTVlYWJkOGE2ZGUz",
+  "snapshot_id": "MCw1NTkyMzBjNzYxZTRlZmU1MGU4NTE0MjAyYjhmYzg3ZDhjOGVmODQx",
   "tracks": [
     {
       "added_at": "2023-05-26 00:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 144213,
-      "name": "Wonderful - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 144213,
+      "name": "Wonderful - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "Shout It Loud",
+        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+      "duration_ms": 370704,
+      "name": "I Know Who I Am",
+      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Shout It Loud",
-        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 370704,
-      "name": "I Know Who I Am",
-      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "The Gospel of the Kingdom",
         "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu"
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 370131,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -683,6 +683,22 @@
       "duration_ms": 464306,
       "name": "Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 370131,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -741,22 +757,6 @@
       "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
-    },
-    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "Return Rev. 2:4",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
+      },
+      "artists": [
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        }
+      ],
+      "duration_ms": 193708,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
+    },
+    {
       "added_at": "2023-04-20 23:59:00",
       "album": {
         "name": "The Glory Experience (Live In Houston)",
@@ -821,20 +837,20 @@
       "url": "https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY"
     },
     {
-      "added_at": "2023-05-19 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
       "artists": [
         {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         }
       ],
-      "duration_ms": 193708,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb"
+      "duration_ms": 230505,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -871,22 +887,6 @@
       "duration_ms": 313175,
       "name": "Under The Canopy",
       "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
     }
   ],
   "unique_name": "Testify",

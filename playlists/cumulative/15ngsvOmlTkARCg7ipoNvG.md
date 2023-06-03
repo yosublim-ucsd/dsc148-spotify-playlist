@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-986 songs - 22 hr 16 min
+987 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,6 +522,7 @@
 | [May Flowers Arr\. For Solo Piano](https://open.spotify.com/track/1jWIfEiEH00PI158O3QLqk) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [May Flowers](https://open.spotify.com/album/4PZnRcygNbU615jcPeTpcx) | 1:01 | 2023-05-14 |  |
 | [Maybe Someday](https://open.spotify.com/track/7J1wx91FrkBkPsTupLTJym) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:30 | 2022-01-12 |  |
 | [Meadows](https://open.spotify.com/track/053iOzuMkMvARAHcuF6nJx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Blue](https://open.spotify.com/album/66uTGKCnvVcGTqMDHy439T) | 1:53 | 2022-01-12 |  |
+| [Mellow Morning](https://open.spotify.com/track/7p6tnzVKQK4FnnQdGpjMiD) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mellow Morning](https://open.spotify.com/album/2aHxWEzECDsdpxlF1DNDX0) | 1:01 | 2023-06-02 |  |
 | [Mellow Out](https://open.spotify.com/track/5nXFVrNi5gAVIZEJWtmlRv) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Mellow Out](https://open.spotify.com/album/4EsuGhEEaJJ6frGo2co7cS) | 2:17 | 2022-01-12 |  |
 | [Memories Are Faded](https://open.spotify.com/track/4fQs6kLS2JpMSszHYA6iN5) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Memories, Vol\. 2](https://open.spotify.com/album/4fgMhnmLUlZCGbz9Eh1ECd) | 1:00 | 2023-04-08 |  |
 | [Memory](https://open.spotify.com/track/3uOo8GWlN91OxIK6wOsrdz) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Memory](https://open.spotify.com/album/6cBlCFP74GNlrHeafgT83k) | 1:02 | 2023-04-08 |  |

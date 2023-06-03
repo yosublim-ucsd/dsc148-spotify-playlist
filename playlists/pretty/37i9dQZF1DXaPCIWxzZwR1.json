@@ -1,13 +1,45 @@
 {
   "description": "next gen pop Cover: Nessa Barrett ",
-  "num_followers": 1262122,
+  "num_followers": 1260514,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTkwMTMxNjk2YWE2OTM4ZDVhM2YyODcxNTdlODI5MjYzYjMzNzZl",
+  "snapshot_id": "MCw3Y2M1NGJlOTAzMTIxMjkxYTYxZDk2M2ZkMWZkZjMyZWZiZGJhMzM0",
   "tracks": [
+    {
+      "added_at": "2023-05-26 13:09:40",
+      "album": {
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
+    },
+    {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 155202,
       "name": "Never Ending Song",
       "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
-        "name": "american jesus",
-        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 168899,
-      "name": "american jesus",
-      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -247,6 +263,22 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
+        "name": "That Part",
+        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 174052,
+      "name": "That Part",
+      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
+    },
+    {
+      "added_at": "2023-05-26 13:09:40",
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -259,6 +291,22 @@
       "duration_ms": 197465,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "1-800-GOT-STRESS",
+        "url": "https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 189125,
+      "name": "1-800-GOT-STRESS",
+      "url": "https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -291,6 +339,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -347,22 +411,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "That Part",
-        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 174052,
-      "name": "That Part",
-      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -391,6 +439,22 @@
       "duration_ms": 147568,
       "name": "more than friends",
       "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "bring u down",
+        "url": "https://open.spotify.com/album/1m7H5WH3i9ovJFpxrX5uif"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 165148,
+      "name": "bring u down",
+      "url": "https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -455,6 +519,22 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "The Other POV",
+        "url": "https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3"
+      },
+      "artists": [
+        {
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+        }
+      ],
+      "duration_ms": 179880,
+      "name": "The Other POV",
+      "url": "https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -569,6 +649,22 @@
       "url": "https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm"
     },
     {
+      "added_at": "2023-06-02 12:55:52",
+      "album": {
+        "name": "me, my girls & i",
+        "url": "https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "duration_ms": 149512,
+      "name": "me, my girls & i",
+      "url": "https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU"
+    },
+    {
       "added_at": "2023-05-26 13:09:40",
       "album": {
         "name": "SunKissing",
@@ -635,38 +731,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
-        "name": "satuRday",
-        "url": "https://open.spotify.com/album/0BPFOQCqPhIVx9h5yxMmmn"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "satuRday",
-      "url": "https://open.spotify.com/track/4i3AJ5JPsXdyhlmIEw21ir"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "I'm trying",
         "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
       },
@@ -699,22 +763,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "Hey dad, I tried to be nice",
-        "url": "https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Popstar",
-      "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -727,6 +775,22 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+    },
+    {
+      "added_at": "2023-05-26 13:09:40",
+      "album": {
+        "name": "Hey dad, I tried to be nice",
+        "url": "https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -875,26 +939,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/3ZI1S0UFbkGLE3K7wHFd0H"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        },
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 201702,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/7B1uCKAfh7aLRWsdGS363J"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "Devil In Your Eyes",
         "url": "https://open.spotify.com/album/75T1BnM8JqndyAtVIgNuST"
       },
@@ -959,22 +1003,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "Big Dumb Heart, Chapter 1",
-        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Crickets",
-      "url": "https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
       },
@@ -1019,22 +1047,6 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
-        "name": "omg",
-        "url": "https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 154590,
-      "name": "omg",
-      "url": "https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77"
     },
     {
       "added_at": "2023-05-26 13:09:40",
@@ -1123,22 +1135,6 @@
     {
       "added_at": "2023-05-26 13:09:40",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/7cg41NTFljkNOW73kz9iVP"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 186605,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/25JeHbjA7QoYPOTUbUC7Vk"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -1223,38 +1219,6 @@
       "duration_ms": 150090,
       "name": "Tall Boi",
       "url": "https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
-        "name": "Angel Arms",
-        "url": "https://open.spotify.com/album/5GV3Hs3rpJiqgZSTI1cpSf"
-      },
-      "artists": [
-        {
-          "name": "August Royals",
-          "url": "https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq"
-        }
-      ],
-      "duration_ms": 219307,
-      "name": "Angel Arms",
-      "url": "https://open.spotify.com/track/3mDIykcAGPwpgX0vT15Yvc"
-    },
-    {
-      "added_at": "2023-05-26 13:09:40",
-      "album": {
-        "name": "sickly sweet",
-        "url": "https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "sickly sweet",
-      "url": "https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB"
     },
     {
       "added_at": "2023-05-26 13:09:40",

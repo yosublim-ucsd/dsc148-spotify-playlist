@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Adoradores cantando sobre o amor. Foto: Paulo Cesar Baruk",
+  "description": "Amor aben\u00e7oado por Deus.",
   "name": "Gospel Rom\u00e2ntico",
   "tracks": [
     {
@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
+    },
+    {
+      "album": {
         "name": "Doce Amor",
         "url": "https://open.spotify.com/album/4NF2hCRfnHDwTnRZa5cQtK"
       },
@@ -834,7 +856,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 237517,
       "name": "O Dia (feat. Weslei Santos)",
       "url": "https://open.spotify.com/track/25gb581HHOm5j2oTlfw8FW"
@@ -932,7 +954,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 168735,
       "name": "Perto de Mim",
       "url": "https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt"
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 278000,
       "name": "Pra Onde a Gente Vai?",
       "url": "https://open.spotify.com/track/5FqUehyGODNlguE8ringep"
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 275933,
       "name": "Sempre Te Amarei",
       "url": "https://open.spotify.com/track/0rxd5YPK6yq3QfnlrTKeN2"

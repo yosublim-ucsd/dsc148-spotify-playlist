@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-267 songs - 13 hr 4 min
+268 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2021-11-11 | 2022-07-29 |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-05-10 | 2022-07-15 |
 | [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 | 2022-05-10 |  |
-| [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-11-11 |  |
+| [Bar](https://open.spotify.com/track/7EZSvOOlvauQDamANeoSOy) | [Del Mare](https://open.spotify.com/artist/2EzJoeY1p5s3JpM97YH67Y) | [Bar](https://open.spotify.com/album/1IYeFjTQK6XIlXesQNU8Ag) | 2:19 | 2023-06-02 |  |
+| [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-11-11 | 2023-06-03 |
 | [Beach Dreams](https://open.spotify.com/track/7ENbMrxiwYrjJxElH7E7PE) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Odyssey](https://open.spotify.com/album/5pAu2RYZdpS8bo680Tm79r) | 2:08 | 2021-11-11 | 2022-05-11 |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2021-11-11 |  |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2021-11-11 |  |
@@ -57,7 +58,7 @@
 | [Citylights](https://open.spotify.com/track/6Sv69V6WY4k3Hx1SRipIaQ) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Citylights](https://open.spotify.com/album/7ofNEjZd1bFVHL7yBmOdXF) | 3:12 | 2021-11-11 | 2022-09-02 |
 | [Clarity Theory](https://open.spotify.com/track/77o9BHh69uAY6pPy51kmPi) | [Miami Midnight](https://open.spotify.com/artist/6QLCMhIYdyMmf3vU58Pv63) | [Clarity Theory](https://open.spotify.com/album/6v7fBS8eORyqJmHMORKsML) | 2:38 | 2021-11-11 | 2022-05-11 |
 | [Close 2 You](https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Close 2 You](https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1) | 2:40 | 2023-02-03 |  |
-| [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 |  |
+| [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 | 2023-06-03 |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |
 | [Copycat](https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Copycat / Sunspot](https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV) | 5:54 | 2021-11-11 | 2022-02-11 |
 | [Coral Beach](https://open.spotify.com/track/0aymtzpvO3QufAK2MbSBHd) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Coral Beach](https://open.spotify.com/album/6aR9tPyi2VE3f1rQo9dy2j) | 2:45 | 2021-11-11 | 2022-04-15 |
@@ -270,7 +271,7 @@
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-11 |  |
 | [Where the sand is](https://open.spotify.com/track/3VffpZvEnQsxLZ1ZgNb4Rn) | [Nino The Dino](https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi) | [Sunset Paradise](https://open.spotify.com/album/5JzMUwp6FKlJPfgrS2eE6T) | 3:03 | 2022-06-24 |  |
 | [wild tales](https://open.spotify.com/track/5Q7WJVOQdOyr03DnkULrLm) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [wild tales](https://open.spotify.com/album/5Yrb1fhHEmgNeZo608FNF2) | 2:28 | 2022-05-20 | 2022-09-23 |
-| [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 |  |
+| [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 | 2023-06-03 |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2021-11-11 |  |
 | [Zenith](https://open.spotify.com/track/2Jdezp0U1YKmlBJK1IrYBm) | [lowclowds](https://open.spotify.com/artist/25oJa6BWwoxxrNa299VMh1) | [Venice](https://open.spotify.com/album/0FSV7nJLdW3WtRGmfnzeVb) | 2:47 | 2022-01-21 |  |
 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 | 2023-01-06 |  |

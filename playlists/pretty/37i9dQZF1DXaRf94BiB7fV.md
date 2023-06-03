@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Aditya Rikhari , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,125 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,150 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Do I Really Do?](https://open.spotify.com/track/27BPOjJJJH7rKS807KdZHP) | [Blue Hush](https://open.spotify.com/artist/3R8iUh001mnkDNnsAoFIMf) | [Do I Really Do?](https://open.spotify.com/album/7kZizeCR7188cTn5dA4JAl) | 3:21 |
 | 100 | [my heart](https://open.spotify.com/track/3e2XrZgJGxJwPAOVIvb2Sn) | [trisha sao](https://open.spotify.com/artist/71BjZzxN0f7njUd2RLOpRD), [Rakshit Ghodkhande](https://open.spotify.com/artist/2qch3JSaaR0Dfkrux6xyNt) | [my heart](https://open.spotify.com/album/0HIvr8xypydvFvdg7BxBXp) | 3:18 |
 
-Snapshot ID: `MCw0OGIxZDQ3ZWQwNmZmN2YzY2NlZmMzNjVlMmYzOWZjZWZkZGMwOTRm`
+Snapshot ID: `MCw4MTFhZjI1YzQxZjRlZDNiMzNkZDA1MWNmMjA4Y2E5M2Y5MGMzOTll`

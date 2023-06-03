@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 196206,
       "name": "Dawly",
       "url": "https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU"
@@ -4126,7 +4126,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 120017,
       "name": "HOSS",
       "url": "https://open.spotify.com/track/5JXzcZBkizj6fFjPHpeV1N"
@@ -9429,6 +9429,28 @@
     },
     {
       "album": {
+        "name": "Belad",
+        "url": "https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Ultra Attack",
+      "url": "https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h"
+    },
+    {
+      "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
@@ -9560,7 +9582,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"

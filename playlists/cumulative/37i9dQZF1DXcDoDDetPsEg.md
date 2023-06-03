@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-579 songs - 1 day 5 hr 33 min
+580 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Toni\-Ann Singh \(feat\. Popcaan\)](https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:55 | 2022-08-23 | 2022-08-31 |
 | [Tony Soprano 2](https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Tony Soprano 2](https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1) | 3:50 | 2023-04-20 |  |
 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 | 2022-10-23 | 2022-11-19 |
+| [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/track/1cjBX23hWC5jHmsUXuJ1KP) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Top Speed \(feat\. Giggs & Marksman\)](https://open.spotify.com/album/6vPWjEGgjxkemGzOKa1pAQ) | 2:55 | 2023-06-01 |  |
 | [Toronto](https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Toronto](https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm) | 2:53 | 2023-04-07 | 2023-04-29 |
 | [Touch It](https://open.spotify.com/track/6ZU3kPUCpqETe0QIk1Q4ut) | [Raheaven](https://open.spotify.com/artist/4lXm6ZMmiF65lvSDAqQvY6), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Touch It](https://open.spotify.com/album/6BUl45A09APYJdNtgZmZRV) | 3:08 | 2022-03-08 | 2022-03-09 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-04-29 |

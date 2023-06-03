@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: Doctor Cha) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: \ub2e5\ud130 \ucc28\uc815\uc219)",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: Dr. Romantic) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: \ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80)",
   "name": "Korean OSTs",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 216426,
       "name": "1second 1minute 1hour (Something Between Us X 2am)",
       "url": "https://open.spotify.com/track/3EbrxxZPM9DF1AtpTRWIxJ"
+    },
+    {
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3CGiV1dCJ0v7p2urd4vAuU"
+      },
+      "artists": [
+        {
+          "name": "\uc548\uc2e0\uc560",
+          "url": "https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148586,
+      "name": "A Day For Me",
+      "url": "https://open.spotify.com/track/5bbGJRlU89huFWFR3GE42e"
     },
     {
       "album": {
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A Tale of Hoteliers (Original Television Soundtrack) Pt.4 - Stay with me",
+        "url": "https://open.spotify.com/album/4skqO4SJpz0UckQ1AOqgXx"
+      },
+      "artists": [
+        {
+          "name": "Song Ga In",
+          "url": "https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "A Tale of Hoteliers (Original Television Soundtrack) Pt.4 - Stay with me",
+      "url": "https://open.spotify.com/track/0OTMfsNFRxA27AfyUre2wZ"
+    },
+    {
+      "album": {
         "name": "\ud604\uc7ac\ub294 \uc544\ub984\ub2e4\uc6cc (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/2hHoAvZ5gRhBLHv9A0xFOf"
       },
@@ -275,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.20",
         "url": "https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q"
       },
@@ -293,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Queen of masks (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/5dDtqUglTZeElcssfm9fPT"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210043,
+      "name": "Ain't No Joke",
+      "url": "https://open.spotify.com/track/4ce1g0lHzZRENMvEaY5ZHZ"
+    },
+    {
+      "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV"
       },
@@ -304,7 +376,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 206013,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/75dMjDJSRQH0AP4rJuOqfC"
@@ -510,7 +582,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 241259,
       "name": "Am I living like a dream?",
       "url": "https://open.spotify.com/track/4mOf7FNqxwLer8Skri59Li"
@@ -550,6 +622,24 @@
       "duration_ms": 244040,
       "name": "An Unfamiliar Day",
       "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
+    },
+    {
+      "album": {
+        "name": "Oh! Youngsim Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3JhHfGvSnOfWxYSEop0jrp"
+      },
+      "artists": [
+        {
+          "name": "Raina",
+          "url": "https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201850,
+      "name": "Angel Wings",
+      "url": "https://open.spotify.com/track/058dHJKd8AoHDyohFmX5Y2"
     },
     {
       "album": {
@@ -634,6 +724,28 @@
       "duration_ms": 238040,
       "name": "As it was a lie",
       "url": "https://open.spotify.com/track/225Qhu5jxjVyFCkYpPmqL0"
+    },
+    {
+      "album": {
+        "name": "Rinza Noodle House (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6UG5Ax9TQBoUF9eBsoTwHG"
+      },
+      "artists": [
+        {
+          "name": "LUDA",
+          "url": "https://open.spotify.com/artist/7g7r9PureqFENCWvOU3RyJ"
+        },
+        {
+          "name": "5moon",
+          "url": "https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "As the Moon Embraces the Waves",
+      "url": "https://open.spotify.com/track/0lxVu29tReGIrXNOmfWK6Q"
     },
     {
       "album": {
@@ -821,6 +933,24 @@
     },
     {
       "album": {
+        "name": "The Secret Romantic Guesthouse Part.7",
+        "url": "https://open.spotify.com/album/2DH1P6vmUri5tABIbRrYAt"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226080,
+      "name": "Be there",
+      "url": "https://open.spotify.com/track/0uSO0DaUix5IbVAYKG31Bz"
+    },
+    {
+      "album": {
         "name": "The Golden Spoon (Original Television Soundtrack, Pt. 4)",
         "url": "https://open.spotify.com/album/0si7syMtQ2dRy78dRKzy3i"
       },
@@ -854,6 +984,24 @@
       "duration_ms": 229853,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/38qwU9f9M94WnYAYA9MqXC"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.3",
+        "url": "https://open.spotify.com/album/2dWNgu44jmwGvemDZhcH5H"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/10dRLjJYEScSWpxN8uxFUN"
     },
     {
       "album": {
@@ -980,6 +1128,24 @@
       "duration_ms": 254000,
       "name": "Before Sunrise",
       "url": "https://open.spotify.com/track/3l35mX0dye46mBFyA6tZhp"
+    },
+    {
+      "album": {
+        "name": "Battle for Happiness Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5AbBltNjbi4kPgk4x1vOWx"
+      },
+      "artists": [
+        {
+          "name": "Sonnet",
+          "url": "https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/6VuM6TdAwEK8EGp4D13fcm"
     },
     {
       "album": {
@@ -1246,7 +1412,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 228293,
       "name": "Blue Flower",
       "url": "https://open.spotify.com/track/6weNDrRLGlnvT731NPuQap"
@@ -1500,7 +1666,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 253623,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/2A1l9wd9zhclEMIfo1jpvy"
@@ -1536,7 +1702,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 156626,
       "name": "CHECKMATE",
       "url": "https://open.spotify.com/track/3h56nUjDIOi3FvMVErD4q5"
@@ -1796,6 +1962,24 @@
       "duration_ms": 243706,
       "name": "Confession (Ditto X Chuu (LOONA))",
       "url": "https://open.spotify.com/track/40wyDhO974VOe491zfVLbC"
+    },
+    {
+      "album": {
+        "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 14",
+        "url": "https://open.spotify.com/album/0qVi4BPXJOzdx5Ye9f9dGi"
+      },
+      "artists": [
+        {
+          "name": "GUNHO",
+          "url": "https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Confession Day",
+      "url": "https://open.spotify.com/track/3KZxUY5gGYzZ1W1NPe5Mbm"
     },
     {
       "album": {
@@ -2196,7 +2380,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 213823,
       "name": "Do You Know That",
       "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
@@ -2232,7 +2416,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 242666,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/5QYwAdtaDmTZIHUeIZasTu"
@@ -2286,7 +2470,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 174760,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy"
@@ -2509,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/1vYvzttBDeonkb8m7aw6vH"
+      },
+      "artists": [
+        {
+          "name": "Lee A Young",
+          "url": "https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279226,
+      "name": "Even Silently Cry(2023)",
+      "url": "https://open.spotify.com/track/7zVeCI0asI0C42OQtAl3nD"
+    },
+    {
+      "album": {
         "name": "Canada Check-in OST",
         "url": "https://open.spotify.com/album/5mcS6Iv09V1Nbc672LHWZ3"
       },
@@ -2592,7 +2794,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 199413,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s"
@@ -2812,7 +3014,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224946,
       "name": "Fine",
       "url": "https://open.spotify.com/track/63Z7SYBrSZNGGZTbnfYu52"
@@ -2852,6 +3054,24 @@
       "duration_ms": 202986,
       "name": "Flame",
       "url": "https://open.spotify.com/track/1Qg4qHeb1DK1FdwjxgbGt6"
+    },
+    {
+      "album": {
+        "name": "Rinza Noodle House (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Flower(Long For You)",
+      "url": "https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd"
     },
     {
       "album": {
@@ -2938,7 +3158,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 137200,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/0hT8gxNpzVpUIyRG2zoAVQ"
@@ -3111,6 +3331,28 @@
     },
     {
       "album": {
+        "name": "Love Interference 2023 (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/3yCc0PMldpvQXlmM7rgdZn"
+      },
+      "artists": [
+        {
+          "name": "LIZRO",
+          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
+        },
+        {
+          "name": "near",
+          "url": "https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Globe",
+      "url": "https://open.spotify.com/track/6l7jth8VMA9Wo52NeNwwwm"
+    },
+    {
+      "album": {
         "name": "Mental Coach Jegal, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4VqfJwDLQ1RcrpSMoQNmPa"
       },
@@ -3183,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Good Day (My love X LEESEOKHOON)",
+        "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "Good Day (My love X LEESEOKHOON)",
+      "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
+    },
+    {
+      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -3230,7 +3490,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 212796,
       "name": "Gypsophila",
       "url": "https://open.spotify.com/track/6LA3jxPIsMLM4tpCGrb2B5"
@@ -3324,7 +3584,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 245293,
       "name": "Hard to Say I Love You",
       "url": "https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx"
@@ -3396,7 +3656,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
@@ -3732,7 +3992,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231040,
       "name": "I can feel you",
       "url": "https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR"
@@ -3768,7 +4028,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 248751,
       "name": "I can't do this",
       "url": "https://open.spotify.com/track/19CcNDMwsJClAHoObmOVcL"
@@ -3808,6 +4068,32 @@
       "duration_ms": 213066,
       "name": "I can't love anymore",
       "url": "https://open.spotify.com/track/26TLhUe2t436udQCo2ip8i"
+    },
+    {
+      "album": {
+        "name": "Love Mate OST Part.3 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1SkOPkJpNQaRWeAKFfsd1l"
+      },
+      "artists": [
+        {
+          "name": "HAMIN(BXB)",
+          "url": "https://open.spotify.com/artist/00eWh6l16At6mJJmVCxCzV"
+        },
+        {
+          "name": "HYUNWOO(BXB)",
+          "url": "https://open.spotify.com/artist/5udPWCzjoVBRkSvS1BVRsQ"
+        },
+        {
+          "name": "XIWOO(BXB)",
+          "url": "https://open.spotify.com/artist/3lnmSpd1NHM56xKRFEAC3Q"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "i can\u2019t wait too long",
+      "url": "https://open.spotify.com/track/4Uk6TLwgOaFrNLDD2dacJ8"
     },
     {
       "album": {
@@ -3984,7 +4270,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 216242,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3jthSHYaQFSh1sVNWozoxM"
@@ -4114,6 +4400,24 @@
       "duration_ms": 219264,
       "name": "I Will Stay",
       "url": "https://open.spotify.com/track/4kCjKOJ2vzjtUpjBaNw1kN"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.2",
+        "url": "https://open.spotify.com/album/7Db25PkL5e5d7RKPk4mlhw"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "I Will Stay With You",
+      "url": "https://open.spotify.com/track/4QOv0bYWBRr6Fp3paq3tZw"
     },
     {
       "album": {
@@ -4298,6 +4602,24 @@
       "duration_ms": 180760,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz"
+    },
+    {
+      "album": {
+        "name": "Woman in a Veil (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0OlsGllt2gwn0TYkoXCEok"
+      },
+      "artists": [
+        {
+          "name": "or&",
+          "url": "https://open.spotify.com/artist/4no4PT1TpWv2dLToYVUXpl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "I'm Still You",
+      "url": "https://open.spotify.com/track/0AopwjvGx6yY68V8uxARqv"
     },
     {
       "album": {
@@ -4564,7 +4886,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 240533,
       "name": "Into the Sky",
       "url": "https://open.spotify.com/track/3jzufQFDbdcMc9e2d0XYmN"
@@ -4828,7 +5150,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
@@ -4901,6 +5223,42 @@
     },
     {
       "album": {
+        "name": "Oh! Youngsim Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ysFrJcOoDWGT5UO05Mn1m"
+      },
+      "artists": [
+        {
+          "name": "MISO",
+          "url": "https://open.spotify.com/artist/428ptQGaebpSVzSjm5tnrr"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176774,
+      "name": "Just do",
+      "url": "https://open.spotify.com/track/2jD9GOutiL5zKpqh6PDzsj"
+    },
+    {
+      "album": {
+        "name": "Love Mate OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/2lslYH01n54pvWKgBxpCQe"
+      },
+      "artists": [
+        {
+          "name": "Doha (XEED)",
+          "url": "https://open.spotify.com/artist/48ZVvhDSYQmvYgS0sh40sl"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225429,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6TxisiJlSLPa3FlzcLHzUV"
+    },
+    {
+      "album": {
         "name": "Alchemy of Souls, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin"
       },
@@ -4934,6 +5292,24 @@
       "duration_ms": 190808,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/7Apd6r1Y5VvasTkePjAFMX"
+    },
+    {
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "album": {
@@ -5294,7 +5670,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 246286,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk"
@@ -5431,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "My Perfect Stranger OST Part.3",
+        "url": "https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "Like You Was To Me",
+      "url": "https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD"
+    },
+    {
+      "album": {
         "name": "YUMI's Cells, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/62MmoakEQ7rJQ5ZUA2zdXJ"
       },
@@ -5532,7 +5926,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 155708,
       "name": "Looking at you",
       "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
@@ -5719,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "Romance by Romance (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/1BsfDfeRXtpZiKwtamHtvy"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213659,
+      "name": "Love is Here",
+      "url": "https://open.spotify.com/track/57UqGZaCQFFLUbUZD0ejwx"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.24",
         "url": "https://open.spotify.com/album/7hmpttoWQ2y5xoEpUSK7EF"
       },
@@ -5842,6 +6254,24 @@
       "duration_ms": 218066,
       "name": "Love Without Pain",
       "url": "https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/0MTztT8DDv1Mqkv8cbZgwu"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Love you again",
+      "url": "https://open.spotify.com/track/3tt4jUdcPx7ZRNrXcP58x2"
     },
     {
       "album": {
@@ -6094,7 +6524,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 263160,
       "name": "Memory",
       "url": "https://open.spotify.com/track/7euYyyuujaCpTaAeEudOLd"
@@ -6134,7 +6564,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 258333,
       "name": "Mi Camino",
       "url": "https://open.spotify.com/track/2nvUvknhQeEx1msHbtiigF"
@@ -6214,7 +6644,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 263360,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7JESDGry6nSUKKCiBzHfWP"
@@ -6376,7 +6806,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 194786,
       "name": "My Destiny",
       "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
@@ -6748,7 +7178,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222746,
       "name": "My You, My Star",
       "url": "https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG"
@@ -6802,10 +7232,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 196000,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
+    },
+    {
+      "album": {
+        "name": "Family, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4X4v3RrgKGqcph3mu4Pmh5"
+      },
+      "artists": [
+        {
+          "name": "Kyuri",
+          "url": "https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/2Y0xn1ljw8hQQPd3YXF5ue"
     },
     {
       "album": {
@@ -6863,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Family, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2eK4CxDNyXOdrZzUbAuLVr"
+      },
+      "artists": [
+        {
+          "name": "KimYeji",
+          "url": "https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207941,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3hIbPVFVYQHCZ5wpDSOnqN"
+    },
+    {
+      "album": {
         "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/79GWBamNpj4uQSfWyAZ0S5"
       },
@@ -6910,7 +7376,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 195320,
       "name": "NOW",
       "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
@@ -7087,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "Romantic Doctor 3 OST Part.5",
+        "url": "https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "One Hundred Love",
+      "url": "https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.15",
         "url": "https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC"
       },
@@ -7210,6 +7694,24 @@
       "duration_ms": 239000,
       "name": "Our Story",
       "url": "https://open.spotify.com/track/7LWqeNEnmepvdQ6uotkQOj"
+    },
+    {
+      "album": {
+        "name": "True to Love, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0coLqviymvITnCneaZGu3d"
+      },
+      "artists": [
+        {
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206099,
+      "name": "Paint over",
+      "url": "https://open.spotify.com/track/3A6MocMyws8KUyyeln41L6"
     },
     {
       "album": {
@@ -8345,6 +8847,24 @@
     },
     {
       "album": {
+        "name": "My Perfect Stranger OST Part.5",
+        "url": "https://open.spotify.com/album/3Tw2db9aECq79ynM7HegtX"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253320,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/1DGoluJIZMwilqWh4qfrR3"
+    },
+    {
+      "album": {
         "name": "Still (Payback X A+B)",
         "url": "https://open.spotify.com/album/6BNiGAJPUw97hzTvuE9sfJ"
       },
@@ -8381,6 +8901,28 @@
     },
     {
       "album": {
+        "name": "Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        },
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260853,
+      "name": "Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V"
+    },
+    {
+      "album": {
         "name": "Minamdang (Original Television Soundtrack, Pt. 7)",
         "url": "https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv"
       },
@@ -8396,6 +8938,24 @@
       "duration_ms": 186973,
       "name": "Still with you",
       "url": "https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.4",
+        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
     },
     {
       "album": {
@@ -8561,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "My Perfect Stranger OST Part.4",
+        "url": "https://open.spotify.com/album/27Hkb4e9GNyfZVEuY8O6aj"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Susanne",
+      "url": "https://open.spotify.com/track/7AyrPPnMRQktj7mdoWUP2n"
+    },
+    {
+      "album": {
         "name": "Sweet (A Business Proposal OST Part.1)",
         "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
       },
@@ -8673,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
+    },
+    {
+      "album": {
         "name": "Agency (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
       },
@@ -8684,7 +9280,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 224080,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
@@ -8922,7 +9518,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 222480,
       "name": "The moment I saw you",
       "url": "https://open.spotify.com/track/0Nltox4UQt4rXyr2IuXcW4"
@@ -8998,6 +9594,24 @@
       "duration_ms": 208253,
       "name": "The Queen",
       "url": "https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/6XXs7VIxHhaeIjVW0nwkM0"
+      },
+      "artists": [
+        {
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Road not Taken",
+      "url": "https://open.spotify.com/track/17BytRtBL3ajgsOQD1cCxT"
     },
     {
       "album": {
@@ -9210,7 +9824,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 226825,
       "name": "Time\u2019s Up",
       "url": "https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa"
@@ -9232,6 +9846,24 @@
       "duration_ms": 235693,
       "name": "To the ordinary you",
       "url": "https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD"
+    },
+    {
+      "album": {
+        "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/4jAKv0TrDi4ki5cJbMVsIN"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/2V0Rr5qfC2Tx3bv5mEi5I0"
     },
     {
       "album": {
@@ -9318,7 +9950,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 243400,
       "name": "Tree (Just Watching You 2)",
       "url": "https://open.spotify.com/track/4cz9X4VBByOUaivztKq0lY"
@@ -9736,7 +10368,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 270546,
       "name": "We have to meet again",
       "url": "https://open.spotify.com/track/0uVph63q5eSAg2unH0nZG2"
@@ -10151,6 +10783,24 @@
     },
     {
       "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3ftcuflXLP4SaSoUb1GwM5"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251907,
+      "name": "Wind Song",
+      "url": "https://open.spotify.com/track/1SHozMlsPJKL6XJM5Uami7"
+    },
+    {
+      "album": {
         "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
         "url": "https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5"
       },
@@ -10286,7 +10936,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 226240,
       "name": "With me",
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
@@ -10380,7 +11030,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 200493,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/4OLpX8QqAqU3Km2PVUhrEF"
@@ -10434,7 +11084,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 264013,
       "name": "Wounded Heart",
       "url": "https://open.spotify.com/track/1XSb5DFDpPLOudodZ8zJ7G"
@@ -10452,7 +11102,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 231680,
       "name": "You",
       "url": "https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri"
@@ -10549,6 +11199,24 @@
     },
     {
       "album": {
+        "name": "My Perfect Stranger OST Part.1",
+        "url": "https://open.spotify.com/album/76oyIkKff9SXOjic7Z8uxk"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "You Got A Minute?",
+      "url": "https://open.spotify.com/track/6fIJbvx9e9IjaKo6jml6Wa"
+    },
+    {
+      "album": {
         "name": "OASIS, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2JUChCF7NdhmAuyXb4WuTU"
       },
@@ -10578,7 +11246,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 225360,
       "name": "You Mean Everything to Me",
       "url": "https://open.spotify.com/track/0hjZGYiZYaKRH9QTjNJXtP"
@@ -10960,7 +11628,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 265773,
       "name": "\uc544\ub08c\uc5c6\uc774 \uc8fc\uace0 \uc2f6\uc5b4",
       "url": "https://open.spotify.com/track/2D3o4ROlfkUE4NOBriN97p"

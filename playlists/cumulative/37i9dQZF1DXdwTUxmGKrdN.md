@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-226 songs - 16 hr 38 min
+227 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Because Of You](https://open.spotify.com/track/2bHolL4D662FmrebKPp1qO) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/5cWMjZcZwARnijnPG2Qx4T) | 5:16 | 2021-12-27 | 2022-07-29 |
 | [Big Shot](https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Global Force](https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7) | 4:24 | 2022-04-11 |  |
 | [Bittersweet](https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Bittersweet](https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ) | 4:04 | 2021-12-27 | 2022-07-27 |
+| [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 | 2023-05-30 |  |
 | [Black Dynamite](https://open.spotify.com/track/0Of0fM7dwXt3xQfQ0GKVpu) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Donald Hayes](https://open.spotify.com/artist/6RAJ9Jyvs0fR96ybRd44wk) | [Supreme](https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj) | 4:31 | 2022-04-11 | 2022-04-19 |
 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 | 2022-07-18 |  |
 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 | 2021-12-27 | 2022-07-29 |
@@ -218,7 +219,7 @@
 | [The B Spot](https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:59 | 2022-01-10 |  |
 | [Thicker Than Water](https://open.spotify.com/track/3bMFWi8ICm7xEAHtamhTUs) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 6:32 | 2022-04-11 | 2022-04-15 |
 | [Think of You](https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu) | [Brendan Rothwell](https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ) | [Sentiment](https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7) | 4:00 | 2021-12-27 |  |
-| [Three Dee](https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Tranquility](https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd) | 4:01 | 2022-07-18 |  |
+| [Three Dee](https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Tranquility](https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd) | 4:01 | 2022-07-18 | 2023-06-03 |
 | [Timeline](https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb) | [Cal Harris Jr.](https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R) | [Soulful](https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb) | 4:07 | 2022-01-10 |  |
 | [Tried and True](https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [The Time Is Now](https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE) | 3:46 | 2022-01-17 |  |
 | [Undun](https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Moonlight](https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk) | 4:53 | 2021-12-27 |  |

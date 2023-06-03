@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-78 songs - 7 hr 41 min
+79 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Arabic Tales](https://open.spotify.com/track/7CZIav6rRTCgMdLFsXlfWl) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Arabic Tales](https://open.spotify.com/album/1rfDsJbfOlhe3j0m0YzYzS) | 6:50 | 2022-03-04 |  |
 | [Around](https://open.spotify.com/track/2GAXVfXJCfSi7obOc2hSz0) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Around](https://open.spotify.com/album/6hgJAzkzfp3BBQzIqP2DW8) | 4:30 | 2022-03-04 |  |
 | [Bae Bae](https://open.spotify.com/track/2BFQKrThxQDyKPd0ZxQFvx) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Caixa Magica](https://open.spotify.com/album/23EHP9aGTgWkUBYAFWzlzF) | 6:49 | 2022-03-04 |  |
-| [Baobá](https://open.spotify.com/track/0i4CP9Syn35u4d5z5Zu8dH) | [Gottinari](https://open.spotify.com/artist/7fd4ocP25Ava07zgL5L3UE), [Harmonika](https://open.spotify.com/artist/2mbshn7PMiWfICvtzY0JbI), [Marco Gottinari](https://open.spotify.com/artist/6zZczEoT4wn1iCrDa4jRxH) | [Baobá](https://open.spotify.com/album/4JhptqSymWXINCuJNhwiuu) | 5:51 | 2022-03-04 |  |
+| [Baobá](https://open.spotify.com/track/0i4CP9Syn35u4d5z5Zu8dH) | [Gottinari](https://open.spotify.com/artist/7fd4ocP25Ava07zgL5L3UE), [Harmonika](https://open.spotify.com/artist/2mbshn7PMiWfICvtzY0JbI), [Marco Gottinari](https://open.spotify.com/artist/6zZczEoT4wn1iCrDa4jRxH) | [Baobá](https://open.spotify.com/album/4JhptqSymWXINCuJNhwiuu) | 5:51 | 2022-03-04 | 2023-06-03 |
 | [Batatinha Frita](https://open.spotify.com/track/64Tp1Tcst4O7dTUtRAUFFv) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Batatinha Frita](https://open.spotify.com/album/52NZHEFIX0mAOwfAwVLFz0) | 6:30 | 2022-03-04 |  |
 | [Beautiful Hallucinations](https://open.spotify.com/track/7ugYCF480SGyKGD3wcbHUn) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Rinkadink](https://open.spotify.com/artist/06ldxpPnHY1OEWgxglSHA4), [3LMT](https://open.spotify.com/artist/5qzMTiRkqiq6fpHCxIeGCo) | [Beautiful Hallucinations](https://open.spotify.com/album/7FkTrMH0QDRshT4VMHutJR) | 7:27 | 2022-03-04 |  |
 | [Breakdown](https://open.spotify.com/track/3i0Qw0LxoruonsiBW1fl1y) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [DreamVibes!](https://open.spotify.com/artist/333xTovyP8Mj9sK4fIUpgu) | [Breakdown](https://open.spotify.com/album/4DRAUTptsiqSTrKgEThENR) | 5:50 | 2022-03-04 |  |
@@ -67,6 +67,7 @@
 | [Out There](https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Out There](https://open.spotify.com/album/0D4Bdip4BhTnmOB9Cd19Cs) | 6:05 | 2022-03-04 |  |
 | [Paradise](https://open.spotify.com/track/6Jk0tESwJWTQDgaNGMrcCv) | [Paranormal Attack](https://open.spotify.com/artist/3XFXGwdeqcU5eBVSJd0pt3), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Paradise](https://open.spotify.com/album/05z38kMYftI6AroSx2Z5QZ) | 5:12 | 2023-05-26 |  |
 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 | 2022-03-04 |  |
+| [Pirates](https://open.spotify.com/track/57dVTZKV6DdYeGNlDiXlVb) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Pirates](https://open.spotify.com/album/3T0gZph8IepNf0ncSWo7h8) | 3:26 | 2023-06-02 |  |
 | [PRA!](https://open.spotify.com/track/2rSiaVJRP93bTgEbWWn4ms) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Boot Sequence](https://open.spotify.com/artist/3snzAs1JCZ92tLSnWaaXWT) | [PRA!](https://open.spotify.com/album/2g7gACbuQsq9TUFhvpbYqM) | 4:30 | 2023-03-03 |  |
 | [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 | 2022-03-04 |  |
 | [Pólvora](https://open.spotify.com/track/3NZsaDrILzOwEbvvitf1D2) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/3IaWvLz87jDi6thZNB2pU1) | 4:16 | 2022-03-04 | 2022-10-16 |

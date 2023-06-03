@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,367 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,376 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [I LIKE](https://open.spotify.com/track/6MEp7B2OltOI1cZXEwxNAh) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [I LIKE](https://open.spotify.com/album/43d48gV9x1lyeM6UhffIgt) | 2:16 |
 | 9 | [Immer an dich geglaubt](https://open.spotify.com/track/5mWkmalwb4PrecF7THiRbp) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Immer an dich geglaubt](https://open.spotify.com/album/4NbIU98TsaJ53d0K2qzH91) | 2:52 |
 | 10 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
-| 11 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
-| 12 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
+| 11 | [Broken Promises](https://open.spotify.com/track/02bFDwUUM1aKVGRyYNAQYR) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/31ZyoCqAQBXFn9e1y0edze) | 1:51 |
+| 12 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
 | 13 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
-| 14 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
-| 15 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
-| 16 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
-| 17 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
-| 18 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
-| 19 | [Broken Promises](https://open.spotify.com/track/02bFDwUUM1aKVGRyYNAQYR) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Broken Promises](https://open.spotify.com/album/31ZyoCqAQBXFn9e1y0edze) | 1:51 |
+| 14 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
+| 15 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
+| 16 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
+| 17 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
+| 18 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
+| 19 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
 | 20 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
 | 21 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 |
 | 22 | [All Ears on Me](https://open.spotify.com/track/1zblKer9LkCk9P33KXnZrs) | [Vita](https://open.spotify.com/artist/6xFDR4HD7uLGWhdV9vF9qP) | [All Ears on Me](https://open.spotify.com/album/0Umpl1GnQLFvAPWlXDWykm) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [cyu](https://open.spotify.com/track/0SrqZuiuyuIu3pwNBLXq0K) | [fraen again](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [cyu](https://open.spotify.com/album/6bWONIYVnAC9BUkgkjH6PR) | 3:45 |
 | 50 | [Strawberry Milk](https://open.spotify.com/track/79aJ1jhpv0hTQwBSRv5wZd) | [Olive Yaah](https://open.spotify.com/artist/2Z9U9OEYfEAJVkTkNReA0G) | [Strawberry Milk](https://open.spotify.com/album/3sJbhGEEZS8jVLa0VZTlFB) | 4:57 |
 
-Snapshot ID: `MCxjOTM3NTFlYWIwMTZkNzhmOTk5MzFiZDdhMWY1YWUxODAyNGMwYTI5`
+Snapshot ID: `MCw4M2E5MDViODRlMGYyMmQ1OTJiMzY4OGI3ZTBhOTNlOGFjMDU5NTM1`

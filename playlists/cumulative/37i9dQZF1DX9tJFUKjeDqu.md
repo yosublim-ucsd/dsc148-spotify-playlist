@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-126 songs - 8 hr 7 min
+127 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 | 2022-04-15 |  |
 | [Guitar Interlude in Bb](https://open.spotify.com/track/2Ou90Hssj1tD2k2rintpgE) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/5biMirupjO0D7M8lOetEid) | 1:59 | 2022-10-14 |  |
 | [Guitar Interlude in Bb](https://open.spotify.com/track/3KTfFNKOAHsFhuKNX90tbT) | [Pablo Queu](https://open.spotify.com/artist/6unlzVywR1plttUTcFVltU) | [Deep in the Pocket](https://open.spotify.com/album/2PXYPnt5dgNToCoASzy9ii) | 1:59 | 2022-04-15 | 2022-10-23 |
+| [Hideaway](https://open.spotify.com/track/3ev4euHrYhHvlfC8rvKCXG) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Hideaway](https://open.spotify.com/album/4haGf3yfqq8nspnUHyhhdg) | 2:34 | 2023-06-02 |  |
 | [Home Alone](https://open.spotify.com/track/1IWK7wCyYkUiTbY78KE0jr) | [Soothing Dog Sounds](https://open.spotify.com/artist/30tUXL7OQLtFE7DmKCKLCo) | [Blues Music for Dogs](https://open.spotify.com/album/42KEN0fc3AtktxdETSDlZa) | 2:56 | 2022-04-15 |  |
 | [Howlin' For You](https://open.spotify.com/track/66YQ2ghOLvlI2s8B4SqgzY) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:13 | 2022-11-18 |  |
 | [I've Started To Lose Track](https://open.spotify.com/track/31LJ8qz6oyssmej1vs9Hcc) | [Ian Ross Cohen](https://open.spotify.com/artist/5C1gIEuOa13fnL4zJ2b3l5) | [Instrumentals](https://open.spotify.com/album/2IWlTvyYjmIRAK1BujmpsF) | 3:37 | 2023-01-13 |  |

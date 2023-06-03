@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "I'm Normally Like This",
+        "url": "https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I'm Normally Like This",
+      "url": "https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL"
+    },
+    {
+      "album": {
         "name": "in my ways",
         "url": "https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU"
       },
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "parasite",
+        "url": "https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm"
+      },
+      "artists": [
+        {
+          "name": "OC Saint",
+          "url": "https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213153,
+      "name": "parasite",
+      "url": "https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB"
+    },
+    {
+      "album": {
         "name": "Past Vibration",
         "url": "https://open.spotify.com/album/423cCingFcQ64dla8mdJ6C"
       },
@@ -2344,6 +2380,24 @@
       "duration_ms": 170000,
       "name": "Show Me The Way You Love",
       "url": "https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4"
+      },
+      "artists": [
+        {
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X"
     },
     {
       "album": {

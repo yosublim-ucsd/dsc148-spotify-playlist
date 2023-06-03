@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
 
-250 songs - 11 hr 42 min
+251 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-23 |  |
 | [Purple Lazy](https://open.spotify.com/track/2irKcM8WZ1FtLjCnIjBIbV) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Purple Lazy](https://open.spotify.com/album/6LrCP7f7u0FSildSYoj5vR) | 2:18 | 2022-10-14 |  |
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 |  |
+| [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 | 2023-06-02 |  |
 | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/track/4300IZycSZEP0Bn20ipbxq) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/album/46IavVcX7oBl8bSqGXteE8) | 2:27 | 2022-06-03 | 2022-08-13 |
 | [Rich Shit](https://open.spotify.com/track/4OjHlfjQgDzZGi8u0hdDwg) | [Lil Bam](https://open.spotify.com/artist/3S3l1EegoGkmCrbxAmwDxu) | [Rich Shit](https://open.spotify.com/album/3lWNbzLrEhQE2UXlHnB8um) | 2:25 | 2022-11-04 | 2023-04-01 |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 | 2023-02-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse deeper into obscure alternate dimensions... \ud83e\udd87\ud83d\udd2e",
-  "num_followers": 2742,
+  "num_followers": 2748,
   "original_name": "Stranger Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWZiMWM3MzZhMWZhM2RkYzg5ZjA5YTcwNTBlZWQ1NmQ0ZTQ5N2I2",
+  "snapshot_id": "MCw1YWVhY2JkODY3OWFiNTg1ODg5YTEwMzQzMDE0ODQzYmU2Y2ZlNDFk",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Signals - Remastered 2005",
-      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Signals - Remastered 2005",
+      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
     },
     {
       "added_at": "2023-05-09 00:57:14",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 463773,
+      "name": "Fields of Coral",
+      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 236746,
       "name": "A Stream With Bright Fish - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 463773,
-      "name": "Fields of Coral",
-      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -647,18 +647,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
+        "name": "Black Corner Den",
+        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
       },
       "artists": [
         {
           "name": "Atrium Carceri",
           "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
+        },
+        {
+          "name": "Cities Last Broadcast",
+          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
         }
       ],
-      "duration_ms": 363843,
-      "name": "A Curved Blade",
-      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
+      "duration_ms": 264127,
+      "name": "Prepare the Stage of Night",
+      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -751,22 +755,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Black Corner Den",
-        "url": "https://open.spotify.com/album/10flibooBjjwWKy02B5obV"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj"
       },
       "artists": [
         {
           "name": "Atrium Carceri",
           "url": "https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr"
-        },
-        {
-          "name": "Cities Last Broadcast",
-          "url": "https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4"
         }
       ],
-      "duration_ms": 264127,
-      "name": "Prepare the Stage of Night",
-      "url": "https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR"
+      "duration_ms": 363843,
+      "name": "A Curved Blade",
+      "url": "https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Bathyscaphe",
-        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
-      },
-      "artists": [
-        {
-          "name": "Germind",
-          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Bathyscaphe",
-      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Akrasia",
         "url": "https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+        "name": "Bathyscaphe",
+        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Germind",
+          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
         }
       ],
-      "duration_ms": 283786,
-      "name": "The Willows",
-      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+      "duration_ms": 192757,
+      "name": "Bathyscaphe",
+      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1031,6 +1015,22 @@
       "duration_ms": 316840,
       "name": "Anthropic Uncreation",
       "url": "https://open.spotify.com/track/4Z355byisU8j1DVSwA3biP"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "The Willows",
+      "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
     },
     {
       "added_at": "2022-07-06 17:58:03",

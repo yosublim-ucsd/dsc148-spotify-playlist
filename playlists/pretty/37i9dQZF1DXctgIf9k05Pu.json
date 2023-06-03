@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 234112,
+  "num_followers": 234167,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGMyNGZiYTJhYjE5MzlkYmI2MjY3OWNiN2ViMjFkYTUxMjhmNTgx",
+  "snapshot_id": "MCxkNTI4MjE3OGZhY2U0MmE5ZGZjMWQzZjIwZTA3ZmVlOGFlMzg5MmE2",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Steven Universe",
-        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Steven Universe",
+        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 102176,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
       },
       "artists": [
         {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
         }
       ],
-      "duration_ms": 102176,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",

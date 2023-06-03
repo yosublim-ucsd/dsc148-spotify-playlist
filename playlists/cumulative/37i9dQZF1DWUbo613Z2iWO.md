@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Mnelia
+> R&B of the moment by the artists of the future\. Cover: No Guidnce
 
-598 songs - 1 day 6 hr 53 min
+599 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [INSIDE](https://open.spotify.com/track/1j1KbCOTYAGdfDJ0hsuLhc) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [INSIDE](https://open.spotify.com/album/3K1RiDgcaxkA2NctK2jdID) | 3:54 | 2022-01-28 | 2022-03-18 |
 | [Into U](https://open.spotify.com/track/5g4KLM2NfniEg0beTTrZtW) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Into U](https://open.spotify.com/album/0nLdXVXDhqaoEH3iJwtKRt) | 3:03 | 2022-04-08 | 2022-05-14 |
 | [Introvert Hotline](https://open.spotify.com/track/5SQxSIapsaziYnZRLwfPSU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Introvert Hotline](https://open.spotify.com/album/0HxAmiI6pF4ZRaLGv63HnX) | 3:17 | 2022-03-11 | 2022-04-02 |
+| [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 | 2023-06-02 |  |
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-17 | 2023-04-22 |
 | [ISLY](https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer](https://open.spotify.com/album/5qvBGoEtTh1P8abEJ99D91) | 3:05 | 2022-05-06 | 2022-07-10 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2021-12-15 | 2022-02-26 |

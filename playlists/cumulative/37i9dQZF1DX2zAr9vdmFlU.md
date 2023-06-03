@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-219 songs - 13 hr 50 min
+220 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 | 2021-12-09 |  |
 | [Mozo](https://open.spotify.com/track/6UYnSpITCrCWsmgjFwK3u0) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mozo](https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo) | 3:47 | 2021-12-09 | 2022-07-29 |
 | [Mozo](https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM), [Luisito Quintero](https://open.spotify.com/artist/3Yd5AAZM2MieLiXoq8anxG), [Paquito D'Rivera](https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 3:49 | 2022-01-01 | 2023-03-08 |
-| [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 | 2021-12-09 |  |
+| [Nain](https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK) | [Brownout](https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S) | [Nain](https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm) | 4:07 | 2021-12-09 | 2023-06-03 |
 | [Naranjo En Flor](https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk) | 4:36 | 2021-12-09 | 2022-07-29 |
 | [Naranjo En Flor](https://open.spotify.com/track/2UG5sMphnHUvsswl596nqF) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/7249DS6vz0JbQuZlpYDCPd) | 4:38 | 2022-08-31 | 2022-11-13 |
 | [Naranjo En Flor](https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM) | 4:38 | 2023-03-07 | 2023-03-25 |
@@ -178,6 +178,7 @@
 | [Rumbera](https://open.spotify.com/track/6UcB9gMHjY5VMGejDCe6k7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/69Ir7r4C79cTgSTBptkF54) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [Sabor a Mi](https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:15 | 2022-01-01 | 2023-04-29 |
 | [Sabor a Mi](https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 3:17 | 2021-12-09 | 2022-07-29 |
+| [Señal de Fuego](https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt) | 3:45 | 2023-05-26 |  |
 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 | 2021-12-09 |  |
 | [Si Te Contara](https://open.spotify.com/track/0S21tUeTL1sbbEfU4Fh8YD) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:39 | 2021-12-09 | 2022-07-29 |
 | [Si Te Contara](https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:39 | 2022-01-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 185 songs - 8 hr 23 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 187 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,5 +193,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 183 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 |
 | 184 | [Fresh Prince Of Utah](https://open.spotify.com/track/6iMWB9q0CylvnKEFr5xsLh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer 2](https://open.spotify.com/album/0HYHImbSqwsuU61PSMEe8J) | 2:45 |
 | 185 | [Mr Gaulden](https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Don't Try This At Home](https://open.spotify.com/album/6mS81Go5P5wQKoybVT68NW) | 3:11 |
+| 186 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 |
+| 187 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 |
 
-Snapshot ID: `NzA0MywwOTFhYzE5MzYzNjdkMGRjYmMxM2EzY2ZjMmRlMGMxOGNmNjE3Y2U2`
+Snapshot ID: `NzA0NSw2ODYxMDFjMDdiNjMxY2U5ZGUxOGIwOGEzYWEzNDFjM2U1Yjk2MTE2`

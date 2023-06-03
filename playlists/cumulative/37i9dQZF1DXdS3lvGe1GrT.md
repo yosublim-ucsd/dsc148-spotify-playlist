@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: tofusmell \| Visual Artist: Bailey Elder
 
-654 songs - 1 day 15 hr 9 min
+655 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 | 2022-11-09 | 2022-12-01 |
 | [departure hall](https://open.spotify.com/track/5RhlpOZGOsOnzVEZLmjWZG) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [departure hall](https://open.spotify.com/album/0YgBekUUGHVNTuOJayZl4t) | 3:47 | 2022-05-25 | 2022-08-04 |
 | [Diamonds](https://open.spotify.com/track/5ibRQNS2RMKMu7aX7OzYGv) | [Amanda Fields](https://open.spotify.com/artist/2PnfLtYzDVahZb1FGldOOH) | [What, When and Without](https://open.spotify.com/album/4foD6VsVsEsbGn1faz18KC) | 3:50 | 2023-03-08 | 2023-04-13 |
+| [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 | 2023-06-02 |  |
 | [dickhead blues](https://open.spotify.com/track/0b1MDxh1MD1dwHs3nczuW7) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [dickhead blues / brain](https://open.spotify.com/album/27VaG4zOTs26E4CavIht7R) | 5:25 | 2023-01-25 |  |
 | [Didn't See the Sun](https://open.spotify.com/track/2GOPSp4e5l3XxG16XIcuGW) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Highways and Heartbreaks](https://open.spotify.com/album/6zuNYreJGKzIgsGMYXQ3il) | 4:17 | 2022-05-25 | 2022-08-25 |
 | [Didn't Want to Have to Do It](https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN) | [Lady Apple Tree](https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd) | [Didn't Want to Have to Do It](https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr) | 4:24 | 2023-04-12 |  |
@@ -536,7 +537,7 @@
 | [Slow Motion](https://open.spotify.com/track/5Oo2adPyAEyyiUgVUinvUV) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Slow Motion](https://open.spotify.com/album/4gh52dSbYMWshTBwsB4lSj) | 3:05 | 2023-01-11 | 2023-02-16 |
 | [Smoke](https://open.spotify.com/track/2z8nCdpylee7dRldAs2AVR) | [Moreton](https://open.spotify.com/artist/402grluFMEdAXNHu3xldZ1) | [The Dog Years](https://open.spotify.com/album/5MAKiRCJ8Q9YO2pEROasGX) | 4:31 | 2023-05-31 |  |
 | [So Long](https://open.spotify.com/track/3lqyDhYF2LySUAxc1PFlsN) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [So Long](https://open.spotify.com/album/6tAMhO8WV1WPcDglep3DpM) | 3:54 | 2023-05-03 |  |
-| [So Pretty](https://open.spotify.com/track/2CRNlAT8872weon0PKuks2) | [McKenna Esteb](https://open.spotify.com/artist/5R218OuGBko4GEdpGHuf6v) | [So Pretty](https://open.spotify.com/album/2YVdScLIalhtZXFOmuJqEX) | 1:48 | 2023-04-26 |  |
+| [So Pretty](https://open.spotify.com/track/2CRNlAT8872weon0PKuks2) | [McKenna Esteb](https://open.spotify.com/artist/5R218OuGBko4GEdpGHuf6v) | [So Pretty](https://open.spotify.com/album/2YVdScLIalhtZXFOmuJqEX) | 1:48 | 2023-04-26 | 2023-06-03 |
 | [Solid Gold](https://open.spotify.com/track/2rlGESvpeqp4fuRWo1SqOO) | [Miles Miller](https://open.spotify.com/artist/0Yss5qOkho0Lg2MYRkJeuZ) | [Solid Gold](https://open.spotify.com/album/1pGXBIgA2ywXPBv5EznqAl) | 3:18 | 2023-03-01 | 2023-04-13 |
 | [Some Curse](https://open.spotify.com/track/7maIi25fHreumpL9aT9jlE) | [Half Gringa](https://open.spotify.com/artist/7LKGXrwJzaRpJIGk4JWVYZ) | [Ancestral Home](https://open.spotify.com/album/7kzliC17Na5HVStBREnYZh) | 3:52 | 2023-02-08 | 2023-03-23 |
 | [Some Strange Notion](https://open.spotify.com/track/34ZARRmxs59mqcp2TyIjGB) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:42 | 2023-04-12 | 2023-05-11 |

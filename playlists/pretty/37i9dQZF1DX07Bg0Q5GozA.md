@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Joe Goddard, Fiorious
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,411 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,437 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 2 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 |
 | 3 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 |
 | 4 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 |
-| 5 | [Bad Company \- Edit](https://open.spotify.com/track/18PJk8NgFUFjhyViGxxWx1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/2ttXaXYL7i24hld49Ivzdr) | 3:28 |
+| 5 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 6 | [Because of You \(feat\. Isaac Delusion\)](https://open.spotify.com/track/46HKDN72dkLckTwFV8TrLd) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Dance'O'Drome](https://open.spotify.com/album/2zdjOPQrOLi0n2DRUPLJm7) | 3:28 |
 | 7 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 |
 | 8 | [Looking Down From Space](https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Looking Down From Space](https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Final Dance](https://open.spotify.com/track/7re9LDHysQXrIlbQxaDzBv) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:12 |
 | 75 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 
-Snapshot ID: `MCxjMDQ2MTkxM2UwMGQ4N2QxMTkyNmRhZDFjZDE2NTQwMmEwZDIwZjRm`
+Snapshot ID: `MCxmMmJjNGJjN2ViMWQzZDA4OTI3M2ZiNTczZTkyMGE1NGQ1ZTUwZDY0`

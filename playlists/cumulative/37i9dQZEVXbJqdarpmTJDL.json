@@ -7416,7 +7416,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 144386,
       "name": "Erotas",
       "url": "https://open.spotify.com/track/1O4LjNjQxnzqECfTKGkko6"
@@ -7848,7 +7848,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 169811,
       "name": "FAVELA",
       "url": "https://open.spotify.com/track/0OyiXp4CdjqOYDSpzgfEx7"
@@ -12366,7 +12366,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 261333,
       "name": "KVL",
       "url": "https://open.spotify.com/track/3WxwtLjNVxdOzWISisDh8B"
@@ -19202,7 +19202,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-31",
+      "date_removed": null,
       "duration_ms": 162061,
       "name": "PSEMA",
       "url": "https://open.spotify.com/track/5rrbMbJK3LGzQ6B25aBD2r"
@@ -20246,7 +20246,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 142983,
       "name": "Salvador Dali",
       "url": "https://open.spotify.com/track/4N6OaKsTVicF0AozxfhpP2"
@@ -20954,7 +20954,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 157158,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/45fIuFwHBhDXoFcicu8ESK"
@@ -23984,7 +23984,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 124134,
       "name": "UFO",
       "url": "https://open.spotify.com/track/19iahe2EB3Tu4ZosUUYrXR"
@@ -24712,6 +24712,28 @@
       "duration_ms": 207445,
       "name": "WE DON'T STOP",
       "url": "https://open.spotify.com/track/4b2aud5Xgq6gYP0oOijOMV"
+    },
+    {
+      "album": {
+        "name": "Weed & Nas",
+        "url": "https://open.spotify.com/album/4H5W7CQWRL7vfEmeOCl9Ln"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Weed & Nas",
+      "url": "https://open.spotify.com/track/0n2qc2g61jW0pS2HJzyM6U"
     },
     {
       "album": {

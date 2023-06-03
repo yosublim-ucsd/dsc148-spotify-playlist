@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
-  "num_followers": 130891,
+  "num_followers": 131067,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjBiMTU4YWExZjUxZmNiMTRjNDdhNDU1MzQ4NWJhZGY5NDQ5Njdm",
+  "snapshot_id": "MCxmYzUzNjMyOWJiZWFkMTdiYzk2YWRmMzNlMTI0ZmM5MDA1ZjU1NzBk",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1573,26 +1573,6 @@
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
     },
     {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        }
-      ],
-      "duration_ms": 247080,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
-    },
-    {
       "added_at": "2023-05-19 06:00:00",
       "album": {
         "name": "Seguimos Bateando (En Vivo)",
@@ -1639,6 +1619,26 @@
       "duration_ms": 206500,
       "name": "Por Si Pego",
       "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
     },
     {
       "added_at": "2023-04-19 16:02:16",

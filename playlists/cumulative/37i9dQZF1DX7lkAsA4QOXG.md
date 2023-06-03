@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-166 songs - 12 hr 55 min
+167 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 |  |
 | [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 |  |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
-| [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 | 2023-05-30 |  |
+| [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 | 2023-05-30 | 2023-06-03 |
 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 |  |
 | [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-13 |  |
 | [Streets Of Philadelphia](https://open.spotify.com/track/1TcoNPMDaoEv3rCebQnl7L) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [If You Know Love](https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4) | 3:15 | 2022-09-13 |  |
@@ -164,6 +164,7 @@
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-09-13 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7) | [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk), [Alexander Claffy](https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [When a Man Loves a Woman](https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW) | 4:18 | 2022-09-13 |  |
 | [When Most I Wink \- Sonnet 43](https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb) | [Birgit Minichmayr](https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl), [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR) | [As an Unperfect Actor \(Nine Shakespeare Sonnets\)](https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ) | 3:30 | 2022-09-13 |  |
+| [When the Party's Over](https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW) | [Jakob Manz](https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP) | [Groove Connection](https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub) | 3:22 | 2023-05-30 |  |
 | [Wichita Lineman](https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:58 | 2023-02-15 |  |
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 |  |

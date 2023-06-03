@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141494,
+  "num_followers": 141493,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjczM2FmOThhNDNkZmU3YzBlZjYwNjAwNjc3Y2RkZTE2OTk5NTA1",
+  "snapshot_id": "MCxmYWI0ZTUyNWQ2ZDVjMDJhMDZlMGNjZTgwZjMyYjVkYjdjN2U4ODFk",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New Orleans Jazz Collection - French Quarter Favorites",
         "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 154825,
       "name": "Bourbon Street Parade",
       "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New New Orleans Jazz",
         "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 294760,
       "name": "Hot Lips",
       "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Complete Columbia Session 1946",
         "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
       "artists": [
         {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
         }
       ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -519,6 +503,22 @@
       "duration_ms": 312640,
       "name": "Do It Fluid",
       "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",

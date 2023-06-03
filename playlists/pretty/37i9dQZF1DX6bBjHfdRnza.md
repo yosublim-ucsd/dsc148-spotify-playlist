@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Daniel Allan\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,071 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,114 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 2 | [Tartaruga](https://open.spotify.com/track/0CFwsncuCbp6qkW8C0dtSZ) | [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Madrugada](https://open.spotify.com/album/2enL7M75Dt4yGg6qodIhfm) | 3:40 |
 | 3 | [Evergreen \(feat\. KLOE\)](https://open.spotify.com/track/4Jvsedk3KnknusOF8RDC5C) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [KLOE](https://open.spotify.com/artist/0Olr5bDiMEkn5Z9eQwUIAq) | [Evergreen \(feat\. KLOE\)](https://open.spotify.com/album/0aL9igwFm3G63OPAH9DagN) | 2:50 |
 | 4 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 |
-| 5 | [Lost Myself](https://open.spotify.com/track/1ffMfLFbjykKYbSJv8gklh) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX) | [Lost Myself](https://open.spotify.com/album/2jwyexfdTDFCq7eA7XqCbs) | 3:06 |
+| 5 | [Lost Myself](https://open.spotify.com/track/1ffMfLFbjykKYbSJv8gklh) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX) | [Lost Myself](https://open.spotify.com/album/2jwyexfdTDFCq7eA7XqCbs) | 2:58 |
 | 6 | [More In Love \(with Grady\)](https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 2:22 |
 | 7 | [Dynamite](https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Dynamite](https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4) | 3:49 |
 | 8 | [Jingū Kogo / Emperatriz Jingū](https://open.spotify.com/track/7DPWWobv9QiEq5jDRq5nuB) | [Paurro](https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO) | [Jingū Kogo / Emperatriz Jingū](https://open.spotify.com/album/2uwKjgzMF4j3R72YG4OV2L) | 8:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Temptress](https://open.spotify.com/track/2GNBtVWgzPHoIKSg5SJcdK) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Xoul Trap](https://open.spotify.com/album/5Um5poRe3QTntqiqCUQG5R) | 6:21 |
 | 100 | [A Bit Too Much](https://open.spotify.com/track/1ECYQUZqeB5Dn8kiJPTLcZ) | [Dila Vladuçak](https://open.spotify.com/artist/7D8ssM44NhVUyRpJyXDbzl), [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO) | [A Bit Too Much](https://open.spotify.com/album/6SiQrzKArzZCSMqcmrLWlS) | 3:17 |
 
-Snapshot ID: `MCw0NTljMDI5NjI4ZTE5YWI1MTc2NDY3MDEwNTVkNDIwMzUyMTBmOTgx`
+Snapshot ID: `MCw0NTU0ZGQ5NTM5ZDRlOTYwZTM2MGRjMGFlZjNmMzU5OTQwMGY5NDA2`

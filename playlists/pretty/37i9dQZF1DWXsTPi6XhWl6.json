@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33923,
+  "num_followers": 33920,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjQ4ZDcyYWQwOGQzZmIzYzM2NGIwMjc2NjZlMmFjNWIzMjI1Y2Iw",
+  "snapshot_id": "MCwzMTA4MmI5OWMwZmUzMGNkMDM0OGE5MDI4Njk2Mzk1MGM1NjI3MDQ4",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Wakin On A Pretty Daze",
-        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 570733,
-      "name": "Wakin On A Pretty Day",
-      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Chutes Too Narrow",
         "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 193546,
       "name": "Gone for Good",
       "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Wakin On A Pretty Daze",
+        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 570733,
+      "name": "Wakin On A Pretty Day",
+      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -807,26 +807,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
+        "name": "The Black Dirt Sessions",
+        "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        },
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        },
-        {
-          "name": "Friends",
-          "url": "https://open.spotify.com/artist/0R2qhaNYSKYhYKeRMYwrpN"
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
         }
       ],
-      "duration_ms": 299719,
-      "name": "Sugaree",
-      "url": "https://open.spotify.com/track/67zZz0GRLNvouSyidwRt2Y"
+      "duration_ms": 223933,
+      "name": "Twenty Miles",
+      "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
     }
   ],
   "unique_name": "Wide Awake",

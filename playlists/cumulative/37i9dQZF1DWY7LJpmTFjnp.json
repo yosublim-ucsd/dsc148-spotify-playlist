@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "A la luz de las farolas / Tren a Marte",
+        "url": "https://open.spotify.com/album/1ohvPS2kkidpR6gvYVXahA"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "A la luz de las farolas",
+      "url": "https://open.spotify.com/track/4EOuhYHIS0plpNtxEILZxs"
+    },
+    {
+      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -339,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n De Reflexi\u00f3n",
         "url": "https://open.spotify.com/album/7Lm5gUqxWt5oaOADoTz3zH"
       },
@@ -596,7 +632,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 255920,
       "name": "Dias Peligrosos",
       "url": "https://open.spotify.com/track/0ZLFtOZ5jWUDidCxKwFkGJ"
@@ -636,6 +672,28 @@
       "duration_ms": 160786,
       "name": "El Colmo",
       "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
+    },
+    {
+      "album": {
+        "name": "El Escape",
+        "url": "https://open.spotify.com/album/4QqIPDbGK6Ay3jh2gUBBjk"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        },
+        {
+          "name": "Alejandro Marcovich",
+          "url": "https://open.spotify.com/artist/4sF5pceyIsbDAuDycv1F88"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235163,
+      "name": "El Escape",
+      "url": "https://open.spotify.com/track/2p4vKd9eEeduDcN2vfKkWy"
     },
     {
       "album": {
@@ -730,6 +788,28 @@
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+    },
+    {
+      "album": {
+        "name": "El Santuario",
+        "url": "https://open.spotify.com/album/6MWOkdCIK6SNDqKQ8ouAqE"
+      },
+      "artists": [
+        {
+          "name": "El General Paz & La Triple Frontera",
+          "url": "https://open.spotify.com/artist/2OXcnoIOjCGuv9WmCblxuB"
+        },
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244714,
+      "name": "El Santuario",
+      "url": "https://open.spotify.com/track/5KWfHFrSqP8oa04sWIQK9L"
     },
     {
       "album": {
@@ -968,7 +1048,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 220511,
       "name": "Fuego y Dinamita",
       "url": "https://open.spotify.com/track/4lRuT1p6PgZTOrx4E96lzB"
@@ -1008,7 +1088,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 164826,
       "name": "Gato",
       "url": "https://open.spotify.com/track/4MZUZdsDHiFe81nL4rHWnM"
@@ -1870,7 +1950,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 251869,
       "name": "Pasiflorine",
       "url": "https://open.spotify.com/track/6BjpEAvPczBv9UIu9TBGZb"
@@ -2392,7 +2472,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 196923,
       "name": "S\u00f3lo Tu\u0301",
       "url": "https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj"
@@ -2494,6 +2574,28 @@
       "duration_ms": 220872,
       "name": "Tocada y Fuga",
       "url": "https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0"
+    },
+    {
+      "album": {
+        "name": "Trenes Y Gatos",
+        "url": "https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185237,
+      "name": "Trenes Y Gatos",
+      "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
     },
     {
       "album": {

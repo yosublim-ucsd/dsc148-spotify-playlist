@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 125323,
+  "num_followers": 125440,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDRlYTZmYzY3OWUxZWFmOTYwOGNhYjQ4NDUxMjM3ODcyYzA4Yzdj",
+  "snapshot_id": "MCxkZTY3NTI5ZThjMWZiMTZmMmZmM2FmNmYzZmQxNDk4NTVkNjdjOTQx",
   "tracks": [
     {
       "added_at": "2023-05-19 14:45:56",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Original Sounds",
+        "url": "https://open.spotify.com/album/1ylJ8b59k8DOdSFC8IsA4m"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You & I (feat. Simula)",
+      "url": "https://open.spotify.com/track/6Cu9UhyPS5VitSAdwGaM2i"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
         "url": "https://open.spotify.com/album/6l9QJGEoMRYD86XIXHCJvp"
       },
@@ -571,26 +591,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Original Sounds",
-        "url": "https://open.spotify.com/album/1ylJ8b59k8DOdSFC8IsA4m"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You & I (feat. Simula)",
-      "url": "https://open.spotify.com/track/6Cu9UhyPS5VitSAdwGaM2i"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Stars On The Roof (feat. MoMo)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
+        "name": "Streetside",
+        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
       },
       "artists": [
         {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         },
         {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 197241,
-      "name": "Elemental",
-      "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Streetside",
-        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Streetside",
-      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -731,18 +727,38 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
       },
       "artists": [
         {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
         }
       ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+      "duration_ms": 197241,
+      "name": "Elemental",
+      "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -875,8 +891,8 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
+        "name": "Mesmerised",
+        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
       },
       "artists": [
         {
@@ -884,9 +900,9 @@
           "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
+      "duration_ms": 266400,
+      "name": "Mesmerised",
+      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -951,26 +967,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "None Of Us Are Getting Out Of This Life Alive",
-        "url": "https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB"
-      },
-      "artists": [
-        {
-          "name": "The Streets",
-          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 186824,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/2GcGH4Ad6HLvI8Vr1Pu54K"
       },
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Mesmerised",
-        "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
+        "name": "None Of Us Are Getting Out Of This Life Alive",
+        "url": "https://open.spotify.com/album/4hEKRyUeVXejefnsvKYERB"
       },
       "artists": [
         {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Mesmerised",
-      "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
+      "duration_ms": 186824,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/5UjccMIJkNhont0TGSU0iD"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Party All the Time (feat. Kay)",
+        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time (feat. Kay)",
+      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 154650,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Party All the Time (feat. Kay)",
-        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time (feat. Kay)",
-      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "When It Rains, It Pours (Shapes Remix) (feat. Coco, Mr Traumatik & Songer)",
         "url": "https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 254946,
       "name": "When It Rains, It Pours (feat. Coco, Mr Traumatik & Songer) - Shapes Remix",
       "url": "https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-05-19 14:45:56",

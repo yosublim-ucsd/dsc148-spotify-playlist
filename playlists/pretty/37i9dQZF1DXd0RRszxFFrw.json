@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 47639,
+  "num_followers": 47666,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjNlZGExYmVlNmFhNTg2MDVjNjJmODlhMjZhMjIxYTE2ODdlNTRh",
+  "snapshot_id": "MCwzMzFhNWQ3Yzg0MTExNWE5ODI2NGMyOTY3ZjgxNmZjMjY2MDIxODkz",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bella Donna",
         "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 171482,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
         "url": "https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
+      },
+      "artists": [
+        {
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
+        }
+      ],
+      "duration_ms": 171482,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "A Brand New World",
+        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bossa Bravado",
+      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 131182,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "A Brand New World",
-        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Bossa Bravado",
-      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
+        "name": "Recital Flamenco. 12 de Sus Toques Originales",
+        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
       "artists": [
         {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
+          "name": "Manolo Sanlucar",
+          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
         }
       ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
+      "duration_ms": 279293,
+      "name": "El Ca\u00f1averal - Guajira",
+      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Recital Flamenco. 12 de Sus Toques Originales",
-        "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
       },
       "artists": [
         {
-          "name": "Manolo Sanlucar",
-          "url": "https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi"
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
         }
       ],
-      "duration_ms": 279293,
-      "name": "El Ca\u00f1averal - Guajira",
-      "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Hablando Con Mi Guitarra",
-        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 255529,
-      "name": "Noches de Bohemia - Guitar Version",
-      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 197520,
       "name": "Vivienne - Rumba",
       "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Hablando Con Mi Guitarra",
+        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 255529,
+      "name": "Noches de Bohemia - Guitar Version",
+      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
     },
     {
       "added_at": "2022-10-27 22:01:00",

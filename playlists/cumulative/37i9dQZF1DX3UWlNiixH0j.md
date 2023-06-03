@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Tempalay
 
-499 songs - 1 day 7 hr 22 min
+500 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 | 2023-04-26 |
 | [Crying Dancer](https://open.spotify.com/track/1jqdn9pXhWXsASjMhn0u8k) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/57Hy9sa2xYdcElkTaQbjaR) | 3:48 | 2023-01-24 | 2023-02-01 |
 | [Crying Dancer](https://open.spotify.com/track/6CbJ0K5F6Qndwd6f7Sf88s) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/6VvlOmuGYDIsF6w6X0twMb) | 3:48 | 2023-01-24 | 2023-01-26 |
-| [Cupola](https://open.spotify.com/track/71UswHFBFmtTNOApdXAwHY) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Cupola](https://open.spotify.com/album/5vmOw1BJjkie4AhqPkyLox) | 3:48 | 2023-05-04 |  |
+| [Cupola](https://open.spotify.com/track/71UswHFBFmtTNOApdXAwHY) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Cupola](https://open.spotify.com/album/5vmOw1BJjkie4AhqPkyLox) | 3:48 | 2023-05-04 | 2023-06-03 |
 | [Daidai](https://open.spotify.com/track/4aIkJ57mTcNDluNttXBi5R) | [Saboten Neon House](https://open.spotify.com/artist/4YiEZJEh5hD4zNhPtTpp5C) | [Daidai / A Cup of Coffee](https://open.spotify.com/album/0IRVaCORb4vwBSyhVaNdnm) | 3:08 | 2023-04-11 | 2023-04-21 |
 | [Dakishimete](https://open.spotify.com/track/1lXpaSGR5OHptN17bUUkNq) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Surprisingly Alright](https://open.spotify.com/album/38MsFMu4SR0MX9ZAjVKKhA) | 2:43 | 2023-05-23 |  |
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-02-28 | 2023-03-25 |
@@ -189,6 +189,7 @@
 | [Love Is Money?](https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Love Is Money?](https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4) | 3:19 | 2023-05-09 |  |
 | [Lucky Boy](https://open.spotify.com/track/1rGTt1WmULpnVd1OJYy3C8) | [Ewoks](https://open.spotify.com/artist/6445mZFWCQZeCmwi6hB4wl) | [ep2](https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q) | 3:45 | 2023-03-07 | 2023-03-29 |
 | [MAJIC](https://open.spotify.com/track/07pGTcfzbu0jtG6aoAfKhM) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [INORI](https://open.spotify.com/album/3jDrLQ2fCCjBgF3IC5wP0D) | 4:01 | 2023-04-04 | 2023-05-24 |
+| [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 | 2023-06-02 |  |
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-01-24 | 2023-02-08 |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2023-03-28 |  |
 | [miasma](https://open.spotify.com/track/6OTk1A5SN4UvNaJT2MUck9) | [BOAR HUNTER](https://open.spotify.com/artist/3fgbIEhchBfDmtoB0lQw2s) | [Germination of Concepts](https://open.spotify.com/album/1hnCEzbxkge62IBR0VnSsD) | 4:28 | 2023-03-14 | 2023-03-29 |

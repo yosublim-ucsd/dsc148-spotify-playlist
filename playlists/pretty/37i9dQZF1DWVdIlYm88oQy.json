@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 39545,
+  "num_followers": 39596,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDllMmRkNmVkOTljNTY2ZGY0MjY4NTNhZDg2Yjg1OTg0ZjY5NWFm",
+  "snapshot_id": "MCw2Yjg2YmEzZjFmMGMxNmM0NWNkZjk4NWExZGZjMzAzMjBjMWJiZDEz",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Dejenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 194666,
       "name": "Estoy Enamorado de Ti",
       "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Dejenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
     },
     {
       "added_at": "2023-02-17 20:59:31",

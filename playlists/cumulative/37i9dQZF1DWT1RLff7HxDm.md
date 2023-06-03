@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-124 songs - 12 hr 42 min
+125 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [Empty Promises \- Live](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 | 2020-10-30 |  |
 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 | 2020-10-30 |  |
 | [Feeling Good \- Live](https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live At The Roxy](https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd) | 3:52 | 2020-10-30 | 2022-07-29 |
-| [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 | 2020-10-30 |  |
+| [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 | 2020-10-30 | 2023-06-03 |
 | [Frosty \(Live\)](https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frosty \(Live\)](https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS) | 5:52 | 2020-10-30 | 2022-07-29 |
 | [Gravity \- Live at the House of Blues, Chicago, Illinois, September 22, 2005](https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [TRY! \- Live In Concert](https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz) | 5:49 | 2020-10-30 |  |
 | [Gunslinger \- Live](https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Knows Diddley Live](https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj) | 4:27 | 2022-12-16 | 2023-02-26 |
+| [Heaven's Gate \- Live At The Town & Country Club, London, UK / 1990](https://open.spotify.com/track/2Z0lJeL3NFaRM6U4ZRKbQB) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Heaven's Gate \(Live At The Town & Country Club, London, UK / 1990\)](https://open.spotify.com/album/4QP957QHwZEbgCaoNKFrhN) | 4:40 | 2023-06-02 |  |
 | [Hideaway](https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU) | [70th Birthday Concert](https://open.spotify.com/album/3e5hpW2IwWDYlTEAchPhTA) | 4:50 | 2020-10-30 | 2022-07-28 |
 | [High Class Girl \- Live](https://open.spotify.com/track/77PULbIYAM090fHatJgXe5) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [High Class Girl \(Live\)](https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF) | 5:41 | 2021-04-09 | 2022-07-29 |
 | [How Many More Times \- Live](https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 15:22 | 2020-10-30 | 2022-07-29 |

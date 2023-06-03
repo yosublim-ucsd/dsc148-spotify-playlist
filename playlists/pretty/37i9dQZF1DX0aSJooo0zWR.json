@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 181966,
+  "num_followers": 182045,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmFhYjI5M2RkNzVkOTEzMzQ1N2YzNjYwOTY0MzM2OWIyNTE0MjU5",
+  "snapshot_id": "MCxlYzE3N2ZhZTIwMjQzNjZiMmViYzM4Yzk5ZGE0MGZhMjRiM2EyZmU5",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Bass-ic Collection",
-        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
-      },
-      "artists": [
-        {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1097,6 +1081,22 @@
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Bass-ic Collection",
+        "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
+      },
+      "artists": [
+        {
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
+    },
+    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Space-Time",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "A Present For The Future",
@@ -1143,6 +1127,22 @@
       "duration_ms": 551733,
       "name": "Legends",
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2022-09-30 04:01:00",

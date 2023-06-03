@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjY1ZTRlY2RkMDk2NjkxNWMxNjE5NGRmOWFiMjIxZTA1YzNmZTRi",
+  "snapshot_id": "MCw3YWVhNmNlNzgyMmU5YWUzZGEyZWIxZjkzMmUyNzExYzE5ZTc1ODRh",
   "tracks": [
     {
       "added_at": "2023-05-03 06:00:00",
@@ -214,6 +214,10 @@
         {
           "name": "Ala\u00edde",
           "url": "https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i"
+        },
+        {
+          "name": "Hieva",
+          "url": "https://open.spotify.com/artist/3vLNmRETMGAOugcWZ8AhFI"
         }
       ],
       "duration_ms": 172000,

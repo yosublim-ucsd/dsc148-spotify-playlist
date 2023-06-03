@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,842 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,938 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [mille femmine](https://open.spotify.com/track/7HLwgSyMRG6zyILMyjptNk) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [mille femmine](https://open.spotify.com/album/2wMEdGTZPhqtiOrEEeZ9rh) | 2:51 |
 | 50 | [BLUE MONDAY](https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [BLUE MONDAY](https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl) | 2:36 |
 
-Snapshot ID: `MCxmMGU0ODEzZTA1MzIyYzJjOWMwOTdlZjdlZTQwNjVmOTRiMzcyMjJj`
+Snapshot ID: `MCxiYTNkNGM1NTM1ZDA4ZjBkYjdlMmU4MTRhNWU5ZDNkZGU4NjJlODM0`

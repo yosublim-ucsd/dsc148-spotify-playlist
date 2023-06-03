@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
+    },
+    {
+      "album": {
         "name": "Dicking Around",
         "url": "https://open.spotify.com/album/5iwgSC9tIV0KdA5feGdkNI"
       },
@@ -2398,6 +2416,24 @@
       "duration_ms": 353211,
       "name": "Every Day Is A Holiday",
       "url": "https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH"
+    },
+    {
+      "album": {
+        "name": "Everything You've Always Wanted",
+        "url": "https://open.spotify.com/album/36ow8IpG5355jkilVe48kD"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190616,
+      "name": "Everything You've Always Wanted",
+      "url": "https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa"
     },
     {
       "album": {
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -3206,7 +3242,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 289045,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
@@ -3472,7 +3508,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 140880,
       "name": "Heart Break Escape",
       "url": "https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO"
@@ -4189,6 +4225,32 @@
     },
     {
       "album": {
+        "name": "I'll Wait for You",
+        "url": "https://open.spotify.com/album/1NBQeDOqJ1TushojX4Jw4A"
+      },
+      "artists": [
+        {
+          "name": "Tsuwavii",
+          "url": "https://open.spotify.com/artist/0D9qyJ0MxZf1QhrtbK0By7"
+        },
+        {
+          "name": "Abi Bernadoth",
+          "url": "https://open.spotify.com/artist/0kqNd43r9g26Rn23EsSxCW"
+        },
+        {
+          "name": "rayo",
+          "url": "https://open.spotify.com/artist/0tf8gcppeW1Essa4WXbMsX"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180806,
+      "name": "I'll Wait for You",
+      "url": "https://open.spotify.com/track/7aubsiy3BNL0umbXaHtPro"
+    },
+    {
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
@@ -4695,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
+      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4"
       },
@@ -5098,6 +5178,28 @@
       "duration_ms": 250000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5kuCRLXQ7RTG4osKfELrUM"
+    },
+    {
+      "album": {
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ"
+      },
+      "artists": [
+        {
+          "name": "Rob Grant",
+          "url": "https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "Lost at Sea",
+      "url": "https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew"
     },
     {
       "album": {
@@ -7668,7 +7770,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 108794,
       "name": "squirrel song",
       "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
@@ -8872,7 +8974,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-06-03",
       "duration_ms": 209788,
       "name": "trustfall",
       "url": "https://open.spotify.com/track/2i5prz1qSaqSoZbzFFftG9"

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmNlYzBhNThiY2I2Y2Q5ZjllZWY3NDk5NWFhZjQ1MzRhMzAzZmNh",
+  "snapshot_id": "MCwyYWEyODNjMjQ3OGVlMDBiZjA0ZGE1ODZhZjk4NDQ0MDk3OTM2ODk4",
   "tracks": [
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Ten Over 10 (Producer Edition)",
         "url": "https://open.spotify.com/album/5qe99ztflopyhcStRxZHkE"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/3WUrKiGFCB64hHJFGPa7bt"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Singa",
         "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/69aaJYIIfp9BILNlgVjd2Y"
@@ -113,27 +113,23 @@
       "url": "https://open.spotify.com/track/3KXmtXDQsT7QKCL90Pon4G"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
         }
       ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Tewekweka | An Xpressions UG Session",
         "url": "https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem"
@@ -153,7 +149,7 @@
       "url": "https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Bailando refix",
         "url": "https://open.spotify.com/album/667qgTdLh8R0dmOTAtp6Qx"
@@ -173,7 +169,27 @@
       "url": "https://open.spotify.com/track/27mM80dzHBPzfCmsIbVDeb"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Biwamiel",
         "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
@@ -193,27 +209,7 @@
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        },
-        {
-          "name": "An-Known",
-          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "AFRICAN MUSIC",
         "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
@@ -233,7 +229,27 @@
       "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        },
+        {
+          "name": "An-Known",
+          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Bitimba",
         "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "One Bite",
         "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Sembera",
         "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Longitude 20",
         "url": "https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K"
@@ -357,23 +373,7 @@
       "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
@@ -393,7 +393,39 @@
       "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
@@ -413,23 +445,7 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Omwana",
         "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Nkwata Bulungi (Bailamos)",
         "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Part2 (Dinner in Maui)",
         "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
@@ -569,27 +585,7 @@
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
@@ -605,7 +601,7 @@
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Kyaani",
         "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
@@ -641,7 +637,27 @@
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "BESTIE",
         "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Don't Stopp",
         "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Wangi",
         "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
@@ -729,23 +745,7 @@
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Bulamu",
-        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Bulamu",
-      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
@@ -761,23 +761,23 @@
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+        "name": "Bulamu",
+        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
+      "duration_ms": 193246,
+      "name": "Bulamu",
+      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Plan Ki",
         "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
@@ -793,23 +793,39 @@
       "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
         }
       ],
-      "duration_ms": 178754,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Kikole",
+        "url": "https://open.spotify.com/album/6zjT5qOYSFJW281jDar3Nl"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Kikole",
+      "url": "https://open.spotify.com/track/4KO61HENYNzhcyH5zsSXxo"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
@@ -829,7 +845,23 @@
       "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
+    },
+    {
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Nkuwe",
         "url": "https://open.spotify.com/album/0NCH2uXILthFXbMHXy9y3C"
@@ -849,23 +881,7 @@
       "url": "https://open.spotify.com/track/1HpwWfZHCFkouqIWKxLntF"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "4 U",
         "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
@@ -881,27 +897,7 @@
       "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
-      "added_at": "2023-05-26 13:11:58",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
-      },
-      "artists": [
-        {
-          "name": "Mugaba",
-          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
-        },
-        {
-          "name": "Amani Greene",
-          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
-        }
-      ],
-      "duration_ms": 184778,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
-    },
-    {
-      "added_at": "2023-05-26 13:11:58",
+      "added_at": "2023-06-02 16:13:50",
       "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"

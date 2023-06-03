@@ -4,7 +4,7 @@
 
 > 
 
-213 songs - 13 hr 32 min
+214 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Augneblink](https://open.spotify.com/track/531fxFOCsBCuHcEeTjei6D) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Alt vi har kjært](https://open.spotify.com/album/3IFHntkbXihZ5r7JkrfyVu) | 4:00 | 2022-03-23 | 2022-06-21 |
 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 | 2022-07-14 | 2023-03-23 |
 | [Bak En Sky Heim](https://open.spotify.com/track/4tNknyVhJDxgQxjCZEoqfN) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/5AkevgUX9GarMJnqW8xV3F) | 4:34 | 2021-12-16 | 2022-07-29 |
+| [Bak En Sky Heim](https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S) | 4:34 | 2023-06-01 |  |
 | [Baklengs ombord](https://open.spotify.com/track/4eUlDBi2cXnnzbcyboq85B) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Baklengs ombord](https://open.spotify.com/album/6HUiML7VO1cx3OFKFIE4Av) | 3:48 | 2022-03-23 | 2022-07-20 |
 | [Balladen om Jonas Falch](https://open.spotify.com/track/5abeWSVef47zFitVZVINU3) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Balladen om Jonas Falch](https://open.spotify.com/album/2MjeGxxwzdEZYgUlmdStHg) | 4:37 | 2022-01-20 | 2022-06-16 |
 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 | 2021-12-16 |  |
@@ -140,7 +141,7 @@
 | [La oss ta en idealist](https://open.spotify.com/track/7sW9cHKbqoR9e8eL8M5uP0) | [Doddo](https://open.spotify.com/artist/7gWtJcbCpqPRWhvtGo9n1k) | [La oss ta en idealist](https://open.spotify.com/album/5ojGw9GLoqjqfb0hLJGb45) | 4:10 | 2022-01-27 | 2022-07-25 |
 | [Lilla vackra Anna](https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an) | [Kom ut kom fram](https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF) | 3:46 | 2021-12-16 | 2022-07-28 |
 | [Linns vise](https://open.spotify.com/track/6gJu24OVK2qn8lSDhJwJOm) | [Trygve Kongshavn](https://open.spotify.com/artist/5OY2ooNpDtsieQ9ZoOx7W5) | [Linns vise](https://open.spotify.com/album/3ywfU2tolFCerdZYxqAQgO) | 3:43 | 2022-02-17 | 2022-05-12 |
-| [Lite og stort](https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn) | 3:11 | 2021-12-16 |  |
+| [Lite og stort](https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Henda i været](https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn) | 3:11 | 2021-12-16 | 2023-06-03 |
 | [Liten fuggel](https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Liten fuggel \(Med kommentarer\)](https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr) | 3:11 | 2021-12-16 |  |
 | [Livet Mitt](https://open.spotify.com/track/14TheOeTxRnFLL8LaTPvuj) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [Livet Mitt](https://open.spotify.com/album/20jnCsnuoAuuOokrknak3H) | 3:25 | 2022-03-23 | 2022-04-18 |
 | [Løvblad i vinden](https://open.spotify.com/track/38J3Av5XTtizhvtOHUDE1o) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Løvblad i vinden](https://open.spotify.com/album/28PEXasrDwsRhOOxovjXIk) | 3:17 | 2021-12-16 | 2022-07-23 |

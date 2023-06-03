@@ -4,12 +4,12 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-332 songs - 18 hr 42 min
+333 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(De\)Compondo](https://open.spotify.com/track/4XoZgHircnTj5lssYHZuCH) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [\(De\)Compondo](https://open.spotify.com/album/3Q4UvfGokdFcKVxtRA24xn) | 3:44 | 2022-01-14 | 2022-12-31 |
-| [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 | 2022-04-01 |  |
+| [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 | 2022-04-01 | 2023-06-03 |
 | [A Dança do Zumbi](https://open.spotify.com/track/50TDFbEa54FuDXJN8bVX88) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Jonnata Doll e os Garotos Solventes](https://open.spotify.com/artist/3DHVqqLBXA0dtRkBT2UGrP) | [A Dança do Zumbi](https://open.spotify.com/album/6gREtJ5C3QRq5zwCCBqrLn) | 2:21 | 2022-05-13 | 2022-05-20 |
 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 | 2023-03-17 |  |
 | [A Lanterna](https://open.spotify.com/track/61xLUyCTm7FVbzQUO7ihg6) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [A Lanterna](https://open.spotify.com/album/2wv7RXiKwdUu4si362Dj3P) | 1:35 | 2022-01-14 | 2023-02-11 |
@@ -242,6 +242,7 @@
 | [Passageira](https://open.spotify.com/track/4mkYd2T8dbLG6KtyT7Zh9F) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Passageira](https://open.spotify.com/album/7FPnMFyWc8gw6doOkUVmly) | 3:48 | 2022-05-20 | 2022-07-09 |
 | [Pedra Polida](https://open.spotify.com/track/2Kc293UYOGPGIt9AmrBw5h) | [Silvério Pessoa](https://open.spotify.com/artist/5sUkqENZZVzvZrlCjMRQVe), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Sangue de Amor](https://open.spotify.com/album/2WGtQ9Mgnjw1mycBqZp3US) | 3:29 | 2022-04-08 | 2022-04-16 |
 | [Pegada Colada](https://open.spotify.com/track/0iQCjbuMMyeOCZtnKJcdQu) | [Camarones Orquestra Guitarrística](https://open.spotify.com/artist/1lgCw7strGg0tVjf13Ou4Q) | [Pegada Colada](https://open.spotify.com/album/04siOqdLoFOK4eUyA1FacT) | 2:01 | 2022-01-14 | 2022-02-19 |
+| [Pensando No Oceano](https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [As Cartas Que Eu Nunca Enviei](https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4) | 4:38 | 2023-06-02 |  |
 | [Perfeição](https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Perfeição](https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF) | 4:15 | 2022-10-14 |  |
 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 | 2022-01-14 | 2023-04-06 |
 | [Permita\-Se](https://open.spotify.com/track/2Fb72sBmDASbLhiuTEjTxW) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [A Vida Sempre Se Vai, Ela Nunca Volta](https://open.spotify.com/album/12d5gyh018ffIjCvn0LnrS) | 3:11 | 2023-01-27 | 2023-04-15 |
